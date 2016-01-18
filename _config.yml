@@ -1,0 +1,13 @@
+layout_spectrum: 0.7023766
+color:
+  saturation: 0.5902205
+  lightness: 0.2480263
+  brandStrength: 0.4928315
+  brandColors:
+    - '#070707'
+    - '#F7931A'
+    - '#3B2307'
+    - '#C67615'
+  rhythmicContrast: 0.6862096
+typography_spectrum: 0.3835126
+name: gigabitcoin
