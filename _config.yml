@@ -1,13 +1,3 @@
-color:
-  saturation: 0.5902205
-  brandStrength: 0.4928315
-  rhythmicContrast: 0.6862096
-  brandColors:
-    - '#070707'
-    - '#F7931A'
-    - '#3B2307'
-    - '#C67615'
-  lightness: 0.2480263
 collections:
   - index:
       path: /
@@ -20,6 +10,16 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.7023766
 typography_spectrum: 0.3835126
+color:
+  saturation: 0.5902205
+  brandStrength: 0.4928315
+  rhythmicContrast: 0.6862096
+  brandColors:
+    - '#070707'
+    - '#F7931A'
+    - '#3B2307'
+    - '#C67615'
+  lightness: 0.2480263
+layout_spectrum: 0.6344086
 name: gigabitcoin
