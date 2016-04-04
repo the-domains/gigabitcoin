@@ -1,3 +1,7 @@
+name: gigabitcoin
+favicon: null
+layout_spectrum: 0.6344086
+typography_spectrum: 0.3835126
 collections:
   - index:
       path: /
@@ -10,16 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.3835126
+title: big on bitcoin
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-75964440-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5902205
-  brandStrength: 0.4928315
-  rhythmicContrast: 0.6862096
   brandColors:
     - '#070707'
     - '#F7931A'
     - '#3B2307'
     - '#C67615'
+  brandStrength: 0.4928315
   lightness: 0.2480263
-layout_spectrum: 0.6344086
-name: gigabitcoin
+  saturation: 0.5902205
+  rhythmicContrast: 0.6862096
+purpose: []
