@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 18:06:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 19:06:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Could Consume as Much Energy as Denmark by 2020 - Breitbart]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Could Consume as Much Energy as Denmark by 2020 - Breitbart</h1><p>Analysts are calling the cryptocurrency's current consumption of energy unsustainable and suggesting that if the currency is to survive, it will have to adopt new energy-efficient technology. Researcher Sebastiaan Deetman came to the conclusion that at bitcoin's current level of expansion, it will require 14 gigawatts of electricity to run by the year 2020 - an amount of energy equivalent to that of a small country, like Denmark.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/908efd874acaccc6d69490532dc5700e2142d047.png"></article>]]></description>
+            <link>http://www.breitbart.com/tech/2016/04/03/bitcoin-could-consume-as-much-energy-as-denmark-by-2020/</link>
+            <guid isPermaLink="false">99268ab1-3507-4474-9b5a-1d966fdc789e</guid>
+            <pubDate>Tue, 05 Apr 2016 19:06:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Core Launches 'Sponsorship Programme' to Fund Development and More]]></title>
             <description><![CDATA[<article><h1>Bitcoin Core Launches 'Sponsorship Programme' to Fund Development and More</h1><p>The Bitcoin Core development team launched a " Sponsorship Programme " on Monday that intends to provide an easy access point for the Bitcoin industry to support Bitcoin's long-time reference client with both funding and other types of contributions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45c4140d7356a1fb1e8130d2cc8383b164c80fef.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.theregister.co.uk/2016/04/05/red_hat_blockchain_experiments/</link>
             <guid isPermaLink="false">c4c8fc89-a7d0-42ef-976a-e2ab1302b877</guid>
             <pubDate>Tue, 05 Apr 2016 16:33:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brock Pierce: Bitcoin's Scalability Issues Are a Sign of Its Success]]></title>
-            <description><![CDATA[<article><h1>Brock Pierce: Bitcoin's Scalability Issues Are a Sign of Its Success</h1><p>While many people take the view that Bitcoin is dying or failing due to its current issues with governance and scalability, Blockchain Capital founder and managing partner Brock Pierce believes this current controversy is a good sign.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b71f129783347bcaa2a3b232ce31faa370eaf5a.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/brock-pierce-bitcoin-s-scalability-issues-are-a-sign-of-its-success-1459867433</link>
-            <guid isPermaLink="false">83166f24-e5d0-44b0-90e2-ac9756e1fdc1</guid>
-            <pubDate>Tue, 05 Apr 2016 15:44:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
