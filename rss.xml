@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 16:34:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 18:06:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Exchange Coinmotion Announces Zero-Commission Trading Run]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Exchange Coinmotion Announces Zero-Commission Trading Run</h1><p>European bitcoin exchange Coinmotion has announced a campaign which will see the exchange process orders with zero percent commission up to April 18. Finnish cryptocurrency exchange and wallet service provider Coinmotion has revealed a new campaign wherein customers will have to pay zero commission fee for orders processed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e1601f313e0aba4cc46811f85ab63488e84d939.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-exchange-coinmotion-announces-zero-commission-trading-run/</link>
+            <guid isPermaLink="false">64850ebf-374f-46e2-9e6f-8965a9bba5cc</guid>
+            <pubDate>Tue, 05 Apr 2016 18:05:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Where did the idea of blockchain come from? Git was already used it since 2005]]></title>
             <description><![CDATA[<article><h1>Where did the idea of blockchain come from? Git was already used it since 2005</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top guys, In blockchain, each block's hash is computed with the previous block's hash, that makes all blocks an immutable chain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.cryptocoinsnews.com/erasing-bitcoins-history/</link>
             <guid isPermaLink="false">f56df238-e674-4d60-ae3e-45433f3c68fb</guid>
             <pubDate>Tue, 05 Apr 2016 14:24:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australian Bitcoin Entrepreneur Launches Robo-Advice Platform]]></title>
-            <description><![CDATA[<article><h1>Australian Bitcoin Entrepreneur Launches Robo-Advice Platform</h1><p>It is no secret bitcoin entrepreneurs and startups have a vested interest in disrupting the financial system as we know and use it to this very day. Although not everyone may know the name Zhenya Tsvetnenko, this Australian Bitcoin entrepreneur has joined forces with David Pettit to form a new robo-advice platform.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/073a1d2a9e7b23b3e746e6f677e4d81b2da08b9c.png"></article>]]></description>
-            <link>http://bitcoinist.net/australian-bitcoin-entrepreneur-launches-robo-advice-platform/</link>
-            <guid isPermaLink="false">0c262e5b-3b2a-43e6-abda-86336b1797a9</guid>
-            <pubDate>Tue, 05 Apr 2016 13:12:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
