@@ -4,11 +4,18 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 14:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 15:45:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Brock Pierce: Bitcoin's Scalability Issues Are a Sign of Its Success]]></title>
+            <description><![CDATA[<article><h1>Brock Pierce: Bitcoin's Scalability Issues Are a Sign of Its Success</h1><p>While many people take the view that Bitcoin is dying or failing due to its current issues with governance and scalability, Blockchain Capital founder and managing partner Brock Pierce believes this current controversy is a good sign.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b71f129783347bcaa2a3b232ce31faa370eaf5a.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/brock-pierce-bitcoin-s-scalability-issues-are-a-sign-of-its-success-1459867433</link>
+            <guid isPermaLink="false">83166f24-e5d0-44b0-90e2-ac9756e1fdc1</guid>
+            <pubDate>Tue, 05 Apr 2016 15:44:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Erasing Bitcoin's History]]></title>
-            <description><![CDATA[<article><h1>Erasing Bitcoin's History</h1><p>Bitcoin prides itself on decentralization. Ironically, much of the knowledge-base which has heretofore fueled the network's information channels is consolidated in relatively few places. Much of the history of Bitcoin is stored online and at very few sites.</p><img src="https://www.cryptocoinsnews.com/wp-content/uploads/2016/04/Pencil-and-eraser.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Erasing Bitcoin's History</h1><p>Bitcoin prides itself on decentralization. Ironically, much of the knowledge-base which has heretofore fueled the network's information channels is consolidated in relatively few places. Much of the history of Bitcoin is stored online and at very few sites.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9d555a0f5d90e18ee9cc6f5f688f3dcde514b9f.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/erasing-bitcoins-history/</link>
             <guid isPermaLink="false">f56df238-e674-4d60-ae3e-45433f3c68fb</guid>
             <pubDate>Tue, 05 Apr 2016 14:24:28 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.youtube.com/watch?v=2R3Zg1KL_KE</link>
             <guid isPermaLink="false">376f5d3c-ac9c-49a2-8222-168f3e8599b3</guid>
             <pubDate>Tue, 05 Apr 2016 05:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Announcing the Bitcoin Core Sponsorship Programme]]></title>
-            <description><![CDATA[<article><h1>Announcing the Bitcoin Core Sponsorship Programme</h1><p>Today we are happy to announce the launch of the Bitcoin Core Sponsorship Programme for the Bitcoin industry. The programme provides a direct way for industry to get involved with Bitcoin Core by facilitating specific projects, research, and development; as well as to help with often overlooked aspects of the project like communication, infrastructure and project coordination.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/464820adb2f8a2960f6c8019e9ece90b47bf42b5.jpg"></article>]]></description>
-            <link>https://bitcoincore.org/en/2016/04/04/announcing_sponsorship_programme/</link>
-            <guid isPermaLink="false">bbccf08e-1d68-4c4e-8e22-0e76a363e807</guid>
-            <pubDate>Tue, 05 Apr 2016 04:38:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
