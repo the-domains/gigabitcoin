@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 13:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 13:12:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wiper Messaging Offers Bitcoin Payments To Filmmakers]]></title>
+            <description><![CDATA[<article><h1>Wiper Messaging Offers Bitcoin Payments To Filmmakers</h1><p>Wiper, an encrypted mobile messaging app with a built-in bitcoin wallet, has released a new functionality called Wiper Film that allows users to view films and allows online digital content providers to monetize their content by accepting bitcoin, according to Nasdaq.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/345a8c47b523ee006312099c22bc157cb4ee125c.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/wiper-messaging-offers-bitcoin-payments-filmmakers/</link>
+            <guid isPermaLink="false">5763ce20-2c3c-4a74-aeaa-500ea2087397</guid>
+            <pubDate>Tue, 05 Apr 2016 13:12:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why OpenBazaar Is Not Your Average Bitcoin Marketplace]]></title>
             <description><![CDATA[<article><h1>Why OpenBazaar Is Not Your Average Bitcoin Marketplace</h1><p>Although there is a lot of competition in the world of online marketplaces, OpenBazaar feels they will have a leg up over their competitors. OpenBazaar is one of those projects Bitcoin and blockchain enthusiasts have been looking forward to for quite a long time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/81ba917e6fa1965f50d5cf4a770dfeaea8a3b97b.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/openbazaar/status/717051165700128768</link>
             <guid isPermaLink="false">89ce7d69-9f24-4219-be4c-e23e1f2d7316</guid>
             <pubDate>Tue, 05 Apr 2016 03:35:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Hello World!</p>]]></description>
-            <link>https://thegrid.ai/gigabitcoin/3c7e805c-93f5-447c-85db-e8e585b79c2a/index.html</link>
-            <guid isPermaLink="false">3c7e805c-93f5-447c-85db-e8e585b79c2a</guid>
-            <pubDate>Sun, 13 Mar 2016 02:37:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
