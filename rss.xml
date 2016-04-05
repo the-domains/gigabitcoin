@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 06:37:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 06:37:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SovereignBTC #85 Darin Stanchfield of KeepKey Hardware Wallet]]></title>
+            <description><![CDATA[<article><h1>SovereignBTC #85 Darin Stanchfield of KeepKey Hardware Wallet</h1><p>In this episode of SovereignBTC, John Bush talks with Darin Stanchfield, founder of KeepKey. KeepKey is a hardware bitcoin wallet that allows you to safely sign bitcoin transactions without your private keys every touching the internet. In the interview we talk about the ins and outs of a KeepKey wallet, how Darin got involved in Bitcoin, and why he started KeepKey.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6e1e136a8f0dcbcce758227da82c54c6346dc59.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/sovereignbtc-85</link>
+            <guid isPermaLink="false">c2e06a10-23dc-44c1-8c1b-cbde7e1238ce</guid>
+            <pubDate>Tue, 05 Apr 2016 06:36:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wiper Messaging App Adds Bitcoin Micropayments for Independent Filmmakers]]></title>
             <description><![CDATA[<article><h1>Wiper Messaging App Adds Bitcoin Micropayments for Independent Filmmakers</h1><p>Wiper is an encrypted mobile messenger with a built-in Bitcoin wallet that allows users to send and receive Bitcoin instantaneously, directly from the mobile application. Using its Bitcoin wallet, Wiper recently launched a new functionality called Wiper Film to help filmmakers and online digital content providers monetize their content and maximize their profit with Bitcoin micropayments.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ed59ff0d91cf99a79943b4fd7838e9779f6327f.jpg"></article>]]></description>
