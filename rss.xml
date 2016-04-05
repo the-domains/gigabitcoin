@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 15:45:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 16:33:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Wallet Startup Now Extending Credit to Users - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Wallet Startup Now Extending Credit to Users - CoinDesk</h1><p>Bitcoin payments startup BitPagos is now giving its wallet users access to credit through its Ripio wallet offering. At launch, the offering will be available to a select number of users in Argentina, who will be able to borrow between $500 and $1,000 in bitcoin directly from the service, with credit extended based on the user's annual salary.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ba6dcd3d75d026a6adbc3a8024ddd98c679440a.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/bitpagos-bitcoin-wallet-credit/</link>
+            <guid isPermaLink="false">9ec0b395-205e-4bcd-bb68-796f8454c0ce</guid>
+            <pubDate>Tue, 05 Apr 2016 16:33:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Not Bitcoin, but close: Red Hat and Microsoft bite into blockchain tech]]></title>
+            <description><![CDATA[<article><h1>Not Bitcoin, but close: Red Hat and Microsoft bite into blockchain tech</h1><p>Red Hat is offering upstart financial types the opportunity to play with blockchain tech on its OpenShift platform. The news comes a day after Microsoft struck a deal to investigate blockchain tech in partnership with major financial institutions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a8a528586c4267894d6fd178e8631bcd4e2c10f.jpg"></article>]]></description>
+            <link>http://www.theregister.co.uk/2016/04/05/red_hat_blockchain_experiments/</link>
+            <guid isPermaLink="false">c4c8fc89-a7d0-42ef-976a-e2ab1302b877</guid>
+            <pubDate>Tue, 05 Apr 2016 16:33:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Brock Pierce: Bitcoin's Scalability Issues Are a Sign of Its Success]]></title>
             <description><![CDATA[<article><h1>Brock Pierce: Bitcoin's Scalability Issues Are a Sign of Its Success</h1><p>While many people take the view that Bitcoin is dying or failing due to its current issues with governance and scalability, Blockchain Capital founder and managing partner Brock Pierce believes this current controversy is a good sign.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b71f129783347bcaa2a3b232ce31faa370eaf5a.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin and the coming "Infrastructure Inversion" - Zurich Meetup March 2016</h1><p>A talk by Andreas M. Antonopoulos about how new technologies are initially built on old infrastructures until an "infrastructure inversion" happens and they replace the old infrastructure. Comparisons to the automobile, electricity and internet explain the concept and predict a similar future for bitcoin and financial infrastructure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e627f9a109c14190964bb9f51120c1307b670f5.jpg"></article>]]></description>
             <link>http://www.youtube.com/watch?v=5ca70mCCf2M</link>
             <guid isPermaLink="false">ecd32000-a545-45be-a917-ca17b59bb9d9</guid>
-            <pubDate>Tue, 05 Apr 2016 05:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BBT Episode 26: Multiple Ethereum Rigs ! R9 285OC, R9 380x, R9 295x2, R9 Fury, R9 Nano and R9 390]]></title>
-            <description><![CDATA[<article><h1>BBT Episode 26: Multiple Ethereum Rigs ! R9 285OC, R9 380x, R9 295x2, R9 Fury, R9 Nano and R9 390</h1><p>BBT Back with a full episode covering basic overview of Ethereum and its backstory regarding mining. In edition Multiple rigs covered in episode.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5cf616a98230a75d92bb9998ebbfb71080e52314.jpg"></article>]]></description>
-            <link>http://www.youtube.com/watch?v=6-7HPSreJtM</link>
-            <guid isPermaLink="false">90f95476-959c-4d6e-b855-3e5c647d45b4</guid>
-            <pubDate>Tue, 05 Apr 2016 05:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Does Bitcoin have an intrinsic value?]]></title>
-            <description><![CDATA[<article><h1>Does Bitcoin have an intrinsic value?</h1><p>This is educational video series explaining common stumble blocks and misconceptions about Bitcoin! This video is genereously sponsored by http://BitBiz.io - the cryptocurrency business forum where you become share-holder and earn money just by participating! Contact us to sponsor another one!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/760a737b687f7981b3e8c661d5820bb5b207d8bd.jpg"></article>]]></description>
-            <link>http://www.youtube.com/watch?v=2R3Zg1KL_KE</link>
-            <guid isPermaLink="false">376f5d3c-ac9c-49a2-8222-168f3e8599b3</guid>
             <pubDate>Tue, 05 Apr 2016 05:29:08 GMT</pubDate>
         </item>
     </channel>
