@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 18:06:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 18:06:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Core Launches 'Sponsorship Programme' to Fund Development and More]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Core Launches 'Sponsorship Programme' to Fund Development and More</h1><p>The Bitcoin Core development team launched a " Sponsorship Programme " on Monday that intends to provide an easy access point for the Bitcoin industry to support Bitcoin's long-time reference client with both funding and other types of contributions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45c4140d7356a1fb1e8130d2cc8383b164c80fef.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/bitcoin-core-launches-sponsorship-programme-to-fund-development-and-more-1459875699</link>
+            <guid isPermaLink="false">d2a0f4b6-3e41-4e9e-a65d-388c4407fd11</guid>
+            <pubDate>Tue, 05 Apr 2016 18:05:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Exchange Coinmotion Announces Zero-Commission Trading Run]]></title>
             <description><![CDATA[<article><h1>Bitcoin Exchange Coinmotion Announces Zero-Commission Trading Run</h1><p>European bitcoin exchange Coinmotion has announced a campaign which will see the exchange process orders with zero percent commission up to April 18. Finnish cryptocurrency exchange and wallet service provider Coinmotion has revealed a new campaign wherein customers will have to pay zero commission fee for orders processed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e1601f313e0aba4cc46811f85ab63488e84d939.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://bitcoinmagazine.com/articles/brock-pierce-bitcoin-s-scalability-issues-are-a-sign-of-its-success-1459867433</link>
             <guid isPermaLink="false">83166f24-e5d0-44b0-90e2-ac9756e1fdc1</guid>
             <pubDate>Tue, 05 Apr 2016 15:44:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Erasing Bitcoin's History]]></title>
-            <description><![CDATA[<article><h1>Erasing Bitcoin's History</h1><p>Bitcoin prides itself on decentralization. Ironically, much of the knowledge-base which has heretofore fueled the network's information channels is consolidated in relatively few places. Much of the history of Bitcoin is stored online and at very few sites.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9d555a0f5d90e18ee9cc6f5f688f3dcde514b9f.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/erasing-bitcoins-history/</link>
-            <guid isPermaLink="false">f56df238-e674-4d60-ae3e-45433f3c68fb</guid>
-            <pubDate>Tue, 05 Apr 2016 14:24:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
