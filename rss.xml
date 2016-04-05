@@ -7,6 +7,13 @@
         <lastBuildDate>Tue, 05 Apr 2016 16:33:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[EB125 - Florian Glatz: Defining A Legal Framework For Decentralized Autonomous Organizations (DAO)]]></title>
+            <description><![CDATA[<article><h1>EB125 - Florian Glatz: Defining A Legal Framework For Decentralized Autonomous Organizations (DAO)</h1><p>The relatively new concept of a Decentralized Autonomous Organization (DAO), is often praised as a new type of organizational structure that has no identifiable owner or owners, and whose actions are automated and determined solely by a pre-defined set of rules. Views on DAOs differ widely.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/649c5279b90c7b2a9786abfe2c6e486b5a2fbbf6.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/epicenter-bitcoin-125-florian-glatz-defining-a-legal-framework-for-decentralized-autonomous-organizations-dao</link>
+            <guid isPermaLink="false">308813f4-c8d3-4a34-b4ea-78a4031f7a3e</guid>
+            <pubDate>Tue, 05 Apr 2016 16:33:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bitcoin Wallet Startup Now Extending Credit to Users - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Bitcoin Wallet Startup Now Extending Credit to Users - CoinDesk</h1><p>Bitcoin payments startup BitPagos is now giving its wallet users access to credit through its Ripio wallet offering. At launch, the offering will be available to a select number of users in Argentina, who will be able to borrow between $500 and $1,000 in bitcoin directly from the service, with credit extended based on the user's annual salary.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ba6dcd3d75d026a6adbc3a8024ddd98c679440a.jpg"></article>]]></description>
             <link>http://www.coindesk.com/bitpagos-bitcoin-wallet-credit/</link>
@@ -68,13 +75,6 @@
             <link>https://bitcoinmagazine.com/articles/wiper-messaging-app-adds-bitcoin-micropayments-for-independent-filmmakers-1459782760</link>
             <guid isPermaLink="false">6bc19cc3-3e8d-4103-a82f-051b82f16888</guid>
             <pubDate>Tue, 05 Apr 2016 06:36:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin and the coming "Infrastructure Inversion" - Zurich Meetup March 2016]]></title>
-            <description><![CDATA[<article><h1>Bitcoin and the coming "Infrastructure Inversion" - Zurich Meetup March 2016</h1><p>A talk by Andreas M. Antonopoulos about how new technologies are initially built on old infrastructures until an "infrastructure inversion" happens and they replace the old infrastructure. Comparisons to the automobile, electricity and internet explain the concept and predict a similar future for bitcoin and financial infrastructure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e627f9a109c14190964bb9f51120c1307b670f5.jpg"></article>]]></description>
-            <link>http://www.youtube.com/watch?v=5ca70mCCf2M</link>
-            <guid isPermaLink="false">ecd32000-a545-45be-a917-ca17b59bb9d9</guid>
-            <pubDate>Tue, 05 Apr 2016 05:29:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
