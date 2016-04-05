@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 20:52:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 20:53:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Trading Platform ZeroBlock to Close - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Trading Platform ZeroBlock to Close - CoinDesk</h1><p>Bitcoin trading platform ZeroBlock is closing down on Thursday, according to a notice posted to the service's website. A separate notice displayed to trading platform users advised revoking "any API keys from your exchange service", stating that the ZeroBlock database will be wiped after the shut down on 7th April.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03c6e164b1bd35275103506ef2a00c4d8e287a09.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/bitcoin-trading-platform-zeroblock-close-week/</link>
+            <guid isPermaLink="false">0712a602-0a89-4582-bf20-5839812066f4</guid>
+            <pubDate>Tue, 05 Apr 2016 20:52:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nvidia's New Pascal GPU Architecture With Tesla P100]]></title>
             <description><![CDATA[<article><h1>Nvidia's New Pascal GPU Architecture With Tesla P100</h1><p>Today at the 2016 GPU Technology Conference in San Jose, Nvidia has announced their new Tesla P100 GPU for computing - the first one based on the next generation GPU architecture of the company that is coming to succeed the current Maxwell architecture.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b933f775f59542ec497bf29fb764b3033d4076e.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The Panama Papers and Questions on Conventional Banking - Bitwala</h1><p>It's the start of the week and the world has been hit by arguably the largest data leaks in history: The Panama Papers. The Panama Papers consists of leaked data from Mossack Fonseca (Mossfon), a Panamanian law firm/offshore provider. Leaked documents shows that Mossack Fonseca has worked together with clients to launder money, shield off wealth, skirt around ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52e48889768c2348e77d6a96b11c1f1a3ba02530.jpg"></article>]]></description>
             <link>http://about.bitwa.la/panama-papers-questions-conventional-banking/</link>
             <guid isPermaLink="false">e8161c3e-975e-4cc9-92ba-55d4e6df0f60</guid>
-            <pubDate>Tue, 05 Apr 2016 16:33:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EB125 - Florian Glatz: Defining A Legal Framework For Decentralized Autonomous Organizations (DAO)]]></title>
-            <description><![CDATA[<article><h1>EB125 - Florian Glatz: Defining A Legal Framework For Decentralized Autonomous Organizations (DAO)</h1><p>The relatively new concept of a Decentralized Autonomous Organization (DAO), is often praised as a new type of organizational structure that has no identifiable owner or owners, and whose actions are automated and determined solely by a pre-defined set of rules. Views on DAOs differ widely.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/649c5279b90c7b2a9786abfe2c6e486b5a2fbbf6.jpg"></article>]]></description>
-            <link>https://letstalkbitcoin.com/blog/post/epicenter-bitcoin-125-florian-glatz-defining-a-legal-framework-for-decentralized-autonomous-organizations-dao</link>
-            <guid isPermaLink="false">308813f4-c8d3-4a34-b4ea-78a4031f7a3e</guid>
             <pubDate>Tue, 05 Apr 2016 16:33:10 GMT</pubDate>
         </item>
     </channel>
