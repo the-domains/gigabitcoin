@@ -1,7 +1,7 @@
 name: gigabitcoin
 favicon: null
 layout_spectrum: 0.6344086
-typography_spectrum: 0.3835126
+typography_spectrum: 0.43168
 collections:
   - index:
       path: /
