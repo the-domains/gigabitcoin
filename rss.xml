@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 03:36:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 03:36:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://imgur.com/GlkGJ2G.jpg"></article>]]></description>
+            <link>http://i.imgur.com/GlkGJ2G.jpg</link>
+            <guid isPermaLink="false">d0661f53-ebcd-448b-9ef8-2ad10f537473</guid>
+            <pubDate>Wed, 06 Apr 2016 03:36:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Passionate About Machines, Prof. Explains Online Currency Bitcoin]]></title>
             <description><![CDATA[<article><h1>Passionate About Machines, Prof. Explains Online Currency Bitcoin</h1><p>Cameron Pollack / Sun Photography Editor Ever since he was introduced to his father's 'adding machine,' Associate Professor Emin Sirer Gün Sirer, computer science, said he has been fascinated by the inner workings of computing machines and systems. "Every time I teach, there have been certain revelations about basic things that people have seen all their lives about how computers work that they took for granted, and they never really quite understood," Sirer said.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a13094087f978935def0ce09ea2b74e3064dbc3.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Where did the idea of blockchain come from? Git was already used it since 2005</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top guys, In blockchain, each block's hash is computed with the previous block's hash, that makes all blocks an immutable chain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/43624/where-did-the-idea-of-blockchain-come-from-git-was-already-used-it-since-2005</link>
             <guid isPermaLink="false">bd14f776-b35f-430d-b54c-4b3edce3960d</guid>
-            <pubDate>Tue, 05 Apr 2016 16:33:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Technology and Choice #02, Revenge of the Social Media Zombies]]></title>
-            <description><![CDATA[<article><h1>Technology and Choice #02, Revenge of the Social Media Zombies</h1><p>In this Episode What's up with social media and what does it have to do with zombies? You'll just have to listen. Music Music for this episode: SafeProject, an original piece composed and performed by Nicholas Koteskey of Two Faced Heroes Links Midwest Journal Press Crossroads of Project SAFE [Revenge of the Social Media Zombies](http://livesensical.com/podcast/selling-...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05a7d8dfdc107dfb7daa09f56dc18db34e05bf8f.jpg"></article>]]></description>
-            <link>https://letstalkbitcoin.com/blog/post/technology-and-choice-02-revenge-of-the-social-media-zombies</link>
-            <guid isPermaLink="false">04184b08-d288-4b8b-b087-e5e0a9457bc7</guid>
             <pubDate>Tue, 05 Apr 2016 16:33:10 GMT</pubDate>
         </item>
     </channel>
