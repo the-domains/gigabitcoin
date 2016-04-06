@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 20:32:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 20:32:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Slow Boating]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Slow Boating</h1><p>Bitcoin price printed a mediocre move during this week's first two days of trading by reaching above $420 (Bitstamp). The move now looks to be keeling over, and we should see a small sell-off to local support. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ccbd529fa724fe411f631afbfc62b800733864a.png"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-price-slow-boating/</link>
+            <guid isPermaLink="false">a426b36c-d8d3-41e0-b61c-cbe7a7915bba</guid>
+            <pubDate>Wed, 06 Apr 2016 20:32:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Who Funds Bitcoin Core Development? How the Industry Supports Bitcoin's 'Reference Client']]></title>
             <description><![CDATA[<article><h1>Who Funds Bitcoin Core Development? How the Industry Supports Bitcoin's 'Reference Client'</h1><p>Funding Bitcoin development seems to have always been problematic. While the Bitcoin industry collectively has raised more than a billion dollars worth of investment over the past years, development of the Free and Open Source Software the industry largely relies on has always had trouble gathering sufficient funds and manpower for development.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f76bf762e2e66553da7ea80f04ae537d4dc0e74c.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Court appoints receiver in ongoing case against failed Bitcoin exchange Cryptsy</h1><p>In a positive sign for victims of failed Bitcoin exchange Cryptsy (Project Investors, Inc.) a court has taken possession of the company's assets, appointed a receiver and has suspended all powers of the company's agents, employees, officers, and directors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/77c8a98b5c939da13788dbc603cb7db119ac625e.jpg"></article>]]></description>
             <link>http://siliconangle.com/blog/2016/04/05/court-appoints-receiver-in-ongoing-case-against-failed-bitcoin-exchange-cryptsy/</link>
             <guid isPermaLink="false">cf983d95-a85c-4b77-aea1-86659c193fd3</guid>
-            <pubDate>Wed, 06 Apr 2016 12:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blocks are a measure of time: Introducing the Bitcoin Blockchain 'B-WAP']]></title>
-            <description><![CDATA[<article><h1>Blocks are a measure of time: Introducing the Bitcoin Blockchain 'B-WAP'</h1><p>Here's one for all you Blockchain Geeks, App Developers and Traders who love novel data-sets & API's. The "block weighted average price", or ' B-WAP', is a new indicator, price discovery mechanism, data-set and API. This is done using BNC's Bitcoin Liquid Index (BLX).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e82c6e4af96a00a1cb351554c9bd400d3cc13b61.gif"></article>]]></description>
-            <link>http://bravenewcoin.com/news/blocks-are-a-measure-of-time-introducing-the-bitcoin-blockchain-b-wap/</link>
-            <guid isPermaLink="false">6d448399-98bc-49ff-867e-5aa58bc4aa91</guid>
             <pubDate>Wed, 06 Apr 2016 12:03:40 GMT</pubDate>
         </item>
     </channel>
