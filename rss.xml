@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 16:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 20:32:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Who Funds Bitcoin Core Development? How the Industry Supports Bitcoin's 'Reference Client']]></title>
+            <description><![CDATA[<article><h1>Who Funds Bitcoin Core Development? How the Industry Supports Bitcoin's 'Reference Client'</h1><p>Funding Bitcoin development seems to have always been problematic. While the Bitcoin industry collectively has raised more than a billion dollars worth of investment over the past years, development of the Free and Open Source Software the industry largely relies on has always had trouble gathering sufficient funds and manpower for development.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f76bf762e2e66553da7ea80f04ae537d4dc0e74c.jpg"></article>]]></description>
+            <link>http://www.nasdaq.com/article/who-funds-bitcoin-core-development-how-the-industry-supports-bitcoins-reference-client-cm602664</link>
+            <guid isPermaLink="false">6066f9a8-825c-4c22-a5fc-c694cb5207f5</guid>
+            <pubDate>Wed, 06 Apr 2016 20:32:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Craig Wright Reportedly Set To Prove He Is Bitcoin Creator Satoshi Nakamoto]]></title>
             <description><![CDATA[<article><h1>Craig Wright Reportedly Set To Prove He Is Bitcoin Creator Satoshi Nakamoto</h1><p>April 5th was Satoshi Nakamoto's birthday. The anonymous founder of bitcoin was born on this day in 1975, according to an online profile, meaning Tuesday would have been his 41st birthday. And yet according to a report in the Financial Times, the mysterious bitcoin creator is planning reveal his identity once and for all.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2335c858819e7e8464abd1b2ce6e53955b9b973a.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://bravenewcoin.com/news/blocks-are-a-measure-of-time-introducing-the-bitcoin-blockchain-b-wap/</link>
             <guid isPermaLink="false">6d448399-98bc-49ff-867e-5aa58bc4aa91</guid>
             <pubDate>Wed, 06 Apr 2016 12:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="http://imgur.com/GlkGJ2G.jpg"></article>]]></description>
-            <link>http://i.imgur.com/GlkGJ2G.jpg</link>
-            <guid isPermaLink="false">d0661f53-ebcd-448b-9ef8-2ad10f537473</guid>
-            <pubDate>Wed, 06 Apr 2016 03:36:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
