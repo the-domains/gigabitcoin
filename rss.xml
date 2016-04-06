@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 12:04:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 13:11:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Barclays partners with bitcoin payments app http://on.ft.com/22bevhJ</p>]]></description>
+            <link>https://twitter.com/FinancialTimes/status/717563465766998017</link>
+            <guid isPermaLink="false">2acd48e4-2505-4539-9850-3fd23921dcb1</guid>
+            <pubDate>Wed, 06 Apr 2016 13:10:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Start-Up Gets an Electronic Money License in Britain]]></title>
             <description><![CDATA[<article><h1>Bitcoin Start-Up Gets an Electronic Money License in Britain</h1><p>The British government has pushed through its first licensing of a virtual currency company, underscoring its desire to make London a hub for the development of financial technology.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be7cc4a7d76e859a40b00d52da3875c5e1f50c37.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Trading Platform ZeroBlock to Close - CoinDesk</h1><p>Bitcoin trading platform ZeroBlock is closing down on Thursday, according to a notice posted to the service's website. A separate notice displayed to trading platform users advised revoking "any API keys from your exchange service", stating that the ZeroBlock database will be wiped after the shut down on 7th April.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03c6e164b1bd35275103506ef2a00c4d8e287a09.jpg"></article>]]></description>
             <link>http://www.coindesk.com/bitcoin-trading-platform-zeroblock-close-week/</link>
             <guid isPermaLink="false">0712a602-0a89-4582-bf20-5839812066f4</guid>
-            <pubDate>Tue, 05 Apr 2016 20:52:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nvidia's New Pascal GPU Architecture With Tesla P100]]></title>
-            <description><![CDATA[<article><h1>Nvidia's New Pascal GPU Architecture With Tesla P100</h1><p>Today at the 2016 GPU Technology Conference in San Jose, Nvidia has announced their new Tesla P100 GPU for computing - the first one based on the next generation GPU architecture of the company that is coming to succeed the current Maxwell architecture.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b933f775f59542ec497bf29fb764b3033d4076e.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7685-nvidias-new-pascal-gpu-architecture-with-tesla-p100/</link>
-            <guid isPermaLink="false">b906f3ea-b0e6-4691-a81e-5f4d15ae4d29</guid>
             <pubDate>Tue, 05 Apr 2016 20:52:21 GMT</pubDate>
         </item>
     </channel>
