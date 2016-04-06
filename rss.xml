@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 14:24:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 14:25:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin: Will It Survive 2016?]]></title>
+            <description><![CDATA[<article><h1>Bitcoin: Will It Survive 2016?</h1><p>Dual identity, battle against governments, competition from other cryptocurrencies, scalability among other factors make innovation inevitable if Bitcoin is to survive. In a Vanbex Group report of April 4 2016, Brandon Kostinuk has compared the attempt to describe Bitcoin as a currency or an investment with trying to discern whether light is a particle or a wave.</p><img src="http://cointelegraph.com/images/725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzI4OTAyMGQ2YzNhNjExY2MyYzNiMDkxNmQwMmI1MTcyLmpwZw==.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/bitcoin-will-it-survive-2016</link>
+            <guid isPermaLink="false">ad810f29-e928-4f7f-8bb4-9e2205fa12f9</guid>
+            <pubDate>Wed, 06 Apr 2016 14:24:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Barclays Is Getting Into Bitcoin With Goldman-Backed Circle]]></title>
             <description><![CDATA[<article><h1>Barclays Is Getting Into Bitcoin With Goldman-Backed Circle</h1><p>Barclays has become the first big British bank to form a partnership with a digital currency firm, social payments app Circle, which runs partly on bitcoin's blockchain network and launched in the U.K. on Wednesday. In what Britain's Treasury called a "major milestone" in its push to make the U.K.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c96af3c939b724d98a5983830044d97a4450141b.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://cornellsun.com/2016/04/05/passionate-about-machines-prof-explains-online-currency-bitcoin/</link>
             <guid isPermaLink="false">f0482d58-1891-4ae9-8101-497594277682</guid>
             <pubDate>Wed, 06 Apr 2016 03:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Faster HOdlcoin CPU Miner is Now Available]]></title>
-            <description><![CDATA[<article><h1>New Faster HOdlcoin CPU Miner is Now Available</h1><p>There is a new HOdlcoin miner fork available that is optimized by Wolf0 ( source) that should increase your performance. We have compiled a Windows binary of the new miner for both 32-bit and 64-bit Windows and we are seeing performance improvement in both with the 64-bit release showing a bit better results.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e8307233013e9c3c9a43b2a3ba0e1b95d77f5cc.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7692-new-faster-hodlcoin-cpu-miner-is-now-available/</link>
-            <guid isPermaLink="false">b434fa1a-7078-4181-b02c-74c5ba1d7c83</guid>
-            <pubDate>Wed, 06 Apr 2016 02:04:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
