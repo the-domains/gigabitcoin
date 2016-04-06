@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 20:32:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 20:33:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Lightning Network Creators: Fees Will Be Effectively Zero]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Lightning Network Creators: Fees Will Be Effectively Zero</h1><p>Roughly two months ago, Lightning Network creators Joseph Poon and Tadge Dryja visited the Coinbase offices to explain how their design works and answer some questions from Coinbase employees and executives. After an explanation of why the duo does not believe centralization via supernodes will be an issue on the network, they went into a related aspect of the system: the extremely low fees.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43046de313df345cad754c1f3e17afad1abadab7.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/bitcoin-lightning-network-creators-fees-will-be-effectively-zero-1459955513</link>
+            <guid isPermaLink="false">cdb4ad66-46fe-459b-b41c-578288c09c2b</guid>
+            <pubDate>Wed, 06 Apr 2016 20:32:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Investing Improved Last Quarter]]></title>
             <description><![CDATA[<article><h1>Bitcoin Investing Improved Last Quarter</h1><p>While Bitcoin may not have ended 2015 on a strong note, things could be turning around for the cryptocurrency. For example, Q4 was "surprisingly anemic," but the first quarter has seen $160 million in investments, according to Mattermark, citing CoinDesk figures. "Bitcoin had its best fundraising quarter in a year," Mattermark's Alex Wilhelm said.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a5f3fef0095f40ebf36a12fd9f345e6683c2627.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>CORNELL CLOSE-UPS | Passionate About Machines, Professor Explains Online Currency Bitcoin</h1><p>Cameron Pollack / Sun Photography Editor Ever since he was introduced to his father's 'adding machine,' Associate Professor Emin Sirer Gün Sirer, computer science, said he has been fascinated by the inner workings of computing machines and systems. "Every time I teach, there have been certain revelations about basic things that people have seen all their lives about how computers work that they took for granted, and they never really quite understood," Sirer said.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a13094087f978935def0ce09ea2b74e3064dbc3.jpg"></article>]]></description>
             <link>http://cornellsun.com/2016/04/06/passionate-about-machines-prof-explains-online-currency-bitcoin/</link>
             <guid isPermaLink="false">bf21edac-179f-4c14-bb99-5a52f2f63693</guid>
-            <pubDate>Wed, 06 Apr 2016 12:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcasino.io Sets Bitcoin Gambling Industry Growth Milestones]]></title>
-            <description><![CDATA[<article><h1>Bitcasino.io Sets Bitcoin Gambling Industry Growth Milestones</h1><p>April 5, 2016 /PRNewswire/ -- Bitcasino.io, the world's first legally licensed and regulated Bitcoin-only online operator, confirmed today that it has set more industry milestones in the Bitcoin gaming market, when it released its latest growth figures for 2015.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6e112932af4d188e39824816a116f39c67d03e1.jpg"></article>]]></description>
-            <link>http://www.prnewswire.com/news-releases/bitcasinoio-sets-bitcoin-gambling-industry-growth-milestones-300246752.html</link>
-            <guid isPermaLink="false">bf94876a-b5e8-4e9a-a6d4-d599783d2b88</guid>
             <pubDate>Wed, 06 Apr 2016 12:03:40 GMT</pubDate>
         </item>
     </channel>
