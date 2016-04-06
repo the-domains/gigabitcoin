@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 13:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 14:24:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Barclays Is Getting Into Bitcoin With Goldman-Backed Circle]]></title>
+            <description><![CDATA[<article><h1>Barclays Is Getting Into Bitcoin With Goldman-Backed Circle</h1><p>Barclays has become the first big British bank to form a partnership with a digital currency firm, social payments app Circle, which runs partly on bitcoin's blockchain network and launched in the U.K. on Wednesday. In what Britain's Treasury called a "major milestone" in its push to make the U.K.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c96af3c939b724d98a5983830044d97a4450141b.jpg"></article>]]></description>
+            <link>http://fortune.com/2016/04/06/barclays-bitcoin-goldman-circle/</link>
+            <guid isPermaLink="false">beef346d-d2fa-42fb-99f5-10b5715d873e</guid>
+            <pubDate>Wed, 06 Apr 2016 14:24:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Barclays partners with bitcoin payments app http://on.ft.com/22bevhJ</p>]]></description>
@@ -68,13 +75,6 @@
             <link>http://cryptomining-blog.com/7692-new-faster-hodlcoin-cpu-miner-is-now-available/</link>
             <guid isPermaLink="false">b434fa1a-7078-4181-b02c-74c5ba1d7c83</guid>
             <pubDate>Wed, 06 Apr 2016 02:04:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Trading Platform ZeroBlock to Close - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Trading Platform ZeroBlock to Close - CoinDesk</h1><p>Bitcoin trading platform ZeroBlock is closing down on Thursday, according to a notice posted to the service's website. A separate notice displayed to trading platform users advised revoking "any API keys from your exchange service", stating that the ZeroBlock database will be wiped after the shut down on 7th April.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03c6e164b1bd35275103506ef2a00c4d8e287a09.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/bitcoin-trading-platform-zeroblock-close-week/</link>
-            <guid isPermaLink="false">0712a602-0a89-4582-bf20-5839812066f4</guid>
-            <pubDate>Tue, 05 Apr 2016 20:52:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
