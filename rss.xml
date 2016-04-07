@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 20:09:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 20:08:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Homeland Security Bitcoin Task Force Revealed by Department of Justice Indictment Form]]></title>
-            <description><![CDATA[<article><h1>Homeland Security Bitcoin Task Force Revealed by Department of Justice Indictment Form</h1><p>Rumour has long been that Homeland Security in the United States has been interested in Bitcoin's role in the buying and selling of drugs and other illegal goods and services, via the dark web in particular. However, a recent indictment form leaked from the US Department of Justice has solidified these rumours.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3c1ff7b93286ea9066ad0483e9b126e794c7488.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/homeland-security-bitcoin-task-force-revealed-by-department-of-justice-indictment-form</link>
-            <guid isPermaLink="false">f9486c31-602e-4f65-a094-d949d17b9353</guid>
-            <pubDate>Thu, 07 Apr 2016 20:08:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Replacing Bitcoin Transactions: Community Responses to Opt-In Replace-By-Fee]]></title>
-            <description><![CDATA[<article><h1>Replacing Bitcoin Transactions: Community Responses to Opt-In Replace-By-Fee</h1><p>A new addition to Bitcoin Core called Opt-In Replace-by-Fee allows transactions to be flagged as replaceable, and actually replaced, until the transaction gets confirmed in the next block. Opt-In RBF is a change to the memory pool and network relay code and gives wallets the option to add a signal to transactions that gives permission for full nodes to update the particular transaction.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08307ff3c0330fc0d2f5832ff52cc0a1b132d1c4.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/replacing-bitcoin-transactions-community-responses-to-opt-in-replace-by-fee-1460042646</link>
-            <guid isPermaLink="false">0898adfe-8f8a-4e26-9c50-89493f5d703d</guid>
-            <pubDate>Thu, 07 Apr 2016 20:08:35 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Price Down Then Up]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Down Then Up</h1><p>Bitcoin price continues inside its two-month sideways consolidation range. This time we're in for a price dip that should return to current price levels after a small descent. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9dd00ed92dab78455c383dd085b0d91bf514ed5f.png"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>http://coinjournal.net/lightning-network-should-be-ready-this-summer/</link>
             <guid isPermaLink="false">e11a633b-fb34-48fa-acd9-d0e9778bd738</guid>
             <pubDate>Thu, 07 Apr 2016 11:36:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GenTarkin's Custom KNC Titan Firmware v1.0.4 Now Available]]></title>
+            <description><![CDATA[<article><h1>GenTarkin's Custom KNC Titan Firmware v1.0.4 Now Available</h1><p>GenTarkin's custom modified KNC Titan Scrypt ASIC firmware has been updated to version 1.0.4 with the update focusing on fixing issues that may cause the Energy Saver function to get stuck and never finish optimizing the power usage of the mining cubes attached to the controller.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59d10087e6c7c2b740ad89f410e3db644ede99f3.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7699-gentarkins-custom-knc-titan-firmware-v1-0-4-now-available/</link>
+            <guid isPermaLink="false">4a4d7aab-54bf-4dd3-8276-856797823692</guid>
+            <pubDate>Thu, 07 Apr 2016 11:36:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Core Opens Doors to Outside Funding With Sponsorship Program - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Core Opens Doors to Outside Funding With Sponsorship Program - CoinDesk</h1><p>Bitcoin Core has announced a new sponsorship program, a move that finds the largely volunteer community that develops the open-source bitcoin software opening its development process up to funding from industry stakeholders. The announcement comes weeks after the Massachusetts Institute of Technology announced a $900,000 support fund aimed at promoting bitcoin development.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00c804806c2bcc28b0f6a9fae20d03fd10c49d5f.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/bitcoin-core-opens-doors-to-outside-funding-with-sponsorship-program/</link>
+            <guid isPermaLink="false">b0ad0b7b-d77d-4d69-8a6c-969a364fb1e3</guid>
+            <pubDate>Thu, 07 Apr 2016 11:36:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
