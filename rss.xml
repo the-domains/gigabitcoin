@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 17:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 17:17:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Money Laundering Is Facilitated By Banks Rather Than Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Money Laundering Is Facilitated By Banks Rather Than Bitcoin</h1><p>In the end, Bitcoin is a lot harder to move funds into and out of it - in fiat currency - compared to the banking system. Many people often tout Bitcoin as a perfect tool to launder money and sluice funds to offshore bank accounts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74cdd8866d6dd1917906211d05970ee524b8af0b.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/07/money-laundering-facilitated-banks-rather-bitcoin/</link>
-            <guid isPermaLink="false">eac3b4a7-a8a6-4596-8958-60abe52822e0</guid>
-            <pubDate>Thu, 07 Apr 2016 17:16:20 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Hard Forks May Become Safer With User Voting]]></title>
             <description><![CDATA[<article><h1>Bitcoin Hard Forks May Become Safer With User Voting</h1><p>Up to this point, the main way to judge support for a change to Bitcoin's consensus rules has been miner voting. Miners are able to broadcast support for changes to the Bitcoin protocol via coinbase transactions, and these messages of support are tabulated in an effort to judge the level of support among those who are theoretically incentivized to support the network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07237548dfa9ab455f7ef84fffed3c76b0710b68.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 04/07/2016 - Ready to Test Support - NEWSBTC</h1><p>Bitcoin price is gearing up to test the channel support near $417-420 and might be due for another bounce. Bitcoin Price Key Highlights Bitcoin price is gearing up to test the channel support near $417-420 and might be due for another bounce.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/373030d5493b265ef1aeb7d795d56b0baaa45fc1.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/04/07/bitcoin-price-technical-analysis-04072016-ready-test-support/</link>
             <guid isPermaLink="false">26bd756b-1b62-4d70-b27f-e0ea351e57f6</guid>
+            <pubDate>Thu, 07 Apr 2016 11:36:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenBazaar launches version 1.0 with aims to become the 'uncensored' Amazon]]></title>
+            <description><![CDATA[<article><h1>OpenBazaar launches version 1.0 with aims to become the 'uncensored' Amazon</h1><p>What started two years ago as a free and "dark" online market meant to be "untouchable" by police has evolved into one of Bitcoin's most highly-anticipated and well-funded projects of all time. Today, OpenBazaar officially launched version 1.0, bringing to rest years of speculation about the high-profile venture.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a7aa19dc755e8c0bf690fb280fa90ac318e6553.jpg"></article>]]></description>
+            <link>http://www.dailydot.com/politics/openbazaar-official-release-darkmarket/</link>
+            <guid isPermaLink="false">6c1726f3-df21-4d65-87e2-d7a9826d0e90</guid>
             <pubDate>Thu, 07 Apr 2016 11:36:09 GMT</pubDate>
         </item>
     </channel>
