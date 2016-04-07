@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 12:43:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 12:43:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin app's U.K. launch opens door to free dollar-to-pound transfers]]></title>
+            <description><![CDATA[<article><h1>Bitcoin app's U.K. launch opens door to free dollar-to-pound transfers</h1><p>By Barclays PLC has become the first U.K. bank to partner with a cryptocurrency company, teaming up with social-payment app provider Circle, which says it can now offer free dollar-to-pound transfers after its London launch. Goldman Sachs-backed Circle, which uses bitcoins as a means to transfer money, launched in the U.K.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5526140710924b62a368111498e249a49c5f6f50.jpg"></article>]]></description>
+            <link>http://www.marketwatch.com/story/barclays-backs-uk-launch-of-bitcoin-payments-app-2016-04-06</link>
+            <guid isPermaLink="false">48e2ccce-e3b5-4404-9bbd-fc6249ed7094</guid>
+            <pubDate>Thu, 07 Apr 2016 12:43:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Can Bitcoin Be Used For Good?]]></title>
             <description><![CDATA[<article><h1>Can Bitcoin Be Used For Good?</h1><p>The cryptocurrency is a powerful tool for early adopters and middle-class entrepreneurs, but it may not provide the opportunities in the developing world that its advocates claim. Please consider disabling it for our site, or supporting our work in one of these ways Subscribe Now > Yet the allure of blockchain as silver bullet is powerful.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59cccadcb94f29a80adfbbeb5b149d9e7d0fac6b.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://siliconangle.com/blog/2016/04/07/new-brave-browser-will-pay-users-bitcoin-to-view-advertising/</link>
             <guid isPermaLink="false">c283d0cf-122b-457b-8638-945f6978ba57</guid>
             <pubDate>Thu, 07 Apr 2016 11:36:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Craig Steven Wright may out himself as Bitcoin founder Satoshi Nakamoto in coming weeks]]></title>
-            <description><![CDATA[<article><h1>Craig Steven Wright may out himself as Bitcoin founder Satoshi Nakamoto in coming weeks</h1><p>An Australian man previously identified as possibly being Bitcoin founder Satoshi Nakamoto is believed to be close to officially outing himself. According to a report from The Financial Times Craig Steven Wright is preparing to officially make the announcement and that he is looking for backing in his verification from some of the industry's biggest players.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f63df2cab161b9d15e0e7adbe60e781b9d2cdef8.jpg"></article>]]></description>
-            <link>http://siliconangle.com/blog/2016/04/07/craig-steven-wright-may-out-himself-as-bitcoin-founder-satoshi-nakamoto-in-coming-weeks/</link>
-            <guid isPermaLink="false">e0f2e431-6c0c-436f-b117-a32fe401e90c</guid>
-            <pubDate>Thu, 07 Apr 2016 11:36:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
