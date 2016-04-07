@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 11:37:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 11:36:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[OpenBazaar launches version 1.0 with aims to become the 'uncensored' Amazon]]></title>
-            <description><![CDATA[<article><h1>OpenBazaar launches version 1.0 with aims to become the 'uncensored' Amazon</h1><p>What started two years ago as a free and "dark" online market meant to be "untouchable" by police has evolved into one of Bitcoin's most highly-anticipated and well-funded projects of all time. Today, OpenBazaar officially launched version 1.0, bringing to rest years of speculation about the high-profile venture.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a7aa19dc755e8c0bf690fb280fa90ac318e6553.jpg"></article>]]></description>
-            <link>http://www.dailydot.com/politics/openbazaar-official-release-darkmarket/</link>
-            <guid isPermaLink="false">6c1726f3-df21-4d65-87e2-d7a9826d0e90</guid>
-            <pubDate>Thu, 07 Apr 2016 11:36:09 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Who Funds Bitcoin Core Development? How the Industry Supports Bitcoin's 'Reference Client']]></title>
             <description><![CDATA[<article><h1>Who Funds Bitcoin Core Development? How the Industry Supports Bitcoin's 'Reference Client'</h1><p>Funding Bitcoin development seems to have always been problematic. While the Bitcoin industry collectively has raised more than a billion dollars worth of investment over the past years, development of the Free and Open Source Software the industry largely relies on has always had trouble gathering sufficient funds and manpower for development.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b9f58c842d96c2f8e364f6727853799d68ea571.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://www.newsbtc.com/2016/04/07/bitbay-offers-ethereum-trading-fiat-bitcoin/</link>
             <guid isPermaLink="false">7c8f5b1e-c565-491c-9aec-ad8bb534e322</guid>
             <pubDate>Thu, 07 Apr 2016 11:36:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Lightning Network Creators: Fees Will Be Effectively Zero]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Lightning Network Creators: Fees Will Be Effectively Zero</h1><p>Roughly two months ago, Lightning Network creators Joseph Poon and Tadge Dryja visited the Coinbase offices to explain how their design works and answer some questions from Coinbase employees and executives. After an explanation of why the duo does not believe centralization via supernodes will be an issue on the network, they went into a related aspect of the system: the extremely low fees.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43046de313df345cad754c1f3e17afad1abadab7.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/bitcoin-lightning-network-creators-fees-will-be-effectively-zero-1459955513</link>
+            <guid isPermaLink="false">cdb4ad66-46fe-459b-b41c-578288c09c2b</guid>
+            <pubDate>Wed, 06 Apr 2016 20:32:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
