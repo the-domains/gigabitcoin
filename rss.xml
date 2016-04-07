@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 17:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 20:08:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Replacing Bitcoin Transactions: Community Responses to Opt-In Replace-By-Fee]]></title>
+            <description><![CDATA[<article><h1>Replacing Bitcoin Transactions: Community Responses to Opt-In Replace-By-Fee</h1><p>A new addition to Bitcoin Core called Opt-In Replace-by-Fee allows transactions to be flagged as replaceable, and actually replaced, until the transaction gets confirmed in the next block. Opt-In RBF is a change to the memory pool and network relay code and gives wallets the option to add a signal to transactions that gives permission for full nodes to update the particular transaction.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08307ff3c0330fc0d2f5832ff52cc0a1b132d1c4.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/replacing-bitcoin-transactions-community-responses-to-opt-in-replace-by-fee-1460042646</link>
+            <guid isPermaLink="false">0898adfe-8f8a-4e26-9c50-89493f5d703d</guid>
+            <pubDate>Thu, 07 Apr 2016 20:08:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Down Then Up]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Down Then Up</h1><p>Bitcoin price continues inside its two-month sideways consolidation range. This time we're in for a price dip that should return to current price levels after a small descent. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9dd00ed92dab78455c383dd085b0d91bf514ed5f.png"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-price-down-then-up/</link>
+            <guid isPermaLink="false">e63dfb47-cde7-416c-8d5f-cfa9376b20fd</guid>
+            <pubDate>Thu, 07 Apr 2016 20:08:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BW Delays Public Sale of 14nm Bitcoin ASIC Miners]]></title>
             <description><![CDATA[<article><h1>BW Delays Public Sale of 14nm Bitcoin ASIC Miners</h1><p>BW, one of the world's leading Bitcoin mining hardware manufacturers, have posted an update regarding the status of their 14nm mining chip. As mining chips become smaller, they should consume less energy each while offering the same - or more - hashing power.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15941500a9c76cbd95dae2b3900d29cc10eef07c.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>GenTarkin's Custom KNC Titan Firmware v1.0.4 Now Available</h1><p>GenTarkin's custom modified KNC Titan Scrypt ASIC firmware has been updated to version 1.0.4 with the update focusing on fixing issues that may cause the Energy Saver function to get stuck and never finish optimizing the power usage of the mining cubes attached to the controller.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59d10087e6c7c2b740ad89f410e3db644ede99f3.jpg"></article>]]></description>
             <link>http://cryptomining-blog.com/7699-gentarkins-custom-knc-titan-firmware-v1-0-4-now-available/</link>
             <guid isPermaLink="false">4a4d7aab-54bf-4dd3-8276-856797823692</guid>
-            <pubDate>Thu, 07 Apr 2016 11:36:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Core Opens Doors to Outside Funding With Sponsorship Program - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Core Opens Doors to Outside Funding With Sponsorship Program - CoinDesk</h1><p>Bitcoin Core has announced a new sponsorship program, a move that finds the largely volunteer community that develops the open-source bitcoin software opening its development process up to funding from industry stakeholders. The announcement comes weeks after the Massachusetts Institute of Technology announced a $900,000 support fund aimed at promoting bitcoin development.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00c804806c2bcc28b0f6a9fae20d03fd10c49d5f.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/bitcoin-core-opens-doors-to-outside-funding-with-sponsorship-program/</link>
-            <guid isPermaLink="false">b0ad0b7b-d77d-4d69-8a6c-969a364fb1e3</guid>
-            <pubDate>Thu, 07 Apr 2016 11:36:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoinist Giveaways: 50 WageCan Bitcoin Debit Cards Up For Grabs]]></title>
-            <description><![CDATA[<article><h1>Bitcoinist Giveaways: 50 WageCan Bitcoin Debit Cards Up For Grabs</h1><p>Bitcoinist is proud to announce that we are partnering with Also read: US Cyber Command Has Been Given its First Wartime Assignment WageCan to give away 50 of their popular bitcoin debit cards. The winners of this giveaway will be chosen at random from our newsletter subscribers, so be sure to sign up for our newsletter for your chance to win!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab8f36e7a73e9695d97c61163d96c5b8a15afc74.png"></article>]]></description>
-            <link>http://bitcoinist.net/wagecan-debit-card-giveaway/</link>
-            <guid isPermaLink="false">c3f297ab-b1ce-4e0c-9265-6e5ac545bac2</guid>
             <pubDate>Thu, 07 Apr 2016 11:36:09 GMT</pubDate>
         </item>
     </channel>
