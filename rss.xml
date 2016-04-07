@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 12:43:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 17:17:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Money Laundering Is Facilitated By Banks Rather Than Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Money Laundering Is Facilitated By Banks Rather Than Bitcoin</h1><p>In the end, Bitcoin is a lot harder to move funds into and out of it - in fiat currency - compared to the banking system. Many people often tout Bitcoin as a perfect tool to launder money and sluice funds to offshore bank accounts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74cdd8866d6dd1917906211d05970ee524b8af0b.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/07/money-laundering-facilitated-banks-rather-bitcoin/</link>
+            <guid isPermaLink="false">eac3b4a7-a8a6-4596-8958-60abe52822e0</guid>
+            <pubDate>Thu, 07 Apr 2016 17:16:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Hard Forks May Become Safer With User Voting]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Hard Forks May Become Safer With User Voting</h1><p>Up to this point, the main way to judge support for a change to Bitcoin's consensus rules has been miner voting. Miners are able to broadcast support for changes to the Bitcoin protocol via coinbase transactions, and these messages of support are tabulated in an effort to judge the level of support among those who are theoretically incentivized to support the network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07237548dfa9ab455f7ef84fffed3c76b0710b68.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/bitcoin-hard-forks-may-become-safer-with-user-voting-1460040031</link>
+            <guid isPermaLink="false">e9e8fb94-08f1-4754-9920-4c87fec62d92</guid>
+            <pubDate>Thu, 07 Apr 2016 17:16:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Replacing Bitcoin Transactions: Community Responses to Opt-In Replace-By-Fee]]></title>
+            <description><![CDATA[<article><h1>Replacing Bitcoin Transactions: Community Responses to Opt-In Replace-By-Fee</h1><p>A new addition to Bitcoin Core called Opt-In Replace-by-Fee allows transactions to be flagged as replaceable, and actually replaced, until the transaction gets confirmed in the next block. Opt-In RBF is a change to the memory pool and network relay code and gives wallets the option to add a signal to transactions that gives permission for full nodes to update the particular transaction.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e289bbe9d29fb99e2a31214231687cf7420601d0.jpg"></article>]]></description>
+            <link>http://www.nasdaq.com/article/replacing-bitcoin-transactions-community-responses-to-opt-in-replace-by-fee-cm603125</link>
+            <guid isPermaLink="false">5555926e-e46b-4113-8846-f34b89111530</guid>
+            <pubDate>Thu, 07 Apr 2016 17:16:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin app's U.K. launch opens door to free dollar-to-pound transfers]]></title>
             <description><![CDATA[<article><h1>Bitcoin app's U.K. launch opens door to free dollar-to-pound transfers</h1><p>By Barclays PLC has become the first U.K. bank to partner with a cryptocurrency company, teaming up with social-payment app provider Circle, which says it can now offer free dollar-to-pound transfers after its London launch. Goldman Sachs-backed Circle, which uses bitcoins as a means to transfer money, launched in the U.K.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5526140710924b62a368111498e249a49c5f6f50.jpg"></article>]]></description>
@@ -53,27 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 04/07/2016 - Ready to Test Support - NEWSBTC</h1><p>Bitcoin price is gearing up to test the channel support near $417-420 and might be due for another bounce. Bitcoin Price Key Highlights Bitcoin price is gearing up to test the channel support near $417-420 and might be due for another bounce.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/373030d5493b265ef1aeb7d795d56b0baaa45fc1.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/04/07/bitcoin-price-technical-analysis-04072016-ready-test-support/</link>
             <guid isPermaLink="false">26bd756b-1b62-4d70-b27f-e0ea351e57f6</guid>
-            <pubDate>Thu, 07 Apr 2016 11:36:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenBazaar launches version 1.0 with aims to become the 'uncensored' Amazon]]></title>
-            <description><![CDATA[<article><h1>OpenBazaar launches version 1.0 with aims to become the 'uncensored' Amazon</h1><p>What started two years ago as a free and "dark" online market meant to be "untouchable" by police has evolved into one of Bitcoin's most highly-anticipated and well-funded projects of all time. Today, OpenBazaar officially launched version 1.0, bringing to rest years of speculation about the high-profile venture.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a7aa19dc755e8c0bf690fb280fa90ac318e6553.jpg"></article>]]></description>
-            <link>http://www.dailydot.com/politics/openbazaar-official-release-darkmarket/</link>
-            <guid isPermaLink="false">6c1726f3-df21-4d65-87e2-d7a9826d0e90</guid>
-            <pubDate>Thu, 07 Apr 2016 11:36:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who Funds Bitcoin Core Development? How the Industry Supports Bitcoin's 'Reference Client']]></title>
-            <description><![CDATA[<article><h1>Who Funds Bitcoin Core Development? How the Industry Supports Bitcoin's 'Reference Client'</h1><p>Funding Bitcoin development seems to have always been problematic. While the Bitcoin industry collectively has raised more than a billion dollars worth of investment over the past years, development of the Free and Open Source Software the industry largely relies on has always had trouble gathering sufficient funds and manpower for development.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b9f58c842d96c2f8e364f6727853799d68ea571.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/who-funds-bitcoin-core-development-how-the-industry-supports-bitcoin-s-reference-client-1459967859</link>
-            <guid isPermaLink="false">6517081c-d7ee-41a4-b816-9607c165945b</guid>
-            <pubDate>Thu, 07 Apr 2016 11:36:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Brave browser will pay users Bitcoin to view advertising]]></title>
-            <description><![CDATA[<article><h1>New Brave browser will pay users Bitcoin to view advertising</h1><p>Would you like to be paid Bitcoin to view advertising while browsing the web? If the answer is either yes or you've never thought about it before but it sounds like a great idea, you're going to like the Brave browser, a new browser set to launch in May that will do exactly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e3304e9954719d86a98ff7d55914159a2dbe9f0.jpg"></article>]]></description>
-            <link>http://siliconangle.com/blog/2016/04/07/new-brave-browser-will-pay-users-bitcoin-to-view-advertising/</link>
-            <guid isPermaLink="false">c283d0cf-122b-457b-8638-945f6978ba57</guid>
             <pubDate>Thu, 07 Apr 2016 11:36:09 GMT</pubDate>
         </item>
     </channel>
