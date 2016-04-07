@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 11:36:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 11:36:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Jeff Garzik: "Bitcoin will not scale to all the coffees in the world on the blockchain. But at the same time, you cant strangle bitcoin at the low end so that everyone is pushed onto a settlement system. It's not a binary settlement-or-not situation. We have to increase the core blocksize above 1MB" * /r/btc]]></title>
-            <description><![CDATA[<article><h1>Jeff Garzik: "Bitcoin will not scale to all the coffees in the world on the blockchain. But at the same time, you cant strangle bitcoin at the low end so that everyone is pushed onto a settlement system. It's not a binary settlement-or-not situation. We have to increase the core blocksize above 1MB" * /r/btc</h1><p>Full quote: >**Bitcoin will not scale to all the coffees in the world on the blockchain. But at the same time, you cannot *strangle* bitcoin at...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c1369286f725293867d1e7616ddce3b8ce1dd44.jpg"></article>]]></description>
-            <link>https://www.reddit.com/r/btc/comments/4dnlpo/jeff_garzik_bitcoin_will_not_scale_to_all_the/</link>
-            <guid isPermaLink="false">047fdfff-0641-43a1-a27c-9dbfae295fd1</guid>
-            <pubDate>Thu, 07 Apr 2016 11:36:08 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[VC Funding of Bitcoin Companies Rises In Q1 2016]]></title>
             <description><![CDATA[<article><h1>VC Funding of Bitcoin Companies Rises In Q1 2016</h1><p>Although some people may have questioned whether or not the amount of funds invested in Bitcoin startups had surpassed its peak, it looks like there is nothing to worry about just yet. In fact, the number of funds flowing into Bitcoin companies during Q1 of 2016 is on par to set a new record this year, assuming these numbers can hold up.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d436e15b7313ea86c30734d0b0951e7dcfc1ee2d.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://cointelegraph.com/news/bitcoin-will-it-survive-2016</link>
             <guid isPermaLink="false">ad810f29-e928-4f7f-8bb4-9e2205fa12f9</guid>
             <pubDate>Wed, 06 Apr 2016 14:24:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Barclays Is Getting Into Bitcoin With Goldman-Backed Circle]]></title>
+            <description><![CDATA[<article><h1>Barclays Is Getting Into Bitcoin With Goldman-Backed Circle</h1><p>Barclays has become the first big British bank to form a partnership with a digital currency firm, social payments app Circle, which runs partly on bitcoin's blockchain network and launched in the U.K. on Wednesday. In what Britain's Treasury called a "major milestone" in its push to make the U.K.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c96af3c939b724d98a5983830044d97a4450141b.jpg"></article>]]></description>
+            <link>http://fortune.com/2016/04/06/barclays-bitcoin-goldman-circle/</link>
+            <guid isPermaLink="false">beef346d-d2fa-42fb-99f5-10b5715d873e</guid>
+            <pubDate>Wed, 06 Apr 2016 14:24:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
