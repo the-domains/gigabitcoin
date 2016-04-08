@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 20:08:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 16:54:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is mysterious billionaire inventor of Bitcoin about to reveal his identity?]]></title>
+            <description><![CDATA[<article><h1>Is mysterious billionaire inventor of Bitcoin about to reveal his identity?</h1><p>The secretive billionaire inventor of Bitcoin is preparing to finally reveal his identity this weekend, tech industry sources have claimed. A mysterious figure who used the false name Satoshi Nakamoto to launch a digital currency, which fuels a shadow economy worth billions of dollars, is understood to be planning to reveal his true identity in the coming days.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8e490d367887f5b2f884b7e2df3fd1b095d2a0e.jpg"></article>]]></description>
+            <link>http://www.mirror.co.uk/tech/mysterious-billionaire-inventor-bitcoin-could-7715752</link>
+            <guid isPermaLink="false">8d7ba30b-c572-4e7a-8470-552b27780556</guid>
+            <pubDate>Fri, 08 Apr 2016 16:53:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Homeland Security Bitcoin Task Force Revealed by Department of Justice Indictment Form]]></title>
+            <description><![CDATA[<article><h1>Homeland Security Bitcoin Task Force Revealed by Department of Justice Indictment Form</h1><p>Rumour has long been that Homeland Security in the United States has been interested in Bitcoin's role in the buying and selling of drugs and other illegal goods and services, via the dark web in particular. However, a recent indictment form leaked from the US Department of Justice has solidified these rumours.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3c1ff7b93286ea9066ad0483e9b126e794c7488.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/homeland-security-bitcoin-task-force-revealed-by-department-of-justice-indictment-form</link>
+            <guid isPermaLink="false">f9486c31-602e-4f65-a094-d949d17b9353</guid>
+            <pubDate>Thu, 07 Apr 2016 20:08:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Replacing Bitcoin Transactions: Community Responses to Opt-In Replace-By-Fee]]></title>
+            <description><![CDATA[<article><h1>Replacing Bitcoin Transactions: Community Responses to Opt-In Replace-By-Fee</h1><p>A new addition to Bitcoin Core called Opt-In Replace-by-Fee allows transactions to be flagged as replaceable, and actually replaced, until the transaction gets confirmed in the next block. Opt-In RBF is a change to the memory pool and network relay code and gives wallets the option to add a signal to transactions that gives permission for full nodes to update the particular transaction.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08307ff3c0330fc0d2f5832ff52cc0a1b132d1c4.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/replacing-bitcoin-transactions-community-responses-to-opt-in-replace-by-fee-1460042646</link>
+            <guid isPermaLink="false">0898adfe-8f8a-4e26-9c50-89493f5d703d</guid>
+            <pubDate>Thu, 07 Apr 2016 20:08:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Down Then Up]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Down Then Up</h1><p>Bitcoin price continues inside its two-month sideways consolidation range. This time we're in for a price dip that should return to current price levels after a small descent. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9dd00ed92dab78455c383dd085b0d91bf514ed5f.png"></article>]]></description>
@@ -21,17 +42,17 @@
             <pubDate>Thu, 07 Apr 2016 17:16:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Money Laundering Is Facilitated By Banks Rather Than Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Money Laundering Is Facilitated By Banks Rather Than Bitcoin</h1><p>In the end, Bitcoin is a lot harder to move funds into and out of it - in fiat currency - compared to the banking system. Many people often tout Bitcoin as a perfect tool to launder money and sluice funds to offshore bank accounts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74cdd8866d6dd1917906211d05970ee524b8af0b.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/07/money-laundering-facilitated-banks-rather-bitcoin/</link>
-            <guid isPermaLink="false">eac3b4a7-a8a6-4596-8958-60abe52822e0</guid>
-            <pubDate>Thu, 07 Apr 2016 17:16:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bitcoin Hard Forks May Become Safer With User Voting]]></title>
             <description><![CDATA[<article><h1>Bitcoin Hard Forks May Become Safer With User Voting</h1><p>Up to this point, the main way to judge support for a change to Bitcoin's consensus rules has been miner voting. Miners are able to broadcast support for changes to the Bitcoin protocol via coinbase transactions, and these messages of support are tabulated in an effort to judge the level of support among those who are theoretically incentivized to support the network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07237548dfa9ab455f7ef84fffed3c76b0710b68.jpg"></article>]]></description>
             <link>https://bitcoinmagazine.com/articles/bitcoin-hard-forks-may-become-safer-with-user-voting-1460040031</link>
             <guid isPermaLink="false">e9e8fb94-08f1-4754-9920-4c87fec62d92</guid>
+            <pubDate>Thu, 07 Apr 2016 17:16:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Money Laundering Is Facilitated By Banks Rather Than Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Money Laundering Is Facilitated By Banks Rather Than Bitcoin</h1><p>In the end, Bitcoin is a lot harder to move funds into and out of it - in fiat currency - compared to the banking system. Many people often tout Bitcoin as a perfect tool to launder money and sluice funds to offshore bank accounts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74cdd8866d6dd1917906211d05970ee524b8af0b.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/07/money-laundering-facilitated-banks-rather-bitcoin/</link>
+            <guid isPermaLink="false">eac3b4a7-a8a6-4596-8958-60abe52822e0</guid>
             <pubDate>Thu, 07 Apr 2016 17:16:20 GMT</pubDate>
         </item>
         <item>
@@ -54,27 +75,6 @@
             <link>http://www.theatlantic.com/technology/archive/2016/04/bitcoin-hype/477141/</link>
             <guid isPermaLink="false">d2c4530e-3640-4dd8-a8fa-cab28016251d</guid>
             <pubDate>Thu, 07 Apr 2016 12:43:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Lightning Network Should Be Ready This Summer]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Lightning Network Should Be Ready This Summer</h1><p>Bitcoin's saving grace for scalability (at least in the eyes of the vast majority of Bitcoin Core contributors) should be ready for use this summer. The Lightning Network , which is a generalized network of payment channels that enables instant bitcoin transactions with practically no fees, could be live as soon as this summer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce53859cd895a3a48a9b7f5f01f833ebc5052532.jpg"></article>]]></description>
-            <link>http://coinjournal.net/lightning-network-should-be-ready-this-summer/</link>
-            <guid isPermaLink="false">e11a633b-fb34-48fa-acd9-d0e9778bd738</guid>
-            <pubDate>Thu, 07 Apr 2016 11:36:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GenTarkin's Custom KNC Titan Firmware v1.0.4 Now Available]]></title>
-            <description><![CDATA[<article><h1>GenTarkin's Custom KNC Titan Firmware v1.0.4 Now Available</h1><p>GenTarkin's custom modified KNC Titan Scrypt ASIC firmware has been updated to version 1.0.4 with the update focusing on fixing issues that may cause the Energy Saver function to get stuck and never finish optimizing the power usage of the mining cubes attached to the controller.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59d10087e6c7c2b740ad89f410e3db644ede99f3.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7699-gentarkins-custom-knc-titan-firmware-v1-0-4-now-available/</link>
-            <guid isPermaLink="false">4a4d7aab-54bf-4dd3-8276-856797823692</guid>
-            <pubDate>Thu, 07 Apr 2016 11:36:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Core Opens Doors to Outside Funding With Sponsorship Program - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Core Opens Doors to Outside Funding With Sponsorship Program - CoinDesk</h1><p>Bitcoin Core has announced a new sponsorship program, a move that finds the largely volunteer community that develops the open-source bitcoin software opening its development process up to funding from industry stakeholders. The announcement comes weeks after the Massachusetts Institute of Technology announced a $900,000 support fund aimed at promoting bitcoin development.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00c804806c2bcc28b0f6a9fae20d03fd10c49d5f.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/bitcoin-core-opens-doors-to-outside-funding-with-sponsorship-program/</link>
-            <guid isPermaLink="false">b0ad0b7b-d77d-4d69-8a6c-969a364fb1e3</guid>
-            <pubDate>Thu, 07 Apr 2016 11:36:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
