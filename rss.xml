@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 16:54:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 16:54:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[It's not a good user experience to require the user to do an extra step of "fee research" before sending a transaction, just to make sure the transaction doesn't get stuck. Most users aren't even aware that is a possibility. It's a bad user experience. * /r/btc]]></title>
+            <description><![CDATA[<article><h1>It's not a good user experience to require the user to do an extra step of "fee research" before sending a transaction, just to make sure the transaction doesn't get stuck. Most users aren't even aware that is a possibility. It's a bad user experience. * /r/btc</h1><p>let alone the nightmare of a process required to try to send a supplemental fee with RBF. I'm a pretty clever computer user and a programmer...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
+            <link>https://www.reddit.com/r/btc/comments/4cxtm8/its_not_a_good_user_experience_to_require_the/</link>
+            <guid isPermaLink="false">a985cd88-5fbe-4d3e-9d87-4e334e43505c</guid>
+            <pubDate>Fri, 08 Apr 2016 16:54:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Recent Adobe Flash Vulnerability Helped Spread Bitcoin Ransomware]]></title>
             <description><![CDATA[<article><h1>Recent Adobe Flash Vulnerability Helped Spread Bitcoin Ransomware</h1><p>Given the recent increase in Bitcoin ransomware attacks all over the world, security researchers have been trying to figure out which vulnerabilities have been exploited by hackers. As it turns out, the recent zero-day exploit in Flash is being used as part of the Magnitude exploit kit to distribute various forms of Bitcoin ransomware.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b8ebe48f0df1a5069a4acbdef1dd801dcc19821.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.nasdaq.com/article/replacing-bitcoin-transactions-community-responses-to-opt-in-replace-by-fee-cm603125</link>
             <guid isPermaLink="false">5555926e-e46b-4113-8846-f34b89111530</guid>
             <pubDate>Thu, 07 Apr 2016 17:16:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin app's U.K. launch opens door to free dollar-to-pound transfers]]></title>
-            <description><![CDATA[<article><h1>Bitcoin app's U.K. launch opens door to free dollar-to-pound transfers</h1><p>By Barclays PLC has become the first U.K. bank to partner with a cryptocurrency company, teaming up with social-payment app provider Circle, which says it can now offer free dollar-to-pound transfers after its London launch. Goldman Sachs-backed Circle, which uses bitcoins as a means to transfer money, launched in the U.K.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5526140710924b62a368111498e249a49c5f6f50.jpg"></article>]]></description>
-            <link>http://www.marketwatch.com/story/barclays-backs-uk-launch-of-bitcoin-payments-app-2016-04-06</link>
-            <guid isPermaLink="false">48e2ccce-e3b5-4404-9bbd-fc6249ed7094</guid>
-            <pubDate>Thu, 07 Apr 2016 12:43:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
