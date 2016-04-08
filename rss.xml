@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 16:54:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 16:54:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Recent Adobe Flash Vulnerability Helped Spread Bitcoin Ransomware]]></title>
+            <description><![CDATA[<article><h1>Recent Adobe Flash Vulnerability Helped Spread Bitcoin Ransomware</h1><p>Given the recent increase in Bitcoin ransomware attacks all over the world, security researchers have been trying to figure out which vulnerabilities have been exploited by hackers. As it turns out, the recent zero-day exploit in Flash is being used as part of the Magnitude exploit kit to distribute various forms of Bitcoin ransomware.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b8ebe48f0df1a5069a4acbdef1dd801dcc19821.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/recent-adobe-flash-vulnerability-helped-spread-bitcoin-ransomware/</link>
+            <guid isPermaLink="false">5e4a81c4-35ea-4912-807f-8ad3875864c3</guid>
+            <pubDate>Fri, 08 Apr 2016 16:54:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is mysterious billionaire inventor of Bitcoin about to reveal his identity?]]></title>
             <description><![CDATA[<article><h1>Is mysterious billionaire inventor of Bitcoin about to reveal his identity?</h1><p>The secretive billionaire inventor of Bitcoin is preparing to finally reveal his identity this weekend, tech industry sources have claimed. A mysterious figure who used the false name Satoshi Nakamoto to launch a digital currency, which fuels a shadow economy worth billions of dollars, is understood to be planning to reveal his true identity in the coming days.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8e490d367887f5b2f884b7e2df3fd1b095d2a0e.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin app's U.K. launch opens door to free dollar-to-pound transfers</h1><p>By Barclays PLC has become the first U.K. bank to partner with a cryptocurrency company, teaming up with social-payment app provider Circle, which says it can now offer free dollar-to-pound transfers after its London launch. Goldman Sachs-backed Circle, which uses bitcoins as a means to transfer money, launched in the U.K.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5526140710924b62a368111498e249a49c5f6f50.jpg"></article>]]></description>
             <link>http://www.marketwatch.com/story/barclays-backs-uk-launch-of-bitcoin-payments-app-2016-04-06</link>
             <guid isPermaLink="false">48e2ccce-e3b5-4404-9bbd-fc6249ed7094</guid>
-            <pubDate>Thu, 07 Apr 2016 12:43:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Bitcoin Be Used For Good?]]></title>
-            <description><![CDATA[<article><h1>Can Bitcoin Be Used For Good?</h1><p>The cryptocurrency is a powerful tool for early adopters and middle-class entrepreneurs, but it may not provide the opportunities in the developing world that its advocates claim. Please consider disabling it for our site, or supporting our work in one of these ways Subscribe Now > Yet the allure of blockchain as silver bullet is powerful.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59cccadcb94f29a80adfbbeb5b149d9e7d0fac6b.jpg"></article>]]></description>
-            <link>http://www.theatlantic.com/technology/archive/2016/04/bitcoin-hype/477141/</link>
-            <guid isPermaLink="false">d2c4530e-3640-4dd8-a8fa-cab28016251d</guid>
             <pubDate>Thu, 07 Apr 2016 12:43:10 GMT</pubDate>
         </item>
     </channel>
