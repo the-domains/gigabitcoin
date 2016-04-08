@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 16:54:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 16:54:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Timothy Geithner Is The Man Bitcoin Needs]]></title>
+            <description><![CDATA[<article><h1>Timothy Geithner Is The Man Bitcoin Needs</h1><p>Timothy Geithner, the Former Treasury Secretary, was asked by Fusion's Jorge Ramos about bitcoin, and if he would invest in the nascent digital currency: "No, I wouldn't," he said, when Ramos asked him to acquire bitcoins. Ramos asked Geithner if bitcoin had value. "It depends what your objective is," he added.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03b016b540670753c30b7c536c6d542841daca22.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/timothy-geithner-bitcoin-blockchain/</link>
+            <guid isPermaLink="false">af810859-aad1-4fc2-a60f-58f13342c232</guid>
+            <pubDate>Fri, 08 Apr 2016 16:54:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Money 20/20: Bitcoin Industry Leaders Discuss Block Size Debate]]></title>
             <description><![CDATA[<article><h1>Money 20/20: Bitcoin Industry Leaders Discuss Block Size Debate</h1><p>On Wednesday afternoon, a leading panel of leading Bitcoin experts and figures from around the industry met on a panel focused around the scaling of Bitcoin technology. This block size talk was decidedly less crowded than the previous talks around the blockchain, yet attracted a more technically focused discussion and engaged crowd of enthusiastic Bitcoiners, many of who lingered around the room afterwards, than any other panels at the conference.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c6f5c9d639cd8e041710a31de7e2430f6c2bb69.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Hard Forks May Become Safer With User Voting</h1><p>Up to this point, the main way to judge support for a change to Bitcoin's consensus rules has been miner voting. Miners are able to broadcast support for changes to the Bitcoin protocol via coinbase transactions, and these messages of support are tabulated in an effort to judge the level of support among those who are theoretically incentivized to support the network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07237548dfa9ab455f7ef84fffed3c76b0710b68.jpg"></article>]]></description>
             <link>https://bitcoinmagazine.com/articles/bitcoin-hard-forks-may-become-safer-with-user-voting-1460040031</link>
             <guid isPermaLink="false">e9e8fb94-08f1-4754-9920-4c87fec62d92</guid>
-            <pubDate>Thu, 07 Apr 2016 17:16:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Money Laundering Is Facilitated By Banks Rather Than Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Money Laundering Is Facilitated By Banks Rather Than Bitcoin</h1><p>In the end, Bitcoin is a lot harder to move funds into and out of it - in fiat currency - compared to the banking system. Many people often tout Bitcoin as a perfect tool to launder money and sluice funds to offshore bank accounts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74cdd8866d6dd1917906211d05970ee524b8af0b.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/07/money-laundering-facilitated-banks-rather-bitcoin/</link>
-            <guid isPermaLink="false">eac3b4a7-a8a6-4596-8958-60abe52822e0</guid>
             <pubDate>Thu, 07 Apr 2016 17:16:20 GMT</pubDate>
         </item>
     </channel>
