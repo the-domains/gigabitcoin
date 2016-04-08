@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 16:54:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 16:54:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Money 20/20: Bitcoin Industry Leaders Discuss Block Size Debate]]></title>
+            <description><![CDATA[<article><h1>Money 20/20: Bitcoin Industry Leaders Discuss Block Size Debate</h1><p>On Wednesday afternoon, a leading panel of leading Bitcoin experts and figures from around the industry met on a panel focused around the scaling of Bitcoin technology. This block size talk was decidedly less crowded than the previous talks around the blockchain, yet attracted a more technically focused discussion and engaged crowd of enthusiastic Bitcoiners, many of who lingered around the room afterwards, than any other panels at the conference.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c6f5c9d639cd8e041710a31de7e2430f6c2bb69.png"></article>]]></description>
+            <link>http://bitcoinist.net/bitcoin-industry-leaders-block-size/</link>
+            <guid isPermaLink="false">4929d3e3-3951-408f-b70c-600985362bf2</guid>
+            <pubDate>Fri, 08 Apr 2016 16:54:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[It's not a good user experience to require the user to do an extra step of "fee research" before sending a transaction, just to make sure the transaction doesn't get stuck. Most users aren't even aware that is a possibility. It's a bad user experience. * /r/btc]]></title>
             <description><![CDATA[<article><h1>It's not a good user experience to require the user to do an extra step of "fee research" before sending a transaction, just to make sure the transaction doesn't get stuck. Most users aren't even aware that is a possibility. It's a bad user experience. * /r/btc</h1><p>let alone the nightmare of a process required to try to send a supplemental fee with RBF. I'm a pretty clever computer user and a programmer...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Money Laundering Is Facilitated By Banks Rather Than Bitcoin</h1><p>In the end, Bitcoin is a lot harder to move funds into and out of it - in fiat currency - compared to the banking system. Many people often tout Bitcoin as a perfect tool to launder money and sluice funds to offshore bank accounts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74cdd8866d6dd1917906211d05970ee524b8af0b.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/04/07/money-laundering-facilitated-banks-rather-bitcoin/</link>
             <guid isPermaLink="false">eac3b4a7-a8a6-4596-8958-60abe52822e0</guid>
-            <pubDate>Thu, 07 Apr 2016 17:16:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Replacing Bitcoin Transactions: Community Responses to Opt-In Replace-By-Fee]]></title>
-            <description><![CDATA[<article><h1>Replacing Bitcoin Transactions: Community Responses to Opt-In Replace-By-Fee</h1><p>A new addition to Bitcoin Core called Opt-In Replace-by-Fee allows transactions to be flagged as replaceable, and actually replaced, until the transaction gets confirmed in the next block. Opt-In RBF is a change to the memory pool and network relay code and gives wallets the option to add a signal to transactions that gives permission for full nodes to update the particular transaction.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e289bbe9d29fb99e2a31214231687cf7420601d0.jpg"></article>]]></description>
-            <link>http://www.nasdaq.com/article/replacing-bitcoin-transactions-community-responses-to-opt-in-replace-by-fee-cm603125</link>
-            <guid isPermaLink="false">5555926e-e46b-4113-8846-f34b89111530</guid>
             <pubDate>Thu, 07 Apr 2016 17:16:20 GMT</pubDate>
         </item>
     </channel>
