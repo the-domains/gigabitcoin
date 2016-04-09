@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 14:58:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 14:58:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin's Blockchain Technology Proves Itself in Wall Street Test]]></title>
+            <description><![CDATA[<article><h1>Bitcoin's Blockchain Technology Proves Itself in Wall Street Test</h1><p>Banks including J.P. Morgan Chase & Co. and Citigroup Inc. have successfully tested the record-keeping technology behind bitcoin on credit-default swaps, a move that could help it gain a foothold in mainstream finance. The swaps are essentially insurance contracts that pay off if a bond goes bad, and the process of keeping track of the over-the-counter products can be a burden.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0c40a2b2997080d47e18f3372230870c02bcb7d.jpg"></article>]]></description>
+            <link>http://www.wsj.com/articles/bitcoins-blockchain-technology-proves-itself-in-wall-street-test-1460021421</link>
+            <guid isPermaLink="false">f3fa8572-d92c-4656-abd7-a4bc5cf4632b</guid>
+            <pubDate>Sat, 09 Apr 2016 14:57:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rise of Internet Enables Bitcoin to Compete With Fiat, Researchers Find - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Rise of Internet Enables Bitcoin to Compete With Fiat, Researchers Find - CoinDesk</h1><p>A new research paper co-authored by an economics advisor at the Federal Reserve Bank of Philadelphia explores whether private currencies, such as digital currencies like bitcoin, can compete with government-issued alternatives. "Can competition among privately issued fiat currencies such as Bitcoin or Ethereum work?" the paper, published on 3rd April, asks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29cc4aad34be89549ca79e8b1c0178b1f479dc47.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How To Benefit From Getting Paid in Bitcoin</h1><p>CoinTelegraph spoke to employees and freelancers about getting paid in Bitcoin and learnt the pros and cons of this payment method. Having a salary paid in cryptocurrency offers a lot of opportunities for an employee - from sweet bonuses to long-term investments and more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42096cb6288057aed3c56c2ca5ff193c79eaa8b5.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/how-to-benefit-from-getting-paid-in-bitcoin</link>
             <guid isPermaLink="false">e57037ae-f9cc-43df-9c45-1e92fc13110e</guid>
-            <pubDate>Sat, 09 Apr 2016 14:57:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Doubt about the MultiBit wallet]]></title>
-            <description><![CDATA[<article><h1>Doubt about the MultiBit wallet</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top I'm using the MultiBit wallet and I can't get my satoshis from faucetbox.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/43646/doubt-about-the-multibit-wallet</link>
-            <guid isPermaLink="false">0d48cb08-aa56-46ce-95e7-9b4c3b4a3610</guid>
             <pubDate>Sat, 09 Apr 2016 14:57:29 GMT</pubDate>
         </item>
     </channel>
