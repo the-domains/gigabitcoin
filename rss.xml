@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 13:33:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 13:34:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Full blocks make double spending attacks much easier!]]></title>
+            <description><![CDATA[<article><h1>Full blocks make double spending attacks much easier!</h1><p>rogerver wrote: dangh wrote: I'm not supporting small blocks and killing 0-conf (as I own bitcoin business which relying on 0-conf and would benefit from bigger blocks), but again, problem is not in full blocks, that $1,000 probably would confirmed in a few minutes, if you use properly designed wallet software, which is rare in Bitcoin world today, and user experiences damaged by incompetent wallet developers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56284ccfe8a3e1383f634eacef4912e64f87ba24.php"></article>]]></description>
+            <link>https://forum.bitcoin.com/bitcoin-discussion/full-blocks-make-double-spending-attacks-much-easier-t6829.html</link>
+            <guid isPermaLink="false">32f0cbdc-bbfb-4427-8390-862d91b987ea</guid>
+            <pubDate>Sat, 09 Apr 2016 13:33:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to find bitcoin balance via command line]]></title>
             <description><![CDATA[<article><h1>How to find bitcoin balance via command line</h1><p>I'm wondering how to find the balance a wallet for a full node on a command-line only linux box. bitcoin-cli doesn't seem to help here, and I'm not sure what else to try.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bandwidth, CPU speed & "hardfork risk" are NOT the reasons the block size is being kept small. These false reasons of "technology limitations" are a smoke screen for controlling the Bitcoin protocol. * /r/btc</h1><p>People are arguing the wrong points when attempting to prove to Core the technical and implementation reasons why it IS possible to increase the...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
             <link>https://www.reddit.com/r/btc/comments/4dtrpk/bandwidth_cpu_speed_hardfork_risk_are_not_the/</link>
             <guid isPermaLink="false">dc7dc500-9017-4c23-96f3-50db6b64fdc4</guid>
-            <pubDate>Sat, 09 Apr 2016 04:45:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Bores Traders as Volume Declines on Price Stability - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Bores Traders as Volume Declines on Price Stability - CoinDesk</h1><p>Markets Weekly is a weekly column analyzing price movements in the global digital currency markets, and the technology's use case as an asset class. Bitcoin spent most of the seven days ending 8th April fluctuating between $415 and $425 amid modest trading volume.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e691d26a091770a3d35a08db8d63d6946f18ffb.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/bitcoin-price-bore-traders/</link>
-            <guid isPermaLink="false">7481864c-5bf0-470d-8b25-bfbee1370970</guid>
             <pubDate>Sat, 09 Apr 2016 04:45:05 GMT</pubDate>
         </item>
     </channel>
