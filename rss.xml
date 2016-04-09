@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 14:58:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 14:58:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rise of Internet Enables Bitcoin to Compete With Fiat, Researchers Find - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Rise of Internet Enables Bitcoin to Compete With Fiat, Researchers Find - CoinDesk</h1><p>A new research paper co-authored by an economics advisor at the Federal Reserve Bank of Philadelphia explores whether private currencies, such as digital currencies like bitcoin, can compete with government-issued alternatives. "Can competition among privately issued fiat currencies such as Bitcoin or Ethereum work?" the paper, published on 3rd April, asks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29cc4aad34be89549ca79e8b1c0178b1f479dc47.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/research-fed-bitcoin-fiat-competition/</link>
+            <guid isPermaLink="false">3780196c-e0fc-4cc6-b115-26db92d8d750</guid>
+            <pubDate>Sat, 09 Apr 2016 14:57:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bw.com, 14nm Bitcoin Miners will be available from June - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bw.com, 14nm Bitcoin Miners will be available from June - NEWSBTC</h1><p>BW.com, the Chinese bitcoin mining hardware manufacturer has announced the success of its latest 14nm bitcoin mining ASICs. The next batch of miners will be available by June 2016. Mining is a vital component of the bitcoin network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8040e88752694950c68fb7144016a259ba919453.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/07/bw-com-miner/</link>
+            <guid isPermaLink="false">625dad81-8c2b-4435-9d36-99509a34c49b</guid>
+            <pubDate>Sat, 09 Apr 2016 14:57:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When Lightning Network is released, who here is ready to lock away a year's salary in a Starbucks payment channel in order to scale? * /r/btc]]></title>
+            <description><![CDATA[<article><h1>When Lightning Network is released, who here is ready to lock away a year's salary in a Starbucks payment channel in order to scale? * /r/btc</h1><p>For simplicity sake, let's say bitcoin can do 3 tps, and VISA can do 30.000 on a good day. LN is said to be able to scale to the same level. LN...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
+            <link>https://www.reddit.com/r/btc/comments/4dklt7/when_lightning_network_is_released_who_here_is/</link>
+            <guid isPermaLink="false">f78af095-c494-40f1-ae55-0082ee1ef35e</guid>
+            <pubDate>Sat, 09 Apr 2016 14:57:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Exchange itBit to End Services in Texas - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Bitcoin Exchange itBit to End Services in Texas - CoinDesk</h1><p>Texas, long considered one of the friendliest states in the US to bitcoin, now has one less industry startup operating within its borders. In a phone conversation with CoinDesk, a representative of bitcoin exchange itBit, said it would no longer be doing business in the state.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d178d2d553aaedfc457df52f64667b98d7224b02.jpg"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>http://bitcoin.stackexchange.com/questions/43646/doubt-about-the-multibit-wallet</link>
             <guid isPermaLink="false">0d48cb08-aa56-46ce-95e7-9b4c3b4a3610</guid>
             <pubDate>Sat, 09 Apr 2016 14:57:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dridex Banking Trojan Evolves Into Bitcoin Ransomware Distributor]]></title>
-            <description><![CDATA[<article><h1>Dridex Banking Trojan Evolves Into Bitcoin Ransomware Distributor</h1><p>People active in the world of security will have heard of the Dridex malware before, which is a Trojan designed to infiltrate banking infrastructure. But it looks like Dridex is evolving, as it can now be deployed to steal payment card data as well.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/66285416f0bf0c485f7c5f4c9ed37352182761a7.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/dridex-banking-trojan-evolves-into-bitcoin-ransomware-distributor/</link>
-            <guid isPermaLink="false">0b5167e8-9d48-4390-8dcd-8521484e87da</guid>
-            <pubDate>Sat, 09 Apr 2016 14:57:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Full blocks make double spending attacks much easier!]]></title>
-            <description><![CDATA[<article><h1>Full blocks make double spending attacks much easier!</h1><p>rogerver wrote: dangh wrote: I'm not supporting small blocks and killing 0-conf (as I own bitcoin business which relying on 0-conf and would benefit from bigger blocks), but again, problem is not in full blocks, that $1,000 probably would confirmed in a few minutes, if you use properly designed wallet software, which is rare in Bitcoin world today, and user experiences damaged by incompetent wallet developers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56284ccfe8a3e1383f634eacef4912e64f87ba24.php"></article>]]></description>
-            <link>https://forum.bitcoin.com/bitcoin-discussion/full-blocks-make-double-spending-attacks-much-easier-t6829.html</link>
-            <guid isPermaLink="false">32f0cbdc-bbfb-4427-8390-862d91b987ea</guid>
-            <pubDate>Sat, 09 Apr 2016 13:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to find bitcoin balance via command line]]></title>
-            <description><![CDATA[<article><h1>How to find bitcoin balance via command line</h1><p>I'm wondering how to find the balance a wallet for a full node on a command-line only linux box. bitcoin-cli doesn't seem to help here, and I'm not sure what else to try.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/43621/how-to-find-bitcoin-balance-via-command-line</link>
-            <guid isPermaLink="false">11945fa9-3bb0-4121-820f-77f1d968c874</guid>
-            <pubDate>Sat, 09 Apr 2016 13:33:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
