@@ -4,8 +4,36 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 14:58:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 14:58:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bw.com, 14nm Bitcoin Miners will be available from June - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bw.com, 14nm Bitcoin Miners will be available from June - NEWSBTC</h1><p>BW.com, the Chinese bitcoin mining hardware manufacturer has announced the success of its latest 14nm bitcoin mining ASICs. The next batch of miners will be available by June 2016. Mining is a vital component of the bitcoin network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8040e88752694950c68fb7144016a259ba919453.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/07/bw-com-miner/</link>
+            <guid isPermaLink="false">625dad81-8c2b-4435-9d36-99509a34c49b</guid>
+            <pubDate>Sat, 09 Apr 2016 14:57:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When Lightning Network is released, who here is ready to lock away a year's salary in a Starbucks payment channel in order to scale? * /r/btc]]></title>
+            <description><![CDATA[<article><h1>When Lightning Network is released, who here is ready to lock away a year's salary in a Starbucks payment channel in order to scale? * /r/btc</h1><p>For simplicity sake, let's say bitcoin can do 3 tps, and VISA can do 30.000 on a good day. LN is said to be able to scale to the same level. LN...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
+            <link>https://www.reddit.com/r/btc/comments/4dklt7/when_lightning_network_is_released_who_here_is/</link>
+            <guid isPermaLink="false">f78af095-c494-40f1-ae55-0082ee1ef35e</guid>
+            <pubDate>Sat, 09 Apr 2016 14:57:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Exchange itBit to End Services in Texas - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Exchange itBit to End Services in Texas - CoinDesk</h1><p>Texas, long considered one of the friendliest states in the US to bitcoin, now has one less industry startup operating within its borders. In a phone conversation with CoinDesk, a representative of bitcoin exchange itBit, said it would no longer be doing business in the state.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d178d2d553aaedfc457df52f64667b98d7224b02.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/without-warning-itbit-pulls-stakes-texas/</link>
+            <guid isPermaLink="false">573b42b1-556c-4bbd-a738-1b4cd4b036c8</guid>
+            <pubDate>Sat, 09 Apr 2016 14:57:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How can i send bitcoin using c# and the nbitcoin library?]]></title>
+            <description><![CDATA[<article><h1>How can i send bitcoin using c# and the nbitcoin library?</h1><p>I am using NBitcoin library to create my private keys and addresses, but I can't find an example of how to send Bitcoin. Does anyone have a c# example code to send Bitcoin using the NBitcoin libra...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43625/how-can-i-send-bitcoin-using-c-and-the-nbitcoin-library</link>
+            <guid isPermaLink="false">af03abb9-d7c8-41e5-95b6-c4110b468ab3</guid>
+            <pubDate>Sat, 09 Apr 2016 14:57:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Core Launches Sponsorship Program To Support R&D]]></title>
             <description><![CDATA[<article><h1>Bitcoin Core Launches Sponsorship Program To Support R&D</h1><p>Bitcoin Core, the open source project that maintains bitcoin client software called "Bitcoin Core," has launched a sponsorship program in an effort to involve more of the cryptocurrency community in the project. The sponsorship program provides a way for the industry to support research, projects and development.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a728780b096816f015a4b37d2f8e55e02150f79.jpg"></article>]]></description>
@@ -47,34 +75,6 @@
             <link>http://bitcoinist.net/dridex-banking-trojan-evolves-into-bitcoin-ransomware-distributor/</link>
             <guid isPermaLink="false">0b5167e8-9d48-4390-8dcd-8521484e87da</guid>
             <pubDate>Sat, 09 Apr 2016 14:57:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Full blocks make double spending attacks much easier!]]></title>
-            <description><![CDATA[<article><h1>Full blocks make double spending attacks much easier!</h1><p>rogerver wrote: dangh wrote: I'm not supporting small blocks and killing 0-conf (as I own bitcoin business which relying on 0-conf and would benefit from bigger blocks), but again, problem is not in full blocks, that $1,000 probably would confirmed in a few minutes, if you use properly designed wallet software, which is rare in Bitcoin world today, and user experiences damaged by incompetent wallet developers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56284ccfe8a3e1383f634eacef4912e64f87ba24.php"></article>]]></description>
-            <link>https://forum.bitcoin.com/bitcoin-discussion/full-blocks-make-double-spending-attacks-much-easier-t6829.html</link>
-            <guid isPermaLink="false">32f0cbdc-bbfb-4427-8390-862d91b987ea</guid>
-            <pubDate>Sat, 09 Apr 2016 13:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to find bitcoin balance via command line]]></title>
-            <description><![CDATA[<article><h1>How to find bitcoin balance via command line</h1><p>I'm wondering how to find the balance a wallet for a full node on a command-line only linux box. bitcoin-cli doesn't seem to help here, and I'm not sure what else to try.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/43621/how-to-find-bitcoin-balance-via-command-line</link>
-            <guid isPermaLink="false">11945fa9-3bb0-4121-820f-77f1d968c874</guid>
-            <pubDate>Sat, 09 Apr 2016 13:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Decentralized Bitcoin Exchange That Existed for Five Years]]></title>
-            <description><![CDATA[<article><h1>The Decentralized Bitcoin Exchange That Existed for Five Years</h1><p>Believe it or not a decentralized Bitcoin exchange has already existed for 5 years. Ever since the creation of the first Bitcoin mining pool - Eligius - a decentralized exchange was formed. Bitcoin pool mining is in fact a completely functional and currently the most reliable Bitcoin exchange available.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a252d97fef8a2f2950b6da19cfbeb3ac7cf7c47.jpg"></article>]]></description>
-            <link>http://themerkle.com/the-decentralized-bitcoin-exchange-that-existed-for-five-years/</link>
-            <guid isPermaLink="false">15c52271-c154-475c-8303-40a2a07724fc</guid>
-            <pubDate>Sat, 09 Apr 2016 13:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Would a Bitcoin Gold Standard Look Like?]]></title>
-            <description><![CDATA[<article><h1>What Would a Bitcoin Gold Standard Look Like?</h1><p>If you spend some time in Bitcoinland, you'll notice that a vocal section of the community strongly dislikes central banking. In their view, the digital currency is the solution to central banking's many problems, including a lack of transparency, a close relationship with the global power elite, and the central banks' ability to conjure money from thin air.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/216e2ee30c68718537e62e62bdee2f4511ce2f3c.jpg"></article>]]></description>
-            <link>http://motherboard.vice.com/read/what-would-a-bitcoin-gold-standard-look-like</link>
-            <guid isPermaLink="false">406e0544-d55d-4fdf-be28-101d7e7f915d</guid>
-            <pubDate>Sat, 09 Apr 2016 04:45:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
