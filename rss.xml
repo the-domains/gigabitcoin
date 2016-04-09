@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 19:43:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 19:43:48 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Just the Facts, Ma'm: Q&A with OpenBazaar's Brian Hoffman]]></title>
+            <description><![CDATA[<article><h1>Just the Facts, Ma'm: Q&A with OpenBazaar's Brian Hoffman</h1><p>In its recent move from testnet to mainnet, the peer-to-peer marketplace protocol OpenBazaar is now usable. How does it work? Who is using it? What should you know if considering a store launch? Project lead Brian Hoffman tells all, including the relation of his company OB1 to the protocol.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/238fc2c22830d48321a034437a3110fd29c197ec.jpg"></article>]]></description>
+            <link>http://www.youtube.com/watch?v=NXszuDQwGHw</link>
+            <guid isPermaLink="false">87518c3a-8ac1-4fd3-9f23-ed7f9dbe6c5c</guid>
+            <pubDate>Sat, 09 Apr 2016 19:43:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitfortip.com | Tip and earn Bitcoins]]></title>
             <description><![CDATA[<article><h1>Bitfortip.com | Tip and earn Bitcoins</h1><p>Bitfortip.com allows you to find better price deals on the internet for an item/service that you might need or for an information that you can't find on your own. i.e. Someone wants to get a specific smartphone and after his own online research he finds it for 500$.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e400b9e0be7576c3a91e0511b99e20f8761c6309.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Update - BTCC returned my 13.65BTC ($5750!) transaction fee * /r/Bitcoin</h1><p>Bitcoin is the currency of the Internet: a distributed, worldwide, decentralized digital money. Unlike traditional currencies such as dollars, bitcoins are issued and managed without any central authority whatsoever: there is no government, company, or bank in charge of Bitcoin. As such, it is more resistant to wild inflation and corrupt banks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
             <link>https://www.reddit.com/r/Bitcoin/comments/4dtoj1/update_btcc_returned_my_1365btc_5750_transaction/</link>
             <guid isPermaLink="false">b1b1e934-19ef-40ca-82e1-d7af82b4fb1d</guid>
-            <pubDate>Sat, 09 Apr 2016 14:57:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Make no mistake, Bitcoin and Blockchain will disrupt financial technology in a big way - Memeburn]]></title>
-            <description><![CDATA[<article><h1>Make no mistake, Bitcoin and Blockchain will disrupt financial technology in a big way - Memeburn</h1><p>Bitcoin and Blockchain technology has surged forward as the potential for the next biggest disrupter in the finance industry. Last year Wall Street showed just how serious it was about using their tech when larger financial institutions like Citi, Nasdaq, Visa and others invested in Chain.com, a Bitcoin Blockchain services provider.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3cf32e10da79dc133ab136ac1656814d4977044.jpg"></article>]]></description>
-            <link>http://memeburn.com/2016/04/make-no-mistake-bitcoin-and-blockchain-will-disr/</link>
-            <guid isPermaLink="false">2ed92e10-b95f-498f-b98f-4e3edf1f677e</guid>
             <pubDate>Sat, 09 Apr 2016 14:57:29 GMT</pubDate>
         </item>
     </channel>
