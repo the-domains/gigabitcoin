@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 19:44:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 19:44:15 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Live Episode 3 - Bits Be Tripping Ethereum Rig Builds 4.8.16]]></title>
+            <description><![CDATA[<article><h1>Live Episode 3 - Bits Be Tripping Ethereum Rig Builds 4.8.16</h1><p>Livestream covering R9 390 6x rig that gets going at a STRONG 183m/h mining ethereum on a SINGLE PSU! BBT does it again, pushing the limit of whats possible.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b658faffbeddbe1c13a2d1be8020eac81e0f318.jpg"></article>]]></description>
+            <link>http://www.youtube.com/watch?v=sgiRWjQ2ifA</link>
+            <guid isPermaLink="false">672f1bfd-beee-4e35-99ab-500566265d5f</guid>
+            <pubDate>Sat, 09 Apr 2016 19:43:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin and the Rise of the Cypherpunks - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Bitcoin and the Rise of the Cypherpunks - CoinDesk</h1><p>From bitcoin to blockchain to distributed ledgers, the cryptocurrency space is fast evolving, to the point where it can be difficult to see the direction it's headed. But, we're not without clues. While many of the innovations in the space are new, they're built on decades of work that led to this point.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fb6a51f4999a4317182a1c896ecb692d75d867b.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Exchange itBit to End Services in Texas - CoinDesk</h1><p>Texas, long considered one of the friendliest states in the US to bitcoin, now has one less industry startup operating within its borders. In a phone conversation with CoinDesk, a representative of bitcoin exchange itBit, said it would no longer be doing business in the state.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d178d2d553aaedfc457df52f64667b98d7224b02.jpg"></article>]]></description>
             <link>http://www.coindesk.com/without-warning-itbit-pulls-stakes-texas/</link>
             <guid isPermaLink="false">573b42b1-556c-4bbd-a738-1b4cd4b036c8</guid>
-            <pubDate>Sat, 09 Apr 2016 14:57:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How can i send bitcoin using c# and the nbitcoin library?]]></title>
-            <description><![CDATA[<article><h1>How can i send bitcoin using c# and the nbitcoin library?</h1><p>I am using NBitcoin library to create my private keys and addresses, but I can't find an example of how to send Bitcoin. Does anyone have a c# example code to send Bitcoin using the NBitcoin libra...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/43625/how-can-i-send-bitcoin-using-c-and-the-nbitcoin-library</link>
-            <guid isPermaLink="false">af03abb9-d7c8-41e5-95b6-c4110b468ab3</guid>
             <pubDate>Sat, 09 Apr 2016 14:57:30 GMT</pubDate>
         </item>
     </channel>
