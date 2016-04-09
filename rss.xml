@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 14:58:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 14:58:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Exchange itBit to End Services in Texas - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Exchange itBit to End Services in Texas - CoinDesk</h1><p>Texas, long considered one of the friendliest states in the US to bitcoin, now has one less industry startup operating within its borders. In a phone conversation with CoinDesk, a representative of bitcoin exchange itBit, said it would no longer be doing business in the state.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d178d2d553aaedfc457df52f64667b98d7224b02.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/without-warning-itbit-pulls-stakes-texas/</link>
+            <guid isPermaLink="false">573b42b1-556c-4bbd-a738-1b4cd4b036c8</guid>
+            <pubDate>Sat, 09 Apr 2016 14:57:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How can i send bitcoin using c# and the nbitcoin library?]]></title>
             <description><![CDATA[<article><h1>How can i send bitcoin using c# and the nbitcoin library?</h1><p>I am using NBitcoin library to create my private keys and addresses, but I can't find an example of how to send Bitcoin. Does anyone have a c# example code to send Bitcoin using the NBitcoin libra...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How to find bitcoin balance via command line</h1><p>I'm wondering how to find the balance a wallet for a full node on a command-line only linux box. bitcoin-cli doesn't seem to help here, and I'm not sure what else to try.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/43621/how-to-find-bitcoin-balance-via-command-line</link>
             <guid isPermaLink="false">11945fa9-3bb0-4121-820f-77f1d968c874</guid>
-            <pubDate>Sat, 09 Apr 2016 13:33:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Decentralized Bitcoin Exchange That Existed for Five Years]]></title>
-            <description><![CDATA[<article><h1>The Decentralized Bitcoin Exchange That Existed for Five Years</h1><p>Believe it or not a decentralized Bitcoin exchange has already existed for 5 years. Ever since the creation of the first Bitcoin mining pool - Eligius - a decentralized exchange was formed. Bitcoin pool mining is in fact a completely functional and currently the most reliable Bitcoin exchange available.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a252d97fef8a2f2950b6da19cfbeb3ac7cf7c47.jpg"></article>]]></description>
-            <link>http://themerkle.com/the-decentralized-bitcoin-exchange-that-existed-for-five-years/</link>
-            <guid isPermaLink="false">15c52271-c154-475c-8303-40a2a07724fc</guid>
             <pubDate>Sat, 09 Apr 2016 13:33:00 GMT</pubDate>
         </item>
     </channel>
