@@ -4,8 +4,50 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 04:45:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 04:45:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How To Buy Bitcoins: Is 'Digital Gold' Worth The Investment?]]></title>
+            <description><![CDATA[<article><h1>How To Buy Bitcoins: Is 'Digital Gold' Worth The Investment?</h1><p>Bitcoins, virtual gold coins emblazoned with the letter B, look like the domain of video game aficionados and computer science graduates rather than a legitimate currency. But for those who are paying attention, it's starting to look more attractive as a financial tool, and as an investment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a62e8979d9f97572f8f4d22a362e60e591997d17.jpg"></article>]]></description>
+            <link>http://www.ibtimes.com/how-buy-bitcoins-digital-gold-worth-investment-2350605</link>
+            <guid isPermaLink="false">51017db9-4d51-4fe0-acdd-ae76ec0404e9</guid>
+            <pubDate>Sat, 09 Apr 2016 04:45:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Updated ccMiner 1.7.6-git fork by tpruvot With Improved Decred Support]]></title>
+            <description><![CDATA[<article><h1>Updated ccMiner 1.7.6-git fork by tpruvot With Improved Decred Support</h1><p>Another update with a new Windows binary compiled from the latest ccMiner 1.7.6-git fork from tpruvot ( source) with fixes that make the Decred (DCR) performance improvements by pallas work properly under Windows as well as Linux.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ab84d8da252925d388e71ed499ea180806b4442.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7706-updated-ccminer-1-7-6-git-fork-by-tpruvot-with-improved-decred-support/</link>
+            <guid isPermaLink="false">7fff6701-4d63-4c25-88ae-c945545f6539</guid>
+            <pubDate>Sat, 09 Apr 2016 04:45:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to Mine With Older GPUs, Try Decred or other Blake Coins]]></title>
+            <description><![CDATA[<article><h1>What to Mine With Older GPUs, Try Decred or other Blake Coins</h1><p>If you have some older GPUs such as the AMD Radeon HD 5830/5850/5870, or the Radeon HD 6850/6870 or 6950/6970 with 1GB or 2GB video memory that are not suitable for or doing great for mining Ethereum (ETH) you might use them for mining something else.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f3641453a210f319adb805fb80f16bdff86a5ae.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7703-what-to-mine-with-older-gpus-try-decred-or-other-blake-coins/</link>
+            <guid isPermaLink="false">23847247-e658-4967-96d0-51aa7bcdc06f</guid>
+            <pubDate>Sat, 09 Apr 2016 04:45:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bandwidth, CPU speed & "hardfork risk" are NOT the reasons the block size is being kept small. These false reasons of "technology limitations" are a smoke screen for controlling the Bitcoin protocol. * /r/btc]]></title>
+            <description><![CDATA[<article><h1>Bandwidth, CPU speed & "hardfork risk" are NOT the reasons the block size is being kept small. These false reasons of "technology limitations" are a smoke screen for controlling the Bitcoin protocol. * /r/btc</h1><p>People are arguing the wrong points when attempting to prove to Core the technical and implementation reasons why it IS possible to increase the...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
+            <link>https://www.reddit.com/r/btc/comments/4dtrpk/bandwidth_cpu_speed_hardfork_risk_are_not_the/</link>
+            <guid isPermaLink="false">dc7dc500-9017-4c23-96f3-50db6b64fdc4</guid>
+            <pubDate>Sat, 09 Apr 2016 04:45:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Bores Traders as Volume Declines on Price Stability - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Bores Traders as Volume Declines on Price Stability - CoinDesk</h1><p>Markets Weekly is a weekly column analyzing price movements in the global digital currency markets, and the technology's use case as an asset class. Bitcoin spent most of the seven days ending 8th April fluctuating between $415 and $425 amid modest trading volume.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e691d26a091770a3d35a08db8d63d6946f18ffb.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/bitcoin-price-bore-traders/</link>
+            <guid isPermaLink="false">7481864c-5bf0-470d-8b25-bfbee1370970</guid>
+            <pubDate>Sat, 09 Apr 2016 04:45:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shapeshift.io has been hacked * /r/Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Shapeshift.io has been hacked * /r/Bitcoin</h1><p>From Shapeshift.io: Hello everyone, We wanted to provide a quick update on our status. Yesterday afternoon, we noticed several pieces of evidence...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
+            <link>https://www.reddit.com/r/Bitcoin/comments/4dxkte/shapeshiftio_has_been_hacked/</link>
+            <guid isPermaLink="false">9f47e521-a628-4275-b980-72bd05bb7248</guid>
+            <pubDate>Sat, 09 Apr 2016 04:45:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Czech Institute Enables Bitcoin as Payment for Tuition Fees]]></title>
             <description><![CDATA[<article><h1>Czech Institute Enables Bitcoin as Payment for Tuition Fees</h1><p>CEVRO, a Czech institute based in Prague focusing on political studies including Law, economics, politics and security will now begin accepting bitcoin as payment for tuition fees for three of its Masters' programs. The CEVRO institute in the Czech Republic has begun accepting bitcoin as a tuition fee for its Masters' programmes in Philosophy, Politics and Economics (PPE).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4abb2efc15f3a7ab19f1d874ff6f583ae9eba900.jpg"></article>]]></description>
@@ -33,48 +75,6 @@
             <link>http://qz.com/654054/indian-film-industry-is-struggling-with-bitcoin-trading-sophisticated-pirates/</link>
             <guid isPermaLink="false">19170859-5f24-4af9-9963-1ec09b43716a</guid>
             <pubDate>Fri, 08 Apr 2016 16:54:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Timothy Geithner Is The Man Bitcoin Needs]]></title>
-            <description><![CDATA[<article><h1>Timothy Geithner Is The Man Bitcoin Needs</h1><p>Timothy Geithner, the Former Treasury Secretary, was asked by Fusion's Jorge Ramos about bitcoin, and if he would invest in the nascent digital currency: "No, I wouldn't," he said, when Ramos asked him to acquire bitcoins. Ramos asked Geithner if bitcoin had value. "It depends what your objective is," he added.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03b016b540670753c30b7c536c6d542841daca22.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/timothy-geithner-bitcoin-blockchain/</link>
-            <guid isPermaLink="false">af810859-aad1-4fc2-a60f-58f13342c232</guid>
-            <pubDate>Fri, 08 Apr 2016 16:54:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Money 20/20: Bitcoin Industry Leaders Discuss Block Size Debate]]></title>
-            <description><![CDATA[<article><h1>Money 20/20: Bitcoin Industry Leaders Discuss Block Size Debate</h1><p>On Wednesday afternoon, a leading panel of leading Bitcoin experts and figures from around the industry met on a panel focused around the scaling of Bitcoin technology. This block size talk was decidedly less crowded than the previous talks around the blockchain, yet attracted a more technically focused discussion and engaged crowd of enthusiastic Bitcoiners, many of who lingered around the room afterwards, than any other panels at the conference.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c6f5c9d639cd8e041710a31de7e2430f6c2bb69.png"></article>]]></description>
-            <link>http://bitcoinist.net/bitcoin-industry-leaders-block-size/</link>
-            <guid isPermaLink="false">4929d3e3-3951-408f-b70c-600985362bf2</guid>
-            <pubDate>Fri, 08 Apr 2016 16:54:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It's not a good user experience to require the user to do an extra step of "fee research" before sending a transaction, just to make sure the transaction doesn't get stuck. Most users aren't even aware that is a possibility. It's a bad user experience. * /r/btc]]></title>
-            <description><![CDATA[<article><h1>It's not a good user experience to require the user to do an extra step of "fee research" before sending a transaction, just to make sure the transaction doesn't get stuck. Most users aren't even aware that is a possibility. It's a bad user experience. * /r/btc</h1><p>let alone the nightmare of a process required to try to send a supplemental fee with RBF. I'm a pretty clever computer user and a programmer...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
-            <link>https://www.reddit.com/r/btc/comments/4cxtm8/its_not_a_good_user_experience_to_require_the/</link>
-            <guid isPermaLink="false">a985cd88-5fbe-4d3e-9d87-4e334e43505c</guid>
-            <pubDate>Fri, 08 Apr 2016 16:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Recent Adobe Flash Vulnerability Helped Spread Bitcoin Ransomware]]></title>
-            <description><![CDATA[<article><h1>Recent Adobe Flash Vulnerability Helped Spread Bitcoin Ransomware</h1><p>Given the recent increase in Bitcoin ransomware attacks all over the world, security researchers have been trying to figure out which vulnerabilities have been exploited by hackers. As it turns out, the recent zero-day exploit in Flash is being used as part of the Magnitude exploit kit to distribute various forms of Bitcoin ransomware.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b8ebe48f0df1a5069a4acbdef1dd801dcc19821.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/recent-adobe-flash-vulnerability-helped-spread-bitcoin-ransomware/</link>
-            <guid isPermaLink="false">5e4a81c4-35ea-4912-807f-8ad3875864c3</guid>
-            <pubDate>Fri, 08 Apr 2016 16:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is mysterious billionaire inventor of Bitcoin about to reveal his identity?]]></title>
-            <description><![CDATA[<article><h1>Is mysterious billionaire inventor of Bitcoin about to reveal his identity?</h1><p>The secretive billionaire inventor of Bitcoin is preparing to finally reveal his identity this weekend, tech industry sources have claimed. A mysterious figure who used the false name Satoshi Nakamoto to launch a digital currency, which fuels a shadow economy worth billions of dollars, is understood to be planning to reveal his true identity in the coming days.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8e490d367887f5b2f884b7e2df3fd1b095d2a0e.jpg"></article>]]></description>
-            <link>http://www.mirror.co.uk/tech/mysterious-billionaire-inventor-bitcoin-could-7715752</link>
-            <guid isPermaLink="false">8d7ba30b-c572-4e7a-8470-552b27780556</guid>
-            <pubDate>Fri, 08 Apr 2016 16:53:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Homeland Security Bitcoin Task Force Revealed by Department of Justice Indictment Form]]></title>
-            <description><![CDATA[<article><h1>Homeland Security Bitcoin Task Force Revealed by Department of Justice Indictment Form</h1><p>Rumour has long been that Homeland Security in the United States has been interested in Bitcoin's role in the buying and selling of drugs and other illegal goods and services, via the dark web in particular. However, a recent indictment form leaked from the US Department of Justice has solidified these rumours.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3c1ff7b93286ea9066ad0483e9b126e794c7488.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/homeland-security-bitcoin-task-force-revealed-by-department-of-justice-indictment-form</link>
-            <guid isPermaLink="false">f9486c31-602e-4f65-a094-d949d17b9353</guid>
-            <pubDate>Thu, 07 Apr 2016 20:08:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
