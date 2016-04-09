@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 13:33:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 13:33:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to find bitcoin balance via command line]]></title>
+            <description><![CDATA[<article><h1>How to find bitcoin balance via command line</h1><p>I'm wondering how to find the balance a wallet for a full node on a command-line only linux box. bitcoin-cli doesn't seem to help here, and I'm not sure what else to try.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43621/how-to-find-bitcoin-balance-via-command-line</link>
+            <guid isPermaLink="false">11945fa9-3bb0-4121-820f-77f1d968c874</guid>
+            <pubDate>Sat, 09 Apr 2016 13:33:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Decentralized Bitcoin Exchange That Existed for Five Years]]></title>
             <description><![CDATA[<article><h1>The Decentralized Bitcoin Exchange That Existed for Five Years</h1><p>Believe it or not a decentralized Bitcoin exchange has already existed for 5 years. Ever since the creation of the first Bitcoin mining pool - Eligius - a decentralized exchange was formed. Bitcoin pool mining is in fact a completely functional and currently the most reliable Bitcoin exchange available.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a252d97fef8a2f2950b6da19cfbeb3ac7cf7c47.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Bores Traders as Volume Declines on Price Stability - CoinDesk</h1><p>Markets Weekly is a weekly column analyzing price movements in the global digital currency markets, and the technology's use case as an asset class. Bitcoin spent most of the seven days ending 8th April fluctuating between $415 and $425 amid modest trading volume.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e691d26a091770a3d35a08db8d63d6946f18ffb.jpg"></article>]]></description>
             <link>http://www.coindesk.com/bitcoin-price-bore-traders/</link>
             <guid isPermaLink="false">7481864c-5bf0-470d-8b25-bfbee1370970</guid>
-            <pubDate>Sat, 09 Apr 2016 04:45:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shapeshift.io has been hacked * /r/Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Shapeshift.io has been hacked * /r/Bitcoin</h1><p>From Shapeshift.io: Hello everyone, We wanted to provide a quick update on our status. Yesterday afternoon, we noticed several pieces of evidence...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
-            <link>https://www.reddit.com/r/Bitcoin/comments/4dxkte/shapeshiftio_has_been_hacked/</link>
-            <guid isPermaLink="false">9f47e521-a628-4275-b980-72bd05bb7248</guid>
             <pubDate>Sat, 09 Apr 2016 04:45:05 GMT</pubDate>
         </item>
     </channel>
