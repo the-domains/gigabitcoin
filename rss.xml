@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 04:45:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 04:45:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Shapeshift.io has been hacked * /r/Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Shapeshift.io has been hacked * /r/Bitcoin</h1><p>From Shapeshift.io: Hello everyone, We wanted to provide a quick update on our status. Yesterday afternoon, we noticed several pieces of evidence...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
-            <link>https://www.reddit.com/r/Bitcoin/comments/4dxkte/shapeshiftio_has_been_hacked/</link>
-            <guid isPermaLink="false">9f47e521-a628-4275-b980-72bd05bb7248</guid>
-            <pubDate>Sat, 09 Apr 2016 04:45:05 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Czech Institute Enables Bitcoin as Payment for Tuition Fees]]></title>
             <description><![CDATA[<article><h1>Czech Institute Enables Bitcoin as Payment for Tuition Fees</h1><p>CEVRO, a Czech institute based in Prague focusing on political studies including Law, economics, politics and security will now begin accepting bitcoin as payment for tuition fees for three of its Masters' programs. The CEVRO institute in the Czech Republic has begun accepting bitcoin as a tuition fee for its Masters' programmes in Philosophy, Politics and Economics (PPE).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4abb2efc15f3a7ab19f1d874ff6f583ae9eba900.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://www.mirror.co.uk/tech/mysterious-billionaire-inventor-bitcoin-could-7715752</link>
             <guid isPermaLink="false">8d7ba30b-c572-4e7a-8470-552b27780556</guid>
             <pubDate>Fri, 08 Apr 2016 16:53:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Homeland Security Bitcoin Task Force Revealed by Department of Justice Indictment Form]]></title>
+            <description><![CDATA[<article><h1>Homeland Security Bitcoin Task Force Revealed by Department of Justice Indictment Form</h1><p>Rumour has long been that Homeland Security in the United States has been interested in Bitcoin's role in the buying and selling of drugs and other illegal goods and services, via the dark web in particular. However, a recent indictment form leaked from the US Department of Justice has solidified these rumours.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3c1ff7b93286ea9066ad0483e9b126e794c7488.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/homeland-security-bitcoin-task-force-revealed-by-department-of-justice-indictment-form</link>
+            <guid isPermaLink="false">f9486c31-602e-4f65-a094-d949d17b9353</guid>
+            <pubDate>Thu, 07 Apr 2016 20:08:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
