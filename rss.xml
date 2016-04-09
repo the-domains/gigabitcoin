@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 04:45:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 04:45:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What to Mine With Older GPUs, Try Decred or other Blake Coins]]></title>
+            <description><![CDATA[<article><h1>What to Mine With Older GPUs, Try Decred or other Blake Coins</h1><p>If you have some older GPUs such as the AMD Radeon HD 5830/5850/5870, or the Radeon HD 6850/6870 or 6950/6970 with 1GB or 2GB video memory that are not suitable for or doing great for mining Ethereum (ETH) you might use them for mining something else.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f3641453a210f319adb805fb80f16bdff86a5ae.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7703-what-to-mine-with-older-gpus-try-decred-or-other-blake-coins/</link>
+            <guid isPermaLink="false">23847247-e658-4967-96d0-51aa7bcdc06f</guid>
+            <pubDate>Sat, 09 Apr 2016 04:45:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bandwidth, CPU speed & "hardfork risk" are NOT the reasons the block size is being kept small. These false reasons of "technology limitations" are a smoke screen for controlling the Bitcoin protocol. * /r/btc]]></title>
+            <description><![CDATA[<article><h1>Bandwidth, CPU speed & "hardfork risk" are NOT the reasons the block size is being kept small. These false reasons of "technology limitations" are a smoke screen for controlling the Bitcoin protocol. * /r/btc</h1><p>People are arguing the wrong points when attempting to prove to Core the technical and implementation reasons why it IS possible to increase the...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
+            <link>https://www.reddit.com/r/btc/comments/4dtrpk/bandwidth_cpu_speed_hardfork_risk_are_not_the/</link>
+            <guid isPermaLink="false">dc7dc500-9017-4c23-96f3-50db6b64fdc4</guid>
+            <pubDate>Sat, 09 Apr 2016 04:45:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Bores Traders as Volume Declines on Price Stability - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Bitcoin Bores Traders as Volume Declines on Price Stability - CoinDesk</h1><p>Markets Weekly is a weekly column analyzing price movements in the global digital currency markets, and the technology's use case as an asset class. Bitcoin spent most of the seven days ending 8th April fluctuating between $415 and $425 amid modest trading volume.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e691d26a091770a3d35a08db8d63d6946f18ffb.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://bitcoinist.net/bitcoin-industry-leaders-block-size/</link>
             <guid isPermaLink="false">4929d3e3-3951-408f-b70c-600985362bf2</guid>
             <pubDate>Fri, 08 Apr 2016 16:54:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It's not a good user experience to require the user to do an extra step of "fee research" before sending a transaction, just to make sure the transaction doesn't get stuck. Most users aren't even aware that is a possibility. It's a bad user experience. * /r/btc]]></title>
-            <description><![CDATA[<article><h1>It's not a good user experience to require the user to do an extra step of "fee research" before sending a transaction, just to make sure the transaction doesn't get stuck. Most users aren't even aware that is a possibility. It's a bad user experience. * /r/btc</h1><p>let alone the nightmare of a process required to try to send a supplemental fee with RBF. I'm a pretty clever computer user and a programmer...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
-            <link>https://www.reddit.com/r/btc/comments/4cxtm8/its_not_a_good_user_experience_to_require_the/</link>
-            <guid isPermaLink="false">a985cd88-5fbe-4d3e-9d87-4e334e43505c</guid>
-            <pubDate>Fri, 08 Apr 2016 16:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Recent Adobe Flash Vulnerability Helped Spread Bitcoin Ransomware]]></title>
-            <description><![CDATA[<article><h1>Recent Adobe Flash Vulnerability Helped Spread Bitcoin Ransomware</h1><p>Given the recent increase in Bitcoin ransomware attacks all over the world, security researchers have been trying to figure out which vulnerabilities have been exploited by hackers. As it turns out, the recent zero-day exploit in Flash is being used as part of the Magnitude exploit kit to distribute various forms of Bitcoin ransomware.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b8ebe48f0df1a5069a4acbdef1dd801dcc19821.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/recent-adobe-flash-vulnerability-helped-spread-bitcoin-ransomware/</link>
-            <guid isPermaLink="false">5e4a81c4-35ea-4912-807f-8ad3875864c3</guid>
-            <pubDate>Fri, 08 Apr 2016 16:54:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
