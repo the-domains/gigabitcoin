@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 19:44:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 19:44:16 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The New Gold Standard: What Would Happen if Bitcoin Ruled World Finance]]></title>
-            <description><![CDATA[<article><h1>The New Gold Standard: What Would Happen if Bitcoin Ruled World Finance</h1><p>Due to the growing interest in the Bitcoin digital currency, a research consultant for Canada's central bank decided to imagine a world where the monetary system was based on the emerging cryptocurrency; interestingly enough, it would resemble the gold standard and would seriously damage central banking as we know it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9e4923c98e8495e7db49f266ec92b373283ad0a.jpg"></article>]]></description>
-            <link>http://sputniknews.com/business/20160409/1037747441/bitcoin-gold-standard.html</link>
-            <guid isPermaLink="false">654ca5eb-151a-4ea3-b2d6-81977a6ee570</guid>
-            <pubDate>Sat, 09 Apr 2016 19:43:06 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Exchange Shapeshift Server Breach Leads To Down Time]]></title>
             <description><![CDATA[<article><h1>Bitcoin Exchange Shapeshift Server Breach Leads To Down Time</h1><p>In yet another attack on an online cryptocurrency exchange, Shapeshift.io went down for a couple days while they dealt with some malicious intrusion into their server, assessing the damage and keeping their customer base aware of the status the entire time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3286e980d8a19f28f903bfe0acc0a2b396770982.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Bw.com, 14nm Bitcoin Miners will be available from June - NEWSBTC</h1><p>BW.com, the Chinese bitcoin mining hardware manufacturer has announced the success of its latest 14nm bitcoin mining ASICs. The next batch of miners will be available by June 2016. Mining is a vital component of the bitcoin network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8040e88752694950c68fb7144016a259ba919453.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/04/07/bw-com-miner/</link>
             <guid isPermaLink="false">625dad81-8c2b-4435-9d36-99509a34c49b</guid>
+            <pubDate>Sat, 09 Apr 2016 14:57:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When Lightning Network is released, who here is ready to lock away a year's salary in a Starbucks payment channel in order to scale? * /r/btc]]></title>
+            <description><![CDATA[<article><h1>When Lightning Network is released, who here is ready to lock away a year's salary in a Starbucks payment channel in order to scale? * /r/btc</h1><p>For simplicity sake, let's say bitcoin can do 3 tps, and VISA can do 30.000 on a good day. LN is said to be able to scale to the same level. LN...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
+            <link>https://www.reddit.com/r/btc/comments/4dklt7/when_lightning_network_is_released_who_here_is/</link>
+            <guid isPermaLink="false">f78af095-c494-40f1-ae55-0082ee1ef35e</guid>
             <pubDate>Sat, 09 Apr 2016 14:57:30 GMT</pubDate>
         </item>
     </channel>
