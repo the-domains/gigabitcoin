@@ -4,20 +4,13 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>https://thegrid.ai/gigabitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 04:45:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 04:45:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gigabitcoin/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How To Buy Bitcoins: Is 'Digital Gold' Worth The Investment?]]></title>
             <description><![CDATA[<article><h1>How To Buy Bitcoins: Is 'Digital Gold' Worth The Investment?</h1><p>Bitcoins, virtual gold coins emblazoned with the letter B, look like the domain of video game aficionados and computer science graduates rather than a legitimate currency. But for those who are paying attention, it's starting to look more attractive as a financial tool, and as an investment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a62e8979d9f97572f8f4d22a362e60e591997d17.jpg"></article>]]></description>
             <link>http://www.ibtimes.com/how-buy-bitcoins-digital-gold-worth-investment-2350605</link>
             <guid isPermaLink="false">51017db9-4d51-4fe0-acdd-ae76ec0404e9</guid>
-            <pubDate>Sat, 09 Apr 2016 04:45:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Updated ccMiner 1.7.6-git fork by tpruvot With Improved Decred Support]]></title>
-            <description><![CDATA[<article><h1>Updated ccMiner 1.7.6-git fork by tpruvot With Improved Decred Support</h1><p>Another update with a new Windows binary compiled from the latest ccMiner 1.7.6-git fork from tpruvot ( source) with fixes that make the Decred (DCR) performance improvements by pallas work properly under Windows as well as Linux.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ab84d8da252925d388e71ed499ea180806b4442.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7706-updated-ccminer-1-7-6-git-fork-by-tpruvot-with-improved-decred-support/</link>
-            <guid isPermaLink="false">7fff6701-4d63-4c25-88ae-c945545f6539</guid>
             <pubDate>Sat, 09 Apr 2016 04:45:06 GMT</pubDate>
         </item>
         <item>
@@ -75,6 +68,13 @@
             <link>http://qz.com/654054/indian-film-industry-is-struggling-with-bitcoin-trading-sophisticated-pirates/</link>
             <guid isPermaLink="false">19170859-5f24-4af9-9963-1ec09b43716a</guid>
             <pubDate>Fri, 08 Apr 2016 16:54:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Timothy Geithner Is The Man Bitcoin Needs]]></title>
+            <description><![CDATA[<article><h1>Timothy Geithner Is The Man Bitcoin Needs</h1><p>Timothy Geithner, the Former Treasury Secretary, was asked by Fusion's Jorge Ramos about bitcoin, and if he would invest in the nascent digital currency: "No, I wouldn't," he said, when Ramos asked him to acquire bitcoins. Ramos asked Geithner if bitcoin had value. "It depends what your objective is," he added.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03b016b540670753c30b7c536c6d542841daca22.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/timothy-geithner-bitcoin-blockchain/</link>
+            <guid isPermaLink="false">af810859-aad1-4fc2-a60f-58f13342c232</guid>
+            <pubDate>Fri, 08 Apr 2016 16:54:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
