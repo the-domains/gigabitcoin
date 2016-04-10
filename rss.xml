@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 22:27:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2016 01:42:46 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WARNING: I discovered this morning that the version of pywallet hosted on Source Forge is stealing wallets! * /r/Bitcoin]]></title>
+            <description><![CDATA[<article><h1>WARNING: I discovered this morning that the version of pywallet hosted on Source Forge is stealing wallets! * /r/Bitcoin</h1><p>I noticed there was a size difference of pywallet.py on Git Hub compared to Source Forge. I decided to do a diff luckily and lines 2441 to 2476...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b3d9a195adbc776fec0e12f3233edb9209e207c.jpg"></article>]]></description>
+            <link>https://www.reddit.com/r/Bitcoin/comments/4e2bqy/warning_i_discovered_this_morning_that_the/</link>
+            <guid isPermaLink="false">adaf9935-c66f-49a4-a255-5fa5879cfac3</guid>
+            <pubDate>Sun, 10 Apr 2016 01:41:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Needs More Privacy In The Cashless Society]]></title>
             <description><![CDATA[<article><h1>Bitcoin Needs More Privacy In The Cashless Society</h1><p>Secondly, putting banks in full control of our society's money is the last thing anyone should want. Banks already hold a lot of control over our funds, and they are the very reason why the recent financial crisis took place to begin with.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b190a755fdd4306d1d64e21d19c07c96ca67dedd.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.reddit.com/r/btc/comments/4d2s2g/theres_no_such_a_thing_as_halving_disaster_the/</link>
             <guid isPermaLink="false">b13839e9-b99b-49b3-b814-055cefe6fcdb</guid>
             <pubDate>Sat, 09 Apr 2016 19:43:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The New Gold Standard: What Would Happen if Bitcoin Ruled World Finance]]></title>
-            <description><![CDATA[<article><h1>The New Gold Standard: What Would Happen if Bitcoin Ruled World Finance</h1><p>Due to the growing interest in the Bitcoin digital currency, a research consultant for Canada's central bank decided to imagine a world where the monetary system was based on the emerging cryptocurrency; interestingly enough, it would resemble the gold standard and would seriously damage central banking as we know it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9e4923c98e8495e7db49f266ec92b373283ad0a.jpg"></article>]]></description>
-            <link>http://sputniknews.com/business/20160409/1037747441/bitcoin-gold-standard.html</link>
-            <guid isPermaLink="false">654ca5eb-151a-4ea3-b2d6-81977a6ee570</guid>
-            <pubDate>Sat, 09 Apr 2016 19:43:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
