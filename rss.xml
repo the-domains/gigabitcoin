@@ -4,36 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 15:06:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2016 15:06:23 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin Price Weekly Analysis - BTC/USD At Major Turning Point - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Weekly Analysis - BTC/USD At Major Turning Point - NEWSBTC</h1><p>Bitcoin price traded below 100 SMA (H4 chart) recently, which is acting as a resistance now. A break above it is needed for BTC/USD to gain momentum. Bitcoin price traded below 100 SMA (H4 chart) recently, which is acting as a resistance now. A break above it is needed for BTC/USD to gain momentum.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c174f22a06560e8ea18684fd26091cd8dbe6c62.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/10/bitcoin-price-weekly-analysis-btcusd-major-turning-point/</link>
-            <guid isPermaLink="false">deb1c57e-f95d-4658-81b4-58e5d6030249</guid>
-            <pubDate>Sun, 10 Apr 2016 15:05:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BitSquare Releases Its Latest Beta Wallet Version 0.4.0 - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>BitSquare Releases Its Latest Beta Wallet Version 0.4.0 - NEWSBTC</h1><p>BitSquare bitcoin exchange platform has released a new beta preview version of its wallet application. Read more... BitSquare, the decentralized bitcoin exchange has been making some good progress with its bitcoin wallet. The company released the preview of its upcoming beta version of the wallet. The beta preview, version 0.4.0 is currently available on GitHub.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ec51ae09d6f13acc5eb7b45eea0f088af846973.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/10/bitsquare-wallet-beta-version/</link>
-            <guid isPermaLink="false">63775797-3941-4c8f-a972-4643cecb07e1</guid>
-            <pubDate>Sun, 10 Apr 2016 15:05:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinify Partners With iSignthis for Credit Card Bitcoin Purchases]]></title>
-            <description><![CDATA[<article><h1>Coinify Partners With iSignthis for Credit Card Bitcoin Purchases</h1><p>At the Money20/20 Europe Conference last week, Coinify announced a partnership with iSignthis which will enable users to purchase Bitcoin on the Coinify platform via major credit cards. Also read: Another Round of Reused R Values Leads to More Stolen Bitcoins Through directly tying a user's identity to transactions, the move signals a strong and legally compliant synergy, one which will likely prove to be a fantastic case study for the industry.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d21a12d2c04d5d34a68526672f823c93dfa275e.png"></article>]]></description>
-            <link>http://bitcoinist.net/coinify-isignthis-credit-card/</link>
-            <guid isPermaLink="false">d33de59b-5d26-496b-9ee1-2c1bea223a34</guid>
-            <pubDate>Sun, 10 Apr 2016 15:05:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[569] Pfizer tax inversion cancelled amid Panama Papers fallout]]></title>
-            <description><![CDATA[<article><h1>[569] Pfizer tax inversion cancelled amid Panama Papers fallout</h1><p>Pfizer and Allergan officially called off their $152 billion deal and WhatsApp is encrypting all communications; Ameera David weighs in. Then, Bianca Facchinei takes a look at the US states suffering from a loss in business due to controversial LGBT laws. Afterwards, RT's Brigida Santos reports on San Francisco's decision to implement maternity leave laws.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b470cc4047ff9b73f5b6bc59d22d41718f0a97e0.jpg"></article>]]></description>
-            <link>https://youtu.be/xqR_fsXhRy4?t=17m18s</link>
-            <guid isPermaLink="false">30a842e4-50dd-4666-bebb-b9a788daaa26</guid>
-            <pubDate>Sun, 10 Apr 2016 15:05:25 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[How I Preordered a Tesla Model 3 With Bitcoin - CoinDesk]]></title>
             <description><![CDATA[<article><h1>How I Preordered a Tesla Model 3 With Bitcoin - CoinDesk</h1><p>In his free time, Mason enjoys fostering creativity and innovation in the Bitcoin space as the organizer of the 21 hackathons. In 2010 the first Bitcoin purchase was made for two pizzas from Papa Johns. By 2011, it was possible to purchase Alpaca socks, and in 2012 VPN access.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b94ddbeb2ce3997bceeb3739c89cf651cd6444a5.jpg"></article>]]></description>
@@ -75,6 +47,34 @@
             <link>https://www.cryptocoinsnews.com/bitcoin-price-bounces-support-3/</link>
             <guid isPermaLink="false">9bb0f38a-e464-42df-a9c2-d7268c7ad25f</guid>
             <pubDate>Sun, 10 Apr 2016 02:49:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WARNING: I discovered this morning that the version of pywallet hosted on Source Forge is stealing wallets! * /r/Bitcoin]]></title>
+            <description><![CDATA[<article><h1>WARNING: I discovered this morning that the version of pywallet hosted on Source Forge is stealing wallets! * /r/Bitcoin</h1><p>I noticed there was a size difference of pywallet.py on Git Hub compared to Source Forge. I decided to do a diff luckily and lines 2441 to 2476...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b3d9a195adbc776fec0e12f3233edb9209e207c.jpg"></article>]]></description>
+            <link>https://www.reddit.com/r/Bitcoin/comments/4e2bqy/warning_i_discovered_this_morning_that_the/</link>
+            <guid isPermaLink="false">adaf9935-c66f-49a4-a255-5fa5879cfac3</guid>
+            <pubDate>Sun, 10 Apr 2016 01:41:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Needs More Privacy In The Cashless Society]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Needs More Privacy In The Cashless Society</h1><p>Secondly, putting banks in full control of our society's money is the last thing anyone should want. Banks already hold a lot of control over our funds, and they are the very reason why the recent financial crisis took place to begin with.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b190a755fdd4306d1d64e21d19c07c96ca67dedd.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/09/bitcoin-needs-privacy-cashless-society/</link>
+            <guid isPermaLink="false">c97701c2-edd7-4bd7-bce1-b647264c5e0e</guid>
+            <pubDate>Sat, 09 Apr 2016 22:25:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Let's Talk Bitcoin! #289 - Putting the Pieces Together with Tokenly]]></title>
+            <description><![CDATA[<article><h1>Let's Talk Bitcoin! #289 - Putting the Pieces Together with Tokenly</h1><p>On Episode 289... On Today's Episode of Let's Talk Bitcoin, we're going to talk about how Adam and the rest of the team at Tokenly are tailoring and pushing tokens into new markets that have real value and new users... Using cryptocurrency to solves problems entirely outside the realm of money.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1778a6064ee123f2049f765fff8614f83ed431c.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/lets-talk-bitcoin-289-putting-the-pieces-together-with-tokenly</link>
+            <guid isPermaLink="false">d83ed490-f1fa-43f1-919d-de2e09f20a53</guid>
+            <pubDate>Sat, 09 Apr 2016 22:24:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Genesis Mining Celebrates Two Year Anniversary With Big Discount Code For Cloud Mining]]></title>
+            <description><![CDATA[<article><h1>Genesis Mining Celebrates Two Year Anniversary With Big Discount Code For Cloud Mining</h1><p>Currently serving over 180,000 customers, the world's leading Bitcoin cloud mining provider Genesis Mining is celebrating its two year anniversary with generous 5% discount codes on all purchases until April 11. Two years ago, Marco Streng, Marco Krohn and Jakov Dolic announced the launch of Genesis Mining.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ebee86c2854cb06434434a40e92e4d1a3a651ece.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7709-genesis-mining-celebrates-two-year-anniversary-with-big-discount-code-for-cloud-mining/</link>
+            <guid isPermaLink="false">5595ce2b-1ff6-4fcf-8749-78aac140ab31</guid>
+            <pubDate>Sat, 09 Apr 2016 22:24:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
