@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 02:49:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2016 15:05:27 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin And Ethereum Are Driving Factors Of Open Execution Initative]]></title>
+            <description><![CDATA[<article><h1>Bitcoin And Ethereum Are Driving Factors Of Open Execution Initative</h1><p>The Bitcoin network has been supporting the Open Execution principle for quite some time now, as services owners can't run away with people's bitcoins, and no one else can use your coins and send them to somebody else. Moreover, no additional money can be created out of thin air.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e87ae23610b209072e6d14c6e0705e3be159b02.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/10/bitcoin-ethereum-driving-factors-open-execution-initative/</link>
+            <guid isPermaLink="false">309b57af-f4d0-4638-8e38-641f522145e7</guid>
+            <pubDate>Sun, 10 Apr 2016 15:05:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Tests Support]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Tests Support</h1><p>After being sold, during late US trading on Friday, to a trendline that has provided support since the middle of March bitcoin price is straining higher, early Sunday. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab4c894d67983b7970ef1756387249c5b1f136dc.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.cryptocoinsnews.com/publishers-bitcoin-browser-tangle/</link>
             <guid isPermaLink="false">402103c6-6e55-48ce-9920-75d176afff65</guid>
             <pubDate>Sat, 09 Apr 2016 22:24:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What happens when an attacker completely controlls your Internet connection?]]></title>
-            <description><![CDATA[<article><h1>What happens when an attacker completely controlls your Internet connection?</h1><p>Bitcoin assumes that everybody sees the same ledger. However, what if your ISP is evil, and modifies your view of the Bitcoin network? Is it possible for such an evil ISP to make your own transacti...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/43651/what-happens-when-an-attacker-completely-controlls-your-internet-connection</link>
-            <guid isPermaLink="false">add39187-90f3-43c4-858f-5f6b569221db</guid>
-            <pubDate>Sat, 09 Apr 2016 19:43:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
