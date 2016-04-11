@@ -4,8 +4,43 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 03:06:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 03:06:07 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to track bitcoin wallet activity with extended public key?]]></title>
+            <description><![CDATA[<article><h1>How to track bitcoin wallet activity with extended public key?</h1><p>I recently signed up on blockchain.info and on the manage addresses section I can see my wallet Extended Public Key (xPub). There is a warning message saying: You should only give this Extended</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43661/how-to-track-bitcoin-wallet-activity-with-extended-public-key</link>
+            <guid isPermaLink="false">a5b670af-e14f-4784-81ca-d3cac59f44bd</guid>
+            <pubDate>Mon, 11 Apr 2016 03:05:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Worth $200 More Than Current Valuation, Says New Report]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Worth $200 More Than Current Valuation, Says New Report</h1><p>A new report published by investment bank, Needham & Company, suggests that Bitcoin is undervalued by potentially as much as 58%, or $200, at the moment. Bitcoin is currently valued at around $412, but this is obviously subject to change at any time, but the report suggests that Bitcoin should in reality be valued at around $655, an increase of around 58%.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/821321b5a8855c472402995c2be0d819b63f01de.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/bitcoin-worth-200-more-than-current-valuation-says-new-report</link>
+            <guid isPermaLink="false">b5f529aa-3add-4870-8f0f-9368d6214f49</guid>
+            <pubDate>Mon, 11 Apr 2016 03:05:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Experimenting With DIY Mineral Oil Submersion Cooling]]></title>
+            <description><![CDATA[<article><h1>Experimenting With DIY Mineral Oil Submersion Cooling</h1><p>The summer will soon be upon us and yet again will start causing issues with the cooling of GPU and ASIC miners for a lot of people. This is why we have started doing some experiments with cooling using mineral oil to submerge a miner and using a traditional water cooling hardware for achieving more efficient, silent and problem free cooling during the coming higher temperatures.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/254136930bf22dab14043b196fa102b373ddcc5c.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7714-experimenting-with-diy-mineral-oil-submersion-cooling/</link>
+            <guid isPermaLink="false">1075704a-d8db-4d1f-bfcf-a20e580b4d4b</guid>
+            <pubDate>Mon, 11 Apr 2016 03:05:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amit Kumar Feels Bitcoin Plays A Role In Terrorism Funding]]></title>
+            <description><![CDATA[<article><h1>Amit Kumar Feels Bitcoin Plays A Role In Terrorism Funding</h1><p>What seems more likely, however, is how organizations like IS get their funding through money laundering, a scheme that has been plaguing traditional finance for quite some time. The topic of the involvement of Bitcoin in terrorism funding has been kicked around a few times in the past, but it looks like there is no end in sight.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7f8a08e0a262e7a6aab843315032c4a85885a3b.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/10/amit-kumar-feels-bitcoin-plays-role-terrorism-funding/</link>
+            <guid isPermaLink="false">50507d18-acaf-41cc-8a83-1f926fd76855</guid>
+            <pubDate>Mon, 11 Apr 2016 03:05:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Empirical analysis of blockchain branches: once every 380 blocks?]]></title>
+            <description><![CDATA[<article><h1>Empirical analysis of blockchain branches: once every 380 blocks?</h1><p>Christian-- Thank you for the answer AND the link to your paper. This is exactly the type of information I was hoping for, but was unable to find myself. To confirm I understand, allow me to use a recent blockchain branch at block height 406197.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/86bb8ff04688e194b382e1b44455d3c15668d2e8.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43660/empirical-analysis-of-blockchain-branches-once-every-380-blocks</link>
+            <guid isPermaLink="false">3220ebda-0132-4f84-82b0-23a5b3aa8910</guid>
+            <pubDate>Mon, 11 Apr 2016 03:05:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitbonkers]]></title>
             <description><![CDATA[<article><h1>Bitbonkers</h1><p>A visualisation of live Bitcoin transactions from the Blockchain</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab89c76993d7225a8acc19c410f481479316d1e0.jpg"></article>]]></description>
@@ -40,41 +75,6 @@
             <link>https://letstalkbitcoin.com/blog/post/episode-79-chris-coney-the-marketing-monk</link>
             <guid isPermaLink="false">2ba1e2a8-423e-4729-9dfd-2f259ba4d638</guid>
             <pubDate>Mon, 11 Apr 2016 03:05:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin and Gold Standard Aren't the Same - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin and Gold Standard Aren't the Same - NEWSBTC</h1><p>Bitcoin is not a gold standard as it is independent, without the intervention of any central bank or government agency. Read more... There has been a lot of comparison between bitcoin and gold in the recent times. Bitcoin has been compared to gold in many aspects.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8419bb390eef43a3fa622d43dd5a57f1d560df89.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/10/bitcoin-gold-standard-arent/</link>
-            <guid isPermaLink="false">13b362dd-d577-456f-a83b-9f92c5cd58c0</guid>
-            <pubDate>Mon, 11 Apr 2016 03:05:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[./learncoind not connecting to DigitalOcean Droplet]]></title>
-            <description><![CDATA[<article><h1>./learncoind not connecting to DigitalOcean Droplet</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/43643/learncoind-not-connecting-to-digitalocean-droplet</link>
-            <guid isPermaLink="false">37bd816c-0d4f-41c0-bcfb-d82f4640c48c</guid>
-            <pubDate>Mon, 11 Apr 2016 03:05:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article></article>]]></description>
-            <link>http://www.economiccalendar.com/2016/04/10/bitcoin-cryptocurrency-from-the-dark-web-to-the-mainstream/</link>
-            <guid isPermaLink="false">3d5bd3c5-e9aa-4e6b-bf99-85e81a2df57f</guid>
-            <pubDate>Sun, 10 Apr 2016 15:05:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rusty Russell Proposes Generic Addresses for Bitcoin Wallets]]></title>
-            <description><![CDATA[<article><h1>Rusty Russell Proposes Generic Addresses for Bitcoin Wallets</h1><p>Rusty Russell , the open software developer has recently shared a proposal to create generic bitcoin wallet address on lightning network. Read more... The Bitcoin network is badly in need of an upgrade. As the number of transactions on the blockchain increase, the smaller block size and limited processing capacity has led to confirmation backlogs and an increase in miner fee for transactions across the network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/322ea4dd140fedd12db8d5accd6b77693936066a.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/10/rusty-russell-bitcoin-wallet-proposal/</link>
-            <guid isPermaLink="false">7fe0e41a-7c45-45f2-804a-22d780960ba7</guid>
-            <pubDate>Sun, 10 Apr 2016 15:05:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Weekly Analysis - BTC/USD At Major Turning Point - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Weekly Analysis - BTC/USD At Major Turning Point - NEWSBTC</h1><p>Bitcoin price traded below 100 SMA (H4 chart) recently, which is acting as a resistance now. A break above it is needed for BTC/USD to gain momentum. Bitcoin price traded below 100 SMA (H4 chart) recently, which is acting as a resistance now. A break above it is needed for BTC/USD to gain momentum.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c174f22a06560e8ea18684fd26091cd8dbe6c62.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/10/bitcoin-price-weekly-analysis-btcusd-major-turning-point/</link>
-            <guid isPermaLink="false">deb1c57e-f95d-4658-81b4-58e5d6030249</guid>
-            <pubDate>Sun, 10 Apr 2016 15:05:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
