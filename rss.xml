@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 03:06:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 03:06:05 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[How to track bitcoin wallet activity with extended public key?]]></title>
-            <description><![CDATA[<article><h1>How to track bitcoin wallet activity with extended public key?</h1><p>I recently signed up on blockchain.info and on the manage addresses section I can see my wallet Extended Public Key (xPub). There is a warning message saying: You should only give this Extended</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/43661/how-to-track-bitcoin-wallet-activity-with-extended-public-key</link>
-            <guid isPermaLink="false">a5b670af-e14f-4784-81ca-d3cac59f44bd</guid>
-            <pubDate>Mon, 11 Apr 2016 03:05:19 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Worth $200 More Than Current Valuation, Says New Report]]></title>
             <description><![CDATA[<article><h1>Bitcoin Worth $200 More Than Current Valuation, Says New Report</h1><p>A new report published by investment bank, Needham & Company, suggests that Bitcoin is undervalued by potentially as much as 58%, or $200, at the moment. Bitcoin is currently valued at around $412, but this is obviously subject to change at any time, but the report suggests that Bitcoin should in reality be valued at around $655, an increase of around 58%.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/821321b5a8855c472402995c2be0d819b63f01de.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Episode #79 Chris Coney - The Marketing Monk</h1><p>On today's show I am privileged to be speaking with the Marketing Monk, Chris Coney. Chris teaches an online course called Digital Money Revolution that can be found by going to http://digitalmoneyrevolution.com. This course promises to get you up to speed on the exciting and sometimes challenging new world of digital currencies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a070ee3cde5d79f254b5cff3af8656032357177f.jpg"></article>]]></description>
             <link>https://letstalkbitcoin.com/blog/post/episode-79-chris-coney-the-marketing-monk</link>
             <guid isPermaLink="false">2ba1e2a8-423e-4729-9dfd-2f259ba4d638</guid>
+            <pubDate>Mon, 11 Apr 2016 03:05:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin and Gold Standard Aren't the Same - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin and Gold Standard Aren't the Same - NEWSBTC</h1><p>Bitcoin is not a gold standard as it is independent, without the intervention of any central bank or government agency. Read more... There has been a lot of comparison between bitcoin and gold in the recent times. Bitcoin has been compared to gold in many aspects.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8419bb390eef43a3fa622d43dd5a57f1d560df89.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/10/bitcoin-gold-standard-arent/</link>
+            <guid isPermaLink="false">13b362dd-d577-456f-a83b-9f92c5cd58c0</guid>
             <pubDate>Mon, 11 Apr 2016 03:05:18 GMT</pubDate>
         </item>
     </channel>
