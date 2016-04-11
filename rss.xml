@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 03:06:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 03:06:03 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dear Miners: you sell a commodity called blockspace. Running Core prevents you from selling more of your product to meet demand. * /r/btc]]></title>
+            <description><![CDATA[<article><h1>Dear Miners: you sell a commodity called blockspace. Running Core prevents you from selling more of your product to meet demand. * /r/btc</h1><p>A blocksize limit will destroy your longterm profitability and prevent you from acquiring new customers. Full stop, end of story, that is...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
+            <link>https://www.reddit.com/r/btc/comments/4e57fz/dear_miners_you_sell_a_commodity_called/</link>
+            <guid isPermaLink="false">01a1215d-23ca-4456-91b6-e8a29427baad</guid>
+            <pubDate>Mon, 11 Apr 2016 03:05:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Surge Destination Unknown]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Surge Destination Unknown</h1><p>Bitcoin price quickly returned to its previous consolidation zone during Sunday trade. The verdict in the ongoing case of Bulls vs. Bears remains inconclusive. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member? Join now and receive a $29 discount using the code CCN29.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6a25ab8692d539f67e616d3c4805509f3ec218e.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>BitSquare Releases Its Latest Beta Wallet Version 0.4.0 - NEWSBTC</h1><p>BitSquare bitcoin exchange platform has released a new beta preview version of its wallet application. Read more... BitSquare, the decentralized bitcoin exchange has been making some good progress with its bitcoin wallet. The company released the preview of its upcoming beta version of the wallet. The beta preview, version 0.4.0 is currently available on GitHub.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ec51ae09d6f13acc5eb7b45eea0f088af846973.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/04/10/bitsquare-wallet-beta-version/</link>
             <guid isPermaLink="false">63775797-3941-4c8f-a972-4643cecb07e1</guid>
-            <pubDate>Sun, 10 Apr 2016 15:05:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinify Partners With iSignthis for Credit Card Bitcoin Purchases]]></title>
-            <description><![CDATA[<article><h1>Coinify Partners With iSignthis for Credit Card Bitcoin Purchases</h1><p>At the Money20/20 Europe Conference last week, Coinify announced a partnership with iSignthis which will enable users to purchase Bitcoin on the Coinify platform via major credit cards. Also read: Another Round of Reused R Values Leads to More Stolen Bitcoins Through directly tying a user's identity to transactions, the move signals a strong and legally compliant synergy, one which will likely prove to be a fantastic case study for the industry.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d21a12d2c04d5d34a68526672f823c93dfa275e.png"></article>]]></description>
-            <link>http://bitcoinist.net/coinify-isignthis-credit-card/</link>
-            <guid isPermaLink="false">d33de59b-5d26-496b-9ee1-2c1bea223a34</guid>
             <pubDate>Sun, 10 Apr 2016 15:05:27 GMT</pubDate>
         </item>
     </channel>
