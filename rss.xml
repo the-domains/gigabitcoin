@@ -7,13 +7,6 @@
         <lastBuildDate>Mon, 11 Apr 2016 03:06:03 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Empirical analysis of blockchain branches: once every 380 blocks?]]></title>
-            <description><![CDATA[<article><h1>Empirical analysis of blockchain branches: once every 380 blocks?</h1><p>Christian-- Thank you for the answer AND the link to your paper. This is exactly the type of information I was hoping for, but was unable to find myself. To confirm I understand, allow me to use a recent blockchain branch at block height 406197.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/86bb8ff04688e194b382e1b44455d3c15668d2e8.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/43660/empirical-analysis-of-blockchain-branches-once-every-380-blocks</link>
-            <guid isPermaLink="false">3220ebda-0132-4f84-82b0-23a5b3aa8910</guid>
-            <pubDate>Mon, 11 Apr 2016 03:05:18 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bitbonkers]]></title>
             <description><![CDATA[<article><h1>Bitbonkers</h1><p>A visualisation of live Bitcoin transactions from the Blockchain</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab89c76993d7225a8acc19c410f481479316d1e0.jpg"></article>]]></description>
             <link>http://bitbonkers.com</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Rusty Russell Proposes Generic Addresses for Bitcoin Wallets</h1><p>Rusty Russell , the open software developer has recently shared a proposal to create generic bitcoin wallet address on lightning network. Read more... The Bitcoin network is badly in need of an upgrade. As the number of transactions on the blockchain increase, the smaller block size and limited processing capacity has led to confirmation backlogs and an increase in miner fee for transactions across the network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/322ea4dd140fedd12db8d5accd6b77693936066a.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/04/10/rusty-russell-bitcoin-wallet-proposal/</link>
             <guid isPermaLink="false">7fe0e41a-7c45-45f2-804a-22d780960ba7</guid>
+            <pubDate>Sun, 10 Apr 2016 15:05:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Weekly Analysis - BTC/USD At Major Turning Point - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Weekly Analysis - BTC/USD At Major Turning Point - NEWSBTC</h1><p>Bitcoin price traded below 100 SMA (H4 chart) recently, which is acting as a resistance now. A break above it is needed for BTC/USD to gain momentum. Bitcoin price traded below 100 SMA (H4 chart) recently, which is acting as a resistance now. A break above it is needed for BTC/USD to gain momentum.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c174f22a06560e8ea18684fd26091cd8dbe6c62.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/10/bitcoin-price-weekly-analysis-btcusd-major-turning-point/</link>
+            <guid isPermaLink="false">deb1c57e-f95d-4658-81b4-58e5d6030249</guid>
             <pubDate>Sun, 10 Apr 2016 15:05:27 GMT</pubDate>
         </item>
     </channel>
