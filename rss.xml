@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 15:37:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 15:37:07 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blockchain won't kill banks: Bitcoin pioneer]]></title>
+            <description><![CDATA[<article><h1>Blockchain won't kill banks: Bitcoin pioneer</h1><p>Blockchain - the technology that underpins the cryptocurrency bitcoin - is unlikely to kill banks despite warnings from top industry executives, the chair of a bitcoin non-profit organization told CNBC on Monday. Last week, Andrey Sharov, a vice president at Russia's Sberbank, said banks would disappear by 2026 due to the rising use of blockchain technology.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d90b5b4ec9ac84c3bfae77a0fdfe2c9810393046.jpg"></article>]]></description>
+            <link>http://www.cnbc.com/2016/04/11/blockchain-wont-kill-banks-brock-pierce.html</link>
+            <guid isPermaLink="false">eaac158f-fd5a-4d95-bb10-ceca5c8709a2</guid>
+            <pubDate>Mon, 11 Apr 2016 15:36:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Donald Trump Presidency Would Increase Bitcoin Remittances To Mexico]]></title>
+            <description><![CDATA[<article><h1>A Donald Trump Presidency Would Increase Bitcoin Remittances To Mexico</h1><p>If it's not remittances , immigrants in the US will figure out a way to send their money home if they want to do so. For now, it's not going to be Bitcoin. But, if Trump does block remittances, you better believe that sooner than later increasing numbers of remitters will look into this blockchain technology.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab4c894d67983b7970ef1756387249c5b1f136dc.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/donald-trump-presidency-increase-bitcoin-remittances-mexico/</link>
+            <guid isPermaLink="false">564fe357-5362-49c5-87de-d2ada50db653</guid>
+            <pubDate>Mon, 11 Apr 2016 15:36:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Can Bitcoin Be Gold 2.0?]]></title>
             <description><![CDATA[<article><h1>Can Bitcoin Be Gold 2.0?</h1><p>In my previous article ' Inflation: The Beast in the Cage' we discussed how central banks are purposefully manufacturing inflation in the hopes of countering the global economy's prevailing deflationary headwinds, and the ramifications this could have for fiat currencies (currencies issued and backed by central banks).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5abe003b0e97ebc62e6bded9dc9137b77cb30a7e.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Empirical analysis of blockchain branches: once every 380 blocks?</h1><p>Christian-- Thank you for the answer AND the link to your paper. This is exactly the type of information I was hoping for, but was unable to find myself. To confirm I understand, allow me to use a recent blockchain branch at block height 406197.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/86bb8ff04688e194b382e1b44455d3c15668d2e8.png"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/43660/empirical-analysis-of-blockchain-branches-once-every-380-blocks</link>
             <guid isPermaLink="false">3220ebda-0132-4f84-82b0-23a5b3aa8910</guid>
-            <pubDate>Mon, 11 Apr 2016 03:05:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitbonkers]]></title>
-            <description><![CDATA[<article><h1>Bitbonkers</h1><p>A visualisation of live Bitcoin transactions from the Blockchain</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab89c76993d7225a8acc19c410f481479316d1e0.jpg"></article>]]></description>
-            <link>http://bitbonkers.com</link>
-            <guid isPermaLink="false">ab57dd0b-8b3c-41d8-a23c-852c4a557b90</guid>
-            <pubDate>Mon, 11 Apr 2016 03:05:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dear Miners: you sell a commodity called blockspace. Running Core prevents you from selling more of your product to meet demand. * /r/btc]]></title>
-            <description><![CDATA[<article><h1>Dear Miners: you sell a commodity called blockspace. Running Core prevents you from selling more of your product to meet demand. * /r/btc</h1><p>A blocksize limit will destroy your longterm profitability and prevent you from acquiring new customers. Full stop, end of story, that is...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
-            <link>https://www.reddit.com/r/btc/comments/4e57fz/dear_miners_you_sell_a_commodity_called/</link>
-            <guid isPermaLink="false">01a1215d-23ca-4456-91b6-e8a29427baad</guid>
             <pubDate>Mon, 11 Apr 2016 03:05:18 GMT</pubDate>
         </item>
     </channel>
