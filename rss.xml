@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 15:37:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 15:37:09 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin and Divorce: A Match Made in Heaven? - Bitcoinist.net]]></title>
+            <description><![CDATA[<article><h1>Bitcoin and Divorce: A Match Made in Heaven? - Bitcoinist.net</h1><p>There appears to be a new weapon in the battle for divorce by vindictive estranged partners: bitcoin. Yes, it turns out that bitcoin is causing a bit of a stir in the legal community. In many countries wealth isn't divided equally based on how much a person earns, but how much is contributed to the marriage.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9000f26c3390b4eeedbf5977c60bca9827cf7025.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/bitcoin-and-divorce-a-match-made-in-heaven/</link>
+            <guid isPermaLink="false">11691791-0387-41e7-9a31-0b1ae7f68601</guid>
+            <pubDate>Mon, 11 Apr 2016 15:36:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is mysterious billionaire inventor of Bitcoin about to reveal his identity?]]></title>
             <description><![CDATA[<article><h1>Is mysterious billionaire inventor of Bitcoin about to reveal his identity?</h1><p>The secretive billionaire inventor of Bitcoin is preparing to finally reveal his identity, tech industry sources have claimed. A mysterious figure who used the false name Satoshi Nakamoto to launch a digital currency, which fuels a shadow economy worth billions of dollars, is understood to be planning to reveal his true identity in the coming days.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8e490d367887f5b2f884b7e2df3fd1b095d2a0e.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How to track bitcoin wallet activity with extended public key?</h1><p>I recently signed up on blockchain.info and on the manage addresses section I can see my wallet Extended Public Key (xPub). There is a warning message saying: You should only give this Extended</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/43661/how-to-track-bitcoin-wallet-activity-with-extended-public-key</link>
             <guid isPermaLink="false">a5b670af-e14f-4784-81ca-d3cac59f44bd</guid>
-            <pubDate>Mon, 11 Apr 2016 03:05:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Worth $200 More Than Current Valuation, Says New Report]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Worth $200 More Than Current Valuation, Says New Report</h1><p>A new report published by investment bank, Needham & Company, suggests that Bitcoin is undervalued by potentially as much as 58%, or $200, at the moment. Bitcoin is currently valued at around $412, but this is obviously subject to change at any time, but the report suggests that Bitcoin should in reality be valued at around $655, an increase of around 58%.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/821321b5a8855c472402995c2be0d819b63f01de.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/bitcoin-worth-200-more-than-current-valuation-says-new-report</link>
-            <guid isPermaLink="false">b5f529aa-3add-4870-8f0f-9368d6214f49</guid>
             <pubDate>Mon, 11 Apr 2016 03:05:19 GMT</pubDate>
         </item>
     </channel>
