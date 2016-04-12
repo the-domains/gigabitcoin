@@ -4,8 +4,57 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 03:46:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 03:46:19 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How are paths found in Lightning Network?]]></title>
+            <description><![CDATA[<article><h1>How are paths found in Lightning Network?</h1><p>I understand now how multihop payments can work in LN, but how do we discover payment paths in Lightning Network in the first place? Obviously you'd need to take into account the available capacit...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43687/how-are-paths-found-in-lightning-network</link>
+            <guid isPermaLink="false">e20e6c2e-e9fb-4185-ae92-5740e3266804</guid>
+            <pubDate>Tue, 12 Apr 2016 03:45:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beyond bitcoin: 5 things you need to know about blockchain technology]]></title>
+            <description><![CDATA[<article><h1>Beyond bitcoin: 5 things you need to know about blockchain technology</h1><p>Talk of blockchain technology is everywhere, it seems, thanks to the rise of Bitcoin and other cryptocurrencies-but what is it, and what does it do? The first thing to know about the blockchain is, there isn't one: there are many. Blockchains are distributed, tamper-proof public ledgers of transactions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/478b2b9f2884c28920f1bd7b7fbf2b1a888a6bef.jpg"></article>]]></description>
+            <link>http://www.pcworld.com/article/3053946/data-center-cloud/5-things-you-should-know-about-the-blockchain.html</link>
+            <guid isPermaLink="false">23b7a85e-5824-4426-ae8a-0c9040993c30</guid>
+            <pubDate>Tue, 12 Apr 2016 03:45:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bad News for Otto De Voogd as Supreme Court Regulates Bitcoin in Estonia - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bad News for Otto De Voogd as Supreme Court Regulates Bitcoin in Estonia - NEWSBTC</h1><p>Trading has been one of the major applications of bitcoin. The price volatility of cryptocurrencies has been exploited by day-traders across the world. As the amount of funds circulating through bitcoin trading increase, the practice is now being scrutinized by governments. In this regard, Estonia has now joined the ranks of countries that are regulating bitcoin trading.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c1d50c45b8d78fbf182cb33a759fb6e4c30de04.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/11/otto-de-voogd-bitcoin-estonia-case/</link>
+            <guid isPermaLink="false">901d51d6-84b4-4003-967a-36ab06006672</guid>
+            <pubDate>Tue, 12 Apr 2016 03:45:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blokchalin.info trying to steal Blockchain.info user funds (Google Ads Phishing Attack). * /r/Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Blokchalin.info trying to steal Blockchain.info user funds (Google Ads Phishing Attack). * /r/Bitcoin</h1><p>Bitcoin is the currency of the Internet: a distributed, worldwide, decentralized digital money. Unlike traditional currencies such as dollars, bitcoins are issued and managed without any central authority whatsoever: there is no government, company, or bank in charge of Bitcoin. As such, it is more resistant to wild inflation and corrupt banks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
+            <link>https://www.reddit.com/r/Bitcoin/comments/4e99po/blokchalininfo_trying_to_steal_blockchaininfo/</link>
+            <guid isPermaLink="false">0b3ba39b-72ce-428e-b1c1-7d7c71bb8f93</guid>
+            <pubDate>Tue, 12 Apr 2016 03:45:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jim Rickards on Why Bitcoin Is a Legitimate Money]]></title>
+            <description><![CDATA[<article><h1>Jim Rickards on Why Bitcoin Is a Legitimate Money</h1><p>Jim Rickards , the New York Times best-selling author of Currency Wars and The Death of Money , recently discussed his latest book, The New Case for.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e625a6e004cc945dd54d74e9cf82255025bb901a.jpg"></article>]]></description>
+            <link>http://www.nasdaq.com/article/jim-rickards-on-why-bitcoin-is-a-legitimate-money-cm604676</link>
+            <guid isPermaLink="false">edbe8918-77a8-4bc0-8ec4-9be6632e6f61</guid>
+            <pubDate>Tue, 12 Apr 2016 03:45:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>There is a Wikipedia edit war now going on to remove terms "permissionless" and "bitcoin" from the blockchain entry https://en.m.wikipedia.org/wiki/Block_chain_(database) ...</p>]]></description>
+            <link>https://twitter.com/jonmatonis/status/719524629338025984</link>
+            <guid isPermaLink="false">323fec13-8c10-4473-a7ee-34e89e08e78c</guid>
+            <pubDate>Tue, 12 Apr 2016 03:45:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Analysis: 4/11/2016]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Analysis: 4/11/2016</h1><p>After having been continuously forming an upward trend, Bitcoin's price has undergone a powerful downward impulse. Will that affect further growth? A sharp change in the trend indicates that the majority of the bulls did not expect a continuation of the trend at that point.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eecece24c34c7bc3e8cde75aa59940466837332a.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/bitcoin-price-analysis-4112016</link>
+            <guid isPermaLink="false">e0e02abf-46ef-41cb-8a46-72ca78371fdd</guid>
+            <pubDate>Tue, 12 Apr 2016 03:45:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin industry rushing through guidelines as 'devastated' buyers seek refunds]]></title>
             <description><![CDATA[<article><h1>Bitcoin industry rushing through guidelines as 'devastated' buyers seek refunds</h1><p>Posted April 12, 2016 12:05:09 The Australian computer currency industry is urgently moving to bring in a code of conduct to stop customers losing money from bitcoin companies that go under. Last night, 7.30 revealed that Australian-founded bitcoin exchange Igot appeared on the verge of collapse, with dozens of customers and clients claiming to be owed hundreds of thousands of dollars.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3323b1a4292cba938d56013d514f3cd4bca1db8a.jpg"></article>]]></description>
@@ -26,55 +75,6 @@
             <link>https://bitcoinmagazine.com/articles/jim-rickards-on-why-bitcoin-is-a-legitimate-money-1460401346</link>
             <guid isPermaLink="false">b3df2f83-72d3-49c4-9071-3fc95e403513</guid>
             <pubDate>Tue, 12 Apr 2016 03:45:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[pH Miners Inc's new deal offers $3000 savings on Bitcoin and Litecoin miners]]></title>
-            <description><![CDATA[<article><h1>pH Miners Inc's new deal offers $3000 savings on Bitcoin and Litecoin miners</h1><p>NEW YORK, April 11, 2016 (GLOBE NEWSWIRE) -- pH Miners Inc have launched a special offer on their powerful Bitcoin and Litecoin miners which will enable customers to buy four miners for the price of three, saving an impressive $3000.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5de55e2196bf7095d77019d27044b16265f11586.jpg"></article>]]></description>
-            <link>https://globenewswire.com/news-release/2016/04/11/827812/0/en/pH-Miners-Inc-s-new-deal-offers-3000-savings-on-Bitcoin-and-Litecoin-miners.html</link>
-            <guid isPermaLink="false">7a8f152c-52ac-4bc9-a77c-beba5f5daa6f</guid>
-            <pubDate>Tue, 12 Apr 2016 03:45:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[$100 Bill loaded with $100 in Bitcoin]]></title>
-            <description><![CDATA[<article><h1>$100 Bill loaded with $100 in Bitcoin</h1><p>This album is really big! It's going to take us a bit to get your download ready for you. Enter your email and we will notify you when it's ready. Once ready, it will be available for up to 24 hours.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0cf31eff73368706ff4cea03541e8d5b97561777.jpg"></article>]]></description>
-            <link>http://imgur.com/a/qv8Wf</link>
-            <guid isPermaLink="false">47138f9f-8f3d-4594-8c92-95c8fd0cd190</guid>
-            <pubDate>Tue, 12 Apr 2016 03:45:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Analysis - How to cash in on the upcoming price action]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Analysis - How to cash in on the upcoming price action</h1><p>The technical setups posted below use simple trend detection, support and resistance, channels, pattern and candle analysis. We aim for high-probability trade setups on BTCUSD and use very few indicators. All charts use BNC's Bitcoin Liquid Index for maximum accuracy. The timeframe for trades is 1 to 7 days, so we'll use 4h candlesticks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bbc17b481ce7dd155d75a9d31077bdb0a57a7716.jpg"></article>]]></description>
-            <link>http://bravenewcoin.com/news/bitcoin-price-analysis-how-to-cash-in-on-the-upcoming-price-action/</link>
-            <guid isPermaLink="false">33b3915b-d588-4a56-af2a-f12c3839703e</guid>
-            <pubDate>Mon, 11 Apr 2016 15:36:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Technical Analysis for 04/11/2016 - Channel Bounce! - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 04/11/2016 - Channel Bounce! - NEWSBTC</h1><p>Bitcoin price is still in an uptrend, as the ascending channel support on the 4-hour time frame is holding. Bitcoin Price Key Highlights Bitcoin price is still in an uptrend, as the ascending channel support on the 4-hour time frame is holding.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0fbb7b1b0915ca9d433787886da49e6ee013c8c1.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/11/bitcoin-price-technical-analysis-04112016-channel-bounce/</link>
-            <guid isPermaLink="false">c19747f8-5522-47fb-8e25-e3f2da4c8453</guid>
-            <pubDate>Mon, 11 Apr 2016 15:36:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why are all redeem scripts standard, but only a few pubkey scripts?]]></title>
-            <description><![CDATA[<article><h1>Why are all redeem scripts standard, but only a few pubkey scripts?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top As I understand it, only transactions with pubkey scripts conforming to a certain pattern are considered "standard" and are relayed, however a script is also considered standard regardless of its redeem script.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/43682/why-are-all-redeem-scripts-standard-but-only-a-few-pubkey-scripts</link>
-            <guid isPermaLink="false">03b17b88-6538-4ceb-8fa9-13131d4c5e4e</guid>
-            <pubDate>Mon, 11 Apr 2016 15:36:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin/ cryptocurrency exchange ShapeShift offline following hack, company rebuilding platform]]></title>
-            <description><![CDATA[<article><h1>Bitcoin/ cryptocurrency exchange ShapeShift offline following hack, company rebuilding platform</h1><p>Bitcoin and cryptocurrency exchange service ShapeShift AG is offline following a breach of the service April 7. The full details of how the breach occurred are not available however Chief Executive Officer Eric Voorhees took to Reddit to explain that while the service had been hacked, no customer funds were stolen, however, an unspecified amount was taken from ShapeShift's own hot wallet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07b88884355987252b91ab396e3aeb8aa2b45842.jpg"></article>]]></description>
-            <link>http://siliconangle.com/blog/2016/04/11/bitcoin-cryptocurrency-exchange-shapeshift-offline-following-hack-company-rebuilding-platform/</link>
-            <guid isPermaLink="false">03705c69-7771-4686-b535-0ac687f2c9f0</guid>
-            <pubDate>Mon, 11 Apr 2016 15:36:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; The Week Ahead - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; The Week Ahead - NEWSBTC</h1><p>Here's what we are looking at in the bitcoin price for today's session. We are right at the beginning of a fresh week's worth of trading in the bitcoin price, and it's looking like we might get some interesting action going forward.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7057dfbfba9b56159bb733c620c6dcfba40c4d51.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/11/bitcoin-price-watch-week-aheads/</link>
-            <guid isPermaLink="false">80ff550a-4976-47f2-9dfe-149264918bd3</guid>
-            <pubDate>Mon, 11 Apr 2016 15:36:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
