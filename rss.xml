@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 14:32:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 14:31:56 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The Crypto Show with a closer look at BitClub Network]]></title>
-            <description><![CDATA[<article><h1>The Crypto Show with a closer look at BitClub Network</h1><p>BitClub Buyer Beware I felt it needed to be said. The initial research I have done on BitClub just reinforces my initial reservations about it. I hope this article creates no hard feelings, but I feel strongly that it needs to be said. Sorry, Joby.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8063446429667ac6e56c10ffee0c5e729661ff20.jpg"></article>]]></description>
-            <link>https://letstalkbitcoin.com/blog/post/the-crypto-show-with-a-closer-look-at-bitclub-network</link>
-            <guid isPermaLink="false">625aa745-8bb9-4341-a7fd-a120efbef42a</guid>
-            <pubDate>Tue, 12 Apr 2016 14:30:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Technology Organizations Launch Global Blockchain Forum To Address International Policy]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Technology Organizations Launch Global Blockchain Forum To Address International Policy</h1><p>The technology behind Bitcoin is becoming more widely used, but startups and established institutions face conflicting regulations in different jurisdictions. The Global Blockchain Forum aims to help.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9091c3ab9936b89d0b1653fc3a7309b701b0e120.jpg"></article>]]></description>
-            <link>http://www.forbes.com/sites/laurashin/2016/04/12/bitcoin-technology-organizations-launch-global-blockchain-forum-to-address-international-policy/</link>
-            <guid isPermaLink="false">8c773656-6bc5-4c67-96e0-9de1a57bf3da</guid>
-            <pubDate>Tue, 12 Apr 2016 14:30:52 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Cash, fear and uncertainty: The Holy Trinity of Bitcoin and blockchain]]></title>
             <description><![CDATA[<article><h1>Cash, fear and uncertainty: The Holy Trinity of Bitcoin and blockchain</h1><p>Feature Writing anything about Bitcoin or blockchains is a challenge. It's not the easiest technology to understand - not because it's particularly complex, but because it's grown into something of a confused mess of different technologies and applications. It also "looks" strange compared to most technologies that we're used to.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3a17fd6c9448dd4a17e1f0f6cb889bcf56e8d55.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>http://www.newsbtc.com/2016/04/12/bitcoin-price-watch-heres-watching-2/</link>
             <guid isPermaLink="false">f9b9e9a3-d5b3-48ac-9899-150f078790e5</guid>
             <pubDate>Tue, 12 Apr 2016 14:30:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Security Experts Create Solution For Petya Bitcoin Ransomware]]></title>
+            <description><![CDATA[<article><h1>Security Experts Create Solution For Petya Bitcoin Ransomware</h1><p>Petya is one of the most recent strains of Bitcoin ransomware that has been wreaking havoc in various countries. But that may be coming to an end, now that security experts from Leostone have come up with a software solution to bypass the ransom demand.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/324a66e36a6f096d28710196696c719523776148.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/security-experts-create-solution-for-petya-bitcoin-ransomware/</link>
+            <guid isPermaLink="false">42995cdd-377e-478c-b031-c7466fdc2412</guid>
+            <pubDate>Tue, 12 Apr 2016 14:30:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New ccMiner 1.7.1 fork by alexs78 With Improved Vcash and Decred Performance]]></title>
+            <description><![CDATA[<article><h1>New ccMiner 1.7.1 fork by alexs78 With Improved Vcash and Decred Performance</h1><p>Alexis Provos has updated his fork of ccMiner ( source) with improved performance for mining Vcash and Decred Blake256-based crypto coins and we have compiled a Windows binary to try it out.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a29c93845ae28c85cd48c708c42902bd5a96992.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7718-new-ccminer-1-7-1-fork-by-alexs78-with-improved-vcash-and-decred-performance/</link>
+            <guid isPermaLink="false">08bc0206-bfea-4306-b6db-979b2e9c433c</guid>
+            <pubDate>Tue, 12 Apr 2016 03:45:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
