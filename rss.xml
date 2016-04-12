@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 03:46:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 03:46:16 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>There is a Wikipedia edit war now going on to remove terms "permissionless" and "bitcoin" from the blockchain entry https://en.m.wikipedia.org/wiki/Block_chain_(database) ...</p>]]></description>
-            <link>https://twitter.com/jonmatonis/status/719524629338025984</link>
-            <guid isPermaLink="false">323fec13-8c10-4473-a7ee-34e89e08e78c</guid>
-            <pubDate>Tue, 12 Apr 2016 03:45:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Analysis: 4/11/2016]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Analysis: 4/11/2016</h1><p>After having been continuously forming an upward trend, Bitcoin's price has undergone a powerful downward impulse. Will that affect further growth? A sharp change in the trend indicates that the majority of the bulls did not expect a continuation of the trend at that point.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eecece24c34c7bc3e8cde75aa59940466837332a.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/bitcoin-price-analysis-4112016</link>
-            <guid isPermaLink="false">e0e02abf-46ef-41cb-8a46-72ca78371fdd</guid>
-            <pubDate>Tue, 12 Apr 2016 03:45:29 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin industry rushing through guidelines as 'devastated' buyers seek refunds]]></title>
             <description><![CDATA[<article><h1>Bitcoin industry rushing through guidelines as 'devastated' buyers seek refunds</h1><p>Posted April 12, 2016 12:05:09 The Australian computer currency industry is urgently moving to bring in a code of conduct to stop customers losing money from bitcoin companies that go under. Last night, 7.30 revealed that Australian-founded bitcoin exchange Igot appeared on the verge of collapse, with dozens of customers and clients claiming to be owed hundreds of thousands of dollars.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3323b1a4292cba938d56013d514f3cd4bca1db8a.jpg"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>Why are all redeem scripts standard, but only a few pubkey scripts?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top As I understand it, only transactions with pubkey scripts conforming to a certain pattern are considered "standard" and are relayed, however a script is also considered standard regardless of its redeem script.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/43682/why-are-all-redeem-scripts-standard-but-only-a-few-pubkey-scripts</link>
             <guid isPermaLink="false">03b17b88-6538-4ceb-8fa9-13131d4c5e4e</guid>
+            <pubDate>Mon, 11 Apr 2016 15:36:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin/ cryptocurrency exchange ShapeShift offline following hack, company rebuilding platform]]></title>
+            <description><![CDATA[<article><h1>Bitcoin/ cryptocurrency exchange ShapeShift offline following hack, company rebuilding platform</h1><p>Bitcoin and cryptocurrency exchange service ShapeShift AG is offline following a breach of the service April 7. The full details of how the breach occurred are not available however Chief Executive Officer Eric Voorhees took to Reddit to explain that while the service had been hacked, no customer funds were stolen, however, an unspecified amount was taken from ShapeShift's own hot wallet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07b88884355987252b91ab396e3aeb8aa2b45842.jpg"></article>]]></description>
+            <link>http://siliconangle.com/blog/2016/04/11/bitcoin-cryptocurrency-exchange-shapeshift-offline-following-hack-company-rebuilding-platform/</link>
+            <guid isPermaLink="false">03705c69-7771-4686-b535-0ac687f2c9f0</guid>
+            <pubDate>Mon, 11 Apr 2016 15:36:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Watch; The Week Ahead - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Watch; The Week Ahead - NEWSBTC</h1><p>Here's what we are looking at in the bitcoin price for today's session. We are right at the beginning of a fresh week's worth of trading in the bitcoin price, and it's looking like we might get some interesting action going forward.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7057dfbfba9b56159bb733c620c6dcfba40c4d51.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/11/bitcoin-price-watch-week-aheads/</link>
+            <guid isPermaLink="false">80ff550a-4976-47f2-9dfe-149264918bd3</guid>
             <pubDate>Mon, 11 Apr 2016 15:36:18 GMT</pubDate>
         </item>
     </channel>
