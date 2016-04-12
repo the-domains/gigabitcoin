@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 03:46:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 03:46:18 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[How are paths found in Lightning Network?]]></title>
-            <description><![CDATA[<article><h1>How are paths found in Lightning Network?</h1><p>I understand now how multihop payments can work in LN, but how do we discover payment paths in Lightning Network in the first place? Obviously you'd need to take into account the available capacit...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/43687/how-are-paths-found-in-lightning-network</link>
-            <guid isPermaLink="false">e20e6c2e-e9fb-4185-ae92-5740e3266804</guid>
-            <pubDate>Tue, 12 Apr 2016 03:45:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beyond bitcoin: 5 things you need to know about blockchain technology]]></title>
-            <description><![CDATA[<article><h1>Beyond bitcoin: 5 things you need to know about blockchain technology</h1><p>Talk of blockchain technology is everywhere, it seems, thanks to the rise of Bitcoin and other cryptocurrencies-but what is it, and what does it do? The first thing to know about the blockchain is, there isn't one: there are many. Blockchains are distributed, tamper-proof public ledgers of transactions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/478b2b9f2884c28920f1bd7b7fbf2b1a888a6bef.jpg"></article>]]></description>
-            <link>http://www.pcworld.com/article/3053946/data-center-cloud/5-things-you-should-know-about-the-blockchain.html</link>
-            <guid isPermaLink="false">23b7a85e-5824-4426-ae8a-0c9040993c30</guid>
-            <pubDate>Tue, 12 Apr 2016 03:45:30 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bad News for Otto De Voogd as Supreme Court Regulates Bitcoin in Estonia - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bad News for Otto De Voogd as Supreme Court Regulates Bitcoin in Estonia - NEWSBTC</h1><p>Trading has been one of the major applications of bitcoin. The price volatility of cryptocurrencies has been exploited by day-traders across the world. As the amount of funds circulating through bitcoin trading increase, the practice is now being scrutinized by governments. In this regard, Estonia has now joined the ranks of countries that are regulating bitcoin trading.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c1d50c45b8d78fbf182cb33a759fb6e4c30de04.jpg"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>Jim Rickards on Why Bitcoin Is a Legitimate Money</h1><p>Jim Rickards, the New York Times best-selling author of Currency Wars and The Death of Money, recently discussed his latest book, The New Case for Gold, during a reinvent.money hangout. Although the majority of the conversation focused on Rickards' new book, the economic commentator also shared some thoughts on Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76de4835063b24d837cf3a136a3c36f55f878a76.jpg"></article>]]></description>
             <link>https://bitcoinmagazine.com/articles/jim-rickards-on-why-bitcoin-is-a-legitimate-money-1460401346</link>
             <guid isPermaLink="false">b3df2f83-72d3-49c4-9071-3fc95e403513</guid>
+            <pubDate>Tue, 12 Apr 2016 03:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[pH Miners Inc's new deal offers $3000 savings on Bitcoin and Litecoin miners]]></title>
+            <description><![CDATA[<article><h1>pH Miners Inc's new deal offers $3000 savings on Bitcoin and Litecoin miners</h1><p>NEW YORK, April 11, 2016 (GLOBE NEWSWIRE) -- pH Miners Inc have launched a special offer on their powerful Bitcoin and Litecoin miners which will enable customers to buy four miners for the price of three, saving an impressive $3000.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5de55e2196bf7095d77019d27044b16265f11586.jpg"></article>]]></description>
+            <link>https://globenewswire.com/news-release/2016/04/11/827812/0/en/pH-Miners-Inc-s-new-deal-offers-3000-savings-on-Bitcoin-and-Litecoin-miners.html</link>
+            <guid isPermaLink="false">7a8f152c-52ac-4bc9-a77c-beba5f5daa6f</guid>
+            <pubDate>Tue, 12 Apr 2016 03:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[$100 Bill loaded with $100 in Bitcoin]]></title>
+            <description><![CDATA[<article><h1>$100 Bill loaded with $100 in Bitcoin</h1><p>This album is really big! It's going to take us a bit to get your download ready for you. Enter your email and we will notify you when it's ready. Once ready, it will be available for up to 24 hours.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0cf31eff73368706ff4cea03541e8d5b97561777.jpg"></article>]]></description>
+            <link>http://imgur.com/a/qv8Wf</link>
+            <guid isPermaLink="false">47138f9f-8f3d-4594-8c92-95c8fd0cd190</guid>
             <pubDate>Tue, 12 Apr 2016 03:45:29 GMT</pubDate>
         </item>
     </channel>
