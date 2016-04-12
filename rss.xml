@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 14:31:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 14:30:55 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The Energy Saver Feature of Gentarkin's Custom Titan Firmware]]></title>
-            <description><![CDATA[<article><h1>The Energy Saver Feature of Gentarkin's Custom Titan Firmware</h1><p>The Energy Saver feature of Gentarkin's custom KNC Titan firmware was something that we wanted to try out in the 1.0.2 version and we tried to do it, but there was a bug that was causing the process to continue for days without finishing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c332f5696866e9eb43452579bf8eb322307942d1.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7721-the-energy-saver-feature-of-gentarkins-custom-titan-firmware/</link>
-            <guid isPermaLink="false">cf6a0363-3fe3-4abb-8f91-fad668006a04</guid>
-            <pubDate>Tue, 12 Apr 2016 14:30:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Here's What We're Watching - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Here's What We're Watching - NEWSBTC</h1><p>Here's what we are looking at for today's early session out of Europe in the bitcoin price It's the start of the European morning session, and finally, the bitcoin price has given us some action worth trading.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/118b0a7df02a679cd8c8238c8c7e058a6979e5c9.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/12/bitcoin-price-watch-heres-watching-2/</link>
-            <guid isPermaLink="false">f9b9e9a3-d5b3-48ac-9899-150f078790e5</guid>
-            <pubDate>Tue, 12 Apr 2016 14:30:51 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Security Experts Create Solution For Petya Bitcoin Ransomware]]></title>
             <description><![CDATA[<article><h1>Security Experts Create Solution For Petya Bitcoin Ransomware</h1><p>Petya is one of the most recent strains of Bitcoin ransomware that has been wreaking havoc in various countries. But that may be coming to an end, now that security experts from Leostone have come up with a software solution to bypass the ransom demand.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/324a66e36a6f096d28710196696c719523776148.jpg"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>Blokchalin.info trying to steal Blockchain.info user funds (Google Ads Phishing Attack). * /r/Bitcoin</h1><p>Bitcoin is the currency of the Internet: a distributed, worldwide, decentralized digital money. Unlike traditional currencies such as dollars, bitcoins are issued and managed without any central authority whatsoever: there is no government, company, or bank in charge of Bitcoin. As such, it is more resistant to wild inflation and corrupt banks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
             <link>https://www.reddit.com/r/Bitcoin/comments/4e99po/blokchalininfo_trying_to_steal_blockchaininfo/</link>
             <guid isPermaLink="false">0b3ba39b-72ce-428e-b1c1-7d7c71bb8f93</guid>
+            <pubDate>Tue, 12 Apr 2016 03:45:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jim Rickards on Why Bitcoin Is a Legitimate Money]]></title>
+            <description><![CDATA[<article><h1>Jim Rickards on Why Bitcoin Is a Legitimate Money</h1><p>Jim Rickards , the New York Times best-selling author of Currency Wars and The Death of Money , recently discussed his latest book, The New Case for.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e625a6e004cc945dd54d74e9cf82255025bb901a.jpg"></article>]]></description>
+            <link>http://www.nasdaq.com/article/jim-rickards-on-why-bitcoin-is-a-legitimate-money-cm604676</link>
+            <guid isPermaLink="false">edbe8918-77a8-4bc0-8ec4-9be6632e6f61</guid>
+            <pubDate>Tue, 12 Apr 2016 03:45:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>There is a Wikipedia edit war now going on to remove terms "permissionless" and "bitcoin" from the blockchain entry https://en.m.wikipedia.org/wiki/Block_chain_(database) ...</p>]]></description>
+            <link>https://twitter.com/jonmatonis/status/719524629338025984</link>
+            <guid isPermaLink="false">323fec13-8c10-4473-a7ee-34e89e08e78c</guid>
             <pubDate>Tue, 12 Apr 2016 03:45:30 GMT</pubDate>
         </item>
     </channel>
