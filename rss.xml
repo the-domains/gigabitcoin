@@ -4,8 +4,36 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 03:46:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 03:46:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New ccMiner 1.7.1 fork by alexs78 With Improved Vcash and Decred Performance]]></title>
+            <description><![CDATA[<article><h1>New ccMiner 1.7.1 fork by alexs78 With Improved Vcash and Decred Performance</h1><p>Alexis Provos has updated his fork of ccMiner ( source) with improved performance for mining Vcash and Decred Blake256-based crypto coins and we have compiled a Windows binary to try it out.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a29c93845ae28c85cd48c708c42902bd5a96992.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7718-new-ccminer-1-7-1-fork-by-alexs78-with-improved-vcash-and-decred-performance/</link>
+            <guid isPermaLink="false">08bc0206-bfea-4306-b6db-979b2e9c433c</guid>
+            <pubDate>Tue, 12 Apr 2016 03:45:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Watch; Scalps in Place for Tonight]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Watch; Scalps in Place for Tonight</h1><p>Here's what we are looking at for the evening session in the bitcoin price on Monday Before we get going on this evening's bitcoin price analysis, take a quick look at the chart below. It's a fifteen-minute candlestick chart that shows the action seen in the bitcoin price over the weekend, and this morning, with today's framework overlaid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc1f111fa478b0a0a296e7e49a252e097d66b68e.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/11/bitcoin-price-watch-scalps-place-tonight/</link>
+            <guid isPermaLink="false">110d450f-764b-4bf6-b675-2f149d0b9107</guid>
+            <pubDate>Tue, 12 Apr 2016 03:45:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Remains In Consolidation Range]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Remains In Consolidation Range</h1><p>Bitcoin price eeks it out in a narrow range. Some lows, some highs but none of them to a new extreme. The eventual direction of trend remains unclear. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a memb...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab4c894d67983b7970ef1756387249c5b1f136dc.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-price-remains-consolidation-range/</link>
+            <guid isPermaLink="false">8364d97d-890e-414d-86ce-8cfca80caad9</guid>
+            <pubDate>Tue, 12 Apr 2016 03:45:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How are paths found in Lightning Network?]]></title>
+            <description><![CDATA[<article><h1>How are paths found in Lightning Network?</h1><p>I understand now how multihop payments can work in LN, but how do we discover payment paths in Lightning Network in the first place? Obviously you'd need to take into account the available capacit...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43687/how-are-paths-found-in-lightning-network</link>
+            <guid isPermaLink="false">e20e6c2e-e9fb-4185-ae92-5740e3266804</guid>
+            <pubDate>Tue, 12 Apr 2016 03:45:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Beyond bitcoin: 5 things you need to know about blockchain technology]]></title>
             <description><![CDATA[<article><h1>Beyond bitcoin: 5 things you need to know about blockchain technology</h1><p>Talk of blockchain technology is everywhere, it seems, thanks to the rise of Bitcoin and other cryptocurrencies-but what is it, and what does it do? The first thing to know about the blockchain is, there isn't one: there are many. Blockchains are distributed, tamper-proof public ledgers of transactions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/478b2b9f2884c28920f1bd7b7fbf2b1a888a6bef.jpg"></article>]]></description>
@@ -46,34 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Analysis: 4/11/2016</h1><p>After having been continuously forming an upward trend, Bitcoin's price has undergone a powerful downward impulse. Will that affect further growth? A sharp change in the trend indicates that the majority of the bulls did not expect a continuation of the trend at that point.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eecece24c34c7bc3e8cde75aa59940466837332a.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/bitcoin-price-analysis-4112016</link>
             <guid isPermaLink="false">e0e02abf-46ef-41cb-8a46-72ca78371fdd</guid>
-            <pubDate>Tue, 12 Apr 2016 03:45:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin industry rushing through guidelines as 'devastated' buyers seek refunds]]></title>
-            <description><![CDATA[<article><h1>Bitcoin industry rushing through guidelines as 'devastated' buyers seek refunds</h1><p>Posted April 12, 2016 12:05:09 The Australian computer currency industry is urgently moving to bring in a code of conduct to stop customers losing money from bitcoin companies that go under. Last night, 7.30 revealed that Australian-founded bitcoin exchange Igot appeared on the verge of collapse, with dozens of customers and clients claiming to be owed hundreds of thousands of dollars.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3323b1a4292cba938d56013d514f3cd4bca1db8a.jpg"></article>]]></description>
-            <link>http://www.abc.net.au/news/2016-04-12/bitcoin-industry-rushing-through-tough-new-guidelines/7319324</link>
-            <guid isPermaLink="false">686eed08-a008-4952-b841-ddc4c8daec6d</guid>
-            <pubDate>Tue, 12 Apr 2016 03:45:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UPDATE: I tried accepting Bitcoin at my small food tent. I had to stop. It's not bitcoin, it's you. * /r/Bitcoin]]></title>
-            <description><![CDATA[<article><h1>UPDATE: I tried accepting Bitcoin at my small food tent. I had to stop. It's not bitcoin, it's you. * /r/Bitcoin</h1><p>Hi there, A while back I asked this community about doing 0 confirmation sales at a food truck. Just updating because I said I would, and to...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
-            <link>https://www.reddit.com/r/Bitcoin/comments/4eccqr/update_i_tried_accepting_bitcoin_at_my_small_food/</link>
-            <guid isPermaLink="false">ada88395-c5c0-49bf-934c-06a31620381b</guid>
-            <pubDate>Tue, 12 Apr 2016 03:45:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jim Rickards on Why Bitcoin Is a Legitimate Money]]></title>
-            <description><![CDATA[<article><h1>Jim Rickards on Why Bitcoin Is a Legitimate Money</h1><p>Jim Rickards, the New York Times best-selling author of Currency Wars and The Death of Money, recently discussed his latest book, The New Case for Gold, during a reinvent.money hangout. Although the majority of the conversation focused on Rickards' new book, the economic commentator also shared some thoughts on Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76de4835063b24d837cf3a136a3c36f55f878a76.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/jim-rickards-on-why-bitcoin-is-a-legitimate-money-1460401346</link>
-            <guid isPermaLink="false">b3df2f83-72d3-49c4-9071-3fc95e403513</guid>
-            <pubDate>Tue, 12 Apr 2016 03:45:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[pH Miners Inc's new deal offers $3000 savings on Bitcoin and Litecoin miners]]></title>
-            <description><![CDATA[<article><h1>pH Miners Inc's new deal offers $3000 savings on Bitcoin and Litecoin miners</h1><p>NEW YORK, April 11, 2016 (GLOBE NEWSWIRE) -- pH Miners Inc have launched a special offer on their powerful Bitcoin and Litecoin miners which will enable customers to buy four miners for the price of three, saving an impressive $3000.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5de55e2196bf7095d77019d27044b16265f11586.jpg"></article>]]></description>
-            <link>https://globenewswire.com/news-release/2016/04/11/827812/0/en/pH-Miners-Inc-s-new-deal-offers-3000-savings-on-Bitcoin-and-Litecoin-miners.html</link>
-            <guid isPermaLink="false">7a8f152c-52ac-4bc9-a77c-beba5f5daa6f</guid>
             <pubDate>Tue, 12 Apr 2016 03:45:29 GMT</pubDate>
         </item>
     </channel>
