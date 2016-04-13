@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 13:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 13:17:59 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Spend Bitcoin Online | Bitcoin.com]]></title>
+            <description><![CDATA[<article><h1>Spend Bitcoin Online | Bitcoin.com</h1><p>Buy Bitcoin, Create Bitcoin Wallets, Read Bitcoin News, and more, at Bitcoin.com</p></article>]]></description>
+            <link>https://www.bitcoin.com/spend-bitcoin-online</link>
+            <guid isPermaLink="false">f97b3998-c7b0-4908-af0e-9bf05ca06aab</guid>
+            <pubDate>Wed, 13 Apr 2016 13:16:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Has Bitcoin become the new ransom money?]]></title>
+            <description><![CDATA[<article><h1>Has Bitcoin become the new ransom money?</h1><p>When an Information Technology (IT) company in Mysuru recently became the target of a 'denial-of-service' attack, the attackers demanded Bitcoins in return for sharing the key to restore the company's computer systems. The attackers demanded management Bitcoins - virtual money through Bitcoin-dealing websites - in return for the key.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7d2de76e00d8d51478a46835d117b744cf50a9b.jpg"></article>]]></description>
+            <link>http://www.thehindu.com/news/national/has-bitcoin-become-the-new-ransom-money/article8468066.ece</link>
+            <guid isPermaLink="false">024baf45-fde5-44b7-acc6-7bd756885216</guid>
+            <pubDate>Wed, 13 Apr 2016 13:16:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cost of running Bitcore]]></title>
             <description><![CDATA[<article><h1>Cost of running Bitcore</h1><p>What's the cost of running Bitcore on AWS or DigitalOcean? I know I'd need about 128gb of hardrive space, but I'm not sure how much the typical bandwidth costs would be, and how much RAM or cores I...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>How are paths found in Lightning Network? * /r/Bitcoin</h1><p>AFAIK, that problem is supposed to be solved by the end user. This sounds worse than it is. As an end user, you would typically open a channel...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd87d74d91afb87dce614bf40644c4e59e97bc36.jpg"></article>]]></description>
             <link>https://np.reddit.com/r/Bitcoin/comments/4ea1s8/how_are_paths_found_in_lightning_network/d1ybnv7</link>
             <guid isPermaLink="false">4057a296-9f30-4a73-bd02-f976e14ffb89</guid>
-            <pubDate>Wed, 13 Apr 2016 13:16:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Trader Case: In Estonia, The Verdict Is In]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Trader Case: In Estonia, The Verdict Is In</h1><p>Recently, Estonian courts ruled in the Bitcoin case of Otto de Voogd. The recent environment in Estonia surrounding digital currency has been negative and the ruling did not come as a complete surprise. Nonetheless, there are serious implications for the cryptocurrency community locally and abroad.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2f16f50c5a290de7699123b6c8fe112604773db.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-case-in-estonia-the-verdict-is-in/</link>
-            <guid isPermaLink="false">54f10d26-6802-425f-93de-df9698ab5e85</guid>
-            <pubDate>Wed, 13 Apr 2016 13:16:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Expert: Bitcoin will Never become a Reserve Currency - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Expert: Bitcoin will Never become a Reserve Currency - NEWSBTC</h1><p>According to Pavel Kravchenko of DistributedLabs, Bitcoin is not going to be a reserve currency anytime soon. It is mainly due to the hesitation of the banking sector to recognize bitcoin as a currency. Opinions are dime a dozen, as everyone has at least one and sometimes more than one.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5554db61ea9c79e66caeaad3fd07b2f9ab5689c5.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/13/bitcoin-is-never-going-to-be-a-reserve-currency-pavel-kravchenko/</link>
-            <guid isPermaLink="false">7defbee4-58a6-4b8b-9f21-b18e8f9e5f37</guid>
             <pubDate>Wed, 13 Apr 2016 13:16:40 GMT</pubDate>
         </item>
     </channel>
