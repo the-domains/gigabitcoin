@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 13:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 13:18:00 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[What a Tech Startup's Pivots Say About Bitcoin's Future]]></title>
-            <description><![CDATA[<article><h1>What a Tech Startup's Pivots Say About Bitcoin's Future</h1><p>Those who want to understand exactly how bitcoin is being adopted in the U.S. would do well to take a look at tech startup Snapcard. The company has existed less than three years, but it's already reinvented itself twice, changing its business model to adjust to bitcoin's evolution.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85523633860291b21149e44e83f02926a822a0ce.jpg"></article>]]></description>
-            <link>http://www.americanbanker.com/news/bank-technology/what-a-tech-startups-pivots-say-about-bitcoins-future-1080400-1.html</link>
-            <guid isPermaLink="false">6f3e646f-adfe-4fd5-a2dc-fc07308f18de</guid>
-            <pubDate>Wed, 13 Apr 2016 13:16:42 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[The Latest Ethminer 0.9.41-genoil-1.0.7 Beta for Windows]]></title>
             <description><![CDATA[<article><h1>The Latest Ethminer 0.9.41-genoil-1.0.7 Beta for Windows</h1><p>We have compiled a Windows binary (64-bit only) from the latest ethminer 0.9.41 Genoil fork 1.0.7 beta for Nvidia CUDA as well as AMD OpenCL mining of Ethereum ( source). The latest code comes with the addition of failover support for Stratum mode along with the already available in previous release failover support for the standard mining mode.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dedd52a6b553923fcccef71e8c080c1aa48586ae.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>EB126 - Trent Mcconaghy: Scalable Public Distributed Databases With BigchainDB</h1><p>One of the major drawbacks of Bitcoin is its low transaction throughput. Maxing out only a handful of operations per second, there have been many proposals to scale it up so that it can compete with existing distributed database technologies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c0344ff4e98b866180122b8faf423fb36f2ae84.jpg"></article>]]></description>
             <link>https://letstalkbitcoin.com/blog/post/epicenter-bitcoin-126-trent-mcconaghy-scalable-public-distributed-databases-with-bigchaindb</link>
             <guid isPermaLink="false">5868fbd1-c311-4c80-93a0-a4be9e076640</guid>
+            <pubDate>Wed, 13 Apr 2016 13:16:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Technical Analysis for 04/13/2016 - Another Channel Within a Channel! - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 04/13/2016 - Another Channel Within a Channel! - NEWSBTC</h1><p>Bitcoin price is having trouble sustaining its climb past this short-term resistance area, but a break higher could mean a move to the longer-term channel top. Bitcoin Price Key Highlights Bitcoin price is having trouble sustaining its climb past this short-term resistance area, but a break higher could mean a move to the longer-term channel top.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e207d0e82b9aecae17fd0528fca4d05af99d6e2f.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/13/bitcoin-price-technical-analysis-04132016-another-channel-within-channel/</link>
+            <guid isPermaLink="false">9321d6e2-4a78-4a1f-85e3-a90a58e88e00</guid>
             <pubDate>Wed, 13 Apr 2016 13:16:40 GMT</pubDate>
         </item>
     </channel>
