@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 13:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 13:17:29 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Technical Analysis for 04/13/2016 - Another Channel Within a Channel! - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 04/13/2016 - Another Channel Within a Channel! - NEWSBTC</h1><p>Bitcoin price is having trouble sustaining its climb past this short-term resistance area, but a break higher could mean a move to the longer-term channel top. Bitcoin Price Key Highlights Bitcoin price is having trouble sustaining its climb past this short-term resistance area, but a break higher could mean a move to the longer-term channel top.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e207d0e82b9aecae17fd0528fca4d05af99d6e2f.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/13/bitcoin-price-technical-analysis-04132016-another-channel-within-channel/</link>
+            <guid isPermaLink="false">9321d6e2-4a78-4a1f-85e3-a90a58e88e00</guid>
+            <pubDate>Wed, 13 Apr 2016 13:16:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How are paths found in Lightning Network? * /r/Bitcoin]]></title>
+            <description><![CDATA[<article><h1>How are paths found in Lightning Network? * /r/Bitcoin</h1><p>AFAIK, that problem is supposed to be solved by the end user. This sounds worse than it is. As an end user, you would typically open a channel...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd87d74d91afb87dce614bf40644c4e59e97bc36.jpg"></article>]]></description>
+            <link>https://np.reddit.com/r/Bitcoin/comments/4ea1s8/how_are_paths_found_in_lightning_network/d1ybnv7</link>
+            <guid isPermaLink="false">4057a296-9f30-4a73-bd02-f976e14ffb89</guid>
+            <pubDate>Wed, 13 Apr 2016 13:16:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Trader Case: In Estonia, The Verdict Is In]]></title>
             <description><![CDATA[<article><h1>Bitcoin Trader Case: In Estonia, The Verdict Is In</h1><p>Recently, Estonian courts ruled in the Bitcoin case of Otto de Voogd. The recent environment in Estonia surrounding digital currency has been negative and the ruling did not come as a complete surprise. Nonetheless, there are serious implications for the cryptocurrency community locally and abroad.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2f16f50c5a290de7699123b6c8fe112604773db.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Technology Organizations Launch Global Blockchain Forum To Address International Policy</h1><p>The technology behind Bitcoin is becoming more widely used, but startups and established institutions face conflicting regulations in different jurisdictions. The Global Blockchain Forum aims to help.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9091c3ab9936b89d0b1653fc3a7309b701b0e120.jpg"></article>]]></description>
             <link>http://www.forbes.com/sites/laurashin/2016/04/12/bitcoin-technology-organizations-launch-global-blockchain-forum-to-address-international-policy/</link>
             <guid isPermaLink="false">8c773656-6bc5-4c67-96e0-9de1a57bf3da</guid>
-            <pubDate>Tue, 12 Apr 2016 14:30:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cash, fear and uncertainty: The Holy Trinity of Bitcoin and blockchain]]></title>
-            <description><![CDATA[<article><h1>Cash, fear and uncertainty: The Holy Trinity of Bitcoin and blockchain</h1><p>Feature Writing anything about Bitcoin or blockchains is a challenge. It's not the easiest technology to understand - not because it's particularly complex, but because it's grown into something of a confused mess of different technologies and applications. It also "looks" strange compared to most technologies that we're used to.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3a17fd6c9448dd4a17e1f0f6cb889bcf56e8d55.jpg"></article>]]></description>
-            <link>http://www.theregister.co.uk/2016/04/12/bitcoin_blockchain/</link>
-            <guid isPermaLink="false">a5b41d27-7aaf-4f7e-a285-2841e86d0c14</guid>
-            <pubDate>Tue, 12 Apr 2016 14:30:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin & Multicoin Wallet Provider CoinWallet Shuts Down]]></title>
-            <description><![CDATA[<article><h1>Bitcoin & Multicoin Wallet Provider CoinWallet Shuts Down</h1><p>CoinWallet, an online bitcoin and multicoin wallet service has announced the closure of its services. The announcement cites a recent data breach that struck the wallet and bitcoin services provider on April 6, 2016. Online multicoin wallet service Coinwallet is shutting down its services following a recent data breach.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c02fc6cfa14586c4d52c40ead4ae1444c6e40a8.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-multicoin-wallet-provider-coinwallet-shuts-down/</link>
-            <guid isPermaLink="false">e09ec13f-439c-4adf-b490-257cf6ec0f49</guid>
             <pubDate>Tue, 12 Apr 2016 14:30:52 GMT</pubDate>
         </item>
     </channel>
