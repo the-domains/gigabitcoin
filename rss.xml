@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 13:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 04:17:26 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Former regulator turns Bitcoin tech advocate]]></title>
+            <description><![CDATA[<article><h1>Former regulator turns Bitcoin tech advocate</h1><p>NEW YORK, April 13 (IFR) - Former New York state financial services chief Benjamin Lawsky may have taken a harsh view of virtual currency as a regulator, but he has begun to stump for the technology behind it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e97add1cee49d9d0a7f087204eafc069359e468.png"></article>]]></description>
+            <link>http://www.reuters.com/article/bitcoin-regulator-new-york-idUSL2N17G1UW</link>
+            <guid isPermaLink="false">3354dcd2-bd9a-4039-b387-21dcdf0dea4b</guid>
+            <pubDate>Thu, 14 Apr 2016 04:16:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Second Annual Bay BitHack Hackathon Yields New Bitcoin and Blockchain Apps]]></title>
+            <description><![CDATA[<article><h1>Second Annual Bay BitHack Hackathon Yields New Bitcoin and Blockchain Apps</h1><p>Last weekend, the largest collegiate Bitcoin and blockchain technology hackathon was hosted in the San Francisco Bay Area. More than 50 outstanding developers and entrepreneurs competed in the second annual Bay BitHack, held at the Innovation Lab at the University of California, Berkeley on April 2-3.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b86f70f499862ca652c021cc43adab017a344736.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/second-annual-bay-bithack-hackathon-yields-new-bitcoin-and-blockchain-apps-1460563743</link>
+            <guid isPermaLink="false">5ad4419c-02d4-4be7-a4fb-8d6cbd9ccf85</guid>
+            <pubDate>Thu, 14 Apr 2016 04:16:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cryptocurrency For Beginners]]></title>
             <description><![CDATA[<article><h1>Cryptocurrency For Beginners</h1><p>What do you know about Bitcoin? Ever purchased/sold any? Used it to pay for something, online or at a bricks and mortar store? What about Ethereum? BitGold? If you're like the majority of the public, you may have a slight inkling as to what cryptocurrencies are, but you've never owned any, and don't know much about them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fcd5683cfe2f5c04ec6c791d61db5d7d7549132.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.americanbanker.com/news/bank-technology/what-a-tech-startups-pivots-say-about-bitcoins-future-1080400-1.html</link>
             <guid isPermaLink="false">6f3e646f-adfe-4fd5-a2dc-fc07308f18de</guid>
             <pubDate>Wed, 13 Apr 2016 13:16:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Latest Ethminer 0.9.41-genoil-1.0.7 Beta for Windows]]></title>
-            <description><![CDATA[<article><h1>The Latest Ethminer 0.9.41-genoil-1.0.7 Beta for Windows</h1><p>We have compiled a Windows binary (64-bit only) from the latest ethminer 0.9.41 Genoil fork 1.0.7 beta for Nvidia CUDA as well as AMD OpenCL mining of Ethereum ( source). The latest code comes with the addition of failover support for Stratum mode along with the already available in previous release failover support for the standard mining mode.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dedd52a6b553923fcccef71e8c080c1aa48586ae.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7734-the-latest-ethminer-0-9-41-genoil-1-0-7-beta-for-windows/</link>
-            <guid isPermaLink="false">7cc05747-628a-4737-8789-228b1943de6e</guid>
-            <pubDate>Wed, 13 Apr 2016 13:16:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spend Bitcoin Online | Bitcoin.com]]></title>
-            <description><![CDATA[<article><h1>Spend Bitcoin Online | Bitcoin.com</h1><p>Buy Bitcoin, Create Bitcoin Wallets, Read Bitcoin News, and more, at Bitcoin.com</p></article>]]></description>
-            <link>https://www.bitcoin.com/spend-bitcoin-online</link>
-            <guid isPermaLink="false">f97b3998-c7b0-4908-af0e-9bf05ca06aab</guid>
-            <pubDate>Wed, 13 Apr 2016 13:16:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
