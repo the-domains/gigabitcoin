@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 14:29:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 14:30:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Crypto Show & Tatiana Moroz with Kevin McKernan of Medicinal Genomics on the Blockchain]]></title>
+            <description><![CDATA[<article><h1>The Crypto Show & Tatiana Moroz with Kevin McKernan of Medicinal Genomics on the Blockchain</h1><p>We start off with Tatiana to talk about her upcoming album "Keeping The Faith" and much more. Then 37 min in we talk with Kevin McKernan about Medicinal Genomics and how they are logging the thousands of different strains of Marijuana on the Blockchain to protect against counterfeiting and cloning of trademark strains.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/826d9be2a3b3b0786bf97354c4cd8b112ca1918a.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/the-crypto-show-tatiana-moroz-with-kevin-mckernan-of-medicinal-genomics-on-the-blockchain</link>
+            <guid isPermaLink="false">4b735235-0b90-4723-96e1-6ef6f6b682d0</guid>
+            <pubDate>Thu, 14 Apr 2016 14:28:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin and cryptocurrency exchange CoinWallet is closing down after a hack steals customer data]]></title>
+            <description><![CDATA[<article><h1>Bitcoin and cryptocurrency exchange CoinWallet is closing down after a hack steals customer data</h1><p>Bitcoin and cryptocurrency exchange CoinWallet.co has announced that they will be closing the business effective May 1 following a data breach. According to the closure announcement post, the hack occurred April 6 and involved the person behind the attack inserting bad code in a recently added feature that allowed user input.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34828331f6d21422bf3c3179c5716eef8585f1f4.jpg"></article>]]></description>
+            <link>http://siliconangle.com/blog/2016/04/14/bitcoin-and-cryptocurrency-exchange-coinwallet-is-closing-down-after-a-hack-steals-customer-data/</link>
+            <guid isPermaLink="false">e809e5d5-a2a7-4b05-8f51-dc3b853dced7</guid>
+            <pubDate>Thu, 14 Apr 2016 14:28:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Have Some Spare CPU Power, Mine HOdlcoin With It]]></title>
             <description><![CDATA[<article><h1>Have Some Spare CPU Power, Mine HOdlcoin With It</h1><p>There are not that many CPU-only mineable coins out there and our current preferred choice for dedicating some spare CPU mining power is for HOdlcoin (HODL). The coin started with solo mining only from the wallet, but has since introduced pools and separate miners, so now it it easier to get started and there is development going on on new features.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd7f775ddf1a9f3e19466539976caab6262c3ca5.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.nasdaq.com/article/the-push-for-a-cashless-society-could-be-an-opportunity-for-bitcoin-cm605217</link>
             <guid isPermaLink="false">6fc40518-2c5d-474f-bff2-e6a3edb1b78b</guid>
             <pubDate>Thu, 14 Apr 2016 04:16:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Scalability: An Inside Look at Lightning's Race to Save the Day]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Scalability: An Inside Look at Lightning's Race to Save the Day</h1><p>With the halving looming and transaction capacity maxed out, some are predicting a doomsday scenario. Much, therefore, depends on the Lightning Network. A "decentralized network using smart contract functionality in the blockchain to enable instant payments" which is capable of an amazing "millions to billions of transactions per second" according to the Lightning Network's website.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6f4d521fd2c4c6637085ff1898db4ac623ddb9a.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-scalability-an-inside-look-at-lightning/</link>
-            <guid isPermaLink="false">01912dac-d31d-42ed-98bd-fc9b01556d71</guid>
-            <pubDate>Thu, 14 Apr 2016 04:16:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin In The Time Of Negative Interest Rates]]></title>
-            <description><![CDATA[<article><h1>Bitcoin In The Time Of Negative Interest Rates</h1><p>The Central Banks of Japan and Europe have imposed negative interest rates on deposits. Would these blunt monetary tools of Central Bankers be effective if bitcoin adoption becomes widespread? Christine Lagarde, International Monetary Fund Managing Director, says: "We see the recent introduction of negative interest rates by the ECB and Bank of Japan as net positives in current circumstances, though not without side effects that warrant vigilance."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e8a3f9e179f8fe1c0deeafcfb1c4554a24d94ebf.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/bitcoin-in-the-time-of-negative-interest-rates</link>
-            <guid isPermaLink="false">aaa34475-508e-4da6-a44a-cc105f6f6003</guid>
-            <pubDate>Thu, 14 Apr 2016 04:16:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
