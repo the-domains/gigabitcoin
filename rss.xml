@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 14:29:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 14:29:02 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BITCOIN NEWS, PRICE & ANALYSIS - NEWSBTC.COM]]></title>
+            <description><![CDATA[<article><h1>BITCOIN NEWS, PRICE & ANALYSIS - NEWSBTC.COM</h1><p>NewsBTC is a Bitcoin news service that covers cryptocurrency news, technical analysis and forecasts for bitcoin, litecoin, dash, doge & digital currencies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43cfc6d43a55ea4f964a522ebe2781b17191ab0c.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/14/bitcoin-price-watch-todays-entries/</link>
+            <guid isPermaLink="false">c553106b-0b16-4d90-8f5b-14902a68e7f5</guid>
+            <pubDate>Thu, 14 Apr 2016 14:28:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CEX-IO Bitcoin Exchange Launches Ethereum Trading]]></title>
             <description><![CDATA[<article><h1>CEX-IO Bitcoin Exchange Launches Ethereum Trading</h1><p>Bitcoin Press Release: CEX.IO Bitcoin exchange launched trading Ethers, currency used by the Ethereum decentralised platform that runs smart contracts. CEX.IO users are now able to buy and sell ETH for Bitcoins and US Dollars. April 13th, 2016, - Following trends, CEX.IO has expanded the range of currencies traded on the exchange with ETH/BTC and ETH/USD.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3bcb4be3a4f4a20b2709eca6b6651b2d4457361.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Kraken Gains Series B Investment, Pushes Bitcoin Services & Ethereum in Japan</h1><p>One of the largest bitcoin and cryptocurrency exchanges in the world, Kraken, has announced an investment from a leading Japanese foreign exchange brokerage, in the exchange's Series B round of financing. Cryptocurrency exchange Kraken has announced an investment from Tokyo-based Money Partners Group as a part of its Series B round of financing, in a press release today.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e8789533d81057e30772080672d199e600b303b.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/kraken-series-b-bitcoin-ethereum-japan/</link>
             <guid isPermaLink="false">50820503-6fa9-43ab-a956-1cfacf6d046b</guid>
-            <pubDate>Thu, 14 Apr 2016 04:16:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About 1 year ago I decided I wanted to do something to help Bitcoin but I lack sufficient coding skills. So I did something else and tomorrow I teach my first class on Bitcoin and Cryptocurrencies at my local community college. * /r/Bitcoin]]></title>
-            <description><![CDATA[<article><h1>About 1 year ago I decided I wanted to do something to help Bitcoin but I lack sufficient coding skills. So I did something else and tomorrow I teach my first class on Bitcoin and Cryptocurrencies at my local community college. * /r/Bitcoin</h1><p>A few years ago I finally decided to look up that work 'bitcoin' that had popped up on my reddit front page from time to time. About 6 months of...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
-            <link>https://www.reddit.com/r/Bitcoin/comments/4ej6jk/about_1_year_ago_i_decided_i_wanted_to_do/</link>
-            <guid isPermaLink="false">08283e1a-f19a-4431-8062-41d2590b1c64</guid>
             <pubDate>Thu, 14 Apr 2016 04:16:55 GMT</pubDate>
         </item>
     </channel>
