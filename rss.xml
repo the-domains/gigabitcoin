@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 04:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 04:17:29 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How Bitcoin will smash Donald Trump's Mexican remittance wall]]></title>
+            <description><![CDATA[<article><h1>How Bitcoin will smash Donald Trump's Mexican remittance wall</h1><p>Last week, presidential candidate Donald Trump revealed his plan for funding the wall that he wants to build on the border between Mexico and the southern United States. How would he generate the billions of dollars to construct it? He has a simple plan: block the flow of remittance funds from United States to Mexico.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/284d14b543e05a5553d278b56f36466cc39d5bcf.jpg"></article>]]></description>
+            <link>http://www.ibtimes.co.uk/how-bitcoin-will-smash-donald-trumps-mexican-remittance-wall-1554717</link>
+            <guid isPermaLink="false">6c8723f1-e666-4408-834d-08142b7d3738</guid>
+            <pubDate>Thu, 14 Apr 2016 04:16:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How does the Lightning network work in simple terms?]]></title>
             <description><![CDATA[<article><h1>How does the Lightning network work in simple terms?</h1><p>Say, you and I want to open a payment channel. 1) Putting funds into Lightning We both send 0.05 BTC into a shared 2-of-2 multisig address. This requires a transaction on the Bitcoin blockchain. As a "balance sheet", we each create a 2-of-2 multisig transaction that pays out 0.05 BTC to you and 0.05 BTC to me.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Claymore's New Dual Ethereum and Decred AMD GPU Beta Miner</h1><p>Here is something quite interesting for the people that mine either Ethereum (ETH) or Decred (DCR) or even both, a miner that mines the two different crypto currencies at the same time to give you better profit from your existing hardware.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76e7acf0c199e4ae2bfb13d6b3e114716ac2d2fb.jpg"></article>]]></description>
             <link>http://cryptomining-blog.com/7725-claymores-dual-ethereum-and-decred-amd-gpu-miner/</link>
             <guid isPermaLink="false">45a5a997-eed5-4860-bb36-10977d6635be</guid>
-            <pubDate>Wed, 13 Apr 2016 13:16:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK Regulators Declare Start of]]></title>
-            <description><![CDATA[<article><h1>UK Regulators Declare Start of</h1><p>Christopher Woolard, Financial Conduct Authority (FCA) Director of Strategy and Competition, announced a regulatory sandbox for fintech companies, a first of its kind. Harriett Baldwin, Economic Secretary to the Treasury, described Bitcoin and Ethereum as "digital currencies" and proclaimed the start of a "beautiful friendship".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa5257ba5c12eda48b6a53bac8541f86bf289a16.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/uk-regulators-declare-start-of-beautiful-friendship-with-bitcoin-ethereum</link>
-            <guid isPermaLink="false">196115f9-538d-443f-baea-3f869454940c</guid>
             <pubDate>Wed, 13 Apr 2016 13:16:42 GMT</pubDate>
         </item>
     </channel>
