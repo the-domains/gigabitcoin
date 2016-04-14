@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 04:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 04:17:31 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://imgur.com/7pbX2iz.png"></article>]]></description>
+            <link>http://imgur.com/7pbX2iz</link>
+            <guid isPermaLink="false">6948aeb2-100c-45fb-af06-34b5901f2cef</guid>
+            <pubDate>Thu, 14 Apr 2016 04:16:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blockchain & Bitcoin Conference Prague 2016 to Cover Security, Investment, Regulation and Gambling]]></title>
             <description><![CDATA[<article><h1>Blockchain & Bitcoin Conference Prague 2016 to Cover Security, Investment, Regulation and Gambling</h1><p>Coming up on May 19th, 2016, the Blockchain & Bitcoin Conference Prague will be held in the Central European location of the Czech Republic. Previous conferences and others held in 2016 take place in locations such as Moscow and St. Petersberg Russia and Kiev, Ukraine.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db9270307a01cadc56e81d915e97641b4b15b213.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Estonia now officially worst country in EU for Bitcoin, blockchain tokens and assets * /r/Bitcoin</h1><p>Yesterday the Estonian Supreme Court ruled in my Bitcoin case. The state and some media claimed that the court decided to treat Bitcoin like any...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
             <link>https://www.reddit.com/r/Bitcoin/comments/4efdam/estonia_now_officially_worst_country_in_eu_for/</link>
             <guid isPermaLink="false">1cfa04a7-c402-496d-a77d-1c21e32d2560</guid>
-            <pubDate>Wed, 13 Apr 2016 13:16:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MMM Global Closes Republic of Bitcoin, an Alleged Ponzi Scheme]]></title>
-            <description><![CDATA[<article><h1>MMM Global Closes Republic of Bitcoin, an Alleged Ponzi Scheme</h1><p>MMM Global has announced that it is closing its Republic of Bitcoin, a website promising up to 100% returns on donations. The company, called a "Ponzi" scheme by many, stated in a blog that the Republic of Bitcoin was an experiment that has failed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d9f7a860c5be8606895864e0f0cdcd32ceed618.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/mmm-global-closes-republic-of-bitcoin-an-alleged-ponzi-scheme/</link>
-            <guid isPermaLink="false">a3a8938e-e423-4cef-bd9c-697e9d1591a7</guid>
             <pubDate>Wed, 13 Apr 2016 13:16:42 GMT</pubDate>
         </item>
     </channel>
