@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 04:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 04:17:56 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What hardware and bandwidth requirements would a server need to fulfill to run Bitcore?]]></title>
+            <description><![CDATA[<article><h1>What hardware and bandwidth requirements would a server need to fulfill to run Bitcore?</h1><p>What's the cost of running Bitcore on AWS or DigitalOcean? I know I'd need about 128gb of hardrive space, but I'm not sure how much the typical bandwidth costs would be, and how much RAM or cores I...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43702/what-hardware-and-bandwidth-requirements-would-a-server-need-to-fulfill-to-run-b</link>
+            <guid isPermaLink="false">9e9c9b51-ce13-435d-8339-fd6788136567</guid>
+            <pubDate>Thu, 14 Apr 2016 04:16:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kraken Gains Series B Investment, Pushes Bitcoin Services & Ethereum in Japan]]></title>
+            <description><![CDATA[<article><h1>Kraken Gains Series B Investment, Pushes Bitcoin Services & Ethereum in Japan</h1><p>One of the largest bitcoin and cryptocurrency exchanges in the world, Kraken, has announced an investment from a leading Japanese foreign exchange brokerage, in the exchange's Series B round of financing. Cryptocurrency exchange Kraken has announced an investment from Tokyo-based Money Partners Group as a part of its Series B round of financing, in a press release today.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e8789533d81057e30772080672d199e600b303b.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/kraken-series-b-bitcoin-ethereum-japan/</link>
+            <guid isPermaLink="false">50820503-6fa9-43ab-a956-1cfacf6d046b</guid>
+            <pubDate>Thu, 14 Apr 2016 04:16:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About 1 year ago I decided I wanted to do something to help Bitcoin but I lack sufficient coding skills. So I did something else and tomorrow I teach my first class on Bitcoin and Cryptocurrencies at my local community college. * /r/Bitcoin]]></title>
             <description><![CDATA[<article><h1>About 1 year ago I decided I wanted to do something to help Bitcoin but I lack sufficient coding skills. So I did something else and tomorrow I teach my first class on Bitcoin and Cryptocurrencies at my local community college. * /r/Bitcoin</h1><p>A few years ago I finally decided to look up that work 'bitcoin' that had popped up on my reddit front page from time to time. About 6 months of...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.ibtimes.co.uk/how-bitcoin-will-smash-donald-trumps-mexican-remittance-wall-1554717</link>
             <guid isPermaLink="false">6c8723f1-e666-4408-834d-08142b7d3738</guid>
             <pubDate>Thu, 14 Apr 2016 04:16:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How does the Lightning network work in simple terms?]]></title>
-            <description><![CDATA[<article><h1>How does the Lightning network work in simple terms?</h1><p>Say, you and I want to open a payment channel. 1) Putting funds into Lightning We both send 0.05 BTC into a shared 2-of-2 multisig address. This requires a transaction on the Bitcoin blockchain. As a "balance sheet", we each create a 2-of-2 multisig transaction that pays out 0.05 BTC to you and 0.05 BTC to me.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/43700/how-does-the-lightning-network-work-in-simple-terms</link>
-            <guid isPermaLink="false">edd848b1-85eb-4ace-af9b-9e4cf228cc30</guid>
-            <pubDate>Thu, 14 Apr 2016 04:16:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gavin: And as for calling Peter Todd Chicken Little: there's probably a better analogy. What's a good name for somebody who makes mountains out of mole-hills, or who invents a Rube Goldberg contraption to brush their teeth because they're afraid their hand might fall asleep while brushing? * /r/btc]]></title>
-            <description><![CDATA[<article><h1>Gavin: And as for calling Peter Todd Chicken Little: there's probably a better analogy. What's a good name for somebody who makes mountains out of mole-hills, or who invents a Rube Goldberg contraption to brush their teeth because they're afraid their hand might fall asleep while brushing? * /r/btc</h1><p>Good question. Any ideas?**</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
-            <link>https://www.reddit.com/r/btc/comments/4ekobm/gavin_and_as_for_calling_peter_todd_chicken/</link>
-            <guid isPermaLink="false">f49f3ee9-a2ad-4dc0-9104-54a2a551f7ba</guid>
-            <pubDate>Thu, 14 Apr 2016 04:16:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
