@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 04:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 04:18:40 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Push for a Cashless Society Could Be an Opportunity for Bitcoin]]></title>
+            <description><![CDATA[<article><h1>The Push for a Cashless Society Could Be an Opportunity for Bitcoin</h1><p>The idea of a cashless society has long been touted by government and bank officials around the world for a variety of regulatory, financial and political reasons. For one, a cashless society would give governments and banks more power over people's money. For example, the concept of negative interest rates falls apart if everyone is holding physical cash.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0fa64533fb5488c4a1f5285fad1b21ef1805d676.jpg"></article>]]></description>
+            <link>http://www.nasdaq.com/article/the-push-for-a-cashless-society-could-be-an-opportunity-for-bitcoin-cm605217</link>
+            <guid isPermaLink="false">6fc40518-2c5d-474f-bff2-e6a3edb1b78b</guid>
+            <pubDate>Thu, 14 Apr 2016 04:16:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Scalability: An Inside Look at Lightning's Race to Save the Day]]></title>
             <description><![CDATA[<article><h1>Bitcoin Scalability: An Inside Look at Lightning's Race to Save the Day</h1><p>With the halving looming and transaction capacity maxed out, some are predicting a doomsday scenario. Much, therefore, depends on the Lightning Network. A "decentralized network using smart contract functionality in the blockchain to enable instant payments" which is capable of an amazing "millions to billions of transactions per second" according to the Lightning Network's website.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6f4d521fd2c4c6637085ff1898db4ac623ddb9a.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Blocks mined on 12/04/2016</h1><p>000000000000000004926035b6a0978c99b3cd8408437085133887ef85418e08</p></article>]]></description>
             <link>https://blockchain.info/blocks</link>
             <guid isPermaLink="false">84219e86-6cdb-462b-a32a-6b0c62014ca3</guid>
-            <pubDate>Thu, 14 Apr 2016 04:16:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Live Bearish Entry! - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Live Bearish Entry! - NEWSBTC</h1><p>Here's what we are focusing on in today's bitcoin price watch for the evening session on Wednesday. Also a live trade from this morning. Let's kick things off with a chart. The chart below shows the action we saw in the bitcoin price overnight, and the action that has taken place since we published the first of our twice daily bitcoin price watch articles this morning.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/007ba3dffa99432b3c35e8cab280b1aec375d988.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/13/bitcoin-price-watch-live-bearish-entry/</link>
-            <guid isPermaLink="false">d4d55112-6962-4565-9097-796cb93db4f2</guid>
             <pubDate>Thu, 14 Apr 2016 04:16:55 GMT</pubDate>
         </item>
     </channel>
