@@ -4,57 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 04:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 04:17:36 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[PUSHDATA4 unnecessary?]]></title>
-            <description><![CDATA[<article><h1>PUSHDATA4 unnecessary?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Any data push greater than 520 bytes in a Bitcoin transaction is not allowed ( https://github.com/bitcoin/bitcoin/blob/v0.10.0rc3/src/script/script.h#L18).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/43693/pushdata4-unnecessary</link>
-            <guid isPermaLink="false">294802bf-1250-4418-8d6f-a74e147ed04d</guid>
-            <pubDate>Thu, 14 Apr 2016 04:16:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SAFE Crossroads Podcast #31, Harmen Klink]]></title>
-            <description><![CDATA[<article><h1>SAFE Crossroads Podcast #31, Harmen Klink</h1><p>In this Episode We're back again with Harmen Klink, talking about further innovations on the Decorum decentralized forum and social connection protocol. We talk about a web of trust function which will make the protocol very handy at evaluating one's connections and resisting unwanted connections.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20dac4fc8e61a44c87c8f23bc9a739c1cfe0a877.jpg"></article>]]></description>
-            <link>https://letstalkbitcoin.com/blog/post/safe-crossroads-podcast-31-harmen-klink</link>
-            <guid isPermaLink="false">a08029d6-8913-4480-b6c7-f7c4e060090d</guid>
-            <pubDate>Thu, 14 Apr 2016 04:16:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What hardware and bandwidth requirements would a server need to fulfill to run Bitcore?]]></title>
-            <description><![CDATA[<article><h1>What hardware and bandwidth requirements would a server need to fulfill to run Bitcore?</h1><p>What's the cost of running Bitcore on AWS or DigitalOcean? I know I'd need about 128gb of hardrive space, but I'm not sure how much the typical bandwidth costs would be, and how much RAM or cores I...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/43702/what-hardware-and-bandwidth-requirements-would-a-server-need-to-fulfill-to-run-b</link>
-            <guid isPermaLink="false">9e9c9b51-ce13-435d-8339-fd6788136567</guid>
-            <pubDate>Thu, 14 Apr 2016 04:16:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kraken Gains Series B Investment, Pushes Bitcoin Services & Ethereum in Japan]]></title>
-            <description><![CDATA[<article><h1>Kraken Gains Series B Investment, Pushes Bitcoin Services & Ethereum in Japan</h1><p>One of the largest bitcoin and cryptocurrency exchanges in the world, Kraken, has announced an investment from a leading Japanese foreign exchange brokerage, in the exchange's Series B round of financing. Cryptocurrency exchange Kraken has announced an investment from Tokyo-based Money Partners Group as a part of its Series B round of financing, in a press release today.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e8789533d81057e30772080672d199e600b303b.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/kraken-series-b-bitcoin-ethereum-japan/</link>
-            <guid isPermaLink="false">50820503-6fa9-43ab-a956-1cfacf6d046b</guid>
-            <pubDate>Thu, 14 Apr 2016 04:16:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About 1 year ago I decided I wanted to do something to help Bitcoin but I lack sufficient coding skills. So I did something else and tomorrow I teach my first class on Bitcoin and Cryptocurrencies at my local community college. * /r/Bitcoin]]></title>
-            <description><![CDATA[<article><h1>About 1 year ago I decided I wanted to do something to help Bitcoin but I lack sufficient coding skills. So I did something else and tomorrow I teach my first class on Bitcoin and Cryptocurrencies at my local community college. * /r/Bitcoin</h1><p>A few years ago I finally decided to look up that work 'bitcoin' that had popped up on my reddit front page from time to time. About 6 months of...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
-            <link>https://www.reddit.com/r/Bitcoin/comments/4ej6jk/about_1_year_ago_i_decided_i_wanted_to_do/</link>
-            <guid isPermaLink="false">08283e1a-f19a-4431-8062-41d2590b1c64</guid>
-            <pubDate>Thu, 14 Apr 2016 04:16:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blocks mined on 12/04/2016]]></title>
-            <description><![CDATA[<article><h1>Blocks mined on 12/04/2016</h1><p>000000000000000004926035b6a0978c99b3cd8408437085133887ef85418e08</p></article>]]></description>
-            <link>https://blockchain.info/blocks</link>
-            <guid isPermaLink="false">84219e86-6cdb-462b-a32a-6b0c62014ca3</guid>
-            <pubDate>Thu, 14 Apr 2016 04:16:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Live Bearish Entry! - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Live Bearish Entry! - NEWSBTC</h1><p>Here's what we are focusing on in today's bitcoin price watch for the evening session on Wednesday. Also a live trade from this morning. Let's kick things off with a chart. The chart below shows the action we saw in the bitcoin price overnight, and the action that has taken place since we published the first of our twice daily bitcoin price watch articles this morning.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/007ba3dffa99432b3c35e8cab280b1aec375d988.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/13/bitcoin-price-watch-live-bearish-entry/</link>
-            <guid isPermaLink="false">d4d55112-6962-4565-9097-796cb93db4f2</guid>
-            <pubDate>Thu, 14 Apr 2016 04:16:55 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Trading Tired Of Resistance?]]></title>
             <description><![CDATA[<article><h1>Bitcoin Trading Tired Of Resistance?</h1><p>Bitcoin trading sold price from the $425 price level and is now turning back up in what should be a telling price move. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member? Join now and receive a $29 ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68bf8f75f601b023538e86c22c9047a90e70c59e.png"></article>]]></description>
@@ -75,6 +26,55 @@
             <link>http://imgur.com/7pbX2iz</link>
             <guid isPermaLink="false">6948aeb2-100c-45fb-af06-34b5901f2cef</guid>
             <pubDate>Thu, 14 Apr 2016 04:16:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blockchain & Bitcoin Conference Prague 2016 to Cover Security, Investment, Regulation and Gambling]]></title>
+            <description><![CDATA[<article><h1>Blockchain & Bitcoin Conference Prague 2016 to Cover Security, Investment, Regulation and Gambling</h1><p>Coming up on May 19th, 2016, the Blockchain & Bitcoin Conference Prague will be held in the Central European location of the Czech Republic. Previous conferences and others held in 2016 take place in locations such as Moscow and St. Petersberg Russia and Kiev, Ukraine.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db9270307a01cadc56e81d915e97641b4b15b213.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/blockchain-bitcoin-conference-prague-2016/</link>
+            <guid isPermaLink="false">678cd1a6-d0a4-4026-80f8-a59118332e1c</guid>
+            <pubDate>Thu, 14 Apr 2016 04:16:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Bitcoin will smash Donald Trump's Mexican remittance wall]]></title>
+            <description><![CDATA[<article><h1>How Bitcoin will smash Donald Trump's Mexican remittance wall</h1><p>Last week, presidential candidate Donald Trump revealed his plan for funding the wall that he wants to build on the border between Mexico and the southern United States. How would he generate the billions of dollars to construct it? He has a simple plan: block the flow of remittance funds from United States to Mexico.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/284d14b543e05a5553d278b56f36466cc39d5bcf.jpg"></article>]]></description>
+            <link>http://www.ibtimes.co.uk/how-bitcoin-will-smash-donald-trumps-mexican-remittance-wall-1554717</link>
+            <guid isPermaLink="false">6c8723f1-e666-4408-834d-08142b7d3738</guid>
+            <pubDate>Thu, 14 Apr 2016 04:16:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How does the Lightning network work in simple terms?]]></title>
+            <description><![CDATA[<article><h1>How does the Lightning network work in simple terms?</h1><p>Say, you and I want to open a payment channel. 1) Putting funds into Lightning We both send 0.05 BTC into a shared 2-of-2 multisig address. This requires a transaction on the Bitcoin blockchain. As a "balance sheet", we each create a 2-of-2 multisig transaction that pays out 0.05 BTC to you and 0.05 BTC to me.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43700/how-does-the-lightning-network-work-in-simple-terms</link>
+            <guid isPermaLink="false">edd848b1-85eb-4ace-af9b-9e4cf228cc30</guid>
+            <pubDate>Thu, 14 Apr 2016 04:16:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gavin: And as for calling Peter Todd Chicken Little: there's probably a better analogy. What's a good name for somebody who makes mountains out of mole-hills, or who invents a Rube Goldberg contraption to brush their teeth because they're afraid their hand might fall asleep while brushing? * /r/btc]]></title>
+            <description><![CDATA[<article><h1>Gavin: And as for calling Peter Todd Chicken Little: there's probably a better analogy. What's a good name for somebody who makes mountains out of mole-hills, or who invents a Rube Goldberg contraption to brush their teeth because they're afraid their hand might fall asleep while brushing? * /r/btc</h1><p>Good question. Any ideas?**</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
+            <link>https://www.reddit.com/r/btc/comments/4ekobm/gavin_and_as_for_calling_peter_todd_chicken/</link>
+            <guid isPermaLink="false">f49f3ee9-a2ad-4dc0-9104-54a2a551f7ba</guid>
+            <pubDate>Thu, 14 Apr 2016 04:16:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Former regulator turns Bitcoin tech advocate]]></title>
+            <description><![CDATA[<article><h1>Former regulator turns Bitcoin tech advocate</h1><p>NEW YORK, April 13 (IFR) - Former New York state financial services chief Benjamin Lawsky may have taken a harsh view of virtual currency as a regulator, but he has begun to stump for the technology behind it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e97add1cee49d9d0a7f087204eafc069359e468.png"></article>]]></description>
+            <link>http://www.reuters.com/article/bitcoin-regulator-new-york-idUSL2N17G1UW</link>
+            <guid isPermaLink="false">3354dcd2-bd9a-4039-b387-21dcdf0dea4b</guid>
+            <pubDate>Thu, 14 Apr 2016 04:16:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Second Annual Bay BitHack Hackathon Yields New Bitcoin and Blockchain Apps]]></title>
+            <description><![CDATA[<article><h1>Second Annual Bay BitHack Hackathon Yields New Bitcoin and Blockchain Apps</h1><p>Last weekend, the largest collegiate Bitcoin and blockchain technology hackathon was hosted in the San Francisco Bay Area. More than 50 outstanding developers and entrepreneurs competed in the second annual Bay BitHack, held at the Innovation Lab at the University of California, Berkeley on April 2-3.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b86f70f499862ca652c021cc43adab017a344736.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/second-annual-bay-bithack-hackathon-yields-new-bitcoin-and-blockchain-apps-1460563743</link>
+            <guid isPermaLink="false">5ad4419c-02d4-4be7-a4fb-8d6cbd9ccf85</guid>
+            <pubDate>Thu, 14 Apr 2016 04:16:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cryptocurrency For Beginners]]></title>
+            <description><![CDATA[<article><h1>Cryptocurrency For Beginners</h1><p>What do you know about Bitcoin? Ever purchased/sold any? Used it to pay for something, online or at a bricks and mortar store? What about Ethereum? BitGold? If you're like the majority of the public, you may have a slight inkling as to what cryptocurrencies are, but you've never owned any, and don't know much about them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fcd5683cfe2f5c04ec6c791d61db5d7d7549132.jpg"></article>]]></description>
+            <link>http://www.huffingtonpost.com/outspeak/cryptocurrency-for-beginners_b_9672144.html</link>
+            <guid isPermaLink="false">bfcfce38-eb6b-43f2-9c6b-cd62455829a6</guid>
+            <pubDate>Wed, 13 Apr 2016 13:16:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
