@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 14:29:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 14:29:05 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA["Your Wall Won't Stop Bitcoin, Mr.Trump!" | Finance Magnates]]></title>
-            <description><![CDATA[<article><h1>"Your Wall Won't Stop Bitcoin, Mr.Trump!" | Finance Magnates</h1><p>When it was revealed last week that Donald Trump is considering banning money transfers to Mexico, we predicted such a move will have an enormous benefit for bitcoin adoption in North America. Now cryptocurrencies advocates are taking that message to the streets.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/945d8e5ae536cbb1a1a24620effb9caa931b0588.jpg"></article>]]></description>
-            <link>http://www.financemagnates.com/cryptocurrency/news/wall-wont-stop-bitcoin-mr-trump/</link>
-            <guid isPermaLink="false">3be3f204-9231-4e47-a570-99996d0045ae</guid>
-            <pubDate>Thu, 14 Apr 2016 14:28:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NEW MONEY: Not the Next Bitcoin the Next Dollar - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>NEW MONEY: Not the Next Bitcoin the Next Dollar - Bitcoinist.net</h1><p>It does not matter what currency community individuals belong to, we've all wondered aloud or privately to ourselves how we are going to get blockchain technology past the small crypto bubble and into the mainstream.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68334a296336163821b50cca6a0ff0ff65a32f1c.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/new-money-not-the-next-bitcoin-the-next-dollar/</link>
-            <guid isPermaLink="false">9d9ef355-03c1-4e3f-bf9d-fd429e76a460</guid>
-            <pubDate>Thu, 14 Apr 2016 14:28:17 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bank of America Merchant Services Report Mentions Bitcoin And Blockchain]]></title>
             <description><![CDATA[<article><h1>Bank of America Merchant Services Report Mentions Bitcoin And Blockchain</h1><p>Blockchain technology, the protocol that underlies Bitcoin, could one day change how consumer card payments are verified. A recent Bank of America Merchant Services report has touched upon the subject of Bitcoin as one of the disruptersin the payment processing ecosystem.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b96d5b323047dea30089e30eea5263c58fbf7989.jpg"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>Peter Todd Worried About Those Willing to 'Fork Bitcoin at All Costs'</h1><p>Bitcoin Core contributor Peter Todd recently discussed a variety of topics on The Crypto Show . Todd was asked if he is still worried about the possibly negative implications of a controversial hard fork induced by Bitcoin Classic or any other alternative Bitcoin client.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3beabe2a5859ddc9028003834058094b8e68966d.jpg"></article>]]></description>
             <link>https://bitcoinmagazine.com/articles/peter-todd-worried-about-those-willing-to-fork-bitcoin-at-all-costs-1460475488</link>
             <guid isPermaLink="false">26fafb53-7e51-494a-9503-02b48461eeea</guid>
+            <pubDate>Thu, 14 Apr 2016 04:16:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SAFE Crossroads Podcast #31, Harmen Klink]]></title>
+            <description><![CDATA[<article><h1>SAFE Crossroads Podcast #31, Harmen Klink</h1><p>In this Episode We're back again with Harmen Klink, talking about further innovations on the Decorum decentralized forum and social connection protocol. We talk about a web of trust function which will make the protocol very handy at evaluating one's connections and resisting unwanted connections.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20dac4fc8e61a44c87c8f23bc9a739c1cfe0a877.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/safe-crossroads-podcast-31-harmen-klink</link>
+            <guid isPermaLink="false">a08029d6-8913-4480-b6c7-f7c4e060090d</guid>
+            <pubDate>Thu, 14 Apr 2016 04:16:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What hardware and bandwidth requirements would a server need to fulfill to run Bitcore?]]></title>
+            <description><![CDATA[<article><h1>What hardware and bandwidth requirements would a server need to fulfill to run Bitcore?</h1><p>What's the cost of running Bitcore on AWS or DigitalOcean? I know I'd need about 128gb of hardrive space, but I'm not sure how much the typical bandwidth costs would be, and how much RAM or cores I...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43702/what-hardware-and-bandwidth-requirements-would-a-server-need-to-fulfill-to-run-b</link>
+            <guid isPermaLink="false">9e9c9b51-ce13-435d-8339-fd6788136567</guid>
             <pubDate>Thu, 14 Apr 2016 04:16:55 GMT</pubDate>
         </item>
     </channel>
