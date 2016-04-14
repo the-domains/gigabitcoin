@@ -4,8 +4,43 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 04:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 04:17:30 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blockchain & Bitcoin Conference Prague 2016 to Cover Security, Investment, Regulation and Gambling]]></title>
+            <description><![CDATA[<article><h1>Blockchain & Bitcoin Conference Prague 2016 to Cover Security, Investment, Regulation and Gambling</h1><p>Coming up on May 19th, 2016, the Blockchain & Bitcoin Conference Prague will be held in the Central European location of the Czech Republic. Previous conferences and others held in 2016 take place in locations such as Moscow and St. Petersberg Russia and Kiev, Ukraine.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db9270307a01cadc56e81d915e97641b4b15b213.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/blockchain-bitcoin-conference-prague-2016/</link>
+            <guid isPermaLink="false">678cd1a6-d0a4-4026-80f8-a59118332e1c</guid>
+            <pubDate>Thu, 14 Apr 2016 04:16:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Bitcoin will smash Donald Trump's Mexican remittance wall]]></title>
+            <description><![CDATA[<article><h1>How Bitcoin will smash Donald Trump's Mexican remittance wall</h1><p>Last week, presidential candidate Donald Trump revealed his plan for funding the wall that he wants to build on the border between Mexico and the southern United States. How would he generate the billions of dollars to construct it? He has a simple plan: block the flow of remittance funds from United States to Mexico.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/284d14b543e05a5553d278b56f36466cc39d5bcf.jpg"></article>]]></description>
+            <link>http://www.ibtimes.co.uk/how-bitcoin-will-smash-donald-trumps-mexican-remittance-wall-1554717</link>
+            <guid isPermaLink="false">6c8723f1-e666-4408-834d-08142b7d3738</guid>
+            <pubDate>Thu, 14 Apr 2016 04:16:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How does the Lightning network work in simple terms?]]></title>
+            <description><![CDATA[<article><h1>How does the Lightning network work in simple terms?</h1><p>Say, you and I want to open a payment channel. 1) Putting funds into Lightning We both send 0.05 BTC into a shared 2-of-2 multisig address. This requires a transaction on the Bitcoin blockchain. As a "balance sheet", we each create a 2-of-2 multisig transaction that pays out 0.05 BTC to you and 0.05 BTC to me.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43700/how-does-the-lightning-network-work-in-simple-terms</link>
+            <guid isPermaLink="false">edd848b1-85eb-4ace-af9b-9e4cf228cc30</guid>
+            <pubDate>Thu, 14 Apr 2016 04:16:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gavin: And as for calling Peter Todd Chicken Little: there's probably a better analogy. What's a good name for somebody who makes mountains out of mole-hills, or who invents a Rube Goldberg contraption to brush their teeth because they're afraid their hand might fall asleep while brushing? * /r/btc]]></title>
+            <description><![CDATA[<article><h1>Gavin: And as for calling Peter Todd Chicken Little: there's probably a better analogy. What's a good name for somebody who makes mountains out of mole-hills, or who invents a Rube Goldberg contraption to brush their teeth because they're afraid their hand might fall asleep while brushing? * /r/btc</h1><p>Good question. Any ideas?**</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
+            <link>https://www.reddit.com/r/btc/comments/4ekobm/gavin_and_as_for_calling_peter_todd_chicken/</link>
+            <guid isPermaLink="false">f49f3ee9-a2ad-4dc0-9104-54a2a551f7ba</guid>
+            <pubDate>Thu, 14 Apr 2016 04:16:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Former regulator turns Bitcoin tech advocate]]></title>
+            <description><![CDATA[<article><h1>Former regulator turns Bitcoin tech advocate</h1><p>NEW YORK, April 13 (IFR) - Former New York state financial services chief Benjamin Lawsky may have taken a harsh view of virtual currency as a regulator, but he has begun to stump for the technology behind it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e97add1cee49d9d0a7f087204eafc069359e468.png"></article>]]></description>
+            <link>http://www.reuters.com/article/bitcoin-regulator-new-york-idUSL2N17G1UW</link>
+            <guid isPermaLink="false">3354dcd2-bd9a-4039-b387-21dcdf0dea4b</guid>
+            <pubDate>Thu, 14 Apr 2016 04:16:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Second Annual Bay BitHack Hackathon Yields New Bitcoin and Blockchain Apps]]></title>
             <description><![CDATA[<article><h1>Second Annual Bay BitHack Hackathon Yields New Bitcoin and Blockchain Apps</h1><p>Last weekend, the largest collegiate Bitcoin and blockchain technology hackathon was hosted in the San Francisco Bay Area. More than 50 outstanding developers and entrepreneurs competed in the second annual Bay BitHack, held at the Innovation Lab at the University of California, Berkeley on April 2-3.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b86f70f499862ca652c021cc43adab017a344736.jpg"></article>]]></description>
@@ -40,41 +75,6 @@
             <link>https://www.cryptocoinsnews.com/mmm-global-closes-republic-of-bitcoin-an-alleged-ponzi-scheme/</link>
             <guid isPermaLink="false">a3a8938e-e423-4cef-bd9c-697e9d1591a7</guid>
             <pubDate>Wed, 13 Apr 2016 13:16:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Claymore's New Dual Ethereum and Decred AMD GPU Beta Miner]]></title>
-            <description><![CDATA[<article><h1>Claymore's New Dual Ethereum and Decred AMD GPU Beta Miner</h1><p>Here is something quite interesting for the people that mine either Ethereum (ETH) or Decred (DCR) or even both, a miner that mines the two different crypto currencies at the same time to give you better profit from your existing hardware.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76e7acf0c199e4ae2bfb13d6b3e114716ac2d2fb.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7725-claymores-dual-ethereum-and-decred-amd-gpu-miner/</link>
-            <guid isPermaLink="false">45a5a997-eed5-4860-bb36-10977d6635be</guid>
-            <pubDate>Wed, 13 Apr 2016 13:16:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK Regulators Declare Start of]]></title>
-            <description><![CDATA[<article><h1>UK Regulators Declare Start of</h1><p>Christopher Woolard, Financial Conduct Authority (FCA) Director of Strategy and Competition, announced a regulatory sandbox for fintech companies, a first of its kind. Harriett Baldwin, Economic Secretary to the Treasury, described Bitcoin and Ethereum as "digital currencies" and proclaimed the start of a "beautiful friendship".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa5257ba5c12eda48b6a53bac8541f86bf289a16.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/uk-regulators-declare-start-of-beautiful-friendship-with-bitcoin-ethereum</link>
-            <guid isPermaLink="false">196115f9-538d-443f-baea-3f869454940c</guid>
-            <pubDate>Wed, 13 Apr 2016 13:16:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Money Partner Group Latest to Invest in Bitcoin Exchange Kraken]]></title>
-            <description><![CDATA[<article><h1>Money Partner Group Latest to Invest in Bitcoin Exchange Kraken</h1><p>The Tokyo-based company, which reportedly holds a market cap of over $USD260 million, confirmed its plans to further its business portfolio in digital currency sector, starting by offering Bitcoin trading and settlement services to its clients. Money Partners Group, one of the Japan's leading forex brokerage firms, has taken its first steps into the Bitcoin industry following an investment into Kraken.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fb78d893ce07183c13270c109df3a2abfbc8d6a.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/12/money-partner-group-boards-bitcoin-bandwagon-investment-kraken/</link>
-            <guid isPermaLink="false">48928a4d-f1a7-47f5-8beb-a8f409e37d5d</guid>
-            <pubDate>Wed, 13 Apr 2016 13:16:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What a Tech Startup's Pivots Say About Bitcoin's Future]]></title>
-            <description><![CDATA[<article><h1>What a Tech Startup's Pivots Say About Bitcoin's Future</h1><p>Those who want to understand exactly how bitcoin is being adopted in the U.S. would do well to take a look at tech startup Snapcard. The company has existed less than three years, but it's already reinvented itself twice, changing its business model to adjust to bitcoin's evolution.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85523633860291b21149e44e83f02926a822a0ce.jpg"></article>]]></description>
-            <link>http://www.americanbanker.com/news/bank-technology/what-a-tech-startups-pivots-say-about-bitcoins-future-1080400-1.html</link>
-            <guid isPermaLink="false">6f3e646f-adfe-4fd5-a2dc-fc07308f18de</guid>
-            <pubDate>Wed, 13 Apr 2016 13:16:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Latest Ethminer 0.9.41-genoil-1.0.7 Beta for Windows]]></title>
-            <description><![CDATA[<article><h1>The Latest Ethminer 0.9.41-genoil-1.0.7 Beta for Windows</h1><p>We have compiled a Windows binary (64-bit only) from the latest ethminer 0.9.41 Genoil fork 1.0.7 beta for Nvidia CUDA as well as AMD OpenCL mining of Ethereum ( source). The latest code comes with the addition of failover support for Stratum mode along with the already available in previous release failover support for the standard mining mode.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dedd52a6b553923fcccef71e8c080c1aa48586ae.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7734-the-latest-ethminer-0-9-41-genoil-1-0-7-beta-for-windows/</link>
-            <guid isPermaLink="false">7cc05747-628a-4737-8789-228b1943de6e</guid>
-            <pubDate>Wed, 13 Apr 2016 13:16:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
