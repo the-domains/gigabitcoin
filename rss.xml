@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 04:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 04:17:28 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How does the Lightning network work in simple terms?]]></title>
+            <description><![CDATA[<article><h1>How does the Lightning network work in simple terms?</h1><p>Say, you and I want to open a payment channel. 1) Putting funds into Lightning We both send 0.05 BTC into a shared 2-of-2 multisig address. This requires a transaction on the Bitcoin blockchain. As a "balance sheet", we each create a 2-of-2 multisig transaction that pays out 0.05 BTC to you and 0.05 BTC to me.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43700/how-does-the-lightning-network-work-in-simple-terms</link>
+            <guid isPermaLink="false">edd848b1-85eb-4ace-af9b-9e4cf228cc30</guid>
+            <pubDate>Thu, 14 Apr 2016 04:16:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gavin: And as for calling Peter Todd Chicken Little: there's probably a better analogy. What's a good name for somebody who makes mountains out of mole-hills, or who invents a Rube Goldberg contraption to brush their teeth because they're afraid their hand might fall asleep while brushing? * /r/btc]]></title>
+            <description><![CDATA[<article><h1>Gavin: And as for calling Peter Todd Chicken Little: there's probably a better analogy. What's a good name for somebody who makes mountains out of mole-hills, or who invents a Rube Goldberg contraption to brush their teeth because they're afraid their hand might fall asleep while brushing? * /r/btc</h1><p>Good question. Any ideas?**</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
+            <link>https://www.reddit.com/r/btc/comments/4ekobm/gavin_and_as_for_calling_peter_todd_chicken/</link>
+            <guid isPermaLink="false">f49f3ee9-a2ad-4dc0-9104-54a2a551f7ba</guid>
+            <pubDate>Thu, 14 Apr 2016 04:16:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Former regulator turns Bitcoin tech advocate]]></title>
             <description><![CDATA[<article><h1>Former regulator turns Bitcoin tech advocate</h1><p>NEW YORK, April 13 (IFR) - Former New York state financial services chief Benjamin Lawsky may have taken a harsh view of virtual currency as a regulator, but he has begun to stump for the technology behind it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e97add1cee49d9d0a7f087204eafc069359e468.png"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>UK Regulators Declare Start of</h1><p>Christopher Woolard, Financial Conduct Authority (FCA) Director of Strategy and Competition, announced a regulatory sandbox for fintech companies, a first of its kind. Harriett Baldwin, Economic Secretary to the Treasury, described Bitcoin and Ethereum as "digital currencies" and proclaimed the start of a "beautiful friendship".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa5257ba5c12eda48b6a53bac8541f86bf289a16.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/uk-regulators-declare-start-of-beautiful-friendship-with-bitcoin-ethereum</link>
             <guid isPermaLink="false">196115f9-538d-443f-baea-3f869454940c</guid>
-            <pubDate>Wed, 13 Apr 2016 13:16:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Money Partner Group Latest to Invest in Bitcoin Exchange Kraken]]></title>
-            <description><![CDATA[<article><h1>Money Partner Group Latest to Invest in Bitcoin Exchange Kraken</h1><p>The Tokyo-based company, which reportedly holds a market cap of over $USD260 million, confirmed its plans to further its business portfolio in digital currency sector, starting by offering Bitcoin trading and settlement services to its clients. Money Partners Group, one of the Japan's leading forex brokerage firms, has taken its first steps into the Bitcoin industry following an investment into Kraken.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fb78d893ce07183c13270c109df3a2abfbc8d6a.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/12/money-partner-group-boards-bitcoin-bandwagon-investment-kraken/</link>
-            <guid isPermaLink="false">48928a4d-f1a7-47f5-8beb-a8f409e37d5d</guid>
-            <pubDate>Wed, 13 Apr 2016 13:16:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What a Tech Startup's Pivots Say About Bitcoin's Future]]></title>
-            <description><![CDATA[<article><h1>What a Tech Startup's Pivots Say About Bitcoin's Future</h1><p>Those who want to understand exactly how bitcoin is being adopted in the U.S. would do well to take a look at tech startup Snapcard. The company has existed less than three years, but it's already reinvented itself twice, changing its business model to adjust to bitcoin's evolution.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85523633860291b21149e44e83f02926a822a0ce.jpg"></article>]]></description>
-            <link>http://www.americanbanker.com/news/bank-technology/what-a-tech-startups-pivots-say-about-bitcoins-future-1080400-1.html</link>
-            <guid isPermaLink="false">6f3e646f-adfe-4fd5-a2dc-fc07308f18de</guid>
             <pubDate>Wed, 13 Apr 2016 13:16:42 GMT</pubDate>
         </item>
     </channel>
