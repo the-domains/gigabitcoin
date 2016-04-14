@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 04:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 04:17:55 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kraken Gains Series B Investment, Pushes Bitcoin Services & Ethereum in Japan]]></title>
+            <description><![CDATA[<article><h1>Kraken Gains Series B Investment, Pushes Bitcoin Services & Ethereum in Japan</h1><p>One of the largest bitcoin and cryptocurrency exchanges in the world, Kraken, has announced an investment from a leading Japanese foreign exchange brokerage, in the exchange's Series B round of financing. Cryptocurrency exchange Kraken has announced an investment from Tokyo-based Money Partners Group as a part of its Series B round of financing, in a press release today.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e8789533d81057e30772080672d199e600b303b.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/kraken-series-b-bitcoin-ethereum-japan/</link>
+            <guid isPermaLink="false">50820503-6fa9-43ab-a956-1cfacf6d046b</guid>
+            <pubDate>Thu, 14 Apr 2016 04:16:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About 1 year ago I decided I wanted to do something to help Bitcoin but I lack sufficient coding skills. So I did something else and tomorrow I teach my first class on Bitcoin and Cryptocurrencies at my local community college. * /r/Bitcoin]]></title>
+            <description><![CDATA[<article><h1>About 1 year ago I decided I wanted to do something to help Bitcoin but I lack sufficient coding skills. So I did something else and tomorrow I teach my first class on Bitcoin and Cryptocurrencies at my local community college. * /r/Bitcoin</h1><p>A few years ago I finally decided to look up that work 'bitcoin' that had popped up on my reddit front page from time to time. About 6 months of...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
+            <link>https://www.reddit.com/r/Bitcoin/comments/4ej6jk/about_1_year_ago_i_decided_i_wanted_to_do/</link>
+            <guid isPermaLink="false">08283e1a-f19a-4431-8062-41d2590b1c64</guid>
+            <pubDate>Thu, 14 Apr 2016 04:16:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blocks mined on 12/04/2016]]></title>
             <description><![CDATA[<article><h1>Blocks mined on 12/04/2016</h1><p>000000000000000004926035b6a0978c99b3cd8408437085133887ef85418e08</p></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>How does the Lightning network work in simple terms?</h1><p>Say, you and I want to open a payment channel. 1) Putting funds into Lightning We both send 0.05 BTC into a shared 2-of-2 multisig address. This requires a transaction on the Bitcoin blockchain. As a "balance sheet", we each create a 2-of-2 multisig transaction that pays out 0.05 BTC to you and 0.05 BTC to me.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/43700/how-does-the-lightning-network-work-in-simple-terms</link>
             <guid isPermaLink="false">edd848b1-85eb-4ace-af9b-9e4cf228cc30</guid>
-            <pubDate>Thu, 14 Apr 2016 04:16:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gavin: And as for calling Peter Todd Chicken Little: there's probably a better analogy. What's a good name for somebody who makes mountains out of mole-hills, or who invents a Rube Goldberg contraption to brush their teeth because they're afraid their hand might fall asleep while brushing? * /r/btc]]></title>
-            <description><![CDATA[<article><h1>Gavin: And as for calling Peter Todd Chicken Little: there's probably a better analogy. What's a good name for somebody who makes mountains out of mole-hills, or who invents a Rube Goldberg contraption to brush their teeth because they're afraid their hand might fall asleep while brushing? * /r/btc</h1><p>Good question. Any ideas?**</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
-            <link>https://www.reddit.com/r/btc/comments/4ekobm/gavin_and_as_for_calling_peter_todd_chicken/</link>
-            <guid isPermaLink="false">f49f3ee9-a2ad-4dc0-9104-54a2a551f7ba</guid>
-            <pubDate>Thu, 14 Apr 2016 04:16:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Former regulator turns Bitcoin tech advocate]]></title>
-            <description><![CDATA[<article><h1>Former regulator turns Bitcoin tech advocate</h1><p>NEW YORK, April 13 (IFR) - Former New York state financial services chief Benjamin Lawsky may have taken a harsh view of virtual currency as a regulator, but he has begun to stump for the technology behind it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e97add1cee49d9d0a7f087204eafc069359e468.png"></article>]]></description>
-            <link>http://www.reuters.com/article/bitcoin-regulator-new-york-idUSL2N17G1UW</link>
-            <guid isPermaLink="false">3354dcd2-bd9a-4039-b387-21dcdf0dea4b</guid>
             <pubDate>Thu, 14 Apr 2016 04:16:54 GMT</pubDate>
         </item>
     </channel>
