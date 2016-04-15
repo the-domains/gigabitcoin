@@ -4,49 +4,14 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 03:36:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 03:35:50 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Screenshot]]></title>
-            <description><![CDATA[<article><h1>Screenshot</h1><p>Captured with Lightshot</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4c3c735504ff55a731deb39af6f41bcbed60a02.png"></article>]]></description>
-            <link>http://prntscr.com/as16ze</link>
-            <guid isPermaLink="false">6e12cf1d-7cc5-4fce-a2d5-5c3ffb06041f</guid>
-            <pubDate>Fri, 15 Apr 2016 03:34:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Analysis: 4/14/2016]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Analysis: 4/14/2016</h1><p>Bitcoin is still undergoing a correction towards the upward trend. Will that trend continue or should we expect a turn to decline followed by a sharp fall? Bitcoin's current rebound may likely grow into a turnaround. The current price is profitable for the bulls.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1feb893122c162ea4168c62cc53408478e59148f.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/bitcoin-price-analysis-4142016</link>
-            <guid isPermaLink="false">dbfc2eb2-5f8f-48c6-ba12-84eae4732a17</guid>
-            <pubDate>Fri, 15 Apr 2016 03:34:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Battle Near Resistance]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Battle Near Resistance</h1><p>Bitcoin price kept within its corrective range around $425 Bitstamp today. As has become the daily pattern during 2016, the bulls and bears are fighting for dominance and the current wave's direction. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff122ec9dd4c1d95fbd4bf35d57ce870931a0ce5.png"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-price-battle-near-resistance/</link>
-            <guid isPermaLink="false">efca84d7-eb5b-4edb-976a-91028348bddc</guid>
-            <pubDate>Fri, 15 Apr 2016 03:34:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Business Intelligence Report Mentions Bitcoin and Blockchain]]></title>
-            <description><![CDATA[<article><h1>Business Intelligence Report Mentions Bitcoin and Blockchain</h1><p>Blockchain technology, the protocol that underlies Bitcoin, could one day change how consumer card payments are verified. A recent Business Intelligence report has touched upon the subject of Bitcoin as one of the disrupters in the payment processing ecosystem.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a21d1c8f69d7abbc216c783e3b85d1c31045e11.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/14/business-intelligence-report-mentions-bitcoin-and-blockchain/</link>
-            <guid isPermaLink="false">59e1309c-f2d4-4681-a442-0923e992fdcd</guid>
-            <pubDate>Fri, 15 Apr 2016 03:34:41 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Ransomware authors use the bitcoin blockchain to deliver encryption keys]]></title>
             <description><![CDATA[<article><h1>Ransomware authors use the bitcoin blockchain to deliver encryption keys</h1><p>Ransomware authors are using the bitcoin blockchain, which serves as the cryptocurrency's public transaction ledger, to deliver decryption keys to victims. The technique, which removes the burden of maintaining a reliable website-based infrastructure for cybercriminals, was observed in a recent version of the CTB-Locker ransomware that targets Web servers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d42509febf9c1f6a20038d09ccd1397da7145d7f.jpg"></article>]]></description>
             <link>http://www.pcworld.com/article/3056607/ransomware-authors-use-the-bitcoin-blockchain-to-deliver-encryption-keys.html</link>
             <guid isPermaLink="false">4e611881-e3ff-4acb-a600-c31c4705a202</guid>
             <pubDate>Fri, 15 Apr 2016 03:34:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum Market Cap Moved by Greed, Reason and Escape from Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Ethereum Market Cap Moved by Greed, Reason and Escape from Bitcoin</h1><p>Ethereum 's market capitalisation has been catalysed by several developmental factors. Intrinsic value, speculation, and human nature, experts say. Ethereum, has shown an impressive market capitalization since being crowdfunded by fans in August 2014. The Blockchain smart contract platform at the time of writing, stands at over $658 mln, second only to Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b4e7f50360e3e2f71a7aa825d1c60faa3b06b52.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/ethereum-market-cap-moved-by-greed-reason-and-escape-from-bitcoin</link>
-            <guid isPermaLink="false">2c384abb-73fa-4896-842d-2d4c21659aaf</guid>
-            <pubDate>Fri, 15 Apr 2016 03:34:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Code to Inspire: Bitcoin Gives Afghan Women Financial Freedom]]></title>
@@ -74,6 +39,41 @@
             <description><![CDATA[<article><h1>AirBnB: No Bitcoin Plans After Industry Startup Acqui-Hire - CoinDesk</h1><p>Travel giant AirBnB has indicated it does not have any plans to incorporate bitcoin into its payment offerings following the acquisition of an unknown number of employees at social tipping startup ChangeCoin. AirBnB said the employees will be working on the company's engineering team, with a focus on infrastructure, though it offered no further details.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d9c7811d90eba358118dca520ca4218a02dd6b4.jpg"></article>]]></description>
             <link>http://www.coindesk.com/airbnb-no-plans-bitcoin-industry-startup-acqui-hire/</link>
             <guid isPermaLink="false">b18401b8-abc1-4b23-bb24-3de16aa2e5ad</guid>
+            <pubDate>Fri, 15 Apr 2016 03:34:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Watch; Live Breakout Trade! - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Watch; Live Breakout Trade! - NEWSBTC</h1><p>In this morning's bitcoin price watch article, we highlighted the range we were focusing on for the early European session. It was a pretty tight range, so we said we'd be looking at trading breakout only, as opposed to breakout and intrarange. This is because its difficult apply effective risk management parameters on intrarange trades ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39e3b2bd29888bec2e71a42d620d8ed77dfacec7.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/14/bitcoin-price-watch-live-breakout-trade/</link>
+            <guid isPermaLink="false">cb1707d5-70a7-4aa2-8021-dace94d2fb61</guid>
+            <pubDate>Fri, 15 Apr 2016 03:34:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Mining Giant Invests $1.6 Million in OTC Trading Platform - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Mining Giant Invests $1.6 Million in OTC Trading Platform - CoinDesk</h1><p>Beijing-based mining giant Bitmain has invested $1.6m in bitcoin-focused data and trading services provider BitKan. Bitmain was the sole investor in the Series A round, which follows an angel round investment from Lanqi Venture Capital Investment last November. Based in Shenzhen, BitKan offers bitcoin data and pricing services, and recently launched an over-the-counter (OTC) bitcoin trading service.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59d88b3da57b29db85dbf97b5799bd6461a26739.png"></article>]]></description>
+            <link>http://www.coindesk.com/bitkan-1-6-million-series-a-bitmain/</link>
+            <guid isPermaLink="false">4909ee1f-ce18-4135-8b57-e59c493314f9</guid>
+            <pubDate>Fri, 15 Apr 2016 03:34:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Donald Trump - A Disputed Messenger of Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Donald Trump - A Disputed Messenger of Bitcoin</h1><p>Many people have pointed out the many flaws in this plan, as Donald Trump seems absolutely clueless as to how remittance solutions work. There has been a lot of talk about Donald Trump and his plans to build a physical wall around Mexico.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/014004736aba9d986b3bf5dc9455a29017536c65.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/14/donald-trump-disputed-messenger-bitcoin/</link>
+            <guid isPermaLink="false">cc949265-7c90-4c09-8883-a3e8ac1b898d</guid>
+            <pubDate>Fri, 15 Apr 2016 03:34:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>One of the underappreciated revelations around the #panamapapers scandal: cryptocurrencies were not mentioned at all.</p>]]></description>
+            <link>https://twitter.com/vitalikbuterin/status/718699016075223040</link>
+            <guid isPermaLink="false">b864a749-5fa3-41be-93c7-642348c5de32</guid>
+            <pubDate>Fri, 15 Apr 2016 03:34:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jonas Schnelli on Why Elected Officials May Not Be Good for Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Jonas Schnelli on Why Elected Officials May Not Be Good for Bitcoin</h1><p>Bitcoin Core contributor Jonas Schnelli was recently featured in a panel discussion about improvements to Bitcoin at the 2016 MIT Bitcoin Expo. During the Q&A portion of the panel, an audience member asked the participants about the previous presentation by the World Bitcoin Network's James D'Angelo in which he articulated the idea of replacing miners with elected officials.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/879e0d25320706023bc876147371a77ce9e2e674.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/jonas-schnelli-on-why-elected-officials-may-not-be-good-for-bitcoin-1460673897</link>
+            <guid isPermaLink="false">53d0199a-0876-4489-9c96-3ac360701f9b</guid>
             <pubDate>Fri, 15 Apr 2016 03:34:40 GMT</pubDate>
         </item>
     </channel>
