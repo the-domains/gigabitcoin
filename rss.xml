@@ -4,13 +4,20 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 03:35:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 03:35:17 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>One of the underappreciated revelations around the #panamapapers scandal: cryptocurrencies were not mentioned at all.</p>]]></description>
             <link>https://twitter.com/vitalikbuterin/status/718699016075223040</link>
             <guid isPermaLink="false">b864a749-5fa3-41be-93c7-642348c5de32</guid>
+            <pubDate>Fri, 15 Apr 2016 03:34:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jonas Schnelli on Why Elected Officials May Not Be Good for Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Jonas Schnelli on Why Elected Officials May Not Be Good for Bitcoin</h1><p>Bitcoin Core contributor Jonas Schnelli was recently featured in a panel discussion about improvements to Bitcoin at the 2016 MIT Bitcoin Expo. During the Q&A portion of the panel, an audience member asked the participants about the previous presentation by the World Bitcoin Network's James D'Angelo in which he articulated the idea of replacing miners with elected officials.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/879e0d25320706023bc876147371a77ce9e2e674.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/jonas-schnelli-on-why-elected-officials-may-not-be-good-for-bitcoin-1460673897</link>
+            <guid isPermaLink="false">53d0199a-0876-4489-9c96-3ac360701f9b</guid>
             <pubDate>Fri, 15 Apr 2016 03:34:40 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The Crypto Show & Tatiana Moroz with Kevin McKernan of Medicinal Genomics on the Blockchain</h1><p>We start off with Tatiana to talk about her upcoming album "Keeping The Faith" and much more. Then 37 min in we talk with Kevin McKernan about Medicinal Genomics and how they are logging the thousands of different strains of Marijuana on the Blockchain to protect against counterfeiting and cloning of trademark strains.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/826d9be2a3b3b0786bf97354c4cd8b112ca1918a.jpg"></article>]]></description>
             <link>https://letstalkbitcoin.com/blog/post/the-crypto-show-tatiana-moroz-with-kevin-mckernan-of-medicinal-genomics-on-the-blockchain</link>
             <guid isPermaLink="false">4b735235-0b90-4723-96e1-6ef6f6b682d0</guid>
-            <pubDate>Thu, 14 Apr 2016 14:28:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Taxes 2016: Accurately Reporting Bitcoin Usage - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Taxes 2016: Accurately Reporting Bitcoin Usage - Bitcoinist.net</h1><p>While tax law has not changed since last year, it's still important to review how Bitcoin works for taxes because it's required by law in the U.S. Accurately reporting taxes for Bitcoin can be tricky since it involves calculations which treat it as a currency as well as capital asset which can have either capital gains or losses over time depending on when you acquired the Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc7777d124aec076ef1cdb963457b148fd4ad2ea.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/bitcoin-and-taxes-2016/</link>
-            <guid isPermaLink="false">cbfd7ef2-22f4-4ebc-aa8f-b67db1d400e0</guid>
             <pubDate>Thu, 14 Apr 2016 14:28:18 GMT</pubDate>
         </item>
     </channel>
