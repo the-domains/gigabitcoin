@@ -4,13 +4,20 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 14:40:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 14:40:26 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[New Repository Maintainer Appointed]]></title>
             <description><![CDATA[<article><h1>New Repository Maintainer Appointed</h1></article>]]></description>
             <link>https://bitcoincore.org/en/blog/2016/04/14/maintainer/</link>
             <guid isPermaLink="false">b4ffbf25-e796-44ab-abf7-a4cbf1b1c4be</guid>
+            <pubDate>Fri, 15 Apr 2016 14:39:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is centralization in the Lightning network inevitable? Why (not)?]]></title>
+            <description><![CDATA[<article><h1>Is centralization in the Lightning network inevitable? Why (not)?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Especially keeping in mind the possibility of single-funded channels (see Tadge's Google Doc Slides), buying from an exchange and concurrently opening a payment channel on the Lightning network would seem a particularly simple entry to the LN.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43728/is-centralization-in-the-lightning-network-inevitable-why-not</link>
+            <guid isPermaLink="false">4a50d46f-236b-45fc-b098-3438f79c4a6d</guid>
             <pubDate>Fri, 15 Apr 2016 14:39:03 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Disrupt Conference - What is Bitcoin?</h1><p>In this short, "TED style" talk, Andreas delivers an introduction to bitcoin for a general non-technical audience. Delivered in Athens in November of 2013, this is one of the most shared bitcoin videos, an easy way to explain bitcoin to anyone.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/122f42f9b5b1afc59ef3e3c7a99be7940321c329.jpg"></article>]]></description>
             <link>http://www.youtube.com/watch?v=LA9A1RyXv9s</link>
             <guid isPermaLink="false">322f220e-1afc-4e4b-bc8b-941827d5a8dc</guid>
-            <pubDate>Fri, 15 Apr 2016 14:39:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Factom - Big Data on the Bitcoin Blockchain - BnkToTheFuture Case Study]]></title>
-            <description><![CDATA[<article><h1>Factom - Big Data on the Bitcoin Blockchain - BnkToTheFuture Case Study</h1><p>http://bit.ly/1AJOQiZ Ever wondered what it would be like if you couldn't prove your home, or even the land it's built on, was actually yours? Ever pondered what happens to your data when you share it online, with your bank or with your government?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f04635fffe2d0fef48316b5ea067a2637fbea35e.jpg"></article>]]></description>
-            <link>http://www.youtube.com/watch?v=oNv45gw44Wg</link>
-            <guid isPermaLink="false">bdc44ada-3314-4c4a-9215-4cb09ea344b7</guid>
             <pubDate>Fri, 15 Apr 2016 14:39:02 GMT</pubDate>
         </item>
     </channel>
