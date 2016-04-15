@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 03:35:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 03:36:01 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Screenshot]]></title>
+            <description><![CDATA[<article><h1>Screenshot</h1><p>Captured with Lightshot</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4c3c735504ff55a731deb39af6f41bcbed60a02.png"></article>]]></description>
+            <link>http://prntscr.com/as16ze</link>
+            <guid isPermaLink="false">6e12cf1d-7cc5-4fce-a2d5-5c3ffb06041f</guid>
+            <pubDate>Fri, 15 Apr 2016 03:34:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Analysis: 4/14/2016]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Analysis: 4/14/2016</h1><p>Bitcoin is still undergoing a correction towards the upward trend. Will that trend continue or should we expect a turn to decline followed by a sharp fall? Bitcoin's current rebound may likely grow into a turnaround. The current price is profitable for the bulls.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1feb893122c162ea4168c62cc53408478e59148f.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>AirBnB: No Bitcoin Plans After Industry Startup Acqui-Hire - CoinDesk</h1><p>Travel giant AirBnB has indicated it does not have any plans to incorporate bitcoin into its payment offerings following the acquisition of an unknown number of employees at social tipping startup ChangeCoin. AirBnB said the employees will be working on the company's engineering team, with a focus on infrastructure, though it offered no further details.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d9c7811d90eba358118dca520ca4218a02dd6b4.jpg"></article>]]></description>
             <link>http://www.coindesk.com/airbnb-no-plans-bitcoin-industry-startup-acqui-hire/</link>
             <guid isPermaLink="false">b18401b8-abc1-4b23-bb24-3de16aa2e5ad</guid>
-            <pubDate>Fri, 15 Apr 2016 03:34:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Live Breakout Trade! - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Live Breakout Trade! - NEWSBTC</h1><p>In this morning's bitcoin price watch article, we highlighted the range we were focusing on for the early European session. It was a pretty tight range, so we said we'd be looking at trading breakout only, as opposed to breakout and intrarange. This is because its difficult apply effective risk management parameters on intrarange trades ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39e3b2bd29888bec2e71a42d620d8ed77dfacec7.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/14/bitcoin-price-watch-live-breakout-trade/</link>
-            <guid isPermaLink="false">cb1707d5-70a7-4aa2-8021-dace94d2fb61</guid>
             <pubDate>Fri, 15 Apr 2016 03:34:40 GMT</pubDate>
         </item>
     </channel>
