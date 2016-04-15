@@ -1,14 +1,14 @@
 ---
 author:
-  - name: Bitcoin Magazine
-    url: 'http://www.nasdaq.com/author/bitcoin-magazine'
+  - name: by Rebecca Campbell
+    url: 'https://bitcoinmagazine.com/authors/rebecca-campbell'
     avatar: {}
 related: []
 publisher:
-  url: 'http://www.nasdaq.com'
-  name: NASDAQ.com
-  favicon: 'http://www.nasdaq.com/images/qfav.ico'
-  domain: www.nasdaq.com
+  url: 'https://bitcoinmagazine.com'
+  name: Bitcoin Magazine
+  favicon: null
+  domain: bitcoinmagazine.com
 keywords:
   - forough
   - afghanistan
@@ -23,10 +23,10 @@ keywords:
 description: 'One nonprofit organization is going above and beyond the call of duty when it comes to empowering underprivileged women in Afghanistan. Code to Inspire (CTI), led by founder Fereshteh Forough, started an after-school program in January 2015 followed in November of the same year by the opening of its first coding school for girls in Herat, Afghanistan.'
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.nasdaq.com/article/code-to-inspire-bitcoin-gives-afghan-women-financial-freedom-cm606465'
+isBasedOnUrl: 'https://bitcoinmagazine.com/articles/code-to-inspire-bitcoin-gives-afghan-women-financial-freedom-1460652348'
 title: 'Code to Inspire: Bitcoin Gives Afghan Women Financial Freedom'
-datePublished: '2016-04-15T03:34:40.823Z'
-dateModified: '2016-04-14T18:24:11.900Z'
+datePublished: '2016-04-15T03:34:40.947Z'
+dateModified: '2016-04-14T19:24:22.763Z'
 sourcePath: _posts/2016-04-15-code-to-inspire-bitcoin-gives-afghan-women-financial-freedo.md
 published: true
 inFeed: true
@@ -36,4 +36,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Code to Inspire: Bitcoin Gives Afghan Women Financial Freedom</h1><p>One nonprofit organization is going above and beyond the call of duty when it comes to empowering underprivileged women in Afghanistan. Code to Inspire (CTI), led by founder Fereshteh Forough, started an after-school program in January 2015 followed in November of the same year by the opening of its first coding school for girls in Herat, Afghanistan.</p><img src="http://www.nasdaq.com/reference/hiresphotos/news-photos/bitcoin/325x200/bitcoin27.jpg" /></article>
+<article style=""><h1>Code to Inspire: Bitcoin Gives Afghan Women Financial Freedom</h1><p>One nonprofit organization is going above and beyond the call of duty when it comes to empowering underprivileged women in Afghanistan. Code to Inspire (CTI), led by founder Fereshteh Forough, started an after-school program in January 2015 followed in November of the same year by the opening of its first coding school for girls in Herat, Afghanistan.</p><img src="https://assets.btcinc.io/img/articles/code-to-inspire-bitcoin-gives-afghan-women-financial-freedom.jpg" /></article>
