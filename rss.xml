@@ -4,8 +4,50 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 14:30:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 03:35:09 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ransomware authors use the bitcoin blockchain to deliver encryption keys]]></title>
+            <description><![CDATA[<article><h1>Ransomware authors use the bitcoin blockchain to deliver encryption keys</h1><p>Ransomware authors are using the bitcoin blockchain, which serves as the cryptocurrency's public transaction ledger, to deliver decryption keys to victims. The technique, which removes the burden of maintaining a reliable website-based infrastructure for cybercriminals, was observed in a recent version of the CTB-Locker ransomware that targets Web servers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15eae0d41e8638153bf5b5ee82338e0057345e26.jpg"></article>]]></description>
+            <link>http://www.computerworld.com/article/3056705/security/ransomware-authors-use-the-bitcoin-blockchain-to-deliver-encryption-keys.html</link>
+            <guid isPermaLink="false">b12e9757-f9d7-439a-880d-bc1e86dca006</guid>
+            <pubDate>Fri, 15 Apr 2016 03:34:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Core Feature Allows Flagging Transactions for Replacement]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Core Feature Allows Flagging Transactions for Replacement</h1><p>A Bitcoin Core addition called Opt-In Replace-By-Fee (Opt-in RBF) allows transactions to be flagged as replaceable and replaced until the transaction gets confirmed in the next block, according to Nasdaq. It gives wallets the chance to add a signal to a transaction that gives permission for nodes to update the transaction.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1c69eba31aa286c4241d0f0bd08dd7568b47957.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-core-feature-allows-flagging-transactions-for-replacement/</link>
+            <guid isPermaLink="false">9adfb88a-a4c2-469c-bd9d-60b066125581</guid>
+            <pubDate>Fri, 15 Apr 2016 03:34:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="https://i.imgur.com/QS72Ovn.png"></article>]]></description>
+            <link>https://imgur.com/QS72Ovn</link>
+            <guid isPermaLink="false">f1ad97f6-656a-4dcc-b0a6-cb59875fbab8</guid>
+            <pubDate>Thu, 14 Apr 2016 14:28:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LRB · John Lanchester · When Bitcoin Grows Up: What is Money?]]></title>
+            <description><![CDATA[<article><h1>LRB · John Lanchester · When Bitcoin Grows Up: What is Money?</h1><p>It's impossible to discuss new developments in money without thinking for a moment about what money is. The best place to start thinking about that is with money itself. Consider the UK's most common paper money, the English five or ten or twenty quid note. On one side we have a famous .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2bf3a15d3daa695d14581bf73262849b20c644a4.jpg"></article>]]></description>
+            <link>http://www.lrb.co.uk/v38/n08/john-lanchester/when-bitcoin-grows-up</link>
+            <guid isPermaLink="false">48f77c69-1899-44d8-b925-f05cceabe09b</guid>
+            <pubDate>Thu, 14 Apr 2016 14:28:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin: Privacy, Identity, Surveillance and Money - Barcelona Fablab Meetup March 2016]]></title>
+            <description><![CDATA[<article><h1>Bitcoin: Privacy, Identity, Surveillance and Money - Barcelona Fablab Meetup March 2016</h1><p>A talk about privacy, identity, surveillance, hierarchies and the future of network-centric private and secure money.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce017a05449a37514a32044beeebf873ef4494f9.jpg"></article>]]></description>
+            <link>http://www.youtube.com/watch?v=Vcvl5piGlYg</link>
+            <guid isPermaLink="false">ecb58ef5-b8e1-45da-90de-670638e9038f</guid>
+            <pubDate>Thu, 14 Apr 2016 14:28:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Technical Analysis for 04/14/2016 - Short-Term Resistance Holding! - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 04/14/2016 - Short-Term Resistance Holding! - NEWSBTC</h1><p>Bitcoin price has encountered resistance at the mid-channel area of interest, paving the way for another potential test of support. Bitcoin Price Key Highlights Bitcoin price has encountered resistance at the mid-channel area of interest, paving the way for another potential test of support.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0e64db4f6386cf6efa67915114ef9dc398f40dd.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/14/bitcoin-price-technical-analysis-04142016-short-term-resistance-holding/</link>
+            <guid isPermaLink="false">6fead0ba-a56e-4b61-ae27-5c3dc079a6cd</guid>
+            <pubDate>Thu, 14 Apr 2016 14:28:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Money-as-a-Service: Crypto Musings with Economist Jeffrey Tucker]]></title>
             <description><![CDATA[<article><h1>Money-as-a-Service: Crypto Musings with Economist Jeffrey Tucker</h1><p>From the "Regression Theorem" of money to a breakdown of "gold 2.0," the first person to send Amanda some Bitcoin -- Jeffrey Tucker -- banters about the fascinating shift from money-as-a-good to money-as-a-service. Connect with us! [website w/ RSS feed] http://TheDailyDecrypt.com [tweets] http://twitter.com/TheDailyDecrypt [facebook] http://facebook.com/TheDailyDecrypt [subreddit]: http://reddit.com/r/TheDailyDecrypt [audio-only feed]: http://henq.duckdns.org/podcast/feed.xml Wanna sponsor a show?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a96b0e1287f18a470f967fff305437f4b613b867.jpg"></article>]]></description>
@@ -33,48 +75,6 @@
             <link>http://siliconangle.com/blog/2016/04/14/bitcoin-and-cryptocurrency-exchange-coinwallet-is-closing-down-after-a-hack-steals-customer-data/</link>
             <guid isPermaLink="false">e809e5d5-a2a7-4b05-8f51-dc3b853dced7</guid>
             <pubDate>Thu, 14 Apr 2016 14:28:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Have Some Spare CPU Power, Mine HOdlcoin With It]]></title>
-            <description><![CDATA[<article><h1>Have Some Spare CPU Power, Mine HOdlcoin With It</h1><p>There are not that many CPU-only mineable coins out there and our current preferred choice for dedicating some spare CPU mining power is for HOdlcoin (HODL). The coin started with solo mining only from the wallet, but has since introduced pools and separate miners, so now it it easier to get started and there is development going on on new features.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd7f775ddf1a9f3e19466539976caab6262c3ca5.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7740-have-some-spare-cpu-power-mine-hodlcoin-with-it/</link>
-            <guid isPermaLink="false">5811eb79-5337-4e9b-abf6-feb877f67ef3</guid>
-            <pubDate>Thu, 14 Apr 2016 14:28:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Holy shit! The *real* goal of the people who support limited blocksize and Lighting Network is to bring back fractional reserve, debt-backed promissory notes, and counterparty risk - ie, the whole crappy fiat system that Bitcoin was designed to avoid! (video of Amanda interviewing /u/JustusRanvier) * /r/btc]]></title>
-            <description><![CDATA[<article><h1>Holy shit! The *real* goal of the people who support limited blocksize and Lighting Network is to bring back fractional reserve, debt-backed promissory notes, and counterparty risk - ie, the whole crappy fiat system that Bitcoin was designed to avoid! (video of Amanda interviewing /u/JustusRanvier) * /r/btc</h1><p>https://www.youtube.com/watch?v=w5TDcVfgpRc (The stuff about forcing Bitcoin back into a fractional reserve, debt-backed, counterparty approach...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55d6eb9bfa44809f3e705b15e8bce763b6f12e86.jpg"></article>]]></description>
-            <link>https://www.reddit.com/r/btc/comments/4eo13z/holy_shit_the_real_goal_of_the_people_who_support/</link>
-            <guid isPermaLink="false">1f3617e3-9929-48ea-8798-fe84643258ca</guid>
-            <pubDate>Thu, 14 Apr 2016 14:28:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Your Wall Won't Stop Bitcoin, Mr.Trump!" | Finance Magnates]]></title>
-            <description><![CDATA[<article><h1>"Your Wall Won't Stop Bitcoin, Mr.Trump!" | Finance Magnates</h1><p>When it was revealed last week that Donald Trump is considering banning money transfers to Mexico, we predicted such a move will have an enormous benefit for bitcoin adoption in North America. Now cryptocurrencies advocates are taking that message to the streets.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/945d8e5ae536cbb1a1a24620effb9caa931b0588.jpg"></article>]]></description>
-            <link>http://www.financemagnates.com/cryptocurrency/news/wall-wont-stop-bitcoin-mr-trump/</link>
-            <guid isPermaLink="false">3be3f204-9231-4e47-a570-99996d0045ae</guid>
-            <pubDate>Thu, 14 Apr 2016 14:28:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NEW MONEY: Not the Next Bitcoin the Next Dollar - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>NEW MONEY: Not the Next Bitcoin the Next Dollar - Bitcoinist.net</h1><p>It does not matter what currency community individuals belong to, we've all wondered aloud or privately to ourselves how we are going to get blockchain technology past the small crypto bubble and into the mainstream.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68334a296336163821b50cca6a0ff0ff65a32f1c.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/new-money-not-the-next-bitcoin-the-next-dollar/</link>
-            <guid isPermaLink="false">9d9ef355-03c1-4e3f-bf9d-fd429e76a460</guid>
-            <pubDate>Thu, 14 Apr 2016 14:28:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bank of America Merchant Services Report Mentions Bitcoin And Blockchain]]></title>
-            <description><![CDATA[<article><h1>Bank of America Merchant Services Report Mentions Bitcoin And Blockchain</h1><p>Blockchain technology, the protocol that underlies Bitcoin, could one day change how consumer card payments are verified. A recent Bank of America Merchant Services report has touched upon the subject of Bitcoin as one of the disruptersin the payment processing ecosystem.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b96d5b323047dea30089e30eea5263c58fbf7989.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/14/bank-america-merchant-services-report-mentions-bitcoin-blockchain/</link>
-            <guid isPermaLink="false">4084683f-d586-4f9b-b58e-d1dfde2fc6bf</guid>
-            <pubDate>Thu, 14 Apr 2016 14:28:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BITCOIN NEWS, PRICE & ANALYSIS - NEWSBTC.COM]]></title>
-            <description><![CDATA[<article><h1>BITCOIN NEWS, PRICE & ANALYSIS - NEWSBTC.COM</h1><p>NewsBTC is a Bitcoin news service that covers cryptocurrency news, technical analysis and forecasts for bitcoin, litecoin, dash, doge & digital currencies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43cfc6d43a55ea4f964a522ebe2781b17191ab0c.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/14/bitcoin-price-watch-todays-entries/</link>
-            <guid isPermaLink="false">c553106b-0b16-4d90-8f5b-14902a68e7f5</guid>
-            <pubDate>Thu, 14 Apr 2016 14:28:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
