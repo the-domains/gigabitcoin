@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 03:34:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 03:35:14 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>One of the underappreciated revelations around the #panamapapers scandal: cryptocurrencies were not mentioned at all.</p>]]></description>
+            <link>https://twitter.com/vitalikbuterin/status/718699016075223040</link>
+            <guid isPermaLink="false">b864a749-5fa3-41be-93c7-642348c5de32</guid>
+            <pubDate>Fri, 15 Apr 2016 03:34:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ransomware authors use the bitcoin blockchain to deliver encryption keys]]></title>
+            <description><![CDATA[<article><h1>Ransomware authors use the bitcoin blockchain to deliver encryption keys</h1><p>Ransomware authors are using the bitcoin blockchain, which serves as the cryptocurrency's public transaction ledger, to deliver decryption keys to victims. The technique, which removes the burden of maintaining a reliable website-based infrastructure for cybercriminals, was observed in a recent version of the CTB-Locker ransomware that targets Web servers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15eae0d41e8638153bf5b5ee82338e0057345e26.jpg"></article>]]></description>
+            <link>http://www.computerworld.com/article/3056705/security/ransomware-authors-use-the-bitcoin-blockchain-to-deliver-encryption-keys.html</link>
+            <guid isPermaLink="false">b12e9757-f9d7-439a-880d-bc1e86dca006</guid>
+            <pubDate>Fri, 15 Apr 2016 03:34:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Core Feature Allows Flagging Transactions for Replacement]]></title>
             <description><![CDATA[<article><h1>Bitcoin Core Feature Allows Flagging Transactions for Replacement</h1><p>A Bitcoin Core addition called Opt-In Replace-By-Fee (Opt-in RBF) allows transactions to be flagged as replaceable and replaced until the transaction gets confirmed in the next block, according to Nasdaq. It gives wallets the chance to add a signal to a transaction that gives permission for nodes to update the transaction.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1c69eba31aa286c4241d0f0bd08dd7568b47957.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Taxes 2016: Accurately Reporting Bitcoin Usage - Bitcoinist.net</h1><p>While tax law has not changed since last year, it's still important to review how Bitcoin works for taxes because it's required by law in the U.S. Accurately reporting taxes for Bitcoin can be tricky since it involves calculations which treat it as a currency as well as capital asset which can have either capital gains or losses over time depending on when you acquired the Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc7777d124aec076ef1cdb963457b148fd4ad2ea.jpg"></article>]]></description>
             <link>http://bitcoinist.net/bitcoin-and-taxes-2016/</link>
             <guid isPermaLink="false">cbfd7ef2-22f4-4ebc-aa8f-b67db1d400e0</guid>
-            <pubDate>Thu, 14 Apr 2016 14:28:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin and cryptocurrency exchange CoinWallet is closing down after a hack steals customer data]]></title>
-            <description><![CDATA[<article><h1>Bitcoin and cryptocurrency exchange CoinWallet is closing down after a hack steals customer data</h1><p>Bitcoin and cryptocurrency exchange CoinWallet.co has announced that they will be closing the business effective May 1 following a data breach. According to the closure announcement post, the hack occurred April 6 and involved the person behind the attack inserting bad code in a recently added feature that allowed user input.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34828331f6d21422bf3c3179c5716eef8585f1f4.jpg"></article>]]></description>
-            <link>http://siliconangle.com/blog/2016/04/14/bitcoin-and-cryptocurrency-exchange-coinwallet-is-closing-down-after-a-hack-steals-customer-data/</link>
-            <guid isPermaLink="false">e809e5d5-a2a7-4b05-8f51-dc3b853dced7</guid>
-            <pubDate>Thu, 14 Apr 2016 14:28:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Have Some Spare CPU Power, Mine HOdlcoin With It]]></title>
-            <description><![CDATA[<article><h1>Have Some Spare CPU Power, Mine HOdlcoin With It</h1><p>There are not that many CPU-only mineable coins out there and our current preferred choice for dedicating some spare CPU mining power is for HOdlcoin (HODL). The coin started with solo mining only from the wallet, but has since introduced pools and separate miners, so now it it easier to get started and there is development going on on new features.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd7f775ddf1a9f3e19466539976caab6262c3ca5.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7740-have-some-spare-cpu-power-mine-hodlcoin-with-it/</link>
-            <guid isPermaLink="false">5811eb79-5337-4e9b-abf6-feb877f67ef3</guid>
             <pubDate>Thu, 14 Apr 2016 14:28:18 GMT</pubDate>
         </item>
     </channel>
