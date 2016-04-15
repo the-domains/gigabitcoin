@@ -4,8 +4,50 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 14:39:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 14:40:29 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Yope are nexuslab blockchain finalists - Digital Chains]]></title>
+            <description><![CDATA[<article><h1>Yope are nexuslab blockchain finalists - Digital Chains</h1><p>You know that feeling when you've been working really hard on something and it all suddenly falls into place? At Yope, we all got that feeling yesterday when we found out we were one of the ten finalists chosen out of 260 blockchain startups from all over Europe to join the first cohort of the nexuslab virtual bootcamp.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb4a8d75ccd2a3671b1d6cda0d39b41db9e7c5ce.png"></article>]]></description>
+            <link>http://gigabitcoin.xyz/yope-are-nexuslab-blockchain-finalists-digital-chains/index.html</link>
+            <guid isPermaLink="false">05529306-9e0b-476e-bf08-56cab5c7e4ac</guid>
+            <pubDate>Fri, 15 Apr 2016 14:39:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Repository Maintainer Appointed]]></title>
+            <description><![CDATA[<article><h1>New Repository Maintainer Appointed</h1></article>]]></description>
+            <link>https://bitcoincore.org/en/blog/2016/04/14/maintainer/</link>
+            <guid isPermaLink="false">b4ffbf25-e796-44ab-abf7-a4cbf1b1c4be</guid>
+            <pubDate>Fri, 15 Apr 2016 14:39:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is centralization in the Lightning network inevitable? Why (not)?]]></title>
+            <description><![CDATA[<article><h1>Is centralization in the Lightning network inevitable? Why (not)?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Especially keeping in mind the possibility of single-funded channels (see Tadge's Google Doc Slides), buying from an exchange and concurrently opening a payment channel on the Lightning network would seem a particularly simple entry to the LN.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43728/is-centralization-in-the-lightning-network-inevitable-why-not</link>
+            <guid isPermaLink="false">4a50d46f-236b-45fc-b098-3438f79c4a6d</guid>
+            <pubDate>Fri, 15 Apr 2016 14:39:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Technical Analysis for 04/15/2016 - Daily Triangle Holding - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 04/15/2016 - Daily Triangle Holding - NEWSBTC</h1><p>Bitcoin price is moving inside a symmetrical triangle pattern with its lower highs and higher lows on the daily time frame. Bitcoin Price Key Highlights Bitcoin price is moving inside a symmetrical triangle pattern with its lower highs and higher lows on the daily time frame.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7f63e32fb7cda8bc4117bb4793e6360195de842.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/15/bitcoin-price-technical-analysis-04152016-daily-triangle-holding/</link>
+            <guid isPermaLink="false">4534366a-0e61-4640-bae5-63b2d82ae446</guid>
+            <pubDate>Fri, 15 Apr 2016 14:39:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin's Tech Forces Banks to Think Like IT Companies]]></title>
+            <description><![CDATA[<article><h1>Bitcoin's Tech Forces Banks to Think Like IT Companies</h1><p>More than bitcoin, blockchain is interfering with the margins and business models of the finance world. The technology is also challenging our banking institutions' longstanding platform as intermediaries. Last year was particularly remarkable for the technology, attracting close to $1 billion in investments for both bitcoin and blockchain firms, according to industry reports.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41f2d862c5bd14c3605a5f24b5e3b5360faefc27.jpg"></article>]]></description>
+            <link>http://www.paymentssource.com/news/paythink/bitcoin-tech-forces-banks-to-think-like-it-companies-3023915-1.html</link>
+            <guid isPermaLink="false">586b4700-c7bd-4971-bf24-64cc40668633</guid>
+            <pubDate>Fri, 15 Apr 2016 14:39:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[​7 myths about the Bitcoin blockchain]]></title>
+            <description><![CDATA[<article><h1>​7 myths about the Bitcoin blockchain</h1><p>Everyone's talking about the Bitcoin blockchain - a global, distributed ledger of transactions for the Bitcoin digital currency - allowing for peer-to-peer payments over the Internet. According to a Gartner definition, the Bitcoin blockchain is "an authoritative record of Bitcoin transactions, and is not stored in, or controlled by, a central server."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e328633a404540d37cdeaec24826d28dc4857698.jpg"></article>]]></description>
+            <link>http://www.cio.com.au/article/598068/7-myths-about-bitcoin-blockchain/</link>
+            <guid isPermaLink="false">16039b65-006a-4638-96f5-51152407a216</guid>
+            <pubDate>Fri, 15 Apr 2016 14:39:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[[AMA] Gavin Andresen on 8BTC: Scaling Bitcoin. April 21st. I will translate some top-voted questions on Reddit to 8BTC, and have included a short guide on how to sign up and post on 8BTC. * /r/btc]]></title>
             <description><![CDATA[<article><h1>[AMA] Gavin Andresen on 8BTC: Scaling Bitcoin. April 21st. I will translate some top-voted questions on Reddit to 8BTC, and have included a short guide on how to sign up and post on 8BTC. * /r/btc</h1><p>Having had many Core reps doing AMAs on Chinese forum 8BTC, some Classic supporters proposed to invite some Classic devs, such as Gavin or Jeff,...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/454aa8a6f7a7822c6f65b6406eff3b7eb2296f19.jpg"></article>]]></description>
@@ -33,48 +75,6 @@
             <link>http://www.newsbtc.com/2016/04/15/saw-inspired-bitcoin-ransomware-deletes-files-every-hour/</link>
             <guid isPermaLink="false">a1395cfd-b5e0-494b-846d-4fd377240ded</guid>
             <pubDate>Fri, 15 Apr 2016 14:39:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Disrupt Conference - What is Bitcoin?]]></title>
-            <description><![CDATA[<article><h1>Disrupt Conference - What is Bitcoin?</h1><p>In this short, "TED style" talk, Andreas delivers an introduction to bitcoin for a general non-technical audience. Delivered in Athens in November of 2013, this is one of the most shared bitcoin videos, an easy way to explain bitcoin to anyone.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/122f42f9b5b1afc59ef3e3c7a99be7940321c329.jpg"></article>]]></description>
-            <link>http://www.youtube.com/watch?v=LA9A1RyXv9s</link>
-            <guid isPermaLink="false">322f220e-1afc-4e4b-bc8b-941827d5a8dc</guid>
-            <pubDate>Fri, 15 Apr 2016 14:39:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Factom - Big Data on the Bitcoin Blockchain - BnkToTheFuture Case Study]]></title>
-            <description><![CDATA[<article><h1>Factom - Big Data on the Bitcoin Blockchain - BnkToTheFuture Case Study</h1><p>http://bit.ly/1AJOQiZ Ever wondered what it would be like if you couldn't prove your home, or even the land it's built on, was actually yours? Ever pondered what happens to your data when you share it online, with your bank or with your government?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f04635fffe2d0fef48316b5ea067a2637fbea35e.jpg"></article>]]></description>
-            <link>http://www.youtube.com/watch?v=oNv45gw44Wg</link>
-            <guid isPermaLink="false">bdc44ada-3314-4c4a-9215-4cb09ea344b7</guid>
-            <pubDate>Fri, 15 Apr 2016 14:39:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Owner Moves Bitcoin Exchange Out of Estonia After Landmark Supreme Court Decision]]></title>
-            <description><![CDATA[<article><h1>Owner Moves Bitcoin Exchange Out of Estonia After Landmark Supreme Court Decision</h1><p>BTC.ee owner alleges threats by Estonian police and moves business out of the country as Supreme Court of the country on Monday ruled against Bitcoin in a landmark case. BTC.ee recently announced closure over threats by the Estonian police.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/02a3da2973a4c7182de3faa94dfbecd605644dac.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/owner-moves-bitcoin-exchange-out-of-estonia-after-landmark-supreme-court-decision</link>
-            <guid isPermaLink="false">375cb3fb-13fa-4fd7-b4fc-e88937740036</guid>
-            <pubDate>Fri, 15 Apr 2016 14:39:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[San Diego Sees 2 New Bitcoin ATMs]]></title>
-            <description><![CDATA[<article><h1>San Diego Sees 2 New Bitcoin ATMs</h1><p>With an announcement, Bitcoin ATM network Coinsource has installed two more Bitcoin ATMs in San Diego County, in addition to one existing ATM. San Diego now sees three bitcoin ATMs active in the County operated by Coinsource.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9df8a51f59ab1b7399b13daa1a43126eccad0220.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/san-diego-sees-2-new-bitcoin-atms/</link>
-            <guid isPermaLink="false">d2d87b2f-bd05-4947-b698-ca1753ad1ffb</guid>
-            <pubDate>Fri, 15 Apr 2016 14:39:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Screenshot]]></title>
-            <description><![CDATA[<article><h1>Screenshot</h1><p>Captured with Lightshot</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4c3c735504ff55a731deb39af6f41bcbed60a02.png"></article>]]></description>
-            <link>http://prntscr.com/as16ze</link>
-            <guid isPermaLink="false">6e12cf1d-7cc5-4fce-a2d5-5c3ffb06041f</guid>
-            <pubDate>Fri, 15 Apr 2016 03:34:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Power of Schnorr: The Signature Algorithm to Increase Bitcoin's Scale and Privacy]]></title>
-            <description><![CDATA[<article><h1>The Power of Schnorr: The Signature Algorithm to Increase Bitcoin's Scale and Privacy</h1><p>Segregated Witness has entered its final testing stage before roll-out on the Bitcoin network. That is good news, most importantly because the innovation introduces a capacity increase to allow for more transactions on the network, while it also solves transaction malleability.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3189afe946c264aae825f53df25c4eaea2c76c9b.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/the-power-of-schnorr-the-signature-algorithm-to-increase-bitcoin-s-scale-and-privacy-1460642496</link>
-            <guid isPermaLink="false">b59a4afc-dac1-4836-9c16-76ffb0ffd548</guid>
-            <pubDate>Fri, 15 Apr 2016 03:34:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
