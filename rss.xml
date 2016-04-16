@@ -7,13 +7,6 @@
         <lastBuildDate>Sat, 16 Apr 2016 18:29:08 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Viet Film Fest Included Bitcoin Heist After-party]]></title>
-            <description><![CDATA[<article><h1>Viet Film Fest Included Bitcoin Heist After-party</h1><p>It looks as if the Bitcoin Heist movie will be making its way to the Western world after all. A recent trailer has surfaced regarding the upcoming Viet Film Fest 2016 in California, and the Bitcoin Heist movie will be the opener for this event.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8d95cf93fba80a58d70e1aa7ece02d92e7753b1.jpg"></article>]]></description>
-            <link>http://themerkle.com/viet-film-fest-included-bitcoin-heist-after-party/</link>
-            <guid isPermaLink="false">1c0f5be4-b390-48fb-a9b7-504384f38466</guid>
-            <pubDate>Sat, 16 Apr 2016 18:28:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Coincheck collects bitcoin donations for Kumamoto earthquake victims]]></title>
             <description><![CDATA[<article><h1>Coincheck collects bitcoin donations for Kumamoto earthquake victims</h1><p>On April 15, at 16:25 UTC a magnitude 7.0 (M7.0) earthquake struck southwest Japan, "as the result of strike-slip faulting at shallow depth," according to the United States Geological Survey (USGS). The Japan Meteorological Agency recorded the quake as magnitude 7.1, which it later revised to 7.3.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d0c111766d4950894e7a95c3cd4877e40c16e88.png"></article>]]></description>
             <link>http://bravenewcoin.com/news/coincheck-collects-bitcoin-donations-for-kumamoto-earthquake-victims/</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>LHV Bank's Bitcoin App Wins Innovation Award - CoinDesk</h1><p>A bitcoin-based blockchain wallet application developed by LHV Bank and industry startup ChromaWay has won the Estonian Banking Association's 2016 Innovation Award. The app was selected over of entries by Nordic banks SEB and Swedbank and cross-border money transfer startup Transferwise due to what judge and CEO of Rate Solutions Andrei Korobeinik said in statements was its uniqueness among entrants.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a788936810073054b1b35efa6844e8e401d8ca8.jpg"></article>]]></description>
             <link>http://www.coindesk.com/lhv-banks-bitcoin-app-wins-innovation-award/</link>
             <guid isPermaLink="false">6eb90ea0-7176-45d7-ae77-4a3e12568e79</guid>
+            <pubDate>Sat, 16 Apr 2016 04:03:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[bitcoin-core-dev] Bitcoin Core 0.12.1 released]]></title>
+            <description><![CDATA[<article><h1>[bitcoin-core-dev] Bitcoin Core 0.12.1 released</h1><p>BEGIN PGP SIGNED MESSAGE----- Hash: SHA512 Bitcoin Core version 0.12.1 is now available from: Or through bittorrent: magnet:?xt=urn:btih:25c4df2a822e840e972a50a31095632d87efadab&dn=bitcoin-core-0.12.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&ws=https%3A%2F%2Fbitcoin.org%2Fbin%2F This is a new minor version release, including the BIP9, BIP68 and BIP112 softfork, various bugfixes and updated translations.</p></article>]]></description>
+            <link>https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2016-April/000006.html</link>
+            <guid isPermaLink="false">7a69d2f9-b3ca-4f5a-b11d-bf55e74ed2fe</guid>
             <pubDate>Sat, 16 Apr 2016 04:03:08 GMT</pubDate>
         </item>
     </channel>
