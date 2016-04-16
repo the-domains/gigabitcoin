@@ -4,57 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 04:04:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 04:04:05 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[[bitcoin-core-dev] Bitcoin Core 0.12.1 released]]></title>
-            <description><![CDATA[<article><h1>[bitcoin-core-dev] Bitcoin Core 0.12.1 released</h1><p>BEGIN PGP SIGNED MESSAGE----- Hash: SHA512 Bitcoin Core version 0.12.1 is now available from: Or through bittorrent: magnet:?xt=urn:btih:25c4df2a822e840e972a50a31095632d87efadab&dn=bitcoin-core-0.12.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&ws=https%3A%2F%2Fbitcoin.org%2Fbin%2F This is a new minor version release, including the BIP9, BIP68 and BIP112 softfork, various bugfixes and updated translations.</p></article>]]></description>
-            <link>https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2016-April/000006.html</link>
-            <guid isPermaLink="false">7a69d2f9-b3ca-4f5a-b11d-bf55e74ed2fe</guid>
-            <pubDate>Sat, 16 Apr 2016 04:03:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EDCAB Will Decide On Bitcoin and Blockchain Regulation in Europe]]></title>
-            <description><![CDATA[<article><h1>EDCAB Will Decide On Bitcoin and Blockchain Regulation in Europe</h1><p>The creation of EDCAB signals industry's commitment to work with policymakers over the long term to achieve positive outcomes for the sector and the European citizens it serves. There is no denying European policymakers are keeping a very close eye on the blockchain ecosystem.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b4471dea20d62b9dfab0542e50cc1a1623c75f6.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/15/edcab-will-decide-bitcoin-blockchain-regulation-europe/</link>
-            <guid isPermaLink="false">4984c232-6381-4538-a7ef-12dae4a22e9d</guid>
-            <pubDate>Sat, 16 Apr 2016 04:03:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Analysis: 4/15/2016]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Analysis: 4/15/2016</h1><p>A turn to decline didn't happen, which means that the upward trend is to continue. Bitcoin's price now stands a chance to reach $445. The lack of a downward trend means that the bulls are holding the advantage. The majority of the traders were expecting the price to grow, at least in the medium-term scale.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/569a6a9f8e519c2571dd1faf5f6165aab994cba3.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/bitcoin-price-analysis-4152016</link>
-            <guid isPermaLink="false">a6df8a1c-fd32-466b-a5d0-3c153e99abf2</guid>
-            <pubDate>Sat, 16 Apr 2016 04:03:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Core Dev Jeff Garzik Sounds Off On Block Size Challenges, Offers His Insight]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Core Dev Jeff Garzik Sounds Off On Block Size Challenges, Offers His Insight</h1><p>Jeff Garzik, a bitcoin code veteran, offered some insight into his purpose for launching Bloq a code-for-hire service to develop features for blockchain software and provide access to blockchain support. In a podcast interview on Bitcoin Uncensored co-...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/134e7893d542b244120fdf60f0049ba551518e8a.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-core-dev-jeff-garzik-block-size/</link>
-            <guid isPermaLink="false">767a71bb-a464-4631-b6ef-cbe3a691275e</guid>
-            <pubDate>Sat, 16 Apr 2016 04:03:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CoinCheck Launches Kumamoto Earthquake Bitcoin Fund]]></title>
-            <description><![CDATA[<article><h1>CoinCheck Launches Kumamoto Earthquake Bitcoin Fund</h1><p>As people may have learned by now, an earthquake has hit the Kumamoto area in Japan. CoinCheck, one of the leading Bitcoin exchanges in the country, has set up a donation fund for the affected victims. Also read: Belarus To Host Country's First Bitcoin and Blockchain Meetup In these times of hardship, it is important for people all over the world to come together.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75a27e4ffcc33e555afe9d86d3e25501757537dd.jpg"></article>]]></description>
-            <link>http://themerkle.com/coincheck-launches-kumamoto-earthquake-bitcoin-fund/</link>
-            <guid isPermaLink="false">05635c82-9002-45b3-9239-da5621dd6872</guid>
-            <pubDate>Sat, 16 Apr 2016 04:03:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Core version 0.12.1 released]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Core version 0.12.1 released</h1><p>Miners get to choose what time they use for their header time, with the consensus rule being that no node will accept a block whose time is more than two hours in the future. This creates a incentive for miners to set their header times to future values in order to include locktimed transactions which weren't supposed to be included for up to two more hours.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9da8e724ef82569a35ce516d6961ff57cbe9c21b.png"></article>]]></description>
-            <link>https://bitcoin.org/en/release/v0.12.1</link>
-            <guid isPermaLink="false">a36d2eb3-c7d7-4268-80ea-a540a1da52c7</guid>
-            <pubDate>Sat, 16 Apr 2016 04:03:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Halts At Resistance]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Halts At Resistance</h1><p>Bitcoin price was eagerly traded to the upside today in wave that now appears to have topped out just below long-term overhead resistance. Upward continuation will break resistance and herald a rally, but so far it looks like price is falling back into the consolidation range.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae74d6dd713da537936ff35636ea08c498329c6c.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-price-halts-resistance/</link>
-            <guid isPermaLink="false">9189431e-c74a-4fc7-9e4f-69e56be0ff40</guid>
-            <pubDate>Sat, 16 Apr 2016 04:03:07 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Dev Peter Todd: Forced Soft Forks Send a "Dangerous Message"]]></title>
             <description><![CDATA[<article><h1>Bitcoin Dev Peter Todd: Forced Soft Forks Send a "Dangerous Message"</h1><p>In a recent blog post, Peter Todd, one of the more active bitcoin developers, raised the prospects of an amicable end to the so-called "civil war". Setting out a condition, Todd states: "If major industry players were willing to commit to layer 2 solutions, I'd be willing to support something like a forced soft fork, and I'd be willing to support a coin voting hard fork even if they didn't."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b1c5faf2a5d1ea9d4cdaafe29098c7fec345c70.jpg"></article>]]></description>
@@ -75,6 +26,55 @@
             <link>http://www.coindesk.com/bitcoin-price-stable-ether-drops-50-percent/</link>
             <guid isPermaLink="false">57f80bfc-874b-4af0-932f-5adcf59fa34d</guid>
             <pubDate>Sat, 16 Apr 2016 04:03:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Did Bitcoin Lead To Birth Of Ransomware?]]></title>
+            <description><![CDATA[<article><h1>Did Bitcoin Lead To Birth Of Ransomware?</h1><p>Ransomware, rogue software which encrypt data on your hard disk and demand payment in bitcoins to restore it, have been on the rise recently. Hospitals, police stations and universities have been the recent targets of ransomware. What exactly are the causes of the increase in ransomware and did Bitcoin lead to its birth?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45f19e21f984aa7a5e90acac1a793e2bff65eaa0.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/did-bitcoin-lead-to-birth-of-ransomware</link>
+            <guid isPermaLink="false">e675e9ad-1285-42b2-83f5-bcc2b6714e37</guid>
+            <pubDate>Sat, 16 Apr 2016 04:03:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin: Privacy, Identity, Surveillance and Money - Barcelona Fablab Meetup March 2016]]></title>
+            <description><![CDATA[<article><h1>Bitcoin: Privacy, Identity, Surveillance and Money - Barcelona Fablab Meetup March 2016</h1><p>A talk about privacy, identity, surveillance, hierarchies and the future of network-centric private and secure money.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce017a05449a37514a32044beeebf873ef4494f9.jpg"></article>]]></description>
+            <link>https://youtu.be/Vcvl5piGlYg?t=756</link>
+            <guid isPermaLink="false">0ff87910-85f5-4e9f-8f3d-9ad471ed2bee</guid>
+            <pubDate>Sat, 16 Apr 2016 04:03:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who really owns the 'Internet of Money'?]]></title>
+            <description><![CDATA[<article><h1>Who really owns the 'Internet of Money'?</h1><p>What exactly is the Blockchain? Now watching What exactly is the Blockchain? Regulators moving to require registration of drones Regulators moving to require registration of drones Some people in the bitcoin world-the believers still waving the flag for the leading digital currency, which is currently trading at $427-will tell you that the phrase "The Internet of Money" is widely understood as a reference to bitcoin and its underlying technology, the blockchain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96e9fbd8fd6963db279281065c018f27445c5438.jpg"></article>]]></description>
+            <link>http://finance.yahoo.com/news/bitcoin-world-disputes-uphold-internet-of-money-andreas-antonopoulos-210907255.html</link>
+            <guid isPermaLink="false">7554a0be-a958-4c25-9a6f-1da26c5615ef</guid>
+            <pubDate>Sat, 16 Apr 2016 04:03:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Core 0.12.1 Released, Major Step Forward for Scalability]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Core 0.12.1 Released, Major Step Forward for Scalability</h1><p>Bitcoin Core 0.12.1 was released early this morning and the update includes several changes that have huge implications for Bitcoin scalability . The release deploys the first soft fork on the Bitcoin network to use the methodology outlined in BIP 9 (Version Bits), which allows multiple soft forks to take place at the same time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2518199a2f6a95eb6be929039e7c174bbf4abe58.jpg"></article>]]></description>
+            <link>http://www.nasdaq.com/article/bitcoin-core-0121-released-major-step-forward-for-scalability-cm607209</link>
+            <guid isPermaLink="false">883255e3-c59e-46b5-bf04-a59d55ca577b</guid>
+            <pubDate>Sat, 16 Apr 2016 04:03:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yope are nexuslab blockchain finalists - Digital Chains]]></title>
+            <description><![CDATA[<article><h1>Yope are nexuslab blockchain finalists - Digital Chains</h1><p>You know that feeling when you've been working really hard on something and it all suddenly falls into place? At Yope, we all got that feeling yesterday when we found out we were one of the ten finalists chosen out of 260 blockchain startups from all over Europe to join the first cohort of the nexuslab virtual bootcamp.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb4a8d75ccd2a3671b1d6cda0d39b41db9e7c5ce.png"></article>]]></description>
+            <link>http://gigabitcoin.xyz/yope-are-nexuslab-blockchain-finalists-digital-chains/index.html</link>
+            <guid isPermaLink="false">05529306-9e0b-476e-bf08-56cab5c7e4ac</guid>
+            <pubDate>Fri, 15 Apr 2016 14:39:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Repository Maintainer Appointed]]></title>
+            <description><![CDATA[<article><h1>New Repository Maintainer Appointed</h1></article>]]></description>
+            <link>https://bitcoincore.org/en/blog/2016/04/14/maintainer/</link>
+            <guid isPermaLink="false">b4ffbf25-e796-44ab-abf7-a4cbf1b1c4be</guid>
+            <pubDate>Fri, 15 Apr 2016 14:39:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is centralization in the Lightning network inevitable? Why (not)?]]></title>
+            <description><![CDATA[<article><h1>Is centralization in the Lightning network inevitable? Why (not)?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Especially keeping in mind the possibility of single-funded channels (see Tadge's Google Doc Slides), buying from an exchange and concurrently opening a payment channel on the Lightning network would seem a particularly simple entry to the LN.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43728/is-centralization-in-the-lightning-network-inevitable-why-not</link>
+            <guid isPermaLink="false">4a50d46f-236b-45fc-b098-3438f79c4a6d</guid>
+            <pubDate>Fri, 15 Apr 2016 14:39:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
