@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 04:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 04:03:35 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Did Bitcoin Lead To Birth Of Ransomware?]]></title>
+            <description><![CDATA[<article><h1>Did Bitcoin Lead To Birth Of Ransomware?</h1><p>Ransomware, rogue software which encrypt data on your hard disk and demand payment in bitcoins to restore it, have been on the rise recently. Hospitals, police stations and universities have been the recent targets of ransomware. What exactly are the causes of the increase in ransomware and did Bitcoin lead to its birth?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45f19e21f984aa7a5e90acac1a793e2bff65eaa0.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/did-bitcoin-lead-to-birth-of-ransomware</link>
+            <guid isPermaLink="false">e675e9ad-1285-42b2-83f5-bcc2b6714e37</guid>
+            <pubDate>Sat, 16 Apr 2016 04:03:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Core 0.12.1 Released, Major Step Forward for Scalability]]></title>
             <description><![CDATA[<article><h1>Bitcoin Core 0.12.1 Released, Major Step Forward for Scalability</h1><p>Bitcoin Core 0.12.1 was released early this morning and the update includes several changes that have huge implications for Bitcoin scalability . The release deploys the first soft fork on the Bitcoin network to use the methodology outlined in BIP 9 (Version Bits), which allows multiple soft forks to take place at the same time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2518199a2f6a95eb6be929039e7c174bbf4abe58.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Watch; Looking Towards the Week's Close - NEWSBTC</h1><p>Here's what we are looking to trade in this morning's bitcoin price on Friday. It's been a strange week in the bitcoin price yet again. We've seen some technical patterns, some consolidation, and even - thankfully - some breakout action from which we've been able to place trades according to our intraday strategy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a619d4c2068e696e780715ecd457e5523a7d4268.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/04/15/bitcoin-price-watch-looking-towards-weeks-close/</link>
             <guid isPermaLink="false">a04b1b0e-a20d-418e-ad70-c9fe428ee02c</guid>
-            <pubDate>Fri, 15 Apr 2016 14:39:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Where can I query the UTXO database?]]></title>
-            <description><![CDATA[<article><h1>Where can I query the UTXO database?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Currently there are 35 million unspent transaction outputs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/43725/where-can-i-query-the-utxo-database</link>
-            <guid isPermaLink="false">0f2b3c27-1777-4227-8c9b-8ac93298f62b</guid>
             <pubDate>Fri, 15 Apr 2016 14:39:02 GMT</pubDate>
         </item>
     </channel>
