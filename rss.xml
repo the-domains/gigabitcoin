@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 18:29:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 18:29:08 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin Core 0.12.1 Released!]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Core 0.12.1 Released!</h1></article>]]></description>
-            <link>https://bitcoincore.org/en/blog/2016/04/15/release-0.12.1/</link>
-            <guid isPermaLink="false">eca89bba-a000-4702-88f2-4f7866712fe4</guid>
-            <pubDate>Sat, 16 Apr 2016 18:28:09 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Viet Film Fest Included Bitcoin Heist After-party]]></title>
             <description><![CDATA[<article><h1>Viet Film Fest Included Bitcoin Heist After-party</h1><p>It looks as if the Bitcoin Heist movie will be making its way to the Western world after all. A recent trailer has surfaced regarding the upcoming Viet Film Fest 2016 in California, and the Bitcoin Heist movie will be the opener for this event.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8d95cf93fba80a58d70e1aa7ece02d92e7753b1.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://cryptomining-blog.com/7747-modifying-knc-titan-scrypt-asic-with-water-cooling/</link>
             <guid isPermaLink="false">f92f2bb6-a831-4a38-9318-59ef3f8304b6</guid>
             <pubDate>Sat, 16 Apr 2016 18:28:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LHV Bank's Bitcoin App Wins Innovation Award - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>LHV Bank's Bitcoin App Wins Innovation Award - CoinDesk</h1><p>A bitcoin-based blockchain wallet application developed by LHV Bank and industry startup ChromaWay has won the Estonian Banking Association's 2016 Innovation Award. The app was selected over of entries by Nordic banks SEB and Swedbank and cross-border money transfer startup Transferwise due to what judge and CEO of Rate Solutions Andrei Korobeinik said in statements was its uniqueness among entrants.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a788936810073054b1b35efa6844e8e401d8ca8.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/lhv-banks-bitcoin-app-wins-innovation-award/</link>
+            <guid isPermaLink="false">6eb90ea0-7176-45d7-ae77-4a3e12568e79</guid>
+            <pubDate>Sat, 16 Apr 2016 04:03:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
