@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 18:28:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 18:28:56 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[In interview, India's Rajan says monetary policy has run its course]]></title>
+            <description><![CDATA[<article><h1>In interview, India's Rajan says monetary policy has run its course</h1><p>By Raghuram Rajan, governor of the Reserve Bank of India, has been leery of the unconventional monetary policy tools used by central banks since the financial crisis. At some point, he said, pushing interest rates low seems to have the perverse effect of making people save rather than spend.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bf3969d0b2dc709f47f7888e9ff7ac71621e69d.jpg"></article>]]></description>
+            <link>http://www.marketwatch.com/story/in-interview-indias-rajan-says-monetary-policy-has-run-its-course-2016-04-15?siteid=YAHOOB</link>
+            <guid isPermaLink="false">1e710aad-f215-42f3-bece-17dbc7b02098</guid>
+            <pubDate>Sat, 16 Apr 2016 18:28:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Analysis: Critical Moment For Trend]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Analysis: Critical Moment For Trend</h1><p>Bitcoin price touched long-term resistance in the Bitstamp chart, today. Although the picture looks different across different exchange charts it is clear an important moment for the longer-term outlook has arrived. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3fb4d1b957c338147e1a2d443498f121ed87e3c0.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-price-analysis-critical-moment-trend/</link>
+            <guid isPermaLink="false">3621cc51-9a55-49f8-bfbd-00bd2ac062da</guid>
+            <pubDate>Sat, 16 Apr 2016 18:28:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Modifying KNC Titan Scrypt ASIC With Water Cooling]]></title>
             <description><![CDATA[<article><h1>Modifying KNC Titan Scrypt ASIC With Water Cooling</h1><p>After our not so successful experiments in trying to use immersion cooling with mineral oil for the KnCMiner Titan Scrypt ASIC we have moved to trying out different things to make the device run cooler and silent.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4614015faf3e12fd0d716e382066ad2aec7fb587.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Core version 0.12.1 released</h1><p>Miners get to choose what time they use for their header time, with the consensus rule being that no node will accept a block whose time is more than two hours in the future. This creates a incentive for miners to set their header times to future values in order to include locktimed transactions which weren't supposed to be included for up to two more hours.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9da8e724ef82569a35ce516d6961ff57cbe9c21b.png"></article>]]></description>
             <link>https://bitcoin.org/en/release/v0.12.1</link>
             <guid isPermaLink="false">a36d2eb3-c7d7-4268-80ea-a540a1da52c7</guid>
-            <pubDate>Sat, 16 Apr 2016 04:03:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Halts At Resistance]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Halts At Resistance</h1><p>Bitcoin price was eagerly traded to the upside today in wave that now appears to have topped out just below long-term overhead resistance. Upward continuation will break resistance and herald a rally, but so far it looks like price is falling back into the consolidation range.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae74d6dd713da537936ff35636ea08c498329c6c.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-price-halts-resistance/</link>
-            <guid isPermaLink="false">9189431e-c74a-4fc7-9e4f-69e56be0ff40</guid>
-            <pubDate>Sat, 16 Apr 2016 04:03:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Dev Peter Todd: Forced Soft Forks Send a "Dangerous Message"]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Dev Peter Todd: Forced Soft Forks Send a "Dangerous Message"</h1><p>In a recent blog post, Peter Todd, one of the more active bitcoin developers, raised the prospects of an amicable end to the so-called "civil war". Setting out a condition, Todd states: "If major industry players were willing to commit to layer 2 solutions, I'd be willing to support something like a forced soft fork, and I'd be willing to support a coin voting hard fork even if they didn't."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b1c5faf2a5d1ea9d4cdaafe29098c7fec345c70.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-dev-peter-todd-forced-soft-forks-send-dangerous-message/</link>
-            <guid isPermaLink="false">a88c9f2e-7616-414d-ae6c-7a847b815970</guid>
             <pubDate>Sat, 16 Apr 2016 04:03:07 GMT</pubDate>
         </item>
     </channel>
