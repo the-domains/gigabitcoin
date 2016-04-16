@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 04:04:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 04:04:02 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Ether Prices Plunge 50% as Bitcoin Stays in Holding Pattern - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Ether Prices Plunge 50% as Bitcoin Stays in Holding Pattern - CoinDesk</h1><p>Markets Weekly is a weekly column analyzing price movements in the global digital currency markets, and the technology's use case as an asset class Bitcoin prices fluctuated largely within a tight range between $415 and $425 during the seven days ending 15th April, while the value of ether, the native token on the Ethereum blockchain, declined sharply after weeks of advances.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ca803e4b903b3c8a0110a2055c8c5b078c378b8.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/bitcoin-price-stable-ether-drops-50-percent/</link>
-            <guid isPermaLink="false">57f80bfc-874b-4af0-932f-5adcf59fa34d</guid>
-            <pubDate>Sat, 16 Apr 2016 04:03:06 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Did Bitcoin Lead To Birth Of Ransomware?]]></title>
             <description><![CDATA[<article><h1>Did Bitcoin Lead To Birth Of Ransomware?</h1><p>Ransomware, rogue software which encrypt data on your hard disk and demand payment in bitcoins to restore it, have been on the rise recently. Hospitals, police stations and universities have been the recent targets of ransomware. What exactly are the causes of the increase in ransomware and did Bitcoin lead to its birth?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45f19e21f984aa7a5e90acac1a793e2bff65eaa0.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Bitcoin's Tech Forces Banks to Think Like IT Companies</h1><p>More than bitcoin, blockchain is interfering with the margins and business models of the finance world. The technology is also challenging our banking institutions' longstanding platform as intermediaries. Last year was particularly remarkable for the technology, attracting close to $1 billion in investments for both bitcoin and blockchain firms, according to industry reports.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41f2d862c5bd14c3605a5f24b5e3b5360faefc27.jpg"></article>]]></description>
             <link>http://www.paymentssource.com/news/paythink/bitcoin-tech-forces-banks-to-think-like-it-companies-3023915-1.html</link>
             <guid isPermaLink="false">586b4700-c7bd-4971-bf24-64cc40668633</guid>
+            <pubDate>Fri, 15 Apr 2016 14:39:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[​7 myths about the Bitcoin blockchain]]></title>
+            <description><![CDATA[<article><h1>​7 myths about the Bitcoin blockchain</h1><p>Everyone's talking about the Bitcoin blockchain - a global, distributed ledger of transactions for the Bitcoin digital currency - allowing for peer-to-peer payments over the Internet. According to a Gartner definition, the Bitcoin blockchain is "an authoritative record of Bitcoin transactions, and is not stored in, or controlled by, a central server."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e328633a404540d37cdeaec24826d28dc4857698.jpg"></article>]]></description>
+            <link>http://www.cio.com.au/article/598068/7-myths-about-bitcoin-blockchain/</link>
+            <guid isPermaLink="false">16039b65-006a-4638-96f5-51152407a216</guid>
             <pubDate>Fri, 15 Apr 2016 14:39:03 GMT</pubDate>
         </item>
     </channel>
