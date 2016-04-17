@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 17:49:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 17:49:26 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Samson Mow: "Bitcoin Classic Supporters Are Pretty Much Irrelevant Now"]]></title>
+            <description><![CDATA[<article><h1>Samson Mow: "Bitcoin Classic Supporters Are Pretty Much Irrelevant Now"</h1><p>With the recent release of the new Bitcoin Core client, mining pools will have to start switching over to the latest version at some point. BTCC, one of the largest Chinese mining pools, will be doing exactly that, as the process will take approximately two weeks to complete.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06c2d6121ae994425d5d056d0d0305b5f8a6ba46.jpg"></article>]]></description>
+            <link>http://themerkle.com/samson-mow-bitcoin-classic-supporters-are-pretty-much-irrelevant-now/</link>
+            <guid isPermaLink="false">a1b7304a-b7e8-442a-977d-53e57ce75590</guid>
+            <pubDate>Sun, 17 Apr 2016 17:48:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Bitcoin Exchange Zaif Noted Record Trading Volume Last Week]]></title>
+            <description><![CDATA[<article><h1>Japanese Bitcoin Exchange Zaif Noted Record Trading Volume Last Week</h1><p>Very few people are aware of how many Bitcoin exchanges there are over in Japan, as the Land of the Risin Sun is not often mentioned about digital currency. Zaif is one of those illuster exchanges who deal with Bitcoin in the country, and they are on the right track to set some new records throughout the coming months.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f0b11b9bb2647d73cabc619dcdc0c03de738cd0.jpg"></article>]]></description>
+            <link>http://themerkle.com/japanese-bitcoin-exchange-zaif-noted-record-trading-volume-last-week/</link>
+            <guid isPermaLink="false">b2e2439b-41bc-4f78-8809-c49b526058be</guid>
+            <pubDate>Sun, 17 Apr 2016 17:48:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hotel Booking Website HotelGo24 Offers User Rewards In Bitcoin]]></title>
             <description><![CDATA[<article><h1>Hotel Booking Website HotelGo24 Offers User Rewards In Bitcoin</h1><p>There are many websites that offering lots of varied rewards and booking options when it comes to reserving a hotel at a good price. Some may even accept Bitcoin as a preferred payment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82fb97fa3323686cf594e03fdcfd7079bbb3f357.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Core 0.12.1 Released!</h1></article>]]></description>
             <link>https://bitcoincore.org/en/blog/2016/04/15/release-0.12.1/</link>
             <guid isPermaLink="false">eca89bba-a000-4702-88f2-4f7866712fe4</guid>
-            <pubDate>Sat, 16 Apr 2016 18:28:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Core 0.12.1 Released, Major Step Forward for Scalability]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Core 0.12.1 Released, Major Step Forward for Scalability</h1><p>Bitcoin Core 0.12.1 was released early this morning and the update includes several changes that have huge implications for Bitcoin scalability. The release deploys the first soft fork on the Bitcoin network to use the methodology outlined in BIP 9 (Version Bits), which allows multiple soft forks to take place at the same time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7fe7e8593ccf5218d6ec62ce0273ba3c42c6101d.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/bitcoin-core-released-major-step-forward-for-scalability-1460762378</link>
-            <guid isPermaLink="false">bcdf8a92-35ac-413c-943c-67cb53a01731</guid>
-            <pubDate>Sat, 16 Apr 2016 18:28:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Viet Film Fest Included Bitcoin Heist After-party]]></title>
-            <description><![CDATA[<article><h1>Viet Film Fest Included Bitcoin Heist After-party</h1><p>It looks as if the Bitcoin Heist movie will be making its way to the Western world after all. A recent trailer has surfaced regarding the upcoming Viet Film Fest 2016 in California, and the Bitcoin Heist movie will be the opener for this event.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8d95cf93fba80a58d70e1aa7ece02d92e7753b1.jpg"></article>]]></description>
-            <link>http://themerkle.com/viet-film-fest-included-bitcoin-heist-after-party/</link>
-            <guid isPermaLink="false">1c0f5be4-b390-48fb-a9b7-504384f38466</guid>
             <pubDate>Sat, 16 Apr 2016 18:28:09 GMT</pubDate>
         </item>
     </channel>
