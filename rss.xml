@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 17:49:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 17:49:33 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How are paths found in Lightning Network?]]></title>
+            <description><![CDATA[<article><h1>How are paths found in Lightning Network?</h1><p>Summarizing mostly from r/bitcoin: How are paths found in Lightning Network?, the currently suggested routing would be similar to the Border Gateway Protocol. At intervals, the following process is initiated: A beacon node B is selected via a pseudo-random process. Neighbors of B broadcast their shortest route to B to their neighbors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43687/how-are-paths-found-in-lightning-network</link>
+            <guid isPermaLink="false">fd5c95b3-223f-4668-8d9d-4311e21ac6e2</guid>
+            <pubDate>Sun, 17 Apr 2016 17:48:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PUSHDATA4 unnecessary?]]></title>
+            <description><![CDATA[<article><h1>PUSHDATA4 unnecessary?</h1><p>Any data push greater than 520 bytes in a Bitcoin transaction is not allowed (https://github.com/bitcoin/bitcoin/blob/v0.10.0rc3/src/script/script.h#L18). The opcode OP_PUSHDATA4 specifies, that the</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43693/pushdata4-unnecessary</link>
+            <guid isPermaLink="false">05502d34-8216-4ac5-8cab-db11d08488f0</guid>
+            <pubDate>Sun, 17 Apr 2016 17:48:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is centralization in the Lightning network inevitable? Why (not)?]]></title>
             <description><![CDATA[<article><h1>Is centralization in the Lightning network inevitable? Why (not)?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Especially keeping in mind the possibility of single-funded channels (see Tadge's Google Doc Slides), buying from an exchange and concurrently opening a payment channel on the Lightning network would seem a particularly simple entry to the LN.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://www.cryptocoinsnews.com/hotel-booking-website-hotelgo24-offers-user-rewards-in-bitcoin/</link>
             <guid isPermaLink="false">db0cde1e-6fc7-4228-b4ca-a32827864071</guid>
             <pubDate>Sun, 17 Apr 2016 17:48:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saudi Arabia Warns of Economic Fallout if Congress Passes 9/11 Bill]]></title>
-            <description><![CDATA[<article><h1>Saudi Arabia Warns of Economic Fallout if Congress Passes 9/11 Bill</h1><p>A spokesman for the Saudi embassy did not return a message seeking comment. Saudi officials have long denied that the kingdom had any role in the Sept.11 plot, and the 9/11 Commission found "no evidence that the Saudi government as an institution or senior Saudi officials individually funded the organization."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4379560cf3b096911af55b81a064b4471353163b.jpg"></article>]]></description>
-            <link>http://www.nytimes.com/2016/04/16/world/middleeast/saudi-arabia-warns-ofeconomic-fallout-if-congress-passes-9-11-bill.html</link>
-            <guid isPermaLink="false">e45cfd46-4e34-4d9c-892a-4cdc29c92438</guid>
-            <pubDate>Sat, 16 Apr 2016 23:04:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Instacoin Installs 20th Bitcoin ATM In Canada]]></title>
-            <description><![CDATA[<article><h1>Instacoin Installs 20th Bitcoin ATM In Canada</h1><p>Instacoin continues their hot streaks when it comes to installing new Bitcoin ATMs throughout Canada. This brings their total to 20, giving them a significant presence in the world of ATM operators. It will be interesting to see if this trend continues at this pace over the coming months.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee63b5a749b7eba0aa8dadf6e88ef75cae7218db.jpg"></article>]]></description>
-            <link>http://themerkle.com/instacoin-installs-20th-bitcoin-atm-in-canada/</link>
-            <guid isPermaLink="false">313b394e-c131-4349-a7a0-095cafdc0d7c</guid>
-            <pubDate>Sat, 16 Apr 2016 23:04:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
