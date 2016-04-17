@@ -4,29 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 22:08:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 22:07:37 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The Latest Bitcoin Core Version to Be Included by Miners Soon - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>The Latest Bitcoin Core Version to Be Included by Miners Soon - NEWSBTC</h1><p>The recently released Bitcoin Core version will soon be implemented by the bitcoin mining pools as they take necessary steps to ensure smooth transition. The Bitcoin Core has received an upgrade. The new update- Bitcoin Core 0.12.1 will soon be incorporated by all the mining pools.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca8beaa3d55cba418c2e63fe3ef8522589305772.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/17/bitcoin-core-latest-version-out/</link>
-            <guid isPermaLink="false">b6fb2ee5-a8a9-4fe3-b2c9-eea1dc444cfb</guid>
-            <pubDate>Sun, 17 Apr 2016 22:07:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Top 10 Bitcoin Villains - Bitcoin.com #3]]></title>
-            <description><![CDATA[<article><h1>Top 10 Bitcoin Villains - Bitcoin.com #3</h1><p>Enjoyed the video? Support the Editors: Donation Link (https://goo.gl/CEQLue) "Top 10 Bitcoin Villains" is presented by Bitcoin.com 1 Mark Karpeles 2 Trendon Shavers 3 Alex Green aka Ryan Kennedy) 4 Steve Chen (gemcoin) 5 Danny Brewster 6 Josh Garza 7 Carl Force & Shaun Bridges 8 Leah McGrath Goodman 9 Jamie Dimon 10 Benjamin Lawsky Bitcoin Future Quote: Bitcoin will remain, in my opinion, a relentless anomaly that refuses to go away - a black swan that cannot be ignored or extinguished.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f30f3626f3f898b90a6e50640e888123e678d027.jpg"></article>]]></description>
-            <link>http://www.youtube.com/watch?v=gawnGnLKobU</link>
-            <guid isPermaLink="false">9409c54d-efba-420e-8ed6-8fc6f6f869a6</guid>
-            <pubDate>Sun, 17 Apr 2016 22:07:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin and the history of money]]></title>
-            <description><![CDATA[<article><h1>Bitcoin and the history of money</h1><p>Smartcard security for your Bitcoins - http://ledgerwallet.org People have been using different systems of money for thousands of years. How does bitcoin fit into the big picture? Let's take a look through history to find out.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/006c53805babe7cfdbe00dcef098413637b9d2bb.jpg"></article>]]></description>
-            <link>http://www.youtube.com/watch?v=XaI8CFYzlkw</link>
-            <guid isPermaLink="false">5d3ac515-698f-488e-8bb9-0ff97652d1bc</guid>
-            <pubDate>Sun, 17 Apr 2016 22:07:34 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Macroeconomics with Trace Mayer]]></title>
             <description><![CDATA[<article><h1>Bitcoin Macroeconomics with Trace Mayer</h1><p>Trace Mayer and Zach Doty discuss Bitcoin Macroeconomics on the Bitcoin.com Podcast. Trace discusses bitcoin's network effects, and how they make it nearly impossible for an altcoin to overtake bitcoin. https://www.tracemayer.net/ https://bitcoin.com/podcast "Welcome to the Blockchain" song used by permission. Donations to the artist can be sent to 1C4iVs2E659ksBK8gVEyQw229ZoESCoyK1</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8713b5fde72e63521b518cf62f5a8190fad12a28.jpg"></article>]]></description>
@@ -74,6 +53,27 @@
             <description><![CDATA[<article><h1>The Crypto Show & Tatiana Moroz with Kevin McKernan of Medicinal Genomics on the Blockchain</h1><p>We start off with Tatiana to talk about her upcoming album "Keeping The Faith" and much more. Then 37 min in we talk with Kevin McKernan about Medicinal Genomics and how they are logging the thousands of different strains of Marijuana on the Blockchain to protect against counterfeiting and cloning of trademark strains.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/826d9be2a3b3b0786bf97354c4cd8b112ca1918a.jpg"></article>]]></description>
             <link>https://letstalkbitcoin.com/blog/post/the-crypto-show-tatiana-moroz-with-kevin-mckernan-of-medicinal-genomics-on-the-blockchain</link>
             <guid isPermaLink="false">affe8506-6f09-4662-97fc-3618398c4f28</guid>
+            <pubDate>Sun, 17 Apr 2016 17:48:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EB126 - Trent Mcconaghy: Scalable Public Distributed Databases With BigchainDB]]></title>
+            <description><![CDATA[<article><h1>EB126 - Trent Mcconaghy: Scalable Public Distributed Databases With BigchainDB</h1><p>One of the major drawbacks of Bitcoin is its low transaction throughput. Maxing out only a handful of operations per second, there have been many proposals to scale it up so that it can compete with existing distributed database technologies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c0344ff4e98b866180122b8faf423fb36f2ae84.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/epicenter-bitcoin-126-trent-mcconaghy-scalable-public-distributed-databases-with-bigchaindb</link>
+            <guid isPermaLink="false">90039819-92a3-4ed6-9d66-f7241813bda6</guid>
+            <pubDate>Sun, 17 Apr 2016 17:48:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Crypto Show with a closer look at BitClub Network]]></title>
+            <description><![CDATA[<article><h1>The Crypto Show with a closer look at BitClub Network</h1><p>BitClub Buyer Beware I felt it needed to be said. The initial research I have done on BitClub just reinforces my initial reservations about it. I hope this article creates no hard feelings, but I feel strongly that it needs to be said. Sorry, Doby.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8063446429667ac6e56c10ffee0c5e729661ff20.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/the-crypto-show-with-a-closer-look-at-bitclub-network</link>
+            <guid isPermaLink="false">f739396c-7247-4962-9dfb-566089023ecb</guid>
+            <pubDate>Sun, 17 Apr 2016 17:48:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SAFE Crossroads Podcast #31, Harmen Klink]]></title>
+            <description><![CDATA[<article><h1>SAFE Crossroads Podcast #31, Harmen Klink</h1><p>In this Episode We're back again with Harmen Klink, talking about further innovations on the Decorum decentralized forum and social connection protocol. We talk about a web of trust function which will make the protocol very handy at evaluating one's connections and resisting unwanted connections.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20dac4fc8e61a44c87c8f23bc9a739c1cfe0a877.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/safe-crossroads-podcast-31-harmen-klink</link>
+            <guid isPermaLink="false">50395cd9-28a6-45c2-9ab5-365bf6e2e1b3</guid>
             <pubDate>Sun, 17 Apr 2016 17:48:48 GMT</pubDate>
         </item>
     </channel>
