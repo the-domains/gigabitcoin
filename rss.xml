@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 17:49:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 17:49:55 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Crypto Show with a closer look at BitClub Network]]></title>
+            <description><![CDATA[<article><h1>The Crypto Show with a closer look at BitClub Network</h1><p>BitClub Buyer Beware I felt it needed to be said. The initial research I have done on BitClub just reinforces my initial reservations about it. I hope this article creates no hard feelings, but I feel strongly that it needs to be said. Sorry, Doby.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8063446429667ac6e56c10ffee0c5e729661ff20.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/the-crypto-show-with-a-closer-look-at-bitclub-network</link>
+            <guid isPermaLink="false">f739396c-7247-4962-9dfb-566089023ecb</guid>
+            <pubDate>Sun, 17 Apr 2016 17:48:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SAFE Crossroads Podcast #31, Harmen Klink]]></title>
             <description><![CDATA[<article><h1>SAFE Crossroads Podcast #31, Harmen Klink</h1><p>In this Episode We're back again with Harmen Klink, talking about further innovations on the Decorum decentralized forum and social connection protocol. We talk about a web of trust function which will make the protocol very handy at evaluating one's connections and resisting unwanted connections.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20dac4fc8e61a44c87c8f23bc9a739c1cfe0a877.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How to make sense of Core's actions without conspiracy theories or assuming they're evil * /r/btc</h1><p>There are a lot of posts in this subreddit that suggest that Core is part of some evil conspiracy. This is both inaccurate and it hurts the...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
             <link>https://www.reddit.com/r/btc/comments/4f4ae3/how_to_make_sense_of_cores_actions_without/</link>
             <guid isPermaLink="false">c48996da-6729-4581-9c1f-116ab4850e41</guid>
-            <pubDate>Sun, 17 Apr 2016 17:48:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Samson Mow: "Bitcoin Classic Supporters Are Pretty Much Irrelevant Now"]]></title>
-            <description><![CDATA[<article><h1>Samson Mow: "Bitcoin Classic Supporters Are Pretty Much Irrelevant Now"</h1><p>With the recent release of the new Bitcoin Core client, mining pools will have to start switching over to the latest version at some point. BTCC, one of the largest Chinese mining pools, will be doing exactly that, as the process will take approximately two weeks to complete.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06c2d6121ae994425d5d056d0d0305b5f8a6ba46.jpg"></article>]]></description>
-            <link>http://themerkle.com/samson-mow-bitcoin-classic-supporters-are-pretty-much-irrelevant-now/</link>
-            <guid isPermaLink="false">a1b7304a-b7e8-442a-977d-53e57ce75590</guid>
             <pubDate>Sun, 17 Apr 2016 17:48:47 GMT</pubDate>
         </item>
     </channel>
