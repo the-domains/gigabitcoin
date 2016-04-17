@@ -4,8 +4,50 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 17:49:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 17:49:30 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PUSHDATA4 unnecessary?]]></title>
+            <description><![CDATA[<article><h1>PUSHDATA4 unnecessary?</h1><p>Any data push greater than 520 bytes in a Bitcoin transaction is not allowed (https://github.com/bitcoin/bitcoin/blob/v0.10.0rc3/src/script/script.h#L18). The opcode OP_PUSHDATA4 specifies, that the</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43693/pushdata4-unnecessary</link>
+            <guid isPermaLink="false">05502d34-8216-4ac5-8cab-db11d08488f0</guid>
+            <pubDate>Sun, 17 Apr 2016 17:48:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is centralization in the Lightning network inevitable? Why (not)?]]></title>
+            <description><![CDATA[<article><h1>Is centralization in the Lightning network inevitable? Why (not)?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Especially keeping in mind the possibility of single-funded channels (see Tadge's Google Doc Slides), buying from an exchange and concurrently opening a payment channel on the Lightning network would seem a particularly simple entry to the LN.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43728/is-centralization-in-the-lightning-network-inevitable-why-not</link>
+            <guid isPermaLink="false">7cb71bcf-c35f-4054-bbfa-1d26a8bc4d06</guid>
+            <pubDate>Sun, 17 Apr 2016 17:48:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Where can I query the UTXO database?]]></title>
+            <description><![CDATA[<article><h1>Where can I query the UTXO database?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Currently there are 35 million unspent transaction outputs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43725/where-can-i-query-the-utxo-database</link>
+            <guid isPermaLink="false">e29e492a-8fb3-4c79-8f4d-050588e02d7f</guid>
+            <pubDate>Sun, 17 Apr 2016 17:48:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How does the Lightning network work in simple terms?]]></title>
+            <description><![CDATA[<article><h1>How does the Lightning network work in simple terms?</h1><p>Say, you and I want to open a payment channel. 1) Putting funds into Lightning We both send 0.05 BTC into a shared 2-of-2 multisig address. This requires a transaction on the Bitcoin blockchain. As a "balance sheet", we each create a 2-of-2 multisig transaction that pays out 0.05 BTC to you and 0.05 BTC to me.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43700/how-does-the-lightning-network-work-in-simple-terms</link>
+            <guid isPermaLink="false">81b03e05-78cd-48c5-b358-3a969e0fc880</guid>
+            <pubDate>Sun, 17 Apr 2016 17:48:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Rare Appearance By The Bitcoin Jet]]></title>
+            <description><![CDATA[<article><h1>A Rare Appearance By The Bitcoin Jet</h1><p>Some people active in the world of Bitcoin and digital currency for quite some time now, might remember the Bitcoin Jet. This airplane is themed with Bitcoin decals all over, and although it has made a limited number of appearances so far, the Bitcoin Jet was part of the March Air Force Base Air Show yesterday.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6f898b2a7ff25d35a4260aae3b7990dbf206d65.jpg"></article>]]></description>
+            <link>http://themerkle.com/a-rare-appearance-by-the-bitcoin-jet/</link>
+            <guid isPermaLink="false">57a8aed1-1d41-4404-b01c-091c3923dcb5</guid>
+            <pubDate>Sun, 17 Apr 2016 17:48:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to make sense of Core's actions without conspiracy theories or assuming they're evil * /r/btc]]></title>
+            <description><![CDATA[<article><h1>How to make sense of Core's actions without conspiracy theories or assuming they're evil * /r/btc</h1><p>There are a lot of posts in this subreddit that suggest that Core is part of some evil conspiracy. This is both inaccurate and it hurts the...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
+            <link>https://www.reddit.com/r/btc/comments/4f4ae3/how_to_make_sense_of_cores_actions_without/</link>
+            <guid isPermaLink="false">c48996da-6729-4581-9c1f-116ab4850e41</guid>
+            <pubDate>Sun, 17 Apr 2016 17:48:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Samson Mow: "Bitcoin Classic Supporters Are Pretty Much Irrelevant Now"]]></title>
             <description><![CDATA[<article><h1>Samson Mow: "Bitcoin Classic Supporters Are Pretty Much Irrelevant Now"</h1><p>With the recent release of the new Bitcoin Core client, mining pools will have to start switching over to the latest version at some point. BTCC, one of the largest Chinese mining pools, will be doing exactly that, as the process will take approximately two weeks to complete.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06c2d6121ae994425d5d056d0d0305b5f8a6ba46.jpg"></article>]]></description>
@@ -33,48 +75,6 @@
             <link>http://www.nytimes.com/2016/04/16/world/middleeast/saudi-arabia-warns-ofeconomic-fallout-if-congress-passes-9-11-bill.html</link>
             <guid isPermaLink="false">e45cfd46-4e34-4d9c-892a-4cdc29c92438</guid>
             <pubDate>Sat, 16 Apr 2016 23:04:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Instacoin Installs 20th Bitcoin ATM In Canada]]></title>
-            <description><![CDATA[<article><h1>Instacoin Installs 20th Bitcoin ATM In Canada</h1><p>Instacoin continues their hot streaks when it comes to installing new Bitcoin ATMs throughout Canada. This brings their total to 20, giving them a significant presence in the world of ATM operators. It will be interesting to see if this trend continues at this pace over the coming months.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee63b5a749b7eba0aa8dadf6e88ef75cae7218db.jpg"></article>]]></description>
-            <link>http://themerkle.com/instacoin-installs-20th-bitcoin-atm-in-canada/</link>
-            <guid isPermaLink="false">313b394e-c131-4349-a7a0-095cafdc0d7c</guid>
-            <pubDate>Sat, 16 Apr 2016 23:04:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Must Be Regulated, Panama Papers Scandal Exposes]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Must Be Regulated, Panama Papers Scandal Exposes</h1><p>The true meaning of decentralisation might be that a decentralized currency actually does require centralization. CoinTelegraph speaks to Brandon Kostinuk of the Vanbex Group to look into the "common confusion". It is Kostinuk who calls it "a common confusion".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6932e10d01ad2daadad5cec1069a51040ed89d2.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/bitcoin-must-be-regulated-panama-papers-scandal-exposes</link>
-            <guid isPermaLink="false">93531a5c-7b92-469d-ad04-b03df8be6e1b</guid>
-            <pubDate>Sat, 16 Apr 2016 23:04:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South African Startup to Fight Movie Piracy using Bitcoin]]></title>
-            <description><![CDATA[<article><h1>South African Startup to Fight Movie Piracy using Bitcoin</h1><p>It comes as little to no surprise to find out Digital Currency Group has taken an interest in this project, and were part of the company's second round seed investment. Bitcoin and digital currency offer many different use cases, although a lot of them still have to be discovered and explored.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/02eb965fc16e4d396330afd48b3476c7b0014df3.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/16/south-african-startup-fight-movie-piracy-using-bitcoin/</link>
-            <guid isPermaLink="false">9705ae74-8a76-441f-948f-5b45dc473fda</guid>
-            <pubDate>Sat, 16 Apr 2016 23:04:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Plutus & PlutusDEX - Complete End-To-End Decentralized Bitcoin Payments - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Plutus & PlutusDEX - Complete End-To-End Decentralized Bitcoin Payments - NEWSBTC</h1><p>PlutusDEX dapp ensure complete decentralization of bitcoin-powered contactless payments through Plutus platform. Read more... Bitcoin and blockchain technology has changed the face of online end electronic payment systems. The use of blockchain technology, combined with crypto-tokens is not an alternative payment option anymore.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e936016049f0c22547bd51fbd500f129116c8b1.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/16/plutus-plutusdex-complete-end-to-end-decentralized-bitcoin-payments/</link>
-            <guid isPermaLink="false">007a61cf-53dc-4249-8822-20204594c3ae</guid>
-            <pubDate>Sat, 16 Apr 2016 23:04:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[pH Miners Inc.'s New Deal Offers $3,000 Savings on Bitcoin and Litecoin Miners]]></title>
-            <description><![CDATA[<article><h1>pH Miners Inc.'s New Deal Offers $3,000 Savings on Bitcoin and Litecoin Miners</h1><p>The new offer allows customers to mix and match units according to their preference in Bitcoins or Litecoins. For example, if a customer would like two Bitcoin miners and one Litecoin miner, they will still qualify for the special offer and will be able to choose either a Bitcoin or Litecoin miner as their fourth free unit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3ae658b56b424ff969f59c218d680749a92fd5f.jpg"></article>]]></description>
-            <link>http://www.prnewswire.com/news-releases/ph-miners-incs-new-deal-offers-3000-savings-on-bitcoin-and-litecoin-miners-300252529.html</link>
-            <guid isPermaLink="false">12f198d2-23c9-4d64-902a-7faa1ca86979</guid>
-            <pubDate>Sat, 16 Apr 2016 18:28:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Core 0.12.1 Released!]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Core 0.12.1 Released!</h1></article>]]></description>
-            <link>https://bitcoincore.org/en/blog/2016/04/15/release-0.12.1/</link>
-            <guid isPermaLink="false">eca89bba-a000-4702-88f2-4f7866712fe4</guid>
-            <pubDate>Sat, 16 Apr 2016 18:28:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
