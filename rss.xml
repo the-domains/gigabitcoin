@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 17:50:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 17:50:29 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin: Privacy, Identity, Surveillance and Money - Barcelona Fablab Meetup March 2016]]></title>
+            <description><![CDATA[<article><h1>Bitcoin: Privacy, Identity, Surveillance and Money - Barcelona Fablab Meetup March 2016</h1><p>A talk about privacy, identity, surveillance, hierarchies and the future of network-centric private and secure money.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce017a05449a37514a32044beeebf873ef4494f9.jpg"></article>]]></description>
+            <link>http://www.youtube.com/watch?v=Vcvl5piGlYg</link>
+            <guid isPermaLink="false">c015730d-d6d8-4eec-ad24-578b12b0328d</guid>
+            <pubDate>Sun, 17 Apr 2016 17:48:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Factom - Big Data on the Bitcoin Blockchain - BnkToTheFuture Case Study]]></title>
             <description><![CDATA[<article><h1>Factom - Big Data on the Bitcoin Blockchain - BnkToTheFuture Case Study</h1><p>http://bit.ly/1AJOQiZ Ever wondered what it would be like if you couldn't prove your home, or even the land it's built on, was actually yours? Ever pondered what happens to your data when you share it online, with your bank or with your government?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f04635fffe2d0fef48316b5ea067a2637fbea35e.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How are paths found in Lightning Network?</h1><p>Summarizing mostly from r/bitcoin: How are paths found in Lightning Network?, the currently suggested routing would be similar to the Border Gateway Protocol. At intervals, the following process is initiated: A beacon node B is selected via a pseudo-random process. Neighbors of B broadcast their shortest route to B to their neighbors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/43687/how-are-paths-found-in-lightning-network</link>
             <guid isPermaLink="false">fd5c95b3-223f-4668-8d9d-4311e21ac6e2</guid>
-            <pubDate>Sun, 17 Apr 2016 17:48:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PUSHDATA4 unnecessary?]]></title>
-            <description><![CDATA[<article><h1>PUSHDATA4 unnecessary?</h1><p>Any data push greater than 520 bytes in a Bitcoin transaction is not allowed (https://github.com/bitcoin/bitcoin/blob/v0.10.0rc3/src/script/script.h#L18). The opcode OP_PUSHDATA4 specifies, that the</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/43693/pushdata4-unnecessary</link>
-            <guid isPermaLink="false">05502d34-8216-4ac5-8cab-db11d08488f0</guid>
             <pubDate>Sun, 17 Apr 2016 17:48:48 GMT</pubDate>
         </item>
     </channel>
