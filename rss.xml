@@ -7,6 +7,13 @@
         <lastBuildDate>Sun, 17 Apr 2016 17:49:55 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[EB126 - Trent Mcconaghy: Scalable Public Distributed Databases With BigchainDB]]></title>
+            <description><![CDATA[<article><h1>EB126 - Trent Mcconaghy: Scalable Public Distributed Databases With BigchainDB</h1><p>One of the major drawbacks of Bitcoin is its low transaction throughput. Maxing out only a handful of operations per second, there have been many proposals to scale it up so that it can compete with existing distributed database technologies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c0344ff4e98b866180122b8faf423fb36f2ae84.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/epicenter-bitcoin-126-trent-mcconaghy-scalable-public-distributed-databases-with-bigchaindb</link>
+            <guid isPermaLink="false">90039819-92a3-4ed6-9d66-f7241813bda6</guid>
+            <pubDate>Sun, 17 Apr 2016 17:48:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Crypto Show with a closer look at BitClub Network]]></title>
             <description><![CDATA[<article><h1>The Crypto Show with a closer look at BitClub Network</h1><p>BitClub Buyer Beware I felt it needed to be said. The initial research I have done on BitClub just reinforces my initial reservations about it. I hope this article creates no hard feelings, but I feel strongly that it needs to be said. Sorry, Doby.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8063446429667ac6e56c10ffee0c5e729661ff20.jpg"></article>]]></description>
             <link>https://letstalkbitcoin.com/blog/post/the-crypto-show-with-a-closer-look-at-bitclub-network</link>
@@ -68,13 +75,6 @@
             <link>http://themerkle.com/a-rare-appearance-by-the-bitcoin-jet/</link>
             <guid isPermaLink="false">57a8aed1-1d41-4404-b01c-091c3923dcb5</guid>
             <pubDate>Sun, 17 Apr 2016 17:48:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to make sense of Core's actions without conspiracy theories or assuming they're evil * /r/btc]]></title>
-            <description><![CDATA[<article><h1>How to make sense of Core's actions without conspiracy theories or assuming they're evil * /r/btc</h1><p>There are a lot of posts in this subreddit that suggest that Core is part of some evil conspiracy. This is both inaccurate and it hurts the...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
-            <link>https://www.reddit.com/r/btc/comments/4f4ae3/how_to_make_sense_of_cores_actions_without/</link>
-            <guid isPermaLink="false">c48996da-6729-4581-9c1f-116ab4850e41</guid>
-            <pubDate>Sun, 17 Apr 2016 17:48:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
