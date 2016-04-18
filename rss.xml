@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 13:58:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 13:58:25 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SegWit and SPV-mining. What if...?]]></title>
+            <description><![CDATA[<article><h1>SegWit and SPV-mining. What if...?</h1><p>Is the following scenario valid? Some unhonest segwit mining pool takes top-1000 segwit utxo and mines a block at height N with a transaction which transfers all funds to his p2pkh address This b...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43708/segwit-and-spv-mining-what-if</link>
+            <guid isPermaLink="false">25637fdc-4951-4970-8c33-e716ab148b65</guid>
+            <pubDate>Mon, 18 Apr 2016 13:57:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price: Stagnant or Satisfactory? - Bitcoinist.net]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price: Stagnant or Satisfactory? - Bitcoinist.net</h1><p>The bitcoin price has remained steady over the last few months, hovering around the mid $400 USD range. Typically, one bitcoin has equaled anywhere between $420 and $430. Also read: Blockchain Platform Waves Raises More Than $2M at the Start of the Crowdsale Campaign We've recently heard it said that the state of bitcoin has become "stagnant."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/430a02b1a628a3bf3fd4dd11160c640474a880c7.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/bitcoin-price-stagnant-satisfactory/</link>
+            <guid isPermaLink="false">b421a182-976a-4cec-8fd8-678d3362c178</guid>
+            <pubDate>Mon, 18 Apr 2016 13:57:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Former Bitcoin Regulator Turns Blockchain Advisor]]></title>
             <description><![CDATA[<article><h1>Former Bitcoin Regulator Turns Blockchain Advisor</h1><p>Former New York regulator Benjamin Lawsky, who oversaw what many consider the most restrictive state bitcoin regulation known as BitLicense, now works as a counsel and media liaison for Axoni, a blockchain technology firm that uses blockchain in settling derivative transactions, according to Reuters.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b6ae02462ee81a442a29fcb763af342546cf95c.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.youtube.com/watch?v=fz2GOHHkmTo</link>
             <guid isPermaLink="false">12ada3f8-35ee-4d9b-87b9-3a253166ffe2</guid>
             <pubDate>Sun, 17 Apr 2016 22:08:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Top 10 Most Influential People in Bitcoin - Bitcoin.com #4]]></title>
-            <description><![CDATA[<article><h1>Top 10 Most Influential People in Bitcoin - Bitcoin.com #4</h1><p>Enjoyed the video? Support the Editors: Donation Link (https://goo.gl/CEQLue) 159pxX1gKj38jeKkutkAmZTpE6ZdF2bCR5 "Top 10 Most Influential People in Bitcoin" is presented by Bitcoin.com 1 Satoshi Nakamoto 2 Nick Szabo 3 Hal Finney 4 Gavin Andresen 5 Adam Back 6 Andreas Antonopoulos 7 Patrick Byrne 8 Roger Ver 9.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7fc16f6c4fe041f06c1bb0eaabeb9918f55f818.jpg"></article>]]></description>
-            <link>http://www.youtube.com/watch?v=SqY7Wim5BNE</link>
-            <guid isPermaLink="false">6780656d-ba69-4644-8019-34c8bd3e47c8</guid>
-            <pubDate>Sun, 17 Apr 2016 22:08:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Analysis (Week of April 17th)]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Analysis (Week of April 17th)</h1><p>Bitcoin is currently in a medium-term upward trend. After a continuous flat, the bulls have finally won the advantage. Will that movement become a part of a long-term upward trend? Without forming a turn to decline, Bitcoin's price has headed towards the upper resistance, where it has fortified and turned to growth.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e817a967abe678e9f7a0e1808a130eb81f00ee6.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/bitcoin-price-analysis-week-of-april-17th</link>
-            <guid isPermaLink="false">1625a785-5526-40c7-8a35-8559180f17c2</guid>
-            <pubDate>Sun, 17 Apr 2016 22:07:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
