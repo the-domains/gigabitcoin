@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 13:58:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 13:58:30 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[New Repository Maintainer Appointed]]></title>
-            <description><![CDATA[<article><h1>New Repository Maintainer Appointed</h1></article>]]></description>
-            <link>https://bitcoincore.org/en/blog/2016/04/14/maintainer/</link>
-            <guid isPermaLink="false">7dc35557-dfc7-40d2-993c-6900e9fea998</guid>
-            <pubDate>Mon, 18 Apr 2016 13:57:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LRB · John Lanchester · When Bitcoin Grows Up: What is Money?]]></title>
-            <description><![CDATA[<article><h1>LRB · John Lanchester · When Bitcoin Grows Up: What is Money?</h1><p>It's impossible to discuss new developments in money without thinking for a moment about what money is. The best place to start thinking about that is with money itself. Consider the UK's most common paper money, the English five or ten or twenty quid note. On one side we have a famous .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2bf3a15d3daa695d14581bf73262849b20c644a4.jpg"></article>]]></description>
-            <link>http://www.lrb.co.uk/v38/n08/john-lanchester/when-bitcoin-grows-up</link>
-            <guid isPermaLink="false">02511377-ab50-4e3a-b815-a24f810b0378</guid>
-            <pubDate>Mon, 18 Apr 2016 13:57:44 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Can OpenBazaar ever be browser based? I feel a huge hurdle to success is the need to download software. * /r/Bitcoin]]></title>
             <description><![CDATA[<article><h1>Can OpenBazaar ever be browser based? I feel a huge hurdle to success is the need to download software. * /r/Bitcoin</h1><p>Thoughts? Thanks for your help.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>SegWit and SPV-mining. What if...?</h1><p>Is the following scenario valid? Some unhonest segwit mining pool takes top-1000 segwit utxo and mines a block at height N with a transaction which transfers all funds to his p2pkh address This b...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/43708/segwit-and-spv-mining-what-if</link>
             <guid isPermaLink="false">25637fdc-4951-4970-8c33-e716ab148b65</guid>
+            <pubDate>Mon, 18 Apr 2016 13:57:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price: Stagnant or Satisfactory? - Bitcoinist.net]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price: Stagnant or Satisfactory? - Bitcoinist.net</h1><p>The bitcoin price has remained steady over the last few months, hovering around the mid $400 USD range. Typically, one bitcoin has equaled anywhere between $420 and $430. Also read: Blockchain Platform Waves Raises More Than $2M at the Start of the Crowdsale Campaign We've recently heard it said that the state of bitcoin has become "stagnant."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/430a02b1a628a3bf3fd4dd11160c640474a880c7.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/bitcoin-price-stagnant-satisfactory/</link>
+            <guid isPermaLink="false">b421a182-976a-4cec-8fd8-678d3362c178</guid>
+            <pubDate>Mon, 18 Apr 2016 13:57:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Former Bitcoin Regulator Turns Blockchain Advisor]]></title>
+            <description><![CDATA[<article><h1>Former Bitcoin Regulator Turns Blockchain Advisor</h1><p>Former New York regulator Benjamin Lawsky, who oversaw what many consider the most restrictive state bitcoin regulation known as BitLicense, now works as a counsel and media liaison for Axoni, a blockchain technology firm that uses blockchain in settling derivative transactions, according to Reuters.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b6ae02462ee81a442a29fcb763af342546cf95c.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/former-bitcoin-regulator-turns-blockchain-advisor/</link>
+            <guid isPermaLink="false">c31285b7-89ce-4303-b940-ae0b4623acff</guid>
             <pubDate>Mon, 18 Apr 2016 13:57:43 GMT</pubDate>
         </item>
     </channel>
