@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 01:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 01:13:39 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Casino Stolen User Funds May Be Linked to Unprotected MongoDB Database]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Casino Stolen User Funds May Be Linked to Unprotected MongoDB Database</h1><p>A connection may exist between an Internet-accessible unprotected MongoDB database and the theft of funds from the Bitcoin wallets of several clients of the Coinroll Bitcoin casino. On March 30, MacKeeper security researcher Chris Vickery says he discovered a MongoDB database holding sensitive information about the customers of Coinroll, a website where users can register and bet small amounts of Bitcoin on the roll of a dice.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a21f4eb488f3bffddf854cacfff10ba8edde1ebc.png"></article>]]></description>
+            <link>http://news.softpedia.com/news/bitcoin-casino-stolen-user-funds-may-be-linked-to-unprotected-mongodb-database-503090.shtml</link>
+            <guid isPermaLink="false">e424721b-8fed-4487-9de4-fb0d0d30d8c9</guid>
+            <pubDate>Mon, 18 Apr 2016 01:10:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Crypto Show with Jonathan Mohan, David Johnston and Brian Deery]]></title>
             <description><![CDATA[<article><h1>The Crypto Show with Jonathan Mohan, David Johnston and Brian Deery</h1><p>This is last Sunday nights show we had a snafu recovering the audio so here it is. Jonathan Mohan a former Etherium collaborator and creator of NYC Bitcoin meetup along with David Johnston and Brian Deery of factom join us in studio to discuss the latest news with topics provided By http://CryptoCompare.com We will covering the week in Bitcoin news with our guests on Sunday nights now thanks to CryptoCompare.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b355106a041ce409a307304ac876af97ba61953.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Analysis: Rally Opportunity Slipping Away</h1><p>Bitcoin price quietly turned lower after failing to take advantage of a weak spot through resistance this weekend. At the time of writing price is declining from the recent high under a multiple timeframe sell signal. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8d2d6259787b162850cf4c81e8c6a0800ccaa91.png"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/bitcoin-price-analysis-rally-opportunity-slipping-away/</link>
             <guid isPermaLink="false">1adafe18-176a-452b-919d-25b9a5fe7c39</guid>
-            <pubDate>Sun, 17 Apr 2016 22:07:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Top 10 Bitcoin Villains - Bitcoin.com #3]]></title>
-            <description><![CDATA[<article><h1>Top 10 Bitcoin Villains - Bitcoin.com #3</h1><p>Enjoyed the video? Support the Editors: Donation Link (https://goo.gl/CEQLue) "Top 10 Bitcoin Villains" is presented by Bitcoin.com 1 Mark Karpeles 2 Trendon Shavers 3 Alex Green aka Ryan Kennedy) 4 Steve Chen (gemcoin) 5 Danny Brewster 6 Josh Garza 7 Carl Force & Shaun Bridges 8 Leah McGrath Goodman 9 Jamie Dimon 10 Benjamin Lawsky Bitcoin Future Quote: Bitcoin will remain, in my opinion, a relentless anomaly that refuses to go away - a black swan that cannot be ignored or extinguished.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f30f3626f3f898b90a6e50640e888123e678d027.jpg"></article>]]></description>
-            <link>http://www.youtube.com/watch?v=gawnGnLKobU</link>
-            <guid isPermaLink="false">9409c54d-efba-420e-8ed6-8fc6f6f869a6</guid>
             <pubDate>Sun, 17 Apr 2016 22:07:34 GMT</pubDate>
         </item>
     </channel>
