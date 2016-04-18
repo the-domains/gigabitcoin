@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 13:58:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 13:58:30 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Prove You're Bitcoin Creator Satoshi Nakamoto]]></title>
+            <description><![CDATA[<article><h1>How to Prove You're Bitcoin Creator Satoshi Nakamoto</h1><p>Four months have passed since the world learned the name of Craig Wright, a man who, as WIRED wrote in December, either created Bitcoin or very badly wants someone to believe he did. Now rumors are swirling through the Bitcoin world that Wright himself is poised to publicly claim-and possibly offer some sort of proof-that he really is Satoshi Nakamoto, the mysterious inventor of Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2229c7917446880a059b0a540b05e5f8f139b641.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/04/prove-youre-bitcoin-creator-satoshi-nakamoto/</link>
+            <guid isPermaLink="false">14a61aa1-c638-4b24-92e2-2e419a566a32</guid>
+            <pubDate>Mon, 18 Apr 2016 13:57:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Technical Analysis for 04/18/2016 - Rising Wedge Spotted! - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 04/18/2016 - Rising Wedge Spotted! - NEWSBTC</h1><p>Bitcoin price has been trading inside a rising wedge pattern as bullish pressure is present but weakening. Bitcoin Price Key Highlights Bitcoin price has been trading inside a rising wedge pattern as bullish pressure is present but weakening. Technical Indicators Signals Bitcoin price has been trending higher on the 4-hour time frame, showing higher lows and higher highs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d6a6cba33eda08d6809a83cf1121582a5140914.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.newsbtc.com/2016/04/18/indian-bitcoin-exchange-coinsecure-raises-1-2-million/</link>
             <guid isPermaLink="false">d1300838-005e-4d1d-a9e9-c6926ccd0b50</guid>
             <pubDate>Mon, 18 Apr 2016 13:57:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spendabit announces search integration with Bitcoin.com]]></title>
-            <description><![CDATA[<article><h1>Spendabit announces search integration with Bitcoin.com</h1><p>Bitcoin shopping aggregator Spendabit announced in a press release sent to CoinReport its search integration with Bitcoin.com. The integration, powered by Spendabit's search API and the work of the...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/13b6e641842611878098ae4ce749dd4666374baa.jpg"></article>]]></description>
-            <link>https://coinreport.net/spendabit-announces-search-integration-bitcoin-com/</link>
-            <guid isPermaLink="false">c0d9f52a-dc05-4d4a-a97d-ba1a17317829</guid>
-            <pubDate>Mon, 18 Apr 2016 02:57:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
