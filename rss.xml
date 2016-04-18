@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 13:58:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 13:58:29 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Technical Analysis for 04/18/2016 - Rising Wedge Spotted! - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 04/18/2016 - Rising Wedge Spotted! - NEWSBTC</h1><p>Bitcoin price has been trading inside a rising wedge pattern as bullish pressure is present but weakening. Bitcoin Price Key Highlights Bitcoin price has been trading inside a rising wedge pattern as bullish pressure is present but weakening. Technical Indicators Signals Bitcoin price has been trending higher on the 4-hour time frame, showing higher lows and higher highs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d6a6cba33eda08d6809a83cf1121582a5140914.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/18/bitcoin-price-technical-analysis-04182016-rising-wedge-spotted/</link>
+            <guid isPermaLink="false">82f12337-550e-4d8d-873d-540875a4bb19</guid>
+            <pubDate>Mon, 18 Apr 2016 13:57:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin trading platform, Coinsecure, raises $ 1.2 mn]]></title>
             <description><![CDATA[<article><h1>Bitcoin trading platform, Coinsecure, raises $ 1.2 mn</h1><p>Coinsecure, the domestic Bitcoin trading platform, has raised $1.2 million as part of its ongoing 'Series A' investment round. The company opened the fund-raising round earlier in January and expects to close the round soon, an official statement said.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9d1ee36f92bbae17f5549575cca0b192f184880.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://coinreport.net/spendabit-announces-search-integration-bitcoin-com/</link>
             <guid isPermaLink="false">c0d9f52a-dc05-4d4a-a97d-ba1a17317829</guid>
             <pubDate>Mon, 18 Apr 2016 02:57:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Casino Stolen User Funds May Be Linked to Unprotected MongoDB Database]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Casino Stolen User Funds May Be Linked to Unprotected MongoDB Database</h1><p>A connection may exist between an Internet-accessible unprotected MongoDB database and the theft of funds from the Bitcoin wallets of several clients of the Coinroll Bitcoin casino. On March 30, MacKeeper security researcher Chris Vickery says he discovered a MongoDB database holding sensitive information about the customers of Coinroll, a website where users can register and bet small amounts of Bitcoin on the roll of a dice.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a21f4eb488f3bffddf854cacfff10ba8edde1ebc.png"></article>]]></description>
-            <link>http://news.softpedia.com/news/bitcoin-casino-stolen-user-funds-may-be-linked-to-unprotected-mongodb-database-503090.shtml</link>
-            <guid isPermaLink="false">e424721b-8fed-4487-9de4-fb0d0d30d8c9</guid>
-            <pubDate>Mon, 18 Apr 2016 01:10:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
