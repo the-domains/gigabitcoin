@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 01:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 02:58:03 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Spendabit announces search integration with Bitcoin.com]]></title>
+            <description><![CDATA[<article><h1>Spendabit announces search integration with Bitcoin.com</h1><p>Bitcoin shopping aggregator Spendabit announced in a press release sent to CoinReport its search integration with Bitcoin.com. The integration, powered by Spendabit's search API and the work of the...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/13b6e641842611878098ae4ce749dd4666374baa.jpg"></article>]]></description>
+            <link>https://coinreport.net/spendabit-announces-search-integration-bitcoin-com/</link>
+            <guid isPermaLink="false">c0d9f52a-dc05-4d4a-a97d-ba1a17317829</guid>
+            <pubDate>Mon, 18 Apr 2016 02:57:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Casino Stolen User Funds May Be Linked to Unprotected MongoDB Database]]></title>
             <description><![CDATA[<article><h1>Bitcoin Casino Stolen User Funds May Be Linked to Unprotected MongoDB Database</h1><p>A connection may exist between an Internet-accessible unprotected MongoDB database and the theft of funds from the Bitcoin wallets of several clients of the Coinroll Bitcoin casino. On March 30, MacKeeper security researcher Chris Vickery says he discovered a MongoDB database holding sensitive information about the customers of Coinroll, a website where users can register and bet small amounts of Bitcoin on the roll of a dice.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a21f4eb488f3bffddf854cacfff10ba8edde1ebc.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The Latest Bitcoin Core Version to Be Included by Miners Soon - NEWSBTC</h1><p>The recently released Bitcoin Core version will soon be implemented by the bitcoin mining pools as they take necessary steps to ensure smooth transition. The Bitcoin Core has received an upgrade. The new update- Bitcoin Core 0.12.1 will soon be incorporated by all the mining pools.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca8beaa3d55cba418c2e63fe3ef8522589305772.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/04/17/bitcoin-core-latest-version-out/</link>
             <guid isPermaLink="false">b6fb2ee5-a8a9-4fe3-b2c9-eea1dc444cfb</guid>
-            <pubDate>Sun, 17 Apr 2016 22:07:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Analysis: Rally Opportunity Slipping Away]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Analysis: Rally Opportunity Slipping Away</h1><p>Bitcoin price quietly turned lower after failing to take advantage of a weak spot through resistance this weekend. At the time of writing price is declining from the recent high under a multiple timeframe sell signal. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8d2d6259787b162850cf4c81e8c6a0800ccaa91.png"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-price-analysis-rally-opportunity-slipping-away/</link>
-            <guid isPermaLink="false">1adafe18-176a-452b-919d-25b9a5fe7c39</guid>
             <pubDate>Sun, 17 Apr 2016 22:07:34 GMT</pubDate>
         </item>
     </channel>
