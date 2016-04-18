@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 01:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 01:12:26 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Crypto Show with Jonathan Mohan, David Johnston and Brian Deery]]></title>
+            <description><![CDATA[<article><h1>The Crypto Show with Jonathan Mohan, David Johnston and Brian Deery</h1><p>This is last Sunday nights show we had a snafu recovering the audio so here it is. Jonathan Mohan a former Etherium collaborator and creator of NYC Bitcoin meetup along with David Johnston and Brian Deery of factom join us in studio to discuss the latest news with topics provided By http://CryptoCompare.com We will covering the week in Bitcoin news with our guests on Sunday nights now thanks to CryptoCompare.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b355106a041ce409a307304ac876af97ba61953.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/the-crypto-show-with-jonathan-mohan-david-johnston-and-brian-deery</link>
+            <guid isPermaLink="false">41ad12d5-e967-4c9c-8e3b-d8a2d1d9c678</guid>
+            <pubDate>Mon, 18 Apr 2016 01:10:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[RSK @MIT]]></title>
             <description><![CDATA[<article><h1>RSK @MIT</h1><p>Sergio Lerner, CSO of RSK Labs speaks on RSK and Smart Contracts on Blockchains at MIT Bitcoin Expo 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed1552f4d5fed0a4e63b6063e8e8f7bf006cff02.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Top 10 Bitcoin Villains - Bitcoin.com #3</h1><p>Enjoyed the video? Support the Editors: Donation Link (https://goo.gl/CEQLue) "Top 10 Bitcoin Villains" is presented by Bitcoin.com 1 Mark Karpeles 2 Trendon Shavers 3 Alex Green aka Ryan Kennedy) 4 Steve Chen (gemcoin) 5 Danny Brewster 6 Josh Garza 7 Carl Force & Shaun Bridges 8 Leah McGrath Goodman 9 Jamie Dimon 10 Benjamin Lawsky Bitcoin Future Quote: Bitcoin will remain, in my opinion, a relentless anomaly that refuses to go away - a black swan that cannot be ignored or extinguished.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f30f3626f3f898b90a6e50640e888123e678d027.jpg"></article>]]></description>
             <link>http://www.youtube.com/watch?v=gawnGnLKobU</link>
             <guid isPermaLink="false">9409c54d-efba-420e-8ed6-8fc6f6f869a6</guid>
-            <pubDate>Sun, 17 Apr 2016 22:07:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin and the history of money]]></title>
-            <description><![CDATA[<article><h1>Bitcoin and the history of money</h1><p>Smartcard security for your Bitcoins - http://ledgerwallet.org People have been using different systems of money for thousands of years. How does bitcoin fit into the big picture? Let's take a look through history to find out.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/006c53805babe7cfdbe00dcef098413637b9d2bb.jpg"></article>]]></description>
-            <link>http://www.youtube.com/watch?v=XaI8CFYzlkw</link>
-            <guid isPermaLink="false">5d3ac515-698f-488e-8bb9-0ff97652d1bc</guid>
             <pubDate>Sun, 17 Apr 2016 22:07:34 GMT</pubDate>
         </item>
     </channel>
