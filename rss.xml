@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 18:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 18:16:06 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[How does bitcoin handle extreme transaction volume?]]></title>
-            <description><![CDATA[<article><h1>How does bitcoin handle extreme transaction volume?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top What would happen if the amount of active Bitcoin users grows up enough so that the average rate at which transactions are created becomes faster than the average rate at which transactions are included in the blockchain?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/43746/how-does-bitcoin-handle-extreme-transaction-volume</link>
-            <guid isPermaLink="false">195db9ed-1369-4c1d-8fd2-e2564aa9a4d3</guid>
-            <pubDate>Mon, 18 Apr 2016 18:15:25 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Exposed Database Linked To Bitcoin Casino Account Thefts]]></title>
             <description><![CDATA[<article><h1>Exposed Database Linked To Bitcoin Casino Account Thefts</h1><p>Coinroll, a bitcoin casino, noted on its website that some customers reported their funds were stolen. A security researcher for MacKeeper, a Mac security firm, found a database of information about Coinroll customers that anyone could have downloaded, according to Softpedia.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/761e96b182a7751777184d7d8d40887f513aa0f6.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Can OpenBazaar ever be browser based? I feel a huge hurdle to success is the need to download software. * /r/Bitcoin</h1><p>Thoughts? Thanks for your help.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
             <link>https://www.reddit.com/r/Bitcoin/comments/4f725z/can_openbazaar_ever_be_browser_based_i_feel_a/</link>
             <guid isPermaLink="false">7813c114-56ff-4061-adea-d0c063c92938</guid>
+            <pubDate>Mon, 18 Apr 2016 13:57:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Prove You're Bitcoin Creator Satoshi Nakamoto]]></title>
+            <description><![CDATA[<article><h1>How to Prove You're Bitcoin Creator Satoshi Nakamoto</h1><p>Four months have passed since the world learned the name of Craig Wright, a man who, as WIRED wrote in December, either created Bitcoin or very badly wants someone to believe he did. Now rumors are swirling through the Bitcoin world that Wright himself is poised to publicly claim-and possibly offer some sort of proof-that he really is Satoshi Nakamoto, the mysterious inventor of Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2229c7917446880a059b0a540b05e5f8f139b641.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/04/prove-youre-bitcoin-creator-satoshi-nakamoto/</link>
+            <guid isPermaLink="false">14a61aa1-c638-4b24-92e2-2e419a566a32</guid>
             <pubDate>Mon, 18 Apr 2016 13:57:44 GMT</pubDate>
         </item>
     </channel>
