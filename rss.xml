@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 21:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 21:22:15 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Supporters of 2 MB Bitcoin Blocks Unable to Convince Miners to Hard Fork in Beijing Meeting]]></title>
+            <description><![CDATA[<article><h1>Supporters of 2 MB Bitcoin Blocks Unable to Convince Miners to Hard Fork in Beijing Meeting</h1><p>Bitcoin Classic is the latest attempt to increase Bitcoin's block size limit via a hard fork initiated by miners running an alternative to Bitcoin Core, but it appears that the relatively new software client may already be on its last legs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4164e794726f7d4cb2cad16129eaca77f643b405.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/supporters-of-mb-bitcoin-blocks-unable-to-convince-miners-to-hard-fork-in-beijing-meeting-1461004264</link>
+            <guid isPermaLink="false">9a3e3d32-754a-4955-9e6d-1de17603dd5a</guid>
+            <pubDate>Mon, 18 Apr 2016 21:21:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Trademark, Issued for the first time in Russia - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitcoin Trademark, Issued for the first time in Russia - NEWSBTC</h1><p>Alex Fork, an entrepreneur has managed to get the Bitcoin trademark registered in Russia. Read more... Bitcoin and Russia have had some tough times so far. The government is not interested in having bitcoin around, but they definitely want to explore the use of blockchain technology in banking and financial sector.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a49d4831415a7c0677bb2ec54aaf7c683241c51.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Losing The Highs</h1><p>Bitcoin price wasted more time below resistance, today, as the bulls bought into an assumed rally. Indeed, a rally is possible, but the exchanges have more to gain from pulling price down into liquidation than giving small fish retail traders what they explicitly want. This analysis is provided by xbt.social with a 3-hour delay.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c8a610e247a514634c04f3c05711c75beb0a561.png"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/bitcoin-price-losing-highs/</link>
             <guid isPermaLink="false">54e7c971-abbd-4bee-96cb-464aec6d6313</guid>
-            <pubDate>Mon, 18 Apr 2016 18:15:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russian Official Calls for Criminal Liability for Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Russian Official Calls for Criminal Liability for Bitcoin</h1><p>Russia's Investigative Committee Chairman Alexander Bastrykin has, once again, opined that virtual and cryptocurrencies like Bitcoin are money substitutes or surrogates that need to be outlawed. He also claimed that virtual currencies are "often used" for the financing of terrorism.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb71dff19dac90398d64a1ddf86f87356a46419a.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/russian-official-calls-criminal-liability-bitcoin/</link>
-            <guid isPermaLink="false">58be1764-285c-4d32-8b76-da10f437f9d0</guid>
             <pubDate>Mon, 18 Apr 2016 18:15:25 GMT</pubDate>
         </item>
     </channel>
