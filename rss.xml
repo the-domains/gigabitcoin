@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 01:44:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 01:44:11 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Mining Giant Bitmain Invests $1.6 Million in Shenzen-Based Bitcoin Trading Platform BitKan]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Mining Giant Bitmain Invests $1.6 Million in Shenzen-Based Bitcoin Trading Platform BitKan</h1><p>Beijing-based Bitcoin mining giant Bitmain announced last week that it has invested $1.6 million in BitKan , a Bitcoin data and trading services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e625a6e004cc945dd54d74e9cf82255025bb901a.jpg"></article>]]></description>
+            <link>http://www.nasdaq.com/article/bitcoin-mining-giant-bitmain-invests-16-million-in-shenzen-based-bitcoin-trading-platform-bitkan-cm607659</link>
+            <guid isPermaLink="false">01e2c140-85ee-43be-995a-8cbfdfb94b7e</guid>
+            <pubDate>Tue, 19 Apr 2016 01:43:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Updated Windows Binary of the ccMiner 1.5.79-git Fork by SP for Maxwell]]></title>
             <description><![CDATA[<article><h1>Updated Windows Binary of the ccMiner 1.5.79-git Fork by SP for Maxwell</h1><p>A quick update of the public ccMiner fork by SP of his Nvidia Maxwell optimized miner in the form of a Windows binary compiled from the latest Git source code of the ccMiner 1.5.79-git SP-MOD fork ( source).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/02cce372f4e0ed37db27de89feda297db224b25a.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://cointelegraph.com/news/bitcoin-price-analysis-4182016</link>
             <guid isPermaLink="false">605a5452-ba31-4e0b-8cb7-58e64b8cb80b</guid>
             <pubDate>Mon, 18 Apr 2016 18:15:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Payment Processor BitPay Warns against Trojan Virus]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Payment Processor BitPay Warns against Trojan Virus</h1><p>Global Bitcoin payment processor BitPay has notified users to of a newly discovered Trojan virus that is affecting some bitcoin purchases. Notably, the virus has not compromised any user wallets of payment systems. In an alert issued on Friday, bitcoin payment service provider BitPay has warned users to be on the lookout for a new virus.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f999184aee93ef19da6816311e8e04f1c76758b9.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-payment-processor-bitpay-warns-trojan-virus/</link>
-            <guid isPermaLink="false">07de089c-0124-4c6a-808c-8d9684e87b27</guid>
-            <pubDate>Mon, 18 Apr 2016 18:15:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
