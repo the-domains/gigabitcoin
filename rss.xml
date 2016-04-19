@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 01:44:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 01:43:49 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin Mining Giant Bitmain Invests $1.6 Million in Shenzen-Based Bitcoin Trading Platform BitKan]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Mining Giant Bitmain Invests $1.6 Million in Shenzen-Based Bitcoin Trading Platform BitKan</h1><p>Beijing-based Bitcoin mining giant Bitmain announced last week that it has invested $1.6 million in BitKan , a Bitcoin data and trading services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e625a6e004cc945dd54d74e9cf82255025bb901a.jpg"></article>]]></description>
-            <link>http://www.nasdaq.com/article/bitcoin-mining-giant-bitmain-invests-16-million-in-shenzen-based-bitcoin-trading-platform-bitkan-cm607659</link>
-            <guid isPermaLink="false">01e2c140-85ee-43be-995a-8cbfdfb94b7e</guid>
-            <pubDate>Tue, 19 Apr 2016 01:43:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Updated Windows Binary of the ccMiner 1.5.79-git Fork by SP for Maxwell]]></title>
-            <description><![CDATA[<article><h1>Updated Windows Binary of the ccMiner 1.5.79-git Fork by SP for Maxwell</h1><p>A quick update of the public ccMiner fork by SP of his Nvidia Maxwell optimized miner in the form of a Windows binary compiled from the latest Git source code of the ccMiner 1.5.79-git SP-MOD fork ( source).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/02cce372f4e0ed37db27de89feda297db224b25a.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7755-updated-windows-binary-of-the-ccminer-1-5-79-git-fork-by-sp-for-maxwell/</link>
-            <guid isPermaLink="false">ef70114a-2774-4b04-8e67-b67c313453f1</guid>
-            <pubDate>Tue, 19 Apr 2016 01:43:08 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Technology and Choice article (What's in a Name?)]]></title>
             <description><![CDATA[<article><h1>Technology and Choice article (What's in a Name?)</h1><p>Note: link to author's reading of the article appears at the bottom of the article] Technology and Choice is a great name for a podcast, don't you think? A lot of people seem to find the title compelling, all by itself. I know I do. There's so much implied, yet so formlessly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d90b4ef6c937b519b7c0db2b2b5f6e8de8c3737a.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>http://cointelegraph.com/news/bitcoin-price-analysis-4182016</link>
             <guid isPermaLink="false">605a5452-ba31-4e0b-8cb7-58e64b8cb80b</guid>
             <pubDate>Mon, 18 Apr 2016 18:15:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Payment Processor BitPay Warns against Trojan Virus]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Payment Processor BitPay Warns against Trojan Virus</h1><p>Global Bitcoin payment processor BitPay has notified users to of a newly discovered Trojan virus that is affecting some bitcoin purchases. Notably, the virus has not compromised any user wallets of payment systems. In an alert issued on Friday, bitcoin payment service provider BitPay has warned users to be on the lookout for a new virus.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f999184aee93ef19da6816311e8e04f1c76758b9.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-payment-processor-bitpay-warns-trojan-virus/</link>
+            <guid isPermaLink="false">07de089c-0124-4c6a-808c-8d9684e87b27</guid>
+            <pubDate>Mon, 18 Apr 2016 18:15:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gavin: And as for calling Peter Todd Chicken Little: there's probably a better analogy. What's a good name for somebody who makes mountains out of mole-hills, or who invents a Rube Goldberg contraption to brush their teeth because they're afraid their hand might fall asleep while brushing? * /r/btc]]></title>
+            <description><![CDATA[<article><h1>Gavin: And as for calling Peter Todd Chicken Little: there's probably a better analogy. What's a good name for somebody who makes mountains out of mole-hills, or who invents a Rube Goldberg contraption to brush their teeth because they're afraid their hand might fall asleep while brushing? * /r/btc</h1><p>Good question. Any ideas?**</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
+            <link>https://www.reddit.com/r/btc/comments/4ekobm/gavin_and_as_for_calling_peter_todd_chicken/</link>
+            <guid isPermaLink="false">0ebee844-0f30-435e-873c-125e7b278376</guid>
+            <pubDate>Mon, 18 Apr 2016 18:15:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
