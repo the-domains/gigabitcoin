@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 16:51:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 16:50:31 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin Price Breakout?]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Breakout?</h1><p>Bitcoin price pushed to a new high at resistance today, and we have to ask: Why another high when your bitcoins are fundamentally threatened? This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member? Join now and receive a $29 discount using the code CCN29.</p><img src="https://www.cryptocoinsnews.com/wp-content/uploads/2016/04/Selection_20160420_005.png"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-price-breakout-4/</link>
-            <guid isPermaLink="false">387b0c89-2dad-4f7b-b491-b1389c8814b6</guid>
-            <pubDate>Wed, 20 Apr 2016 16:49:20 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Using PHP with RPC and cookie]]></title>
             <description><![CDATA[<article><h1>Using PHP with RPC and cookie</h1><p>Since 0.12 RPC uses a "random cookie":https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-0.12.0.md#rpc-random-cookie-rpc-authentication for authentication, but it's not ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -22,16 +15,9 @@
         </item>
         <item>
             <title><![CDATA[Bitcoin Core 0.12.1 Released, Focus on Block Size Scalability - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Core 0.12.1 Released, Focus on Block Size Scalability - Bitcoinist.net</h1><p>Bitcoin Core has announced the release of a new update, Bitcoin Core 0.12.1. Focusing on scalability, this follows the "Capacity Increases Roadmap" they detailed December 23rd of last year, with Aprils focus to "deploy segregated witness (including Blocksize increase)" according to the table taken from the Bitcoin Core website below.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/460523dcd347b61401a8a8800f4f5920ba9a5842.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Bitcoin Core 0.12.1 Released, Focus on Block Size Scalability - Bitcoinist.net</h1><p>Bitcoin Core has announced the release of a new update, Bitcoin Core 0.12.1. Focusing on scalability, this follows the "Capacity Increases Roadmap" they detailed December 23rd of last year, with Aprils focus to "deploy segregated witness (including Blocksize increase)" according to the table taken from the Bitcoin Core website below.</p><img src="http://bitcoinist.net/wp-content/uploads/2015/12/bitcoin_core.jpg"></article>]]></description>
             <link>http://bitcoinist.net/bitcoin-core-0-12-1-released/</link>
             <guid isPermaLink="false">6a7be576-3f09-463a-be87-d231e0201291</guid>
-            <pubDate>Wed, 20 Apr 2016 16:49:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Facebook considers 'tip jar' proposal as part of push to monetise posts]]></title>
-            <description><![CDATA[<article><h1>Facebook considers 'tip jar' proposal as part of push to monetise posts</h1><p>Facebook is considering the introduction of a virtual "tip jar", so users can tip small amounts of money to the pages and people they like most. The proposal is one of several the company is consulting with users on, according to the Verge's Casey Newton, who received a survey detailing the options.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f943d738cb4e163281bd635392aadde3d0245cf7.jpg"></article>]]></description>
-            <link>https://www.theguardian.com/technology/2016/apr/20/facebook-considers-tip-jar-proposal-monetise-posts</link>
-            <guid isPermaLink="false">88be97ca-6628-487a-bbce-f0b961294d65</guid>
             <pubDate>Wed, 20 Apr 2016 16:49:20 GMT</pubDate>
         </item>
         <item>
@@ -75,6 +61,20 @@
             <link>https://letstalkbitcoin.com/blog/post/openbazaar-the-decentralized-marketplace</link>
             <guid isPermaLink="false">86b2b834-b4bd-4cc1-8ac1-06d5b0dfc78b</guid>
             <pubDate>Wed, 20 Apr 2016 01:49:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Bitcoin Becoming More Stable Than Gold?]]></title>
+            <description><![CDATA[<article><h1>Is Bitcoin Becoming More Stable Than Gold?</h1><p>Digital gold is starting to look slightly more stable than its physical counterpart. Since its inception several years ago, bitcoin has seen wild prices swings as advocates have tried to establish the nascent technology as a widely-used digital currency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0c56374d72875a995fc2684d983968474573818.jpg"></article>]]></description>
+            <link>http://blogs.wsj.com/moneybeat/2016/04/19/is-bitcoin-becoming-more-stable-than-gold/</link>
+            <guid isPermaLink="false">bf60f823-ccab-4686-af3b-51a4d02404bd</guid>
+            <pubDate>Wed, 20 Apr 2016 00:54:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Miners and Industry Meet in Beijing]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Miners and Industry Meet in Beijing</h1><p>With April coming to a close and the halving in three months, bitcoin's scalability is reaching decision time. Following a year of heated debate, wide consensus has been achieved on a maxblocksize increase, segwit deployment and support for the Lightning Network. The only outstanding issue is one of timing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40ae7fd4fc0326417b0513acde1e6ba694a7506a.gif"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-miners-and-industry-meet-in-beijing/</link>
+            <guid isPermaLink="false">2a814774-ebbe-4054-83b0-adde492cb062</guid>
+            <pubDate>Wed, 20 Apr 2016 00:54:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
