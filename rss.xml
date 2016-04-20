@@ -4,43 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 00:56:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 00:55:21 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Is Bitcoin Becoming More Stable Than Gold?]]></title>
-            <description><![CDATA[<article><h1>Is Bitcoin Becoming More Stable Than Gold?</h1><p>Digital gold is starting to look slightly more stable than its physical counterpart. Since its inception several years ago, bitcoin has seen wild prices swings as advocates have tried to establish the nascent technology as a widely-used digital currency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0c56374d72875a995fc2684d983968474573818.jpg"></article>]]></description>
-            <link>http://blogs.wsj.com/moneybeat/2016/04/19/is-bitcoin-becoming-more-stable-than-gold/</link>
-            <guid isPermaLink="false">bf60f823-ccab-4686-af3b-51a4d02404bd</guid>
-            <pubDate>Wed, 20 Apr 2016 00:54:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Miners and Industry Meet in Beijing]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Miners and Industry Meet in Beijing</h1><p>With April coming to a close and the halving in three months, bitcoin's scalability is reaching decision time. Following a year of heated debate, wide consensus has been achieved on a maxblocksize increase, segwit deployment and support for the Lightning Network. The only outstanding issue is one of timing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40ae7fd4fc0326417b0513acde1e6ba694a7506a.gif"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-miners-and-industry-meet-in-beijing/</link>
-            <guid isPermaLink="false">2a814774-ebbe-4054-83b0-adde492cb062</guid>
-            <pubDate>Wed, 20 Apr 2016 00:54:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["They won't succeed. When are people going to realize that LN is just another carrot held out to delay the rebellion against Core?" * /r/btc]]></title>
-            <description><![CDATA[<article><h1>"They won't succeed. When are people going to realize that LN is just another carrot held out to delay the rebellion against Core?" * /r/btc</h1><p>"It's not a well-formed proposal as the story keeps changing. Its purpose is merely to serve as a distraction. It will always remain theoretical...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
-            <link>https://www.reddit.com/r/btc/comments/4er0tb/they_wont_succeed_when_are_people_going_to/</link>
-            <guid isPermaLink="false">31ad44f6-0908-4a32-8dbe-85025f8d4d08</guid>
-            <pubDate>Wed, 20 Apr 2016 00:54:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Imgur: The most awesome images on the Internet]]></title>
-            <description><![CDATA[<article><h1>Imgur: The most awesome images on the Internet</h1><p>Imgur: The most awesome images on the Internet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/090ba6dbc71d4ad768a8c88eabebfd45a609072c.jpg"></article>]]></description>
-            <link>http://imgur.com/a/dqJrt</link>
-            <guid isPermaLink="false">b6b26506-b10d-4646-aace-52cbc01e2108</guid>
-            <pubDate>Wed, 20 Apr 2016 00:54:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What hardware and bandwidth requirements would a server need to fulfill to run Bitcore?]]></title>
-            <description><![CDATA[<article><h1>What hardware and bandwidth requirements would a server need to fulfill to run Bitcore?</h1><p>What's the cost of running Bitcore on AWS or DigitalOcean? I know I'd need about 128gb of hardrive space, but I'm not sure how much the typical bandwidth costs would be, and how much RAM or cores I...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/43702/what-hardware-and-bandwidth-requirements-would-a-server-need-to-fulfill-to-run-b</link>
-            <guid isPermaLink="false">744d9094-911f-442f-82b3-0531d983ad7c</guid>
-            <pubDate>Wed, 20 Apr 2016 00:54:12 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Indian Bitcoin Wallet Zebpay Records Impressive Turnover]]></title>
             <description><![CDATA[<article><h1>Indian Bitcoin Wallet Zebpay Records Impressive Turnover</h1><p>The ease of use associated with Bitcoin in India is part of why this digital currency has become so successful in recent times. Bitcoin seems to be on the right track over in India, as Zebpay recently announced they surpassed a significant volume milestone in transaction processing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7715bccb64c4b280869944d5cace38f16348c293.jpg"></article>]]></description>
@@ -74,6 +39,40 @@
             <description><![CDATA[<article><h1>Bitcoin wallet Zebpay crosses Rs 100 crore turnover - The Economic Times</h1><p>NEW DELHI: Bitcoin wallet firm Zebpay today said it has crossed Rs 100 crore turnover within 10 months of operations as more Indians are going for the digital currency. "In only 10 months, the company has crossed Rs 100 crore turnover in April 2016," Zebpay said in a statement.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5aaad4eae12e406f65300b0d6222d87ec00bea46.jpg"></article>]]></description>
             <link>http://economictimes.indiatimes.com/small-biz/startups/bitcoin-wallet-zebpay-crosses-rs-100-crore-turnover/articleshow/51899371.cms</link>
             <guid isPermaLink="false">fc53c4a4-ecd4-4759-8f80-96304946e1dc</guid>
+            <pubDate>Wed, 20 Apr 2016 00:54:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Analysis: Looking Bullish But Bias Bearish]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Analysis: Looking Bullish But Bias Bearish</h1><p>Bitcoin price continued sideways today in low volume trade that is looking more and more likely to turn to decline. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member? Join now and receive a $29 discount using the code CCN29.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e05481958776efcbe3ad3f5a735f2f352eae5c6a.png"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-price-analysis-looking-bullish-bias-bearish/</link>
+            <guid isPermaLink="false">38d547dc-3252-4d8e-b787-10eb7ae9f710</guid>
+            <pubDate>Wed, 20 Apr 2016 00:54:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Exchange ShapeShift Hacks See $230,000 Lost in a Month]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Exchange ShapeShift Hacks See $230,000 Lost in a Month</h1><p>The ShapeShift.io bitcoin exchange expects to be back online soon after rebuilding its infrastructure on account of hot wallet thefts, according to a Reddit post by Erik Voorhees, company CEO. Shapeshift's website currently states it is upgrading its infrastructure and will be down for a few days.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8fa2127fc04d0caa672d016f3973d88de2dbc40f.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-exchange-shapeshift-hacks-sees-230000-lost/</link>
+            <guid isPermaLink="false">acfaf843-5b75-4995-a4b8-042d7ed36718</guid>
+            <pubDate>Wed, 20 Apr 2016 00:54:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[First Global Credit - Use Bitcoin as Collateral to Trade Stocks and ETFs - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>First Global Credit - Use Bitcoin as Collateral to Trade Stocks and ETFs - NEWSBTC</h1><p>First Global Credit is the world's first Finance Company offering profit opportunities in mainstream markets for digital currency holders. The Company aims to become a market leader in the Bitcoin Capital Market by providing services that accept bitcoin as a valuable asset which can generate high returns.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/886f7d78176cd605ce6779613a7b3290a8307a0d.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/19/first-global-credit-use-bitcoin-collateral-trade-stocks-etfs/</link>
+            <guid isPermaLink="false">ea676b76-80a5-4dd7-8d5e-b2e0e215154e</guid>
+            <pubDate>Wed, 20 Apr 2016 00:54:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://twitter.com/jgarzik/status/718889393826562048</link>
+            <guid isPermaLink="false">b0c06092-7fab-4475-9f1e-b42813eb5f7d</guid>
+            <pubDate>Wed, 20 Apr 2016 00:54:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Segregated witness by sipa · Pull Request #7910 · bitcoin/bitcoin]]></title>
+            <description><![CDATA[<article><h1>Segregated witness by sipa · Pull Request #7910 · bitcoin/bitcoin</h1><p>This is the complete code for segregated witness on top of master (implementing BIP141, BIP143, BIP144, BIP145) The commits are organized in several sections (separated by empty commits named "---...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd3d12efa4a627f2489c35b58711accc959b1580.jpg"></article>]]></description>
+            <link>https://github.com/bitcoin/bitcoin/pull/7910</link>
+            <guid isPermaLink="false">9eb5007c-e20e-4b43-94ac-369bcea8f3e0</guid>
             <pubDate>Wed, 20 Apr 2016 00:54:11 GMT</pubDate>
         </item>
     </channel>
