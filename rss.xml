@@ -4,7 +4,7 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 16:50:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 16:50:34 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Using PHP with RPC and cookie]]></title>
@@ -15,9 +15,16 @@
         </item>
         <item>
             <title><![CDATA[Bitcoin Core 0.12.1 Released, Focus on Block Size Scalability - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Core 0.12.1 Released, Focus on Block Size Scalability - Bitcoinist.net</h1><p>Bitcoin Core has announced the release of a new update, Bitcoin Core 0.12.1. Focusing on scalability, this follows the "Capacity Increases Roadmap" they detailed December 23rd of last year, with Aprils focus to "deploy segregated witness (including Blocksize increase)" according to the table taken from the Bitcoin Core website below.</p><img src="http://bitcoinist.net/wp-content/uploads/2015/12/bitcoin_core.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Bitcoin Core 0.12.1 Released, Focus on Block Size Scalability - Bitcoinist.net</h1><p>Bitcoin Core has announced the release of a new update, Bitcoin Core 0.12.1. Focusing on scalability, this follows the "Capacity Increases Roadmap" they detailed December 23rd of last year, with Aprils focus to "deploy segregated witness (including Blocksize increase)" according to the table taken from the Bitcoin Core website below.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/460523dcd347b61401a8a8800f4f5920ba9a5842.jpg"></article>]]></description>
             <link>http://bitcoinist.net/bitcoin-core-0-12-1-released/</link>
             <guid isPermaLink="false">6a7be576-3f09-463a-be87-d231e0201291</guid>
+            <pubDate>Wed, 20 Apr 2016 16:49:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Facebook considers 'tip jar' proposal as part of push to monetise posts]]></title>
+            <description><![CDATA[<article><h1>Facebook considers 'tip jar' proposal as part of push to monetise posts</h1><p>Facebook is considering the introduction of a virtual "tip jar", so users can tip small amounts of money to the pages and people they like most. The proposal is one of several the company is consulting with users on, according to the Verge's Casey Newton, who received a survey detailing the options.</p><img src="https://i.guim.co.uk/img/media/f3fa61ea04832dfdd072be9a1009144096907694/0_1023_4163_2499/4163.jpg?w=1200&q=55&auto=format&usm=12&fit=max&s=a1314eea4bdefbe69720cc3a48e9f407"></article>]]></description>
+            <link>https://www.theguardian.com/technology/2016/apr/20/facebook-considers-tip-jar-proposal-monetise-posts</link>
+            <guid isPermaLink="false">88be97ca-6628-487a-bbce-f0b961294d65</guid>
             <pubDate>Wed, 20 Apr 2016 16:49:20 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Is Bitcoin Becoming More Stable Than Gold?</h1><p>Digital gold is starting to look slightly more stable than its physical counterpart. Since its inception several years ago, bitcoin has seen wild prices swings as advocates have tried to establish the nascent technology as a widely-used digital currency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0c56374d72875a995fc2684d983968474573818.jpg"></article>]]></description>
             <link>http://blogs.wsj.com/moneybeat/2016/04/19/is-bitcoin-becoming-more-stable-than-gold/</link>
             <guid isPermaLink="false">bf60f823-ccab-4686-af3b-51a4d02404bd</guid>
-            <pubDate>Wed, 20 Apr 2016 00:54:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Miners and Industry Meet in Beijing]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Miners and Industry Meet in Beijing</h1><p>With April coming to a close and the halving in three months, bitcoin's scalability is reaching decision time. Following a year of heated debate, wide consensus has been achieved on a maxblocksize increase, segwit deployment and support for the Lightning Network. The only outstanding issue is one of timing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40ae7fd4fc0326417b0513acde1e6ba694a7506a.gif"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-miners-and-industry-meet-in-beijing/</link>
-            <guid isPermaLink="false">2a814774-ebbe-4054-83b0-adde492cb062</guid>
             <pubDate>Wed, 20 Apr 2016 00:54:12 GMT</pubDate>
         </item>
     </channel>
