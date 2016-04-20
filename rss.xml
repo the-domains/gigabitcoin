@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 00:56:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 01:49:13 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OpenBazaar: The Decentralized Marketplace]]></title>
+            <description><![CDATA[<article><h1>OpenBazaar: The Decentralized Marketplace</h1><p>Earlier this month, one of the most anticipated Bitcoin services was released. Openbazaar is a decentralized marketplace where anyone can open their own shop and sell anything for Bitcoin, without middlemen or fees. To use OpenBazaar, you have to download the program from the official website.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/36743839a97d032a20b6eb3be84aa16a78681b09.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/openbazaar-the-decentralized-marketplace</link>
+            <guid isPermaLink="false">86b2b834-b4bd-4cc1-8ac1-06d5b0dfc78b</guid>
+            <pubDate>Wed, 20 Apr 2016 01:49:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Bitcoin Becoming More Stable Than Gold?]]></title>
+            <description><![CDATA[<article><h1>Is Bitcoin Becoming More Stable Than Gold?</h1><p>Digital gold is starting to look slightly more stable than its physical counterpart. Since its inception several years ago, bitcoin has seen wild prices swings as advocates have tried to establish the nascent technology as a widely-used digital currency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0c56374d72875a995fc2684d983968474573818.jpg"></article>]]></description>
+            <link>http://blogs.wsj.com/moneybeat/2016/04/19/is-bitcoin-becoming-more-stable-than-gold/</link>
+            <guid isPermaLink="false">bf60f823-ccab-4686-af3b-51a4d02404bd</guid>
+            <pubDate>Wed, 20 Apr 2016 00:54:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Miners and Industry Meet in Beijing]]></title>
             <description><![CDATA[<article><h1>Bitcoin Miners and Industry Meet in Beijing</h1><p>With April coming to a close and the halving in three months, bitcoin's scalability is reaching decision time. Following a year of heated debate, wide consensus has been achieved on a maxblocksize increase, segwit deployment and support for the Lightning Network. The only outstanding issue is one of timing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40ae7fd4fc0326417b0513acde1e6ba694a7506a.gif"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://bitcoinmagazine.com/articles/greg-maxwell-lightning-network-better-than-sidechains-for-scaling-bitcoin-1461077424</link>
             <guid isPermaLink="false">b4b7a14d-98c6-4b47-b6c9-f0b20327f336</guid>
             <pubDate>Wed, 20 Apr 2016 00:54:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin wallet Zebpay crosses Rs 100 crore turnover - The Economic Times]]></title>
-            <description><![CDATA[<article><h1>Bitcoin wallet Zebpay crosses Rs 100 crore turnover - The Economic Times</h1><p>NEW DELHI: Bitcoin wallet firm Zebpay today said it has crossed Rs 100 crore turnover within 10 months of operations as more Indians are going for the digital currency. "In only 10 months, the company has crossed Rs 100 crore turnover in April 2016," Zebpay said in a statement.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5aaad4eae12e406f65300b0d6222d87ec00bea46.jpg"></article>]]></description>
-            <link>http://economictimes.indiatimes.com/small-biz/startups/bitcoin-wallet-zebpay-crosses-rs-100-crore-turnover/articleshow/51899371.cms</link>
-            <guid isPermaLink="false">fc53c4a4-ecd4-4759-8f80-96304946e1dc</guid>
-            <pubDate>Wed, 20 Apr 2016 00:54:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Analysis: Looking Bullish But Bias Bearish]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Analysis: Looking Bullish But Bias Bearish</h1><p>Bitcoin price continued sideways today in low volume trade that is looking more and more likely to turn to decline. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member? Join now and receive a $29 discount using the code CCN29.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e05481958776efcbe3ad3f5a735f2f352eae5c6a.png"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-price-analysis-looking-bullish-bias-bearish/</link>
-            <guid isPermaLink="false">38d547dc-3252-4d8e-b787-10eb7ae9f710</guid>
-            <pubDate>Wed, 20 Apr 2016 00:54:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
