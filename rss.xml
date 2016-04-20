@@ -7,13 +7,6 @@
         <lastBuildDate>Wed, 20 Apr 2016 00:55:19 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Airbnb Hire of ChangeTip Staff Sparks New Interest in Bitcoin and Blockchain for IoT]]></title>
-            <description><![CDATA[<article><h1>Airbnb Hire of ChangeTip Staff Sparks New Interest in Bitcoin and Blockchain for IoT</h1><p>Airbnb has "acqui-hired" the majority of the team behind ChangeCoin, the blockchain company that developed the social Bitcoin tipping service ChangeTip, Quartz reported last week, citing "four people with knowledge of the deal" as sources. "Acqui-hired" refers to hiring the key staff of a company in block, as opposed to purchasing the company and its intellectual property.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d95f3d0fa835618c0705c07ba19d74107ad24f10.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/airbnb-hire-of-changetip-staff-sparks-new-interest-in-bitcoin-and-blockchain-for-iot-1461078211</link>
-            <guid isPermaLink="false">1cd24d2e-7312-4f01-af9b-ab30c20ea600</guid>
-            <pubDate>Wed, 20 Apr 2016 00:54:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Greg Maxwell: Lightning Network Better Than Sidechains for Scaling Bitcoin]]></title>
             <description><![CDATA[<article><h1>Greg Maxwell: Lightning Network Better Than Sidechains for Scaling Bitcoin</h1><p>Over the past year or two, the main topic of conversation in the Bitcoin community has been how the system is going to eventually scale to millions or billions of users. Two concepts often brought up during these sorts of discussions are the Lightning Network and sidechains.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed7d732f3d2b0c9ae8fea97e1e2b930cf75784fa.jpg"></article>]]></description>
             <link>https://bitcoinmagazine.com/articles/greg-maxwell-lightning-network-better-than-sidechains-for-scaling-bitcoin-1461077424</link>
@@ -73,6 +66,13 @@
             <description><![CDATA[<article><h1>Notable & Quotable: 'When Bitcoin Grows Up'</h1><p>From journalist John Lanchester's "When Bitcoin Grows Up," in the London Review of Books, April 21: There was an example of the kind of risk involved in dealing with the currency in March 2014, when [Bitcoin creator Satoshi Nakamoto's] real identity was erroneously 'revealed' by Newsweek.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f21d2499f502985125449a938c76e66078e6c93a.jpg"></article>]]></description>
             <link>http://www.wsj.com/articles/notable-quotable-when-bitcoin-grows-up-1461104888</link>
             <guid isPermaLink="false">1ef4f222-7018-4c79-80c9-620d8a761fdd</guid>
+            <pubDate>Wed, 20 Apr 2016 00:54:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tech exec: 'Bitcoin is dead']]></title>
+            <description><![CDATA[<article><h1>Tech exec: 'Bitcoin is dead'</h1><p>Exactly three months ago, a well-known bitcoin developer, Mike Hearn, wrote a post on Medium that rocked the community of people who believe in the future of the digital currency and its technology. Bitcoin, he wrote, has failed. "It has failed because the community has failed...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ba3f76472d172264b3ba4b5723237009fd12468.jpg"></article>]]></description>
+            <link>http://finance.yahoo.com/news/bitcoin-is-dead-says-prominent-fintech-executive-taavet-hinrikus-transferwise-bitcoin-experiment-failed-191800988.html</link>
+            <guid isPermaLink="false">b414fe58-542c-4212-9ad4-ead17ddd92c6</guid>
             <pubDate>Wed, 20 Apr 2016 00:54:11 GMT</pubDate>
         </item>
     </channel>
