@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 13:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 16:49:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Using PHP with RPC and cookie]]></title>
+            <description><![CDATA[<article><h1>Using PHP with RPC and cookie</h1><p>Since 0.12 RPC uses a "random cookie":https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-0.12.0.md#rpc-random-cookie-rpc-authentication for authentication, but it's not ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43769/using-php-with-rpc-and-cookie</link>
+            <guid isPermaLink="false">02a91666-bc66-43e1-85c2-ff23d79d7ddf</guid>
+            <pubDate>Wed, 20 Apr 2016 16:49:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Technical Analysis for 04/20/2016 - Upside Breakout, Where to Next? - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 04/20/2016 - Upside Breakout, Where to Next? - NEWSBTC</h1><p>Bitcoin price broke out of its short-term consolidation pattern and is eyeing further upside, possibly until the long-term channel resistance. Bitcoin Price Key Highlights Bitcoin price broke out of its short-term consolidation pattern and is eyeing further upside, possibly until the long-term channel resistance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54899f1bd78ac8f3bea8e439b5314437f81d3190.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/20/bitcoin-price-technical-analysis-04202016-upside-breakout-next/</link>
+            <guid isPermaLink="false">7918e1eb-3279-4d0a-bd0e-ede7ce89226f</guid>
+            <pubDate>Wed, 20 Apr 2016 13:20:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitstamp Working Toward Full European License for Bitcoin Exchange - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Bitstamp Working Toward Full European License for Bitcoin Exchange - CoinDesk</h1><p>One of the world's largest bitcoin exchanges is reportedly close to announcing a new deal with the Luxembourg government that would enable it to launch regulated and licensed services across Europe.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/942ccca2da0fe241b2813d73c01b9f30c6f48248.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>"They won't succeed. When are people going to realize that LN is just another carrot held out to delay the rebellion against Core?" * /r/btc</h1><p>"It's not a well-formed proposal as the story keeps changing. Its purpose is merely to serve as a distraction. It will always remain theoretical...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
             <link>https://www.reddit.com/r/btc/comments/4er0tb/they_wont_succeed_when_are_people_going_to/</link>
             <guid isPermaLink="false">31ad44f6-0908-4a32-8dbe-85025f8d4d08</guid>
-            <pubDate>Wed, 20 Apr 2016 00:54:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Imgur: The most awesome images on the Internet]]></title>
-            <description><![CDATA[<article><h1>Imgur: The most awesome images on the Internet</h1><p>Imgur: The most awesome images on the Internet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/090ba6dbc71d4ad768a8c88eabebfd45a609072c.jpg"></article>]]></description>
-            <link>http://imgur.com/a/dqJrt</link>
-            <guid isPermaLink="false">b6b26506-b10d-4646-aace-52cbc01e2108</guid>
-            <pubDate>Wed, 20 Apr 2016 00:54:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What hardware and bandwidth requirements would a server need to fulfill to run Bitcore?]]></title>
-            <description><![CDATA[<article><h1>What hardware and bandwidth requirements would a server need to fulfill to run Bitcore?</h1><p>What's the cost of running Bitcore on AWS or DigitalOcean? I know I'd need about 128gb of hardrive space, but I'm not sure how much the typical bandwidth costs would be, and how much RAM or cores I...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/43702/what-hardware-and-bandwidth-requirements-would-a-server-need-to-fulfill-to-run-b</link>
-            <guid isPermaLink="false">744d9094-911f-442f-82b3-0531d983ad7c</guid>
             <pubDate>Wed, 20 Apr 2016 00:54:12 GMT</pubDate>
         </item>
     </channel>
