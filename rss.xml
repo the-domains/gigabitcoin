@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 00:55:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 00:55:14 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Segregated witness by sipa · Pull Request #7910 · bitcoin/bitcoin]]></title>
+            <description><![CDATA[<article><h1>Segregated witness by sipa · Pull Request #7910 · bitcoin/bitcoin</h1><p>This is the complete code for segregated witness on top of master (implementing BIP141, BIP143, BIP144, BIP145) The commits are organized in several sections (separated by empty commits named "---...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd3d12efa4a627f2489c35b58711accc959b1580.jpg"></article>]]></description>
+            <link>https://github.com/bitcoin/bitcoin/pull/7910</link>
+            <guid isPermaLink="false">9eb5007c-e20e-4b43-94ac-369bcea8f3e0</guid>
+            <pubDate>Wed, 20 Apr 2016 00:54:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Use your Bitcoin to Start Trading Forex with SimpleFX]]></title>
+            <description><![CDATA[<article><h1>Use your Bitcoin to Start Trading Forex with SimpleFX</h1><p>SimpleFX is a Brokerage company established in 2014 that offers traders the chance to use their Bitcoins or Litecoins to Invest in the Forex Market. Its main advantage is the availability of leverage, allowing traders with small amounts to trade with high volumes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9581269ab76a00d8fef13917c3873947a832a47c.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/19/use-bitcoin-start-trading-forex-simplefx/</link>
+            <guid isPermaLink="false">eb693f08-89bd-478c-ab85-927b6a7bf079</guid>
+            <pubDate>Wed, 20 Apr 2016 00:54:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Notable & Quotable: 'When Bitcoin Grows Up']]></title>
             <description><![CDATA[<article><h1>Notable & Quotable: 'When Bitcoin Grows Up'</h1><p>From journalist John Lanchester's "When Bitcoin Grows Up," in the London Review of Books, April 21: There was an example of the kind of risk involved in dealing with the currency in March 2014, when [Bitcoin creator Satoshi Nakamoto's] real identity was erroneously 'revealed' by Newsweek.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f21d2499f502985125449a938c76e66078e6c93a.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>The Crypto Show with Philip Farah, Tatiana Moroz, Shannon Stallings and Derrick Broze</h1><p>Tonight we talk with Philip Farah of Fermat.org , Shannon Stallings an Attorney in Florida who specializes in marijuana cases. Tatiana Moroz also joins in with Philip on the Fermat.org talk. Then as a bonus track I talk with Derrick Broze at the Libertarian Convention on his speech about alternatives to government systems. Original air date 4/17/16 on LogosRadioNetwork Sponsored by Bitcoin.com & CryptoCompare.com Links: http://TheCryptoShow.com http://FreeRoss.org http://CryptoCo...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6790869396b96e6e341781bec7aee93a7862e4a2.jpg"></article>]]></description>
             <link>https://letstalkbitcoin.com/blog/post/the-crypto-show-with-philip-farah-tatiana-moroz-shannon-stallings-and-derrick-broze</link>
             <guid isPermaLink="false">dab81df3-eb93-4db4-bcf8-a51a06cca126</guid>
-            <pubDate>Tue, 19 Apr 2016 13:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin is Better Off Without Being Legalized in Ukraine - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin is Better Off Without Being Legalized in Ukraine - NEWSBTC</h1><p>The push for bitcoin legislation in Ukraine has been put on hold after Michael Chobanian decided to drop the pursuit The Bitcoin Legalization Bill of Ukraine may soon be history after the people who were in the forefront decided to call it a day.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4712878109cf650553c5b7fbf74c08c2f0e54045.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/19/bitcoin-is-better-off-without-being-legalized-in-ukraine/</link>
-            <guid isPermaLink="false">3d489989-d99b-4deb-b7f5-b39cf80dcc55</guid>
-            <pubDate>Tue, 19 Apr 2016 13:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OB is cool and all, but I can't find anything good on there LOL * /r/Bitcoin]]></title>
-            <description><![CDATA[<article><h1>OB is cool and all, but I can't find anything good on there LOL * /r/Bitcoin</h1><p>Lets post some interesting stuff for sale on OB on this thread. So far all i see is Bitcoin pins, pillow covers. Has anyone found a cool store ?...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
-            <link>https://www.reddit.com/r/Bitcoin/comments/4eyhbc/ob_is_cool_and_all_but_i_cant_find_anything_good/</link>
-            <guid isPermaLink="false">16f68646-4f13-404a-994b-acf63548d657</guid>
             <pubDate>Tue, 19 Apr 2016 13:38:59 GMT</pubDate>
         </item>
     </channel>
