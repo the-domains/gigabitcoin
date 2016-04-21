@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 22:00:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 22:00:42 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Fold Relaunches Card for Cash: Trade Gift Cards for Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Fold Relaunches Card for Cash: Trade Gift Cards for Bitcoin</h1><p>Matt Luongo, the founder of Fold, and his team are known for creating an app that lets you spend bitcoins at large retailers such as Starbucks, Target and Whole Foods for a discount. Today they have returned to their roots by re-launching another product they created for the space, to help people earn bitcoins from their gift cards.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3fa159168786c6833d4c209bf4506a93309379d.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/fold-relaunches-card-for-cash-trade-gift-cards-for-bitcoin-1461261434</link>
-            <guid isPermaLink="false">e685f05a-ddcb-4c15-9e04-96862028989a</guid>
-            <pubDate>Thu, 21 Apr 2016 21:59:52 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Newsflash: Bitcoin Price Touches $444, a 100-day High]]></title>
             <description><![CDATA[<article><h1>Newsflash: Bitcoin Price Touches $444, a 100-day High</h1><p>Bitcoin price has made gains over the past few days to set a new 3-month high of $443.69 today. The Bitstamp Price Index struck $440 at 16:00 yesterday, April 20 and has remained to hover over the figure ever since. At the time of publishing, the pr...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a210b047f16c5fde61c7ef9b99f1cbf05c73f11.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Duo Search</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e7a2ed483182884b751a2eec60fb0c03cb82519.png"></article>]]></description>
             <link>https://duosear.ch</link>
             <guid isPermaLink="false">0eddbcdb-a288-46e6-8dcf-2c8f3c514370</guid>
+            <pubDate>Thu, 21 Apr 2016 14:24:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I bought 1BTC and the transaction was instantaneously, how?]]></title>
+            <description><![CDATA[<article><h1>I bought 1BTC and the transaction was instantaneously, how?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top So, I went to localbitcoin, I met a random guy at a Starbucks gave him the money and he transfered 1BTC with his cellphone to my blockchain.info account.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43791/i-bought-1btc-and-the-transaction-was-instantaneously-how</link>
+            <guid isPermaLink="false">ac09b034-a2d8-4fc7-92d7-a6e2436329fe</guid>
             <pubDate>Thu, 21 Apr 2016 14:24:51 GMT</pubDate>
         </item>
     </channel>
