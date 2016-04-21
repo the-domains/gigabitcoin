@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 01:49:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 01:50:17 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MIT ChainAnchor - Bribing Miners to Regulate Bitcoin]]></title>
+            <description><![CDATA[<article><h1>MIT ChainAnchor - Bribing Miners to Regulate Bitcoin</h1><p>Based on the information I have available to me, it appears that the MIT ChainAnchor Project is in part an attempt to get Bitcoin users to register their real world identities and associate their transactions with those identities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e93a27c375c1bdba79b2cc6065ac5d092a832b73.png"></article>]]></description>
+            <link>https://petertodd.org/2016/mit-chainanchor-bribing-miners-to-regulate-bitcoin</link>
+            <guid isPermaLink="false">b7e9d33d-03f6-4bca-b405-946d1ed504e8</guid>
+            <pubDate>Thu, 21 Apr 2016 01:49:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Splitting one bitcoin between two people]]></title>
+            <description><![CDATA[<article><h1>Splitting one bitcoin between two people</h1><p>I am quite new to Bitcoins. I have a doubt. Lets say I person A, have 1 Bitcoin with me, I want to send .5 BTC to person B and .5 BTC to person C in a single transaction. Is it possible to do wit...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43785/splitting-one-bitcoin-between-two-people</link>
+            <guid isPermaLink="false">f346be78-d455-45d9-a93f-43da7a619299</guid>
+            <pubDate>Thu, 21 Apr 2016 01:49:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[In the age of the Panama Papers, is Bitcoin technology the future?]]></title>
             <description><![CDATA[<article><h1>In the age of the Panama Papers, is Bitcoin technology the future?</h1><p>Early April's leak of documents detailing how global elites hide their money has put a new spotlight on the issue of financial secrecy. Power players throughout the world have been connected to shell companies set up by Mossack Fonseca, the law firm in Panama that was the victim of the breach.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d9930a02c31b59c8ce1d75858970f7d895503a6.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Antonopoulos: 'All' Bitcoin Scaling Solutions Should be Adopted</h1><p>the Continuing coverage of Andreas Antonopoulos' recent chock-full-o-quotes speech at Barcelona's FabLab, the Bitcoin visionary explained that not only is he "very confident" about scaling the cryptocurrency, but that "all" of the proposed solutions should be adopted by the community.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a29fe3a041d8f90995645950ac7979f1f0455ac.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/all-scaling-solutions-antonopoulos/</link>
             <guid isPermaLink="false">f5a4652f-1cd2-403c-8845-e4c96b818ca4</guid>
-            <pubDate>Wed, 20 Apr 2016 13:20:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Gold Standard: Bitcoin Price Stability at its Best since 2010]]></title>
-            <description><![CDATA[<article><h1>The Gold Standard: Bitcoin Price Stability at its Best since 2010</h1><p>The last 24 days mark the longest period in which bitcoin prices have been less volatile than gold prices, going back to 2010, according to The Wall Street Journal. Some see this as a sign of investor perception of bitcoin as a safe store of value. ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/424fe7ad88c1ab7f7e225454742bdb00eba370cd.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/the-gold-standard-bitcoin-price-stability-at-its-best-since-2010/</link>
-            <guid isPermaLink="false">d7f1e3be-b3bb-45ef-a356-702dfccce192</guid>
-            <pubDate>Wed, 20 Apr 2016 13:20:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Overstock After Byrne: Will It Remain Bitcoin-Friendly?]]></title>
-            <description><![CDATA[<article><h1>Overstock After Byrne: Will It Remain Bitcoin-Friendly?</h1><p>Patrick M. Byrne, the CEO of Overstock, has taken an indefinite leave of absence due to complications arising from Hepatitis C. Will his company remain bitcoin-friendly post his exit, given that he was one of the most vocal supporters of Bitcoin?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99bb9053b74fd8c2666b55f68569c92652ecfd73.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/overstock-after-byrne-will-it-remain-bitcoin-friendly</link>
-            <guid isPermaLink="false">6185f69a-3cad-42d9-b6f3-792112d7abb3</guid>
             <pubDate>Wed, 20 Apr 2016 13:20:50 GMT</pubDate>
         </item>
     </channel>
