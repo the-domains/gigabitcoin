@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 03:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 03:23:22 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[JSON-RPC Connection Problem!]]></title>
+            <description><![CDATA[<article><h1>JSON-RPC Connection Problem!</h1><p>I use bitcoind. And I have simple bitcoin wallet with simple login-register system. Error Code; Fatal error: Uncaught exception 'Exception' with message 'Incorrect response id (request id: 1, res...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43775/json-rpc-connection-problem</link>
+            <guid isPermaLink="false">ba081ec9-235d-4eae-a746-99973240af96</guid>
+            <pubDate>Thu, 21 Apr 2016 03:22:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I bough 1BTC and the transaction was instantaneously, how?]]></title>
             <description><![CDATA[<article><h1>I bough 1BTC and the transaction was instantaneously, how?</h1><p>So I went to localbitcoin, I met a random guy at a starbucks gave him the money and he transfered 1BTC with his cellphone to my blockchain.info account, I though I would have to wait at very least 10</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://bitcoin.stackexchange.com/questions/43785/splitting-one-bitcoin-between-two-people</link>
             <guid isPermaLink="false">f346be78-d455-45d9-a93f-43da7a619299</guid>
             <pubDate>Thu, 21 Apr 2016 01:49:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Top Bitcoin Insiders Clandestinely Work with EU, Leaked Emails Show]]></title>
-            <description><![CDATA[<article><h1>Top Bitcoin Insiders Clandestinely Work with EU, Leaked Emails Show</h1><p>Ex Bitcoin Foundation Outreach Person Monica Monaco and her regulatory antics exposed in leaked e-mails. Is EU digital currency regulation being driven by Bitcoin insider lobbying? Cointelegraph gained access to certain emails sent out by Monica Monaco of TrustEUAffairs, which claims to operate in the regulatory affairs consultancy services arena.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30845189491db7c51121dd924b318c89f6a0afb3.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/top-bitcoin-insiders-clandestinely-work-with-eu-leaked-emails-show</link>
-            <guid isPermaLink="false">257d78a7-e0c7-4b4c-8ecf-30c588c09c02</guid>
-            <pubDate>Thu, 21 Apr 2016 01:49:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
