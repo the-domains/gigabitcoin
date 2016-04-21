@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 23:10:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 23:11:07 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://imgur.com/edM7t03.jpg"></article>]]></description>
+            <link>http://i.imgur.com/edM7t03.jpg</link>
+            <guid isPermaLink="false">f9ea91ad-95ae-466e-bd84-dcfcc76fd6ba</guid>
+            <pubDate>Thu, 21 Apr 2016 23:10:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How do nodes rebroacast transactions]]></title>
             <description><![CDATA[<article><h1>How do nodes rebroacast transactions</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top When a bitcoin node receive a new transaction, it rebroadcast it and stores it in its mempool.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.cryptocoinsnews.com/russia-bitcoin-ban-delayed-criticism/</link>
             <guid isPermaLink="false">bc1238f5-9025-4b52-a3bb-cc0d1f867d35</guid>
             <pubDate>Thu, 21 Apr 2016 21:59:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Decentralized, Peer-To-Peer Bitcoin Exchange Bitsquare to Launch Next Week]]></title>
-            <description><![CDATA[<article><h1>Decentralized, Peer-To-Peer Bitcoin Exchange Bitsquare to Launch Next Week</h1><p>Having been in development for more than two years, what promises to be the first proper decentralized Bitcoin exchange is set to officially launch next Wednesday. Bitsquare, an open source project led by the Austrian-born Manfred Karrer, allows anyone to trade Bitcoin for fiat currency as well as altcoins, without requiring a company, central intermediary or permission from anyone.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fe4e4c645e9d6a2c9b04145cd514dc86af442be.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/decentralized-peer-to-peer-bitcoin-exchange-bitsquare-to-launch-next-week-1461260120</link>
-            <guid isPermaLink="false">8aa6d8f1-10e1-4078-9df6-c7e0a8427125</guid>
-            <pubDate>Thu, 21 Apr 2016 21:59:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
