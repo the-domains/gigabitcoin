@@ -1,32 +1,32 @@
 ---
 author:
-  - name: by Michael Gord
-    url: 'https://bitcoinmagazine.com/authors/michael-gord'
+  - name: Bitcoin Magazine
+    url: 'http://www.nasdaq.com/author/bitcoin-magazine'
     avatar: {}
 related: []
 publisher:
-  url: 'https://bitcoinmagazine.com'
-  name: Bitcoin Magazine
-  favicon: 'https://assets.btcinc.io/ico/favicon.ico'
-  domain: bitcoinmagazine.com
+  url: 'http://www.nasdaq.com'
+  name: NASDAQ.com
+  favicon: 'http://www.nasdaq.com/images/qfav.ico'
+  domain: www.nasdaq.com
 keywords:
-  - bitcoin
-  - cards
-  - luongo
-  - gift
-  - coin
-  - magazine
-  - starbucks
-  - business
-  - team
-  - coffee
-description: 'Matt Luongo, the founder of Fold, and his team are known for creating an app that lets you spend bitcoins at large retailers such as Starbucks, Target and Whole Foods for a discount. Today they have returned to their roots by re-launching another product they created for the space, to help people earn bitcoins from their gift cards.'
+  - default
+  - settings
+  - please
+  - nasdaq
+  - cookies
+  - selected
+  - quote
+  - commas
+  - symbols
+  - change
+description: 'Matt Luongo, the founder of Fold, and his team are known for creating an app that lets you spend bitcoins at large retailers such as Starbucks,.'
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://bitcoinmagazine.com/articles/fold-relaunches-card-for-cash-trade-gift-cards-for-bitcoin-1461261434'
+isBasedOnUrl: 'http://www.nasdaq.com/article/fold-relaunches-card-for-cash-trade-gift-cards-for-bitcoin-cm609704'
 title: 'Fold Relaunches Card for Cash: Trade Gift Cards for Bitcoin'
-datePublished: '2016-04-21T21:59:52.533Z'
-dateModified: '2016-04-21T19:48:57.873Z'
+datePublished: '2016-04-21T21:59:52.743Z'
+dateModified: '2016-04-21T18:48:46.577Z'
 sourcePath: _posts/2016-04-21-fold-relaunches-card-for-cash-trade-gift-cards-for-bitcoin.md
 published: true
 inFeed: true
@@ -36,4 +36,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Fold Relaunches Card for Cash: Trade Gift Cards for Bitcoin</h1><p>Matt Luongo, the founder of Fold, and his team are known for creating an app that lets you spend bitcoins at large retailers such as Starbucks, Target and Whole Foods for a discount. Today they have returned to their roots by re-launching another product they created for the space, to help people earn bitcoins from their gift cards.</p><img src="https://assets.btcinc.io/img/articles/fold-relaunches-card-for-cash-trade-gift-cards-for-bitcoin.jpg" /></article>
+<article style=""><h1>Fold Relaunches Card for Cash: Trade Gift Cards for Bitcoin</h1><p>Matt Luongo, the founder of Fold, and his team are known for creating an app that lets you spend bitcoins at large retailers such as Starbucks,.</p><img src="http://www.nasdaq.com/images/dreamit.jpg" /></article>
