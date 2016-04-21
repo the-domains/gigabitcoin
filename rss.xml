@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 16:50:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 01:49:50 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[In the age of the Panama Papers, is Bitcoin technology the future?]]></title>
+            <description><![CDATA[<article><h1>In the age of the Panama Papers, is Bitcoin technology the future?</h1><p>Early April's leak of documents detailing how global elites hide their money has put a new spotlight on the issue of financial secrecy. Power players throughout the world have been connected to shell companies set up by Mossack Fonseca, the law firm in Panama that was the victim of the breach.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d9930a02c31b59c8ce1d75858970f7d895503a6.jpg"></article>]]></description>
+            <link>http://www.pbs.org/newshour/making-sense/in-the-age-of-the-panama-papers-is-bitcoin-technology-the-future/</link>
+            <guid isPermaLink="false">67ea0b31-3772-4d46-bfe1-cc4d50cb2269</guid>
+            <pubDate>Thu, 21 Apr 2016 01:49:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Breakout?]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Breakout?</h1><p>Bitcoin price pushed to a new high at resistance today, and we have to ask: Why another high when your bitcoins are fundamentally threatened? This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member? Join now and receive a $29 discount using the code CCN29.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/848e82e6574bea954cc600a6f0d7dbb8330b003f.png"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-price-breakout-4/</link>
+            <guid isPermaLink="false">387b0c89-2dad-4f7b-b491-b1389c8814b6</guid>
+            <pubDate>Wed, 20 Apr 2016 16:49:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Using PHP with RPC and cookie]]></title>
             <description><![CDATA[<article><h1>Using PHP with RPC and cookie</h1><p>Since 0.12 RPC uses a "random cookie":https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-0.12.0.md#rpc-random-cookie-rpc-authentication for authentication, but it's not ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -22,7 +36,7 @@
         </item>
         <item>
             <title><![CDATA[Facebook considers 'tip jar' proposal as part of push to monetise posts]]></title>
-            <description><![CDATA[<article><h1>Facebook considers 'tip jar' proposal as part of push to monetise posts</h1><p>Facebook is considering the introduction of a virtual "tip jar", so users can tip small amounts of money to the pages and people they like most. The proposal is one of several the company is consulting with users on, according to the Verge's Casey Newton, who received a survey detailing the options.</p><img src="https://i.guim.co.uk/img/media/f3fa61ea04832dfdd072be9a1009144096907694/0_1023_4163_2499/4163.jpg?w=1200&q=55&auto=format&usm=12&fit=max&s=a1314eea4bdefbe69720cc3a48e9f407"></article>]]></description>
+            <description><![CDATA[<article><h1>Facebook considers 'tip jar' proposal as part of push to monetise posts</h1><p>Facebook is considering the introduction of a virtual "tip jar", so users can tip small amounts of money to the pages and people they like most. The proposal is one of several the company is consulting with users on, according to the Verge's Casey Newton, who received a survey detailing the options.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f943d738cb4e163281bd635392aadde3d0245cf7.jpg"></article>]]></description>
             <link>https://www.theguardian.com/technology/2016/apr/20/facebook-considers-tip-jar-proposal-monetise-posts</link>
             <guid isPermaLink="false">88be97ca-6628-487a-bbce-f0b961294d65</guid>
             <pubDate>Wed, 20 Apr 2016 16:49:20 GMT</pubDate>
@@ -61,20 +75,6 @@
             <link>http://cointelegraph.com/news/overstock-after-byrne-will-it-remain-bitcoin-friendly</link>
             <guid isPermaLink="false">6185f69a-3cad-42d9-b6f3-792112d7abb3</guid>
             <pubDate>Wed, 20 Apr 2016 13:20:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenBazaar: The Decentralized Marketplace]]></title>
-            <description><![CDATA[<article><h1>OpenBazaar: The Decentralized Marketplace</h1><p>Earlier this month, one of the most anticipated Bitcoin services was released. Openbazaar is a decentralized marketplace where anyone can open their own shop and sell anything for Bitcoin, without middlemen or fees. To use OpenBazaar, you have to download the program from the official website.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/36743839a97d032a20b6eb3be84aa16a78681b09.jpg"></article>]]></description>
-            <link>https://letstalkbitcoin.com/blog/post/openbazaar-the-decentralized-marketplace</link>
-            <guid isPermaLink="false">86b2b834-b4bd-4cc1-8ac1-06d5b0dfc78b</guid>
-            <pubDate>Wed, 20 Apr 2016 01:49:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Bitcoin Becoming More Stable Than Gold?]]></title>
-            <description><![CDATA[<article><h1>Is Bitcoin Becoming More Stable Than Gold?</h1><p>Digital gold is starting to look slightly more stable than its physical counterpart. Since its inception several years ago, bitcoin has seen wild prices swings as advocates have tried to establish the nascent technology as a widely-used digital currency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0c56374d72875a995fc2684d983968474573818.jpg"></article>]]></description>
-            <link>http://blogs.wsj.com/moneybeat/2016/04/19/is-bitcoin-becoming-more-stable-than-gold/</link>
-            <guid isPermaLink="false">bf60f823-ccab-4686-af3b-51a4d02404bd</guid>
-            <pubDate>Wed, 20 Apr 2016 00:54:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
