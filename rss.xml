@@ -4,43 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 22:00:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 22:00:40 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Decentralized, Peer-To-Peer Bitcoin Exchange Bitsquare to Launch Next Week]]></title>
-            <description><![CDATA[<article><h1>Decentralized, Peer-To-Peer Bitcoin Exchange Bitsquare to Launch Next Week</h1><p>Having been in development for more than two years, what promises to be the first proper decentralized Bitcoin exchange is set to officially launch next Wednesday. Bitsquare, an open source project led by the Austrian-born Manfred Karrer, allows anyone to trade Bitcoin for fiat currency as well as altcoins, without requiring a company, central intermediary or permission from anyone.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fe4e4c645e9d6a2c9b04145cd514dc86af442be.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/decentralized-peer-to-peer-bitcoin-exchange-bitsquare-to-launch-next-week-1461260120</link>
-            <guid isPermaLink="false">8aa6d8f1-10e1-4078-9df6-c7e0a8427125</guid>
-            <pubDate>Thu, 21 Apr 2016 21:59:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Story About a Florida Man Involves Bitcoin and J.P. Morgan]]></title>
-            <description><![CDATA[<article><h1>This Story About a Florida Man Involves Bitcoin and J.P. Morgan</h1><p>A Florida man was arrested on Thursday for participating in a bribery scheme aimed at supporting an illegal bitcoin exchange operated by his son and owned by an Israeli behind a series of hacking attacks on organizations such as J.P. Morgan Chase .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82ef18ef46afbf9f708c670a5a8e6940be7bc7fa.jpg"></article>]]></description>
-            <link>http://fortune.com/2016/04/21/florida-man-bitcoin/</link>
-            <guid isPermaLink="false">8f54570f-57ca-443e-8a35-6b5c61db4593</guid>
-            <pubDate>Thu, 21 Apr 2016 21:59:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fold Relaunches Card for Cash: Trade Gift Cards for Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Fold Relaunches Card for Cash: Trade Gift Cards for Bitcoin</h1><p>Matt Luongo, the founder of Fold, and his team are known for creating an app that lets you spend bitcoins at large retailers such as Starbucks,.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e625a6e004cc945dd54d74e9cf82255025bb901a.jpg"></article>]]></description>
-            <link>http://www.nasdaq.com/article/fold-relaunches-card-for-cash-trade-gift-cards-for-bitcoin-cm609704</link>
-            <guid isPermaLink="false">2496f3f0-3ac7-403f-bb6c-adcc4e40ca67</guid>
-            <pubDate>Thu, 21 Apr 2016 21:59:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fold Relaunches Card for Cash: Trade Gift Cards for Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Fold Relaunches Card for Cash: Trade Gift Cards for Bitcoin</h1><p>Matt Luongo, the founder of Fold, and his team are known for creating an app that lets you spend bitcoins at large retailers such as Starbucks, Target and Whole Foods for a discount. Today they have returned to their roots by re-launching another product they created for the space, to help people earn bitcoins from their gift cards.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3fa159168786c6833d4c209bf4506a93309379d.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/fold-relaunches-card-for-cash-trade-gift-cards-for-bitcoin-1461261434</link>
-            <guid isPermaLink="false">e685f05a-ddcb-4c15-9e04-96862028989a</guid>
-            <pubDate>Thu, 21 Apr 2016 21:59:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Newsflash: Bitcoin Price Touches $444, a 100-day High]]></title>
-            <description><![CDATA[<article><h1>Newsflash: Bitcoin Price Touches $444, a 100-day High</h1><p>Bitcoin price has made gains over the past few days to set a new 3-month high of $443.69 today. The Bitstamp Price Index struck $440 at 16:00 yesterday, April 20 and has remained to hover over the figure ever since. At the time of publishing, the pr...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a210b047f16c5fde61c7ef9b99f1cbf05c73f11.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/newsflash-bitcoin-price-scales-440-100-day-high/</link>
-            <guid isPermaLink="false">3c6d6064-e931-429c-a74e-1ffc0254e363</guid>
-            <pubDate>Thu, 21 Apr 2016 21:59:52 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[The Segregated Witness Timeline: From Idea to Adoption in Six Steps]]></title>
             <description><![CDATA[<article><h1>The Segregated Witness Timeline: From Idea to Adoption in Six Steps</h1><p>Segregated Witness might be the most significant improvement to the Bitcoin protocol to date. The innovation is set to fix transaction malleability, offers an effective block size increase, enables development flexibility and more. After months of coding, Segregated Witness is getting close to rollout, as a pull request was submitted to Bitcoin Core earlier this week.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c90b4d023aeed3e7d215294a160e8ecab57fc5c.jpg"></article>]]></description>
@@ -75,6 +40,41 @@
             <link>https://www.cryptocoinsnews.com/new-malware-mines-bitcoin/</link>
             <guid isPermaLink="false">2167f818-6e01-440b-b1a8-c603ed80d8ba</guid>
             <pubDate>Thu, 21 Apr 2016 14:24:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Crypto Show with Cody Wilson, Drew Phillips of Bitcoin Not Bombs and Jonathan Mohan]]></title>
+            <description><![CDATA[<article><h1>The Crypto Show with Cody Wilson, Drew Phillips of Bitcoin Not Bombs and Jonathan Mohan</h1><p>We talk with Cody Wilson and Drew Phillips about Open Bazar and the American Black Cross as well as Jonathan Mohan about Peter Todd's take on Chain Anchors announced on Reddit. Original air date 4/20/16 on LogosRadioNetwork Sponsored by Bitcoin.com & CryptoCompare.com Links: http://TheCryptoShow.com http://FreeRoss.org http://agoristhosting.com http://Defdist.org http://CryptoCompare.com http://Bitcoin.com http://Facebook.com/thecryptoshow @TheCryptoShow & @The_...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/407fa29d81d156113b90cec064c49e881850ca51.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/the-crypto-show-with-cody-wilson-drew-phillips-of-bitcoin-not-bombs-and-jonathan-mohan</link>
+            <guid isPermaLink="false">35bb55ed-bb62-41b9-ae87-f96e7033d5c9</guid>
+            <pubDate>Thu, 21 Apr 2016 14:24:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CryptXXX set to become the worst bitcoin-stealing ransomware yet]]></title>
+            <description><![CDATA[<article><h1>CryptXXX set to become the worst bitcoin-stealing ransomware yet</h1><p>Bitcoin has a new and potentially considerable threat to its reputation, if California cybersecurity firm Proofpoint is correct. Last week, the company warned that a previously undocumented ransomware sample that they found, CryptXXX, would not only be encrypting files locally and on all mounted drives, "it's stealing Bitcoins and a large range of other data."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5989507e0358f6185a5d699d9fe9c2fe641e27e.jpg"></article>]]></description>
+            <link>http://bravenewcoin.com/news/cryptxxx-set-to-become-the-worst-bitcoin-stealing-ransomware-yet/</link>
+            <guid isPermaLink="false">369d341a-9ab9-45a2-bb9e-c172e84538fe</guid>
+            <pubDate>Thu, 21 Apr 2016 14:24:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Duo Search]]></title>
+            <description><![CDATA[<article><h1>Duo Search</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e7a2ed483182884b751a2eec60fb0c03cb82519.png"></article>]]></description>
+            <link>https://duosear.ch</link>
+            <guid isPermaLink="false">0eddbcdb-a288-46e6-8dcf-2c8f3c514370</guid>
+            <pubDate>Thu, 21 Apr 2016 14:24:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I bought 1BTC and the transaction was instantaneously, how?]]></title>
+            <description><![CDATA[<article><h1>I bought 1BTC and the transaction was instantaneously, how?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top So, I went to localbitcoin, I met a random guy at a Starbucks gave him the money and he transfered 1BTC with his cellphone to my blockchain.info account.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43791/i-bought-1btc-and-the-transaction-was-instantaneously-how</link>
+            <guid isPermaLink="false">ac09b034-a2d8-4fc7-92d7-a6e2436329fe</guid>
+            <pubDate>Thu, 21 Apr 2016 14:24:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Exchange Kraken Hires Financial Law Veteran as General Counsel]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Exchange Kraken Hires Financial Law Veteran as General Counsel</h1><p>Kraken, one of the largest bitcoin exchanges in the world has announced the appointment of Edward Stadum, a lawyer and fintech advisor with over five decades of legal experience and insight into international law. Global Bitcoin exchange Kraken has hired Edward M. Stadum as its General Counsel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6912dbd0ec8a9ab9f8bf20903106bc4a85c76861.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-exchange-krakens-hires-financial-law-veteran/</link>
+            <guid isPermaLink="false">ef00096c-6dad-4215-838a-c9e2c2ed02dd</guid>
+            <pubDate>Thu, 21 Apr 2016 14:24:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
