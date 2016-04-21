@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 01:50:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 01:50:18 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Unlicensed Bitcoin Exchange Operators Plead Guilty in Louisiana - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Unlicensed Bitcoin Exchange Operators Plead Guilty in Louisiana - CoinDesk</h1><p>A Louisiana man and his son have plead guilty to running an unlicensed bitcoin exchange, the US Department of Justice said today. According to the Justice Department, Randall Lord and his son, Michael, plead guilty to one count of conspiracy to operate an unlicensed money services business.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a8358d65d7ab26b4a89bcb8ce2709f8ab8d3e95.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/men-plead-guilty-running-unlicensed-bitcoin-exchange/</link>
+            <guid isPermaLink="false">a93df4ab-6a50-4b31-9189-535aacb18b23</guid>
+            <pubDate>Thu, 21 Apr 2016 01:49:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MIT ChainAnchor - Bribing Miners to Regulate Bitcoin]]></title>
+            <description><![CDATA[<article><h1>MIT ChainAnchor - Bribing Miners to Regulate Bitcoin</h1><p>Based on the information I have available to me, it appears that the MIT ChainAnchor Project is in part an attempt to get Bitcoin users to register their real world identities and associate their transactions with those identities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e93a27c375c1bdba79b2cc6065ac5d092a832b73.png"></article>]]></description>
+            <link>https://petertodd.org/2016/mit-chainanchor-bribing-miners-to-regulate-bitcoin</link>
+            <guid isPermaLink="false">b7e9d33d-03f6-4bca-b405-946d1ed504e8</guid>
+            <pubDate>Thu, 21 Apr 2016 01:49:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Splitting one bitcoin between two people]]></title>
             <description><![CDATA[<article><h1>Splitting one bitcoin between two people</h1><p>I am quite new to Bitcoins. I have a doubt. Lets say I person A, have 1 Bitcoin with me, I want to send .5 BTC to person B and .5 BTC to person C in a single transaction. Is it possible to do wit...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Bitstamp Working Toward Full European License for Bitcoin Exchange - CoinDesk</h1><p>One of the world's largest bitcoin exchanges is reportedly close to announcing a new deal with the Luxembourg government that would enable it to launch regulated and licensed services across Europe.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/942ccca2da0fe241b2813d73c01b9f30c6f48248.jpg"></article>]]></description>
             <link>http://www.coindesk.com/bitstamp-europe-license-luxembourg/</link>
             <guid isPermaLink="false">d16dd3de-d69c-4d1d-9337-31cb0d2c744d</guid>
-            <pubDate>Wed, 20 Apr 2016 13:20:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Antonopoulos: 'All' Bitcoin Scaling Solutions Should be Adopted]]></title>
-            <description><![CDATA[<article><h1>Antonopoulos: 'All' Bitcoin Scaling Solutions Should be Adopted</h1><p>the Continuing coverage of Andreas Antonopoulos' recent chock-full-o-quotes speech at Barcelona's FabLab, the Bitcoin visionary explained that not only is he "very confident" about scaling the cryptocurrency, but that "all" of the proposed solutions should be adopted by the community.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a29fe3a041d8f90995645950ac7979f1f0455ac.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/all-scaling-solutions-antonopoulos/</link>
-            <guid isPermaLink="false">f5a4652f-1cd2-403c-8845-e4c96b818ca4</guid>
-            <pubDate>Wed, 20 Apr 2016 13:20:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Gold Standard: Bitcoin Price Stability at its Best since 2010]]></title>
-            <description><![CDATA[<article><h1>The Gold Standard: Bitcoin Price Stability at its Best since 2010</h1><p>The last 24 days mark the longest period in which bitcoin prices have been less volatile than gold prices, going back to 2010, according to The Wall Street Journal. Some see this as a sign of investor perception of bitcoin as a safe store of value. ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/424fe7ad88c1ab7f7e225454742bdb00eba370cd.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/the-gold-standard-bitcoin-price-stability-at-its-best-since-2010/</link>
-            <guid isPermaLink="false">d7f1e3be-b3bb-45ef-a356-702dfccce192</guid>
             <pubDate>Wed, 20 Apr 2016 13:20:50 GMT</pubDate>
         </item>
     </channel>
