@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 01:50:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 01:50:29 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Watch; Here's What's on Tonight - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Watch; Here's What's on Tonight - NEWSBTC</h1><p>Here's what were looking at tonight in the bitcoin price for our breakout strategy. In this morning's bitcoin price watch piece, our primary focus was on the upside momentum we saw throughout the evening and Asian session on Tuesday, and how we could interpret this action as far as gaining insight into today's volatility was concerned.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71d1db1f3ffe548ef591d72b704df0ecb68d5b27.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/20/bitcoin-price-watch-heres-whats-tonight-2-2/</link>
+            <guid isPermaLink="false">7fc04763-c48b-4e18-af87-e19f7f6c7d3a</guid>
+            <pubDate>Thu, 21 Apr 2016 01:49:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[E-Commerce is Booming in India, Bitcoin is the Future]]></title>
+            <description><![CDATA[<article><h1>E-Commerce is Booming in India, Bitcoin is the Future</h1><p>This is the year that eCommerce will see big development in India. Morgan Stanley Research reports a 50% increase from last year. They rank India as the 10th largest economy in the world, with a forecasted GDP growth of around 5.5%.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9fbc28efee5c4989d5d3f847efd3a3cee60089bb.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/e-commerce-is-booming-in-india-bitcoin-is-the-future</link>
+            <guid isPermaLink="false">eba421cd-74f7-4842-b274-4a1f482657d5</guid>
+            <pubDate>Thu, 21 Apr 2016 01:49:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Netflix Competitor Crackle Is Banking on a Show About Bitcoin, er, GenCoin]]></title>
             <description><![CDATA[<article><h1>Netflix Competitor Crackle Is Banking on a Show About Bitcoin, er, GenCoin</h1><p>Right, OK, so let's get this out of the way. There's a new gritty TV drama about bitcoin-except it's called GenCoin, it stars Adam Brody, it's called StartUp because of course it is, it's a Crackle Original™, and the first trailer is out today, which is also 4/20.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c267ac66816ba65b96da079dee9d93bfb3f1af44.png"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Breakout?</h1><p>Bitcoin price pushed to a new high at resistance today, and we have to ask: Why another high when your bitcoins are fundamentally threatened? This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member? Join now and receive a $29 discount using the code CCN29.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/848e82e6574bea954cc600a6f0d7dbb8330b003f.png"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/bitcoin-price-breakout-4/</link>
             <guid isPermaLink="false">387b0c89-2dad-4f7b-b491-b1389c8814b6</guid>
-            <pubDate>Wed, 20 Apr 2016 16:49:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using PHP with RPC and cookie]]></title>
-            <description><![CDATA[<article><h1>Using PHP with RPC and cookie</h1><p>Since 0.12 RPC uses a "random cookie":https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-0.12.0.md#rpc-random-cookie-rpc-authentication for authentication, but it's not ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/43769/using-php-with-rpc-and-cookie</link>
-            <guid isPermaLink="false">02a91666-bc66-43e1-85c2-ff23d79d7ddf</guid>
-            <pubDate>Wed, 20 Apr 2016 16:49:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Core 0.12.1 Released, Focus on Block Size Scalability - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Core 0.12.1 Released, Focus on Block Size Scalability - Bitcoinist.net</h1><p>Bitcoin Core has announced the release of a new update, Bitcoin Core 0.12.1. Focusing on scalability, this follows the "Capacity Increases Roadmap" they detailed December 23rd of last year, with Aprils focus to "deploy segregated witness (including Blocksize increase)" according to the table taken from the Bitcoin Core website below.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/460523dcd347b61401a8a8800f4f5920ba9a5842.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/bitcoin-core-0-12-1-released/</link>
-            <guid isPermaLink="false">6a7be576-3f09-463a-be87-d231e0201291</guid>
             <pubDate>Wed, 20 Apr 2016 16:49:20 GMT</pubDate>
         </item>
     </channel>
