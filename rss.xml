@@ -4,29 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 01:50:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 01:50:19 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[E-Commerce is Booming in India, Bitcoin is the Future]]></title>
-            <description><![CDATA[<article><h1>E-Commerce is Booming in India, Bitcoin is the Future</h1><p>This is the year that eCommerce will see big development in India. Morgan Stanley Research reports a 50% increase from last year. They rank India as the 10th largest economy in the world, with a forecasted GDP growth of around 5.5%.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9fbc28efee5c4989d5d3f847efd3a3cee60089bb.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/e-commerce-is-booming-in-india-bitcoin-is-the-future</link>
-            <guid isPermaLink="false">eba421cd-74f7-4842-b274-4a1f482657d5</guid>
-            <pubDate>Thu, 21 Apr 2016 01:49:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netflix Competitor Crackle Is Banking on a Show About Bitcoin, er, GenCoin]]></title>
-            <description><![CDATA[<article><h1>Netflix Competitor Crackle Is Banking on a Show About Bitcoin, er, GenCoin</h1><p>Right, OK, so let's get this out of the way. There's a new gritty TV drama about bitcoin-except it's called GenCoin, it stars Adam Brody, it's called StartUp because of course it is, it's a Crackle Original™, and the first trailer is out today, which is also 4/20.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c267ac66816ba65b96da079dee9d93bfb3f1af44.png"></article>]]></description>
-            <link>http://motherboard.vice.com/read/netflix-competitor-crackle-sony-banking-show-about-bitcoin-startup</link>
-            <guid isPermaLink="false">ddd38dad-794b-42ca-8f31-91330971fdf3</guid>
-            <pubDate>Thu, 21 Apr 2016 01:49:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[P2P Money Transfer Firm CEO: Bitcoin Is Dead]]></title>
-            <description><![CDATA[<article><h1>P2P Money Transfer Firm CEO: Bitcoin Is Dead</h1><p>It has been said plenty of times in the past and it'll be said again in the future. Taavet Hinrikus, CEO of TransferWise, a popular peer-to-peer international money transfer service has stated that bitcoin, is dead. TransferWise is a prominent player in the Fintech space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0078987d0626d79023a0c02b8d5c7cce7b91c7ae.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/p2p-money-transfer-firm-ceo-bitcoin-dead/</link>
-            <guid isPermaLink="false">5c809030-fd58-413a-a32d-f67b014e4330</guid>
-            <pubDate>Thu, 21 Apr 2016 01:49:44 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[International bitcoin survey promises big rewards for participants]]></title>
             <description><![CDATA[<article><h1>International bitcoin survey promises big rewards for participants</h1><p>Irish bitcoin publication BitcoinsInIreland.com has launched its second annual international bitcoin survey, examining bitcoin use and the experiences of bitcoin and blockchain users worldwide. The survey, launched today and running until 30 June, will ask participants about their interest in bitcoin and their experience with bitcoin wallets, trading and mining, as well as their usage of bitcoin faucets - reward systems that provide users with free bitcoin for completing tasks - and bitcoin gambling service providers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1701a8c4c34d026ff02edcc07ad35d96702f637.jpg"></article>]]></description>
@@ -75,6 +54,27 @@
             <link>http://bitcoin.stackexchange.com/questions/43769/using-php-with-rpc-and-cookie</link>
             <guid isPermaLink="false">02a91666-bc66-43e1-85c2-ff23d79d7ddf</guid>
             <pubDate>Wed, 20 Apr 2016 16:49:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Core 0.12.1 Released, Focus on Block Size Scalability - Bitcoinist.net]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Core 0.12.1 Released, Focus on Block Size Scalability - Bitcoinist.net</h1><p>Bitcoin Core has announced the release of a new update, Bitcoin Core 0.12.1. Focusing on scalability, this follows the "Capacity Increases Roadmap" they detailed December 23rd of last year, with Aprils focus to "deploy segregated witness (including Blocksize increase)" according to the table taken from the Bitcoin Core website below.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/460523dcd347b61401a8a8800f4f5920ba9a5842.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/bitcoin-core-0-12-1-released/</link>
+            <guid isPermaLink="false">6a7be576-3f09-463a-be87-d231e0201291</guid>
+            <pubDate>Wed, 20 Apr 2016 16:49:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Facebook considers 'tip jar' proposal as part of push to monetise posts]]></title>
+            <description><![CDATA[<article><h1>Facebook considers 'tip jar' proposal as part of push to monetise posts</h1><p>Facebook is considering the introduction of a virtual "tip jar", so users can tip small amounts of money to the pages and people they like most. The proposal is one of several the company is consulting with users on, according to the Verge's Casey Newton, who received a survey detailing the options.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f943d738cb4e163281bd635392aadde3d0245cf7.jpg"></article>]]></description>
+            <link>https://www.theguardian.com/technology/2016/apr/20/facebook-considers-tip-jar-proposal-monetise-posts</link>
+            <guid isPermaLink="false">88be97ca-6628-487a-bbce-f0b961294d65</guid>
+            <pubDate>Wed, 20 Apr 2016 16:49:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Technical Analysis for 04/20/2016 - Upside Breakout, Where to Next? - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 04/20/2016 - Upside Breakout, Where to Next? - NEWSBTC</h1><p>Bitcoin price broke out of its short-term consolidation pattern and is eyeing further upside, possibly until the long-term channel resistance. Bitcoin Price Key Highlights Bitcoin price broke out of its short-term consolidation pattern and is eyeing further upside, possibly until the long-term channel resistance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54899f1bd78ac8f3bea8e439b5314437f81d3190.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/20/bitcoin-price-technical-analysis-04202016-upside-breakout-next/</link>
+            <guid isPermaLink="false">7918e1eb-3279-4d0a-bd0e-ede7ce89226f</guid>
+            <pubDate>Wed, 20 Apr 2016 13:20:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
