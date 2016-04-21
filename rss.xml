@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 14:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 14:25:37 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Watch; More Upside Today? - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Watch; More Upside Today? - NEWSBTC</h1><p>Here's what we are looking at in today's bitcoin price, European morning session on Wednesday Once again, let's kick things of with a chart. The chart below shows the action we saw in the bitcoin price across the Wednesday evening session, and has the range we defined as being the one to watch across the session overlaid.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/595469515998623f4a9a6c4706bddc17/croprotate.png?cropheight=658&cropwidth=1061&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F04%2F21090403%2FScreen-Shot-2016-04-21-at-09.48.53.png&x=1&y=0"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/21/bitcoin-price-watch-upside-today/</link>
+            <guid isPermaLink="false">c329ba66-f184-42c4-bd41-afde092f2b2a</guid>
+            <pubDate>Thu, 21 Apr 2016 14:24:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[10% of Americans Used Bitcoin to Ignore Identity Theft]]></title>
             <description><![CDATA[<article><h1>10% of Americans Used Bitcoin to Ignore Identity Theft</h1><p>Using cash or checks more often is another great way to avoid the majority of identity theft threats, although any paper trail is still a line of breadcrumbs waiting to be used maliciously. Bitcoin is often referred to as a way to avoid taxes and conduct illegal activity online.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ca70499b66d28e02cc64d08378a83702357a098.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Unlicensed Bitcoin Exchange Operators Plead Guilty in Louisiana - CoinDesk</h1><p>A Louisiana man and his son have plead guilty to running an unlicensed bitcoin exchange, the US Department of Justice said today. According to the Justice Department, Randall Lord and his son, Michael, plead guilty to one count of conspiracy to operate an unlicensed money services business.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a8358d65d7ab26b4a89bcb8ce2709f8ab8d3e95.jpg"></article>]]></description>
             <link>http://www.coindesk.com/men-plead-guilty-running-unlicensed-bitcoin-exchange/</link>
             <guid isPermaLink="false">a93df4ab-6a50-4b31-9189-535aacb18b23</guid>
-            <pubDate>Thu, 21 Apr 2016 01:49:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MIT ChainAnchor - Bribing Miners to Regulate Bitcoin]]></title>
-            <description><![CDATA[<article><h1>MIT ChainAnchor - Bribing Miners to Regulate Bitcoin</h1><p>Based on the information I have available to me, it appears that the MIT ChainAnchor Project is in part an attempt to get Bitcoin users to register their real world identities and associate their transactions with those identities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e93a27c375c1bdba79b2cc6065ac5d092a832b73.png"></article>]]></description>
-            <link>https://petertodd.org/2016/mit-chainanchor-bribing-miners-to-regulate-bitcoin</link>
-            <guid isPermaLink="false">b7e9d33d-03f6-4bca-b405-946d1ed504e8</guid>
             <pubDate>Thu, 21 Apr 2016 01:49:44 GMT</pubDate>
         </item>
     </channel>
