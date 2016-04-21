@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 03:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 14:25:36 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[10% of Americans Used Bitcoin to Ignore Identity Theft]]></title>
+            <description><![CDATA[<article><h1>10% of Americans Used Bitcoin to Ignore Identity Theft</h1><p>Using cash or checks more often is another great way to avoid the majority of identity theft threats, although any paper trail is still a line of breadcrumbs waiting to be used maliciously. Bitcoin is often referred to as a way to avoid taxes and conduct illegal activity online.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ca70499b66d28e02cc64d08378a83702357a098.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/21/10-americans-used-bitcoin-ignore-identity-theft/</link>
+            <guid isPermaLink="false">772ef96e-db3c-42e4-a8ac-1fe5f48aab7c</guid>
+            <pubDate>Thu, 21 Apr 2016 14:24:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[JSON-RPC Connection Problem!]]></title>
             <description><![CDATA[<article><h1>JSON-RPC Connection Problem!</h1><p>I use bitcoind. And I have simple bitcoin wallet with simple login-register system. Error Code; Fatal error: Uncaught exception 'Exception' with message 'Incorrect response id (request id: 1, res...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>MIT ChainAnchor - Bribing Miners to Regulate Bitcoin</h1><p>Based on the information I have available to me, it appears that the MIT ChainAnchor Project is in part an attempt to get Bitcoin users to register their real world identities and associate their transactions with those identities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e93a27c375c1bdba79b2cc6065ac5d092a832b73.png"></article>]]></description>
             <link>https://petertodd.org/2016/mit-chainanchor-bribing-miners-to-regulate-bitcoin</link>
             <guid isPermaLink="false">b7e9d33d-03f6-4bca-b405-946d1ed504e8</guid>
-            <pubDate>Thu, 21 Apr 2016 01:49:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Splitting one bitcoin between two people]]></title>
-            <description><![CDATA[<article><h1>Splitting one bitcoin between two people</h1><p>I am quite new to Bitcoins. I have a doubt. Lets say I person A, have 1 Bitcoin with me, I want to send .5 BTC to person B and .5 BTC to person C in a single transaction. Is it possible to do wit...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/43785/splitting-one-bitcoin-between-two-people</link>
-            <guid isPermaLink="false">f346be78-d455-45d9-a93f-43da7a619299</guid>
             <pubDate>Thu, 21 Apr 2016 01:49:44 GMT</pubDate>
         </item>
     </channel>
