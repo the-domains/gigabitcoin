@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 21:59:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 21:59:53 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[MIT Responds to Bitcoin Developer Concerns Over 'ChainAnchor' Research - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>MIT Responds to Bitcoin Developer Concerns Over 'ChainAnchor' Research - CoinDesk</h1><p>A blockchain project being developed by MIT researchers gained new attention this week following criticism of its alleged design elements, though the veracity of these claims has been denied by those involved. The inciting incident came on 21st April, when Bitcoin Core developer and blockchain consultant Peter Todd posted what he positioned as "leaked copies" of documents relating to an MIT Connection Science research project called ChainAnchor.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d482f531975461a3b2980acc2465b723242f9ef3.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/mit-dismisses-bitcoin-developer-criticism-project-proposal/</link>
-            <guid isPermaLink="false">13091ad5-0138-4be0-92bf-ac46bb8d3e07</guid>
-            <pubDate>Thu, 21 Apr 2016 21:59:52 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Updated Claymore Dual Ethereum and Decred Miner for AMD GPUs]]></title>
             <description><![CDATA[<article><h1>Updated Claymore Dual Ethereum and Decred Miner for AMD GPUs</h1><p>Claymore has been quite active in further developing his dual miner for AMD OpenCL GPUs intended to mine both Ethereum (ETH) and Decred (DCR) since our initial post about his first release a few days ago.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/77150d35495bb10e41267aa8d9894c13ec6888b7.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Bitcoin Price Watch; More Upside Today? - NEWSBTC</h1><p>Here's what we are looking at in today's bitcoin price, European morning session on Wednesday Once again, let's kick things of with a chart. The chart below shows the action we saw in the bitcoin price across the Wednesday evening session, and has the range we defined as being the one to watch across the session overlaid.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/595469515998623f4a9a6c4706bddc17/croprotate.png?cropheight=658&cropwidth=1061&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F04%2F21090403%2FScreen-Shot-2016-04-21-at-09.48.53.png&x=1&y=0"></article>]]></description>
             <link>http://www.newsbtc.com/2016/04/21/bitcoin-price-watch-upside-today/</link>
             <guid isPermaLink="false">c329ba66-f184-42c4-bd41-afde092f2b2a</guid>
+            <pubDate>Thu, 21 Apr 2016 14:24:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10% of Americans Used Bitcoin to Ignore Identity Theft]]></title>
+            <description><![CDATA[<article><h1>10% of Americans Used Bitcoin to Ignore Identity Theft</h1><p>Using cash or checks more often is another great way to avoid the majority of identity theft threats, although any paper trail is still a line of breadcrumbs waiting to be used maliciously. Bitcoin is often referred to as a way to avoid taxes and conduct illegal activity online.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ca70499b66d28e02cc64d08378a83702357a098.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/21/10-americans-used-bitcoin-ignore-identity-theft/</link>
+            <guid isPermaLink="false">772ef96e-db3c-42e4-a8ac-1fe5f48aab7c</guid>
             <pubDate>Thu, 21 Apr 2016 14:24:51 GMT</pubDate>
         </item>
     </channel>
