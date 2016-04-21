@@ -4,8 +4,43 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 14:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 21:59:54 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MIT Responds to Bitcoin Developer Concerns Over 'ChainAnchor' Research - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>MIT Responds to Bitcoin Developer Concerns Over 'ChainAnchor' Research - CoinDesk</h1><p>A blockchain project being developed by MIT researchers gained new attention this week following criticism of its alleged design elements, though the veracity of these claims has been denied by those involved. The inciting incident came on 21st April, when Bitcoin Core developer and blockchain consultant Peter Todd posted what he positioned as "leaked copies" of documents relating to an MIT Connection Science research project called ChainAnchor.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d482f531975461a3b2980acc2465b723242f9ef3.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/mit-dismisses-bitcoin-developer-criticism-project-proposal/</link>
+            <guid isPermaLink="false">13091ad5-0138-4be0-92bf-ac46bb8d3e07</guid>
+            <pubDate>Thu, 21 Apr 2016 21:59:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Updated Claymore Dual Ethereum and Decred Miner for AMD GPUs]]></title>
+            <description><![CDATA[<article><h1>Updated Claymore Dual Ethereum and Decred Miner for AMD GPUs</h1><p>Claymore has been quite active in further developing his dual miner for AMD OpenCL GPUs intended to mine both Ethereum (ETH) and Decred (DCR) since our initial post about his first release a few days ago.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/77150d35495bb10e41267aa8d9894c13ec6888b7.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7768-updated-claymore-dual-ethereum-and-decred-miner-for-amd-gpus/</link>
+            <guid isPermaLink="false">fb169660-0149-4338-b73c-4b42d7c38d76</guid>
+            <pubDate>Thu, 21 Apr 2016 21:59:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Malware Mines Bitcoin via Victims' CPUs and GPUs]]></title>
+            <description><![CDATA[<article><h1>New Malware Mines Bitcoin via Victims' CPUs and GPUs</h1><p>Palo Alto Networks has discovered a unique malware family that can mine bitcoins via the victim's CPUs and GPUs. The malware, called PWOBot, is completely written in Python and compiled via PyInstaller, generating a Microsoft Windows executable, according to a Palo Alto Networks posting. The malware has affected European organizations, mainly in Poland.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a210b047f16c5fde61c7ef9b99f1cbf05c73f11.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/new-malware-mines-bitcoin/</link>
+            <guid isPermaLink="false">2167f818-6e01-440b-b1a8-c603ed80d8ba</guid>
+            <pubDate>Thu, 21 Apr 2016 14:24:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Crypto Show with Cody Wilson, Drew Phillips of Bitcoin Not Bombs and Jonathan Mohan]]></title>
+            <description><![CDATA[<article><h1>The Crypto Show with Cody Wilson, Drew Phillips of Bitcoin Not Bombs and Jonathan Mohan</h1><p>We talk with Cody Wilson and Drew Phillips about Open Bazar and the American Black Cross as well as Jonathan Mohan about Peter Todd's take on Chain Anchors announced on Reddit. Original air date 4/20/16 on LogosRadioNetwork Sponsored by Bitcoin.com & CryptoCompare.com Links: http://TheCryptoShow.com http://FreeRoss.org http://agoristhosting.com http://Defdist.org http://CryptoCompare.com http://Bitcoin.com http://Facebook.com/thecryptoshow @TheCryptoShow & @The_...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/407fa29d81d156113b90cec064c49e881850ca51.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/the-crypto-show-with-cody-wilson-drew-phillips-of-bitcoin-not-bombs-and-jonathan-mohan</link>
+            <guid isPermaLink="false">35bb55ed-bb62-41b9-ae87-f96e7033d5c9</guid>
+            <pubDate>Thu, 21 Apr 2016 14:24:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CryptXXX set to become the worst bitcoin-stealing ransomware yet]]></title>
+            <description><![CDATA[<article><h1>CryptXXX set to become the worst bitcoin-stealing ransomware yet</h1><p>Bitcoin has a new and potentially considerable threat to its reputation, if California cybersecurity firm Proofpoint is correct. Last week, the company warned that a previously undocumented ransomware sample that they found, CryptXXX, would not only be encrypting files locally and on all mounted drives, "it's stealing Bitcoins and a large range of other data."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5989507e0358f6185a5d699d9fe9c2fe641e27e.jpg"></article>]]></description>
+            <link>http://bravenewcoin.com/news/cryptxxx-set-to-become-the-worst-bitcoin-stealing-ransomware-yet/</link>
+            <guid isPermaLink="false">369d341a-9ab9-45a2-bb9e-c172e84538fe</guid>
+            <pubDate>Thu, 21 Apr 2016 14:24:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Duo Search]]></title>
             <description><![CDATA[<article><h1>Duo Search</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e7a2ed483182884b751a2eec60fb0c03cb82519.png"></article>]]></description>
@@ -40,41 +75,6 @@
             <link>http://www.newsbtc.com/2016/04/21/bitcoin-price-watch-upside-today/</link>
             <guid isPermaLink="false">c329ba66-f184-42c4-bd41-afde092f2b2a</guid>
             <pubDate>Thu, 21 Apr 2016 14:24:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10% of Americans Used Bitcoin to Ignore Identity Theft]]></title>
-            <description><![CDATA[<article><h1>10% of Americans Used Bitcoin to Ignore Identity Theft</h1><p>Using cash or checks more often is another great way to avoid the majority of identity theft threats, although any paper trail is still a line of breadcrumbs waiting to be used maliciously. Bitcoin is often referred to as a way to avoid taxes and conduct illegal activity online.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ca70499b66d28e02cc64d08378a83702357a098.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/21/10-americans-used-bitcoin-ignore-identity-theft/</link>
-            <guid isPermaLink="false">772ef96e-db3c-42e4-a8ac-1fe5f48aab7c</guid>
-            <pubDate>Thu, 21 Apr 2016 14:24:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JSON-RPC Connection Problem!]]></title>
-            <description><![CDATA[<article><h1>JSON-RPC Connection Problem!</h1><p>I use bitcoind. And I have simple bitcoin wallet with simple login-register system. Error Code; Fatal error: Uncaught exception 'Exception' with message 'Incorrect response id (request id: 1, res...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/43775/json-rpc-connection-problem</link>
-            <guid isPermaLink="false">ba081ec9-235d-4eae-a746-99973240af96</guid>
-            <pubDate>Thu, 21 Apr 2016 03:22:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I bough 1BTC and the transaction was instantaneously, how?]]></title>
-            <description><![CDATA[<article><h1>I bough 1BTC and the transaction was instantaneously, how?</h1><p>So I went to localbitcoin, I met a random guy at a starbucks gave him the money and he transfered 1BTC with his cellphone to my blockchain.info account, I though I would have to wait at very least 10</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/43791/i-bough-1btc-and-the-transaction-was-instantaneously-how</link>
-            <guid isPermaLink="false">bd57a6d6-287c-49a7-add2-7fbbe4496384</guid>
-            <pubDate>Thu, 21 Apr 2016 03:22:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Here's What's on Tonight - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Here's What's on Tonight - NEWSBTC</h1><p>Here's what were looking at tonight in the bitcoin price for our breakout strategy. In this morning's bitcoin price watch piece, our primary focus was on the upside momentum we saw throughout the evening and Asian session on Tuesday, and how we could interpret this action as far as gaining insight into today's volatility was concerned.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71d1db1f3ffe548ef591d72b704df0ecb68d5b27.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/20/bitcoin-price-watch-heres-whats-tonight-2-2/</link>
-            <guid isPermaLink="false">7fc04763-c48b-4e18-af87-e19f7f6c7d3a</guid>
-            <pubDate>Thu, 21 Apr 2016 01:49:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[E-Commerce is Booming in India, Bitcoin is the Future]]></title>
-            <description><![CDATA[<article><h1>E-Commerce is Booming in India, Bitcoin is the Future</h1><p>This is the year that eCommerce will see big development in India. Morgan Stanley Research reports a 50% increase from last year. They rank India as the 10th largest economy in the world, with a forecasted GDP growth of around 5.5%.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9fbc28efee5c4989d5d3f847efd3a3cee60089bb.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/e-commerce-is-booming-in-india-bitcoin-is-the-future</link>
-            <guid isPermaLink="false">eba421cd-74f7-4842-b274-4a1f482657d5</guid>
-            <pubDate>Thu, 21 Apr 2016 01:49:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
