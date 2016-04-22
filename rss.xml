@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 21:09:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 21:09:13 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[This Bitcoin Developer Is Working Hard to Prepare Projects for Segregated Witness]]></title>
-            <description><![CDATA[<article><h1>This Bitcoin Developer Is Working Hard to Prepare Projects for Segregated Witness</h1><p>Nicolas Dorier is the main developer behind NBitcoin, which is a comprehensive Bitcoin library for the .NET framework. NBitcoin is used in the backend of multiple Bitcoin services such as Lykke, BitKong, Teambrella and BTCTrader.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e07d9472eb1f21441a27e85306689c205d8a2b3.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/this-bitcoin-developer-is-working-hard-to-prepare-projects-for-segregated-witness-1461340309</link>
-            <guid isPermaLink="false">6cb49627-e2ac-440f-ad2e-550d23fd983e</guid>
-            <pubDate>Fri, 22 Apr 2016 21:08:40 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Error when trying to use OP_CHECKSEQUENCEVERIFY from bip112 on testnet]]></title>
             <description><![CDATA[<article><h1>Error when trying to use OP_CHECKSEQUENCEVERIFY from bip112 on testnet</h1><p>When I try to spend an utxo sent to a pay to script hash, with the script 5 OP_CHECKSEQUENCEVERIFY OP_DROP OP_PUBKEY OP_CHECKSIG I get the following error. Any help would be greatly appreciated. $ ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://bitcoin.stackexchange.com/questions/43811/bitcoin-boom-and-bust-inherent-instability-of-bitcoin</link>
             <guid isPermaLink="false">d9603405-8bac-4cca-b330-e4055c04d594</guid>
             <pubDate>Fri, 22 Apr 2016 14:49:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Analysis: 4/22/2016]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Analysis: 4/22/2016</h1><p>The structure of the upward Bitcoin trend is close to its completion. Whether the price will fortify or form a turn to decline will only become apparent after the market reacts to the key levels. Without fortifying at a key level of $442, Bitcoin's price has continued forming an upward trend.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f3b8339ab6c3f452b17cc290a340d62fa91d7e1.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/bitcoin-price-analysis-4222016</link>
+            <guid isPermaLink="false">7f2ab376-da5a-406d-b058-055e5a7c0abb</guid>
+            <pubDate>Fri, 22 Apr 2016 14:14:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
