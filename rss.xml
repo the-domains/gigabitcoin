@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 14:51:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 14:50:46 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Cashila Aims to Enable Total Bitcoin Dependency with Instant Repurchases]]></title>
-            <description><![CDATA[<article><h1>Cashila Aims to Enable Total Bitcoin Dependency with Instant Repurchases</h1><p>Cashila, a bitcoin payment and bitcoin-to-euro conversion service, has partnered with Bitnik Reload, a Slovenian bitcoin service that automatically repurchases spent bitcoin from exchanges. The partnership will allow people to live truly on bitcoin, according to Jani Valjavec, co-founder of Cashila.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b6ae02462ee81a442a29fcb763af342546cf95c.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/cashilla-bitcoin-instant-repurchases/</link>
-            <guid isPermaLink="false">7759bbfe-88b4-4e47-834d-0f09389f4c44</guid>
-            <pubDate>Fri, 22 Apr 2016 14:49:36 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Can a transaction have more than one recipient?]]></title>
             <description><![CDATA[<article><h1>Can a transaction have more than one recipient?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top I am quite new to Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Sex syndicates, arms dealers, drug traders in Indias Bitcoin bazaar</h1><p>The digital currency Bitcoin is on the radar of India's security and intelligence agencies with sex syndicates, arms and drugs traders and even terrorist groups preferring it as a medium of exchange over cold, hard cash. The Centre has asked authorities to keep a close watch on the maverick payment tool with near anonymity built into its system that makes it ideal for criminals.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8a3f6ea88f7971d05657df73950ea25952bd76c.jpg"></article>]]></description>
             <link>http://indiatoday.intoday.in/story/sex-syndicates-arms-dealers-drug-traders-in-indias-bitcoin-bazaar/1/648652.html</link>
             <guid isPermaLink="false">a52a8895-881b-4507-bd56-f3214edf40c1</guid>
+            <pubDate>Fri, 22 Apr 2016 13:19:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BitPay Integrates Coinbase to Simplify Bitcoin Trading]]></title>
+            <description><![CDATA[<article><h1>BitPay Integrates Coinbase to Simplify Bitcoin Trading</h1><p>Rather than storing their Bitcoin funds on the Coinbase platform itself, users can transfer the funds to CoPay and still enjoy all of the functionality offered by the exchange itself. BitPay has made it a bit more convenient for users to buy and sell Bitcoin through their Copay wallet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9427c9604a3f34477726e8fa42e2156664827fc3.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/22/bitpay-enables-bitcoin-trading-using-coinbase-account/</link>
+            <guid isPermaLink="false">2b2565b2-507b-4a89-9556-64e8fa653468</guid>
             <pubDate>Fri, 22 Apr 2016 13:19:51 GMT</pubDate>
         </item>
     </channel>
