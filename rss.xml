@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 14:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 14:50:02 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin boom and bust - Inherent instability of Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Bitcoin boom and bust - Inherent instability of Bitcoin</h1><p>I'd like to put the a question to the community regarding the inherent stability/instability of Bitcoin. I hope it's not off-topic since it's more a economics-type question. So, here's the scenario...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43811/bitcoin-boom-and-bust-inherent-instability-of-bitcoin</link>
+            <guid isPermaLink="false">d9603405-8bac-4cca-b330-e4055c04d594</guid>
+            <pubDate>Fri, 22 Apr 2016 14:49:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Analysis: 4/22/2016]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Analysis: 4/22/2016</h1><p>The structure of the upward Bitcoin trend is close to its completion. Whether the price will fortify or form a turn to decline will only become apparent after the market reacts to the key levels. Without fortifying at a key level of $442, Bitcoin's price has continued forming an upward trend.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f3b8339ab6c3f452b17cc290a340d62fa91d7e1.jpg"></article>]]></description>
@@ -66,13 +73,6 @@
             <description><![CDATA[<article><h1>JPMorgan Hack Link To Bitcoin Bribery Case | PYMNTS.com</h1><p>Generally, when court documents are unsealed, you can discover some pretty juicy details. When the case involves a global hacking, those details can be borderline salacious. In this case, they were that, and at the end of that trail, we even found a few bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a96a32d2ab2928e69a5534902ce2b7704bdcc6f7.jpg"></article>]]></description>
             <link>http://www.pymnts.com/news/bitcoin-tracker/2016/jpmorgan-hack-indictment-unearths-bitcoin-bribery-link/</link>
             <guid isPermaLink="false">3c00c4e9-e754-4c2a-9248-f548a10ba06a</guid>
-            <pubDate>Fri, 22 Apr 2016 13:19:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Father-Son Duo Plead Guilty to Running Unlicensed Bitcoin Exchange]]></title>
-            <description><![CDATA[<article><h1>Father-Son Duo Plead Guilty to Running Unlicensed Bitcoin Exchange</h1><p>An announcement from the U.S. Department of Justice revealed that Randall Lord, 58 and his son Michael Lord, 29, both from Shreveport, Louisiana, plead guilty to one count of conspiracy to operate an unlicensed money servicing business. In addition to the charge, Michael Lord also pleaded guilty to one count of agreeing to distribute Schedule IV controlled drug and anti-anxiety medication alprazolam.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c396272ead4cc6cd7d6e4eb52dd47aeef7df7108.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/duo-guilty-unlicensed-bitcoin-exchange/</link>
-            <guid isPermaLink="false">fd1de75c-0a8d-4463-9500-5fda034f842f</guid>
             <pubDate>Fri, 22 Apr 2016 13:19:50 GMT</pubDate>
         </item>
     </channel>
