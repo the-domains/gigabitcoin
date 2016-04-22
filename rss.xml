@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 01:31:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 02:30:30 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Q&A: Do alt-coins threaten to replace bitcoin?]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Q&A: Do alt-coins threaten to replace bitcoin?</h1><p>In this Q&A snippet, Andreas discusses the competition between bitcoin and other crypto-currencies, also looking at the historical possibility that the brand...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2eae33facd24e76b1ef0f5c1041413544995fa7.jpg"></article>]]></description>
+            <link>http://www.youtube.com/watch?v=w-V_5EWyU5c</link>
+            <guid isPermaLink="false">450351fb-86c0-4ec0-acbd-dc8968558284</guid>
+            <pubDate>Fri, 22 Apr 2016 02:30:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coming soon to Steam: Bitcoin payment support!]]></title>
+            <description><![CDATA[<article><h1>Coming soon to Steam: Bitcoin payment support!</h1><p>In an announcement sent today to publishers on Valve Corporation's Steam video game delivery platform the company again confirmed that it will soon be accepting Bitcoin. This isn't the first time that expectations have risen about Steam beginning to accept bitcoins for videogames, but it is the first time official messaging follows.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b69795fb77caff1e092321a05fab99e68e8271f8.jpg"></article>]]></description>
+            <link>http://siliconangle.com/blog/2016/04/21/coming-soon-to-steam-bitcoin-payment-support/</link>
+            <guid isPermaLink="false">ba07395a-486b-4f8a-906e-d038cd9586f3</guid>
+            <pubDate>Fri, 22 Apr 2016 01:31:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Steam is reportedly planning to accept Bitcoin]]></title>
             <description><![CDATA[<article><h1>Steam is reportedly planning to accept Bitcoin</h1><p>Valve is preparing to implement Bitcoin support on Steam, numerous reports today suggest. The digital currency is likely to be a payment option quite soon, too, if screenshots taken from Steam's private developer forums are accurate. "We are excited to announce that Steam is going to start accepting payments via bitcoin," reads the announcement (via PCGamesN).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e39e421437019593c3c84f208f57dbea9d4312de.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Farewell! And May the Currency Competition Be With You</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09fc15f8f59cb96ba7808bb1165c1c1ad4f5543e.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=aggUPQH2rNc</link>
             <guid isPermaLink="false">f11346fa-7593-49a9-a197-11fba9ecb4d8</guid>
-            <pubDate>Thu, 21 Apr 2016 21:59:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Q&A: Coinbase CEO thinks Bitcoin offers much more promise than peril]]></title>
-            <description><![CDATA[<article><h1>Q&A: Coinbase CEO thinks Bitcoin offers much more promise than peril</h1><p>Posted: 04/21/2016 05:56:25 AM PDT Updated: 04/21/2016 07:09:19 AM PDT Brian Armstrong is a Bitcoin believer. Given half a chance, he'll talk unceasingly about the virtues of the virtual currency. He's so into Bitcoin that he takes his paycheck entirely in the virtual currency and has a special debit card that allows him to pay with Bitcoin -- indirectly at least -- when he goes to the mall.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05c375f1a0a8397ba4bf6a0ea78b9086e93080c0.jpg"></article>]]></description>
-            <link>http://www.mercurynews.com/bay-area-news/ci_29791175/q-coinbase-ceo-thinks-bitcoin-offers-much-more</link>
-            <guid isPermaLink="false">ebe8f74c-8d11-4748-a5d8-fb74c2b78fe8</guid>
-            <pubDate>Thu, 21 Apr 2016 21:59:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FBI Used Invalid Warrant To Infect Tor Website With Malware]]></title>
-            <description><![CDATA[<article><h1>FBI Used Invalid Warrant To Infect Tor Website With Malware</h1><p>Malware is a grave threat to computer users all over the world, and even law enforcement does not shy away from using this technique to hack Tor and obtain sensitive information. But at a recent Massachusetts court has determined, this method of acquiring evidence is not legal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0def312f23ffe4fa477507ecdeebb8100d21d31.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/fbi-used-invalid-warrant-to-infect-tor-website-with-malware/</link>
-            <guid isPermaLink="false">ef4e0957-5530-41f5-b732-97bd650c6651</guid>
             <pubDate>Thu, 21 Apr 2016 21:59:53 GMT</pubDate>
         </item>
     </channel>
