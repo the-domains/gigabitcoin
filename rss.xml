@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 18:50:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 18:50:50 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Steam to Accept Payments via Bitcoin in its Next Update]]></title>
+            <description><![CDATA[<article><h1>Steam to Accept Payments via Bitcoin in its Next Update</h1><p>The team behind Steam, a digital distribution platform developed by Valve Corporation offering digital rights management, multiplayer gaming and social networking services, has announced that the platform will officially begin to accept payments via bitcoin. CoinTelegraph has reached out to Bitpay for more information about their partnership with Steam.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c785fbb50f5dc69cd3c0ae7f009f6d96d4ae125.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/steam-to-accept-payments-via-bitcoin-in-its-next-update</link>
+            <guid isPermaLink="false">3504fddd-e2ab-4fb8-a578-4c2162743f3f</guid>
+            <pubDate>Sat, 23 Apr 2016 18:50:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Using the Coin Control Feature of Your GUI Qt Wallet]]></title>
             <description><![CDATA[<article><h1>Using the Coin Control Feature of Your GUI Qt Wallet</h1><p>Taking advantage of the Coin Control feature is something considered a bit more advanced, especially if you don't have built-in support in the specific crypto currency's GUI Qt wallet and have to use the console.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c79b6825b42007537bda703b68215d9eec68681d.jpg"></article>]]></description>
@@ -65,12 +72,6 @@
             <description><![CDATA[<article><h1>AG speech 27th April Virtual currencies</h1><p>MEP Antanas Guoga on virtual currencies at the IMCO committee at the European Parliament</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/28a684771542e7339c9de75a21e9efce1c455764.jpg"></article>]]></description>
             <link>https://youtu.be/jI95Dw3bmt4</link>
             <guid isPermaLink="false">27a4dab1-ce75-4369-bcbd-c7b22a1e1110</guid>
-            <pubDate>Sat, 23 Apr 2016 15:49:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://twitter.com/joerogan/status/723679883944071169</link>
-            <guid isPermaLink="false">023db899-00f9-4356-903c-c75e8c8bf644</guid>
             <pubDate>Sat, 23 Apr 2016 15:49:44 GMT</pubDate>
         </item>
     </channel>
