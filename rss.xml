@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 15:50:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 15:50:55 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Despite Naysayers, Rising Bitcoin Price Suggests the Digital Currency Is Alive and Well]]></title>
-            <description><![CDATA[<article><h1>Despite Naysayers, Rising Bitcoin Price Suggests the Digital Currency Is Alive and Well</h1><p>The rising price of Bitcoin, reaching $450 at press time, follows several months of steady growth in Bitcoin price and transaction volumes, growing trade activity, particularly in Russia and South America, and continued expansion in the mining industry, all suggesting that Bitcoin is here to stay.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/48c70aa1aab4d82d1962a5ded28cab8a7339b561.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/despite-naysayers-rising-bitcoin-price-suggests-the-digital-currency-is-alive-and-well-1461346768</link>
-            <guid isPermaLink="false">98b6437c-1d1f-4c10-bb97-468ce6847bb1</guid>
-            <pubDate>Sat, 23 Apr 2016 15:49:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Where is Gavin's AMA? * /r/Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Where is Gavin's AMA? * /r/Bitcoin</h1><p>Just curious how this isn't anywhere to be found on r/Bitcoin. Shouldn't the #2 guy after satoshi talking to Chinese miners be worth...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
-            <link>https://www.reddit.com/r/Bitcoin/comments/4fy557/where_is_gavins_ama/</link>
-            <guid isPermaLink="false">a3b6bd34-0bff-445f-b9bc-05381d6bb230</guid>
-            <pubDate>Sat, 23 Apr 2016 15:49:45 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://twitter.com/gavinandresen/status/723489899433717760</link>
@@ -72,6 +58,20 @@
             <link>http://bitcoinist.net/bitcoin-price-jump-endure/</link>
             <guid isPermaLink="false">4f02c8c7-d000-40bd-9695-9ed5b4161489</guid>
             <pubDate>Sat, 23 Apr 2016 15:49:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wired is wrong: we don't need to regulate Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Wired is wrong: we don't need to regulate Bitcoin</h1><p>WIRED contributor and faculty associate at the Berkman Center for Internet & Society at Harvard argues: as Bitcoin grows in popularity, it has to be regulated - but only once it is fully understood. This need for regulation, he says, springs from the risks Bitcoin introduces and opportunities its decentralized nature presents for tax-evasion and money-laundering.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f960b7904a3bdb8e86b2a25fc045129ad9e060e.jpg"></article>]]></description>
+            <link>https://tomasforgac.liberty.me/wired-is-wrong-we-dont-need-to-regulate-bitcoin/</link>
+            <guid isPermaLink="false">b02d45f0-eac9-4168-a65d-d2ffbfbb8cb8</guid>
+            <pubDate>Sat, 23 Apr 2016 15:49:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Valve Is Bringing New Bitcoin Payment Alternative for Steam]]></title>
+            <description><![CDATA[<article><h1>Valve Is Bringing New Bitcoin Payment Alternative for Steam</h1><p>Users now have a new currency to toy with</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/119ce0aa2e2a08ff0871794926c8d0b9219c6028.jpg"></article>]]></description>
+            <link>http://www.thecountrycaller.com/79217-valve-is-bringing-new-bitcoin-payment-alternative-for-steam/</link>
+            <guid isPermaLink="false">769eed6c-2a68-485e-b83f-fe0171f33774</guid>
+            <pubDate>Sat, 23 Apr 2016 15:49:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
