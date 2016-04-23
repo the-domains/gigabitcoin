@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 18:50:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 21:30:19 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Tatiana Show - Blake Miles Of The Green Beret Foundation And Adam House | Lets Talk Bitcoin]]></title>
+            <description><![CDATA[<article><h1>The Tatiana Show - Blake Miles Of The Green Beret Foundation And Adam House | Lets Talk Bitcoin</h1><p>Tatiana and Josh interview Blake Miles of The Green Beret Foundation and Adam House. Topics include paying taxes, Green Beret operations, social engineering within Bitcoin, war veterans with PTSD, and foreign policy. Blake Miles is a former Army Special Forces soldier who spent time at 1st Special Forces Group and 20th Special Forces Group between 2004 and 2008.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7451cb78ae47f0d7c88cf45cef460807b78cfbcc.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/the-tatiana-show-blake-miles-of-the-green-beret-foundation-and-adam-house</link>
+            <guid isPermaLink="false">758e3867-4617-41ff-a105-3995467da957</guid>
+            <pubDate>Sat, 23 Apr 2016 21:29:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Hodlminer AES-NI Wolf0 Optimized Miner Windows Binaries]]></title>
+            <description><![CDATA[<article><h1>New Hodlminer AES-NI Wolf0 Optimized Miner Windows Binaries</h1><p>We have compiled a new range of windows binaries of the hodlminer fork optimized by Wolf0 ( source) with support for Intel AES New Instruction set (AES-NI). This is the faster CPU miner for mining HOdlcoin (HODL) than the standard release for processors without AES-NI support.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f58138ef55c3df8d40e2c42dbb2f988379040a62.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7784-new-hodlminer-aes-ni-wolf0-optimized-miner-windows-binaries/</link>
+            <guid isPermaLink="false">2faae10b-1575-42f3-80d6-e8cf819de458</guid>
+            <pubDate>Sat, 23 Apr 2016 21:29:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Holding At $450]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Holding At $450</h1><p>This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member? Join now and receive a $29 discount using the code CCN29. Time of analysis: 14h00 UTC From the analysis pages of xbt.social, earlier today: Bitcoin price remains around $450 (Bitstamp) and 2900 CNY after advance halted at these levels yesterday.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed3f605a45d07bf09df5fa59fe16456c9640ba63.png"></article>]]></description>
@@ -58,20 +72,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://twitter.com/cnLedger/status/723156199777046529</link>
             <guid isPermaLink="false">0d143153-ba7c-4728-98fd-8792963d434d</guid>
-            <pubDate>Sat, 23 Apr 2016 15:49:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin's Big Boom: When Will Blockchain Go Mainstream?]]></title>
-            <description><![CDATA[<article><h1>Bitcoin's Big Boom: When Will Blockchain Go Mainstream?</h1><p>Gil Luria, Wedbush Securities technology analyst, discusses the rally in Bitcoin with Bloomberg's Joe Weisenthal and Scarlet Fu on "What'd You Miss?" (Source: Bloomberg)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/287486205d655a96e434de05a0525a92a660c2ba.jpg"></article>]]></description>
-            <link>http://www.bloomberg.com/news/videos/2016-04-22/bitcoin-s-big-boom-when-will-blockchain-go-mainstream</link>
-            <guid isPermaLink="false">782fba0d-c6cf-4cc8-a48b-964f18749b1d</guid>
-            <pubDate>Sat, 23 Apr 2016 15:49:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is the exact value of upcoming block rewards?]]></title>
-            <description><![CDATA[<article><h1>What is the exact value of upcoming block rewards?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Wrote a simple script that literally just halves 50 BTC (the initial block reward).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/43813/what-is-the-exact-value-of-upcoming-block-rewards</link>
-            <guid isPermaLink="false">229c1d24-c63e-41fe-acb0-c5e59c306815</guid>
             <pubDate>Sat, 23 Apr 2016 15:49:44 GMT</pubDate>
         </item>
     </channel>
