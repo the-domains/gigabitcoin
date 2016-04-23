@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 18:50:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 18:50:57 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Holding At $450]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Holding At $450</h1><p>This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member? Join now and receive a $29 discount using the code CCN29. Time of analysis: 14h00 UTC From the analysis pages of xbt.social, earlier today: Bitcoin price remains around $450 (Bitstamp) and 2900 CNY after advance halted at these levels yesterday.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed3f605a45d07bf09df5fa59fe16456c9640ba63.png"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-price-holding-450/</link>
+            <guid isPermaLink="false">8d33e7dd-527b-4725-90f4-974c687828d9</guid>
+            <pubDate>Sat, 23 Apr 2016 18:50:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Steam to Accept Payments via Bitcoin in its Next Update]]></title>
             <description><![CDATA[<article><h1>Steam to Accept Payments via Bitcoin in its Next Update</h1><p>The team behind Steam, a digital distribution platform developed by Valve Corporation offering digital rights management, multiplayer gaming and social networking services, has announced that the platform will officially begin to accept payments via bitcoin. CoinTelegraph has reached out to Bitpay for more information about their partnership with Steam.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c785fbb50f5dc69cd3c0ae7f009f6d96d4ae125.jpg"></article>]]></description>
@@ -65,13 +72,6 @@
             <description><![CDATA[<article><h1>What is the exact value of upcoming block rewards?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Wrote a simple script that literally just halves 50 BTC (the initial block reward).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/43813/what-is-the-exact-value-of-upcoming-block-rewards</link>
             <guid isPermaLink="false">229c1d24-c63e-41fe-acb0-c5e59c306815</guid>
-            <pubDate>Sat, 23 Apr 2016 15:49:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AG speech 27th April Virtual currencies]]></title>
-            <description><![CDATA[<article><h1>AG speech 27th April Virtual currencies</h1><p>MEP Antanas Guoga on virtual currencies at the IMCO committee at the European Parliament</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/28a684771542e7339c9de75a21e9efce1c455764.jpg"></article>]]></description>
-            <link>https://youtu.be/jI95Dw3bmt4</link>
-            <guid isPermaLink="false">27a4dab1-ce75-4369-bcbd-c7b22a1e1110</guid>
             <pubDate>Sat, 23 Apr 2016 15:49:44 GMT</pubDate>
         </item>
     </channel>
