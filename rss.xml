@@ -7,6 +7,12 @@
         <lastBuildDate>Sat, 23 Apr 2016 15:50:50 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://twitter.com/joerogan/status/723679883944071169</link>
+            <guid isPermaLink="false">023db899-00f9-4356-903c-c75e8c8bf644</guid>
+            <pubDate>Sat, 23 Apr 2016 15:49:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[TransferWise CEO Thinks Talking down Bitcoin Is a Good Business Strategy]]></title>
             <description><![CDATA[<article><h1>TransferWise CEO Thinks Talking down Bitcoin Is a Good Business Strategy</h1><p>Mike Hearn wrote a Medium post which went viral and was the topic of much debate in the Bitcoin world. In his opinion, the Bitcoin community was dead. He wrote: "[Bitcoin] has failed because the community has failed... Worse still, the network is on the brink of technical collapse."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38c59410ffd9486ffce62ae01ede22502c3c197b.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/transferwise-ceo-thinks-talking-bitcoin-good-business-strategy/</link>
@@ -67,13 +73,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Advance Halts At $450</h1><p>Bitcoin price achieved $450 (Bitstamp) and 2900 CNY (BTCC) overnight. Since then price has entered a pullback that appears incomplete at the time of writing. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member? Join now and receive a $29 discount using the code CCN29.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/77c3f850839300c80b4e69253af5fcfebe0e65ba.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/bitcoin-price-advance-halts-450/</link>
             <guid isPermaLink="false">2fb7e16c-fde4-42b9-987a-2c753d5dd448</guid>
-            <pubDate>Fri, 22 Apr 2016 21:08:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Bitcoin Developer Is Working Hard to Prepare Projects for Segregated Witness]]></title>
-            <description><![CDATA[<article><h1>This Bitcoin Developer Is Working Hard to Prepare Projects for Segregated Witness</h1><p>Nicolas Dorier is the main developer behind NBitcoin, which is a comprehensive Bitcoin library for the .NET framework. NBitcoin is used in the backend of multiple Bitcoin services such as Lykke, BitKong, Teambrella and BTCTrader.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e07d9472eb1f21441a27e85306689c205d8a2b3.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/this-bitcoin-developer-is-working-hard-to-prepare-projects-for-segregated-witness-1461340309</link>
-            <guid isPermaLink="false">6cb49627-e2ac-440f-ad2e-550d23fd983e</guid>
             <pubDate>Fri, 22 Apr 2016 21:08:40 GMT</pubDate>
         </item>
     </channel>
