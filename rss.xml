@@ -4,8 +4,14 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 10:37:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 10:37:56 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://twitter.com/lopp/status/723628416176652288</link>
+            <guid isPermaLink="false">fe2b2d50-b8fb-49f3-8996-d530ddcb7809</guid>
+            <pubDate>Sun, 24 Apr 2016 10:37:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Regulations, the Debate Must Go On - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitcoin Regulations, the Debate Must Go On - NEWSBTC</h1><p>The debate on Bitcoin regulations calls for the regulators to understand the digital currency before drafting anything. Read more... Bitcoin regulation is a very touchy topic. The regulators don't want some open source, decentralized currency to take reigns of their country's economy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2012f49d16125844061100ffb9b5e7925347cbcf.jpg"></article>]]></description>
@@ -68,13 +74,6 @@
             <link>http://www.newsbtc.com/2016/04/23/bitcoin-investment-platform-keza-no/</link>
             <guid isPermaLink="false">89604fd8-970d-4fd4-bea8-20fac0a74080</guid>
             <pubDate>Sat, 23 Apr 2016 22:27:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How can I recover last word of BIP-32/39 mnemonic copay second signature multisig wallet]]></title>
-            <description><![CDATA[<article><h1>How can I recover last word of BIP-32/39 mnemonic copay second signature multisig wallet</h1><p>I've got a multisig 2of2 wallet in copay. I've one wallet correct but have lost second wallet and only have 11 of the 12 words of the seed.I'm pretty sure I miss the last one. I've got some of the...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/43809/how-can-i-recover-last-word-of-bip-32-39-mnemonic-copay-second-signature-multisi</link>
-            <guid isPermaLink="false">fe25d219-0f7f-4b86-a569-b7d1556c3767</guid>
-            <pubDate>Sat, 23 Apr 2016 21:29:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
