@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 05:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 05:42:59 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Russia To Hold Cryptocurrency Conference Regarding Bitcoin Challenges]]></title>
+            <description><![CDATA[<article><h1>Russia To Hold Cryptocurrency Conference Regarding Bitcoin Challenges</h1><p>The Russian government seems concerned about the risks Bitcoin poses, and assessing these risks might be more favorable than banning cryptocurrency altogether. The situation of Bitcoin in Russia will remain fickle for the time being as the local government appears to have trouble making up its mind regarding cryptocurrency in general.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db833eea9289e4ded918a3f3132911af5eea98ce.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/23/russia-hold-cryptocurrency-conference-regarding-bitcoin-challenges/</link>
+            <guid isPermaLink="false">047b1650-15ae-4db5-a1a6-0a86722f5d71</guid>
+            <pubDate>Sun, 24 Apr 2016 05:42:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Let's Talk Bitcoin! #290 - The Ultimate Bitcoin Business Guide]]></title>
             <description><![CDATA[<article><h1>Let's Talk Bitcoin! #290 - The Ultimate Bitcoin Business Guide</h1><p>On Episode 290... On Today's Episode of Let's Talk Bitcoin, we're joined by Kirk Phillips, author of the Ultimate Bitcoin Business Guide. After the interview we'll listen to chapter 9 of the just-released Audiobook version on Credit Card Chaos narrated by Stephanie Murphy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aaa3810b97452845e555d88440d52b030b1ed870.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://cointelegraph.com/news/steam-to-accept-payments-via-bitcoin-in-its-next-update</link>
             <guid isPermaLink="false">3504fddd-e2ab-4fb8-a578-4c2162743f3f</guid>
             <pubDate>Sat, 23 Apr 2016 18:50:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Using the Coin Control Feature of Your GUI Qt Wallet]]></title>
-            <description><![CDATA[<article><h1>Using the Coin Control Feature of Your GUI Qt Wallet</h1><p>Taking advantage of the Coin Control feature is something considered a bit more advanced, especially if you don't have built-in support in the specific crypto currency's GUI Qt wallet and have to use the console.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c79b6825b42007537bda703b68215d9eec68681d.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7778-using-the-coin-control-feature-of-your-gui-qt-wallet/</link>
-            <guid isPermaLink="false">dbc8567f-c562-4302-a5c4-747c189e2eb0</guid>
-            <pubDate>Sat, 23 Apr 2016 18:50:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
