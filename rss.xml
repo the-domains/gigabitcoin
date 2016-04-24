@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 08:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 10:37:26 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Market Cap Above $7 Billion as Price Crosses $450 | Finance Magnates]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Market Cap Above $7 Billion as Price Crosses $450 | Finance Magnates</h1><p>The world's leading cryptocurrency, bitcoin, has marked an important milestone today with regard to market valuation. The total market capitalization of all bitcoins in existence is now over $7 billion again, a benchmark not seen since August 2014.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41f06c3da592db5e136eeef6480a5aa380d44d92.jpg"></article>]]></description>
+            <link>http://www.financemagnates.com/cryptocurrency/trading/bitcoin-market-cap-7-billion-price-crosses-450/</link>
+            <guid isPermaLink="false">1c98dbbc-0ef1-4f6f-9d0d-423564897c32</guid>
+            <pubDate>Sun, 24 Apr 2016 10:36:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price, All Roads Lead North! - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price, All Roads Lead North! - NEWSBTC</h1><p>Bitcoin price is expected to increase in the coming days. Currently, bitcoin is highly undervalued. Read more... Since its introduction, bitcoin's price has never been the hallmark of stability. It has proven itself to be a highly volatile digital currency which has recently shown some signs of stability in its value.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0687df347fa8aa3a8af22f6d670af9a682821827.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The Tatiana Show - Blake Miles Of The Green Beret Foundation And Adam House | Lets Talk Bitcoin</h1><p>Tatiana and Josh interview Blake Miles of The Green Beret Foundation and Adam House. Topics include paying taxes, Green Beret operations, social engineering within Bitcoin, war veterans with PTSD, and foreign policy. Blake Miles is a former Army Special Forces soldier who spent time at 1st Special Forces Group and 20th Special Forces Group between 2004 and 2008.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7451cb78ae47f0d7c88cf45cef460807b78cfbcc.jpg"></article>]]></description>
             <link>https://letstalkbitcoin.com/blog/post/the-tatiana-show-blake-miles-of-the-green-beret-foundation-and-adam-house</link>
             <guid isPermaLink="false">758e3867-4617-41ff-a105-3995467da957</guid>
-            <pubDate>Sat, 23 Apr 2016 21:29:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Hodlminer AES-NI Wolf0 Optimized Miner Windows Binaries]]></title>
-            <description><![CDATA[<article><h1>New Hodlminer AES-NI Wolf0 Optimized Miner Windows Binaries</h1><p>We have compiled a new range of windows binaries of the hodlminer fork optimized by Wolf0 ( source) with support for Intel AES New Instruction set (AES-NI). This is the faster CPU miner for mining HOdlcoin (HODL) than the standard release for processors without AES-NI support.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f58138ef55c3df8d40e2c42dbb2f988379040a62.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7784-new-hodlminer-aes-ni-wolf0-optimized-miner-windows-binaries/</link>
-            <guid isPermaLink="false">2faae10b-1575-42f3-80d6-e8cf819de458</guid>
             <pubDate>Sat, 23 Apr 2016 21:29:51 GMT</pubDate>
         </item>
     </channel>
