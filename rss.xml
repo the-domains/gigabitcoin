@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 10:37:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 10:37:32 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Regulations, the Debate Must Go On - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Regulations, the Debate Must Go On - NEWSBTC</h1><p>The debate on Bitcoin regulations calls for the regulators to understand the digital currency before drafting anything. Read more... Bitcoin regulation is a very touchy topic. The regulators don't want some open source, decentralized currency to take reigns of their country's economy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2012f49d16125844061100ffb9b5e7925347cbcf.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/24/bitcoin-regulations-the-debate-must-go-on/</link>
+            <guid isPermaLink="false">e35b6b99-01b8-434a-81e3-cf6d1ee1b043</guid>
+            <pubDate>Sun, 24 Apr 2016 10:36:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Market Cap Above $7 Billion as Price Crosses $450 | Finance Magnates]]></title>
             <description><![CDATA[<article><h1>Bitcoin Market Cap Above $7 Billion as Price Crosses $450 | Finance Magnates</h1><p>The world's leading cryptocurrency, bitcoin, has marked an important milestone today with regard to market valuation. The total market capitalization of all bitcoins in existence is now over $7 billion again, a benchmark not seen since August 2014.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41f06c3da592db5e136eeef6480a5aa380d44d92.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How can I recover last word of BIP-32/39 mnemonic copay second signature multisig wallet</h1><p>I've got a multisig 2of2 wallet in copay. I've one wallet correct but have lost second wallet and only have 11 of the 12 words of the seed.I'm pretty sure I miss the last one. I've got some of the...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/43809/how-can-i-recover-last-word-of-bip-32-39-mnemonic-copay-second-signature-multisi</link>
             <guid isPermaLink="false">fe25d219-0f7f-4b86-a569-b7d1556c3767</guid>
-            <pubDate>Sat, 23 Apr 2016 21:29:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Tatiana Show - Blake Miles Of The Green Beret Foundation And Adam House | Lets Talk Bitcoin]]></title>
-            <description><![CDATA[<article><h1>The Tatiana Show - Blake Miles Of The Green Beret Foundation And Adam House | Lets Talk Bitcoin</h1><p>Tatiana and Josh interview Blake Miles of The Green Beret Foundation and Adam House. Topics include paying taxes, Green Beret operations, social engineering within Bitcoin, war veterans with PTSD, and foreign policy. Blake Miles is a former Army Special Forces soldier who spent time at 1st Special Forces Group and 20th Special Forces Group between 2004 and 2008.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7451cb78ae47f0d7c88cf45cef460807b78cfbcc.jpg"></article>]]></description>
-            <link>https://letstalkbitcoin.com/blog/post/the-tatiana-show-blake-miles-of-the-green-beret-foundation-and-adam-house</link>
-            <guid isPermaLink="false">758e3867-4617-41ff-a105-3995467da957</guid>
             <pubDate>Sat, 23 Apr 2016 21:29:51 GMT</pubDate>
         </item>
     </channel>
