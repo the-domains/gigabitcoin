@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 21:35:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 21:35:31 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin Price Testing $450 From Above]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Testing $450 From Above</h1><p>Bitcoin price pushed above $450 and 2900 CNY overnight and at the time of writing is retesting a resistance level it pushed through to make the new high. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a m...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55bf0e5086faffadd440b083fd49184ac963038e.png"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-price-testing-450/</link>
-            <guid isPermaLink="false">16cd01c4-db98-4e6e-bfaa-21a2dd83845e</guid>
-            <pubDate>Sun, 24 Apr 2016 21:35:17 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Understand the Blockchain in Two Minutes]]></title>
             <description><![CDATA[<article><h1>Understand the Blockchain in Two Minutes</h1><p>Over the past decade, an alternative digital paradigm has slowly been taking shape at the edges of the internet. This new paradigm is the blockchain. After incubating through millions of Bitcoin transactions and a host of developer projects, it is now on the tips of tongues of CEOs and CTOs, startup entrepreneurs, and even governance activists.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4236f8b97da757786b0667a4cad362baac888b26.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://cointelegraph.com/news/bitcoin-price-analysis-week-of-april-24th</link>
             <guid isPermaLink="false">0ca27eea-bc96-47d2-b364-37182713e6aa</guid>
             <pubDate>Sun, 24 Apr 2016 17:45:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deadpool - Bitcoin Accepted here]]></title>
+            <description><![CDATA[<article><h1>Deadpool - Bitcoin Accepted here</h1><p>Imgur: The most awesome images on the Internet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c8b968e538e4672e87c814b02b9f47ded33f69a.png"></article>]]></description>
+            <link>https://imgur.com/0rVTnkD</link>
+            <guid isPermaLink="false">6863a8a9-40ae-407a-b5e5-43296e22dc26</guid>
+            <pubDate>Sun, 24 Apr 2016 17:45:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
