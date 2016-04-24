@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 22:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 05:42:09 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Let's Talk Bitcoin! #290 - The Ultimate Bitcoin Business Guide]]></title>
+            <description><![CDATA[<article><h1>Let's Talk Bitcoin! #290 - The Ultimate Bitcoin Business Guide</h1><p>On Episode 290... On Today's Episode of Let's Talk Bitcoin, we're joined by Kirk Phillips, author of the Ultimate Bitcoin Business Guide. After the interview we'll listen to chapter 9 of the just-released Audiobook version on Credit Card Chaos narrated by Stephanie Murphy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aaa3810b97452845e555d88440d52b030b1ed870.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/lets-talk-bitcoin-290-the-ultimate-bitcoin-business-guide</link>
+            <guid isPermaLink="false">aa95bc0f-8389-4ae8-8ad3-c346a1d926ec</guid>
+            <pubDate>Sun, 24 Apr 2016 05:42:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin's current bull run]]></title>
             <description><![CDATA[<article><h1>Bitcoin's current bull run</h1><p>The price of a bitcoin reached US$450 per coin last week, before consolidating just above $450. This is the second highest peak of the year, and is only a dozen dollars short of years high on January 7th.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bbc17b481ce7dd155d75a9d31077bdb0a57a7716.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://cryptomining-blog.com/7778-using-the-coin-control-feature-of-your-gui-qt-wallet/</link>
             <guid isPermaLink="false">dbc8567f-c562-4302-a5c4-747c189e2eb0</guid>
             <pubDate>Sat, 23 Apr 2016 18:50:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Despite Naysayers, Rising Bitcoin Price Suggests the Digital Currency Is Alive and Well]]></title>
-            <description><![CDATA[<article><h1>Despite Naysayers, Rising Bitcoin Price Suggests the Digital Currency Is Alive and Well</h1><p>The rising price of Bitcoin, reaching $450 at press time, follows several months of steady growth in Bitcoin price and transaction volumes, growing trade activity, particularly in Russia and South America, and continued expansion in the mining industry, all suggesting that Bitcoin is here to stay.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/48c70aa1aab4d82d1962a5ded28cab8a7339b561.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/despite-naysayers-rising-bitcoin-price-suggests-the-digital-currency-is-alive-and-well-1461346768</link>
-            <guid isPermaLink="false">98b6437c-1d1f-4c10-bb97-468ce6847bb1</guid>
-            <pubDate>Sat, 23 Apr 2016 15:49:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
