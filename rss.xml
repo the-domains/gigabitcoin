@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 18:40:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 18:40:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BitcoinAverage: Bitcoin Price Stirs Up Bullish Sentiment]]></title>
+            <description><![CDATA[<article><h1>BitcoinAverage: Bitcoin Price Stirs Up Bullish Sentiment</h1><p>Apr. 11 - 19, 2016 - Over the week of Apr. 11 - 19, the bitcoin price showed early signs of a bullish renewal. The price moved up steadily, +3.6%, on an Apr. 16 high of $435.67 registered at bitcoinaverage.com. This article was provided by the Vanbex Group on behalf of BitcoinAverage.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce40a8509e45de18262bd860997d0ff8ad7da03d.png"></article>]]></description>
+            <link>http://bitcoinist.net/bitcoinaverage-bitcoin-price-bullish/</link>
+            <guid isPermaLink="false">a4a13478-a2b7-4265-94e5-d085bcec8801</guid>
+            <pubDate>Sun, 24 Apr 2016 18:39:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin: Opportunity for South America and Emerging Markets - Sao Paulo]]></title>
+            <description><![CDATA[<article><h1>Bitcoin: Opportunity for South America and Emerging Markets - Sao Paulo</h1><p>Presented in Sao Paulo, this talk by Andreas focuses on the opportunity that bitcoin brings to emerging economies like Brazil.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ae9abe5d8ba70d1bced247a5203e7289a9e1668.jpg"></article>]]></description>
+            <link>http://www.youtube.com/watch?v=ieP8kxaklUk</link>
+            <guid isPermaLink="false">2b447d4e-62d3-4ee7-b11b-205a09b302f5</guid>
+            <pubDate>Sun, 24 Apr 2016 18:39:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lightning Network as a Directed Graph: Single-Funded Channel Network Topology]]></title>
             <description><![CDATA[<article><h1>Lightning Network as a Directed Graph: Single-Funded Channel Network Topology</h1><p>Tadge Dryja spoke about the practical considerations for the design of the initial Lightning Network software. "Maintaining anonymity among nodes makes dual-funded channels problematic, but even when every channel is asymmetrically funded, robust networks result. This talk will detail the trade-offs between single and dual-funded channels, and show a way forward for trust-less sub-satoshi payments."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90d3a500c1db6470cf38dc382ccefb2a12c38d2c.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>The Four Types of Bitcoin Users - CoinDesk</h1><p>Dr Paul Ennis is a research assistant at The Centre for Innovation, Technology & Organization at University College Dublin, specializing in bitcoin and blockchain studies. In this opinion piece, Dr Ennis discusses the wide range of bitcoin users and how their varying opinions on how the technology should develop is impacting network progress.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6568f84b2877b0bda394e25276681b424488c21c.jpg"></article>]]></description>
             <link>http://www.coindesk.com/four-types-bitcoin-users/</link>
             <guid isPermaLink="false">8e353ea1-1ab9-4cee-b1aa-ca2fe95482e9</guid>
-            <pubDate>Sun, 24 Apr 2016 17:45:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Police Arrest Suspect in Bitcoin Exchange Scheme]]></title>
-            <description><![CDATA[<article><h1>Police Arrest Suspect in Bitcoin Exchange Scheme</h1><p>Police arrested Michael Murgio in Palm Beach, Fla. for participating in a scheme to pay bribes to allow the Coin.mx bitcoin exchange gain control of a New Jersey credit union, according to Fortune. Prosecutors claim the scheme stole information on 100 million people. Murgio, 65, who serves on a Palm Beach County, Fla.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91d9e4ee937e24a5fe3c022da4be77ac66f30ced.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/police-arrest-suspect-in-bitcoin-exchange-scheme/</link>
-            <guid isPermaLink="false">6968fe6b-765a-40dc-8635-eb0bcb665223</guid>
-            <pubDate>Sun, 24 Apr 2016 17:45:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin, Schmitcoin. The Real Breakthrough is the Blockchain Behind It.]]></title>
-            <description><![CDATA[<article><h1>Bitcoin, Schmitcoin. The Real Breakthrough is the Blockchain Behind It.</h1><p>Lots of us are struggling to wrap our minds around that word "." We're not quite sure what it is and why it's a big deal, or if it's just a scam. It's not a scam, but it is still evolving, and probably not quite ready for primetime.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a04d8ee115859c9dc7480e0be8df41262b1b6373.jpg"></article>]]></description>
-            <link>http://bigthink.com/robby-berman/bitcoin-schmitcoin-the-real-mind-blower-is-the-blockchain-behind-it?utm_campaign=Echobox&amp;utm_medium=Social&amp;utm_source=Twitter</link>
-            <guid isPermaLink="false">8e124404-a233-45ea-80a5-3af22eafd4c9</guid>
             <pubDate>Sun, 24 Apr 2016 17:45:42 GMT</pubDate>
         </item>
     </channel>
