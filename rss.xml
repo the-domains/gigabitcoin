@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 18:39:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 18:40:01 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin: Opportunity for South America and Emerging Markets - Sao Paulo]]></title>
+            <description><![CDATA[<article><h1>Bitcoin: Opportunity for South America and Emerging Markets - Sao Paulo</h1><p>Presented in Sao Paulo, this talk by Andreas focuses on the opportunity that bitcoin brings to emerging economies like Brazil.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ae9abe5d8ba70d1bced247a5203e7289a9e1668.jpg"></article>]]></description>
+            <link>http://www.youtube.com/watch?v=ieP8kxaklUk</link>
+            <guid isPermaLink="false">2b447d4e-62d3-4ee7-b11b-205a09b302f5</guid>
+            <pubDate>Sun, 24 Apr 2016 18:39:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lightning Network as a Directed Graph: Single-Funded Channel Network Topology]]></title>
+            <description><![CDATA[<article><h1>Lightning Network as a Directed Graph: Single-Funded Channel Network Topology</h1><p>Tadge Dryja spoke about the practical considerations for the design of the initial Lightning Network software. "Maintaining anonymity among nodes makes dual-funded channels problematic, but even when every channel is asymmetrically funded, robust networks result. This talk will detail the trade-offs between single and dual-funded channels, and show a way forward for trust-less sub-satoshi payments."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90d3a500c1db6470cf38dc382ccefb2a12c38d2c.jpg"></article>]]></description>
+            <link>http://www.youtube.com/watch?v=-lgYYz3y_hY</link>
+            <guid isPermaLink="false">1fe85f6b-e859-428b-ab8b-fa6dbbc7e65a</guid>
+            <pubDate>Sun, 24 Apr 2016 18:39:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Securing the Blockchain - Bitcoin Mining in Switzerland]]></title>
             <description><![CDATA[<article><h1>Securing the Blockchain - Bitcoin Mining in Switzerland</h1><p>Securing the Blockchain - Visiting a Mining Farm in Switzerland Guido Rudolphi of CryptoCash invited a Meetup group to visit his mining farm in Linthal, Switzerland. The video was created by Lucas Betschart (@lucas_lclc) and Roger Darin (@rogerdarin) The music is by Toby + Decap ( https://www.youtube.com/watch?v=YbzNJr26H-4 ), you can send Bitcoin tips to: 1C4iVs2E659ksBK8gVEyQw229ZoESCoyK1 Bitcoin QR Code: http://i.imgur.com/i7G12Un.png Additional footage was taken by Sergei Klammer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e71f59bbfdcc03418ec90778afcc60d3199d1a3.jpg"></article>]]></description>
@@ -61,19 +75,6 @@
             <link>https://www.cryptocoinsnews.com/police-arrest-suspect-in-bitcoin-exchange-scheme/</link>
             <guid isPermaLink="false">6968fe6b-765a-40dc-8635-eb0bcb665223</guid>
             <pubDate>Sun, 24 Apr 2016 17:45:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin, Schmitcoin. The Real Breakthrough is the Blockchain Behind It.]]></title>
-            <description><![CDATA[<article><h1>Bitcoin, Schmitcoin. The Real Breakthrough is the Blockchain Behind It.</h1><p>Lots of us are struggling to wrap our minds around that word "." We're not quite sure what it is and why it's a big deal, or if it's just a scam. It's not a scam, but it is still evolving, and probably not quite ready for primetime.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a04d8ee115859c9dc7480e0be8df41262b1b6373.jpg"></article>]]></description>
-            <link>http://bigthink.com/robby-berman/bitcoin-schmitcoin-the-real-mind-blower-is-the-blockchain-behind-it?utm_campaign=Echobox&amp;utm_medium=Social&amp;utm_source=Twitter</link>
-            <guid isPermaLink="false">8e124404-a233-45ea-80a5-3af22eafd4c9</guid>
-            <pubDate>Sun, 24 Apr 2016 17:45:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://twitter.com/lopp/status/723628416176652288</link>
-            <guid isPermaLink="false">fe2b2d50-b8fb-49f3-8996-d530ddcb7809</guid>
-            <pubDate>Sun, 24 Apr 2016 10:37:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
