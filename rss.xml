@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 17:46:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 17:46:29 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Four Types of Bitcoin Users - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>The Four Types of Bitcoin Users - CoinDesk</h1><p>Dr Paul Ennis is a research assistant at The Centre for Innovation, Technology & Organization at University College Dublin, specializing in bitcoin and blockchain studies. In this opinion piece, Dr Ennis discusses the wide range of bitcoin users and how their varying opinions on how the technology should develop is impacting network progress.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6568f84b2877b0bda394e25276681b424488c21c.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/four-types-bitcoin-users/</link>
+            <guid isPermaLink="false">8e353ea1-1ab9-4cee-b1aa-ca2fe95482e9</guid>
+            <pubDate>Sun, 24 Apr 2016 17:45:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Police Arrest Suspect in Bitcoin Exchange Scheme]]></title>
             <description><![CDATA[<article><h1>Police Arrest Suspect in Bitcoin Exchange Scheme</h1><p>Police arrested Michael Murgio in Palm Beach, Fla. for participating in a scheme to pay bribes to allow the Coin.mx bitcoin exchange gain control of a New Jersey credit union, according to Fortune. Prosecutors claim the scheme stole information on 100 million people. Murgio, 65, who serves on a Palm Beach County, Fla.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91d9e4ee937e24a5fe3c022da4be77ac66f30ced.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <link>https://letstalkbitcoin.com/blog/post/lets-talk-bitcoin-290-the-ultimate-bitcoin-business-guide</link>
             <guid isPermaLink="false">aa95bc0f-8389-4ae8-8ad3-c346a1d926ec</guid>
             <pubDate>Sun, 24 Apr 2016 05:42:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin's current bull run]]></title>
-            <description><![CDATA[<article><h1>Bitcoin's current bull run</h1><p>The price of a bitcoin reached US$450 per coin last week, before consolidating just above $450. This is the second highest peak of the year, and is only a dozen dollars short of years high on January 7th.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bbc17b481ce7dd155d75a9d31077bdb0a57a7716.jpg"></article>]]></description>
-            <link>http://bravenewcoin.com/news/bitcoins-current-bull-run/</link>
-            <guid isPermaLink="false">42ac90eb-edc6-4d77-84a0-82b2953cccc3</guid>
-            <pubDate>Sat, 23 Apr 2016 22:27:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
