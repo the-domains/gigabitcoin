@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 21:22:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 21:21:32 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article></article>]]></description>
-            <link>https://www.bitstamp.net/article/bitstamp-first-nationally-licensed-btc-exchange/</link>
-            <guid isPermaLink="false">acef09d9-5f2f-44ac-9517-175cd7f0692e</guid>
-            <pubDate>Mon, 25 Apr 2016 21:21:28 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Hits Four-Month High in Push Past $460 - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Bitcoin Hits Four-Month High in Push Past $460 - CoinDesk</h1><p>The price of bitcoin reached an inter-day high of $464.24 today to reach its highest total in more than four months. The news comes as the digital currency built on the previous week's gains, when it broke past the $450 mark on renewed optimism that a solution to the network's perceived scaling issues may be forthcoming.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e09eb159e28d469002294e632c3e511e0728310.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Report: Bitcoin is Legal in India</h1><p>There are certain guidelines as to who may issue legal tender and bank notes although neither of these terms has been clearly defined. There is a lot of concern across various countries in the world whether or not Bitcoin is legal in that particular region.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/acde4aaddc5b91258273c2d2fb2a83c78d85614e.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/04/25/report-bitcoin-legal-india/</link>
             <guid isPermaLink="false">fee19904-2eb5-48bd-8c50-459e9267052e</guid>
+            <pubDate>Mon, 25 Apr 2016 13:30:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Bitcoin Exchange Just Got Approval to Operate Across the EU]]></title>
+            <description><![CDATA[<article><h1>A Bitcoin Exchange Just Got Approval to Operate Across the EU</h1><p>Fifteen months ago, hackers lifted more than $5 million from the bitcoin exchange operated by Bitstamp, a Slovenian company that aspired to push the digital currency across Western Europe. The hack wasn't nearly as large or as devastating as the one that pilfered $460 million from Mt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c099bced8d09319828f08afb8213ea3bb1b2cca.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/04/bitcoin-exchange-receives-approval-operate-across-eu/</link>
+            <guid isPermaLink="false">ff397185-e3a6-4e91-ae84-5fb79fd20d96</guid>
             <pubDate>Mon, 25 Apr 2016 13:30:09 GMT</pubDate>
         </item>
     </channel>
