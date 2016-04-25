@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 02:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 02:25:32 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MIT Explores Cryptographic Heritage Solutions With Bitcoin And Blockchain]]></title>
+            <description><![CDATA[<article><h1>MIT Explores Cryptographic Heritage Solutions With Bitcoin And Blockchain</h1><p>Bitcoin and the blockchain could be an attractive ally in this regard, as it would allow for the creation of cryptographic heritage. Cultural heritage is one of the most important cornerstones of our society these days, yet we are doing an awful job at protecting it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59d232bda37352557df758cc03a0f476bf79264d.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/24/mit-explores-cryptographic-heritage-solutions-bitcoin-blockchain/</link>
+            <guid isPermaLink="false">1d633809-24ad-4fde-8094-8072719c7037</guid>
+            <pubDate>Mon, 25 Apr 2016 02:24:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Farm to Table: Farmers Markets for Bitcoin Through Overstock]]></title>
             <description><![CDATA[<article><h1>Bitcoin Farm to Table: Farmers Markets for Bitcoin Through Overstock</h1><p>Overstock's Farmers Market service connects organic, local farms with customers, allowing their products to be sold for Bitcoin - without even knowing it. Aside from the occasional creative Russian farmer or underground market in New Hampshire, the average agricultural worker is not that well-versed in fintech, and as such few are likely to accept Bitcoin for their products.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f54d7b67d907083bf5885e978113337618806a13.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Unocoin Launches Mobile PoS App for Indian Stores to Accept Bitcoin | Finance Magnates</h1><p>Indian rupees to bitcoin exchange Unocoin is working to enable physical stores and merchants in India to easily be paid with the cryptocurrency for their goods and services. Unocoin announced the launch of its mobile merchant Point of Sale (PoS) application - called the "Unocoin PoS" - for both Android and iOS devices.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9abe0e84609dcccf28a1e98804abb0b1f8af1967.jpg"></article>]]></description>
             <link>http://www.financemagnates.com/cryptocurrency/innovation/unocoin-launches-mobile-pos-app-indian-stores-accept-bitcoin/</link>
             <guid isPermaLink="false">04293308-1ffb-4c5c-ba4e-359ab0640fc3</guid>
-            <pubDate>Sun, 24 Apr 2016 17:45:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andreas Antonopoulos Talks Bitcoin's Hybrid Proof-of-Stake and Design Challenges]]></title>
-            <description><![CDATA[<article><h1>Andreas Antonopoulos Talks Bitcoin's Hybrid Proof-of-Stake and Design Challenges</h1><p>The lightning Network is a pure proof-of-stake system, but it will be based on the Bitcoin network in a trustless manner, and guaranteed by Bitcoin's proof-of-work. To quite some people, the connection between creativity and financial freedom has remained invisible for quite some time now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e1f71ac931cb1dc833551676cea46ead590a031.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/24/andreas-antonopoulos-bitcoin-will-hybrid-proof-workproof-stake-system/</link>
-            <guid isPermaLink="false">67ad28dc-7ee0-4b31-9b17-78122ca35b43</guid>
             <pubDate>Sun, 24 Apr 2016 17:45:43 GMT</pubDate>
         </item>
     </channel>
