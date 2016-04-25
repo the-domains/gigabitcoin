@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 21:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 21:22:13 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ECB experiments with technology behind bitcoin - Mersch]]></title>
+            <description><![CDATA[<article><h1>ECB experiments with technology behind bitcoin - Mersch</h1><p>FRANKFURT, April 25 The European Central Bank is doing "experimental work" with the same ledger technology that underpins virtual currency bitcoin but it needs further research before considering adopting it, an ECB executive board member said on Monday.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7fc5d12a9327ffb4c4c7a9a5c01129095b8d0f41.jpg"></article>]]></description>
+            <link>http://www.reuters.com/article/eurozone-ecb-bitcoin-idUSL5N17S46B</link>
+            <guid isPermaLink="false">c52dae41-c676-4c34-9f04-197ccd0a8536</guid>
+            <pubDate>Mon, 25 Apr 2016 21:21:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article></article>]]></description>
+            <link>https://www.bitstamp.net/article/bitstamp-first-nationally-licensed-btc-exchange/</link>
+            <guid isPermaLink="false">acef09d9-5f2f-44ac-9517-175cd7f0692e</guid>
+            <pubDate>Mon, 25 Apr 2016 21:21:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Hits Four-Month High in Push Past $460 - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Bitcoin Hits Four-Month High in Push Past $460 - CoinDesk</h1><p>The price of bitcoin reached an inter-day high of $464.24 today to reach its highest total in more than four months. The news comes as the digital currency built on the previous week's gains, when it broke past the $450 mark on renewed optimism that a solution to the network's perceived scaling issues may be forthcoming.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e09eb159e28d469002294e632c3e511e0728310.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Watch; Fresh Highs, Further Upside?</h1><p>Here's what we are focusing on in the bitcoin price this morning - Monday, April 25. One thing we noticed on a number of occasions across the last few months, is the tendency for the weekly price to slow down towards the end of the week [Thursday, Friday] and then pick up some momentum over the weekend.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b534e384fbd74a8cfeb317c4fc7b739b3b2ff885.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/04/25/bitcoin-price-watch-fresh-highs-upside/</link>
             <guid isPermaLink="false">99143780-f772-48d7-9883-03acf6dae69d</guid>
-            <pubDate>Mon, 25 Apr 2016 13:30:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Bitcoin is Legal in India]]></title>
-            <description><![CDATA[<article><h1>Report: Bitcoin is Legal in India</h1><p>There are certain guidelines as to who may issue legal tender and bank notes although neither of these terms has been clearly defined. There is a lot of concern across various countries in the world whether or not Bitcoin is legal in that particular region.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/acde4aaddc5b91258273c2d2fb2a83c78d85614e.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/25/report-bitcoin-legal-india/</link>
-            <guid isPermaLink="false">fee19904-2eb5-48bd-8c50-459e9267052e</guid>
-            <pubDate>Mon, 25 Apr 2016 13:30:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Bitcoin Exchange Just Got Approval to Operate Across the EU]]></title>
-            <description><![CDATA[<article><h1>A Bitcoin Exchange Just Got Approval to Operate Across the EU</h1><p>Fifteen months ago, hackers lifted more than $5 million from the bitcoin exchange operated by Bitstamp, a Slovenian company that aspired to push the digital currency across Western Europe. The hack wasn't nearly as large or as devastating as the one that pilfered $460 million from Mt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c099bced8d09319828f08afb8213ea3bb1b2cca.jpg"></article>]]></description>
-            <link>http://www.wired.com/2016/04/bitcoin-exchange-receives-approval-operate-across-eu/</link>
-            <guid isPermaLink="false">ff397185-e3a6-4e91-ae84-5fb79fd20d96</guid>
             <pubDate>Mon, 25 Apr 2016 13:30:09 GMT</pubDate>
         </item>
     </channel>
