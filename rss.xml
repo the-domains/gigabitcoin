@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 03:49:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 13:30:13 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitstamp Becomes First Nationally Licensed Bitcoin Exchange; License Applies In 28 EU Countries]]></title>
+            <description><![CDATA[<article><h1>Bitstamp Becomes First Nationally Licensed Bitcoin Exchange; License Applies In 28 EU Countries</h1><p>The announcement brings further legitimacy to Bitcoin and should open doors for Bitstamp to partner with established financial institutions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68b19adc2f961d31fe6ebc32df987db1cadf32f4.png"></article>]]></description>
+            <link>http://www.forbes.com/sites/laurashin/2016/04/25/7886/</link>
+            <guid isPermaLink="false">a2ee1249-d68e-444a-91f8-8b5982f253d6</guid>
+            <pubDate>Mon, 25 Apr 2016 13:30:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Analysis - Houston, we have liftoff]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Analysis - Houston, we have liftoff</h1><p>The technical setups posted below use simple trend detection, support and resistance, channels, pattern and candle analysis. We aim for high-probability trade setups on BTCUSD and use very few indicators. All charts use BNC's Bitcoin Liquid Index for maximum accuracy. The timeframe for trades is 1 to 7 days, so we'll use 4h candlesticks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4aad30e20de686c2e38e3993fd85201560bc73d3.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin: Opportunity for South America and Emerging Markets - Sao Paulo</h1><p>Presented in Sao Paulo, this talk by Andreas focuses on the opportunity that bitcoin brings to emerging economies like Brazil.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ae9abe5d8ba70d1bced247a5203e7289a9e1668.jpg"></article>]]></description>
             <link>http://www.youtube.com/watch?v=ieP8kxaklUk</link>
             <guid isPermaLink="false">2b447d4e-62d3-4ee7-b11b-205a09b302f5</guid>
-            <pubDate>Sun, 24 Apr 2016 18:39:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lightning Network as a Directed Graph: Single-Funded Channel Network Topology]]></title>
-            <description><![CDATA[<article><h1>Lightning Network as a Directed Graph: Single-Funded Channel Network Topology</h1><p>Tadge Dryja spoke about the practical considerations for the design of the initial Lightning Network software. "Maintaining anonymity among nodes makes dual-funded channels problematic, but even when every channel is asymmetrically funded, robust networks result. This talk will detail the trade-offs between single and dual-funded channels, and show a way forward for trust-less sub-satoshi payments."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90d3a500c1db6470cf38dc382ccefb2a12c38d2c.jpg"></article>]]></description>
-            <link>http://www.youtube.com/watch?v=-lgYYz3y_hY</link>
-            <guid isPermaLink="false">1fe85f6b-e859-428b-ab8b-fa6dbbc7e65a</guid>
             <pubDate>Sun, 24 Apr 2016 18:39:15 GMT</pubDate>
         </item>
     </channel>
