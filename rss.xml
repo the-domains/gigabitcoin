@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 13:31:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 13:31:14 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[South African Reserve Bank Sees Potential For Real Bitcoin Growth]]></title>
-            <description><![CDATA[<article><h1>South African Reserve Bank Sees Potential For Real Bitcoin Growth</h1><p>It is always good to know how several banks around the world feel about Bitcoin, even though the outcome will be identical in most cases. The South African Reserve Bank does not consider Bitcoin and cryptocurrency legal tender, although that doesn't make usage of these currencies illegal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/daecdd79e45c16e05926cf34a176f8ee92f02f07.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/south-african-reserve-bank-sees-potential-for-real-bitcoin-growth/</link>
-            <guid isPermaLink="false">89645ee7-1a72-4102-b12b-6dfc62d7e865</guid>
-            <pubDate>Mon, 25 Apr 2016 13:30:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Fresh Highs, Further Upside?]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Fresh Highs, Further Upside?</h1><p>Here's what we are focusing on in the bitcoin price this morning - Monday, April 25. One thing we noticed on a number of occasions across the last few months, is the tendency for the weekly price to slow down towards the end of the week [Thursday, Friday] and then pick up some momentum over the weekend.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b534e384fbd74a8cfeb317c4fc7b739b3b2ff885.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/25/bitcoin-price-watch-fresh-highs-upside/</link>
-            <guid isPermaLink="false">99143780-f772-48d7-9883-03acf6dae69d</guid>
-            <pubDate>Mon, 25 Apr 2016 13:30:09 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Report: Bitcoin is Legal in India]]></title>
             <description><![CDATA[<article><h1>Report: Bitcoin is Legal in India</h1><p>There are certain guidelines as to who may issue legal tender and bank notes although neither of these terms has been clearly defined. There is a lot of concern across various countries in the world whether or not Bitcoin is legal in that particular region.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/acde4aaddc5b91258273c2d2fb2a83c78d85614e.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>http://bitcoin.stackexchange.com/questions/43833/private-brain-key-generation-and-public-address-not-matching-java</link>
             <guid isPermaLink="false">f3da0f2f-96cb-4ede-a155-aa4e945515c6</guid>
             <pubDate>Mon, 25 Apr 2016 03:48:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MIT Explores Cryptographic Heritage Solutions With Bitcoin And Blockchain]]></title>
+            <description><![CDATA[<article><h1>MIT Explores Cryptographic Heritage Solutions With Bitcoin And Blockchain</h1><p>Bitcoin and the blockchain could be an attractive ally in this regard, as it would allow for the creation of cryptographic heritage. Cultural heritage is one of the most important cornerstones of our society these days, yet we are doing an awful job at protecting it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59d232bda37352557df758cc03a0f476bf79264d.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/24/mit-explores-cryptographic-heritage-solutions-bitcoin-blockchain/</link>
+            <guid isPermaLink="false">1d633809-24ad-4fde-8094-8072719c7037</guid>
+            <pubDate>Mon, 25 Apr 2016 02:24:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Farm to Table: Farmers Markets for Bitcoin Through Overstock]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Farm to Table: Farmers Markets for Bitcoin Through Overstock</h1><p>Overstock's Farmers Market service connects organic, local farms with customers, allowing their products to be sold for Bitcoin - without even knowing it. Aside from the occasional creative Russian farmer or underground market in New Hampshire, the average agricultural worker is not that well-versed in fintech, and as such few are likely to accept Bitcoin for their products.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f54d7b67d907083bf5885e978113337618806a13.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/bitcoin-farm-to-table-farmers-markets-for-bitcoin-through-overstock</link>
+            <guid isPermaLink="false">f95ba3e0-fb1d-4195-aa1b-443a47603609</guid>
+            <pubDate>Mon, 25 Apr 2016 02:24:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
