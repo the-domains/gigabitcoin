@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 13:31:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 13:31:09 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Bitcoin Exchange Just Got Approval to Operate Across the EU]]></title>
+            <description><![CDATA[<article><h1>A Bitcoin Exchange Just Got Approval to Operate Across the EU</h1><p>Fifteen months ago, hackers lifted more than $5 million from the bitcoin exchange operated by Bitstamp, a Slovenian company that aspired to push the digital currency across Western Europe. The hack wasn't nearly as large or as devastating as the one that pilfered $460 million from Mt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c099bced8d09319828f08afb8213ea3bb1b2cca.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/04/bitcoin-exchange-receives-approval-operate-across-eu/</link>
+            <guid isPermaLink="false">ff397185-e3a6-4e91-ae84-5fb79fd20d96</guid>
+            <pubDate>Mon, 25 Apr 2016 13:30:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Steam to Accept Payments via Bitcoin in its Next Update]]></title>
             <description><![CDATA[<article><h1>Steam to Accept Payments via Bitcoin in its Next Update</h1><p>The team behind Steam, a digital distribution platform developed by Valve Corporation offering digital rights management, multiplayer gaming and social networking services, has announced that the platform will officially begin to accept payments via bitcoin. CoinTelegraph has reached out to Bitpay for more information about their partnership with Steam.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c785fbb50f5dc69cd3c0ae7f009f6d96d4ae125.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Testing $450 From Above</h1><p>Bitcoin price pushed above $450 and 2900 CNY overnight and at the time of writing is retesting a resistance level it pushed through to make the new high. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a m...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55bf0e5086faffadd440b083fd49184ac963038e.png"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/bitcoin-price-testing-450/</link>
             <guid isPermaLink="false">16cd01c4-db98-4e6e-bfaa-21a2dd83845e</guid>
-            <pubDate>Sun, 24 Apr 2016 21:35:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Understand the Blockchain in Two Minutes]]></title>
-            <description><![CDATA[<article><h1>Understand the Blockchain in Two Minutes</h1><p>Over the past decade, an alternative digital paradigm has slowly been taking shape at the edges of the internet. This new paradigm is the blockchain. After incubating through millions of Bitcoin transactions and a host of developer projects, it is now on the tips of tongues of CEOs and CTOs, startup entrepreneurs, and even governance activists.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4236f8b97da757786b0667a4cad362baac888b26.jpg"></article>]]></description>
-            <link>http://www.youtube.com/watch?v=r43LhSUUGTQ</link>
-            <guid isPermaLink="false">4cde8700-df80-4a5e-9abb-b932e83ad64a</guid>
             <pubDate>Sun, 24 Apr 2016 21:35:17 GMT</pubDate>
         </item>
     </channel>
