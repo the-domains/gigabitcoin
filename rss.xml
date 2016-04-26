@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 13:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 13:25:40 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What's Next For Bitcoin, Hot Startup Ideas 2016]]></title>
+            <description><![CDATA[<article><h1>What's Next For Bitcoin, Hot Startup Ideas 2016</h1><p>We have prepared a review of the projects that the Bitcoin industry requires right now. These projects have no strong competitors in the market and could attract a lot of new cryptocurrency owners. Angels, funds and private investors will willingly invest their money in such projects.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ffde10b8652330d03c280cd0e1c0488a0047e98d.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/whats-next-for-bitcoin-hot-startup-ideas-2016</link>
+            <guid isPermaLink="false">116e43ce-8acf-4464-ae82-73c68d956587</guid>
+            <pubDate>Tue, 26 Apr 2016 13:25:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ECB experiments with technology behind bitcoin]]></title>
             <description><![CDATA[<article><h1>ECB experiments with technology behind bitcoin</h1><p>Tuesday 26 April 2016 09.31 The European Central Bank is doing "experimental work" with the same ledger technology that underpins virtual currency bitcoin. But it needs further research before considering adopting it, an ECB executive board member has said.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dec0fb84fd3300ba0b2889e8874eddf090c2b0d0.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://bitcoin.stackexchange.com/questions/43846/testnet-wallet-fully-sync-block-height-different-to-testnet-blockchain-explorer</link>
             <guid isPermaLink="false">ad2b3a66-faf5-4709-9dea-41b4de66652d</guid>
             <pubDate>Tue, 26 Apr 2016 02:53:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Breaks Beyond $460, Sets New High in 2016]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Breaks Beyond $460, Sets New High in 2016</h1><p>Bitcoin price is on an advance, pushing ceilings higher after scaling $440 to reach $450 last week. On Sunday, bitcoin price scaled to $460. In the early hours of Monday, the Bitstamp price index was trading at a new record high for the year at $470.02...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62fa3173b2c1d9787d69accf6b70a3d8fc42b310.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-price-460-new-high-2016/</link>
-            <guid isPermaLink="false">2680116a-4865-4e13-9de4-d7b6fe80147d</guid>
-            <pubDate>Mon, 25 Apr 2016 21:21:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
