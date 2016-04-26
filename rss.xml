@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 02:53:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 02:53:50 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[UK Treasury Won't Seek AML Rules for Bitcoin Wallet Providers - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>UK Treasury Won't Seek AML Rules for Bitcoin Wallet Providers - CoinDesk</h1><p>The UK Treasury has said that it won't seek to impose anti-money laundering (AML) rules on digital currency wallet providers in a bid to avoid overburdening those services. The remarks were issued last week in a report that detailed the UK government's plans to tackle money laundering and terrorist financing risks more broadly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d1494280da56ed9827af1f385cb3ecc9c98331f.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/uk-treasury-we-wont-regulate-bitcoin-wallet-providers/</link>
+            <guid isPermaLink="false">e4aa8952-74d5-4512-b256-34cd83f2d201</guid>
+            <pubDate>Tue, 26 Apr 2016 02:53:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Testnet wallet fully sync block height different to testnet blockchain explorer]]></title>
             <description><![CDATA[<article><h1>Testnet wallet fully sync block height different to testnet blockchain explorer</h1><p>I run bitcoin core into testnet mode for learning/testing purpose. My client/wallet/node are fully sync, based on the "check mark" at the bottom right of the GUI-client.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -42,17 +49,17 @@
             <pubDate>Mon, 25 Apr 2016 21:21:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nobody Cares About Your Early Bitcoin Adopter Status]]></title>
-            <description><![CDATA[<article><h1>Nobody Cares About Your Early Bitcoin Adopter Status</h1><p>Nobody cares when or what price you first bought Bitcoin. Many people use this as a refrain to establish their legitimacy, but it highlights a paucity of other things which to discuss. It's an "I" centric statement that degrades the overall discussion around Bitcoin. Laughably, people boast as late as 2013.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2e9d58f617401afc25dc5c9926bec6b24602931.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/nobody-cares-about-your-bitcoin-purchase-price/</link>
-            <guid isPermaLink="false">c1a1d1f6-f692-4863-9069-e534dafdd4ff</guid>
-            <pubDate>Mon, 25 Apr 2016 21:21:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bitcoin Price Watch; Breakout and Intra-Range Update - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Watch; Breakout and Intra-Range Update - NEWSBTC</h1><p>Here's what we are looking to trade this evening in the bitcoin price on Monday. When we published the first of our twice daily bitcoin price watch pieces this morning, we noted that - based on the volatility seen in the markets over the weekend - we would be a widen our standard range link in the region of $10 or $15, and in doing so, bring both our breakout and our intra-range strategies into play.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7815df603d73f8e8864ab2aedacc84ba6346b0ab.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/04/25/bitcoin-price-watch-breakout-intra-range-update/</link>
             <guid isPermaLink="false">cd0fc3dd-38ce-4970-8c5e-4e317972f502</guid>
+            <pubDate>Mon, 25 Apr 2016 21:21:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nobody Cares About Your Early Bitcoin Adopter Status]]></title>
+            <description><![CDATA[<article><h1>Nobody Cares About Your Early Bitcoin Adopter Status</h1><p>Nobody cares when or what price you first bought Bitcoin. Many people use this as a refrain to establish their legitimacy, but it highlights a paucity of other things which to discuss. It's an "I" centric statement that degrades the overall discussion around Bitcoin. Laughably, people boast as late as 2013.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2e9d58f617401afc25dc5c9926bec6b24602931.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/nobody-cares-about-your-bitcoin-purchase-price/</link>
+            <guid isPermaLink="false">c1a1d1f6-f692-4863-9069-e534dafdd4ff</guid>
             <pubDate>Mon, 25 Apr 2016 21:21:28 GMT</pubDate>
         </item>
         <item>
@@ -66,13 +73,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://twitter.com/petertoddbtc/status/724346457696907264</link>
             <guid isPermaLink="false">d25bc5fb-bad2-43f4-b69e-e3cf0221d4c1</guid>
-            <pubDate>Mon, 25 Apr 2016 21:21:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The United States Is Falling Behind in Bitcoin Regulation]]></title>
-            <description><![CDATA[<article><h1>The United States Is Falling Behind in Bitcoin Regulation</h1><p>Lawmakers and regulators in the United States could be doing a much better job attracting innovative fintech startups to the country, Coin Center Executive Director Jerry Brito said at a recent cryptocurrency-focused event hosted by the Cato Institute.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3dab1dceba4616c500e3bc092468113c09ec6329.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/the-united-states-is-falling-behind-in-bitcoin-regulation-1461604211</link>
-            <guid isPermaLink="false">bcb6eadf-7181-4d08-94eb-236dda5280f1</guid>
             <pubDate>Mon, 25 Apr 2016 21:21:28 GMT</pubDate>
         </item>
     </channel>
