@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 02:53:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 02:53:52 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Components of a Bitcoin Application]]></title>
+            <description><![CDATA[<article><h1>Components of a Bitcoin Application</h1><p>The blockchain technology behind bitcoin isn't just going to change financial industry. It's going to revolutionize everything from contracts to voting through the construction of internet applications. But, what exactly are the components of these of applications?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c9c8b6a4679f97f822bd782fa80a42e76519a50.jpg"></article>]]></description>
+            <link>http://www.huffingtonpost.com/john-rampton/components-of-a-bitcoin-a_b_9759624.html</link>
+            <guid isPermaLink="false">c24942e6-9f10-4537-be20-1db81576a2c4</guid>
+            <pubDate>Tue, 26 Apr 2016 02:53:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitstamp has been granted a license by the Luxembourg government to be a fully regulated and licensed exchange in the EU * /r/btc]]></title>
             <description><![CDATA[<article><h1>Bitstamp has been granted a license by the Luxembourg government to be a fully regulated and licensed exchange in the EU * /r/btc</h1><p>Welcome to r/btc! Home of: Up to date bitcoin discussions, News and Exclusive AMA (Ask Me Anything) interviews from top bitcoin industry leaders! Bitcoin is the currency of the Internet. A distributed, worldwide, decentralized digital money. Unlike traditional currencies such as dollars, bitcoins are issued and managed without the need for any central authority whatsoever.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Watch; Breakout and Intra-Range Update - NEWSBTC</h1><p>Here's what we are looking to trade this evening in the bitcoin price on Monday. When we published the first of our twice daily bitcoin price watch pieces this morning, we noted that - based on the volatility seen in the markets over the weekend - we would be a widen our standard range link in the region of $10 or $15, and in doing so, bring both our breakout and our intra-range strategies into play.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7815df603d73f8e8864ab2aedacc84ba6346b0ab.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/04/25/bitcoin-price-watch-breakout-intra-range-update/</link>
             <guid isPermaLink="false">cd0fc3dd-38ce-4970-8c5e-4e317972f502</guid>
-            <pubDate>Mon, 25 Apr 2016 21:21:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nobody Cares About Your Early Bitcoin Adopter Status]]></title>
-            <description><![CDATA[<article><h1>Nobody Cares About Your Early Bitcoin Adopter Status</h1><p>Nobody cares when or what price you first bought Bitcoin. Many people use this as a refrain to establish their legitimacy, but it highlights a paucity of other things which to discuss. It's an "I" centric statement that degrades the overall discussion around Bitcoin. Laughably, people boast as late as 2013.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2e9d58f617401afc25dc5c9926bec6b24602931.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/nobody-cares-about-your-bitcoin-purchase-price/</link>
-            <guid isPermaLink="false">c1a1d1f6-f692-4863-9069-e534dafdd4ff</guid>
             <pubDate>Mon, 25 Apr 2016 21:21:28 GMT</pubDate>
         </item>
     </channel>
