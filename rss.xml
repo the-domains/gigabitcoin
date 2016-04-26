@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 19:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 19:17:16 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Europe launches its first licensed bitcoin exchange to make trading safer]]></title>
+            <description><![CDATA[<article><h1>Europe launches its first licensed bitcoin exchange to make trading safer</h1><p>Luxembourg has granted a license to bitcoin exchange Bitstamp making it Europe's first fully regulated payment institution for the cryptocurrency with expectations high that an extra layer of legitimacy could lead more people to trade bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ec530536437c3607db21c8c3401453d3357fe00.jpg"></article>]]></description>
+            <link>http://www.cnbc.com/2016/04/26/europe-launches-its-first-licensed-bitcoin-exchange.html</link>
+            <guid isPermaLink="false">408fd59c-de2e-43fc-8394-b299af0d7473</guid>
+            <pubDate>Tue, 26 Apr 2016 19:16:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Technology and Choice #04, A Talk with Paul Rosenburg]]></title>
+            <description><![CDATA[<article><h1>Technology and Choice #04, A Talk with Paul Rosenburg</h1><p>In this Episode John and Robert have a great time with Paul Rosenburg, a true renaissance man and scholar, about technology and choice--past, present and future. Should we be optimistic, pessimistic, or simply mystic? You get to choose.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0365562cd02e58c1c72fea8f0a3c9f12f16ed840.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/technology-and-choice-04-a-talk-with-paul-rosenburg</link>
+            <guid isPermaLink="false">095873ba-8f7f-4bb6-862c-b151706219b6</guid>
+            <pubDate>Tue, 26 Apr 2016 19:16:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Brave's Bitcoin Browser Still 'Full Steam Ahead' Despite Publisher Backlash - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Brave's Bitcoin Browser Still 'Full Steam Ahead' Despite Publisher Backlash - CoinDesk</h1><p>In less than a month, Brave Software plans to open a bitcoin wallet on behalf of major content creators around the world so those publishers can receive micropayments in exchange for viewing specially curated ads.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb130e0ed8be194ce6a70d03fd0f0ccb33dbd96d.png"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>The First EVER Bitcoin Transaction Through Steam!</h1><p>On 3/31, I had the opportunity to test the first bitcoin transaction on Steam using BitPay thanks to my pops! I hope you guys enjoyed the video, if you would like to subscribe for more content you can!(I will have more videos out soon!)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/517fb41b7bed35b36c58d73e7c401c8f998d63f6.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=Nvz4o10fGFI</link>
             <guid isPermaLink="false">5ac1a2cf-3637-41e1-9727-74f9774f9907</guid>
-            <pubDate>Tue, 26 Apr 2016 13:25:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Wallets Vulnerable To Opt-in Replace-by-fee Double Spend Attacks]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Wallets Vulnerable To Opt-in Replace-by-fee Double Spend Attacks</h1><p>The topic of transaction fees has been kicked around a few times in the world of Bitcoin, but the question remains whether or not wallets are ready to deal with opt-in replace-by-fee. Several exchange platforms have taken the necessary steps to detect opt-in replace-by-fee situations, but more efforts are needed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/01401d373232c5bd4474cb44c35b6f8a1e09dcc4.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/bitcoin-wallets-vulnerable-to-opt-in-replace-by-fee-double-spend-attacks/</link>
-            <guid isPermaLink="false">669815d4-c1ed-4792-b389-0006935781e2</guid>
-            <pubDate>Tue, 26 Apr 2016 13:25:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fake Armada Collective Threats Trick Victims into Paying $100,000 in Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Fake Armada Collective Threats Trick Victims into Paying $100,000 in Bitcoin</h1><p>People who have been keeping an eye on the technology sector will have come across the Armada Collective name before, as this group is notorious for the distributed denial of service attacks. The threat of cyber attacks has become so real that many individual users and enterprises would rather pay a fee than deal with the attack itself.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/206999daa3ca96a1e8cb43574f5ec336b9aa0007.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/26/fake-armada-collective-threats-trick-victims-paying-100000-bitcoin/</link>
-            <guid isPermaLink="false">1c4f0948-f421-46d1-8e01-a1bc81659b6f</guid>
             <pubDate>Tue, 26 Apr 2016 13:25:03 GMT</pubDate>
         </item>
     </channel>
