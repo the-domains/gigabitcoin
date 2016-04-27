@@ -7,6 +7,13 @@
         <lastBuildDate>Wed, 27 Apr 2016 00:43:13 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[EB128 - Jed Mccaleb: Stellar And The Vision Of An Open Financial System]]></title>
+            <description><![CDATA[<article><h1>EB128 - Jed Mccaleb: Stellar And The Vision Of An Open Financial System</h1><p>When Jed McCaleb discovered Bitcoin, there didn't even exist an online marketplace to trade the cryptocurrency yet. The experienced founder who had earlier started file sharing site eDonkey, acted fast and started the first Bitcoin exchange MtGox which he later sold to now-infamous Mark Karpeles.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba438e8a517ef44e88843ec750a3b4a7c91bbbed.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/epicenter-bitcoin-128-jed-mccaleb-stellar-and-the-vision-of-an-open-financial-system</link>
+            <guid isPermaLink="false">1f14a0b4-5842-4a8c-a20b-651aef5641ca</guid>
+            <pubDate>Wed, 27 Apr 2016 00:42:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Stellar to give away 19 billion lumens to bitcoin holders]]></title>
             <description><![CDATA[<article><h1>Stellar to give away 19 billion lumens to bitcoin holders</h1><p>Stellar.org, the non-profit technology provider aiming to connect financial institutions using consensus-based cryptography, has announced it will be giving away 19 billion of the network's native currency, lumens, to holders of bitcoin. The lumens will be distributed in several rounds, said Stellar CTO Jed McCaleb in a blog post.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1daba67009eb3a558020c6397f7892625a5d86a.jpg"></article>]]></description>
             <link>http://www.ibtimes.co.uk/stellar-give-away-19-billion-lumens-bitcoin-holders-1556899</link>
@@ -66,13 +73,6 @@
             <description><![CDATA[<article><h1>bitsquare Bitcoin crypto exchange</h1><p>Testing the first decentralized Bitcoin exchange.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c450ee96ffa6884335b1d16f1687b907831a30e5.jpg"></article>]]></description>
             <link>http://www.youtube.com/watch?v=reQ0M1_SPsA</link>
             <guid isPermaLink="false">1538e0aa-799f-41bd-b149-794b4c27a61e</guid>
-            <pubDate>Tue, 26 Apr 2016 19:16:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It's 2016, What Are Bitcoin's Real Use Cases?]]></title>
-            <description><![CDATA[<article><h1>It's 2016, What Are Bitcoin's Real Use Cases?</h1><p>It has now been eight years since Satoshi Nakamoto released his peer-to-peer digital cash system to the world, and the debate over whether or not the payment network and currency have any real, long-term value is still undecided. Having said that, some real-world use cases have emerged.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec168bcd2716503dfdc3ad392c9854eb2e34b4ea.jpg"></article>]]></description>
-            <link>http://www.nasdaq.com/article/its-2016-what-are-bitcoins-real-use-cases-cm611665</link>
-            <guid isPermaLink="false">dee94c3c-db4d-42bd-8c0b-e1a2c63a5765</guid>
             <pubDate>Tue, 26 Apr 2016 19:16:27 GMT</pubDate>
         </item>
     </channel>
