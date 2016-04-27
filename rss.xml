@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 00:43:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 00:43:19 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why the Bitcoin Price Is Surging in Spite of the "Obits"]]></title>
+            <description><![CDATA[<article><h1>Why the Bitcoin Price Is Surging in Spite of the "Obits"</h1><p>The Bitcoin price is up 12% in the month of April and has more than doubled over the past 12 months. As of midday today (Tuesday), the Bitcoin Price Index was hovering around $467. As recently as January, the price of Bitcoin was as low as $358.77.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce10d793fb07300b50a285c5e5f27536d258ce4f.png"></article>]]></description>
+            <link>http://moneymorning.com/2016/04/26/why-the-bitcoin-price-is-surging-in-spite-of-the-obits/</link>
+            <guid isPermaLink="false">ea4a39f0-cfbe-450f-8897-182ea3a4717c</guid>
+            <pubDate>Wed, 27 Apr 2016 00:42:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[EB128 - Jed Mccaleb: Stellar And The Vision Of An Open Financial System]]></title>
             <description><![CDATA[<article><h1>EB128 - Jed Mccaleb: Stellar And The Vision Of An Open Financial System</h1><p>When Jed McCaleb discovered Bitcoin, there didn't even exist an online marketplace to trade the cryptocurrency yet. The experienced founder who had earlier started file sharing site eDonkey, acted fast and started the first Bitcoin exchange MtGox which he later sold to now-infamous Mark Karpeles.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba438e8a517ef44e88843ec750a3b4a7c91bbbed.jpg"></article>]]></description>
@@ -66,13 +73,6 @@
             <description><![CDATA[<article><h1>How CTB-Locker Ransomware Uses Bitcoin And Blockchain</h1><p>Why is ransomware the new rage? Denis Sinegubko, the founder of Unmask Parasites and senior malware researcher at Sucuri, a network security firm, notes in a Sucuri blog that the answer to this question has to do with the way ransomware demands are paid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4962f136b13abb3d067a5a0487b128e877960976.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/how-ctb-locker-ransomware-uses-bitcoin-and-blockchain/</link>
             <guid isPermaLink="false">e79f9d83-019b-4082-bdb7-8ac7972757cc</guid>
-            <pubDate>Tue, 26 Apr 2016 19:16:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bitsquare Bitcoin crypto exchange]]></title>
-            <description><![CDATA[<article><h1>bitsquare Bitcoin crypto exchange</h1><p>Testing the first decentralized Bitcoin exchange.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c450ee96ffa6884335b1d16f1687b907831a30e5.jpg"></article>]]></description>
-            <link>http://www.youtube.com/watch?v=reQ0M1_SPsA</link>
-            <guid isPermaLink="false">1538e0aa-799f-41bd-b149-794b4c27a61e</guid>
             <pubDate>Tue, 26 Apr 2016 19:16:27 GMT</pubDate>
         </item>
     </channel>
