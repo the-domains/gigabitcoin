@@ -4,29 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 02:45:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 02:45:17 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Episode #80 Bitsquare Founder Manfred Karrer]]></title>
-            <description><![CDATA[<article><h1>Episode #80 Bitsquare Founder Manfred Karrer</h1><p>On today's show I take a trip to Barcelona, Spain to spend some time with Manfred Karrer, the founder of Bitsquare. Bitsquare is an open source peer-to-peer application that allows anyone to trade bitcoin for national currencies or cryptocurrencies. Bitsquare requires no registration or verification process and does not hold a users data or funds.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8db3c385f20429d3160419c17e2439806186e40.jpg"></article>]]></description>
-            <link>https://letstalkbitcoin.com/blog/post/episode-80-bitsquare-founder-manfred-karrer</link>
-            <guid isPermaLink="false">7c91c93a-3013-4ef8-a556-dd0e522875cd</guid>
-            <pubDate>Thu, 28 Apr 2016 02:44:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Crashes Into Fed Rates Call]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Crashes Into Fed Rates Call</h1><p>Bitcoin price sold-off from $470 (Bitstamp) and 3100 CNY earlier today. A Fed rates announcement is widely expected to catalyze global market trends later on Wednesday, yet the bitcoin market just took profit, for good measure, before the Fed even spoke. This analysis is provided by xbt.social with a 3-hour delay.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f9ad0a5692c9ee925caddd0978400c12c8741c0.png"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-price-awaits-fed-rates-call/</link>
-            <guid isPermaLink="false">73bc2c2a-c4d9-48dc-9df3-6ea760941857</guid>
-            <pubDate>Thu, 28 Apr 2016 02:44:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gaming Platform Steam Now Accepting Bitcoin - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Gaming Platform Steam Now Accepting Bitcoin - CoinDesk</h1><p>Confirming a long-rumored move, gaming and digital media platform Steam is now accepting bitcoin payments through processing service BitPay. The announcement today confirms earlier reports that Valve, the company that operates Steam, had sought to add the digital currency as a payment option.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d1b5917cef58444a0af11dc7008334d149cd3e4.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/video-game-platform-steam-now-accepting-bitcoin/</link>
-            <guid isPermaLink="false">bb6655d5-f23c-4af6-9685-95fa5e33240a</guid>
-            <pubDate>Thu, 28 Apr 2016 02:44:30 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Man accidentally sends $137,000 worth of Bitcoin instead of $5]]></title>
             <description><![CDATA[<article><h1>Man accidentally sends $137,000 worth of Bitcoin instead of $5</h1><p>The enormous sum would have been paid to BitClub, the bitcoin network processing the transaction rather than the intended recipient, as Motherboard points out. Bitcoin, an encrypted currency that relies on a decentralised ledger of transactions known as the blockchain, rather than central banks, for legitimacy, has found legions of online fans, if not mainstream acceptance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4b8b9bf123644fa5549accff212d60811f7649a.jpg"></article>]]></description>
@@ -75,6 +54,27 @@
             <link>http://qz.com/670708/the-british-government-is-considering-paying-out-research-grants-with-bitcoin/</link>
             <guid isPermaLink="false">3de713b4-5fef-41fe-8802-4e23b5b5f8f9</guid>
             <pubDate>Wed, 27 Apr 2016 00:42:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the Bitcoin Price Is Surging in Spite of the "Obits"]]></title>
+            <description><![CDATA[<article><h1>Why the Bitcoin Price Is Surging in Spite of the "Obits"</h1><p>The Bitcoin price is up 12% in the month of April and has more than doubled over the past 12 months. As of midday today (Tuesday), the Bitcoin Price Index was hovering around $467. As recently as January, the price of Bitcoin was as low as $358.77.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce10d793fb07300b50a285c5e5f27536d258ce4f.png"></article>]]></description>
+            <link>http://moneymorning.com/2016/04/26/why-the-bitcoin-price-is-surging-in-spite-of-the-obits/</link>
+            <guid isPermaLink="false">ea4a39f0-cfbe-450f-8897-182ea3a4717c</guid>
+            <pubDate>Wed, 27 Apr 2016 00:42:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EB128 - Jed Mccaleb: Stellar And The Vision Of An Open Financial System]]></title>
+            <description><![CDATA[<article><h1>EB128 - Jed Mccaleb: Stellar And The Vision Of An Open Financial System</h1><p>When Jed McCaleb discovered Bitcoin, there didn't even exist an online marketplace to trade the cryptocurrency yet. The experienced founder who had earlier started file sharing site eDonkey, acted fast and started the first Bitcoin exchange MtGox which he later sold to now-infamous Mark Karpeles.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba438e8a517ef44e88843ec750a3b4a7c91bbbed.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/epicenter-bitcoin-128-jed-mccaleb-stellar-and-the-vision-of-an-open-financial-system</link>
+            <guid isPermaLink="false">1f14a0b4-5842-4a8c-a20b-651aef5641ca</guid>
+            <pubDate>Wed, 27 Apr 2016 00:42:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stellar to give away 19 billion lumens to bitcoin holders]]></title>
+            <description><![CDATA[<article><h1>Stellar to give away 19 billion lumens to bitcoin holders</h1><p>Stellar.org, the non-profit technology provider aiming to connect financial institutions using consensus-based cryptography, has announced it will be giving away 19 billion of the network's native currency, lumens, to holders of bitcoin. The lumens will be distributed in several rounds, said Stellar CTO Jed McCaleb in a blog post.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1daba67009eb3a558020c6397f7892625a5d86a.jpg"></article>]]></description>
+            <link>http://www.ibtimes.co.uk/stellar-give-away-19-billion-lumens-bitcoin-holders-1556899</link>
+            <guid isPermaLink="false">83b4b245-217a-4929-9087-f98f5bca3a09</guid>
+            <pubDate>Wed, 27 Apr 2016 00:42:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
