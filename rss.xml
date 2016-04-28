@@ -4,27 +4,13 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 13:37:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 13:37:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[You can now buy games on Steam using Bitcoin]]></title>
-            <description><![CDATA[<article><h1>You can now buy games on Steam using Bitcoin</h1><p>Valve has partnered with Bitcoin payment service Bitpay to bring everyone's favorite cryptocurrency to games platform Steam. Bitpay says it was approached by the company because it wanted to internationalize its operation, making it easier for Steam users in emerging markets to to buy games without using a credit card.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8308c9a420aca0a4e3adc219f704a95b61a9f33.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/4/28/11525482/bitcoin-steam-valve-bitpay</link>
-            <guid isPermaLink="false">825fcf53-0982-4748-a2c5-6e78a9fe9436</guid>
-            <pubDate>Thu, 28 Apr 2016 13:34:43 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[You Can Now Pay For Your Games from Steam With Bitcoin]]></title>
             <description><![CDATA[<article><h1>You Can Now Pay For Your Games from Steam With Bitcoin</h1><p>Valve has officially added support for Bitcoin payments in their Steam platform for distributing games online, meaning that millions of gamers worldwide can now pay with BTC for their new game purchases. There has been some rumors and leaks suggesting that this will happen at some point, but it is official now and you can already pay with Bitcoin at Steam.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/834631c22d4473ce6caa4394bd75257065d06250.jpg"></article>]]></description>
             <link>http://cryptomining-blog.com/7798-you-can-now-pay-for-your-games-from-steam-with-bitcoin/</link>
             <guid isPermaLink="false">ef4369ea-5d9c-4a8b-9dab-18187c49ab0a</guid>
-            <pubDate>Thu, 28 Apr 2016 13:34:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andreas Antonopoulos Makes Bold Prediction on Bitcoin Consensus]]></title>
-            <description><![CDATA[<article><h1>Andreas Antonopoulos Makes Bold Prediction on Bitcoin Consensus</h1><p>Andreas Antonopoulos surprised a crowd at a Berlin Bitcoin conference last week by claiming that, by the end of this year, Bitcoin's consensus algorithm will be totally changed. Also read: BitcoinAverage Report: Bitcoin Price Hits 2016 High The prediction comes after a much-publicized block size debate in which developers have disagreed on how to update the Bitcoin system in order for it to keep pace with growth in transaction demand.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4dfa03412b34d8d168aada4ad885245f25a4ebbd.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/andreas-antonopoulos-lightning-consensus/</link>
-            <guid isPermaLink="false">61a269d0-653f-4acc-83d5-9d88cde7e07f</guid>
             <pubDate>Thu, 28 Apr 2016 13:34:43 GMT</pubDate>
         </item>
         <item>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>The Price of Bitcoin is Now Double What it Was One Year Ago - CoinDesk</h1><p>Bitcoin prices have more than doubled over the last year, enjoying a period of reasonable growth as the digital currency continues to establish its legitimacy. Global bitcoin prices reached an inter-day high of $470.16 on 26th April, more than 100% above the inter-day high of $219.93 reached on the same day in 2015.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/557c859ca1a2d6d6236cc36f6ed3a44d2d70c7dc.png"></article>]]></description>
             <link>http://www.coindesk.com/bitcoin-price-double-2015/</link>
             <guid isPermaLink="false">958cca7f-d430-4b6b-b8d9-b8058b56b6f3</guid>
+            <pubDate>Thu, 28 Apr 2016 02:44:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="https://i.imgur.com/5wUrkJh.jpg"></article>]]></description>
+            <link>https://imgur.com/5wUrkJh</link>
+            <guid isPermaLink="false">582d6a3c-ec91-4003-a74b-6bc6087d5612</guid>
+            <pubDate>Thu, 28 Apr 2016 02:44:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin becoming Regulated Currency in the European Union]]></title>
+            <description><![CDATA[<article><h1>Bitcoin becoming Regulated Currency in the European Union</h1><p>Slovenian startup Bitstamp just did something that no other digital currency startup was able to do - launch the first nationally licensed Bitcoin exchange (BitEx). As it usually goes, the startup could not receive a license in its home country, so it took advantage of registering themselves in one of most business-oriented countries in the European Union.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00bb7c31be91b25d76e1eaa522f5480af5e0c397.jpg"></article>]]></description>
+            <link>http://vrworld.com/2016/04/27/bitcoin-becoming-currency-european-union/</link>
+            <guid isPermaLink="false">b3ab9ea9-3ccf-46ee-ac26-b4be3e8f8ffd</guid>
             <pubDate>Thu, 28 Apr 2016 02:44:32 GMT</pubDate>
         </item>
     </channel>
