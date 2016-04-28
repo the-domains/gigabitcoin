@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 02:45:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 02:45:39 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Japanese Bitcoin Exchange bitFlyer Raises $27 Million]]></title>
+            <description><![CDATA[<article><h1>Japanese Bitcoin Exchange bitFlyer Raises $27 Million</h1><p>Leading Japanese bitcoin exchange bitFlyer has revealed the successful completion of a ¥3 billion ($27 million) funding round, the largest funding round ever by a bitcoin and Fintech company in Japan. In a funding round led by Japanese investor SBI Investment and Tokyo-based venture capital firm Venture Labo Investment, prominent Japanese digital currency exchange operator bitFlyer has raised around 3 billion yen ($27 million) in new capital.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dba87d0597f2d3e8d5a8a1e75fd90d21e7897d0b.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/japanese-bitcoin-exchange-bitflyer-raises-27-million/</link>
+            <guid isPermaLink="false">a3c9fd4e-2804-4b62-b0e3-33b0b8048961</guid>
+            <pubDate>Thu, 28 Apr 2016 02:44:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MIT Panel: Democracy Is Antithetical to What Bitcoin Represents]]></title>
             <description><![CDATA[<article><h1>MIT Panel: Democracy Is Antithetical to What Bitcoin Represents</h1><p>Day one of last month's MIT Bitcoin Expo featured a panel discussion on various improvements to Bitcoin that are either currently in the works or already deployed on the network. Participants on the panel were Blockstream mathematician Andrew Poelstra, Blockstream Core Tech Engineer Mark Friedenbach, Lightning Network co-creator Joseph Poon and Bitcoin Core contributor Jonas Schnelli.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a60ebcb3e3f01ef35f131b68cb4eee5ba11412da.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Stellar Foundation Offers Lumen to All Bitcoin Users - NEWSBTC</h1><p>Stellar Foundation to give away lumen crypto-tokens to all bitcoin holders in the coming months. Read more... It is good news for those bitcoin users with a streak of altruism in their blood. Stellar Foundation is giving away a significant number of lumen, the crypto-tokens used by Stellar protocol to bitcoin users.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2787fa4c31184d93377c85e1ea2f2f0a7d6ed68.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/04/26/stellar-foundation-offers-lumen-to-all-bitcoin-users/</link>
             <guid isPermaLink="false">33ad26f5-2b81-41a0-8474-80d0794ea00d</guid>
-            <pubDate>Wed, 27 Apr 2016 00:42:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin's Maturity Problem]]></title>
-            <description><![CDATA[<article><h1>Bitcoin's Maturity Problem</h1><p>It may be "cyber incidents" like the US $81 million hack on the Bank of Bangladesh that has SWIFT, the Society for Worldwide Interbank Financial Telecommunication, investigating "Distributed Ledger Technology." Asked to comment on SWIFT's program for a CoinDesk reaction piece, I was most interested by the euphemistic language.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3880eec1d0015ddce085abf2106148eabcfa29c.gif"></article>]]></description>
-            <link>http://www.cato.org/blog/bitcoins-maturity-problem</link>
-            <guid isPermaLink="false">829f92e4-8ef3-4e72-a362-982a817c59a4</guid>
             <pubDate>Wed, 27 Apr 2016 00:42:40 GMT</pubDate>
         </item>
     </channel>
