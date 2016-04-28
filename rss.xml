@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 02:46:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 02:46:11 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Price of Bitcoin is Now Double What it Was One Year Ago - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>The Price of Bitcoin is Now Double What it Was One Year Ago - CoinDesk</h1><p>Bitcoin prices have more than doubled over the last year, enjoying a period of reasonable growth as the digital currency continues to establish its legitimacy. Global bitcoin prices reached an inter-day high of $470.16 on 26th April, more than 100% above the inter-day high of $219.93 reached on the same day in 2015.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/557c859ca1a2d6d6236cc36f6ed3a44d2d70c7dc.png"></article>]]></description>
+            <link>http://www.coindesk.com/bitcoin-price-double-2015/</link>
+            <guid isPermaLink="false">958cca7f-d430-4b6b-b8d9-b8058b56b6f3</guid>
+            <pubDate>Thu, 28 Apr 2016 02:44:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article><img src="https://i.imgur.com/5wUrkJh.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.cryptocoinsnews.com/japanese-bitcoin-exchange-bitflyer-raises-27-million/</link>
             <guid isPermaLink="false">a3c9fd4e-2804-4b62-b0e3-33b0b8048961</guid>
             <pubDate>Thu, 28 Apr 2016 02:44:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MIT Panel: Democracy Is Antithetical to What Bitcoin Represents]]></title>
-            <description><![CDATA[<article><h1>MIT Panel: Democracy Is Antithetical to What Bitcoin Represents</h1><p>Day one of last month's MIT Bitcoin Expo featured a panel discussion on various improvements to Bitcoin that are either currently in the works or already deployed on the network. Participants on the panel were Blockstream mathematician Andrew Poelstra, Blockstream Core Tech Engineer Mark Friedenbach, Lightning Network co-creator Joseph Poon and Bitcoin Core contributor Jonas Schnelli.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a60ebcb3e3f01ef35f131b68cb4eee5ba11412da.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/mit-panel-democracy-is-antithetical-to-what-bitcoin-represents-1461771081</link>
-            <guid isPermaLink="false">6456fc2f-ef59-44f6-8e9d-a87c8cc6f47d</guid>
-            <pubDate>Thu, 28 Apr 2016 02:44:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
