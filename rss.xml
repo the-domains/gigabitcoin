@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 19:38:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 19:38:52 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[South Africans Supporters of Alleged Global Bitcoin Scam MMM March On]]></title>
+            <description><![CDATA[<article><h1>South Africans Supporters of Alleged Global Bitcoin Scam MMM March On</h1><p>Supporters of MMM, which is accused of being a Ponzi scheme, marched in Soweto, South Africa in celebration of the Financial Freedom Awareness campaign, coinciding with South Africa's Freedom Day, according to Independent Online (IOL), a South African news source.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2af1a3b15b7a8fe7c326608b6462218ae4c79878.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/sa-mmm-supporters-bitcoin/</link>
+            <guid isPermaLink="false">b8de2c7d-3e1c-4c99-922d-46c64243634b</guid>
+            <pubDate>Fri, 29 Apr 2016 19:32:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Isle of Man Regulator Seeks Rule Change to Ease Bitcoin Gambling - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Isle of Man Regulator Seeks Rule Change to Ease Bitcoin Gambling - CoinDesk</h1><p>The government of the Isle of Man is looking to plug a gap in its gambling regulations as they relate to bitcoin and other digital currencies. Officials are currently weighing regulatory changes that would allow gambling services to accept digital currencies "as if they were cash".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb038132d025cc9b604bdedc29440896da020b43.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>One Month Into Bitcoin</h1><p>Some initial thoughts from a newbie. When I tell someone that I just started to work for a Bitcoin company, I get one of two responses. There is usually no in between. First, there's the Intrigued Interrogator. They are generally very excited to have met someone in the Bitcoin space, and they usually begin by stating their own brief experiential anecdote - 'Oh!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c6265f051db6a31cbac7ca6f68ad3f845148f5a.jpg"></article>]]></description>
             <link>http://gigabitcoin.xyz/one-month-into-bitcoin/index.html</link>
             <guid isPermaLink="false">752a7304-6139-4f4a-9dbc-60147c4eeb59</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2016-04-21]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-04-21</h1><p>Segwit review Travis switch to trusty Developers are working on a soft fork to introduce segregated witness onto Bitcoin mainnet, with initial testing being performed on a special testnet.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/04/21/</link>
-            <guid isPermaLink="false">0b824474-d02b-4dc7-a1a4-dfcb227a2abc</guid>
             <pubDate>Fri, 29 Apr 2016 13:40:56 GMT</pubDate>
         </item>
     </channel>
