@@ -4,77 +4,77 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 13:46:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:45:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[IRC meeting summary for 2016-04-21]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-04-21</h1><p>Segwit review Travis switch to trusty Developers are working on a soft fork to introduce segregated witness onto Bitcoin mainnet, with initial testing being performed on a special testnet.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/04/21/</link>
-            <guid isPermaLink="false">0b824474-d02b-4dc7-a1a4-dfcb227a2abc</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:56 GMT</pubDate>
+            <title><![CDATA[IRC meeting summary for 2015-10-29]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2015-10-29</h1><p>Upcoming softfork Chain limits Clang format BIP68 and BIP112 implementations The LevelDB topic was started but deferred till after the meeting as there are currently no plans to move to another database. However research and testing is encouraged. mcelrath volunteered to make a LMDB branch, jgarzik already has a sqlite branch.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2015/10/29/</link>
+            <guid isPermaLink="false">2217ecdb-5a57-4b6b-a75e-83227ab9b301</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[IRC meeting summary for 2016-03-31]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-03-31</h1><p>segregated witness update softfork backports bad chain alerts child-Pays-For-parent mining Update for the median time-past violation check talked about last week: there are currently no violations being mined. Gmaxwell will start generating MTP violating transactions to check for this again. Update for network-stack refactors: cfields pushed an up-to-date version to his net-refactor10 branch which is ready for testing and review.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/03/31/</link>
-            <guid isPermaLink="false">d0e1a532-411b-4bcc-bd88-596c8f7bcc53</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:55 GMT</pubDate>
+            <title><![CDATA[IRC meeting summary for 2015-10-08]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2015-10-08</h1><p>Mempool limiting: chain limits Low-S change CLTV & CSV review Creation of bitcoin discuss mailing list This issue has made most JS bitcoin software vulnerable to generating incorrect public keys. "This is an ecosystem threat with the potential to cause millions of dollars in losses that needs higher visibility; though it's not a bitcoin core / bitcoin network issue.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2015/10/08/</link>
+            <guid isPermaLink="false">6d933d93-9daa-40c1-b4e3-0c312deb58b9</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[IRC meeting summary for 2016-03-17]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-03-17</h1><p>Scheduling the first BIP 9 sort fork for BIPs 68, 112, 113 Features for 0.12.1 besides BIP 9 State of segregated witness VersionBits BIP9 allows using the block header version field as a bit array so that miners can indicate readiness for up to 29 soft forks simultaneously.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/03/17/</link>
-            <guid isPermaLink="false">a154ddfe-d623-4237-89c4-80ecd366da5c</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:55 GMT</pubDate>
+            <title><![CDATA[New Site Design, New Order Options]]></title>
+            <description><![CDATA[<article><h1>New Site Design, New Order Options</h1><p>Since Gemini launched, we've deepened our understanding of what you all want to see on our website and how we can best provide you with relevant information. We want your interaction with Gemini to be as efficient and user-friendly as possible - this goes back to our core principle of giving you what you need, when you need it .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/49574636909e0023fc6f7e869ea949fdd5a030d1.png"></article>]]></description>
+            <link>https://gemini.com/blog/new-design-new-order-options/</link>
+            <guid isPermaLink="false">fca12121-37c7-4865-887a-96d9a9a92846</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[IRC meeting summary for 2016-03-24]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-03-24</h1><p>Softfork status of BIP9 v0.12.1, v0.11.3 and v0.10.5 backports Constant time AES library Cfields is working on an overhaul of the network stack of bitcoin core. This means a lot of movement of code, but it will make it easier to add additional features.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/03/24/</link>
-            <guid isPermaLink="false">b035d7e1-e1c5-4d22-8b4b-a5c3c56d12d5</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:55 GMT</pubDate>
+            <title><![CDATA[IRC meeting summary for 2015-10-01]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2015-10-01</h1><p>The full IRC-logs can be found here. Mempool limiting BIP68 + CHECKSEQUENCEVERIFY CLTV soft fork deployment libconsensus merge time window When a transaction is relayed across the network it is held by the nodes in memory, until it gets into a block. All these transactions that sit in memory are called the memorypool or mempool for short.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2015/10/01/</link>
+            <guid isPermaLink="false">3ea8b507-17fd-4be3-8db7-7ee4c9e1aee6</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[IRC meeting summary for 2016-03-10]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-03-10</h1><p>Background: several developers are working on a soft fork to introduce segregated witness onto Bitcoin mainnet, with initial testing being performed on a special testnet.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/03/10/</link>
-            <guid isPermaLink="false">4d2ab9f8-b319-4375-a51c-1fd7665daf42</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:55 GMT</pubDate>
+            <title><![CDATA[SXSW Promotion: Free Bitcoin for New Users!]]></title>
+            <description><![CDATA[<article><h1>SXSW Promotion: Free Bitcoin for New Users!</h1><p>As part of a limited promotion, the first 500 USA-based new users that sign up to Gemini between Friday, March 11th (6:00pm EST) and Monday, March 14th (6:00pm EDT) will receive approximately $20 worth of bitcoin (0.05 BTC to be exact)! It's simple - sign up for an individual or institutional account, and complete the identity verification process.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c1c6bd6359538eb4a1b1850edb1f93dce1b4263.jpg"></article>]]></description>
+            <link>https://gemini.com/blog/sxsw-promotion-free-bitcoin-for-new-users/</link>
+            <guid isPermaLink="false">c2b396fd-89af-412d-800e-5635771f5660</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[IRC meeting summary for 2016-02-25]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-02-25</h1><p>BIP 68/112/113 rollout Forthcoming OpenSSL releases PR #7542 Implement "feefilter" P2P message hasn't been reviewed yet. BIP 68 Consensus-enforced transaction replacement signaled via sequence numbers. BIP 112 CHECKSEQUENCEVERIFY. BIP 113 Median time-past as endpoint for lock-time calculations. In short: BIP 68 changes the meaning of the sequence number field to a relative locktime.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/02/25/</link>
-            <guid isPermaLink="false">ebefbc73-9505-4474-a661-216ba9dd4c30</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:55 GMT</pubDate>
+            <title><![CDATA[Instant ACH Deposits Are Here!]]></title>
+            <description><![CDATA[<article><h1>Instant ACH Deposits Are Here!</h1><p>We recently made depositing bitcoin a lot faster - and now we are making depositing dollars faster too! You can now use our new Instant ACH feature to deposit funds immediately for trading . So here's how it works: Your deposit amount is available for trading immediately .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c9b1c33f49f76c8869e24be3e0c885c33d8b59a.jpg"></article>]]></description>
+            <link>https://gemini.com/blog/instant-ach-deposits-are-here/</link>
+            <guid isPermaLink="false">daf93255-c0d6-4e39-94a0-ce49899d034f</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[IRC meeting summary for 2016-02-18]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-02-18</h1><p>feefilter P2P message Reorg performance of SequenceLocks checks Note: The meeting was a short one as some developers were participating in the Bitcoin Roundtable. Btcdrak suggested arranging open source licenses of the Jetbrains IDEs for C++ and Python. The maintainer (wumpus) needs to apply.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/02/18/</link>
-            <guid isPermaLink="false">ae36b650-3d15-4e04-bce2-2fc083953e3c</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:55 GMT</pubDate>
+            <title><![CDATA[Introducing Multiple Bank Accounts]]></title>
+            <description><![CDATA[<article><h1>Introducing Multiple Bank Accounts</h1><p>A few weeks ago we brought you multi-user accounts. This week we are excited to announce another new feature - multiple bank accounts . That's right, you can now link multiple bank accounts to your Gemini account for deposits and withdrawals of USD. This feature (not surprisingly) was commonly requested - you asked, and we delivered.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a89672287d62ff9f1b9e8dd42c38875448d56e2.jpg"></article>]]></description>
+            <link>https://gemini.com/blog/introducing-multiple-bank-accounts/</link>
+            <guid isPermaLink="false">1a1a2c3e-cc4f-4150-902d-a30aee0a9d91</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[IRC meeting summary for 2016-03-03]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-03-03</h1><p>Background: BIP9 is a mechanism for deploying soft forks that replaces the IsSuperMajority() mechanism used to deploy BIPs34, 66, and 65. The older method requires soft forks be rolled out sequentially, as a miner signaling that they're ready to enforce soft fork number 3 must also signal that they're willing to enforce soft forks number 2 and 1.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/03/03/</link>
-            <guid isPermaLink="false">eec6d203-aa5f-44c9-ba6a-ef2261486378</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:55 GMT</pubDate>
+            <title><![CDATA[New Fee and Rebate Schedule!]]></title>
+            <description><![CDATA[<article><h1>New Fee and Rebate Schedule!</h1><p>We've been operational for just over four months and have now collected enough data to determine how to best encourage an active, stable, and efficient marketplace. As a result, we have decided to adjust our existing flat fee schedule to a real-time, dynamic maker-taker fee schedule .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f995708af47183425c58cc1f9c519874aeb7cd09.jpg"></article>]]></description>
+            <link>https://gemini.com/blog/new-fee-and-rebate-schedule/</link>
+            <guid isPermaLink="false">4cf6f265-82f5-44c6-953c-c4e23f5a8d08</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[IRC meeting summary for 2016-02-11]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-02-11</h1><p>BIP68 review Softfork logic (BIP9) squash/rebase recommendations Cfields is still working on an overhaul of the networking stack, he hopes to have it ready by next week. The best time to merge a change like that is at the beginning of the release window, so around now.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/02/11/</link>
-            <guid isPermaLink="false">eac0d0be-f808-4f90-a3f8-24377882698a</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
+            <title><![CDATA[Funding Your Gemini Account Just Got A Lot Faster!]]></title>
+            <description><![CDATA[<article><h1>Funding Your Gemini Account Just Got A Lot Faster!</h1><p>Funding your account with fiat (e.g. US Dollars) and bitcoin just became a lot faster! Funding via USD You can now instantly link your bank account to your Gemini account using your bank account login credentials. No more waiting multiple days for micro-deposits to hit your bank account.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9b035ee97ef06edfe5d33a9fbb065aafabf10cd.jpg"></article>]]></description>
+            <link>https://gemini.com/blog/funding-your-gemini-account-just-got-a-lot-faster/</link>
+            <guid isPermaLink="false">a326e3f6-4923-47aa-b8a2-82ca9d427bdf</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[IRC meeting summary for 2016-02-04]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-02-04</h1><p>Segwit proposed changes Sequence locks Bitcoin core 0.12 is at release candidate 3 https://bitcoin.org/bin/bitcoin-core-0.12.0/test/ The end-of-life policy as discussed in a previous meeting is published. Segregated witness changes the structure of transactions so that the signatures can be separated from the rest of the transactions.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/02/04/</link>
-            <guid isPermaLink="false">e3a3b393-ac14-4aad-9d8a-6ce828939a54</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
+            <title><![CDATA[Introducing Multi-User Accounts and Performance Upgrades]]></title>
+            <description><![CDATA[<article><h1>Introducing Multi-User Accounts and Performance Upgrades</h1><p>We have lots of big plans for Gemini in 2016 - and the first few pieces of those plans are already coming together. You may have noticed our new Activity Feed, which went live for everyone three weeks ago.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f69121626b7643191c5a84f7a6b4bbdd40b05c1b.png"></article>]]></description>
+            <link>https://gemini.com/blog/introducing-multi-user-accounts-and-performance-upgrades/</link>
+            <guid isPermaLink="false">d647bfe5-7fa4-486c-a44b-f41b83636e73</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
