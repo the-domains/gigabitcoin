@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 13:45:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:45:47 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2016-01-21]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-01-21</h1><p>0.11 backport release for chainstate obfuscation C++11 update EOL Policy / release cycles Recently a configuration option "-permitrbf" has been merged, which allows nodes to choose whether to replace opt-in RBF transactions or not. Some discussion ensued to change the default behavior of 0.12.0 and set it to false.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/01/21/</link>
+            <guid isPermaLink="false">85147044-f3b6-43a4-ac1c-c3ec83cc9af4</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2016-01-14]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-01-14</h1><p>Versionbits Status of segregated witness Status of 0.12 bitcoin-core release Consensus code encapsulation (libconsensus) Locktime PRs BIP 9 Currently softforks have been done by the isSuperMajority mechanism, meaning when 95% of the last 1000 blocks have a version number higher than X the fork is deployed.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/01/14/</link>
+            <guid isPermaLink="false">6edc05e2-2de6-4760-812e-37004155eb60</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IRC meeting summary for 2016-01-07]]></title>
             <description><![CDATA[<article><h1>IRC meeting summary for 2016-01-07</h1></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>IRC meeting summary for 2015-10-08</h1><p>Mempool limiting: chain limits Low-S change CLTV & CSV review Creation of bitcoin discuss mailing list This issue has made most JS bitcoin software vulnerable to generating incorrect public keys. "This is an ecosystem threat with the potential to cause millions of dollars in losses that needs higher visibility; though it's not a bitcoin core / bitcoin network issue.</p></article>]]></description>
             <link>https://bitcoincore.org/en/meetings/2015/10/08/</link>
             <guid isPermaLink="false">6d933d93-9daa-40c1-b4e3-0c312deb58b9</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Site Design, New Order Options]]></title>
-            <description><![CDATA[<article><h1>New Site Design, New Order Options</h1><p>Since Gemini launched, we've deepened our understanding of what you all want to see on our website and how we can best provide you with relevant information. We want your interaction with Gemini to be as efficient and user-friendly as possible - this goes back to our core principle of giving you what you need, when you need it .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/49574636909e0023fc6f7e869ea949fdd5a030d1.png"></article>]]></description>
-            <link>https://gemini.com/blog/new-design-new-order-options/</link>
-            <guid isPermaLink="false">fca12121-37c7-4865-887a-96d9a9a92846</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2015-10-01]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2015-10-01</h1><p>The full IRC-logs can be found here. Mempool limiting BIP68 + CHECKSEQUENCEVERIFY CLTV soft fork deployment libconsensus merge time window When a transaction is relayed across the network it is held by the nodes in memory, until it gets into a block. All these transactions that sit in memory are called the memorypool or mempool for short.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2015/10/01/</link>
-            <guid isPermaLink="false">3ea8b507-17fd-4be3-8db7-7ee4c9e1aee6</guid>
             <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
         </item>
     </channel>
