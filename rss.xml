@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 13:46:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:46:01 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2016-03-03]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-03-03</h1><p>Background: BIP9 is a mechanism for deploying soft forks that replaces the IsSuperMajority() mechanism used to deploy BIPs34, 66, and 65. The older method requires soft forks be rolled out sequentially, as a miner signaling that they're ready to enforce soft fork number 3 must also signal that they're willing to enforce soft forks number 2 and 1.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/03/03/</link>
-            <guid isPermaLink="false">eec6d203-aa5f-44c9-ba6a-ef2261486378</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:55 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[IRC meeting summary for 2016-02-11]]></title>
             <description><![CDATA[<article><h1>IRC meeting summary for 2016-02-11</h1><p>BIP68 review Softfork logic (BIP9) squash/rebase recommendations Cfields is still working on an overhaul of the networking stack, he hopes to have it ready by next week. The best time to merge a change like that is at the beginning of the release window, so around now.</p></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>IRC meeting summary for 2015-11-26</h1><p>CLTV activation BIP68/BIP112 implementation Replace-by-fee CheckLockTimeVerify (CLTV) aka "how you thought nLockTime worked before you actually tried to use it" aka OP_HODL. It's plausible the CLTV softfork will activate within just a few weeks, as everyone but a few big miners have adopted it. About 20% of the nodes currently run CLTV-supporting versions.</p></article>]]></description>
             <link>https://bitcoincore.org/en/meetings/2015/11/26/</link>
             <guid isPermaLink="false">9bab72d5-e62d-4cd9-b8ce-a35167955832</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2015-11-05]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2015-11-05</h1><p>Sigcache performance Performance goals for 0.12 transaction priority sigops flooding attack chain limits Note: cfields, mcelrath and BlueMatt (and maybe more) missed the meeting because of daylight saving time. Closing date for proposals for the scaling bitcoin workshop is the 9th. Check to see if there are any other commits for the 0.11.2 RC.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2015/11/05/</link>
+            <guid isPermaLink="false">5e9ba45b-13a1-46ea-a7d1-2ba358803b1c</guid>
             <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
         </item>
     </channel>
