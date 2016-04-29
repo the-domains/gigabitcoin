@@ -4,8 +4,36 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 13:42:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:42:22 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dash, the anonymous evolution of Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Dash, the anonymous evolution of Bitcoin</h1><p>The introduction of Bitcoin sparked a revolution of finance and economics. Bitcoin set money's value free from government constraint, value can now be determined solely by the market. Instead of depending on centralized third parties for every financial transaction, people can exchange value around the world cheaply, and in a completely decentralized manner.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92a58f332beb758f1b33e1e68665beccec1bb886.jpg"></article>]]></description>
+            <link>http://bravenewcoin.com/news/dash-the-anonymous-evolution-of-bitcoin/</link>
+            <guid isPermaLink="false">d840b114-7515-4a54-ae0f-65adde83e988</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coinbase Enables Instant Bitcoin Purchase via US Debit Cards]]></title>
+            <description><![CDATA[<article><h1>Coinbase Enables Instant Bitcoin Purchase via US Debit Cards</h1><p>Bitcoin exchange Coinbase has announced that it now enabled instant purchase of bitcoin via debit cards. The feature is available to all users in the United States. Coinbase users in the United States will, like their European counterparts, have the means to instantly buy bitcoin with debit cards.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c4628fa6206c80fa852e0176c75bff25685cd12.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/coinbase-enables-instant-bitcoin-purchase-via-us-debit-cards/</link>
+            <guid isPermaLink="false">512e1b24-32bd-4f4c-884e-4a8c751061e1</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Hampshire's Organic Bitcoin Farm Paradise]]></title>
+            <description><![CDATA[<article><h1>New Hampshire's Organic Bitcoin Farm Paradise</h1><p>New Hampshire, home to 4,150 farms comprised of 471,911 acres of farmland, is a prime destination for local, organic farm products. The state is also home to one of the most robust Bitcoin communities in the world, and as a result you can buy all your organic groceries with cryptocurrency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32e4a99cca9b29fdcfd789122f7b904637c00ca2.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/new-hampshires-organic-bitcoin-farm-paradise</link>
+            <guid isPermaLink="false">48fabbef-24e5-4f0c-8820-06f9c83b4504</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TBC Podcast: George Galloway talks Mayor of London & Freestyles]]></title>
+            <description><![CDATA[<article><h1>TBC Podcast: George Galloway talks Mayor of London & Freestyles</h1><p>London Mayoral candidate, former Labour Party MP and current leader of The Respect Party, George Galloway, stepped into our offices to sit down and discuss some mad topics. Hosts Vidal and Posty (who's covering for Mikill Pane, who's busy in Chicago right now) and producer Ren quiz him on some need-to-know topics.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/206ae4032e46fbd631ac6e1a71d56c1a74013653.jpg"></article>]]></description>
+            <link>http://grmdaily.com/video/episode-7-tbc-podcast-george-galloway/</link>
+            <guid isPermaLink="false">838e8b4a-2936-4788-b78b-24ed27c2ad57</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Lightning Network: Can It Provide Privacy for the Masses?]]></title>
             <description><![CDATA[<article><h1>Bitcoin Lightning Network: Can It Provide Privacy for the Masses?</h1><p>Bitcoin was originally thought to be fully anonymous and in its early days it probably was. However, as most moved from mining Bitcoin to buying, systemic entry points, or exchanges, sprang up. As a ledger history was created, known addresses, often those belonging to Bitcoin exchanges, became, in effect, de-anonymising tools.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c078d71728bec5507305fcae33fb16d3708c14d9.jpg"></article>]]></description>
@@ -46,34 +74,6 @@
             <description><![CDATA[<article><h1>Full Service Restored</h1><p>Today we are happy to announce the full restoration of Coinapult services. Users can now deposit BTC and Lock in addition to withdrawing and Unlocking. Attack Recap On March 17th, an unauthorized withdrawal of 150 BTC were made from our hot wallet. We immediately notified our users and took all services offline.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7dd8ad72e2ad3fea90e07d258633481b2448b20d.png"></article>]]></description>
             <link>http://gigabitcoin.xyz/full-service-restored/index.html</link>
             <guid isPermaLink="false">c9a97229-5efd-4f15-81d8-855ccd167dbf</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FUSION: complete! Bitcoin and Banking worlds successfully merged, and more updates]]></title>
-            <description><![CDATA[<article><h1>FUSION: complete! Bitcoin and Banking worlds successfully merged, and more updates</h1><p>Hello world! The Coinapult team has been hard at work since our integration with Crypto Capital earlier this year, and we'd like to share some of our latest developments and news with you as well as a little bit about what's on the horizon.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83e5b6d34ae4aa0051d4b7c1fb0de3d82b882909.jpg"></article>]]></description>
-            <link>http://gigabitcoin.xyz/fusion-complete-bitcoin-and-banking-worlds-successfully-me/index.html</link>
-            <guid isPermaLink="false">c94df7a8-fd33-41f4-b571-50268fef3a9d</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chance to win $500 of Bitcoin with the 2015 Coinapult-Mycelium Holiday Giveaway!!!]]></title>
-            <description><![CDATA[<article><h1>Chance to win $500 of Bitcoin with the 2015 Coinapult-Mycelium Holiday Giveaway!!!</h1><p>Hello Bitcoin World! Coinapult here. We're pretty excited about the latest Mycelium Android app update, which offers users the ability to lock any amount of bitcoin not only to USD but now also to EUR and GBP using the Lock Account feature!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/750689e0e2232f41cc07f7461467b01fbe21aa93.png"></article>]]></description>
-            <link>http://gigabitcoin.xyz/chance-to-win-dollar500-of-bitcoin-with-the-2015-coinapult-myceli/index.html</link>
-            <guid isPermaLink="false">f1e58abb-3a4a-4080-bdb3-27588d7ee9d8</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinapult and Mycelium Release USD-Locked Bitcoin Wallet]]></title>
-            <description><![CDATA[<article><h1>Coinapult and Mycelium Release USD-Locked Bitcoin Wallet</h1><p>Earlier this week, Coinapult and Mycelium together announced the newest release for the Mycelium Android app. Mycelium has integrated Coinapult's conversion API to allow Mycelium users to store both Bitcoin and USD balances directly from their app. Users can create a Coinapult account within the Mycelium app, and any bitcoins sent to your Coinapult-Mycelium account will be automatically converted to USD.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9f6ff1672cf5e521b901829023ae78daa621dd6.jpg"></article>]]></description>
-            <link>http://gigabitcoin.xyz/coinapult-and-mycelium-release-usd-locked-bitcoin-wallet/index.html</link>
-            <guid isPermaLink="false">597d2436-77a6-4cfc-82c4-48f2ddb6f2f2</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tender Wallet Bot: the Bitcoin wallet & broker for your Telegram app]]></title>
-            <description><![CDATA[<article><h1>Tender Wallet Bot: the Bitcoin wallet & broker for your Telegram app</h1><p>More and more, chat applications are becoming the go-to app for a number of different daily functions, aside from just messaging friends and family. And it makes plenty of sense. Messaging mom about directions to the family reunion? Here's the GPS location and navigation. Talking to your coworker about that presentation?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61146f1dfb3bdc0ceade1b1fc503bf16ed9a3a56.jpg"></article>]]></description>
-            <link>http://gigabitcoin.xyz/tender-wallet-bot-the-bitcoin-wallet-and-broker-for-your-tele/index.html</link>
-            <guid isPermaLink="false">7e761e5f-b1ff-45ea-a33b-97ff0177e799</guid>
             <pubDate>Fri, 29 Apr 2016 13:39:33 GMT</pubDate>
         </item>
     </channel>
