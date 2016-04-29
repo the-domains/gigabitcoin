@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 13:46:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:46:39 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2016-04-21]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-04-21</h1><p>Segwit review Travis switch to trusty Developers are working on a soft fork to introduce segregated witness onto Bitcoin mainnet, with initial testing being performed on a special testnet.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/04/21/</link>
+            <guid isPermaLink="false">0b824474-d02b-4dc7-a1a4-dfcb227a2abc</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2016-03-31]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-03-31</h1><p>segregated witness update softfork backports bad chain alerts child-Pays-For-parent mining Update for the median time-past violation check talked about last week: there are currently no violations being mined. Gmaxwell will start generating MTP violating transactions to check for this again. Update for network-stack refactors: cfields pushed an up-to-date version to his net-refactor10 branch which is ready for testing and review.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/03/31/</link>
+            <guid isPermaLink="false">d0e1a532-411b-4bcc-bd88-596c8f7bcc53</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2016-03-17]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-03-17</h1><p>Scheduling the first BIP 9 sort fork for BIPs 68, 112, 113 Features for 0.12.1 besides BIP 9 State of segregated witness VersionBits BIP9 allows using the block header version field as a bit array so that miners can indicate readiness for up to 29 soft forks simultaneously.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/03/17/</link>
+            <guid isPermaLink="false">a154ddfe-d623-4237-89c4-80ecd366da5c</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IRC meeting summary for 2016-03-24]]></title>
             <description><![CDATA[<article><h1>IRC meeting summary for 2016-03-24</h1><p>Softfork status of BIP9 v0.12.1, v0.11.3 and v0.10.5 backports Constant time AES library Cfields is working on an overhaul of the network stack of bitcoin core. This means a lot of movement of code, but it will make it easier to add additional features.</p></article>]]></description>
@@ -53,27 +74,6 @@
             <description><![CDATA[<article><h1>IRC meeting summary for 2016-02-04</h1><p>Segwit proposed changes Sequence locks Bitcoin core 0.12 is at release candidate 3 https://bitcoin.org/bin/bitcoin-core-0.12.0/test/ The end-of-life policy as discussed in a previous meeting is published. Segregated witness changes the structure of transactions so that the signatures can be separated from the rest of the transactions.</p></article>]]></description>
             <link>https://bitcoincore.org/en/meetings/2016/02/04/</link>
             <guid isPermaLink="false">e3a3b393-ac14-4aad-9d8a-6ce828939a54</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2016-01-28]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-01-28</h1></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/01/28/</link>
-            <guid isPermaLink="false">8d63cf44-4e7c-47b1-a3f8-c7d5ecd4e90b</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2016-01-21]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-01-21</h1><p>0.11 backport release for chainstate obfuscation C++11 update EOL Policy / release cycles Recently a configuration option "-permitrbf" has been merged, which allows nodes to choose whether to replace opt-in RBF transactions or not. Some discussion ensued to change the default behavior of 0.12.0 and set it to false.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/01/21/</link>
-            <guid isPermaLink="false">85147044-f3b6-43a4-ac1c-c3ec83cc9af4</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2016-01-14]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-01-14</h1><p>Versionbits Status of segregated witness Status of 0.12 bitcoin-core release Consensus code encapsulation (libconsensus) Locktime PRs BIP 9 Currently softforks have been done by the isSuperMajority mechanism, meaning when 95% of the last 1000 blocks have a version number higher than X the fork is deployed.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/01/14/</link>
-            <guid isPermaLink="false">6edc05e2-2de6-4760-812e-37004155eb60</guid>
             <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
         </item>
     </channel>
