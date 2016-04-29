@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 13:39:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:40:06 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Correlations to Macro Environment: Gold and Yuan Standouts]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Correlations to Macro Environment: Gold and Yuan Standouts</h1><p>In August 2015, we published an analysis that highlighted the correlation between the price of bitcoin and various other financial markets. Notably, we found a strong inverse relationship between bitcoin and gold prices. As noted in August, "the historical positive correlation with gold has turned decisively negative, and currently stands at -0.58."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5861c85bef11a40e34b8805c740e921301e8895b.png"></article>]]></description>
+            <link>https://research.tradeblock.com/bitcoin-correlations-to-macro-environment-gold-and-yuan-standouts/</link>
+            <guid isPermaLink="false">267258e5-2765-474a-87be-9fd52b799360</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How can I set the transaction fee when creating a transaction through Bitcoin-cli commands?]]></title>
             <description><![CDATA[<article><h1>How can I set the transaction fee when creating a transaction through Bitcoin-cli commands?</h1><p>I want to run the following command via bitcoin-cli: ./bitcoin-cli sendfrom "10302c02147e2948cbejd9a2bd80d9691ef08a6a4d416c2bb602143a4anj06b90e" "32cjBTQkfLBp38ixj7hdjk0cc90VPPnwhQ" 3.04384215 ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Cypherpunks Controversial Vision for Bitcoin Scalability</h1><p>With the increasing adoption of Bitcoin, cypherpunks have once again risen to prominence. As Gregory Maxwell and Peter Todd, self-proclaimed cypherpunks, and Adam Back, the inventor of Hashcash, pave a path for Bitcoin, their vision highlights a cautious approach in an attempt to not repeat the mistakes of the 90s.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf7fc46c4dc6adb5e7fbd8a8f3ce0cc92648a036.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/cypherpunks-controversial-vision-for-bitcoin-scalability</link>
             <guid isPermaLink="false">86aca055-5bdc-405c-9052-84eef2d9cbb8</guid>
-            <pubDate>Thu, 28 Apr 2016 18:41:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Open Source Ethereum Mining Pool Available]]></title>
-            <description><![CDATA[<article><h1>New Open Source Ethereum Mining Pool Available</h1><p>If you want to run your own private or public mining pool for Ethereum (ETH) you might be interested in the release of the new open Open Source Ethereum Mining Pool by sammy007 ( source).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2543fbdda8a5851eab27802751452dd4a3cbf0b.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7802-new-open-source-ethereum-mining-pool-available/</link>
-            <guid isPermaLink="false">9f8f61e1-846d-4239-beb0-fccb979154fe</guid>
             <pubDate>Thu, 28 Apr 2016 18:41:11 GMT</pubDate>
         </item>
     </channel>
