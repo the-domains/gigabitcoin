@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 13:40:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:40:16 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[itBit Exchange Execution & Data Management Now Available on TradeBlock Professional]]></title>
+            <description><![CDATA[<article><h1>itBit Exchange Execution & Data Management Now Available on TradeBlock Professional</h1><p>The TradeBlock Professional platform now includes execution tools and automated data management for the itBit bitcoin exchange. Subscribers of the platform can execute various order types to itBit from the standard exchange management interface (login required), as well as view their account balances and trade history.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b698666a7f3ab3cc4bf57ea9e1429724cf9dd603.png"></article>]]></description>
+            <link>https://research.tradeblock.com/itbit-exchange-execution-data-management-now-available-on-tradeblock-professional-2/</link>
+            <guid isPermaLink="false">67f30cba-d176-4ef5-9546-12da73eefa33</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Correlations to Macro Environment: Gold and Yuan Standouts]]></title>
             <description><![CDATA[<article><h1>Bitcoin Correlations to Macro Environment: Gold and Yuan Standouts</h1><p>In August 2015, we published an analysis that highlighted the correlation between the price of bitcoin and various other financial markets. Notably, we found a strong inverse relationship between bitcoin and gold prices. As noted in August, "the historical positive correlation with gold has turned decisively negative, and currently stands at -0.58."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5861c85bef11a40e34b8805c740e921301e8895b.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.wsj.com/articles/bitcoin-focused-investment-firm-brings-on-western-union-lawrence-summers-1461855562</link>
             <guid isPermaLink="false">a440f389-9f43-4115-9a34-cfc63a926ba6</guid>
             <pubDate>Thu, 28 Apr 2016 18:41:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cypherpunks Controversial Vision for Bitcoin Scalability]]></title>
-            <description><![CDATA[<article><h1>Cypherpunks Controversial Vision for Bitcoin Scalability</h1><p>With the increasing adoption of Bitcoin, cypherpunks have once again risen to prominence. As Gregory Maxwell and Peter Todd, self-proclaimed cypherpunks, and Adam Back, the inventor of Hashcash, pave a path for Bitcoin, their vision highlights a cautious approach in an attempt to not repeat the mistakes of the 90s.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf7fc46c4dc6adb5e7fbd8a8f3ce0cc92648a036.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/cypherpunks-controversial-vision-for-bitcoin-scalability</link>
-            <guid isPermaLink="false">86aca055-5bdc-405c-9052-84eef2d9cbb8</guid>
-            <pubDate>Thu, 28 Apr 2016 18:41:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
