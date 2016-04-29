@@ -4,77 +4,77 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 13:41:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:40:21 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Tender Wallet Bot: the Bitcoin wallet & broker for your Telegram app]]></title>
-            <description><![CDATA[<article><h1>Tender Wallet Bot: the Bitcoin wallet & broker for your Telegram app</h1><p>More and more, chat applications are becoming the go-to app for a number of different daily functions, aside from just messaging friends and family. And it makes plenty of sense. Messaging mom about directions to the family reunion? Here's the GPS location and navigation. Talking to your coworker about that presentation?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61146f1dfb3bdc0ceade1b1fc503bf16ed9a3a56.jpg"></article>]]></description>
-            <link>http://gigabitcoin.xyz/tender-wallet-bot-the-bitcoin-wallet-and-broker-for-your-tele/index.html</link>
-            <guid isPermaLink="false">7e761e5f-b1ff-45ea-a33b-97ff0177e799</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2015-11-12]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2015-11-12</h1><p>transaction priority for 0.12 Opt-in replace-by-fee Versionbits Chain limits Each transaction is assigned a priority, determined by the age, size, and number of inputs. Which currently makes some transactions free. This currently has a large amount of code, which makes it harder to maintain, and is not that optimal since you can't expect miners to include 0-fee transactions.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2015/11/12/</link>
-            <guid isPermaLink="false">fd20f0e8-7ef4-4eb1-b01d-b61f5919353d</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2015-11-19]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2015-11-19</h1><p>transaction priority dealing with mempool eviction Sequence numbers Opt-in replace by fee needs some extra testing, but otherwise seems ready to go. Some wallet developers are onboard and actively participating, for example GreenAddress. Each transaction is assigned a priority, determined by the age, size, and number of inputs.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2015/11/19/</link>
-            <guid isPermaLink="false">bd9dd85f-77dd-4deb-82db-52879dd5922d</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2015-10-22]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2015-10-22</h1><p>Mempool Memory Usage LevelDB replacement Median Past locktime & CLTV BIP 9 Versionbits PR #6816 is ready for implementation and needs more reviews. A 3 month moderation period on the bitcoin-dev mailinglist has started, as well as a new list bitcoin-discuss. more details: http://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-October/011591.html "bitcoin.org had incorrect release notes for 0.11.1.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2015/10/22/</link>
-            <guid isPermaLink="false">d6bc7b13-4891-4762-b51e-ba1a7304349b</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum - The World Computer!]]></title>
-            <description><![CDATA[<article><h1>Ethereum - The World Computer!</h1><p>Price for Ether has skyrocketed in the last couple of weeks, bringing the total market cap to USD 800 mn. Ether is now the second largest cryptocurrency after Bitcoin and its market cap is bigger than all other alternative Cryptocurrencies combined. There is a lot of excitement about the new cryptocurrency and its possible applications!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ab2a23c4397aa43e1eebdc5c23a98b96fdaa73c.jpg"></article>]]></description>
-            <link>http://blog.genesis-mining.com/ethereum-the-world-computer</link>
-            <guid isPermaLink="false">69e95970-b698-4210-b023-e04431c7069e</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2015-10-15]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2015-10-15</h1><p>Mempool limiting sendheaders BIP versionbits dev/discuss list policy CHECKSEQUENCEVERIFY When a transaction is relayed across the network it is held by the nodes in memory, until it gets into a block. All these transactions that sit in memory are called the memorypool or mempool for short.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2015/10/15/</link>
-            <guid isPermaLink="false">92faaf37-e657-43c0-9e8d-a65e999cbddc</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We Now Offer a FIX API and Support WebSockets]]></title>
-            <description><![CDATA[<article><h1>We Now Offer a FIX API and Support WebSockets</h1><p>We built our current JSON-based API primarily for customers who are already familiar with trading on Bitcoin exchanges. But there are plenty of traders who trade on markets all over the world but aren't familiar with the world of Bitcoin and simply aren't able or willing to connect to an exchange over the public internet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a76783571780b3673b2303135499a3be79fa6b3c.jpg"></article>]]></description>
-            <link>https://gemini.com/blog/we-now-offer-a-fix-api-and-support-websockets/</link>
-            <guid isPermaLink="false">aefb9002-f257-4a3b-959a-049b0c9f8f73</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing The New Gemini Activity Feed]]></title>
-            <description><![CDATA[<article><h1>Introducing The New Gemini Activity Feed</h1><p>This past Friday, we launched the second version of our activity feed. We thought now would be a good time to share our thinking behind it, as well as our overall design philosophy at Gemini.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3509ed6f0a4767a567e3712c5cf02bb3ef99afc.jpg"></article>]]></description>
-            <link>https://gemini.com/blog/introducing-the-new-gemini-activity-feed/</link>
-            <guid isPermaLink="false">6ba07344-192e-4f73-9541-e0d0944f3861</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenBazaar Tester's Guide]]></title>
-            <description><![CDATA[<article><h1>OpenBazaar Tester's Guide</h1><p>This article is to help OpenBazaar testers install the software, test it, and report any bugs or feedback to the development team. Thank you to all the testers out there helping us make OpenBazaar the best it can be!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ed0e44d6a80102fdc45ccbfd4386ecf1ac0ab76.png"></article>]]></description>
-            <link>https://blog.openbazaar.org/openbazaar-testers-guide/</link>
-            <guid isPermaLink="false">ae2528b2-8942-46c1-89f5-19e9562a5752</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:32 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[How Moderators and Dispute Resolution Work in OpenBazaar]]></title>
             <description><![CDATA[<article><h1>How Moderators and Dispute Resolution Work in OpenBazaar</h1><p>Summary: OpenBazaar helps prevent fraud by having buyers send their bitcoins into a 2-of-3 multisignature address controlled by the buyer, seller, and a trusted third party. This third party offers dispute resolution in case something goes wrong. These third parties offer their services on an open marketplace.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ed0e44d6a80102fdc45ccbfd4386ecf1ac0ab76.png"></article>]]></description>
             <link>https://blog.openbazaar.org/how-moderators-and-dispute-resolution-work-in-openbazaar/</link>
             <guid isPermaLink="false">73a19170-22a4-4f94-b571-39565e566777</guid>
             <pubDate>Fri, 29 Apr 2016 13:39:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coinut Implements XBX Index as Benchmark for Bitcoin Options Platform]]></title>
+            <description><![CDATA[<article><h1>Coinut Implements XBX Index as Benchmark for Bitcoin Options Platform</h1><p>TradeBlock's XBX Index now serves as the bitcoin reference rate for Coinut's derivative trading platform. Singapore-based Coinut was launched in Oct 2014 and is backed by Boost VC in San Mateo, California. The Company provides users with the ability to buy and sell European style vanilla and binary options with bitcoin as the underlying asset.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/820713632f8a993822b9132a70d74c4c09430110.png"></article>]]></description>
+            <link>https://research.tradeblock.com/coinut-implements-xbx-as-benchmark-for-bitcoin-options/</link>
+            <guid isPermaLink="false">32f9956d-c2b3-4a87-982e-e8b3bf1cc7bb</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TradeBlock XBX Index Page Update]]></title>
+            <description><![CDATA[<article><h1>TradeBlock XBX Index Page Update</h1><p>TradeBlock has launched an updated XBX Index page that features an improved layout and faster charting, along with an explanation of the key elements involved in calculating XBX prices. This update represents the first step in a series of planned announcements to provide greater transparency regarding calculation methodology and constituent eligibility criteria.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f223ae883b52dca42224aa768f3bdf9f54b623ef.png"></article>]]></description>
+            <link>https://research.tradeblock.com/tradeblock-xbx-index-page-update/</link>
+            <guid isPermaLink="false">206b8220-c8b6-447f-9983-b0bfb64cf8bf</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chainalysis Implements XBX Index for Compliance Solutions]]></title>
+            <description><![CDATA[<article><h1>Chainalysis Implements XBX Index for Compliance Solutions</h1><p>Chainalysis has become the most recent adopter of TradeBlock's XBX Index as the USD reference rate for the price of bitcoin. The XBX index will supplement Chainalysis' compliance tools and services, including real-time analysis to recognize patterns in the dollar value of bitcoin transactions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/041537893388d1444b6c9af5f7a397beaa1d32fa.png"></article>]]></description>
+            <link>https://research.tradeblock.com/chainalysis-implements-xbx-index-for-compliance-solutions/</link>
+            <guid isPermaLink="false">c7a232cc-ce8e-4082-a82e-bbf499254be7</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Ethereum Explorer Feature: VM Trace]]></title>
+            <description><![CDATA[<article><h1>New Ethereum Explorer Feature: VM Trace</h1><p>You can now view the computational steps by which an Ethereum contract is created or invoked. Ethereum contracts are software programs that are executed in the so-called Ethereum Virtual Machine (EVM). Contracts are created or invoked via transactions and each of these transactions involve a sequence of EVM operations, which are now displayed within the 'VM Trace' section of the...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7a7e4f97b47a9ea2ed323ba2b318158ad23e53b.png"></article>]]></description>
+            <link>https://research.tradeblock.com/new-ethereum-explorer-feature-vm-trace/</link>
+            <guid isPermaLink="false">9499ac06-12bd-42bc-a614-ed446e964e3f</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LibertyX Implements XBX Index for Cash-to-Bitcoin Services]]></title>
+            <description><![CDATA[<article><h1>LibertyX Implements XBX Index for Cash-to-Bitcoin Services</h1><p>Beginning this week, TradeBlock's XBX Index will serve as the official reference rate for LibertyX, which boasts the largest US retail cash-to-bitcoin footprint. The XBX Index provides LibertyX with a stable and accurate benchmark for the price of bitcoin, allowing the company to offer competitive rates while protecting its customers from market anomalies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/952cabe22ddbffffdf5eaa854965b21e1f54a7c1.png"></article>]]></description>
+            <link>https://research.tradeblock.com/libertyx-implements-xbx-index-for-cash-to-bitcoin-services/</link>
+            <guid isPermaLink="false">c0b225aa-0e5a-4d6e-93e7-c085b18b2904</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New cpuminer-multi Fork With HMQ1725 Algorithm Support]]></title>
+            <description><![CDATA[<article><h1>New cpuminer-multi Fork With HMQ1725 Algorithm Support</h1><p>A bit late with this one, but better late than never. We have compiled a 64-bit Windows binary of the new cpuminer-multi fork by ocminer ( source) with support for the HMQ1725 algorithm used by Espers (ESP).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5368d793479b3e75a38c1f42c97fb606fc0df2c.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7805-new-cpuminer-multi-fork-with-hmq1725-algorithm-support/</link>
+            <guid isPermaLink="false">7c710e1a-ac50-4872-84fe-be1054f8274e</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[itBit Exchange Execution & Data Management Now Available on TradeBlock Professional]]></title>
+            <description><![CDATA[<article><h1>itBit Exchange Execution & Data Management Now Available on TradeBlock Professional</h1><p>The TradeBlock Professional platform now includes execution tools and automated data management for the itBit bitcoin exchange. Subscribers of the platform can execute various order types to itBit from the standard exchange management interface (login required), as well as view their account balances and trade history.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b698666a7f3ab3cc4bf57ea9e1429724cf9dd603.png"></article>]]></description>
+            <link>https://research.tradeblock.com/itbit-exchange-execution-data-management-now-available-on-tradeblock-professional-2/</link>
+            <guid isPermaLink="false">67f30cba-d176-4ef5-9546-12da73eefa33</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Correlations to Macro Environment: Gold and Yuan Standouts]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Correlations to Macro Environment: Gold and Yuan Standouts</h1><p>In August 2015, we published an analysis that highlighted the correlation between the price of bitcoin and various other financial markets. Notably, we found a strong inverse relationship between bitcoin and gold prices. As noted in August, "the historical positive correlation with gold has turned decisively negative, and currently stands at -0.58."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5861c85bef11a40e34b8805c740e921301e8895b.png"></article>]]></description>
+            <link>https://research.tradeblock.com/bitcoin-correlations-to-macro-environment-gold-and-yuan-standouts/</link>
+            <guid isPermaLink="false">267258e5-2765-474a-87be-9fd52b799360</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How can I set the transaction fee when creating a transaction through Bitcoin-cli commands?]]></title>
+            <description><![CDATA[<article><h1>How can I set the transaction fee when creating a transaction through Bitcoin-cli commands?</h1><p>I want to run the following command via bitcoin-cli: ./bitcoin-cli sendfrom "10302c02147e2948cbejd9a2bd80d9691ef08a6a4d416c2bb602143a4anj06b90e" "32cjBTQkfLBp38ixj7hdjk0cc90VPPnwhQ" 3.04384215 ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43892/how-can-i-set-the-transaction-fee-when-creating-a-transaction-through-bitcoin-cl</link>
+            <guid isPermaLink="false">a307e084-f9a3-4c1a-a153-5a2390a965b9</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
