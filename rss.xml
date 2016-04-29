@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 13:44:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:44:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[SXSW Promotion: Free Bitcoin for New Users!]]></title>
-            <description><![CDATA[<article><h1>SXSW Promotion: Free Bitcoin for New Users!</h1><p>As part of a limited promotion, the first 500 USA-based new users that sign up to Gemini between Friday, March 11th (6:00pm EST) and Monday, March 14th (6:00pm EDT) will receive approximately $20 worth of bitcoin (0.05 BTC to be exact)! It's simple - sign up for an individual or institutional account, and complete the identity verification process.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c1c6bd6359538eb4a1b1850edb1f93dce1b4263.jpg"></article>]]></description>
-            <link>https://gemini.com/blog/sxsw-promotion-free-bitcoin-for-new-users/</link>
-            <guid isPermaLink="false">c2b396fd-89af-412d-800e-5635771f5660</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Instant ACH Deposits Are Here!]]></title>
             <description><![CDATA[<article><h1>Instant ACH Deposits Are Here!</h1><p>We recently made depositing bitcoin a lot faster - and now we are making depositing dollars faster too! You can now use our new Instant ACH feature to deposit funds immediately for trading . So here's how it works: Your deposit amount is available for trading immediately .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c9b1c33f49f76c8869e24be3e0c885c33d8b59a.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Genesis Mining Two Year Anniversary | Genesis Mining</h1><p>To celebrate the two year anniversary of launching, we are happy to offer a 5% discount code to all our customers, valid until 04/11/16 11:59 PM. To receive a 5% discount on Bitcoin, Ethereum and Scrypt cloud mining, simply enter discount code HappyBirthdayGM16 at checkout.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/398b70d42b81d3e7b640a62e2e061a0787d44e1e.png"></article>]]></description>
             <link>http://blog.genesis-mining.com/genesis-mining-two-year-anniversary</link>
             <guid isPermaLink="false">9deff1ff-46da-41aa-8687-361028863bd6</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4 Bitcoin Debit Cards]]></title>
+            <description><![CDATA[<article><h1>4 Bitcoin Debit Cards</h1><p>Bitcoin debit cards have slowly become more mainstream. But with an increasing number to choose from, how do you decide which is best? Which ones live up to their reviews and which ones can you be sure are not scams? We've done our own research, and many of us here at Genesis Mining use different cards.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7dbd71299e2738e8a93b6513788b83ca6dac60ee.jpg"></article>]]></description>
+            <link>http://blog.genesis-mining.com/4-bitcoin-debit-cards</link>
+            <guid isPermaLink="false">3eecf194-71b2-4ded-8715-201e88e6deb9</guid>
             <pubDate>Fri, 29 Apr 2016 13:40:51 GMT</pubDate>
         </item>
     </channel>
