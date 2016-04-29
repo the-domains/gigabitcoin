@@ -4,8 +4,50 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 13:43:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:43:29 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OpenBazaar User Tutorial]]></title>
+            <description><![CDATA[<article><h1>OpenBazaar User Tutorial</h1><p>This tutorial will show users how to install OpenBazaar, navigate the network, and make purchases. If you have problems along the way, visit our help desk. If you want to chat with someone from the OpenBazaar community for help, or to give feedback on how OpenBazaar is working for you, join our Slack community.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6184a2e12412c2042c4f5179bbe17f1145194973.png"></article>]]></description>
+            <link>https://blog.openbazaar.org/openbazaar-user-tutorial/</link>
+            <guid isPermaLink="false">33c40634-8584-4d39-8a53-0825b4980e4e</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenBazaar Weekly Update, March 7, 2016]]></title>
+            <description><![CDATA[<article><h1>OpenBazaar Weekly Update, March 7, 2016</h1><p>We've been posting weekly development updates for many months now. Since our testnet release on March 1st, we're now going to give updates on development through release notes when new versions are released. We will continue publishing weekly updates, which won't be focused on code changes but other information around the progress of the OpenBazaar software, network, and community.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ed0e44d6a80102fdc45ccbfd4386ecf1ac0ab76.png"></article>]]></description>
+            <link>https://blog.openbazaar.org/openbazaar-weekly-update-march-7-2016/</link>
+            <guid isPermaLink="false">f71e5759-c4cc-4f0a-a478-ba24bc596272</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenBazaar Released on the Testnet]]></title>
+            <description><![CDATA[<article><h1>OpenBazaar Released on the Testnet</h1><p>OpenBazaar is now fully functional on the testnet. We welcome rigorous testing from the community to ensure everything is functioning properly. You can download the testnet version here. After we're confident of the stability and functionality of the product, we'll transition to the main net and OpenBazaar will be open for business.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcee89ed1b60236280c6a799652a28fef4b20c04.png"></article>]]></description>
+            <link>https://blog.openbazaar.org/openbazaar-released-on-the-testnet/</link>
+            <guid isPermaLink="false">6c955873-b39f-409a-a044-1b227e44c731</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Image: How Payments Work on OpenBazaar]]></title>
+            <description><![CDATA[<article><h1>Image: How Payments Work on OpenBazaar</h1><p>This image shows three different payment flows in OpenBazaar. One flow shows direct payments, and two flows show different types of moderated payments (a normal transaction and a disputed one).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/46256d7bb64f02c0526dd519fb43b04f25d53ec5.png"></article>]]></description>
+            <link>https://blog.openbazaar.org/image-how-payments-work-on-openbazaar/</link>
+            <guid isPermaLink="false">99dcbf42-c281-4ada-a1b7-e21276e8be78</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Current Limitations of the OpenBazaar Software]]></title>
+            <description><![CDATA[<article><h1>Current Limitations of the OpenBazaar Software</h1><p>Anyone with a computer and internet connection can easily install the OpenBazaar software and begin trading with anyone else in the world - for free - without permission. We firmly believe that decentralized, P2P trade is going to fundamentally change commerce for the better. However, we don't expect this to happen overnight.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ed0e44d6a80102fdc45ccbfd4386ecf1ac0ab76.png"></article>]]></description>
+            <link>https://blog.openbazaar.org/current-limitations-of-the-openbazaar-software/</link>
+            <guid isPermaLink="false">aea8a8a6-4f57-4b0c-95ac-3f5fb4405b74</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenBazaar is Open for Business]]></title>
+            <description><![CDATA[<article><h1>OpenBazaar is Open for Business</h1><p>OpenBazaar is now released on the mainnet and is ready for real transactions. You can download the program on the OpenBazaar website . You can read our explaining how to use OpenBazaar for the first time. If you need help, user tutorial join our Slack or visit our help center.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1114ca9df30085f4ce6aba8862b14dda471fc18.png"></article>]]></description>
+            <link>https://blog.openbazaar.org/openbazaar-is-open-for-business/</link>
+            <guid isPermaLink="false">02a35fbb-183d-49f2-836c-f1259cbad8e9</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[TradeBlock Now Powering itBit OTC Trading Operations]]></title>
             <description><![CDATA[<article><h1>TradeBlock Now Powering itBit OTC Trading Operations</h1><p>TradeBlock now serves as the order management system and execution tool set for itBit's over-the-counter (OTC) middle and back office bitcoin trading operations. With recent monthly trading volumes in excess of 40,000 XBT, itBit has quickly emerged as one of the prominent OTC trading desks in the bitcoin space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61e18cafec4d4a376c763fb31938ffe8dac36ed5.png"></article>]]></description>
@@ -33,48 +75,6 @@
             <link>https://research.tradeblock.com/axoni-launches-to-provide-permissioned-ledger-technology/</link>
             <guid isPermaLink="false">255a32b9-5133-4882-87e0-09a982f65b6f</guid>
             <pubDate>Fri, 29 Apr 2016 13:40:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Technical Analysis for 04/29/2016 - Bears Getting Stronger? - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 04/29/2016 - Bears Getting Stronger? - NEWSBTC</h1><p>Bitcoin price could be due for another selloff if the short-term resistance levels keep gains in check. Bitcoin Price Key Highlights Bitcoin price could be due for another selloff if the short-term resistance levels keep gains in check. Technical Indicators Signals Bitcoin price recently made a sharp drop, breaking below several key support zones.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6ad8e6c995d7fd3e5d5720aba260fd89d1fe984.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/29/bitcoin-price-technical-analysis-04292016-bears-getting-stronger/</link>
-            <guid isPermaLink="false">067c13d2-1c77-45af-b019-4fc79cdfde73</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia is considering legislation that would send bitcoin users to jail for up to 7 years]]></title>
-            <description><![CDATA[<article><h1>Russia is considering legislation that would send bitcoin users to jail for up to 7 years</h1><p>Are you an avid bitcoin user in Russia? If so, you could end up in jail. The Russian Finance Ministry is preparing to introduce legislation next month that would fine and jail digital currency users, according to Bloomberg. The legislation, which was amended last month, has multiple tiers of penalties depending on the person's usage, according to...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/746c75de36fa93460c1cd6847703c28f7ac2c84e.jpg"></article>]]></description>
-            <link>http://qz.com/672780/russia-is-considering-legislation-that-would-send-bitcoin-users-to-jail-for-up-to-7-years/</link>
-            <guid isPermaLink="false">004ab6d7-19ac-41d1-b455-f7060dab35b6</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dash, the anonymous evolution of Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Dash, the anonymous evolution of Bitcoin</h1><p>The introduction of Bitcoin sparked a revolution of finance and economics. Bitcoin set money's value free from government constraint, value can now be determined solely by the market. Instead of depending on centralized third parties for every financial transaction, people can exchange value around the world cheaply, and in a completely decentralized manner.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92a58f332beb758f1b33e1e68665beccec1bb886.jpg"></article>]]></description>
-            <link>http://bravenewcoin.com/news/dash-the-anonymous-evolution-of-bitcoin/</link>
-            <guid isPermaLink="false">d840b114-7515-4a54-ae0f-65adde83e988</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase Enables Instant Bitcoin Purchase via US Debit Cards]]></title>
-            <description><![CDATA[<article><h1>Coinbase Enables Instant Bitcoin Purchase via US Debit Cards</h1><p>Bitcoin exchange Coinbase has announced that it now enabled instant purchase of bitcoin via debit cards. The feature is available to all users in the United States. Coinbase users in the United States will, like their European counterparts, have the means to instantly buy bitcoin with debit cards.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c4628fa6206c80fa852e0176c75bff25685cd12.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/coinbase-enables-instant-bitcoin-purchase-via-us-debit-cards/</link>
-            <guid isPermaLink="false">512e1b24-32bd-4f4c-884e-4a8c751061e1</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Hampshire's Organic Bitcoin Farm Paradise]]></title>
-            <description><![CDATA[<article><h1>New Hampshire's Organic Bitcoin Farm Paradise</h1><p>New Hampshire, home to 4,150 farms comprised of 471,911 acres of farmland, is a prime destination for local, organic farm products. The state is also home to one of the most robust Bitcoin communities in the world, and as a result you can buy all your organic groceries with cryptocurrency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32e4a99cca9b29fdcfd789122f7b904637c00ca2.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/new-hampshires-organic-bitcoin-farm-paradise</link>
-            <guid isPermaLink="false">48fabbef-24e5-4f0c-8820-06f9c83b4504</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TBC Podcast: George Galloway talks Mayor of London & Freestyles]]></title>
-            <description><![CDATA[<article><h1>TBC Podcast: George Galloway talks Mayor of London & Freestyles</h1><p>London Mayoral candidate, former Labour Party MP and current leader of The Respect Party, George Galloway, stepped into our offices to sit down and discuss some mad topics. Hosts Vidal and Posty (who's covering for Mikill Pane, who's busy in Chicago right now) and producer Ren quiz him on some need-to-know topics.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/206ae4032e46fbd631ac6e1a71d56c1a74013653.jpg"></article>]]></description>
-            <link>http://grmdaily.com/video/episode-7-tbc-podcast-george-galloway/</link>
-            <guid isPermaLink="false">838e8b4a-2936-4788-b78b-24ed27c2ad57</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
