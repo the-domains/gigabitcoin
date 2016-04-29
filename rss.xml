@@ -4,57 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 13:41:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:40:23 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Chance to win $500 of Bitcoin with the 2015 Coinapult-Mycelium Holiday Giveaway!!!]]></title>
-            <description><![CDATA[<article><h1>Chance to win $500 of Bitcoin with the 2015 Coinapult-Mycelium Holiday Giveaway!!!</h1><p>Hello Bitcoin World! Coinapult here. We're pretty excited about the latest Mycelium Android app update, which offers users the ability to lock any amount of bitcoin not only to USD but now also to EUR and GBP using the Lock Account feature!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/750689e0e2232f41cc07f7461467b01fbe21aa93.png"></article>]]></description>
-            <link>http://gigabitcoin.xyz/chance-to-win-dollar500-of-bitcoin-with-the-2015-coinapult-myceli/index.html</link>
-            <guid isPermaLink="false">f1e58abb-3a4a-4080-bdb3-27588d7ee9d8</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinapult and Mycelium Release USD-Locked Bitcoin Wallet]]></title>
-            <description><![CDATA[<article><h1>Coinapult and Mycelium Release USD-Locked Bitcoin Wallet</h1><p>Earlier this week, Coinapult and Mycelium together announced the newest release for the Mycelium Android app. Mycelium has integrated Coinapult's conversion API to allow Mycelium users to store both Bitcoin and USD balances directly from their app. Users can create a Coinapult account within the Mycelium app, and any bitcoins sent to your Coinapult-Mycelium account will be automatically converted to USD.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9f6ff1672cf5e521b901829023ae78daa621dd6.jpg"></article>]]></description>
-            <link>http://gigabitcoin.xyz/coinapult-and-mycelium-release-usd-locked-bitcoin-wallet/index.html</link>
-            <guid isPermaLink="false">597d2436-77a6-4cfc-82c4-48f2ddb6f2f2</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tender Wallet Bot: the Bitcoin wallet & broker for your Telegram app]]></title>
-            <description><![CDATA[<article><h1>Tender Wallet Bot: the Bitcoin wallet & broker for your Telegram app</h1><p>More and more, chat applications are becoming the go-to app for a number of different daily functions, aside from just messaging friends and family. And it makes plenty of sense. Messaging mom about directions to the family reunion? Here's the GPS location and navigation. Talking to your coworker about that presentation?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61146f1dfb3bdc0ceade1b1fc503bf16ed9a3a56.jpg"></article>]]></description>
-            <link>http://gigabitcoin.xyz/tender-wallet-bot-the-bitcoin-wallet-and-broker-for-your-tele/index.html</link>
-            <guid isPermaLink="false">7e761e5f-b1ff-45ea-a33b-97ff0177e799</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2015-11-12]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2015-11-12</h1><p>transaction priority for 0.12 Opt-in replace-by-fee Versionbits Chain limits Each transaction is assigned a priority, determined by the age, size, and number of inputs. Which currently makes some transactions free. This currently has a large amount of code, which makes it harder to maintain, and is not that optimal since you can't expect miners to include 0-fee transactions.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2015/11/12/</link>
-            <guid isPermaLink="false">fd20f0e8-7ef4-4eb1-b01d-b61f5919353d</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2015-11-19]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2015-11-19</h1><p>transaction priority dealing with mempool eviction Sequence numbers Opt-in replace by fee needs some extra testing, but otherwise seems ready to go. Some wallet developers are onboard and actively participating, for example GreenAddress. Each transaction is assigned a priority, determined by the age, size, and number of inputs.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2015/11/19/</link>
-            <guid isPermaLink="false">bd9dd85f-77dd-4deb-82db-52879dd5922d</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2015-10-22]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2015-10-22</h1><p>Mempool Memory Usage LevelDB replacement Median Past locktime & CLTV BIP 9 Versionbits PR #6816 is ready for implementation and needs more reviews. A 3 month moderation period on the bitcoin-dev mailinglist has started, as well as a new list bitcoin-discuss. more details: http://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-October/011591.html "bitcoin.org had incorrect release notes for 0.11.1.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2015/10/22/</link>
-            <guid isPermaLink="false">d6bc7b13-4891-4762-b51e-ba1a7304349b</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum - The World Computer!]]></title>
-            <description><![CDATA[<article><h1>Ethereum - The World Computer!</h1><p>Price for Ether has skyrocketed in the last couple of weeks, bringing the total market cap to USD 800 mn. Ether is now the second largest cryptocurrency after Bitcoin and its market cap is bigger than all other alternative Cryptocurrencies combined. There is a lot of excitement about the new cryptocurrency and its possible applications!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ab2a23c4397aa43e1eebdc5c23a98b96fdaa73c.jpg"></article>]]></description>
-            <link>http://blog.genesis-mining.com/ethereum-the-world-computer</link>
-            <guid isPermaLink="false">69e95970-b698-4210-b023-e04431c7069e</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:32 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[IRC meeting summary for 2015-10-15]]></title>
             <description><![CDATA[<article><h1>IRC meeting summary for 2015-10-15</h1><p>Mempool limiting sendheaders BIP versionbits dev/discuss list policy CHECKSEQUENCEVERIFY When a transaction is relayed across the network it is held by the nodes in memory, until it gets into a block. All these transactions that sit in memory are called the memorypool or mempool for short.</p></article>]]></description>
@@ -75,6 +26,55 @@
             <link>https://gemini.com/blog/introducing-the-new-gemini-activity-feed/</link>
             <guid isPermaLink="false">6ba07344-192e-4f73-9541-e0d0944f3861</guid>
             <pubDate>Fri, 29 Apr 2016 13:39:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenBazaar Tester's Guide]]></title>
+            <description><![CDATA[<article><h1>OpenBazaar Tester's Guide</h1><p>This article is to help OpenBazaar testers install the software, test it, and report any bugs or feedback to the development team. Thank you to all the testers out there helping us make OpenBazaar the best it can be!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ed0e44d6a80102fdc45ccbfd4386ecf1ac0ab76.png"></article>]]></description>
+            <link>https://blog.openbazaar.org/openbazaar-testers-guide/</link>
+            <guid isPermaLink="false">ae2528b2-8942-46c1-89f5-19e9562a5752</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Moderators and Dispute Resolution Work in OpenBazaar]]></title>
+            <description><![CDATA[<article><h1>How Moderators and Dispute Resolution Work in OpenBazaar</h1><p>Summary: OpenBazaar helps prevent fraud by having buyers send their bitcoins into a 2-of-3 multisignature address controlled by the buyer, seller, and a trusted third party. This third party offers dispute resolution in case something goes wrong. These third parties offer their services on an open marketplace.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ed0e44d6a80102fdc45ccbfd4386ecf1ac0ab76.png"></article>]]></description>
+            <link>https://blog.openbazaar.org/how-moderators-and-dispute-resolution-work-in-openbazaar/</link>
+            <guid isPermaLink="false">73a19170-22a4-4f94-b571-39565e566777</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coinut Implements XBX Index as Benchmark for Bitcoin Options Platform]]></title>
+            <description><![CDATA[<article><h1>Coinut Implements XBX Index as Benchmark for Bitcoin Options Platform</h1><p>TradeBlock's XBX Index now serves as the bitcoin reference rate for Coinut's derivative trading platform. Singapore-based Coinut was launched in Oct 2014 and is backed by Boost VC in San Mateo, California. The Company provides users with the ability to buy and sell European style vanilla and binary options with bitcoin as the underlying asset.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/820713632f8a993822b9132a70d74c4c09430110.png"></article>]]></description>
+            <link>https://research.tradeblock.com/coinut-implements-xbx-as-benchmark-for-bitcoin-options/</link>
+            <guid isPermaLink="false">32f9956d-c2b3-4a87-982e-e8b3bf1cc7bb</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TradeBlock XBX Index Page Update]]></title>
+            <description><![CDATA[<article><h1>TradeBlock XBX Index Page Update</h1><p>TradeBlock has launched an updated XBX Index page that features an improved layout and faster charting, along with an explanation of the key elements involved in calculating XBX prices. This update represents the first step in a series of planned announcements to provide greater transparency regarding calculation methodology and constituent eligibility criteria.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f223ae883b52dca42224aa768f3bdf9f54b623ef.png"></article>]]></description>
+            <link>https://research.tradeblock.com/tradeblock-xbx-index-page-update/</link>
+            <guid isPermaLink="false">206b8220-c8b6-447f-9983-b0bfb64cf8bf</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chainalysis Implements XBX Index for Compliance Solutions]]></title>
+            <description><![CDATA[<article><h1>Chainalysis Implements XBX Index for Compliance Solutions</h1><p>Chainalysis has become the most recent adopter of TradeBlock's XBX Index as the USD reference rate for the price of bitcoin. The XBX index will supplement Chainalysis' compliance tools and services, including real-time analysis to recognize patterns in the dollar value of bitcoin transactions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/041537893388d1444b6c9af5f7a397beaa1d32fa.png"></article>]]></description>
+            <link>https://research.tradeblock.com/chainalysis-implements-xbx-index-for-compliance-solutions/</link>
+            <guid isPermaLink="false">c7a232cc-ce8e-4082-a82e-bbf499254be7</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Ethereum Explorer Feature: VM Trace]]></title>
+            <description><![CDATA[<article><h1>New Ethereum Explorer Feature: VM Trace</h1><p>You can now view the computational steps by which an Ethereum contract is created or invoked. Ethereum contracts are software programs that are executed in the so-called Ethereum Virtual Machine (EVM). Contracts are created or invoked via transactions and each of these transactions involve a sequence of EVM operations, which are now displayed within the 'VM Trace' section of the...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7a7e4f97b47a9ea2ed323ba2b318158ad23e53b.png"></article>]]></description>
+            <link>https://research.tradeblock.com/new-ethereum-explorer-feature-vm-trace/</link>
+            <guid isPermaLink="false">9499ac06-12bd-42bc-a614-ed446e964e3f</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LibertyX Implements XBX Index for Cash-to-Bitcoin Services]]></title>
+            <description><![CDATA[<article><h1>LibertyX Implements XBX Index for Cash-to-Bitcoin Services</h1><p>Beginning this week, TradeBlock's XBX Index will serve as the official reference rate for LibertyX, which boasts the largest US retail cash-to-bitcoin footprint. The XBX Index provides LibertyX with a stable and accurate benchmark for the price of bitcoin, allowing the company to offer competitive rates while protecting its customers from market anomalies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/952cabe22ddbffffdf5eaa854965b21e1f54a7c1.png"></article>]]></description>
+            <link>https://research.tradeblock.com/libertyx-implements-xbx-index-for-cash-to-bitcoin-services/</link>
+            <guid isPermaLink="false">c0b225aa-0e5a-4d6e-93e7-c085b18b2904</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
