@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 13:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:42:03 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coinapult Announces New Chief Executive Officer]]></title>
+            <description><![CDATA[<article><h1>Coinapult Announces New Chief Executive Officer</h1><p>Coinapult would like to announce a change in ownership and management, effective immediately. Coinapult has named Gabriel Sukenik as the new Chief Executive Officer, and the company is now an entity of Rolling Hills International. Sukenik has been with Coinapult since its inception, becoming its first employee in January 2013 and managing the company's business development.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db6afd8e25d7b6a237933764b4007a7fa9e4a227.jpg"></article>]]></description>
+            <link>http://gigabitcoin.xyz/coinapult-announces-new-chief-executive-officer/index.html</link>
+            <guid isPermaLink="false">ec75adf4-3920-490e-82ac-ec3d0890c47c</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[First Bitcoin ATM in Panama City Opens]]></title>
             <description><![CDATA[<article><h1>First Bitcoin ATM in Panama City Opens</h1><p>Published on Jun 1, 2015 FIRST BITCOIN ATM IN PANAMA, NOW LIVE The first bitcoin automatic teller machine (ATM) in Panama went live on Monday 25 May at 11:00AM, Eastern Standard Time. It is installed at shipping company Virtual Mall Box's retail location in the Balboa area of Panama City, Panama.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db6afd8e25d7b6a237933764b4007a7fa9e4a227.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>IRC meeting summary for 2015-11-19</h1><p>transaction priority dealing with mempool eviction Sequence numbers Opt-in replace by fee needs some extra testing, but otherwise seems ready to go. Some wallet developers are onboard and actively participating, for example GreenAddress. Each transaction is assigned a priority, determined by the age, size, and number of inputs.</p></article>]]></description>
             <link>https://bitcoincore.org/en/meetings/2015/11/19/</link>
             <guid isPermaLink="false">bd9dd85f-77dd-4deb-82db-52879dd5922d</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2015-10-22]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2015-10-22</h1><p>Mempool Memory Usage LevelDB replacement Median Past locktime & CLTV BIP 9 Versionbits PR #6816 is ready for implementation and needs more reviews. A 3 month moderation period on the bitcoin-dev mailinglist has started, as well as a new list bitcoin-discuss. more details: http://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-October/011591.html "bitcoin.org had incorrect release notes for 0.11.1.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2015/10/22/</link>
-            <guid isPermaLink="false">d6bc7b13-4891-4762-b51e-ba1a7304349b</guid>
             <pubDate>Fri, 29 Apr 2016 13:39:32 GMT</pubDate>
         </item>
     </channel>
