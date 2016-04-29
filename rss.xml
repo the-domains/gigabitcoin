@@ -4,77 +4,77 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 13:44:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:45:40 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Our Guidelines For Trade Reversals]]></title>
-            <description><![CDATA[<article><h1>Our Guidelines For Trade Reversals</h1><p>We are writing to clarify our policies and procedures around market disruptions, and to address the large market buy order that was placed by a customer on the evening of Friday, November 13th, 2015.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f6f1164ca70381adf0a21843c1e2c3db751d5b0.jpg"></article>]]></description>
-            <link>https://gemini.com/blog/our-guidelines-for-trade-reversals/</link>
-            <guid isPermaLink="false">9f3b3d9a-774b-4b7c-b92b-fca20ddf3f02</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:52 GMT</pubDate>
+            <title><![CDATA[IRC meeting summary for 2016-01-07]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-01-07</h1></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/01/07/</link>
+            <guid isPermaLink="false">72020c98-4869-4630-a95d-e8e72b2e248b</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Bitcoin Use Case: Donald Trump's Wall]]></title>
-            <description><![CDATA[<article><h1>A Bitcoin Use Case: Donald Trump's Wall</h1><p>Last week, presidential candidate Donald Trump revealed his plan for funding the wall that he wants to build on the border between Mexico and the southern United States. How would he generate the billions of dollars to construct it? He has a simple plan: block the flow of remittance funds from United States to Mexico.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2a34e914acc17a11eeae6fb9663ead50e4ed3ae.jpg"></article>]]></description>
-            <link>http://blog.genesis-mining.com/a-bitcoin-use-case-donald-trumps-wall</link>
-            <guid isPermaLink="false">46a0b322-2c3d-4e3a-9dc0-cb6d5f982752</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:52 GMT</pubDate>
+            <title><![CDATA[IRC meeting summary for 2015-12-17]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2015-12-17</h1><p>Replace-by-fee handling in wallets C++11 for 0.13 Currently when a node sees a transaction that spends the same output it ignores it. With RBF it replaces the current transaction in the mempool if it has a higher fee. This allows for things like spending "stuck" transactions, adding more recipients to a transaction in order to prevent chaining, etc.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2015/12/17/</link>
+            <guid isPermaLink="false">a4a24a98-c11e-44fc-bc07-7d4186f95d89</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Moscow Bitcoin Conference 2016]]></title>
-            <description><![CDATA[<article><h1>Moscow Bitcoin Conference 2016</h1><p>We attended the Moscow Bitcoin Conference on April 8th 2016 and gave an outlook on "Opportunities in Cryttocurrency Mining". A lot of interesting and insightful presentations were held and we are happy to see the Bitcoin Industry in Russia thrive! Here are some excerpts & presentation slides of the conference.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2378ff4a62f247db62f40e1ab840d24b33c4dc5e.png"></article>]]></description>
-            <link>http://blog.genesis-mining.com/moscow-bitcoin-conference-2016</link>
-            <guid isPermaLink="false">a5049533-b8d6-4c15-9869-00782eea84e2</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:52 GMT</pubDate>
+            <title><![CDATA[IRC meeting summary for 2015-12-10]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2015-12-10</h1><p>BIP 68 Consensus-enforced transaction replacement signaled via sequence numbers , and current implementation. BIP 68 changes the meaning of the previously unused sequence number field to a relative locktime. When a block is created miners include a timestamp. This timestamp has to be between the median of the previous 11 blocks and the network-adjusted time +2 hours.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2015/12/10/</link>
+            <guid isPermaLink="false">6536c2ff-a471-4869-9e1b-f906dbecc744</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Genesis Mining Two Year Anniversary | Genesis Mining]]></title>
-            <description><![CDATA[<article><h1>Genesis Mining Two Year Anniversary | Genesis Mining</h1><p>To celebrate the two year anniversary of launching, we are happy to offer a 5% discount code to all our customers, valid until 04/11/16 11:59 PM. To receive a 5% discount on Bitcoin, Ethereum and Scrypt cloud mining, simply enter discount code HappyBirthdayGM16 at checkout.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/398b70d42b81d3e7b640a62e2e061a0787d44e1e.png"></article>]]></description>
-            <link>http://blog.genesis-mining.com/genesis-mining-two-year-anniversary</link>
-            <guid isPermaLink="false">9deff1ff-46da-41aa-8687-361028863bd6</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:51 GMT</pubDate>
+            <title><![CDATA[IRC meeting summary for 2015-11-26]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2015-11-26</h1><p>CLTV activation BIP68/BIP112 implementation Replace-by-fee CheckLockTimeVerify (CLTV) aka "how you thought nLockTime worked before you actually tried to use it" aka OP_HODL. It's plausible the CLTV softfork will activate within just a few weeks, as everyone but a few big miners have adopted it. About 20% of the nodes currently run CLTV-supporting versions.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2015/11/26/</link>
+            <guid isPermaLink="false">9bab72d5-e62d-4cd9-b8ce-a35167955832</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4 Bitcoin Debit Cards]]></title>
-            <description><![CDATA[<article><h1>4 Bitcoin Debit Cards</h1><p>Bitcoin debit cards have slowly become more mainstream. But with an increasing number to choose from, how do you decide which is best? Which ones live up to their reviews and which ones can you be sure are not scams? We've done our own research, and many of us here at Genesis Mining use different cards.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7dbd71299e2738e8a93b6513788b83ca6dac60ee.jpg"></article>]]></description>
-            <link>http://blog.genesis-mining.com/4-bitcoin-debit-cards</link>
-            <guid isPermaLink="false">3eecf194-71b2-4ded-8715-201e88e6deb9</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:51 GMT</pubDate>
+            <title><![CDATA[IRC meeting summary for 2015-11-05]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2015-11-05</h1><p>Sigcache performance Performance goals for 0.12 transaction priority sigops flooding attack chain limits Note: cfields, mcelrath and BlueMatt (and maybe more) missed the meeting because of daylight saving time. Closing date for proposals for the scaling bitcoin workshop is the 9th. Check to see if there are any other commits for the 0.11.2 RC.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2015/11/05/</link>
+            <guid isPermaLink="false">5e9ba45b-13a1-46ea-a7d1-2ba358803b1c</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Vendor's Guide to OpenBazaar]]></title>
-            <description><![CDATA[<article><h1>Vendor's Guide to OpenBazaar</h1><p>This guide will show vendors how they can set up an OpenBazaar store, step by step. If you have problems along the way, visit our help desk. If you want to chat with someone from the OpenBazaar community for help, or to give feedback on how OpenBazaar is working for you, join our Slack community.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6184a2e12412c2042c4f5179bbe17f1145194973.png"></article>]]></description>
-            <link>https://blog.openbazaar.org/vendors-guide-to-openbazaar/</link>
-            <guid isPermaLink="false">18b9008f-8a51-4a1f-a2b8-26e5b557925c</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:51 GMT</pubDate>
+            <title><![CDATA[IRC meeting summary for 2015-12-03]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2015-12-03</h1><p>BIP68-related pull requests Eviction and onions BIP for opt-in RBF A lot of developers where traveling to the scaling bitcoin conference ( videos), so this is again a shorter, and it'll likely be the same next week (as a lot of developers stay in Hong Kong for the developer meetup after the conference).</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2015/12/03/</link>
+            <guid isPermaLink="false">dbdb7ef4-9d25-4eea-8e36-826af666bf4a</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[OpenBazaar User Tutorial]]></title>
-            <description><![CDATA[<article><h1>OpenBazaar User Tutorial</h1><p>This tutorial will show users how to install OpenBazaar, navigate the network, and make purchases. If you have problems along the way, visit our help desk. If you want to chat with someone from the OpenBazaar community for help, or to give feedback on how OpenBazaar is working for you, join our Slack community.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6184a2e12412c2042c4f5179bbe17f1145194973.png"></article>]]></description>
-            <link>https://blog.openbazaar.org/openbazaar-user-tutorial/</link>
-            <guid isPermaLink="false">33c40634-8584-4d39-8a53-0825b4980e4e</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:51 GMT</pubDate>
+            <title><![CDATA[IRC meeting summary for 2015-10-29]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2015-10-29</h1><p>Upcoming softfork Chain limits Clang format BIP68 and BIP112 implementations The LevelDB topic was started but deferred till after the meeting as there are currently no plans to move to another database. However research and testing is encouraged. mcelrath volunteered to make a LMDB branch, jgarzik already has a sqlite branch.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2015/10/29/</link>
+            <guid isPermaLink="false">2217ecdb-5a57-4b6b-a75e-83227ab9b301</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[OpenBazaar Weekly Update, March 7, 2016]]></title>
-            <description><![CDATA[<article><h1>OpenBazaar Weekly Update, March 7, 2016</h1><p>We've been posting weekly development updates for many months now. Since our testnet release on March 1st, we're now going to give updates on development through release notes when new versions are released. We will continue publishing weekly updates, which won't be focused on code changes but other information around the progress of the OpenBazaar software, network, and community.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ed0e44d6a80102fdc45ccbfd4386ecf1ac0ab76.png"></article>]]></description>
-            <link>https://blog.openbazaar.org/openbazaar-weekly-update-march-7-2016/</link>
-            <guid isPermaLink="false">f71e5759-c4cc-4f0a-a478-ba24bc596272</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:51 GMT</pubDate>
+            <title><![CDATA[IRC meeting summary for 2015-10-08]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2015-10-08</h1><p>Mempool limiting: chain limits Low-S change CLTV & CSV review Creation of bitcoin discuss mailing list This issue has made most JS bitcoin software vulnerable to generating incorrect public keys. "This is an ecosystem threat with the potential to cause millions of dollars in losses that needs higher visibility; though it's not a bitcoin core / bitcoin network issue.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2015/10/08/</link>
+            <guid isPermaLink="false">6d933d93-9daa-40c1-b4e3-0c312deb58b9</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[OpenBazaar Released on the Testnet]]></title>
-            <description><![CDATA[<article><h1>OpenBazaar Released on the Testnet</h1><p>OpenBazaar is now fully functional on the testnet. We welcome rigorous testing from the community to ensure everything is functioning properly. You can download the testnet version here. After we're confident of the stability and functionality of the product, we'll transition to the main net and OpenBazaar will be open for business.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcee89ed1b60236280c6a799652a28fef4b20c04.png"></article>]]></description>
-            <link>https://blog.openbazaar.org/openbazaar-released-on-the-testnet/</link>
-            <guid isPermaLink="false">6c955873-b39f-409a-a044-1b227e44c731</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:51 GMT</pubDate>
+            <title><![CDATA[New Site Design, New Order Options]]></title>
+            <description><![CDATA[<article><h1>New Site Design, New Order Options</h1><p>Since Gemini launched, we've deepened our understanding of what you all want to see on our website and how we can best provide you with relevant information. We want your interaction with Gemini to be as efficient and user-friendly as possible - this goes back to our core principle of giving you what you need, when you need it .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/49574636909e0023fc6f7e869ea949fdd5a030d1.png"></article>]]></description>
+            <link>https://gemini.com/blog/new-design-new-order-options/</link>
+            <guid isPermaLink="false">fca12121-37c7-4865-887a-96d9a9a92846</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Image: How Payments Work on OpenBazaar]]></title>
-            <description><![CDATA[<article><h1>Image: How Payments Work on OpenBazaar</h1><p>This image shows three different payment flows in OpenBazaar. One flow shows direct payments, and two flows show different types of moderated payments (a normal transaction and a disputed one).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/46256d7bb64f02c0526dd519fb43b04f25d53ec5.png"></article>]]></description>
-            <link>https://blog.openbazaar.org/image-how-payments-work-on-openbazaar/</link>
-            <guid isPermaLink="false">99dcbf42-c281-4ada-a1b7-e21276e8be78</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:51 GMT</pubDate>
+            <title><![CDATA[IRC meeting summary for 2015-10-01]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2015-10-01</h1><p>The full IRC-logs can be found here. Mempool limiting BIP68 + CHECKSEQUENCEVERIFY CLTV soft fork deployment libconsensus merge time window When a transaction is relayed across the network it is held by the nodes in memory, until it gets into a block. All these transactions that sit in memory are called the memorypool or mempool for short.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2015/10/01/</link>
+            <guid isPermaLink="false">3ea8b507-17fd-4be3-8db7-7ee4c9e1aee6</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
