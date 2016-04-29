@@ -4,13 +4,27 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 13:46:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:46:53 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Larry Summers just joined a bitcoin firm]]></title>
             <description><![CDATA[<article><h1>Larry Summers just joined a bitcoin firm</h1><p>Digital Currency Group is busy these days. In the last four months alone, the company acquired the leading bitcoin news site CoinDesk, and the biggest bitcoin conference, Consensus, along with it; it also became an investor in Coin Center, the bitcoin industry's main advocacy group.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe23f887f9846658397cb65125686709339eb78f.jpg"></article>]]></description>
             <link>http://finance.yahoo.com/news/larry-summers-joins-barry-silbert-bitcoin-investment-firm-digital-currency-group-as-senior-advisor-161613775.html</link>
             <guid isPermaLink="false">ce7a8513-19d0-4944-8819-1fce66e4bd7c</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2016-04-07]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-04-07</h1><p>How to proceed with Bitcoin Core wallet Dealing with RBF RPC/UI 0.12.1 Release candidate 1 has been tagged (at time of writing 0.12.1 RC2 has been tagged) Update for the median time-past violation check: gmaxwell generated a number of violations of which none got mined.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/04/07/</link>
+            <guid isPermaLink="false">80b98e0e-b99a-4332-8d30-ad4135d7777c</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2016-04-14]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-04-14</h1><p>Status of 0.12.1: RC2 has been released. Meanwhile there has been a 0.12.1 RC block mined last week. Normally we wait a week after the RC release before labeling it as final, but many like to release it sooner. 0.12.1 features BIP68, BIP112, BIP113 which will be deployed via the BIP9 softfork mechanism.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/04/14/</link>
+            <guid isPermaLink="false">272d37eb-014e-4c2b-95e9-5d395cac8106</guid>
             <pubDate>Fri, 29 Apr 2016 13:40:56 GMT</pubDate>
         </item>
         <item>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>IRC meeting summary for 2016-02-25</h1><p>BIP 68/112/113 rollout Forthcoming OpenSSL releases PR #7542 Implement "feefilter" P2P message hasn't been reviewed yet. BIP 68 Consensus-enforced transaction replacement signaled via sequence numbers. BIP 112 CHECKSEQUENCEVERIFY. BIP 113 Median time-past as endpoint for lock-time calculations. In short: BIP 68 changes the meaning of the sequence number field to a relative locktime.</p></article>]]></description>
             <link>https://bitcoincore.org/en/meetings/2016/02/25/</link>
             <guid isPermaLink="false">ebefbc73-9505-4474-a661-216ba9dd4c30</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2016-02-18]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-02-18</h1><p>feefilter P2P message Reorg performance of SequenceLocks checks Note: The meeting was a short one as some developers were participating in the Bitcoin Roundtable. Btcdrak suggested arranging open source licenses of the Jetbrains IDEs for C++ and Python. The maintainer (wumpus) needs to apply.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/02/18/</link>
-            <guid isPermaLink="false">ae36b650-3d15-4e04-bce2-2fc083953e3c</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2016-03-03]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-03-03</h1><p>Background: BIP9 is a mechanism for deploying soft forks that replaces the IsSuperMajority() mechanism used to deploy BIPs34, 66, and 65. The older method requires soft forks be rolled out sequentially, as a miner signaling that they're ready to enforce soft fork number 3 must also signal that they're willing to enforce soft forks number 2 and 1.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/03/03/</link>
-            <guid isPermaLink="false">eec6d203-aa5f-44c9-ba6a-ef2261486378</guid>
             <pubDate>Fri, 29 Apr 2016 13:40:55 GMT</pubDate>
         </item>
     </channel>
