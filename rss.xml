@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 18:42:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:39:33 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How can I set the transaction fee when creating a transaction through Bitcoin-cli commands?]]></title>
+            <description><![CDATA[<article><h1>How can I set the transaction fee when creating a transaction through Bitcoin-cli commands?</h1><p>I want to run the following command via bitcoin-cli: ./bitcoin-cli sendfrom "10302c02147e2948cbejd9a2bd80d9691ef08a6a4d416c2bb602143a4anj06b90e" "32cjBTQkfLBp38ixj7hdjk0cc90VPPnwhQ" 3.04384215 ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43892/how-can-i-set-the-transaction-fee-when-creating-a-transaction-through-bitcoin-cl</link>
+            <guid isPermaLink="false">a307e084-f9a3-4c1a-a153-5a2390a965b9</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From Bill Gates to Lily Alen: Bitcoin in Quotes by Rich and Famous]]></title>
+            <description><![CDATA[<article><h1>From Bill Gates to Lily Alen: Bitcoin in Quotes by Rich and Famous</h1><p>The biggest digital currency named Bitcoin is quite famous these days, not only because of its magical way of sending money without the help of any third parties, but also for its involvement in cyber crimes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e8c2cd7a94c886011cefa578842c044c3537c1b.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/from-bill-gates-to-lily-alen-bitcoin-in-quotes-by-rich-and-famous</link>
+            <guid isPermaLink="false">e417d16e-c0a7-4a2f-934b-b44eb5970807</guid>
+            <pubDate>Thu, 28 Apr 2016 18:41:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Steam Computer Gaming Network Now Accepting Bitcoin]]></title>
             <description><![CDATA[<article><h1>Steam Computer Gaming Network Now Accepting Bitcoin</h1><p>The popular Steam computer game network has started accepting bitcoin in a move aimed at making it easier for players in countries like Brazil and China to make payments. Bitcoin transactions will be integrated into game shopping from Steam, which is owned by Valve Software and claims over 100 million users worldwide.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e9d2acdcd5b066ac7f58d543628561a7754d89c.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>New Open Source Ethereum Mining Pool Available</h1><p>If you want to run your own private or public mining pool for Ethereum (ETH) you might be interested in the release of the new open Open Source Ethereum Mining Pool by sammy007 ( source).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2543fbdda8a5851eab27802751452dd4a3cbf0b.jpg"></article>]]></description>
             <link>http://cryptomining-blog.com/7802-new-open-source-ethereum-mining-pool-available/</link>
             <guid isPermaLink="false">9f8f61e1-846d-4239-beb0-fccb979154fe</guid>
-            <pubDate>Thu, 28 Apr 2016 18:41:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Wings Cut By Market]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Wings Cut By Market</h1><p>Bitcoin price has recovered from sell-off lows at $434 and 2800 CNY today. Can the market bounce price through resistance and continue to new highs? Or has yesterday's lack of commitment at a critical moment cut bitcoin's price wings? This analysis is provided by xbt.social with a 3-hour delay.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c13f93d21506bf8784cbdaebf512c10050b74b4.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-price-wings-cut-market/</link>
-            <guid isPermaLink="false">8db5f5a5-5bc7-4beb-96f5-dfe4aabf7051</guid>
-            <pubDate>Thu, 28 Apr 2016 18:41:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Is Gitian Building? How Bitcoin's Security Processes Became a Model for the Open Source Community]]></title>
-            <description><![CDATA[<article><h1>What Is Gitian Building? How Bitcoin's Security Processes Became a Model for the Open Source Community</h1><p>One of Bitcoin's most important security features, a crucial property that makes the system trustless, is its open source nature. Because Bitcoin's code is open source, anyone able to read code can check for themselves whether it does what it's supposed to do. Plus, as per Linus's Law: Given enough eyeballs, all bugs are shallow.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f5ed2ce5bc340a51300bb25d4fce9d7c8db2c14.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/what-is-gitian-building-how-bitcoin-s-security-processes-became-a-model-for-the-open-source-community-1461862937</link>
-            <guid isPermaLink="false">086536c7-d089-4a2d-bf26-3230b394cb86</guid>
             <pubDate>Thu, 28 Apr 2016 18:41:11 GMT</pubDate>
         </item>
     </channel>
