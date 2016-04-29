@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 13:40:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:41:17 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tender Wallet Bot: the Bitcoin wallet & broker for your Telegram app]]></title>
+            <description><![CDATA[<article><h1>Tender Wallet Bot: the Bitcoin wallet & broker for your Telegram app</h1><p>More and more, chat applications are becoming the go-to app for a number of different daily functions, aside from just messaging friends and family. And it makes plenty of sense. Messaging mom about directions to the family reunion? Here's the GPS location and navigation. Talking to your coworker about that presentation?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61146f1dfb3bdc0ceade1b1fc503bf16ed9a3a56.jpg"></article>]]></description>
+            <link>http://gigabitcoin.xyz/tender-wallet-bot-the-bitcoin-wallet-and-broker-for-your-tele/index.html</link>
+            <guid isPermaLink="false">7e761e5f-b1ff-45ea-a33b-97ff0177e799</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IRC meeting summary for 2015-11-12]]></title>
             <description><![CDATA[<article><h1>IRC meeting summary for 2015-11-12</h1><p>transaction priority for 0.12 Opt-in replace-by-fee Versionbits Chain limits Each transaction is assigned a priority, determined by the age, size, and number of inputs. Which currently makes some transactions free. This currently has a large amount of code, which makes it harder to maintain, and is not that optimal since you can't expect miners to include 0-fee transactions.</p></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How Moderators and Dispute Resolution Work in OpenBazaar</h1><p>Summary: OpenBazaar helps prevent fraud by having buyers send their bitcoins into a 2-of-3 multisignature address controlled by the buyer, seller, and a trusted third party. This third party offers dispute resolution in case something goes wrong. These third parties offer their services on an open marketplace.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ed0e44d6a80102fdc45ccbfd4386ecf1ac0ab76.png"></article>]]></description>
             <link>https://blog.openbazaar.org/how-moderators-and-dispute-resolution-work-in-openbazaar/</link>
             <guid isPermaLink="false">73a19170-22a4-4f94-b571-39565e566777</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinut Implements XBX Index as Benchmark for Bitcoin Options Platform]]></title>
-            <description><![CDATA[<article><h1>Coinut Implements XBX Index as Benchmark for Bitcoin Options Platform</h1><p>TradeBlock's XBX Index now serves as the bitcoin reference rate for Coinut's derivative trading platform. Singapore-based Coinut was launched in Oct 2014 and is backed by Boost VC in San Mateo, California. The Company provides users with the ability to buy and sell European style vanilla and binary options with bitcoin as the underlying asset.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/820713632f8a993822b9132a70d74c4c09430110.png"></article>]]></description>
-            <link>https://research.tradeblock.com/coinut-implements-xbx-as-benchmark-for-bitcoin-options/</link>
-            <guid isPermaLink="false">32f9956d-c2b3-4a87-982e-e8b3bf1cc7bb</guid>
             <pubDate>Fri, 29 Apr 2016 13:39:32 GMT</pubDate>
         </item>
     </channel>
