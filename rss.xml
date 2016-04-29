@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 13:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:42:11 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coinapult and Factom Announce Collaboration]]></title>
+            <description><![CDATA[<article><h1>Coinapult and Factom Announce Collaboration</h1><p>Panama City and London, UK March 11th, 2015. Today, Coinapult and Factom are excited to announce their strategic partnership. Coinapult will leverage the Factom technology to enhance their transparency efforts, and Factom will use Coinapult as an important part of hedging value collected during its factoid software sale.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ad287a991c6f1fe6a27814faac99bb5846cd31a.jpg"></article>]]></description>
+            <link>http://gigabitcoin.xyz/coinapult-and-factom-announce-collaboration/index.html</link>
+            <guid isPermaLink="false">b0401f4d-6bbc-4341-b658-0afc45c4765b</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Coinapult Announces New Chief Executive Officer]]></title>
             <description><![CDATA[<article><h1>Coinapult Announces New Chief Executive Officer</h1><p>Coinapult would like to announce a change in ownership and management, effective immediately. Coinapult has named Gabriel Sukenik as the new Chief Executive Officer, and the company is now an entity of Rolling Hills International. Sukenik has been with Coinapult since its inception, becoming its first employee in January 2013 and managing the company's business development.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db6afd8e25d7b6a237933764b4007a7fa9e4a227.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://bitcoincore.org/en/meetings/2015/11/12/</link>
             <guid isPermaLink="false">fd20f0e8-7ef4-4eb1-b01d-b61f5919353d</guid>
             <pubDate>Fri, 29 Apr 2016 13:39:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2015-11-19]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2015-11-19</h1><p>transaction priority dealing with mempool eviction Sequence numbers Opt-in replace by fee needs some extra testing, but otherwise seems ready to go. Some wallet developers are onboard and actively participating, for example GreenAddress. Each transaction is assigned a priority, determined by the age, size, and number of inputs.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2015/11/19/</link>
-            <guid isPermaLink="false">bd9dd85f-77dd-4deb-82db-52879dd5922d</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
