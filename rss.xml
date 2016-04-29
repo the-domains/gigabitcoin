@@ -4,8 +4,36 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 13:45:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:45:43 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2016-01-14]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-01-14</h1><p>Versionbits Status of segregated witness Status of 0.12 bitcoin-core release Consensus code encapsulation (libconsensus) Locktime PRs BIP 9 Currently softforks have been done by the isSuperMajority mechanism, meaning when 95% of the last 1000 blocks have a version number higher than X the fork is deployed.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/01/14/</link>
+            <guid isPermaLink="false">6edc05e2-2de6-4760-812e-37004155eb60</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2016-01-07]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-01-07</h1></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/01/07/</link>
+            <guid isPermaLink="false">72020c98-4869-4630-a95d-e8e72b2e248b</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2015-12-17]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2015-12-17</h1><p>Replace-by-fee handling in wallets C++11 for 0.13 Currently when a node sees a transaction that spends the same output it ignores it. With RBF it replaces the current transaction in the mempool if it has a higher fee. This allows for things like spending "stuck" transactions, adding more recipients to a transaction in order to prevent chaining, etc.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2015/12/17/</link>
+            <guid isPermaLink="false">a4a24a98-c11e-44fc-bc07-7d4186f95d89</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2015-12-10]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2015-12-10</h1><p>BIP 68 Consensus-enforced transaction replacement signaled via sequence numbers , and current implementation. BIP 68 changes the meaning of the previously unused sequence number field to a relative locktime. When a block is created miners include a timestamp. This timestamp has to be between the median of the previous 11 blocks and the network-adjusted time +2 hours.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2015/12/10/</link>
+            <guid isPermaLink="false">6536c2ff-a471-4869-9e1b-f906dbecc744</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IRC meeting summary for 2015-11-26]]></title>
             <description><![CDATA[<article><h1>IRC meeting summary for 2015-11-26</h1><p>CLTV activation BIP68/BIP112 implementation Replace-by-fee CheckLockTimeVerify (CLTV) aka "how you thought nLockTime worked before you actually tried to use it" aka OP_HODL. It's plausible the CLTV softfork will activate within just a few weeks, as everyone but a few big miners have adopted it. About 20% of the nodes currently run CLTV-supporting versions.</p></article>]]></description>
@@ -46,34 +74,6 @@
             <description><![CDATA[<article><h1>New Site Design, New Order Options</h1><p>Since Gemini launched, we've deepened our understanding of what you all want to see on our website and how we can best provide you with relevant information. We want your interaction with Gemini to be as efficient and user-friendly as possible - this goes back to our core principle of giving you what you need, when you need it .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/49574636909e0023fc6f7e869ea949fdd5a030d1.png"></article>]]></description>
             <link>https://gemini.com/blog/new-design-new-order-options/</link>
             <guid isPermaLink="false">fca12121-37c7-4865-887a-96d9a9a92846</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2015-10-01]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2015-10-01</h1><p>The full IRC-logs can be found here. Mempool limiting BIP68 + CHECKSEQUENCEVERIFY CLTV soft fork deployment libconsensus merge time window When a transaction is relayed across the network it is held by the nodes in memory, until it gets into a block. All these transactions that sit in memory are called the memorypool or mempool for short.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2015/10/01/</link>
-            <guid isPermaLink="false">3ea8b507-17fd-4be3-8db7-7ee4c9e1aee6</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SXSW Promotion: Free Bitcoin for New Users!]]></title>
-            <description><![CDATA[<article><h1>SXSW Promotion: Free Bitcoin for New Users!</h1><p>As part of a limited promotion, the first 500 USA-based new users that sign up to Gemini between Friday, March 11th (6:00pm EST) and Monday, March 14th (6:00pm EDT) will receive approximately $20 worth of bitcoin (0.05 BTC to be exact)! It's simple - sign up for an individual or institutional account, and complete the identity verification process.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c1c6bd6359538eb4a1b1850edb1f93dce1b4263.jpg"></article>]]></description>
-            <link>https://gemini.com/blog/sxsw-promotion-free-bitcoin-for-new-users/</link>
-            <guid isPermaLink="false">c2b396fd-89af-412d-800e-5635771f5660</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Instant ACH Deposits Are Here!]]></title>
-            <description><![CDATA[<article><h1>Instant ACH Deposits Are Here!</h1><p>We recently made depositing bitcoin a lot faster - and now we are making depositing dollars faster too! You can now use our new Instant ACH feature to deposit funds immediately for trading . So here's how it works: Your deposit amount is available for trading immediately .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c9b1c33f49f76c8869e24be3e0c885c33d8b59a.jpg"></article>]]></description>
-            <link>https://gemini.com/blog/instant-ach-deposits-are-here/</link>
-            <guid isPermaLink="false">daf93255-c0d6-4e39-94a0-ce49899d034f</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing Multiple Bank Accounts]]></title>
-            <description><![CDATA[<article><h1>Introducing Multiple Bank Accounts</h1><p>A few weeks ago we brought you multi-user accounts. This week we are excited to announce another new feature - multiple bank accounts . That's right, you can now link multiple bank accounts to your Gemini account for deposits and withdrawals of USD. This feature (not surprisingly) was commonly requested - you asked, and we delivered.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a89672287d62ff9f1b9e8dd42c38875448d56e2.jpg"></article>]]></description>
-            <link>https://gemini.com/blog/introducing-multiple-bank-accounts/</link>
-            <guid isPermaLink="false">1a1a2c3e-cc4f-4150-902d-a30aee0a9d91</guid>
             <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
         </item>
     </channel>
