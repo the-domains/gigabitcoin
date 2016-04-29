@@ -4,29 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 13:43:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:43:32 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Moscow Bitcoin Conference 2016]]></title>
-            <description><![CDATA[<article><h1>Moscow Bitcoin Conference 2016</h1><p>We attended the Moscow Bitcoin Conference on April 8th 2016 and gave an outlook on "Opportunities in Cryttocurrency Mining". A lot of interesting and insightful presentations were held and we are happy to see the Bitcoin Industry in Russia thrive! Here are some excerpts & presentation slides of the conference.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2378ff4a62f247db62f40e1ab840d24b33c4dc5e.png"></article>]]></description>
-            <link>http://blog.genesis-mining.com/moscow-bitcoin-conference-2016</link>
-            <guid isPermaLink="false">a5049533-b8d6-4c15-9869-00782eea84e2</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Genesis Mining Two Year Anniversary | Genesis Mining]]></title>
-            <description><![CDATA[<article><h1>Genesis Mining Two Year Anniversary | Genesis Mining</h1><p>To celebrate the two year anniversary of launching, we are happy to offer a 5% discount code to all our customers, valid until 04/11/16 11:59 PM. To receive a 5% discount on Bitcoin, Ethereum and Scrypt cloud mining, simply enter discount code HappyBirthdayGM16 at checkout.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/398b70d42b81d3e7b640a62e2e061a0787d44e1e.png"></article>]]></description>
-            <link>http://blog.genesis-mining.com/genesis-mining-two-year-anniversary</link>
-            <guid isPermaLink="false">9deff1ff-46da-41aa-8687-361028863bd6</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[4 Bitcoin Debit Cards]]></title>
-            <description><![CDATA[<article><h1>4 Bitcoin Debit Cards</h1><p>Bitcoin debit cards have slowly become more mainstream. But with an increasing number to choose from, how do you decide which is best? Which ones live up to their reviews and which ones can you be sure are not scams? We've done our own research, and many of us here at Genesis Mining use different cards.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7dbd71299e2738e8a93b6513788b83ca6dac60ee.jpg"></article>]]></description>
-            <link>http://blog.genesis-mining.com/4-bitcoin-debit-cards</link>
-            <guid isPermaLink="false">3eecf194-71b2-4ded-8715-201e88e6deb9</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:51 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Vendor's Guide to OpenBazaar]]></title>
             <description><![CDATA[<article><h1>Vendor's Guide to OpenBazaar</h1><p>This guide will show vendors how they can set up an OpenBazaar store, step by step. If you have problems along the way, visit our help desk. If you want to chat with someone from the OpenBazaar community for help, or to give feedback on how OpenBazaar is working for you, join our Slack community.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6184a2e12412c2042c4f5179bbe17f1145194973.png"></article>]]></description>
@@ -74,6 +53,27 @@
             <description><![CDATA[<article><h1>OpenBazaar is Open for Business</h1><p>OpenBazaar is now released on the mainnet and is ready for real transactions. You can download the program on the OpenBazaar website . You can read our explaining how to use OpenBazaar for the first time. If you need help, user tutorial join our Slack or visit our help center.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1114ca9df30085f4ce6aba8862b14dda471fc18.png"></article>]]></description>
             <link>https://blog.openbazaar.org/openbazaar-is-open-for-business/</link>
             <guid isPermaLink="false">02a35fbb-183d-49f2-836c-f1259cbad8e9</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TradeBlock Now Powering itBit OTC Trading Operations]]></title>
+            <description><![CDATA[<article><h1>TradeBlock Now Powering itBit OTC Trading Operations</h1><p>TradeBlock now serves as the order management system and execution tool set for itBit's over-the-counter (OTC) middle and back office bitcoin trading operations. With recent monthly trading volumes in excess of 40,000 XBT, itBit has quickly emerged as one of the prominent OTC trading desks in the bitcoin space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61e18cafec4d4a376c763fb31938ffe8dac36ed5.png"></article>]]></description>
+            <link>https://research.tradeblock.com/tradeblock-now-powering-itbit-otc-trading-operations-2/</link>
+            <guid isPermaLink="false">d22e49d0-1d35-45d0-a6f4-e586b1780fd8</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Snapshot of the OpenBazaar ecosystem at the beginning]]></title>
+            <description><![CDATA[<article><h1>Snapshot of the OpenBazaar ecosystem at the beginning</h1><p>OpenBazaar was released to the public on April 4th, and after two weeks of use we wanted to take a snapshot of what this emerging ecosystem of decentralized trade looks like right at the beginning. In this post we'll walk through some stats and also talk to people who have been using the software.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25cf870801a6cf5742b10b7eca98c0ce4e2f10ed.png"></article>]]></description>
+            <link>https://blog.openbazaar.org/snapshot-of-the-openbazaar-ecosystem-at-the-beginning/</link>
+            <guid isPermaLink="false">0702841d-b3b3-45f9-89c0-3a903d7d8fd2</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Coinbase Builds Secure Infrastructure To Store Bitcoin In The Cloud - Stories From Coinbase]]></title>
+            <description><![CDATA[<article><h1>How Coinbase Builds Secure Infrastructure To Store Bitcoin In The Cloud - Stories From Coinbase</h1><p>Or how to build paranoid infrastructure on top of AWS Three and a half years ago, Coinbase launched using a simple hosting platform: Heroku. It was the right solution at the time. With just two technical founders building the product (neither with any serious dev-ops experience) we knew that Heroku would be more battle tested than any solution we could hack together on our own.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ade1d11c45137046a0163afb4f945db3bbbf0422.jpg"></article>]]></description>
+            <link>http://gigabitcoin.xyz/how-coinbase-builds-secure-infrastructure-to-store-bitcoin-i/index.html</link>
+            <guid isPermaLink="false">cf87f453-42a5-4042-964f-aed1b1484b6c</guid>
             <pubDate>Fri, 29 Apr 2016 13:40:50 GMT</pubDate>
         </item>
     </channel>
