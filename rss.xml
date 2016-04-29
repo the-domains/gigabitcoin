@@ -4,77 +4,77 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 13:45:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:46:48 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[IRC meeting summary for 2015-12-17]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2015-12-17</h1><p>Replace-by-fee handling in wallets C++11 for 0.13 Currently when a node sees a transaction that spends the same output it ignores it. With RBF it replaces the current transaction in the mempool if it has a higher fee. This allows for things like spending "stuck" transactions, adding more recipients to a transaction in order to prevent chaining, etc.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2015/12/17/</link>
-            <guid isPermaLink="false">a4a24a98-c11e-44fc-bc07-7d4186f95d89</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
+            <title><![CDATA[Larry Summers just joined a bitcoin firm]]></title>
+            <description><![CDATA[<article><h1>Larry Summers just joined a bitcoin firm</h1><p>Digital Currency Group is busy these days. In the last four months alone, the company acquired the leading bitcoin news site CoinDesk, and the biggest bitcoin conference, Consensus, along with it; it also became an investor in Coin Center, the bitcoin industry's main advocacy group.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe23f887f9846658397cb65125686709339eb78f.jpg"></article>]]></description>
+            <link>http://finance.yahoo.com/news/larry-summers-joins-barry-silbert-bitcoin-investment-firm-digital-currency-group-as-senior-advisor-161613775.html</link>
+            <guid isPermaLink="false">ce7a8513-19d0-4944-8819-1fce66e4bd7c</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[IRC meeting summary for 2015-12-10]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2015-12-10</h1><p>BIP 68 Consensus-enforced transaction replacement signaled via sequence numbers , and current implementation. BIP 68 changes the meaning of the previously unused sequence number field to a relative locktime. When a block is created miners include a timestamp. This timestamp has to be between the median of the previous 11 blocks and the network-adjusted time +2 hours.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2015/12/10/</link>
-            <guid isPermaLink="false">6536c2ff-a471-4869-9e1b-f906dbecc744</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
+            <title><![CDATA[One Month Into Bitcoin]]></title>
+            <description><![CDATA[<article><h1>One Month Into Bitcoin</h1><p>Some initial thoughts from a newbie. When I tell someone that I just started to work for a Bitcoin company, I get one of two responses. There is usually no in between. First, there's the Intrigued Interrogator. They are generally very excited to have met someone in the Bitcoin space, and they usually begin by stating their own brief experiential anecdote - 'Oh!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c6265f051db6a31cbac7ca6f68ad3f845148f5a.jpg"></article>]]></description>
+            <link>http://gigabitcoin.xyz/one-month-into-bitcoin/index.html</link>
+            <guid isPermaLink="false">752a7304-6139-4f4a-9dbc-60147c4eeb59</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[IRC meeting summary for 2015-11-26]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2015-11-26</h1><p>CLTV activation BIP68/BIP112 implementation Replace-by-fee CheckLockTimeVerify (CLTV) aka "how you thought nLockTime worked before you actually tried to use it" aka OP_HODL. It's plausible the CLTV softfork will activate within just a few weeks, as everyone but a few big miners have adopted it. About 20% of the nodes currently run CLTV-supporting versions.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2015/11/26/</link>
-            <guid isPermaLink="false">9bab72d5-e62d-4cd9-b8ce-a35167955832</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
+            <title><![CDATA[IRC meeting summary for 2016-04-21]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-04-21</h1><p>Segwit review Travis switch to trusty Developers are working on a soft fork to introduce segregated witness onto Bitcoin mainnet, with initial testing being performed on a special testnet.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/04/21/</link>
+            <guid isPermaLink="false">0b824474-d02b-4dc7-a1a4-dfcb227a2abc</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[IRC meeting summary for 2015-11-05]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2015-11-05</h1><p>Sigcache performance Performance goals for 0.12 transaction priority sigops flooding attack chain limits Note: cfields, mcelrath and BlueMatt (and maybe more) missed the meeting because of daylight saving time. Closing date for proposals for the scaling bitcoin workshop is the 9th. Check to see if there are any other commits for the 0.11.2 RC.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2015/11/05/</link>
-            <guid isPermaLink="false">5e9ba45b-13a1-46ea-a7d1-2ba358803b1c</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
+            <title><![CDATA[IRC meeting summary for 2016-03-31]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-03-31</h1><p>segregated witness update softfork backports bad chain alerts child-Pays-For-parent mining Update for the median time-past violation check talked about last week: there are currently no violations being mined. Gmaxwell will start generating MTP violating transactions to check for this again. Update for network-stack refactors: cfields pushed an up-to-date version to his net-refactor10 branch which is ready for testing and review.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/03/31/</link>
+            <guid isPermaLink="false">d0e1a532-411b-4bcc-bd88-596c8f7bcc53</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[IRC meeting summary for 2015-12-03]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2015-12-03</h1><p>BIP68-related pull requests Eviction and onions BIP for opt-in RBF A lot of developers where traveling to the scaling bitcoin conference ( videos), so this is again a shorter, and it'll likely be the same next week (as a lot of developers stay in Hong Kong for the developer meetup after the conference).</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2015/12/03/</link>
-            <guid isPermaLink="false">dbdb7ef4-9d25-4eea-8e36-826af666bf4a</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
+            <title><![CDATA[IRC meeting summary for 2016-03-17]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-03-17</h1><p>Scheduling the first BIP 9 sort fork for BIPs 68, 112, 113 Features for 0.12.1 besides BIP 9 State of segregated witness VersionBits BIP9 allows using the block header version field as a bit array so that miners can indicate readiness for up to 29 soft forks simultaneously.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/03/17/</link>
+            <guid isPermaLink="false">a154ddfe-d623-4237-89c4-80ecd366da5c</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[IRC meeting summary for 2015-10-29]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2015-10-29</h1><p>Upcoming softfork Chain limits Clang format BIP68 and BIP112 implementations The LevelDB topic was started but deferred till after the meeting as there are currently no plans to move to another database. However research and testing is encouraged. mcelrath volunteered to make a LMDB branch, jgarzik already has a sqlite branch.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2015/10/29/</link>
-            <guid isPermaLink="false">2217ecdb-5a57-4b6b-a75e-83227ab9b301</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
+            <title><![CDATA[IRC meeting summary for 2016-03-24]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-03-24</h1><p>Softfork status of BIP9 v0.12.1, v0.11.3 and v0.10.5 backports Constant time AES library Cfields is working on an overhaul of the network stack of bitcoin core. This means a lot of movement of code, but it will make it easier to add additional features.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/03/24/</link>
+            <guid isPermaLink="false">b035d7e1-e1c5-4d22-8b4b-a5c3c56d12d5</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[IRC meeting summary for 2015-10-08]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2015-10-08</h1><p>Mempool limiting: chain limits Low-S change CLTV & CSV review Creation of bitcoin discuss mailing list This issue has made most JS bitcoin software vulnerable to generating incorrect public keys. "This is an ecosystem threat with the potential to cause millions of dollars in losses that needs higher visibility; though it's not a bitcoin core / bitcoin network issue.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2015/10/08/</link>
-            <guid isPermaLink="false">6d933d93-9daa-40c1-b4e3-0c312deb58b9</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
+            <title><![CDATA[IRC meeting summary for 2016-03-10]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-03-10</h1><p>Background: several developers are working on a soft fork to introduce segregated witness onto Bitcoin mainnet, with initial testing being performed on a special testnet.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/03/10/</link>
+            <guid isPermaLink="false">4d2ab9f8-b319-4375-a51c-1fd7665daf42</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[New Site Design, New Order Options]]></title>
-            <description><![CDATA[<article><h1>New Site Design, New Order Options</h1><p>Since Gemini launched, we've deepened our understanding of what you all want to see on our website and how we can best provide you with relevant information. We want your interaction with Gemini to be as efficient and user-friendly as possible - this goes back to our core principle of giving you what you need, when you need it .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/49574636909e0023fc6f7e869ea949fdd5a030d1.png"></article>]]></description>
-            <link>https://gemini.com/blog/new-design-new-order-options/</link>
-            <guid isPermaLink="false">fca12121-37c7-4865-887a-96d9a9a92846</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
+            <title><![CDATA[IRC meeting summary for 2016-02-25]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-02-25</h1><p>BIP 68/112/113 rollout Forthcoming OpenSSL releases PR #7542 Implement "feefilter" P2P message hasn't been reviewed yet. BIP 68 Consensus-enforced transaction replacement signaled via sequence numbers. BIP 112 CHECKSEQUENCEVERIFY. BIP 113 Median time-past as endpoint for lock-time calculations. In short: BIP 68 changes the meaning of the sequence number field to a relative locktime.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/02/25/</link>
+            <guid isPermaLink="false">ebefbc73-9505-4474-a661-216ba9dd4c30</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[IRC meeting summary for 2015-10-01]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2015-10-01</h1><p>The full IRC-logs can be found here. Mempool limiting BIP68 + CHECKSEQUENCEVERIFY CLTV soft fork deployment libconsensus merge time window When a transaction is relayed across the network it is held by the nodes in memory, until it gets into a block. All these transactions that sit in memory are called the memorypool or mempool for short.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2015/10/01/</link>
-            <guid isPermaLink="false">3ea8b507-17fd-4be3-8db7-7ee4c9e1aee6</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
+            <title><![CDATA[IRC meeting summary for 2016-02-18]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-02-18</h1><p>feefilter P2P message Reorg performance of SequenceLocks checks Note: The meeting was a short one as some developers were participating in the Bitcoin Roundtable. Btcdrak suggested arranging open source licenses of the Jetbrains IDEs for C++ and Python. The maintainer (wumpus) needs to apply.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/02/18/</link>
+            <guid isPermaLink="false">ae36b650-3d15-4e04-bce2-2fc083953e3c</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SXSW Promotion: Free Bitcoin for New Users!]]></title>
-            <description><![CDATA[<article><h1>SXSW Promotion: Free Bitcoin for New Users!</h1><p>As part of a limited promotion, the first 500 USA-based new users that sign up to Gemini between Friday, March 11th (6:00pm EST) and Monday, March 14th (6:00pm EDT) will receive approximately $20 worth of bitcoin (0.05 BTC to be exact)! It's simple - sign up for an individual or institutional account, and complete the identity verification process.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c1c6bd6359538eb4a1b1850edb1f93dce1b4263.jpg"></article>]]></description>
-            <link>https://gemini.com/blog/sxsw-promotion-free-bitcoin-for-new-users/</link>
-            <guid isPermaLink="false">c2b396fd-89af-412d-800e-5635771f5660</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
+            <title><![CDATA[IRC meeting summary for 2016-03-03]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-03-03</h1><p>Background: BIP9 is a mechanism for deploying soft forks that replaces the IsSuperMajority() mechanism used to deploy BIPs34, 66, and 65. The older method requires soft forks be rolled out sequentially, as a miner signaling that they're ready to enforce soft fork number 3 must also signal that they're willing to enforce soft forks number 2 and 1.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/03/03/</link>
+            <guid isPermaLink="false">eec6d203-aa5f-44c9-ba6a-ef2261486378</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
