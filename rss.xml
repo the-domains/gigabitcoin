@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 13:40:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:40:52 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2015-11-19]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2015-11-19</h1><p>transaction priority dealing with mempool eviction Sequence numbers Opt-in replace by fee needs some extra testing, but otherwise seems ready to go. Some wallet developers are onboard and actively participating, for example GreenAddress. Each transaction is assigned a priority, determined by the age, size, and number of inputs.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2015/11/19/</link>
+            <guid isPermaLink="false">bd9dd85f-77dd-4deb-82db-52879dd5922d</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IRC meeting summary for 2015-10-22]]></title>
             <description><![CDATA[<article><h1>IRC meeting summary for 2015-10-22</h1><p>Mempool Memory Usage LevelDB replacement Median Past locktime & CLTV BIP 9 Versionbits PR #6816 is ready for implementation and needs more reviews. A 3 month moderation period on the bitcoin-dev mailinglist has started, as well as a new list bitcoin-discuss. more details: http://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-October/011591.html "bitcoin.org had incorrect release notes for 0.11.1.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://research.tradeblock.com/tradeblock-xbx-index-page-update/</link>
             <guid isPermaLink="false">206b8220-c8b6-447f-9983-b0bfb64cf8bf</guid>
             <pubDate>Fri, 29 Apr 2016 13:39:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chainalysis Implements XBX Index for Compliance Solutions]]></title>
-            <description><![CDATA[<article><h1>Chainalysis Implements XBX Index for Compliance Solutions</h1><p>Chainalysis has become the most recent adopter of TradeBlock's XBX Index as the USD reference rate for the price of bitcoin. The XBX index will supplement Chainalysis' compliance tools and services, including real-time analysis to recognize patterns in the dollar value of bitcoin transactions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/041537893388d1444b6c9af5f7a397beaa1d32fa.png"></article>]]></description>
-            <link>https://research.tradeblock.com/chainalysis-implements-xbx-index-for-compliance-solutions/</link>
-            <guid isPermaLink="false">c7a232cc-ce8e-4082-a82e-bbf499254be7</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
