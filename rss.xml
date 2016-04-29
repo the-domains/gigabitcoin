@@ -4,43 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 13:44:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:44:13 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2015-10-08]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2015-10-08</h1><p>Mempool limiting: chain limits Low-S change CLTV & CSV review Creation of bitcoin discuss mailing list This issue has made most JS bitcoin software vulnerable to generating incorrect public keys. "This is an ecosystem threat with the potential to cause millions of dollars in losses that needs higher visibility; though it's not a bitcoin core / bitcoin network issue.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2015/10/08/</link>
-            <guid isPermaLink="false">6d933d93-9daa-40c1-b4e3-0c312deb58b9</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2015-10-01]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2015-10-01</h1><p>The full IRC-logs can be found here. Mempool limiting BIP68 + CHECKSEQUENCEVERIFY CLTV soft fork deployment libconsensus merge time window When a transaction is relayed across the network it is held by the nodes in memory, until it gets into a block. All these transactions that sit in memory are called the memorypool or mempool for short.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2015/10/01/</link>
-            <guid isPermaLink="false">3ea8b507-17fd-4be3-8db7-7ee4c9e1aee6</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SXSW Promotion: Free Bitcoin for New Users!]]></title>
-            <description><![CDATA[<article><h1>SXSW Promotion: Free Bitcoin for New Users!</h1><p>As part of a limited promotion, the first 500 USA-based new users that sign up to Gemini between Friday, March 11th (6:00pm EST) and Monday, March 14th (6:00pm EDT) will receive approximately $20 worth of bitcoin (0.05 BTC to be exact)! It's simple - sign up for an individual or institutional account, and complete the identity verification process.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c1c6bd6359538eb4a1b1850edb1f93dce1b4263.jpg"></article>]]></description>
-            <link>https://gemini.com/blog/sxsw-promotion-free-bitcoin-for-new-users/</link>
-            <guid isPermaLink="false">c2b396fd-89af-412d-800e-5635771f5660</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Instant ACH Deposits Are Here!]]></title>
-            <description><![CDATA[<article><h1>Instant ACH Deposits Are Here!</h1><p>We recently made depositing bitcoin a lot faster - and now we are making depositing dollars faster too! You can now use our new Instant ACH feature to deposit funds immediately for trading . So here's how it works: Your deposit amount is available for trading immediately .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c9b1c33f49f76c8869e24be3e0c885c33d8b59a.jpg"></article>]]></description>
-            <link>https://gemini.com/blog/instant-ach-deposits-are-here/</link>
-            <guid isPermaLink="false">daf93255-c0d6-4e39-94a0-ce49899d034f</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing Multiple Bank Accounts]]></title>
-            <description><![CDATA[<article><h1>Introducing Multiple Bank Accounts</h1><p>A few weeks ago we brought you multi-user accounts. This week we are excited to announce another new feature - multiple bank accounts . That's right, you can now link multiple bank accounts to your Gemini account for deposits and withdrawals of USD. This feature (not surprisingly) was commonly requested - you asked, and we delivered.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a89672287d62ff9f1b9e8dd42c38875448d56e2.jpg"></article>]]></description>
-            <link>https://gemini.com/blog/introducing-multiple-bank-accounts/</link>
-            <guid isPermaLink="false">1a1a2c3e-cc4f-4150-902d-a30aee0a9d91</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[New Fee and Rebate Schedule!]]></title>
             <description><![CDATA[<article><h1>New Fee and Rebate Schedule!</h1><p>We've been operational for just over four months and have now collected enough data to determine how to best encourage an active, stable, and efficient marketplace. As a result, we have decided to adjust our existing flat fee schedule to a real-time, dynamic maker-taker fee schedule .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f995708af47183425c58cc1f9c519874aeb7cd09.jpg"></article>]]></description>
@@ -75,6 +40,41 @@
             <link>http://blog.genesis-mining.com/a-bitcoin-use-case-donald-trumps-wall</link>
             <guid isPermaLink="false">46a0b322-2c3d-4e3a-9dc0-cb6d5f982752</guid>
             <pubDate>Fri, 29 Apr 2016 13:40:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moscow Bitcoin Conference 2016]]></title>
+            <description><![CDATA[<article><h1>Moscow Bitcoin Conference 2016</h1><p>We attended the Moscow Bitcoin Conference on April 8th 2016 and gave an outlook on "Opportunities in Cryttocurrency Mining". A lot of interesting and insightful presentations were held and we are happy to see the Bitcoin Industry in Russia thrive! Here are some excerpts & presentation slides of the conference.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2378ff4a62f247db62f40e1ab840d24b33c4dc5e.png"></article>]]></description>
+            <link>http://blog.genesis-mining.com/moscow-bitcoin-conference-2016</link>
+            <guid isPermaLink="false">a5049533-b8d6-4c15-9869-00782eea84e2</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Genesis Mining Two Year Anniversary | Genesis Mining]]></title>
+            <description><![CDATA[<article><h1>Genesis Mining Two Year Anniversary | Genesis Mining</h1><p>To celebrate the two year anniversary of launching, we are happy to offer a 5% discount code to all our customers, valid until 04/11/16 11:59 PM. To receive a 5% discount on Bitcoin, Ethereum and Scrypt cloud mining, simply enter discount code HappyBirthdayGM16 at checkout.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/398b70d42b81d3e7b640a62e2e061a0787d44e1e.png"></article>]]></description>
+            <link>http://blog.genesis-mining.com/genesis-mining-two-year-anniversary</link>
+            <guid isPermaLink="false">9deff1ff-46da-41aa-8687-361028863bd6</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4 Bitcoin Debit Cards]]></title>
+            <description><![CDATA[<article><h1>4 Bitcoin Debit Cards</h1><p>Bitcoin debit cards have slowly become more mainstream. But with an increasing number to choose from, how do you decide which is best? Which ones live up to their reviews and which ones can you be sure are not scams? We've done our own research, and many of us here at Genesis Mining use different cards.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7dbd71299e2738e8a93b6513788b83ca6dac60ee.jpg"></article>]]></description>
+            <link>http://blog.genesis-mining.com/4-bitcoin-debit-cards</link>
+            <guid isPermaLink="false">3eecf194-71b2-4ded-8715-201e88e6deb9</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vendor's Guide to OpenBazaar]]></title>
+            <description><![CDATA[<article><h1>Vendor's Guide to OpenBazaar</h1><p>This guide will show vendors how they can set up an OpenBazaar store, step by step. If you have problems along the way, visit our help desk. If you want to chat with someone from the OpenBazaar community for help, or to give feedback on how OpenBazaar is working for you, join our Slack community.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6184a2e12412c2042c4f5179bbe17f1145194973.png"></article>]]></description>
+            <link>https://blog.openbazaar.org/vendors-guide-to-openbazaar/</link>
+            <guid isPermaLink="false">18b9008f-8a51-4a1f-a2b8-26e5b557925c</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenBazaar User Tutorial]]></title>
+            <description><![CDATA[<article><h1>OpenBazaar User Tutorial</h1><p>This tutorial will show users how to install OpenBazaar, navigate the network, and make purchases. If you have problems along the way, visit our help desk. If you want to chat with someone from the OpenBazaar community for help, or to give feedback on how OpenBazaar is working for you, join our Slack community.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6184a2e12412c2042c4f5179bbe17f1145194973.png"></article>]]></description>
+            <link>https://blog.openbazaar.org/openbazaar-user-tutorial/</link>
+            <guid isPermaLink="false">33c40634-8584-4d39-8a53-0825b4980e4e</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
