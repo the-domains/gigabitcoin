@@ -7,6 +7,13 @@
         <lastBuildDate>Fri, 29 Apr 2016 19:38:51 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Isle of Man Regulator Seeks Rule Change to Ease Bitcoin Gambling - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Isle of Man Regulator Seeks Rule Change to Ease Bitcoin Gambling - CoinDesk</h1><p>The government of the Isle of Man is looking to plug a gap in its gambling regulations as they relate to bitcoin and other digital currencies. Officials are currently weighing regulatory changes that would allow gambling services to accept digital currencies "as if they were cash".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb038132d025cc9b604bdedc29440896da020b43.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/isle-of-man-bitcoin-gambling/</link>
+            <guid isPermaLink="false">d72f39a2-b1a1-46f5-bdaf-0e47edecde57</guid>
+            <pubDate>Fri, 29 Apr 2016 19:32:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bitcoin Trading The Block Reward Halving]]></title>
             <description><![CDATA[<article><h1>Bitcoin Trading The Block Reward Halving</h1><p>Bitcoin price has slowly gained alttude in a non-committal rise to $450. This analyst keeps questioning why the market compulsively buys price up when the technicals are pointing down. Some say that perhaps the market is trading the expectation of a block reward rally. This analysis is provided by xbt.social with a 3-hour delay.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/522325c1c0b7437487f078d37cff3b22d1cc9af5.png"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/bitcoin-trading-block-reward-halving/</link>
@@ -68,13 +75,6 @@
             <link>https://bitcoincore.org/en/meetings/2016/04/21/</link>
             <guid isPermaLink="false">0b824474-d02b-4dc7-a1a4-dfcb227a2abc</guid>
             <pubDate>Fri, 29 Apr 2016 13:40:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2016-03-31]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-03-31</h1><p>segregated witness update softfork backports bad chain alerts child-Pays-For-parent mining Update for the median time-past violation check talked about last week: there are currently no violations being mined. Gmaxwell will start generating MTP violating transactions to check for this again. Update for network-stack refactors: cfields pushed an up-to-date version to his net-refactor10 branch which is ready for testing and review.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/03/31/</link>
-            <guid isPermaLink="false">d0e1a532-411b-4bcc-bd88-596c8f7bcc53</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
