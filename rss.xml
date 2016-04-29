@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 13:42:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:42:18 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Hampshire's Organic Bitcoin Farm Paradise]]></title>
+            <description><![CDATA[<article><h1>New Hampshire's Organic Bitcoin Farm Paradise</h1><p>New Hampshire, home to 4,150 farms comprised of 471,911 acres of farmland, is a prime destination for local, organic farm products. The state is also home to one of the most robust Bitcoin communities in the world, and as a result you can buy all your organic groceries with cryptocurrency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32e4a99cca9b29fdcfd789122f7b904637c00ca2.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/new-hampshires-organic-bitcoin-farm-paradise</link>
+            <guid isPermaLink="false">48fabbef-24e5-4f0c-8820-06f9c83b4504</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[TBC Podcast: George Galloway talks Mayor of London & Freestyles]]></title>
             <description><![CDATA[<article><h1>TBC Podcast: George Galloway talks Mayor of London & Freestyles</h1><p>London Mayoral candidate, former Labour Party MP and current leader of The Respect Party, George Galloway, stepped into our offices to sit down and discuss some mad topics. Hosts Vidal and Posty (who's covering for Mikill Pane, who's busy in Chicago right now) and producer Ren quiz him on some need-to-know topics.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/206ae4032e46fbd631ac6e1a71d56c1a74013653.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Chance to win $500 of Bitcoin with the 2015 Coinapult-Mycelium Holiday Giveaway!!!</h1><p>Hello Bitcoin World! Coinapult here. We're pretty excited about the latest Mycelium Android app update, which offers users the ability to lock any amount of bitcoin not only to USD but now also to EUR and GBP using the Lock Account feature!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/750689e0e2232f41cc07f7461467b01fbe21aa93.png"></article>]]></description>
             <link>http://gigabitcoin.xyz/chance-to-win-dollar500-of-bitcoin-with-the-2015-coinapult-myceli/index.html</link>
             <guid isPermaLink="false">f1e58abb-3a4a-4080-bdb3-27588d7ee9d8</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinapult and Mycelium Release USD-Locked Bitcoin Wallet]]></title>
-            <description><![CDATA[<article><h1>Coinapult and Mycelium Release USD-Locked Bitcoin Wallet</h1><p>Earlier this week, Coinapult and Mycelium together announced the newest release for the Mycelium Android app. Mycelium has integrated Coinapult's conversion API to allow Mycelium users to store both Bitcoin and USD balances directly from their app. Users can create a Coinapult account within the Mycelium app, and any bitcoins sent to your Coinapult-Mycelium account will be automatically converted to USD.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9f6ff1672cf5e521b901829023ae78daa621dd6.jpg"></article>]]></description>
-            <link>http://gigabitcoin.xyz/coinapult-and-mycelium-release-usd-locked-bitcoin-wallet/index.html</link>
-            <guid isPermaLink="false">597d2436-77a6-4cfc-82c4-48f2ddb6f2f2</guid>
             <pubDate>Fri, 29 Apr 2016 13:39:33 GMT</pubDate>
         </item>
     </channel>
