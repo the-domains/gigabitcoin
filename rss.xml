@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 19:38:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 19:38:51 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Watch; The Weekend Ahead - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Watch; The Weekend Ahead - NEWSBTC</h1><p>Here's what we are looking at in the bitcoin price for this morning out of Europe. The week is about to draw to a close, and it's time for the second of our twice-daily bitcoin price watch analyses. As we have done a few times already this week, let's kick things off with a chart.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa70c2af83ab67986670e894dfbf2fe0dd6f6042.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/29/bitcoin-price-watch-weekend-ahead/</link>
+            <guid isPermaLink="false">64c49869-d7db-4abb-bdd5-1588bedef535</guid>
+            <pubDate>Fri, 29 Apr 2016 19:32:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin price hits 18-month high at $465]]></title>
             <description><![CDATA[<article><h1>Bitcoin price hits 18-month high at $465</h1><p>By Apparently, rumors of bitcoin's death have been greatly exaggerated. Bitcoin, the world's largest digital asset and payment system when measuring by market capitalization, hit an 18-month high just north of $465 earlier this week, according to Coindesk's bitcoin price index.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c88cc3ec9276d4120bd7c02ad6e39221348e62f8.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>IRC meeting summary for 2016-03-17</h1><p>Scheduling the first BIP 9 sort fork for BIPs 68, 112, 113 Features for 0.12.1 besides BIP 9 State of segregated witness VersionBits BIP9 allows using the block header version field as a bit array so that miners can indicate readiness for up to 29 soft forks simultaneously.</p></article>]]></description>
             <link>https://bitcoincore.org/en/meetings/2016/03/17/</link>
             <guid isPermaLink="false">a154ddfe-d623-4237-89c4-80ecd366da5c</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2016-03-24]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-03-24</h1><p>Softfork status of BIP9 v0.12.1, v0.11.3 and v0.10.5 backports Constant time AES library Cfields is working on an overhaul of the network stack of bitcoin core. This means a lot of movement of code, but it will make it easier to add additional features.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/03/24/</link>
-            <guid isPermaLink="false">b035d7e1-e1c5-4d22-8b4b-a5c3c56d12d5</guid>
             <pubDate>Fri, 29 Apr 2016 13:40:55 GMT</pubDate>
         </item>
     </channel>
