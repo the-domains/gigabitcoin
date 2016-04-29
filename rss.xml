@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 13:45:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:45:26 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2015-11-26]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2015-11-26</h1><p>CLTV activation BIP68/BIP112 implementation Replace-by-fee CheckLockTimeVerify (CLTV) aka "how you thought nLockTime worked before you actually tried to use it" aka OP_HODL. It's plausible the CLTV softfork will activate within just a few weeks, as everyone but a few big miners have adopted it. About 20% of the nodes currently run CLTV-supporting versions.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2015/11/26/</link>
+            <guid isPermaLink="false">9bab72d5-e62d-4cd9-b8ce-a35167955832</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IRC meeting summary for 2015-11-05]]></title>
             <description><![CDATA[<article><h1>IRC meeting summary for 2015-11-05</h1><p>Sigcache performance Performance goals for 0.12 transaction priority sigops flooding attack chain limits Note: cfields, mcelrath and BlueMatt (and maybe more) missed the meeting because of daylight saving time. Closing date for proposals for the scaling bitcoin workshop is the 9th. Check to see if there are any other commits for the 0.11.2 RC.</p></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Introducing Multiple Bank Accounts</h1><p>A few weeks ago we brought you multi-user accounts. This week we are excited to announce another new feature - multiple bank accounts . That's right, you can now link multiple bank accounts to your Gemini account for deposits and withdrawals of USD. This feature (not surprisingly) was commonly requested - you asked, and we delivered.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a89672287d62ff9f1b9e8dd42c38875448d56e2.jpg"></article>]]></description>
             <link>https://gemini.com/blog/introducing-multiple-bank-accounts/</link>
             <guid isPermaLink="false">1a1a2c3e-cc4f-4150-902d-a30aee0a9d91</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Fee and Rebate Schedule!]]></title>
-            <description><![CDATA[<article><h1>New Fee and Rebate Schedule!</h1><p>We've been operational for just over four months and have now collected enough data to determine how to best encourage an active, stable, and efficient marketplace. As a result, we have decided to adjust our existing flat fee schedule to a real-time, dynamic maker-taker fee schedule .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f995708af47183425c58cc1f9c519874aeb7cd09.jpg"></article>]]></description>
-            <link>https://gemini.com/blog/new-fee-and-rebate-schedule/</link>
-            <guid isPermaLink="false">4cf6f265-82f5-44c6-953c-c4e23f5a8d08</guid>
             <pubDate>Fri, 29 Apr 2016 13:40:53 GMT</pubDate>
         </item>
     </channel>
