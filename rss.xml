@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 13:40:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:40:35 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ethereum - The World Computer!]]></title>
+            <description><![CDATA[<article><h1>Ethereum - The World Computer!</h1><p>Price for Ether has skyrocketed in the last couple of weeks, bringing the total market cap to USD 800 mn. Ether is now the second largest cryptocurrency after Bitcoin and its market cap is bigger than all other alternative Cryptocurrencies combined. There is a lot of excitement about the new cryptocurrency and its possible applications!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ab2a23c4397aa43e1eebdc5c23a98b96fdaa73c.jpg"></article>]]></description>
+            <link>http://blog.genesis-mining.com/ethereum-the-world-computer</link>
+            <guid isPermaLink="false">69e95970-b698-4210-b023-e04431c7069e</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IRC meeting summary for 2015-10-15]]></title>
             <description><![CDATA[<article><h1>IRC meeting summary for 2015-10-15</h1><p>Mempool limiting sendheaders BIP versionbits dev/discuss list policy CHECKSEQUENCEVERIFY When a transaction is relayed across the network it is held by the nodes in memory, until it gets into a block. All these transactions that sit in memory are called the memorypool or mempool for short.</p></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>New Ethereum Explorer Feature: VM Trace</h1><p>You can now view the computational steps by which an Ethereum contract is created or invoked. Ethereum contracts are software programs that are executed in the so-called Ethereum Virtual Machine (EVM). Contracts are created or invoked via transactions and each of these transactions involve a sequence of EVM operations, which are now displayed within the 'VM Trace' section of the...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7a7e4f97b47a9ea2ed323ba2b318158ad23e53b.png"></article>]]></description>
             <link>https://research.tradeblock.com/new-ethereum-explorer-feature-vm-trace/</link>
             <guid isPermaLink="false">9499ac06-12bd-42bc-a614-ed446e964e3f</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LibertyX Implements XBX Index for Cash-to-Bitcoin Services]]></title>
-            <description><![CDATA[<article><h1>LibertyX Implements XBX Index for Cash-to-Bitcoin Services</h1><p>Beginning this week, TradeBlock's XBX Index will serve as the official reference rate for LibertyX, which boasts the largest US retail cash-to-bitcoin footprint. The XBX Index provides LibertyX with a stable and accurate benchmark for the price of bitcoin, allowing the company to offer competitive rates while protecting its customers from market anomalies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/952cabe22ddbffffdf5eaa854965b21e1f54a7c1.png"></article>]]></description>
-            <link>https://research.tradeblock.com/libertyx-implements-xbx-index-for-cash-to-bitcoin-services/</link>
-            <guid isPermaLink="false">c0b225aa-0e5a-4d6e-93e7-c085b18b2904</guid>
             <pubDate>Fri, 29 Apr 2016 13:39:31 GMT</pubDate>
         </item>
     </channel>
