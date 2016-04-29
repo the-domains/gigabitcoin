@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 13:46:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:46:37 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2016-03-31]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-03-31</h1><p>segregated witness update softfork backports bad chain alerts child-Pays-For-parent mining Update for the median time-past violation check talked about last week: there are currently no violations being mined. Gmaxwell will start generating MTP violating transactions to check for this again. Update for network-stack refactors: cfields pushed an up-to-date version to his net-refactor10 branch which is ready for testing and review.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/03/31/</link>
+            <guid isPermaLink="false">d0e1a532-411b-4bcc-bd88-596c8f7bcc53</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IRC meeting summary for 2016-03-17]]></title>
             <description><![CDATA[<article><h1>IRC meeting summary for 2016-03-17</h1><p>Scheduling the first BIP 9 sort fork for BIPs 68, 112, 113 Features for 0.12.1 besides BIP 9 State of segregated witness VersionBits BIP9 allows using the block header version field as a bit array so that miners can indicate readiness for up to 29 soft forks simultaneously.</p></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>IRC meeting summary for 2016-01-28</h1></article>]]></description>
             <link>https://bitcoincore.org/en/meetings/2016/01/28/</link>
             <guid isPermaLink="false">8d63cf44-4e7c-47b1-a3f8-c7d5ecd4e90b</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2016-01-21]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-01-21</h1><p>0.11 backport release for chainstate obfuscation C++11 update EOL Policy / release cycles Recently a configuration option "-permitrbf" has been merged, which allows nodes to choose whether to replace opt-in RBF transactions or not. Some discussion ensued to change the default behavior of 0.12.0 and set it to false.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/01/21/</link>
-            <guid isPermaLink="false">85147044-f3b6-43a4-ac1c-c3ec83cc9af4</guid>
             <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
         </item>
     </channel>
