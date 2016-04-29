@@ -7,6 +7,13 @@
         <lastBuildDate>Fri, 29 Apr 2016 19:38:51 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Bitcoin Trading The Block Reward Halving]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Trading The Block Reward Halving</h1><p>Bitcoin price has slowly gained alttude in a non-committal rise to $450. This analyst keeps questioning why the market compulsively buys price up when the technicals are pointing down. Some say that perhaps the market is trading the expectation of a block reward rally. This analysis is provided by xbt.social with a 3-hour delay.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/522325c1c0b7437487f078d37cff3b22d1cc9af5.png"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-trading-block-reward-halving/</link>
+            <guid isPermaLink="false">1fdd0a46-84db-464c-ad43-235fbea84441</guid>
+            <pubDate>Fri, 29 Apr 2016 19:32:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bitcoin Price Watch; The Weekend Ahead - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Watch; The Weekend Ahead - NEWSBTC</h1><p>Here's what we are looking at in the bitcoin price for this morning out of Europe. The week is about to draw to a close, and it's time for the second of our twice-daily bitcoin price watch analyses. As we have done a few times already this week, let's kick things off with a chart.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa70c2af83ab67986670e894dfbf2fe0dd6f6042.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/04/29/bitcoin-price-watch-weekend-ahead/</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>IRC meeting summary for 2016-03-31</h1><p>segregated witness update softfork backports bad chain alerts child-Pays-For-parent mining Update for the median time-past violation check talked about last week: there are currently no violations being mined. Gmaxwell will start generating MTP violating transactions to check for this again. Update for network-stack refactors: cfields pushed an up-to-date version to his net-refactor10 branch which is ready for testing and review.</p></article>]]></description>
             <link>https://bitcoincore.org/en/meetings/2016/03/31/</link>
             <guid isPermaLink="false">d0e1a532-411b-4bcc-bd88-596c8f7bcc53</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2016-03-17]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-03-17</h1><p>Scheduling the first BIP 9 sort fork for BIPs 68, 112, 113 Features for 0.12.1 besides BIP 9 State of segregated witness VersionBits BIP9 allows using the block header version field as a bit array so that miners can indicate readiness for up to 29 soft forks simultaneously.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/03/17/</link>
-            <guid isPermaLink="false">a154ddfe-d623-4237-89c4-80ecd366da5c</guid>
             <pubDate>Fri, 29 Apr 2016 13:40:55 GMT</pubDate>
         </item>
     </channel>
