@@ -4,29 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 13:44:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:43:53 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Introducing Multi-User Accounts and Performance Upgrades]]></title>
-            <description><![CDATA[<article><h1>Introducing Multi-User Accounts and Performance Upgrades</h1><p>We have lots of big plans for Gemini in 2016 - and the first few pieces of those plans are already coming together. You may have noticed our new Activity Feed, which went live for everyone three weeks ago.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f69121626b7643191c5a84f7a6b4bbdd40b05c1b.png"></article>]]></description>
-            <link>https://gemini.com/blog/introducing-multi-user-accounts-and-performance-upgrades/</link>
-            <guid isPermaLink="false">d647bfe5-7fa4-486c-a44b-f41b83636e73</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our Guidelines For Trade Reversals]]></title>
-            <description><![CDATA[<article><h1>Our Guidelines For Trade Reversals</h1><p>We are writing to clarify our policies and procedures around market disruptions, and to address the large market buy order that was placed by a customer on the evening of Friday, November 13th, 2015.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f6f1164ca70381adf0a21843c1e2c3db751d5b0.jpg"></article>]]></description>
-            <link>https://gemini.com/blog/our-guidelines-for-trade-reversals/</link>
-            <guid isPermaLink="false">9f3b3d9a-774b-4b7c-b92b-fca20ddf3f02</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Bitcoin Use Case: Donald Trump's Wall]]></title>
-            <description><![CDATA[<article><h1>A Bitcoin Use Case: Donald Trump's Wall</h1><p>Last week, presidential candidate Donald Trump revealed his plan for funding the wall that he wants to build on the border between Mexico and the southern United States. How would he generate the billions of dollars to construct it? He has a simple plan: block the flow of remittance funds from United States to Mexico.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2a34e914acc17a11eeae6fb9663ead50e4ed3ae.jpg"></article>]]></description>
-            <link>http://blog.genesis-mining.com/a-bitcoin-use-case-donald-trumps-wall</link>
-            <guid isPermaLink="false">46a0b322-2c3d-4e3a-9dc0-cb6d5f982752</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:52 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Moscow Bitcoin Conference 2016]]></title>
             <description><![CDATA[<article><h1>Moscow Bitcoin Conference 2016</h1><p>We attended the Moscow Bitcoin Conference on April 8th 2016 and gave an outlook on "Opportunities in Cryttocurrency Mining". A lot of interesting and insightful presentations were held and we are happy to see the Bitcoin Industry in Russia thrive! Here are some excerpts & presentation slides of the conference.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2378ff4a62f247db62f40e1ab840d24b33c4dc5e.png"></article>]]></description>
@@ -75,6 +54,27 @@
             <link>https://blog.openbazaar.org/openbazaar-released-on-the-testnet/</link>
             <guid isPermaLink="false">6c955873-b39f-409a-a044-1b227e44c731</guid>
             <pubDate>Fri, 29 Apr 2016 13:40:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Image: How Payments Work on OpenBazaar]]></title>
+            <description><![CDATA[<article><h1>Image: How Payments Work on OpenBazaar</h1><p>This image shows three different payment flows in OpenBazaar. One flow shows direct payments, and two flows show different types of moderated payments (a normal transaction and a disputed one).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/46256d7bb64f02c0526dd519fb43b04f25d53ec5.png"></article>]]></description>
+            <link>https://blog.openbazaar.org/image-how-payments-work-on-openbazaar/</link>
+            <guid isPermaLink="false">99dcbf42-c281-4ada-a1b7-e21276e8be78</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Current Limitations of the OpenBazaar Software]]></title>
+            <description><![CDATA[<article><h1>Current Limitations of the OpenBazaar Software</h1><p>Anyone with a computer and internet connection can easily install the OpenBazaar software and begin trading with anyone else in the world - for free - without permission. We firmly believe that decentralized, P2P trade is going to fundamentally change commerce for the better. However, we don't expect this to happen overnight.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ed0e44d6a80102fdc45ccbfd4386ecf1ac0ab76.png"></article>]]></description>
+            <link>https://blog.openbazaar.org/current-limitations-of-the-openbazaar-software/</link>
+            <guid isPermaLink="false">aea8a8a6-4f57-4b0c-95ac-3f5fb4405b74</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenBazaar is Open for Business]]></title>
+            <description><![CDATA[<article><h1>OpenBazaar is Open for Business</h1><p>OpenBazaar is now released on the mainnet and is ready for real transactions. You can download the program on the OpenBazaar website . You can read our explaining how to use OpenBazaar for the first time. If you need help, user tutorial join our Slack or visit our help center.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1114ca9df30085f4ce6aba8862b14dda471fc18.png"></article>]]></description>
+            <link>https://blog.openbazaar.org/openbazaar-is-open-for-business/</link>
+            <guid isPermaLink="false">02a35fbb-183d-49f2-836c-f1259cbad8e9</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
