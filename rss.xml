@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 13:44:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:44:03 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Funding Your Gemini Account Just Got A Lot Faster!]]></title>
-            <description><![CDATA[<article><h1>Funding Your Gemini Account Just Got A Lot Faster!</h1><p>Funding your account with fiat (e.g. US Dollars) and bitcoin just became a lot faster! Funding via USD You can now instantly link your bank account to your Gemini account using your bank account login credentials. No more waiting multiple days for micro-deposits to hit your bank account.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9b035ee97ef06edfe5d33a9fbb065aafabf10cd.jpg"></article>]]></description>
-            <link>https://gemini.com/blog/funding-your-gemini-account-just-got-a-lot-faster/</link>
-            <guid isPermaLink="false">a326e3f6-4923-47aa-b8a2-82ca9d427bdf</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:52 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Introducing Multi-User Accounts and Performance Upgrades]]></title>
             <description><![CDATA[<article><h1>Introducing Multi-User Accounts and Performance Upgrades</h1><p>We have lots of big plans for Gemini in 2016 - and the first few pieces of those plans are already coming together. You may have noticed our new Activity Feed, which went live for everyone three weeks ago.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f69121626b7643191c5a84f7a6b4bbdd40b05c1b.png"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>OpenBazaar Weekly Update, March 7, 2016</h1><p>We've been posting weekly development updates for many months now. Since our testnet release on March 1st, we're now going to give updates on development through release notes when new versions are released. We will continue publishing weekly updates, which won't be focused on code changes but other information around the progress of the OpenBazaar software, network, and community.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ed0e44d6a80102fdc45ccbfd4386ecf1ac0ab76.png"></article>]]></description>
             <link>https://blog.openbazaar.org/openbazaar-weekly-update-march-7-2016/</link>
             <guid isPermaLink="false">f71e5759-c4cc-4f0a-a478-ba24bc596272</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenBazaar Released on the Testnet]]></title>
+            <description><![CDATA[<article><h1>OpenBazaar Released on the Testnet</h1><p>OpenBazaar is now fully functional on the testnet. We welcome rigorous testing from the community to ensure everything is functioning properly. You can download the testnet version here. After we're confident of the stability and functionality of the product, we'll transition to the main net and OpenBazaar will be open for business.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcee89ed1b60236280c6a799652a28fef4b20c04.png"></article>]]></description>
+            <link>https://blog.openbazaar.org/openbazaar-released-on-the-testnet/</link>
+            <guid isPermaLink="false">6c955873-b39f-409a-a044-1b227e44c731</guid>
             <pubDate>Fri, 29 Apr 2016 13:40:51 GMT</pubDate>
         </item>
     </channel>
