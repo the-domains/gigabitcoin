@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 13:42:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:42:19 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Dash, the anonymous evolution of Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Dash, the anonymous evolution of Bitcoin</h1><p>The introduction of Bitcoin sparked a revolution of finance and economics. Bitcoin set money's value free from government constraint, value can now be determined solely by the market. Instead of depending on centralized third parties for every financial transaction, people can exchange value around the world cheaply, and in a completely decentralized manner.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92a58f332beb758f1b33e1e68665beccec1bb886.jpg"></article>]]></description>
-            <link>http://bravenewcoin.com/news/dash-the-anonymous-evolution-of-bitcoin/</link>
-            <guid isPermaLink="false">d840b114-7515-4a54-ae0f-65adde83e988</guid>
-            <pubDate>Fri, 29 Apr 2016 13:39:53 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Coinbase Enables Instant Bitcoin Purchase via US Debit Cards]]></title>
             <description><![CDATA[<article><h1>Coinbase Enables Instant Bitcoin Purchase via US Debit Cards</h1><p>Bitcoin exchange Coinbase has announced that it now enabled instant purchase of bitcoin via debit cards. The feature is available to all users in the United States. Coinbase users in the United States will, like their European counterparts, have the means to instantly buy bitcoin with debit cards.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c4628fa6206c80fa852e0176c75bff25685cd12.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Full Service Restored</h1><p>Today we are happy to announce the full restoration of Coinapult services. Users can now deposit BTC and Lock in addition to withdrawing and Unlocking. Attack Recap On March 17th, an unauthorized withdrawal of 150 BTC were made from our hot wallet. We immediately notified our users and took all services offline.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7dd8ad72e2ad3fea90e07d258633481b2448b20d.png"></article>]]></description>
             <link>http://gigabitcoin.xyz/full-service-restored/index.html</link>
             <guid isPermaLink="false">c9a97229-5efd-4f15-81d8-855ccd167dbf</guid>
+            <pubDate>Fri, 29 Apr 2016 13:39:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FUSION: complete! Bitcoin and Banking worlds successfully merged, and more updates]]></title>
+            <description><![CDATA[<article><h1>FUSION: complete! Bitcoin and Banking worlds successfully merged, and more updates</h1><p>Hello world! The Coinapult team has been hard at work since our integration with Crypto Capital earlier this year, and we'd like to share some of our latest developments and news with you as well as a little bit about what's on the horizon.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83e5b6d34ae4aa0051d4b7c1fb0de3d82b882909.jpg"></article>]]></description>
+            <link>http://gigabitcoin.xyz/fusion-complete-bitcoin-and-banking-worlds-successfully-me/index.html</link>
+            <guid isPermaLink="false">c94df7a8-fd33-41f4-b571-50268fef3a9d</guid>
             <pubDate>Fri, 29 Apr 2016 13:39:33 GMT</pubDate>
         </item>
     </channel>
