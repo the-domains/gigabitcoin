@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 13:46:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 13:46:09 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2016-03-10]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-03-10</h1><p>Background: several developers are working on a soft fork to introduce segregated witness onto Bitcoin mainnet, with initial testing being performed on a special testnet.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/03/10/</link>
-            <guid isPermaLink="false">4d2ab9f8-b319-4375-a51c-1fd7665daf42</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2016-02-25]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-02-25</h1><p>BIP 68/112/113 rollout Forthcoming OpenSSL releases PR #7542 Implement "feefilter" P2P message hasn't been reviewed yet. BIP 68 Consensus-enforced transaction replacement signaled via sequence numbers. BIP 112 CHECKSEQUENCEVERIFY. BIP 113 Median time-past as endpoint for lock-time calculations. In short: BIP 68 changes the meaning of the sequence number field to a relative locktime.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/02/25/</link>
-            <guid isPermaLink="false">ebefbc73-9505-4474-a661-216ba9dd4c30</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:55 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[IRC meeting summary for 2016-02-18]]></title>
             <description><![CDATA[<article><h1>IRC meeting summary for 2016-02-18</h1><p>feefilter P2P message Reorg performance of SequenceLocks checks Note: The meeting was a short one as some developers were participating in the Bitcoin Roundtable. Btcdrak suggested arranging open source licenses of the Jetbrains IDEs for C++ and Python. The maintainer (wumpus) needs to apply.</p></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>IRC meeting summary for 2016-01-07</h1></article>]]></description>
             <link>https://bitcoincore.org/en/meetings/2016/01/07/</link>
             <guid isPermaLink="false">72020c98-4869-4630-a95d-e8e72b2e248b</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2015-12-17]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2015-12-17</h1><p>Replace-by-fee handling in wallets C++11 for 0.13 Currently when a node sees a transaction that spends the same output it ignores it. With RBF it replaces the current transaction in the mempool if it has a higher fee. This allows for things like spending "stuck" transactions, adding more recipients to a transaction in order to prevent chaining, etc.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2015/12/17/</link>
+            <guid isPermaLink="false">a4a24a98-c11e-44fc-bc07-7d4186f95d89</guid>
+            <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2015-12-10]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2015-12-10</h1><p>BIP 68 Consensus-enforced transaction replacement signaled via sequence numbers , and current implementation. BIP 68 changes the meaning of the previously unused sequence number field to a relative locktime. When a block is created miners include a timestamp. This timestamp has to be between the median of the previous 11 blocks and the network-adjusted time +2 hours.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2015/12/10/</link>
+            <guid isPermaLink="false">6536c2ff-a471-4869-9e1b-f906dbecc744</guid>
             <pubDate>Fri, 29 Apr 2016 13:40:54 GMT</pubDate>
         </item>
     </channel>
