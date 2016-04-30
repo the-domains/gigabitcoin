@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 02:08:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 02:08:32 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hi, I just want to introduce my Openbazaar store here just once. I believe I offer an interesting service. * /r/Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Hi, I just want to introduce my Openbazaar store here just once. I believe I offer an interesting service. * /r/Bitcoin</h1><p>Bitcoin is the currency of the Internet: a distributed, worldwide, decentralized digital money. Unlike traditional currencies such as dollars, bitcoins are issued and managed without any central authority whatsoever: there is no government, company, or bank in charge of Bitcoin. As such, it is more resistant to wild inflation and corrupt banks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
+            <link>https://www.reddit.com/r/Bitcoin/comments/4gz9cx/hi_i_just_want_to_introduce_my_openbazaar_store/</link>
+            <guid isPermaLink="false">80515a15-c380-45e0-ba33-c5bd189f7601</guid>
+            <pubDate>Sat, 30 Apr 2016 02:07:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Deloitte Harnesses Facebook Messenger to Put Warranties on Blockchain - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Deloitte Harnesses Facebook Messenger to Put Warranties on Blockchain - CoinDesk</h1><p>Deloitte has used Facebook's recently released Messenger API to build an early version of a product capable of storing warranties on a blockchain and allowing users to buy insurance for items even after they've purchased.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8cbaba41ab986623de8b21bcb0b7180c81ba0f7a.jpg"></article>]]></description>
@@ -14,17 +21,17 @@
             <pubDate>Sat, 30 Apr 2016 02:07:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[South Africans Supporters of Alleged Global Bitcoin Scam MMM March On]]></title>
-            <description><![CDATA[<article><h1>South Africans Supporters of Alleged Global Bitcoin Scam MMM March On</h1><p>Supporters of MMM, which is accused of being a Ponzi scheme, marched in Soweto, South Africa in celebration of the Financial Freedom Awareness campaign, coinciding with South Africa's Freedom Day, according to Independent Online (IOL), a South African news source.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2af1a3b15b7a8fe7c326608b6462218ae4c79878.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/sa-mmm-supporters-bitcoin/</link>
-            <guid isPermaLink="false">b8de2c7d-3e1c-4c99-922d-46c64243634b</guid>
-            <pubDate>Fri, 29 Apr 2016 19:32:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bitcoin's Western Union Support, Russia Ban | PYMNTS.com]]></title>
             <description><![CDATA[<article><h1>Bitcoin's Western Union Support, Russia Ban | PYMNTS.com</h1><p>Western Union just put its toe in the bitcoin/blockchain waters. It announced an investment in Digital Currency Group, a bitcoin/blockchain startup-focused investment firm, which includes former Treasury Secretary Larry Summers, who is serving as an advisor and also put money up.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6586c6ef1c507684c9dbf6279086082f717283d.jpg"></article>]]></description>
             <link>http://www.pymnts.com/news/bitcoin-tracker/2016/bitcoins-russian-problem-eulogy-and-new-supporters/</link>
             <guid isPermaLink="false">f17ca57e-6adb-470d-8432-47677efb233a</guid>
+            <pubDate>Fri, 29 Apr 2016 19:32:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[South Africans Supporters of Alleged Global Bitcoin Scam MMM March On]]></title>
+            <description><![CDATA[<article><h1>South Africans Supporters of Alleged Global Bitcoin Scam MMM March On</h1><p>Supporters of MMM, which is accused of being a Ponzi scheme, marched in Soweto, South Africa in celebration of the Financial Freedom Awareness campaign, coinciding with South Africa's Freedom Day, according to Independent Online (IOL), a South African news source.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2af1a3b15b7a8fe7c326608b6462218ae4c79878.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/sa-mmm-supporters-bitcoin/</link>
+            <guid isPermaLink="false">b8de2c7d-3e1c-4c99-922d-46c64243634b</guid>
             <pubDate>Fri, 29 Apr 2016 19:32:19 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Larry Summers just joined a bitcoin firm</h1><p>Digital Currency Group is busy these days. In the last four months alone, the company acquired the leading bitcoin news site CoinDesk, and the biggest bitcoin conference, Consensus, along with it; it also became an investor in Coin Center, the bitcoin industry's main advocacy group.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe23f887f9846658397cb65125686709339eb78f.jpg"></article>]]></description>
             <link>http://finance.yahoo.com/news/larry-summers-joins-barry-silbert-bitcoin-investment-firm-digital-currency-group-as-senior-advisor-161613775.html</link>
             <guid isPermaLink="false">ce7a8513-19d0-4944-8819-1fce66e4bd7c</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2016-04-07]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-04-07</h1><p>How to proceed with Bitcoin Core wallet Dealing with RBF RPC/UI 0.12.1 Release candidate 1 has been tagged (at time of writing 0.12.1 RC2 has been tagged) Update for the median time-past violation check: gmaxwell generated a number of violations of which none got mined.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/04/07/</link>
-            <guid isPermaLink="false">80b98e0e-b99a-4332-8d30-ad4135d7777c</guid>
             <pubDate>Fri, 29 Apr 2016 13:40:56 GMT</pubDate>
         </item>
     </channel>
