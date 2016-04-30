@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 16:02:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 16:02:55 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Plug Pulled On Keza App Allowing Bitcoin Investing In Stocks]]></title>
+            <description><![CDATA[<article><h1>Plug Pulled On Keza App Allowing Bitcoin Investing In Stocks</h1><p>The Keza app, an IOS app which allowed users to invest in bitcoin stocks and fixed incomes, has closed down shortly after launching, according to its website. The project had received $357,000 in funding backed by Digital Currency Group and Jason Calacanis of HOF Capital.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3286e980d8a19f28f903bfe0acc0a2b396770982.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/plug-pulled-on-keza-app-allowing-bitcoin-investing-in-stocks/</link>
+            <guid isPermaLink="false">66d7f2d1-fdc4-40fc-b636-a0e257e27857</guid>
+            <pubDate>Sat, 30 Apr 2016 16:01:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Confirm own incoming transactions]]></title>
+            <description><![CDATA[<article><h1>Confirm own incoming transactions</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top This might only be an issue with the terminology, but when a transaction is "mined", it is included in a block.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43877/confirm-own-incoming-transactions</link>
+            <guid isPermaLink="false">3be5fae7-8676-4d63-a96d-e96602824906</guid>
+            <pubDate>Sat, 30 Apr 2016 16:01:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Does the Lightning Network Threaten Bitcoin's Censorship Resistance?]]></title>
             <description><![CDATA[<article><h1>Does the Lightning Network Threaten Bitcoin's Censorship Resistance?</h1><p>The Lightning Network may well be Bitcoin's primary solution to the issue of scalability, but many skeptics believe there are unresolved issues with this layer-2 system for the blockchain. The possibility of too much centralization via so-called "supernodes" is one of the common criticisms of the Lightning Network, and attached to that is the fear of these new, mostly -centralized payment hubs having the capacity to censor transactions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8bd5fae749ab7fa2f524b90b2dba82a2d488490.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://www.reddit.com/r/Bitcoin/comments/4gz9cx/hi_i_just_want_to_introduce_my_openbazaar_store/</link>
             <guid isPermaLink="false">80515a15-c380-45e0-ba33-c5bd189f7601</guid>
             <pubDate>Sat, 30 Apr 2016 02:07:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deloitte Harnesses Facebook Messenger to Put Warranties on Blockchain - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Deloitte Harnesses Facebook Messenger to Put Warranties on Blockchain - CoinDesk</h1><p>Deloitte has used Facebook's recently released Messenger API to build an early version of a product capable of storing warranties on a blockchain and allowing users to buy insurance for items even after they've purchased.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8cbaba41ab986623de8b21bcb0b7180c81ba0f7a.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/deloitte-hacked-facebook-messenger-put-warranties-blockchain/</link>
-            <guid isPermaLink="false">9d5f9822-c59a-44ce-9195-8bfe9fd29730</guid>
-            <pubDate>Sat, 30 Apr 2016 02:07:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South Africans Supporters of Alleged Global Bitcoin Scam MMM March On]]></title>
-            <description><![CDATA[<article><h1>South Africans Supporters of Alleged Global Bitcoin Scam MMM March On</h1><p>Supporters of MMM, which is accused of being a Ponzi scheme, marched in Soweto, South Africa in celebration of the Financial Freedom Awareness campaign, coinciding with South Africa's Freedom Day, according to Independent Online (IOL), a South African news source.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2af1a3b15b7a8fe7c326608b6462218ae4c79878.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/sa-mmm-supporters-bitcoin/</link>
-            <guid isPermaLink="false">b8de2c7d-3e1c-4c99-922d-46c64243634b</guid>
-            <pubDate>Fri, 29 Apr 2016 19:32:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
