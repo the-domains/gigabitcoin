@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 19:38:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 02:08:30 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deloitte Harnesses Facebook Messenger to Put Warranties on Blockchain - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Deloitte Harnesses Facebook Messenger to Put Warranties on Blockchain - CoinDesk</h1><p>Deloitte has used Facebook's recently released Messenger API to build an early version of a product capable of storing warranties on a blockchain and allowing users to buy insurance for items even after they've purchased.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8cbaba41ab986623de8b21bcb0b7180c81ba0f7a.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/deloitte-hacked-facebook-messenger-put-warranties-blockchain/</link>
+            <guid isPermaLink="false">9d5f9822-c59a-44ce-9195-8bfe9fd29730</guid>
+            <pubDate>Sat, 30 Apr 2016 02:07:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[South Africans Supporters of Alleged Global Bitcoin Scam MMM March On]]></title>
             <description><![CDATA[<article><h1>South Africans Supporters of Alleged Global Bitcoin Scam MMM March On</h1><p>Supporters of MMM, which is accused of being a Ponzi scheme, marched in Soweto, South Africa in celebration of the Financial Freedom Awareness campaign, coinciding with South Africa's Freedom Day, according to Independent Online (IOL), a South African news source.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2af1a3b15b7a8fe7c326608b6462218ae4c79878.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>IRC meeting summary for 2016-04-07</h1><p>How to proceed with Bitcoin Core wallet Dealing with RBF RPC/UI 0.12.1 Release candidate 1 has been tagged (at time of writing 0.12.1 RC2 has been tagged) Update for the median time-past violation check: gmaxwell generated a number of violations of which none got mined.</p></article>]]></description>
             <link>https://bitcoincore.org/en/meetings/2016/04/07/</link>
             <guid isPermaLink="false">80b98e0e-b99a-4332-8d30-ad4135d7777c</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2016-04-14]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-04-14</h1><p>Status of 0.12.1: RC2 has been released. Meanwhile there has been a 0.12.1 RC block mined last week. Normally we wait a week after the RC release before labeling it as final, but many like to release it sooner. 0.12.1 features BIP68, BIP112, BIP113 which will be deployed via the BIP9 softfork mechanism.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/04/14/</link>
-            <guid isPermaLink="false">272d37eb-014e-4c2b-95e9-5d395cac8106</guid>
             <pubDate>Fri, 29 Apr 2016 13:40:56 GMT</pubDate>
         </item>
     </channel>
