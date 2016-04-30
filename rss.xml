@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 02:08:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 16:01:34 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Does the Lightning Network Threaten Bitcoin's Censorship Resistance?]]></title>
+            <description><![CDATA[<article><h1>Does the Lightning Network Threaten Bitcoin's Censorship Resistance?</h1><p>The Lightning Network may well be Bitcoin's primary solution to the issue of scalability , but many skeptics believe there are unresolved issues with this layer-2 system for the blockchain. The possibility of too much centralization via so-called "supernodes" is one of the common criticisms of the Lightning Network, and attached to that is the fear of these new, mostly -centralized payment hubs having the capacity to censor transactions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a79a74d4acc4a7bdb0e1a5209eb6971e91d29446.jpg"></article>]]></description>
+            <link>http://www.nasdaq.com/article/does-the-lightning-network-threaten-bitcoins-censorship-resistance-cm614075</link>
+            <guid isPermaLink="false">f6faad20-3f01-40ae-a258-69da63d2be45</guid>
+            <pubDate>Sat, 30 Apr 2016 16:01:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Ends Turbulent Week as Bull Run Fades - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Ends Turbulent Week as Bull Run Fades - CoinDesk</h1><p>Markets Weekly is a column analyzing price movements in the global digital currency markets, and the technology's use case as an asset class. Bitcoin prices fluctuated significantly during the week ending 29th April, reaching a yearly high of $470 before falling below $440.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15314dedb479011a3e6878e4b8883297ecf5e451.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Watch; The Weekend Ahead - NEWSBTC</h1><p>Here's what we are looking at in the bitcoin price for this morning out of Europe. The week is about to draw to a close, and it's time for the second of our twice-daily bitcoin price watch analyses. As we have done a few times already this week, let's kick things off with a chart.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa70c2af83ab67986670e894dfbf2fe0dd6f6042.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/04/29/bitcoin-price-watch-weekend-ahead/</link>
             <guid isPermaLink="false">64c49869-d7db-4abb-bdd5-1588bedef535</guid>
-            <pubDate>Fri, 29 Apr 2016 19:32:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin price hits 18-month high at $465]]></title>
-            <description><![CDATA[<article><h1>Bitcoin price hits 18-month high at $465</h1><p>By Apparently, rumors of bitcoin's death have been greatly exaggerated. Bitcoin, the world's largest digital asset and payment system when measuring by market capitalization, hit an 18-month high just north of $465 earlier this week, according to Coindesk's bitcoin price index.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c88cc3ec9276d4120bd7c02ad6e39221348e62f8.jpg"></article>]]></description>
-            <link>http://www.marketwatch.com/story/bitcoin-price-hits-18-month-high-at-465-2016-04-29</link>
-            <guid isPermaLink="false">bf18d3f7-8090-45d8-aae7-f091a52a511e</guid>
             <pubDate>Fri, 29 Apr 2016 19:32:18 GMT</pubDate>
         </item>
     </channel>
