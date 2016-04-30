@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 16:02:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 16:02:08 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Confirm own incoming transactions]]></title>
-            <description><![CDATA[<article><h1>Confirm own incoming transactions</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top This might only be an issue with the terminology, but when a transaction is "mined", it is included in a block.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/43877/confirm-own-incoming-transactions</link>
-            <guid isPermaLink="false">3be5fae7-8676-4d63-a96d-e96602824906</guid>
-            <pubDate>Sat, 30 Apr 2016 16:01:01 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Does the Lightning Network Threaten Bitcoin's Censorship Resistance?]]></title>
             <description><![CDATA[<article><h1>Does the Lightning Network Threaten Bitcoin's Censorship Resistance?</h1><p>The Lightning Network may well be Bitcoin's primary solution to the issue of scalability, but many skeptics believe there are unresolved issues with this layer-2 system for the blockchain. The possibility of too much centralization via so-called "supernodes" is one of the common criticisms of the Lightning Network, and attached to that is the fear of these new, mostly -centralized payment hubs having the capacity to censor transactions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8bd5fae749ab7fa2f524b90b2dba82a2d488490.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://www.coindesk.com/deloitte-hacked-facebook-messenger-put-warranties-blockchain/</link>
             <guid isPermaLink="false">9d5f9822-c59a-44ce-9195-8bfe9fd29730</guid>
             <pubDate>Sat, 30 Apr 2016 02:07:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[South Africans Supporters of Alleged Global Bitcoin Scam MMM March On]]></title>
+            <description><![CDATA[<article><h1>South Africans Supporters of Alleged Global Bitcoin Scam MMM March On</h1><p>Supporters of MMM, which is accused of being a Ponzi scheme, marched in Soweto, South Africa in celebration of the Financial Freedom Awareness campaign, coinciding with South Africa's Freedom Day, according to Independent Online (IOL), a South African news source.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2af1a3b15b7a8fe7c326608b6462218ae4c79878.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/sa-mmm-supporters-bitcoin/</link>
+            <guid isPermaLink="false">b8de2c7d-3e1c-4c99-922d-46c64243634b</guid>
+            <pubDate>Fri, 29 Apr 2016 19:32:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
