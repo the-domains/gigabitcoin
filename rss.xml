@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 16:01:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 16:02:05 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Japan's leading bitcoin exchange BitFlyer secures $27 million]]></title>
+            <description><![CDATA[<article><h1>Japan's leading bitcoin exchange BitFlyer secures $27 million</h1><p>(The Bridge) - Tokyo-based BitFlyer, the company behind a Japanese bitcoin exchange, announced this week that it has secured about $27 million (3 billion yen) from Venture Labo Investment, SBI Investment, and others.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f01c3e245961985657fca7384e914faa42c6017d.jpg"></article>]]></description>
+            <link>http://venturebeat.com/2016/04/30/japans-leading-bitcoin-exchange-bitflyer-secures-27-million/</link>
+            <guid isPermaLink="false">1dc8bea5-3c28-4b0e-a74e-64115ca06772</guid>
+            <pubDate>Sat, 30 Apr 2016 16:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AsicBoost claims 20% efficiency improvement in Bitcoin mining]]></title>
+            <description><![CDATA[<article><h1>AsicBoost claims 20% efficiency improvement in Bitcoin mining</h1><p>The Bitcoin mining industry exists in a very close competition; every miner must stay on the cutting edge of the technology, in order to compete and stay profitable. Any potential efficiency gain creates an instant arms race, and is nearly impossible to overlook while remaining in the game.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3d247b2b6743d5a0bae8ebef5227f4648823828.jpg"></article>]]></description>
+            <link>http://bravenewcoin.com/news/asicboost-claims-20-efficiency-improvement-in-bitcoin-mining/</link>
+            <guid isPermaLink="false">6a84384e-b633-496c-b80a-93f4e54a27b4</guid>
+            <pubDate>Sat, 30 Apr 2016 16:01:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mycelium: New Bitcoin Wallet Offers Opportunity in Crowdsale]]></title>
             <description><![CDATA[<article><h1>Mycelium: New Bitcoin Wallet Offers Opportunity in Crowdsale</h1><p>Bitcoin wallet vendor Mycelium has announced the release of their new Bitcoin wallet and the launch of its crowdsale. This announcement was posted on Reddit and states that the new wallet shall be simply called Mycelium.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/045e1e59996b13751a0653410beb0f065fb5888f.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.pymnts.com/news/bitcoin-tracker/2016/bitcoins-russian-problem-eulogy-and-new-supporters/</link>
             <guid isPermaLink="false">f17ca57e-6adb-470d-8432-47677efb233a</guid>
             <pubDate>Fri, 29 Apr 2016 19:32:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Isle of Man Regulator Seeks Rule Change to Ease Bitcoin Gambling - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Isle of Man Regulator Seeks Rule Change to Ease Bitcoin Gambling - CoinDesk</h1><p>The government of the Isle of Man is looking to plug a gap in its gambling regulations as they relate to bitcoin and other digital currencies. Officials are currently weighing regulatory changes that would allow gambling services to accept digital currencies "as if they were cash".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb038132d025cc9b604bdedc29440896da020b43.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/isle-of-man-bitcoin-gambling/</link>
-            <guid isPermaLink="false">d72f39a2-b1a1-46f5-bdaf-0e47edecde57</guid>
-            <pubDate>Fri, 29 Apr 2016 19:32:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Trading The Block Reward Halving]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Trading The Block Reward Halving</h1><p>Bitcoin price has slowly gained alttude in a non-committal rise to $450. This analyst keeps questioning why the market compulsively buys price up when the technicals are pointing down. Some say that perhaps the market is trading the expectation of a block reward rally. This analysis is provided by xbt.social with a 3-hour delay.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/522325c1c0b7437487f078d37cff3b22d1cc9af5.png"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-trading-block-reward-halving/</link>
-            <guid isPermaLink="false">1fdd0a46-84db-464c-ad43-235fbea84441</guid>
-            <pubDate>Fri, 29 Apr 2016 19:32:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
