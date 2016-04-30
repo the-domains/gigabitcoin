@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 02:08:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 02:08:37 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Ends Turbulent Week as Bull Run Fades - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Ends Turbulent Week as Bull Run Fades - CoinDesk</h1><p>Markets Weekly is a column analyzing price movements in the global digital currency markets, and the technology's use case as an asset class. Bitcoin prices fluctuated significantly during the week ending 29th April, reaching a yearly high of $470 before falling below $440.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15314dedb479011a3e6878e4b8883297ecf5e451.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/bitcoin-price-turbulent-bull-run/</link>
+            <guid isPermaLink="false">4ad9eabf-c89e-4202-9fe5-c6689b00efa4</guid>
+            <pubDate>Sat, 30 Apr 2016 02:07:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Algorithmic Improvements Give Bitcoin Mining an AsicBoost]]></title>
             <description><![CDATA[<article><h1>Algorithmic Improvements Give Bitcoin Mining an AsicBoost</h1><p>Timo Hanke, a mathematical researcher and cryptocurrency expert, in collaboration with Sergio Demian Lerner, a renowned security expert, has developed a new Bitcoin mining method that can increase mining revenue by up to 20 percent, translating to an increase of $30 million in annual profits if used by one of the biggest mining pools.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d857541543d09ac7b2f2a0b4703b932da61bdaf0.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin price hits 18-month high at $465</h1><p>By Apparently, rumors of bitcoin's death have been greatly exaggerated. Bitcoin, the world's largest digital asset and payment system when measuring by market capitalization, hit an 18-month high just north of $465 earlier this week, according to Coindesk's bitcoin price index.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c88cc3ec9276d4120bd7c02ad6e39221348e62f8.jpg"></article>]]></description>
             <link>http://www.marketwatch.com/story/bitcoin-price-hits-18-month-high-at-465-2016-04-29</link>
             <guid isPermaLink="false">bf18d3f7-8090-45d8-aae7-f091a52a511e</guid>
-            <pubDate>Fri, 29 Apr 2016 19:32:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Algorithmic Improvements Give Bitcoin Mining an AsicBoost]]></title>
-            <description><![CDATA[<article><h1>Algorithmic Improvements Give Bitcoin Mining an AsicBoost</h1><p>Timo Hanke, a mathematical researcher and cryptocurrency expert, in collaboration with Sergio Demian Lerner, a renowned security expert, has developed a new Bitcoin mining method that can increase mining revenue by up to 20 percent, translating to an increase of $30 million in annual profits if used by one of the biggest mining pools.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06497a061a16fffc0e2c3d7eaf17fa211cc6392e.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/algorithmic-improvements-give-bitcoin-mining-an-asicboost-1461948457</link>
-            <guid isPermaLink="false">e01fbf00-365a-48fe-96fa-0f18908414c5</guid>
             <pubDate>Fri, 29 Apr 2016 19:32:18 GMT</pubDate>
         </item>
     </channel>
