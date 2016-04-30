@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 16:01:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 16:02:11 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Confirm own incoming transactions]]></title>
+            <description><![CDATA[<article><h1>Confirm own incoming transactions</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top This might only be an issue with the terminology, but when a transaction is "mined", it is included in a block.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43877/confirm-own-incoming-transactions</link>
+            <guid isPermaLink="false">3be5fae7-8676-4d63-a96d-e96602824906</guid>
+            <pubDate>Sat, 30 Apr 2016 16:01:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does the Lightning Network Threaten Bitcoin's Censorship Resistance?]]></title>
+            <description><![CDATA[<article><h1>Does the Lightning Network Threaten Bitcoin's Censorship Resistance?</h1><p>The Lightning Network may well be Bitcoin's primary solution to the issue of scalability, but many skeptics believe there are unresolved issues with this layer-2 system for the blockchain. The possibility of too much centralization via so-called "supernodes" is one of the common criticisms of the Lightning Network, and attached to that is the fear of these new, mostly -centralized payment hubs having the capacity to censor transactions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8bd5fae749ab7fa2f524b90b2dba82a2d488490.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/does-the-lightning-network-threaten-bitcoin-s-censorship-resistance-1461953131</link>
+            <guid isPermaLink="false">aa39bc71-ef7a-4c01-a343-f477f5d0f02a</guid>
+            <pubDate>Sat, 30 Apr 2016 16:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Japan's leading bitcoin exchange BitFlyer secures $27 million]]></title>
+            <description><![CDATA[<article><h1>Japan's leading bitcoin exchange BitFlyer secures $27 million</h1><p>(The Bridge) - Tokyo-based BitFlyer, the company behind a Japanese bitcoin exchange, announced this week that it has secured about $27 million (3 billion yen) from Venture Labo Investment, SBI Investment, and others.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f01c3e245961985657fca7384e914faa42c6017d.jpg"></article>]]></description>
+            <link>http://venturebeat.com/2016/04/30/japans-leading-bitcoin-exchange-bitflyer-secures-27-million/</link>
+            <guid isPermaLink="false">1dc8bea5-3c28-4b0e-a74e-64115ca06772</guid>
+            <pubDate>Sat, 30 Apr 2016 16:01:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AsicBoost claims 20% efficiency improvement in Bitcoin mining]]></title>
             <description><![CDATA[<article><h1>AsicBoost claims 20% efficiency improvement in Bitcoin mining</h1><p>The Bitcoin mining industry exists in a very close competition; every miner must stay on the cutting edge of the technology, in order to compete and stay profitable. Any potential efficiency gain creates an instant arms race, and is nearly impossible to overlook while remaining in the game.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3d247b2b6743d5a0bae8ebef5227f4648823828.jpg"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>http://www.coindesk.com/deloitte-hacked-facebook-messenger-put-warranties-blockchain/</link>
             <guid isPermaLink="false">9d5f9822-c59a-44ce-9195-8bfe9fd29730</guid>
             <pubDate>Sat, 30 Apr 2016 02:07:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South Africans Supporters of Alleged Global Bitcoin Scam MMM March On]]></title>
-            <description><![CDATA[<article><h1>South Africans Supporters of Alleged Global Bitcoin Scam MMM March On</h1><p>Supporters of MMM, which is accused of being a Ponzi scheme, marched in Soweto, South Africa in celebration of the Financial Freedom Awareness campaign, coinciding with South Africa's Freedom Day, according to Independent Online (IOL), a South African news source.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2af1a3b15b7a8fe7c326608b6462218ae4c79878.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/sa-mmm-supporters-bitcoin/</link>
-            <guid isPermaLink="false">b8de2c7d-3e1c-4c99-922d-46c64243634b</guid>
-            <pubDate>Fri, 29 Apr 2016 19:32:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin's Western Union Support, Russia Ban | PYMNTS.com]]></title>
-            <description><![CDATA[<article><h1>Bitcoin's Western Union Support, Russia Ban | PYMNTS.com</h1><p>Western Union just put its toe in the bitcoin/blockchain waters. It announced an investment in Digital Currency Group, a bitcoin/blockchain startup-focused investment firm, which includes former Treasury Secretary Larry Summers, who is serving as an advisor and also put money up.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6586c6ef1c507684c9dbf6279086082f717283d.jpg"></article>]]></description>
-            <link>http://www.pymnts.com/news/bitcoin-tracker/2016/bitcoins-russian-problem-eulogy-and-new-supporters/</link>
-            <guid isPermaLink="false">f17ca57e-6adb-470d-8432-47677efb233a</guid>
-            <pubDate>Fri, 29 Apr 2016 19:32:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Isle of Man Regulator Seeks Rule Change to Ease Bitcoin Gambling - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Isle of Man Regulator Seeks Rule Change to Ease Bitcoin Gambling - CoinDesk</h1><p>The government of the Isle of Man is looking to plug a gap in its gambling regulations as they relate to bitcoin and other digital currencies. Officials are currently weighing regulatory changes that would allow gambling services to accept digital currencies "as if they were cash".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb038132d025cc9b604bdedc29440896da020b43.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/isle-of-man-bitcoin-gambling/</link>
-            <guid isPermaLink="false">d72f39a2-b1a1-46f5-bdaf-0e47edecde57</guid>
-            <pubDate>Fri, 29 Apr 2016 19:32:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
