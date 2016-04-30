@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 02:08:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 02:08:34 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Algorithmic Improvements Give Bitcoin Mining an AsicBoost]]></title>
+            <description><![CDATA[<article><h1>Algorithmic Improvements Give Bitcoin Mining an AsicBoost</h1><p>Timo Hanke, a mathematical researcher and cryptocurrency expert, in collaboration with Sergio Demian Lerner, a renowned security expert, has developed a new Bitcoin mining method that can increase mining revenue by up to 20 percent, translating to an increase of $30 million in annual profits if used by one of the biggest mining pools.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d857541543d09ac7b2f2a0b4703b932da61bdaf0.jpg"></article>]]></description>
+            <link>http://www.nasdaq.com/article/algorithmic-improvements-give-bitcoin-mining-an-asicboost-cm614038</link>
+            <guid isPermaLink="false">c31a3a0d-a78c-4e83-9466-7ac02d6fe841</guid>
+            <pubDate>Sat, 30 Apr 2016 02:07:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hi, I just want to introduce my Openbazaar store here just once. I believe I offer an interesting service. * /r/Bitcoin]]></title>
             <description><![CDATA[<article><h1>Hi, I just want to introduce my Openbazaar store here just once. I believe I offer an interesting service. * /r/Bitcoin</h1><p>Bitcoin is the currency of the Internet: a distributed, worldwide, decentralized digital money. Unlike traditional currencies such as dollars, bitcoins are issued and managed without any central authority whatsoever: there is no government, company, or bank in charge of Bitcoin. As such, it is more resistant to wild inflation and corrupt banks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://bitcoinmagazine.com/articles/algorithmic-improvements-give-bitcoin-mining-an-asicboost-1461948457</link>
             <guid isPermaLink="false">e01fbf00-365a-48fe-96fa-0f18908414c5</guid>
             <pubDate>Fri, 29 Apr 2016 19:32:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Larry Summers just joined a bitcoin firm]]></title>
-            <description><![CDATA[<article><h1>Larry Summers just joined a bitcoin firm</h1><p>Digital Currency Group is busy these days. In the last four months alone, the company acquired the leading bitcoin news site CoinDesk, and the biggest bitcoin conference, Consensus, along with it; it also became an investor in Coin Center, the bitcoin industry's main advocacy group.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe23f887f9846658397cb65125686709339eb78f.jpg"></article>]]></description>
-            <link>http://finance.yahoo.com/news/larry-summers-joins-barry-silbert-bitcoin-investment-firm-digital-currency-group-as-senior-advisor-161613775.html</link>
-            <guid isPermaLink="false">ce7a8513-19d0-4944-8819-1fce66e4bd7c</guid>
-            <pubDate>Fri, 29 Apr 2016 13:40:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
