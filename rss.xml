@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 19:37:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 19:37:53 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Industry Report: Bitcoin Error Makes Miner Rich, DCG Grows Empire]]></title>
+            <description><![CDATA[<article><h1>Industry Report: Bitcoin Error Makes Miner Rich, DCG Grows Empire</h1><p>Want to catch up on digital currency news? This week, an accidental transaction landed a bitcoin miner a hefty sum of coins, and Barry Silbert's Digital Currency Group got even bigger. Take a look and see what you've been missing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3e5f65bcdf43f41006a43c6949c19e5ac842544.png"></article>]]></description>
+            <link>http://bitcoinist.net/bitcoin-error-dcg-empire/</link>
+            <guid isPermaLink="false">f372dbce-2fad-4552-af54-1692cd083913</guid>
+            <pubDate>Sun, 01 May 2016 19:37:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Road To Bitcoin Adoption Passes Through Many Stages]]></title>
             <description><![CDATA[<article><h1>The Road To Bitcoin Adoption Passes Through Many Stages</h1><p>Unfortunately, we have come at a crossroads in the Bitcoin world, as the focus seems to be shifting to blockchain. People view Bitcoin as a variety of tools, ranging from something that facilitates illegal activity to financial freedom and just an investment vehicle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b1cd15bf15a88a24a0e034cfb39d8d20fe8b1e7.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>April Closes With No Segwit Released, the Agreement Breached, Were We Played? - Again!? * /r/btc</h1><p>"We will run a SegWit release in production by the time such a hard-fork is released in a version of Bitcoin Core." Segwit was to be released...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
             <link>https://www.reddit.com/r/btc/comments/4h544k/april_closes_with_no_segwit_released_the/</link>
             <guid isPermaLink="false">63a60a2a-149f-4816-9f64-a8e52796358a</guid>
-            <pubDate>Sun, 01 May 2016 15:46:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin and Banks Can Work Together, Interview With PrivatBank's Alexander Vityaz]]></title>
-            <description><![CDATA[<article><h1>Bitcoin and Banks Can Work Together, Interview With PrivatBank's Alexander Vityaz</h1><p>Bitcoin and banks can work together, according to PrivatBank's Alexander Vityaz, who sees card companies and cryptocurrency focusing on the technology aspect of transactions, while banks focus on brokerage. Banks have had a tense relationship with cryptocurrency, from fighting Bitcoin to trying to patent blockchain technology for their own use.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c0522ba2d043d71ab58e4515da864c9c92686da.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/bitcoin-and-banks-can-work-together-interview-with-privatbanks-alexander-vityaz</link>
-            <guid isPermaLink="false">2797e62b-f834-41ed-a967-c355caffbb3a</guid>
             <pubDate>Sun, 01 May 2016 15:46:24 GMT</pubDate>
         </item>
     </channel>
