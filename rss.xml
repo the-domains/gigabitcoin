@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 19:37:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 19:38:18 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin a Reliable Alternative in Latin America - Bitcoin News]]></title>
+            <description><![CDATA[<article><h1>Bitcoin a Reliable Alternative in Latin America - Bitcoin News</h1><p>Bitcoin Also read: Looting of the Fox: The Story of Sabotage at ShapeShift is a phenomenon that has introduced a better way to transact for citizens all around the world. Due to a tumultuous recession affecting Latin American economies, the region's residents are embracing the digital currency as local citizens and businesses try to curb economic woes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac1369f0b54ce4fdc86d69f9eebe69932c91d36c.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/bitcoin-alternative-latin-america/</link>
+            <guid isPermaLink="false">551e9a72-09f0-4354-95b8-a30b5d965fa0</guid>
+            <pubDate>Sun, 01 May 2016 19:37:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Industry Report: Bitcoin Error Makes Miner Rich, DCG Grows Empire]]></title>
             <description><![CDATA[<article><h1>Industry Report: Bitcoin Error Makes Miner Rich, DCG Grows Empire</h1><p>Want to catch up on digital currency news? This week, an accidental transaction landed a bitcoin miner a hefty sum of coins, and Barry Silbert's Digital Currency Group got even bigger. Take a look and see what you've been missing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3e5f65bcdf43f41006a43c6949c19e5ac842544.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.cryptocoinsnews.com/bitcoin-gambling-approved-in-isle-of-man-by-regulator/</link>
             <guid isPermaLink="false">911a5c16-56c0-448c-b79d-981ae262081d</guid>
             <pubDate>Sun, 01 May 2016 15:46:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[April Closes With No Segwit Released, the Agreement Breached, Were We Played? - Again!? * /r/btc]]></title>
-            <description><![CDATA[<article><h1>April Closes With No Segwit Released, the Agreement Breached, Were We Played? - Again!? * /r/btc</h1><p>"We will run a SegWit release in production by the time such a hard-fork is released in a version of Bitcoin Core." Segwit was to be released...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
-            <link>https://www.reddit.com/r/btc/comments/4h544k/april_closes_with_no_segwit_released_the/</link>
-            <guid isPermaLink="false">63a60a2a-149f-4816-9f64-a8e52796358a</guid>
-            <pubDate>Sun, 01 May 2016 15:46:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
