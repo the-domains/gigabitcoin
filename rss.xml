@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 23:56:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 23:56:29 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blockchain Energy Project Wins Consensus 2016 Hackathon - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Blockchain Energy Project Wins Consensus 2016 Hackathon - CoinDesk</h1><p>The two-day 'Building Blocks' Hackathon at Consensus 2016 concluded today with the news that Decentralized Energy Utility, a project aimed at improving utility services in the developing world, had been named the $5,000 grand prize winner. In total, 26 projects were presented, a figured event emcee and CoinDesk lead Ryan Selkis indicated was an increase from the 15 participants last year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e36d9321ca3226febef78e6dc881a02254fca867.png"></article>]]></description>
+            <link>http://www.coindesk.com/consensus-2016-building-blocks-hackathon-winner/</link>
+            <guid isPermaLink="false">d9a6faf0-2c9a-457e-9d7a-1572d96b7110</guid>
+            <pubDate>Sun, 01 May 2016 23:56:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Tatiana Show - Pamela Morgan Of Empowered Law and Third Key Solutions | Lets Talk Bitcoin]]></title>
             <description><![CDATA[<article><h1>The Tatiana Show - Pamela Morgan Of Empowered Law and Third Key Solutions | Lets Talk Bitcoin</h1><p>Tatiana and Josh interview Pamela Morgan of Empowered Law. Topics of discussion include estate planning with bitcoin, smart contracts, multisig technology, and the right to privacy in the digital age. http://bravenewcoin.com/news/gone-forever-bitcoin-altcoins-assettokens-and-death/ Pamela Morgan is an attorney, educator, entrepreneur, and public speaker. She has spent almost her entire career working in and advising small businesses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c15ec1ea90264fa07eb4f0b2dac4a311adcf498.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin a Reliable Alternative in Latin America - Bitcoin News</h1><p>Bitcoin Also read: Looting of the Fox: The Story of Sabotage at ShapeShift is a phenomenon that has introduced a better way to transact for citizens all around the world. Due to a tumultuous recession affecting Latin American economies, the region's residents are embracing the digital currency as local citizens and businesses try to curb economic woes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac1369f0b54ce4fdc86d69f9eebe69932c91d36c.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/bitcoin-alternative-latin-america/</link>
             <guid isPermaLink="false">551e9a72-09f0-4354-95b8-a30b5d965fa0</guid>
-            <pubDate>Sun, 01 May 2016 19:37:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Industry Report: Bitcoin Error Makes Miner Rich, DCG Grows Empire]]></title>
-            <description><![CDATA[<article><h1>Industry Report: Bitcoin Error Makes Miner Rich, DCG Grows Empire</h1><p>Want to catch up on digital currency news? This week, an accidental transaction landed a bitcoin miner a hefty sum of coins, and Barry Silbert's Digital Currency Group got even bigger. Take a look and see what you've been missing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3e5f65bcdf43f41006a43c6949c19e5ac842544.png"></article>]]></description>
-            <link>http://bitcoinist.net/bitcoin-error-dcg-empire/</link>
-            <guid isPermaLink="false">f372dbce-2fad-4552-af54-1692cd083913</guid>
             <pubDate>Sun, 01 May 2016 19:37:29 GMT</pubDate>
         </item>
     </channel>
