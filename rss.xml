@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 04:54:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 04:54:01 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is a bitcoin?]]></title>
+            <description><![CDATA[<article><h1>What is a bitcoin?</h1><p>This short Bitcoin explainer video is perfect for bitcoin newbies, young and old. Ready for more bitcoin explainers? Visit us at: http://bitcoinconcepts.net To get started using bitcoin today, go straight to: http://Bitcoin.org and pick your first wallet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c5c8ef0f1b6f9c17aca701d77e3ae9a8b360a95.jpg"></article>]]></description>
+            <link>http://www.youtube.com/watch?v=K6bM-1O6N9o</link>
+            <guid isPermaLink="false">b6715854-08e3-4188-a5fa-91d949632a42</guid>
+            <pubDate>Mon, 02 May 2016 04:53:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Commonwealth Secretariat Unveils Secure Blockchain Messaging App - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Commonwealth Secretariat Unveils Secure Blockchain Messaging App - CoinDesk</h1><p>The Commonwealth Secretariat, the executive arm of the 53-member Commonwealth of Nations, has launched a blockchain-powered secure communication tool geared for governments and law enforcement. Developed in partnership with UK-based startup Digital Identity Security Company (DISC), the project is designed to offer a secure means of communication for government and law enforcement agencies within the Commonwealth.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea5c9842b1f38674f3357599403c96b4018bfa4c.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The Tatiana Show - Pamela Morgan Of Empowered Law and Third Key Solutions | Lets Talk Bitcoin</h1><p>Tatiana and Josh interview Pamela Morgan of Empowered Law. Topics of discussion include estate planning with bitcoin, smart contracts, multisig technology, and the right to privacy in the digital age. http://bravenewcoin.com/news/gone-forever-bitcoin-altcoins-assettokens-and-death/ Pamela Morgan is an attorney, educator, entrepreneur, and public speaker. She has spent almost her entire career working in and advising small businesses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c15ec1ea90264fa07eb4f0b2dac4a311adcf498.jpg"></article>]]></description>
             <link>https://letstalkbitcoin.com/blog/post/the-tatiana-show-pamela-morgan-of-empowered-law</link>
             <guid isPermaLink="false">315f3b2f-31b0-4548-9b09-3ad8878afc75</guid>
-            <pubDate>Sun, 01 May 2016 23:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vote Different - John McAfee / Judd Weiss Libertarian Presidential Campaign Ad]]></title>
-            <description><![CDATA[<article><h1>Vote Different - John McAfee / Judd Weiss Libertarian Presidential Campaign Ad</h1><p>Be a hero. Change the world. Vote Different. http://BeALibertarian.com This is the 2nd in a new series of videos for the John McAfee / Judd Weiss campaign for the Libertarian Party presidential nomination. If you love this video, please share it with the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8ceac4ce2991cac3ccdea88fdcc07b8bb476e35.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=UfLz2Us4s4A</link>
-            <guid isPermaLink="false">3b5e0309-8930-42bb-ad9b-562e687e617b</guid>
             <pubDate>Sun, 01 May 2016 23:56:00 GMT</pubDate>
         </item>
     </channel>
