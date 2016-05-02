@@ -7,13 +7,6 @@
         <lastBuildDate>Mon, 02 May 2016 13:44:59 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Australian programmer confirms he invented bitcoin | The Japan Times]]></title>
-            <description><![CDATA[<article><h1>Australian programmer confirms he invented bitcoin | The Japan Times</h1><p>Australian tech entrepreneur Craig Wright told the BBC on Monday he was the creator of controversial digital currency bitcoin, ending years of speculation about a person who until now has gone by the pseudonym Satoshi Nakamoto. The BBC said Wright gave technical proof supporting his claim to using bitcoins known to be owned by bitcoin's creator.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92ee4bae65ab16d457f989a90161227e4ad0226b.jpg"></article>]]></description>
-            <link>http://www.japantimes.co.jp/news/2016/05/02/business/australian-programmer-confirms-invented-bitcoin/</link>
-            <guid isPermaLink="false">60f89254-e1a9-46ae-8878-dff5a336d36b</guid>
-            <pubDate>Mon, 02 May 2016 13:43:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Morgan Stanley Claims Blockchain Still Has Obstacles]]></title>
             <description><![CDATA[<article><h1>Morgan Stanley Claims Blockchain Still Has Obstacles</h1><p>Global Insight is directed mainly at "sophisticated investors only" and gives a detailed description of a vast array of market analysis and financial insight. The giant corporation Morgan Stanley, a multinational financial service provider who focuses on wealth & asset management, has recently released a paper on blockchain technology.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a96d89bb1d7ea2510a9c7f634962b529c6f49f4.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/05/02/morgan-stanley-blockchain-has-obstacles/</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Delaware Government to Seek Legal Classification for Blockchain Shares - CoinDesk</h1><p>Delaware is looking to use blockchain technology in a bid to streamline the cost and paperwork burden of registering new companies in the state. In partnership with smart contract-focused startup Symbiont and New York law firm Pillsbury Winthrop Shaw Pittman, the planned system would move the process of registering companies, tracking share movements, and managing shareholder communications into a digital environment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71217334daf93a54dbe6e6f6ae45c0a1bce6877c.jpg"></article>]]></description>
             <link>http://www.coindesk.com/delaware-government-blockchain-shares/</link>
             <guid isPermaLink="false">439de261-1abd-4517-82b7-845bdd15fe9f</guid>
+            <pubDate>Mon, 02 May 2016 13:43:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Former Australian Bitcoin Mining Company Reports $1.23m Loss]]></title>
+            <description><![CDATA[<article><h1>Former Australian Bitcoin Mining Company Reports $1.23m Loss</h1><p>But there is more, as the rebranding from DigitalBTC to Digital X also led to the company purchasing US$6.7m on buying bitcoins for their liquidity desk. People who have been following the Bitcoin scene for quite some time now will remember a company called DigitalBTC.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f4da8a37b257475ce8b21ae4d3d2b54a5282c37c.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/02/australian-bitcoin-mining-company-reports-loss/</link>
+            <guid isPermaLink="false">6334a731-3c6f-463b-995a-ee9117a6758c</guid>
             <pubDate>Mon, 02 May 2016 13:43:55 GMT</pubDate>
         </item>
     </channel>
