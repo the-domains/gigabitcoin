@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 04:53:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 04:54:00 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Commonwealth Secretariat Unveils Secure Blockchain Messaging App - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Commonwealth Secretariat Unveils Secure Blockchain Messaging App - CoinDesk</h1><p>The Commonwealth Secretariat, the executive arm of the 53-member Commonwealth of Nations, has launched a blockchain-powered secure communication tool geared for governments and law enforcement. Developed in partnership with UK-based startup Digital Identity Security Company (DISC), the project is designed to offer a secure means of communication for government and law enforcement agencies within the Commonwealth.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea5c9842b1f38674f3357599403c96b4018bfa4c.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/commonwealth-secretariat-has-a-new-secure-messaging-app-that-uses-blockchain/</link>
+            <guid isPermaLink="false">d4fe7ea0-5971-4652-a84c-77985026a1ac</guid>
+            <pubDate>Mon, 02 May 2016 04:53:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pirate Bay Gets a 'Massive' $9 in Donations, Per Day - TorrentFreak]]></title>
             <description><![CDATA[<article><h1>Pirate Bay Gets a 'Massive' $9 in Donations, Per Day - TorrentFreak</h1><p>When The Pirate Bay and other torrent sites started accepting Bitcoin donations a few years ago, copyright holders voiced concerns about this new 'unseizable' revenue stream. Thus far, this fear seems unwarranted with TPB raking in an average of $9 per day in Bitcoin donations over the past year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c60df4f2e78a2e7004a296cac24afd4bb023e318.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=UfLz2Us4s4A</link>
             <guid isPermaLink="false">3b5e0309-8930-42bb-ad9b-562e687e617b</guid>
             <pubDate>Sun, 01 May 2016 23:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Isle of Man May Soon Be the Online Crypto-Gambling Destination - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Isle of Man May Soon Be the Online Crypto-Gambling Destination - NEWSBTC</h1><p>The Isle of Man is planning to make changes to its online gambling regulations to make it more digital currency-friendly. Read more... Europe is increasingly becoming a digital currency-friendly continent. If there is a Bitcoin-friendly territory index, then the Isle of Man will definitely feature at the top.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7d6449f8fd633c4d109d3d9727d462f1b3fb3d3.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/01/isle-of-man-may-soon-be-the-online-crypto-gambling-destination/</link>
-            <guid isPermaLink="false">aa1ea99f-fdfe-44aa-b630-88cb1b784643</guid>
-            <pubDate>Sun, 01 May 2016 20:37:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
