@@ -4,8 +4,20 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 15:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 15:10:11 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://twitter.com/petertoddbtc/status/727078284345917441</link>
+            <guid isPermaLink="false">c56a30c2-5abf-4f70-8873-2789a0cf327d</guid>
+            <pubDate>Mon, 02 May 2016 15:09:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://twitter.com/_jonasschnelli_/status/727053624615030784</link>
+            <guid isPermaLink="false">3eada53c-88ba-4f9b-a7b0-8169210bf3a9</guid>
+            <pubDate>Mon, 02 May 2016 15:09:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Legal status of Blockchain proof-of-existence TX (USA court)]]></title>
             <description><![CDATA[<article><h1>Legal status of Blockchain proof-of-existence TX (USA court)</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -60,20 +72,6 @@
             <description><![CDATA[<article><h1>Circle Then and Now: Bitcoin's Early Champions Challenge a Blockchain World - CoinDesk</h1><p>A brick building in Boston's Waterfront district might not seem like the most obvious place for a high-tech company, but it's mix of colonial heritage and gentrified chic are oddly fitting for blockchain payments startup Circle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba68a60f1c52d34bfc5a42bc09857a36867fb6a7.jpg"></article>]]></description>
             <link>http://www.coindesk.com/circle-now-bitcoins-early-champions-fight-blockchain-world/</link>
             <guid isPermaLink="false">31bcff72-5e56-469a-ae94-d5606653da2d</guid>
-            <pubDate>Mon, 02 May 2016 15:08:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Delaware Confirms Interest in Blockchain Technology For Business Registration]]></title>
-            <description><![CDATA[<article><h1>Delaware Confirms Interest in Blockchain Technology For Business Registration</h1><p>It appears as if the state of Vermont is not the only one keeping a close eye on the blockchain these days. Delaware wants to wield this technology to reduce the paperwork costs and time associated with registering new businesses in the region.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc6f3b1df33f604bb90d43e72238dda11bf64c84.jpg"></article>]]></description>
-            <link>http://themerkle.com/delaware-confirms-interest-in-blockchain-technology-for-business-registration/</link>
-            <guid isPermaLink="false">0b0c51db-833c-49c2-835f-11287d37c990</guid>
-            <pubDate>Mon, 02 May 2016 15:08:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="http://imgur.com/DDod3Iu.jpg"></article>]]></description>
-            <link>http://i.imgur.com/DDod3Iu.jpg</link>
-            <guid isPermaLink="false">2a42168d-340b-46fc-89ce-3db33edf04ad</guid>
             <pubDate>Mon, 02 May 2016 15:08:46 GMT</pubDate>
         </item>
     </channel>
