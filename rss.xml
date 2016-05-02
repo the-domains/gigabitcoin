@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 13:46:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 13:46:25 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Microsoft, USAA Join DC Blockchain Policy Group - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Microsoft, USAA Join DC Blockchain Policy Group - CoinDesk</h1><p>Tech giant Microsoft and military-focused banking and insurance firm USAA are among the newest members of the Chamber of Digital Commerce, a policy advocacy group focused on blockchain technology. Founded in mid-2014, the non-profit lobbying group has spent the time since pushing for fair regulation and oversight in Washington, DC for companies working on bitcoin or blockchain applications.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d7ba44a5971784e1c47ea420ed0f0f2047cf87c.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/microsoft-usaa-join-chamber-of-digital-commerce-policy-group/</link>
-            <guid isPermaLink="false">b42ae911-fcc1-478b-bd5d-b035b6ff1e28</guid>
-            <pubDate>Mon, 02 May 2016 13:44:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gavin Andresen GitHub Commit Access Revoked]]></title>
-            <description><![CDATA[<article><h1>Gavin Andresen GitHub Commit Access Revoked</h1><p>With all of the drama surrounding to supposed reveal of the identity of Satoshi Nakamoto, a lot of news is not getting the attention it deserves. Gavin Andresen has allegedly validated Craig Wright's claims as being Satoshi, but at the same time, his commit access to Bitcoin Core's Github project has been removed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19e0d8a4792142b4f59f264bbd3066ed51972f08.jpg"></article>]]></description>
-            <link>http://themerkle.com/gavin-andresen-github-commit-access-revoked/</link>
-            <guid isPermaLink="false">2def3cae-03de-41e4-8f61-a95e084b7eef</guid>
-            <pubDate>Mon, 02 May 2016 13:44:21 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Japan Officially Recognizes Bitcoin and Digital Currencies as Money]]></title>
             <description><![CDATA[<article><h1>Japan Officially Recognizes Bitcoin and Digital Currencies as Money</h1><p>Japanese banks are set for embracing Bitcoin after proposed new laws. Has Bitcoin finally come of age in the land of the rising sun? On March 4, 2016, The reported that the Cabinet in Japan Times Japan had approved a series of bills which would help the banking sector expand their reach when it comes to Information Technology businesses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/146f10b3fbe0f239a590f54b69125ba5776ad493.jpg"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>Credits and Skyscape partner to provide Blockchain-as-a-Service to the UK Public Sector</h1><p>Founded in November 2014, by Nick Williamson and Eric Benz, Credits is a Blockchain Software as a Service (SaaS) initiative from the Isle of Man, with an office in Lodon. Williamson also founded Manx startup Pythia, the parent company building Credits. Credits began offering the Platform-as-a-Service (PaaS) tools, for building secure and scalable blockchains, on April 6.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d748bb86ac8277033bd7b1f36d4649cb29cb269.jpg"></article>]]></description>
             <link>http://bravenewcoin.com/news/credits-and-skyscape-partner-to-provide-blockchain-as-a-service-to-the-uk-public-sector/</link>
             <guid isPermaLink="false">820b6a35-7f4b-4b48-9ce0-8125bf53ed84</guid>
+            <pubDate>Mon, 02 May 2016 13:43:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum Price Technical Analysis - ETH/USD Upside Drift Continues - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Ethereum Price Technical Analysis - ETH/USD Upside Drift Continues - NEWSBTC</h1><p>Ethereum price surprised many traders by rocketing higher once again. I think there is a room for more gains in the near term in ETH/USD. Ethereum price surprised many traders by rocketing higher once again. I think there is a room for more gains in the near term in ETH/USD.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2acf94b9970eef9bc527d6b45a8a3e0ffddd118.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/02/ethereum-price-technical-analysis-ethusd-upside-drift-continues/</link>
+            <guid isPermaLink="false">75a6f346-9cb8-4236-a4e4-4043353aec03</guid>
+            <pubDate>Mon, 02 May 2016 13:43:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Creator of Bitcoin digital cash reveals identity - BBC News]]></title>
+            <description><![CDATA[<article><h1>Creator of Bitcoin digital cash reveals identity - BBC News</h1><p>Australian entrepreneur Craig Wright has publicly identified himself as Bitcoin creator Satoshi Nakamoto. His admission ends years of speculation about who came up with the original ideas underlying the digital cash system. Mr Wright has provided technical proof to back up his claim using coins known to be owned by Bitcoin's creator.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7afb47c355558612e924eae08db4512b9f7c9156.jpg"></article>]]></description>
+            <link>http://www.bbc.com/news/technology-36168863</link>
+            <guid isPermaLink="false">ad767466-a67d-4960-aae9-f2d6ba40a40a</guid>
             <pubDate>Mon, 02 May 2016 13:43:57 GMT</pubDate>
         </item>
     </channel>
