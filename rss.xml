@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 13:44:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 13:44:57 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Piggy Ƀank: The Physical Bitcoin Wallet - Bitcoin News]]></title>
-            <description><![CDATA[<article><h1>Piggy Ƀank: The Physical Bitcoin Wallet - Bitcoin News</h1><p>Kyle Kemper is a long time Also read: This 'KYC Solution' Will Link Ethereum Addresses to Identities Bitcoin Bitcoin.com Kyle when did you first get into Bitcoin? enthusiast and artist. Recently hes started a campaign selling unique physical wallets called the Piggy Ƀank BC: What gave you the idea to create a Piggy Ƀank?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/921dd6c5cec744fbbbb91772f0f6cc3cf50e7b4d.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/piggy-%c9%83ank-wallet/</link>
-            <guid isPermaLink="false">c5bd73e8-1bb8-407c-89b3-dc96361a2e67</guid>
-            <pubDate>Mon, 02 May 2016 13:43:56 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Is this man bitcoin founder Satoshi Nakamoto?]]></title>
             <description><![CDATA[<article><h1>Is this man bitcoin founder Satoshi Nakamoto?</h1><p>Craig Wright, a 45-year-old IT and security consultant from Australia, is "Satoshi Nakamato," the person who invented the bitcoin virtual currency, according to the BBC. They reached that conclusion after Wright provided technical evidence to the broadcaster, including cryptographic keys linked to the first bitcoin transaction from Nakamato in 2009.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd40bc0a8504969cd32cd7aa6dad276120e8b794.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://imgur.com/h5BF2kX</link>
             <guid isPermaLink="false">f44860de-cc0c-448e-97ee-c6867e893fcb</guid>
             <pubDate>Mon, 02 May 2016 04:53:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[​Former bitcoin miner Digital X reports $1.2m Q3 loss | ZDNet]]></title>
+            <description><![CDATA[<article><h1>​Former bitcoin miner Digital X reports $1.2m Q3 loss | ZDNet</h1><p>Fintech firm Digital X has reported a third quarter operating loss of $1.27 million. For the three months ended March 31, 2016, Digital X's bitcoin trading activity produced approximately $5.7 million in revenue, which the company said helped to offset the cash burn its AirPocket remittance product caused, as well as the "winding down" of bitcoin mining.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a49ded35f8d509cd830aa8a56a397b7056847e77.jpg"></article>]]></description>
+            <link>http://www.zdnet.com/article/former-bitcoin-miner-digital-x-reports-1-2m-q3-loss/</link>
+            <guid isPermaLink="false">b72b6c69-e63b-405e-8dd4-6c5d76e408fb</guid>
+            <pubDate>Mon, 02 May 2016 04:53:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
