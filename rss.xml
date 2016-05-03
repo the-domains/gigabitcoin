@@ -4,8 +4,64 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 13:42:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 13:43:23 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mystery solved? Australian says he's Bitcoin founder]]></title>
+            <description><![CDATA[<article><h1>Mystery solved? Australian says he's Bitcoin founder</h1><p>By Gregory Katz Associated Press Posted: 05/02/2016 03:44:37 AM MDT Updated: 05/02/2016 07:59:09 AM MDT Click photo to enlarge LONDON (AP) - An Australian man long rumored to be associated with the digital currency Bitcoin has publicly identified himself as its creator, a claim that would end one of the biggest mysteries in the tech world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ccfde8d24966c51e0e18a6563d5c2adb326371a.jpg"></article>]]></description>
+            <link>http://www.denverpost.com/ci_29838991/australian-says-hes-founder-bitcoin-digital-cash</link>
+            <guid isPermaLink="false">a3c64372-b2be-4e8b-adbc-6d3d7c815098</guid>
+            <pubDate>Tue, 03 May 2016 13:40:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Japan's Money Partners Group Invests $450k in Bitcoin Exchange]]></title>
+            <description><![CDATA[<article><h1>Japan's Money Partners Group Invests $450k in Bitcoin Exchange</h1><p>Bitcoin seems to be part of whatever these companies have planned well, which could boost cryptocurrency adoption in Japan over the coming months and years. People active in the world of Bitcoin and cryptocurrency will have heard of the Zaif exchange before, which has become a popular Bitcoin platform in Japan.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2886806b62d0f60b5922b9f781cc308bd4911697.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/03/japans-money-partners-group-invests-450k-bitcoin-exchange/</link>
+            <guid isPermaLink="false">c4c82d08-fa3b-4a93-a693-6567bd3d4514</guid>
+            <pubDate>Tue, 03 May 2016 13:40:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Doubts follow Craig Wright's claims of bitcoin invention | Business | DW.COM | 03.05.2016]]></title>
+            <description><![CDATA[<article><h1>Doubts follow Craig Wright's claims of bitcoin invention | Business | DW.COM | 03.05.2016</h1><p>Following waves made by Australian tech entrepreneur Craig Wright saying on Monday that bitcoin founder Satoshi Nakamoto was his alter-ego, doubts on the validity of his claim have emerged from prominent corners of the cryptography community.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac0afabc0f66e263e58716c82d3d63425eac2d6c.jpg"></article>]]></description>
+            <link>http://www.dw.com/en/doubts-follow-craig-wrights-claims-of-bitcoin-invention/a-19231562</link>
+            <guid isPermaLink="false">c8625bc9-55c1-4471-90f6-46417f2d8e57</guid>
+            <pubDate>Tue, 03 May 2016 13:40:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Consensus 2016 Panelists Debate Blockchain's Business Impact - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Consensus 2016 Panelists Debate Blockchain's Business Impact - CoinDesk</h1><p>Digital currency was the first application of blockchain technology - so it only makes sense that banks were among the first institutions to look into other applications. But as those same institutions pursue blockchain trials and proofs-of-concept focused on finance, both startups and established companies are setting their gaze beyond the world of banking.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a17e8238f309f3ebe412a212c5a60f5992bb3dd.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/consensus-2016-business-track-day-one/</link>
+            <guid isPermaLink="false">d97aa93a-68a8-4737-94ea-58c49f1b1bba</guid>
+            <pubDate>Tue, 03 May 2016 13:40:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Delaware Governor Announces Plan To Embrace Blockchain Tech]]></title>
+            <description><![CDATA[<article><h1>Delaware Governor Announces Plan To Embrace Blockchain Tech</h1><p>Delaware Gov. Jack Markell announced a state initiative to embrace blockchain and smart contract technology to help public and private enterprises lower transactional costs, automate and speed up transactions and reduce fraud. Markell announced the plan to look into blockchain technology while delivering a keynote address at Consensus 2016, a New York technology conference on blockchain innovation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51d01455244d25340ea1feee6d2acc7d88c15208.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/delaware-governor-announces-plan-to-embrace-blockchain-in-public-and-private-ventures/</link>
+            <guid isPermaLink="false">9697688e-1f33-4897-b777-0713e86f7e36</guid>
+            <pubDate>Tue, 03 May 2016 13:40:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Did Satoshi Steal My Blog Post?]]></title>
+            <description><![CDATA[<article><h1>Did Satoshi Steal My Blog Post?</h1><p>I'm JP Richardson, cofounder of Exodus bitcoin/ethereum wallet and active JavaScript/Bitcoin developer. I, like a lot of you, got caught up into reading about Craig Wright being Satoshi Nakamoto. I started poking around Craig Wright's site and stumbled upon this gem: http://www.drcraigwright.net/generating-bitcoin-address/ (if link is dead/removed: PDF copy) I thought it looked very similar to an old post I wrote in 2013: http://procbits.com/2013/08/27/generating-a-bitcoin-address-with-javascript using an ancient version of bitcoinjs-lib circa 2013.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a5e2ebee1002f1eeb3d6eb9b7c3ab403a4a7309.jpg"></article>]]></description>
+            <link>http://gigabitcoin.xyz/did-satoshi-steal-my-blog-post/index.html</link>
+            <guid isPermaLink="false">65a71ec1-d45c-4c44-a3ce-7b9d3ac66a6f</guid>
+            <pubDate>Tue, 03 May 2016 13:40:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TRI to Finally Ship Turing Phone This May]]></title>
+            <description><![CDATA[<article><h1>TRI to Finally Ship Turing Phone This May</h1><p>On April 30 Turing Robotic Industries sent a newsletter to all their subscribers, saying the Turing Phone is ready for shipment, which will begin after the final newsletter on May 3. Also read: Antonopoulos Declined 'Opportunity' to Identify Satoshi and Doesn't Care "While we scan through thousands of pre-orders and requests we have decided to send out the confirmation email on May 3rd.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e71283ff221fcdc401af2a0c6869ccee6375200.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/turing-phone-ship-may/</link>
+            <guid isPermaLink="false">f93960bd-f9ea-43b5-8516-acb3ff94fd5c</guid>
+            <pubDate>Tue, 03 May 2016 13:40:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Crypto Valley In Switzerland Now Accepts Bitcoin For Train Tickets]]></title>
+            <description><![CDATA[<article><h1>Crypto Valley In Switzerland Now Accepts Bitcoin For Train Tickets</h1><p>One community in Switzerland dubbed Crypto Valley, has decided to start accepting Bitcoin payments for train tickets. This was agreed upon during the council meeting earlier today, as they now accept Bitcoin payments for bills up to 200 Swiss Francs Also read: Valyrian Tech Presents Bitcoin Spellbook Project Very few people will have heard of Crypto Valley - located in the Zug canton - so far, even though this community in Switzerland has been around for quite some time now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53d2ea26f91c03a0f90e7f0954de2d528638361c.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/crypto-valley-in-switzerland-now-accepts-bitcoin-for-train-tickets/</link>
+            <guid isPermaLink="false">773019d5-1a58-4261-b26a-c5344f328f3f</guid>
+            <pubDate>Tue, 03 May 2016 13:40:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Swiss Town Accepts Bitcoin as Payment for Municipal Services]]></title>
             <description><![CDATA[<article><h1>Swiss Town Accepts Bitcoin as Payment for Municipal Services</h1><p>In the idyllic, sleepy town of Zug in Switzerland, a city council meeting today saw the authority decide to accept bitcoin as a valid payment for municipality services as a part of a pilot program.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b06ff8ff9fef7ead46aed1f11f23bc95557cb5d2.jpg"></article>]]></description>
@@ -19,62 +75,6 @@
             <link>http://www.bbc.com/news/technology-36193006</link>
             <guid isPermaLink="false">24273424-5924-4cc8-ac03-cb289c49b029</guid>
             <pubDate>Tue, 03 May 2016 13:40:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Former Amazon Exec Unveils 'User-Friendly Bitcoin Wallet' iPayYou]]></title>
-            <description><![CDATA[<article><h1>Former Amazon Exec Unveils 'User-Friendly Bitcoin Wallet' iPayYou</h1><p>A new wallet has come to the Bitcoin environment today - called iPayYou ( Also read: Central Banks' Fedspeak 'Reflects' Bitcoin Disruption Fears iPayYou.io ) - the service says it is the world's "easiest, safest, and most useful wallet." It's currently available via the web only, but Android and iOS applications are scheduled to launch in the next few months.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ddb36640b0702d8d6b5cd5c43857bec70f8ed1c5.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/user-friendly-bitcoin-wallet-ipayyou/</link>
-            <guid isPermaLink="false">accf4e7d-7883-4724-8ec0-f204c8bc4188</guid>
-            <pubDate>Tue, 03 May 2016 13:40:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BitPay Launches Loadable Visa - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>BitPay Launches Loadable Visa - Bitcoinist.net</h1><p>BitPay the global merchant processor for Bitcoin announced a Bitcoin debit card during the Consensus event in New York. BitPay CEO Stephen Pair let attendees know about the Bitcoin-loadable Visa that can make point-of-sale (POS) transactions at brick and mortar locations. The card will available for $9.95 for anyone in the United States and loadable from any Bitcoin wallet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/265b567e41c3a7cb31b7941935ee756f75137ae1.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/bitpay-launches-loadable-visa/</link>
-            <guid isPermaLink="false">d7d9039f-ecde-40b8-9d1c-5cb0f97b6ffd</guid>
-            <pubDate>Tue, 03 May 2016 13:40:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Startup aims to end homeless hunger with blockchain technology]]></title>
-            <description><![CDATA[<article><h1>Startup aims to end homeless hunger with blockchain technology</h1><p>HALIFAX, Nova Scotia - May 2, 2016 - BlockCrushr Labs today unveiled a solution to revolutionize P2P (person to person) street giving, using emerging "blockchain" technologies to ensure that funds given to buy meals and other necessities are spent for their intended purpose.</p></article>]]></description>
-            <link>http://themerkle.com/startup-aims-to-end-homeless-hunger-with-blockchain-technology/</link>
-            <guid isPermaLink="false">5a88bbe8-8648-492c-8190-3d37d70d7d57</guid>
-            <pubDate>Tue, 03 May 2016 13:40:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The latest Bitcoin inventor claims don't add up]]></title>
-            <description><![CDATA[<article><h1>The latest Bitcoin inventor claims don't add up</h1><p>Bitcoin is based on a simple idea: all you need is math. It's the same idea that fueled the cypherpunks and forged large parts of the web. If you get the math right, you can trust it, and then you don't need to trust authorities or institutions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ae2c4d3ed021dc7050c4881d13d80040d0c0ac0.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/5/2/11566296/craig-steven-wright-satoshi-nakamoto-bitcoin-proof</link>
-            <guid isPermaLink="false">404d3f89-9c9f-4c63-88e0-7664a11e9482</guid>
-            <pubDate>Tue, 03 May 2016 13:40:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Technical Analysis for 05/03/2016 - How Low Can Bears Go? - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 05/03/2016 - How Low Can Bears Go? - NEWSBTC</h1><p>Bitcoin Price Key Highlights Bitcoin price broke below the short-term triangle consolidation pattern as predicted in the previous update. Price is currently stalling at an area of interest around $440 but could be due for further downside. The rising trend line connecting the lows of price action on the 4-hour time frame is still intact and ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d251a8c60d7a4e4e37c466ab0be7c936603e3f31.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/03/bitcoin-price-technical-analysis-05032016-low-can-bears-go/</link>
-            <guid isPermaLink="false">2e362ab6-f52d-4d77-9439-56f29eda5ee9</guid>
-            <pubDate>Tue, 03 May 2016 13:40:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Resilience  -  a decentralized taxation system for free market taxation]]></title>
-            <description><![CDATA[<article><h1>Resilience  -  a decentralized taxation system for free market taxation</h1><p>Why would the community want to inject government theft into a crypto-currency? - SeemedGood How is this theft? The whole "taxes = theft" argument falls apart if there doesn't exist some apparatus that is enforcing taxation through violence or the threat thereof - where do you see a threat of violence in this system?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3ce42fdedbd498b4d4be3b8664233b53976c349.png"></article>]]></description>
-            <link>http://themerkle.com/resilience%e2%80%8a-%e2%80%8aa-decentralized-taxation-system-for-free-market-taxation/</link>
-            <guid isPermaLink="false">4bd27da0-b53a-4ec6-8a9d-a975303514cc</guid>
-            <pubDate>Tue, 03 May 2016 13:40:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Market OpenBazaar Sweeps 2016 Blockchain Awards - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Market OpenBazaar Sweeps 2016 Blockchain Awards - CoinDesk</h1><p>Online bitcoin-enabled marketplace OpenBazaar was the big winner at the 2016 Blockchain Awards, sponsored by Blockchain and presented at the Coin Center Annual Dinner. Combined, OpenBaazar and OB1, the development firm that supports the platform, won three of the five awards offered on Monday night, including 'Best New Startup', 'Bitcoin Champion of the Year' and 'Most Promising Consumer Application'.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/854fa927350b0025b60c681bf407eede6816d3e7.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/openbazaar-wins-2016-blockchain-awards/</link>
-            <guid isPermaLink="false">b8d4bc0b-d519-428c-88ed-14e4455ece00</guid>
-            <pubDate>Tue, 03 May 2016 13:40:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Digital Bitbox CEO and Bitcoin Core developer Jonas Schnelli explains how Craig Wright lacks cryptographic proof of being Satoshi and what cryptographic is needed]]></title>
-            <description><![CDATA[<article><h1>Digital Bitbox CEO and Bitcoin Core developer Jonas Schnelli explains how Craig Wright lacks cryptographic proof of being Satoshi and what cryptographic is needed</h1><p>Podcast: Play in new window | Download (Duration: 15:45 - 12.9MB) | Embed Digital Bitbox CEO and Bitcoin Core developer Jonas Schnelli explains how Craig Wright lacks cryptographic proof of being Satoshi and what cryptographic is needed. This entry was posted in Podcast and tagged bitcoin, craig wright, digital bitbox, jonas schnelli, satoshi nakamoto, signature verification by Trace Mayer, J.D..</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2649ad683c2b077f7b76a911d43b72f3c6f395e3.jpg"></article>]]></description>
-            <link>http://www.bitcoin.kn/2016/05/digital-bitbox-ceo-bitcoin-core-developer-jonas-schnelli-explains-craig-wright-lacks-cryptographic-proof-satoshi-cryptographic-needed/</link>
-            <guid isPermaLink="false">37741cce-d847-4027-b12d-f4a61c470e10</guid>
-            <pubDate>Tue, 03 May 2016 13:40:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
