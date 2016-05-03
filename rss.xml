@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 02:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 02:19:37 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Derivatives Giant CME Group Unveils New Tools for Bitcoin Traders - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Derivatives Giant CME Group Unveils New Tools for Bitcoin Traders - CoinDesk</h1><p>Derivatives marketplace CME Group today unveiled two bitcoin benchmarks designed to give investors a new way to hedge. Built in partnership with London-based Crypto Facilities, the prices for the two benchmarks will be derived from six different bitcoin exchanges - Bitfinex, Bitstamp, Coinbase, Genesis Global Trading, itBit and Kraken - and are designed to be compliant with global regulatory requirements.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/434732f380f30e3dec316b46586bb23f10810a25.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/cme-group-unveils-bitcoin-benchmarks-build-derivatives-products/</link>
+            <guid isPermaLink="false">872423da-6d61-485f-bd41-e4be6e14c1eb</guid>
+            <pubDate>Tue, 03 May 2016 02:18:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[An Energy Blockchain for European Prosumers]]></title>
             <description><![CDATA[<article><h1>An Energy Blockchain for European Prosumers</h1><p>A Bitcoin-style virtual currency could save Europe's power grids from reaching breaking point as more and more "prosumers" come on line, the European Commission's Horizon magazine reports. Prosumers ‒ a buzzword in the emerging sharing economy ‒ are consumers who also put energy back into the network from domestic wind turbines and solar panels.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b88b49645e47bd7cbfc91309911f666c3cefcc7.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Is Blockchain a Better Payments Rail? Panelists Divided at Consensus 2016 - CoinDesk</h1><p>Distributed ledgers are often referred to as a new database technology, but could they come to replace existing payments rails? The subject was the center of discussion among Julio Faura of Spanish megabank Santander; Marwan Forzley of blockchain payments startup Align Commerce; Gys Gyman of global consultancy Deloitte; Chris Larsen of distributed ledger leader Ripple; and Elizabeth Rossiello of bitcoin payments startup BitPesa today, the group representing a mix of financial incumbents and startups.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc08a4e7d3e73b7d041045ae950ccda2b11328e7.png"></article>]]></description>
             <link>http://www.coindesk.com/consensus-2016-building-better-payment-rail/</link>
             <guid isPermaLink="false">62c4d0ae-d67b-4c7c-b674-4ee60c8867aa</guid>
-            <pubDate>Tue, 03 May 2016 02:18:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How bitcoins work]]></title>
-            <description><![CDATA[<article><h1>How bitcoins work</h1><p>If Craig Wright is who he says he is, the Australian entrepreneur is the creator of bitcoin previously known only by the pseudonym Satoshi Nakamoto -- who is supposedly worth about 1 million bitcoins, or some $450 million. But how exactly do you use the digital currency?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a009fca08287c999d2da1b0064d5bb6a9a3318d.png"></article>]]></description>
-            <link>http://www.latimes.com/business/technology/la-fi-tn-how-bitcoins-work-20160502-snap-htmlstory.html</link>
-            <guid isPermaLink="false">2a13cb91-e2fb-4f24-95aa-eceebe420a95</guid>
             <pubDate>Tue, 03 May 2016 02:18:26 GMT</pubDate>
         </item>
     </channel>
