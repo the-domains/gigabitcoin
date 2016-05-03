@@ -4,13 +4,20 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 13:45:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 13:45:58 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ethereum Can Solve The Internet of Thing's Problems]]></title>
             <description><![CDATA[<article><h1>Ethereum Can Solve The Internet of Thing's Problems</h1><p>Ethereum is a platform that offers many benefits for the Internet of Things, smart contracts and low confirmation times can solve some of the challenges ahead of IoT deployments: security and scalability. The Internet of Things (IoT) in its broader definition, is the interconnection of many heterogeneous devices -ranging from desktop computers, embedded systems, small sensors, among others-.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/89d1692396f5659e78e6700234e0bbb22fa45d11.jpg"></article>]]></description>
             <link>http://themerkle.com/ethereum-can-solve-the-internet-of-things-problems/</link>
             <guid isPermaLink="false">e8cc544c-c21b-465f-a7d0-68f8f2444dd1</guid>
+            <pubDate>Tue, 03 May 2016 13:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The battle over the future of bitcoin]]></title>
+            <description><![CDATA[<article><h1>The battle over the future of bitcoin</h1><p>The bitcoin world this week learned its absentee father might be Craig Wright, an Australian entrepreneur with nice suits and well-combed hair who claims he invented the digital currency. Wright's appearance complicates an already vicious custody battle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15bf9d341fc7661971b2026065b92e0bbebec550.jpg"></article>]]></description>
+            <link>https://www.theguardian.com/technology/2016/may/03/bitcoin-tech-future-craig-wright-blockchain-transactions</link>
+            <guid isPermaLink="false">c7bd08b5-54fa-4f5f-92f4-40f3e75c2e82</guid>
             <pubDate>Tue, 03 May 2016 13:40:54 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Usage Case- Saving The Future of the Electric Grid</h1><p>Bitcoin Usage Case: Saving The Future of the Electric Grid Those new to Bitcoin or the world of digital currency generally are a bit foggy on how a digital currency can be used in the real world. What can it do that fiat currencies and debit cards can not?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a34a6f55ff3938df6cab10633cd6f6a4812da828.jpg"></article>]]></description>
             <link>https://bitconnect.co/bitcoin-news/134/bitcoin-usage-case-saving-the-future-of-the-electric-grid/</link>
             <guid isPermaLink="false">e6d29b67-f382-4cce-b1cd-69bcc905816b</guid>
-            <pubDate>Tue, 03 May 2016 13:40:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5 Facts About Bitcoin Everyone Thinks Are True | HolyTransaction]]></title>
-            <description><![CDATA[<article><h1>5 Facts About Bitcoin Everyone Thinks Are True | HolyTransaction</h1><p>Well, let's answer to this once and for all... Cash transactions have the same level of anonymity and it is up to users to follow the applicable state laws. Also, Bitcoin is not completely anonymous as transactions are open and public thanks to the blockchain nature.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a07a5f36d3b589b5a8bcf568746933386bcb30e4.png"></article>]]></description>
-            <link>http://blog.holytransaction.com/2016/04/5-facts-about-bitcoin-everyone-thinks.html</link>
-            <guid isPermaLink="false">cec2a8f0-93ab-4ec0-b296-9576b6405119</guid>
             <pubDate>Tue, 03 May 2016 13:40:52 GMT</pubDate>
         </item>
     </channel>
