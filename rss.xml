@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 15:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 02:18:31 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How bitcoins work]]></title>
+            <description><![CDATA[<article><h1>How bitcoins work</h1><p>If Craig Wright is who he says he is, the Australian entrepreneur is the creator of bitcoin previously known only by the pseudonym Satoshi Nakamoto -- who is supposedly worth about 1 million bitcoins, or some $450 million. But how exactly do you use the digital currency?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a009fca08287c999d2da1b0064d5bb6a9a3318d.png"></article>]]></description>
+            <link>http://www.latimes.com/business/technology/la-fi-tn-how-bitcoins-work-20160502-snap-htmlstory.html</link>
+            <guid isPermaLink="false">2a13cb91-e2fb-4f24-95aa-eceebe420a95</guid>
+            <pubDate>Tue, 03 May 2016 02:18:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://twitter.com/petertoddbtc/status/727078284345917441</link>
@@ -65,13 +72,6 @@
             <description><![CDATA[<article><h1>Craig Wright's signature is worthless * /r/Bitcoin</h1><p>JoukeH [discovered](https://www.reddit.com/r/Bitcoin/comments/4hf4xj/creator_of_bitcoin_reveals_identity/d2pf70v) that the signature on Craig...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
             <link>https://www.reddit.com/r/Bitcoin/comments/4hflr3/craig_wrights_signature_is_worthless/</link>
             <guid isPermaLink="false">a85a8265-9f87-478d-96b4-8a0397a8a04a</guid>
-            <pubDate>Mon, 02 May 2016 15:08:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Circle Then and Now: Bitcoin's Early Champions Challenge a Blockchain World - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Circle Then and Now: Bitcoin's Early Champions Challenge a Blockchain World - CoinDesk</h1><p>A brick building in Boston's Waterfront district might not seem like the most obvious place for a high-tech company, but it's mix of colonial heritage and gentrified chic are oddly fitting for blockchain payments startup Circle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba68a60f1c52d34bfc5a42bc09857a36867fb6a7.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/circle-now-bitcoins-early-champions-fight-blockchain-world/</link>
-            <guid isPermaLink="false">31bcff72-5e56-469a-ae94-d5606653da2d</guid>
             <pubDate>Mon, 02 May 2016 15:08:46 GMT</pubDate>
         </item>
     </channel>
