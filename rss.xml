@@ -4,13 +4,20 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 02:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 02:21:54 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Why I declined to "verify" SN's identity two weeks ago * /r/btc]]></title>
             <description><![CDATA[<article><h1>Why I declined to "verify" SN's identity two weeks ago * /r/btc</h1><p>About two weeks ago I was contacted and asked to offer security advice for a project. I was asked to sign an NDA in order to discuss the project...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
             <link>https://www.reddit.com/r/btc/comments/4hj20k/why_i_declined_to_verify_sns_identity_two_weeks/</link>
             <guid isPermaLink="false">60dd255d-4eae-459e-9a78-0815da73c49f</guid>
+            <pubDate>Tue, 03 May 2016 02:18:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Satoshi Nakamoto - Bitcoin Creator Revealed]]></title>
+            <description><![CDATA[<article><h1>Satoshi Nakamoto - Bitcoin Creator Revealed</h1><p>News broadcast of Craig Wright coming out as Satoshi Nakamoto</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ff844d6a9bf45e850a401f49f18001d2b341a5c.jpg"></article>]]></description>
+            <link>https://youtu.be/H2euMNmsb_s</link>
+            <guid isPermaLink="false">3fbecb12-799d-4b40-b349-332548882527</guid>
             <pubDate>Tue, 03 May 2016 02:18:46 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Chain to Showcase Blockchain Standard at Consensus 2016 Conference in New York</h1><p>San Francisco-based Chain, Inc., a blockchain developer company, announced the release of their Open Chain Standard 1 (Chain OS 1) blockchain protocol, which has been in development for the last 18 months. Chain developed the new protocol with the assistance of several financial firms: Capital One, Citigroup, Fidelity, First Data, Fiserv, MUFG, Nasdaq, State Street and Visa.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2557cff977991410052a156e124c185f448b9959.jpg"></article>]]></description>
             <link>http://themerkle.com/chain-to-showcase-blockchain-standard-at-consensus-2016-conference-in-new-york/</link>
             <guid isPermaLink="false">4026ba8e-aeb6-409b-8b97-f1203d0d9d9f</guid>
-            <pubDate>Tue, 03 May 2016 02:18:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Former Maestro CEO Joins Agentic Group Blockchain Consortium]]></title>
-            <description><![CDATA[<article><h1>Former Maestro CEO Joins Agentic Group Blockchain Consortium</h1><p>Blockchain consortia are nothing new under the sun these days, and Agentic Group is one of one consortium very few people have heard of so far. This global Blockchain and digital currency initiative has added former Maestro CEO Ann Camarillo to their Senior Advisors board.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b411a11372aa0b1dc961ba4a882767cc798e4cd4.png"></article>]]></description>
-            <link>http://bitcoinist.net/former-maestro-ceo-joins-agentic-group-blockchain-consortium/</link>
-            <guid isPermaLink="false">7bec48ab-3b8a-40d6-bc37-fb1a7d43a61c</guid>
             <pubDate>Tue, 03 May 2016 02:18:28 GMT</pubDate>
         </item>
     </channel>
