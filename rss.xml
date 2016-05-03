@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 02:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 02:19:42 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[An Energy Blockchain for European Prosumers]]></title>
+            <description><![CDATA[<article><h1>An Energy Blockchain for European Prosumers</h1><p>A Bitcoin-style virtual currency could save Europe's power grids from reaching breaking point as more and more "prosumers" come on line, the European Commission's Horizon magazine reports. Prosumers ‒ a buzzword in the emerging sharing economy ‒ are consumers who also put energy back into the network from domestic wind turbines and solar panels.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b88b49645e47bd7cbfc91309911f666c3cefcc7.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/an-energy-blockchain-for-european-prosumers-1462218142</link>
+            <guid isPermaLink="false">b1f04df0-bfb4-4268-b4f0-0f20d1e05018</guid>
+            <pubDate>Tue, 03 May 2016 02:18:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Craig Wright claims to be bitcoin creator Satoshi Nakamoto]]></title>
             <description><![CDATA[<article><h1>Craig Wright claims to be bitcoin creator Satoshi Nakamoto</h1><p>Craig Wright has revealed himself to be Satoshi Nakamoto, the inventor of bitcoin. "Some people will believe, some people won't. And to tell you the truth, I don't really care," he said to the BBC. The Australian entrepreneur identified himself as Satoshi to three media organizations - the BBC, The Economist , and GQ.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9c35fbc1a99a72ccd10ccfb6b0f9f890/noop.png?input=https%3A%2F%2Fcoinreport.net%2Fwp-content%2Fuploads%2F2014%2F06%2FBitcoin_Digital_Currency_Logo-150x150.png"></article>]]></description>
@@ -68,12 +75,6 @@
             <link>http://www.latimes.com/business/technology/la-fi-tn-how-bitcoins-work-20160502-snap-htmlstory.html</link>
             <guid isPermaLink="false">2a13cb91-e2fb-4f24-95aa-eceebe420a95</guid>
             <pubDate>Tue, 03 May 2016 02:18:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://twitter.com/petertoddbtc/status/727078284345917441</link>
-            <guid isPermaLink="false">c56a30c2-5abf-4f70-8873-2789a0cf327d</guid>
-            <pubDate>Mon, 02 May 2016 15:09:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
