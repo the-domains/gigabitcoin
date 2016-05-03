@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 13:43:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 13:43:48 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Whaleclub: Trading powered by bitcoin and only bitcoin]]></title>
+            <description><![CDATA[<article><h1>Whaleclub: Trading powered by bitcoin and only bitcoin</h1><p>Whaleclub Director of Operations, Petar Zivkovski, along with Director of Marketing and Business Development, Jessica Lee, took over operations of Whaleclub in October 2015. This was merely a year after TradingView members founded the Club as a real-time feed of bitcoin trade ideas, supplied primarily from the TradingView and Teamspeak communities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/152c0321728bf0ec145f9c4e1b666e0606a7cc2b.jpg"></article>]]></description>
+            <link>http://bravenewcoin.com/news/whaleclub-trading-powered-by-bitcoin-and-only-bitcoin/</link>
+            <guid isPermaLink="false">3fae34ef-288a-4236-bc03-73662788314a</guid>
+            <pubDate>Tue, 03 May 2016 13:40:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blockchain platform, Emercoin, moves beyond cryptocurrencies]]></title>
+            <description><![CDATA[<article><h1>Blockchain platform, Emercoin, moves beyond cryptocurrencies</h1><p>While cryptocurrencies have received increasing attention with the rise of Bitcoin, there is perhaps more excitement and utility for real businesses in using the underlying technology, the blockchain. Founded by Shumilov in December 2013, Emercoin was established as a currency for various internet projects, including social networks, research projects, networking, and gaming, as well as supporting and sponsoring high-tech projects such as robotics, electric vehicles and submersibles.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b83bd782b93c4d8aa9cacc7a58eac2cacea1b32.jpg"></article>]]></description>
+            <link>http://bravenewcoin.com/news/blockchain-platform-emercoin-moves-beyond-cryptocurrencies/</link>
+            <guid isPermaLink="false">853fd8be-0254-4bc7-8312-ee6e3565bf91</guid>
+            <pubDate>Tue, 03 May 2016 13:40:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Western Union won't make the same mistake with Blockchain]]></title>
             <description><![CDATA[<article><h1>Western Union won't make the same mistake with Blockchain</h1><p>Digital Currency Group is an investment firm founded in March 2015, by prolific Angel Investor Barry Silbert. The company has invested in 72 different companies, more than two-thirds of which operate in the bitcoin space. In the last four months alone, the company acquired the biggest bitcoin news site, CoinDesk, and along with it, the biggest bitcoin conference.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c2446cead0456413b70624867d28359888f80a80.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Delaware Governor Announces Plan To Embrace Blockchain Tech</h1><p>Delaware Gov. Jack Markell announced a state initiative to embrace blockchain and smart contract technology to help public and private enterprises lower transactional costs, automate and speed up transactions and reduce fraud. Markell announced the plan to look into blockchain technology while delivering a keynote address at Consensus 2016, a New York technology conference on blockchain innovation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51d01455244d25340ea1feee6d2acc7d88c15208.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/delaware-governor-announces-plan-to-embrace-blockchain-in-public-and-private-ventures/</link>
             <guid isPermaLink="false">9697688e-1f33-4897-b777-0713e86f7e36</guid>
-            <pubDate>Tue, 03 May 2016 13:40:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Did Satoshi Steal My Blog Post?]]></title>
-            <description><![CDATA[<article><h1>Did Satoshi Steal My Blog Post?</h1><p>I'm JP Richardson, cofounder of Exodus bitcoin/ethereum wallet and active JavaScript/Bitcoin developer. I, like a lot of you, got caught up into reading about Craig Wright being Satoshi Nakamoto. I started poking around Craig Wright's site and stumbled upon this gem: http://www.drcraigwright.net/generating-bitcoin-address/ (if link is dead/removed: PDF copy) I thought it looked very similar to an old post I wrote in 2013: http://procbits.com/2013/08/27/generating-a-bitcoin-address-with-javascript using an ancient version of bitcoinjs-lib circa 2013.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a5e2ebee1002f1eeb3d6eb9b7c3ab403a4a7309.jpg"></article>]]></description>
-            <link>http://gigabitcoin.xyz/did-satoshi-steal-my-blog-post/index.html</link>
-            <guid isPermaLink="false">65a71ec1-d45c-4c44-a3ce-7b9d3ac66a6f</guid>
-            <pubDate>Tue, 03 May 2016 13:40:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TRI to Finally Ship Turing Phone This May]]></title>
-            <description><![CDATA[<article><h1>TRI to Finally Ship Turing Phone This May</h1><p>On April 30 Turing Robotic Industries sent a newsletter to all their subscribers, saying the Turing Phone is ready for shipment, which will begin after the final newsletter on May 3. Also read: Antonopoulos Declined 'Opportunity' to Identify Satoshi and Doesn't Care "While we scan through thousands of pre-orders and requests we have decided to send out the confirmation email on May 3rd.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e71283ff221fcdc401af2a0c6869ccee6375200.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/turing-phone-ship-may/</link>
-            <guid isPermaLink="false">f93960bd-f9ea-43b5-8516-acb3ff94fd5c</guid>
             <pubDate>Tue, 03 May 2016 13:40:49 GMT</pubDate>
         </item>
     </channel>
