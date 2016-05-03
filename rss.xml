@@ -4,43 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 02:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 02:19:02 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[iPayYou launches bitcoin wallet]]></title>
-            <description><![CDATA[<article><h1>iPayYou launches bitcoin wallet</h1><p>In a press release sent to CoinReport, iPayYou said its wallet lets consumers hold, purchase, sell, send and receive bitcoin safely and securely through the company's website, with all of the clients' funds stored in their own personal bitcoin account.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e89435ae9a86db927b664c6523ffd7072bf373a.jpg"></article>]]></description>
-            <link>https://coinreport.net/ipayyou-launches-bitcoin-wallet/</link>
-            <guid isPermaLink="false">bf9e2a00-624a-46f1-807c-bef5db150382</guid>
-            <pubDate>Tue, 03 May 2016 02:18:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ChinaLedger - China's Own Personal Blockchain Project - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>ChinaLedger - China's Own Personal Blockchain Project - NEWSBTC</h1><p>China has decided to start its own distributed ledger alliance, calling it ChinaLedger, the resulting blockchain platform will be used by the Chinese fintech sector. Read more... The giant has finally woken up; China has entered the blockchain race.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5057c71018b995227033925c46c2a745a069ad15.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/02/chinaledger-chinas-own-personal-blockchain-project/</link>
-            <guid isPermaLink="false">5e243aee-7464-4186-9e0f-cf34b98397ce</guid>
-            <pubDate>Tue, 03 May 2016 02:18:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Glenn Hutchins: Blockchain is Good, Bitcoin is Important - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Glenn Hutchins: Blockchain is Good, Bitcoin is Important - CoinDesk</h1><p>Silver Lake co-founder and Federal Reserve Bank of New York board member Glenn Hutchins took the stage at Consensus 2016 to deliver an overarching speech about why public blockchains like bitcoin still matter in the age of big bank ledger efforts today.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/634c489af7a8f151c936eb340aa095e1049c9240.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/glenn-hutchins-bitcoin-blockchain/</link>
-            <guid isPermaLink="false">18608ba9-6093-44ac-8c09-231a3e036e7f</guid>
-            <pubDate>Tue, 03 May 2016 02:18:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BitPay CEO Unveils Bitcoin Debit Card at Consensus 2016 Conference]]></title>
-            <description><![CDATA[<article><h1>BitPay CEO Unveils Bitcoin Debit Card at Consensus 2016 Conference</h1><p>BitPay unveiled today their new bitcoin debit card offering. The new card program was announced in a presentation by BitPay CEO Stephen Pair, at the 2-day blockchain conference Consensus 2016, currently being held in New York. According to a CoinDesk report, the new card is issued by Metropolitan Commercial Bank and can be used in all 50 states.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bde9f32c0b2dd0691b7947759a7c25318f3aff54.jpg"></article>]]></description>
-            <link>http://themerkle.com/bitpay-ceo-unveils-bitcoin-debit-card-at-consensus-2016-conference/</link>
-            <guid isPermaLink="false">f658a6ea-7af8-44e6-8d67-95ef47042ce8</guid>
-            <pubDate>Tue, 03 May 2016 02:18:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gavin Anderson Refutes Hacking Claim to Assert Craig Wright Is Satoshi]]></title>
-            <description><![CDATA[<article><h1>Gavin Anderson Refutes Hacking Claim to Assert Craig Wright Is Satoshi</h1><p>At Consensus 2016, the cryptocurrency- and blockchain-industry conference currently being held in New York, Chief scientist of the Bitcoin Foundation Gavin Andersen has stuck with his assertion that Craig Wright is Satoshi Nakamoto, following his meeting with the Australian entrepreneur.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f4c141e138b5266a76a6deda206eb31d9e49b6c.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/gavin-anderson-refutes-hacking-claim-assert-craig-wright-satoshi/</link>
-            <guid isPermaLink="false">ec697ab8-e0ff-4133-b452-6b0e0339e84c</guid>
-            <pubDate>Tue, 03 May 2016 02:18:26 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Is Blockchain a Better Payments Rail? Panelists Divided at Consensus 2016 - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Is Blockchain a Better Payments Rail? Panelists Divided at Consensus 2016 - CoinDesk</h1><p>Distributed ledgers are often referred to as a new database technology, but could they come to replace existing payments rails? The subject was the center of discussion among Julio Faura of Spanish megabank Santander; Marwan Forzley of blockchain payments startup Align Commerce; Gys Gyman of global consultancy Deloitte; Chris Larsen of distributed ledger leader Ripple; and Elizabeth Rossiello of bitcoin payments startup BitPesa today, the group representing a mix of financial incumbents and startups.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc08a4e7d3e73b7d041045ae950ccda2b11328e7.png"></article>]]></description>
@@ -73,6 +38,41 @@
             <link>http://bitcoin.stackexchange.com/questions/43939/legal-status-of-blockchain-proof-of-existence-tx-usa-court</link>
             <guid isPermaLink="false">108ee028-bea3-4606-a46b-967894045eca</guid>
             <pubDate>Mon, 02 May 2016 15:09:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft, Banking Provider USAA Join Blockchain Advocacy Group]]></title>
+            <description><![CDATA[<article><h1>Microsoft, Banking Provider USAA Join Blockchain Advocacy Group</h1><p>Technology powerhouse Microsoft and military-centric banking and financial services firm USAA are the two newest members to join the Chamber of Digital Commerce (CDC), a Washington-based blockchain policy advocacy group. Microsoft and USAA are joining the Chamber of Digital Commerce, a non-profit lobbying group based in Washington, DC working to help build the regulatory framework and policies for the bitcoin community and companies by promoting digital assets and its use.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a15b2718712f2905e06e4c05e5867798c03b3cd0.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/microsoft-banking-provider-usaa-join-blockchain-advocacy-group/</link>
+            <guid isPermaLink="false">f26f5ec9-46d1-49e5-87e4-7e5eb1006376</guid>
+            <pubDate>Mon, 02 May 2016 15:09:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Paranoia. Blockchain Baloney.]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Paranoia. Blockchain Baloney.</h1><p>Looks like we're ridin' on the same train. Looks as though there'll be more pain. There's gonna be a Showdown." -- Electric Light Orchestra This article addresses misperceptions growing around the newly celebrated fad in financial circles, blockchain. Bitcoin/blockchain is a technology with the potential to revolutionize transactions, and perhaps even accounting.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87f89d0fe547220dc47277e2923178f92906087f.png"></article>]]></description>
+            <link>http://seekingalpha.com/article/3970184-bitcoin-paranoia-blockchain-baloney</link>
+            <guid isPermaLink="false">2ec46a25-8512-4ce3-b929-165f20abfe4a</guid>
+            <pubDate>Mon, 02 May 2016 15:09:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The greatest mystery in internet history has just been solved]]></title>
+            <description><![CDATA[<article><h1>The greatest mystery in internet history has just been solved</h1><p>The mystery of who created the digital currency Bitcoin might finally have been solved, bringing an end to years of speculation.&#13; &#13; Australian businessman Craig Wright has claimed to be the person behind "Satoshi Nakamoto", the mysterious identity that created much of the technology behind the online cash system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c6d161be974aa205c232ff4e2ad2043f3b7bc63.jpg"></article>]]></description>
+            <link>http://www.independent.co.uk/life-style/gadgets-and-tech/news/satoshi-nakamoto-bitcoin-identity-craig-wright-creator-maker-mystery-real-a7009601.html</link>
+            <guid isPermaLink="false">7c8da99a-5e07-4f4c-9f06-178e1e899fcd</guid>
+            <pubDate>Mon, 02 May 2016 15:09:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[0 active connection to bitcoin network (testnet)]]></title>
+            <description><![CDATA[<article><h1>0 active connection to bitcoin network (testnet)</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top I am working with the testnet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43861/0-active-connection-to-bitcoin-network-testnet</link>
+            <guid isPermaLink="false">92732038-8324-4888-a7d8-3eb37bd3f754</guid>
+            <pubDate>Mon, 02 May 2016 15:09:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australian tells BBC he created bitcoin, but some skeptical]]></title>
+            <description><![CDATA[<article><h1>Australian tells BBC he created bitcoin, but some skeptical</h1><p>SYDNEY/SINGAPORE (Reuters) - Australian tech entrepreneur Craig Wright told the BBC that he was the creator of controversial digital currency bitcoin, but some scepticism remained about the identity of a person who until now has gone by the name of Satoshi Nakamoto.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76454fefee1663fc57f85dcd0f6836e00d78f03c.jpg"></article>]]></description>
+            <link>http://finance.yahoo.com/news/bitcoin-creator-confirms-identity-australian-072737534.html</link>
+            <guid isPermaLink="false">0b5c1b40-37f1-420c-b52d-ee48b0bf982d</guid>
+            <pubDate>Mon, 02 May 2016 15:09:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
