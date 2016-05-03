@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 13:41:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 13:41:10 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2016-04-28]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-04-28</h1><p>Segwit review and status update of the BIPs The transition to travis trusty and C++11 has been successful The independent review for the constant time AES library talked about in the 2016-03-24 meeting is finished and he formally proved some parts were correct and analyzed the constant timeness.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/04/28/</link>
+            <guid isPermaLink="false">73514b7d-1914-4bd0-a248-92e5bb10e3e2</guid>
+            <pubDate>Tue, 03 May 2016 13:40:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum Price Technical Analysis - $10.00 Target Hit, ETH In Uptrend - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Ethereum Price Technical Analysis - $10.00 Target Hit, ETH In Uptrend - NEWSBTC</h1><p>Ethereum price change in bias forecast was a success, as ETH/USD spiked higher and even broke the $10.00 resistance area. Ethereum price change in bias forecast was a success, as ETH/USD spiked higher and even broke the $10.00 resistance area. Ethereum price was unstoppable against the US Dollar and continued to move higher.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bc98f55389b76aef73e44b9008f1ea423a9ef33.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/03/ethereum-price-technical-analysis-10-00-target-hit-eth-uptrend/</link>
+            <guid isPermaLink="false">2930eb7b-d0aa-4825-9dc6-522bd882c77a</guid>
+            <pubDate>Tue, 03 May 2016 13:40:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A possibly stupid question regarding the number of bytes in an OP_RETURN transaction]]></title>
             <description><![CDATA[<article><h1>A possibly stupid question regarding the number of bytes in an OP_RETURN transaction</h1><p>I was reading this very useful explanation of what an OP_RETURN transaction looks like and got tripped up by part of it. "hex" : "6a13636861726c6579206c6f766573206865696469" This first</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -61,19 +75,6 @@
             <link>http://cointelegraph.com/news/bitcoin-price-analysis-week-of-may-3rd</link>
             <guid isPermaLink="false">9fc66130-5075-4b76-a577-874fe0d055f5</guid>
             <pubDate>Tue, 03 May 2016 13:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain is the "perfect technology" according to the European Parliament | HolyTransaction]]></title>
-            <description><![CDATA[<article><h1>Blockchain is the "perfect technology" according to the European Parliament | HolyTransaction</h1><p>During the last week, a European parliament member gave a speech about consumer protection for the latest campaign that aims at realizing new rules related to the blockchain. In fact, the Lithuania representative Antanas Guoga defined the blockchain a "perfect technology" during a speech before the Internal Market for Consumer Protection Committee, which is thinking about advancing a new proposal for cryptocurrencies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19d691ee642d704aee913cc476fb734ddf8453d8.png"></article>]]></description>
-            <link>http://blog.holytransaction.com/2016/04/blockchain-is-perfect-technology-for.html</link>
-            <guid isPermaLink="false">44d78a1c-f93a-4cff-bc6e-cf809cb83eaa</guid>
-            <pubDate>Tue, 03 May 2016 13:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Video: Bitcoin: The Basics]]></title>
-            <link>http://abcnews.go.com/Business/video/bitcoin-basics-38821764</link>
-            <guid isPermaLink="false">8eb40384-a2f5-4c3c-a842-5c34ce23e4d7</guid>
-            <pubDate>Tue, 03 May 2016 02:19:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
