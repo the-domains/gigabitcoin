@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 13:43:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 13:44:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Analysis - The weak hands are out]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Analysis - The weak hands are out</h1><p>The technical setups posted below use simple trend detection, support and resistance, channels, pattern and candle analysis. We aim for high-probability trade setups on BTCUSD and use very few indicators. All charts use BNC's Bitcoin Liquid Index for maximum accuracy. The timeframe for trades is 1 to 7 days, so we'll use 4h candlesticks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4aad30e20de686c2e38e3993fd85201560bc73d3.jpg"></article>]]></description>
+            <link>http://bravenewcoin.com/news/bitcoin-price-analysis-the-weak-hands-are-out/</link>
+            <guid isPermaLink="false">2da27118-e482-44f5-9117-9de9dc901df0</guid>
+            <pubDate>Tue, 03 May 2016 13:40:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beware the impossible smart contract]]></title>
+            <description><![CDATA[<article><h1>Beware the impossible smart contract</h1><p>As the developers of a popular blockchain platform, we sometimes get asked whether Ethereum-like smart contracts are on the MultiChain roadmap. The answer I always give is: no, or at least not yet. But in the hype-filled world of blockchains, smart contracts are all the rage, so why ever not?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a37a476a764674772afbb41f6f33756497cadab9.png"></article>]]></description>
+            <link>http://bravenewcoin.com/news/beware-the-impossible-smart-contract/</link>
+            <guid isPermaLink="false">2b546104-db41-4cb4-893f-5a801a1bdffa</guid>
+            <pubDate>Tue, 03 May 2016 13:40:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Whaleclub: Trading powered by bitcoin and only bitcoin]]></title>
             <description><![CDATA[<article><h1>Whaleclub: Trading powered by bitcoin and only bitcoin</h1><p>Whaleclub Director of Operations, Petar Zivkovski, along with Director of Marketing and Business Development, Jessica Lee, took over operations of Whaleclub in October 2015. This was merely a year after TradingView members founded the Club as a real-time feed of bitcoin trade ideas, supplied primarily from the TradingView and Teamspeak communities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/152c0321728bf0ec145f9c4e1b666e0606a7cc2b.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.dw.com/en/doubts-follow-craig-wrights-claims-of-bitcoin-invention/a-19231562</link>
             <guid isPermaLink="false">c8625bc9-55c1-4471-90f6-46417f2d8e57</guid>
             <pubDate>Tue, 03 May 2016 13:40:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Consensus 2016 Panelists Debate Blockchain's Business Impact - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Consensus 2016 Panelists Debate Blockchain's Business Impact - CoinDesk</h1><p>Digital currency was the first application of blockchain technology - so it only makes sense that banks were among the first institutions to look into other applications. But as those same institutions pursue blockchain trials and proofs-of-concept focused on finance, both startups and established companies are setting their gaze beyond the world of banking.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a17e8238f309f3ebe412a212c5a60f5992bb3dd.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/consensus-2016-business-track-day-one/</link>
-            <guid isPermaLink="false">d97aa93a-68a8-4737-94ea-58c49f1b1bba</guid>
-            <pubDate>Tue, 03 May 2016 13:40:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Delaware Governor Announces Plan To Embrace Blockchain Tech]]></title>
-            <description><![CDATA[<article><h1>Delaware Governor Announces Plan To Embrace Blockchain Tech</h1><p>Delaware Gov. Jack Markell announced a state initiative to embrace blockchain and smart contract technology to help public and private enterprises lower transactional costs, automate and speed up transactions and reduce fraud. Markell announced the plan to look into blockchain technology while delivering a keynote address at Consensus 2016, a New York technology conference on blockchain innovation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51d01455244d25340ea1feee6d2acc7d88c15208.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/delaware-governor-announces-plan-to-embrace-blockchain-in-public-and-private-ventures/</link>
-            <guid isPermaLink="false">9697688e-1f33-4897-b777-0713e86f7e36</guid>
-            <pubDate>Tue, 03 May 2016 13:40:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
