@@ -4,36 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 02:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 02:23:27 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Remember: they cannot break bitcoin the tech. They can only try to break bitcoin the community. Pay attention to what comes out of this new "he's Satoshi!!!" thing. "Divide et impera" * /r/Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Remember: they cannot break bitcoin the tech. They can only try to break bitcoin the community. Pay attention to what comes out of this new "he's Satoshi!!!" thing. "Divide et impera" * /r/Bitcoin</h1><p>Bitcoin is the currency of the Internet: a distributed, worldwide, decentralized digital money. Unlike traditional currencies such as dollars, bitcoins are issued and managed without any central authority whatsoever: there is no government, company, or bank in charge of Bitcoin. As such, it is more resistant to wild inflation and corrupt banks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
-            <link>https://www.reddit.com/r/Bitcoin/comments/4hflpo/remember_they_cannot_break_bitcoin_the_tech_they/</link>
-            <guid isPermaLink="false">cd3f0033-3510-43fe-99fb-c8798c138039</guid>
-            <pubDate>Tue, 03 May 2016 02:19:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Craig constructed the "message" that he "signed" using Satoshi's key * /r/Bitcoin]]></title>
-            <description><![CDATA[<article><h1>How Craig constructed the "message" that he "signed" using Satoshi's key * /r/Bitcoin</h1><p>Craig was a bit clever here. He did not cheat, and did not use modified command line tools. He indeed posted a message signed by Satoshi's key,...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d19ef0ee35b97b6a36a392ec99f6484c16d7669.jpg"></article>]]></description>
-            <link>https://www.reddit.com/r/Bitcoin/comments/4hhreq/how_craig_constructed_the_message_that_he_signed/</link>
-            <guid isPermaLink="false">06223781-fba4-4e30-b7bb-7fec60eef73c</guid>
-            <pubDate>Tue, 03 May 2016 02:19:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="http://imgur.com/IPDPXZm.png"></article>]]></description>
-            <link>http://imgur.com/IPDPXZm</link>
-            <guid isPermaLink="false">c0b40d02-530e-45c3-9a38-abfc54496ce0</guid>
-            <pubDate>Tue, 03 May 2016 02:19:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AP EXPLAINS: What Is Bitcoin? A Look at the Digital Currency]]></title>
-            <description><![CDATA[<article><h1>AP EXPLAINS: What Is Bitcoin? A Look at the Digital Currency</h1><p>Bitcoins allow people to buy goods and services and exchange money without involving banks, credit card issuers or other third parties. The online currency's origins have long been a mystery - though an Australian man long rumored to have ties to bitcoin has come forward claiming to be its...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/576aff5dded8abe80832047924138769170764fa.jpg"></article>]]></description>
-            <link>http://abcnews.go.com/Technology/wireStory/ap-explains-bitcoin-digital-currency-38820370</link>
-            <guid isPermaLink="false">b8d73000-52b6-4f71-b2af-0d66f0977c95</guid>
-            <pubDate>Tue, 03 May 2016 02:19:10 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Ethereum studio ConsenSys announces interoperable Bitcoin service BTC Relay]]></title>
             <description><![CDATA[<article><h1>Ethereum studio ConsenSys announces interoperable Bitcoin service BTC Relay</h1><p>Ethereum design studio ConsenSys has launched BTC Relay, an open source project enabling Ethereum-based networks to interoperate programmatically with the Bitcoin network and eventually other Ethereum and Bitcoin-based systems. BTC Relay is a fully decentralised smart contract for the community that does not grant special privileges to any party.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/495717f3a8949dbc2ea79c221f812ba03b48d420.jpg"></article>]]></description>
@@ -74,6 +46,34 @@
             <description><![CDATA[<article><h1>Blockchain Tech Leaders Debate Satoshi Mystery and Scaling at Consensus 2016 - CoinDesk</h1><p>It has been said that bitcoin is in a crisis as its community attempt to reach consensus on how best to scale the technology to increase its capacity, and the evolving debate was on display at Consensus 2016 today.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9b5ed9cf3be77be9e552379ed3fbe6f8b8e203d.png"></article>]]></description>
             <link>http://www.coindesk.com/consensus-2016-coverage-tech-policy-track-day-1/</link>
             <guid isPermaLink="false">e92eadaa-42b2-4e01-a915-d35b7cf512e1</guid>
+            <pubDate>Tue, 03 May 2016 02:18:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BitPay reveals new U.S.-wide bitcoin debit card service]]></title>
+            <description><![CDATA[<article><h1>BitPay reveals new U.S.-wide bitcoin debit card service</h1><p>At a demonstration at the Consensus 2016 conference in New York, BitPay revealed a new bitcoin debit card that is available in all 50 U.S. states. Issued by Metropolitan Commercial Bank, the debit ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/618079ca1f1c5c525d064d8f04c2d167b7eb5f7b.png"></article>]]></description>
+            <link>https://coinreport.net/bitpay-reveals-new-u-s-wide-bitcoin-debit-card-service/</link>
+            <guid isPermaLink="false">fa1affca-fbba-4854-9974-f0574c9ba2a7</guid>
+            <pubDate>Tue, 03 May 2016 02:18:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin's blockchain technology may be its real legacy]]></title>
+            <description><![CDATA[<article><h1>Bitcoin's blockchain technology may be its real legacy</h1><p>If Craig Wright's claim that he is the creator of Bitcoin withstands further scrutiny, he will be credited not only with the birth of the digital currency, but also the sophisticated blockchain technology that makes it work. The Australian computer scientist said in a blog post today that he is the elusive and until now unknown author of Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83a9e343faf14a2b5dde93ff1f78c62a6f241d7e.jpg"></article>]]></description>
+            <link>http://www.marketplace.org/2016/05/02/tech/inside-block-chain-technology</link>
+            <guid isPermaLink="false">2fee24b4-3e78-4701-b09d-7094d8b4b13f</guid>
+            <pubDate>Tue, 03 May 2016 02:18:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EB129 - The Far Future In Front Of Us]]></title>
+            <description><![CDATA[<article><h1>EB129 - The Far Future In Front Of Us</h1><p>As the blockchain field continues evolving rapidly, Sebastien, Meher and Brian take some time to discuss the current environment and the longer term implications of blockchains. We discussed how smart contracts could affect the pace of innovation and the competitiveness of industries.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8eb47f822a3998ca3a6e57979b32e5219ca0524c.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/epicenter-bitcoin-129-the-far-future-in-front-of-us</link>
+            <guid isPermaLink="false">a1aedb93-58e9-4dbe-b48b-e28fcbf790f1</guid>
+            <pubDate>Tue, 03 May 2016 02:18:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Banks, tech companies move on from bitcoin to blockchain]]></title>
+            <description><![CDATA[<article><h1>Banks, tech companies move on from bitcoin to blockchain</h1><p>NEW YORK As a debate raged across the internet Monday over whether the mysterious founder of the bitcoin digital currency had finally been identified, executives at a major bitcoin conference in New York had a simple message: we've moved on.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccb4e45421ae185879e182f8efdd639551ac179f.jpg"></article>]]></description>
+            <link>http://www.reuters.com/article/us-usa-bitcoin-blockchain-idUSKCN0XT23Y</link>
+            <guid isPermaLink="false">eaabac6c-9ca8-4d1d-acc9-c365d30ad5ea</guid>
             <pubDate>Tue, 03 May 2016 02:18:47 GMT</pubDate>
         </item>
     </channel>
