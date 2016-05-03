@@ -4,29 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 02:24:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 02:24:20 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[CME Group to publish daily bitcoin settlement price]]></title>
-            <description><![CDATA[<article><h1>CME Group to publish daily bitcoin settlement price</h1><p>CHICAGO CME Group Inc (CME.O) plans to begin publishing a daily settlement price for bitcoin and real-time price data as the futures market operator moves into the world of the digital currency. Starting in the fourth quarter, the new settlement price will be published in U.S. dollars at 4 p.m.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccc18d994e0bbdc361cadd8e6dc961bdcbd27574.jpg"></article>]]></description>
-            <link>http://www.reuters.com/article/us-cme-group-bitcoin-idUSKCN0XT1G1</link>
-            <guid isPermaLink="false">c947dc61-5fae-40f0-b635-caa623293780</guid>
-            <pubDate>Tue, 03 May 2016 02:19:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amazon Web Services is Now Working With Blockchain Startups - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Amazon Web Services is Now Working With Blockchain Startups - CoinDesk</h1><p>Amazon Web Services (AWS), the cloud computing business operated by Web commerce giant Amazon, is partnering with investment firm Digital Currency Group (DCG) to offer a blockchain experimentation environment for enterprise businesses. In collaboration with the startups in the DCG portfolio, AWS will provide dedicated cloud infrastructure and technical support for those projects.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/388b87bb682d69aacc40baea96102b2c81ca5906.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/amazon-web-services-now-working-blockchain-startups/</link>
-            <guid isPermaLink="false">12b65bfa-33de-4f34-9107-27451d8cd49f</guid>
-            <pubDate>Tue, 03 May 2016 02:19:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Craig Wright's Latest Satoshi Claim Unleashes Media Storm; Bitcoin Community Remains Skeptical]]></title>
-            <description><![CDATA[<article><h1>Craig Wright's Latest Satoshi Claim Unleashes Media Storm; Bitcoin Community Remains Skeptical</h1><p>Through a coordinated media event, the Australian computer scientist Craig Steven Wright today claimed to be Satoshi Nakamoto, the inventor of Bitcoin. Wright himself published a blog post which he says cryptographically proves ownership of private keys Satoshi would have, which was covered by the BBC, The Economist and , and backed by several prominent members of the Bitcoin community.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f485319b67e0d9198c21920f0c42da48594c773.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/craig-wright-s-latest-satoshi-claim-unleashes-media-storm-bitcoin-community-remains-skeptical-1462208163</link>
-            <guid isPermaLink="false">41591478-1c72-4679-97ac-2044976524bd</guid>
-            <pubDate>Tue, 03 May 2016 02:19:11 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Age of Altcoins? Alternative Cryptocurrencies Make Gains Against Bitcoin]]></title>
             <description><![CDATA[<article><h1>Age of Altcoins? Alternative Cryptocurrencies Make Gains Against Bitcoin</h1><p>Bitcoin has long held a firm lead in the cryptocurrency world. However, this advantage has become diminished over the years as more altcoins have made gains in distribution, value, and adoption. Bitcoin's market capitalization percentage, well over 90% for 2013, has since declined to 82% after having reached an all-time low of 74% in March.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/634ab834d76dca3e3f1dd0817791b55d935a5d39.jpg"></article>]]></description>
@@ -74,6 +53,27 @@
             <description><![CDATA[<article><h1>How Craig constructed the "message" that he "signed" using Satoshi's key * /r/Bitcoin</h1><p>Craig was a bit clever here. He did not cheat, and did not use modified command line tools. He indeed posted a message signed by Satoshi's key,...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d19ef0ee35b97b6a36a392ec99f6484c16d7669.jpg"></article>]]></description>
             <link>https://www.reddit.com/r/Bitcoin/comments/4hhreq/how_craig_constructed_the_message_that_he_signed/</link>
             <guid isPermaLink="false">06223781-fba4-4e30-b7bb-7fec60eef73c</guid>
+            <pubDate>Tue, 03 May 2016 02:19:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://imgur.com/IPDPXZm.png"></article>]]></description>
+            <link>http://imgur.com/IPDPXZm</link>
+            <guid isPermaLink="false">c0b40d02-530e-45c3-9a38-abfc54496ce0</guid>
+            <pubDate>Tue, 03 May 2016 02:19:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AP EXPLAINS: What Is Bitcoin? A Look at the Digital Currency]]></title>
+            <description><![CDATA[<article><h1>AP EXPLAINS: What Is Bitcoin? A Look at the Digital Currency</h1><p>Bitcoins allow people to buy goods and services and exchange money without involving banks, credit card issuers or other third parties. The online currency's origins have long been a mystery - though an Australian man long rumored to have ties to bitcoin has come forward claiming to be its...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/576aff5dded8abe80832047924138769170764fa.jpg"></article>]]></description>
+            <link>http://abcnews.go.com/Technology/wireStory/ap-explains-bitcoin-digital-currency-38820370</link>
+            <guid isPermaLink="false">b8d73000-52b6-4f71-b2af-0d66f0977c95</guid>
+            <pubDate>Tue, 03 May 2016 02:19:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum studio ConsenSys announces interoperable Bitcoin service BTC Relay]]></title>
+            <description><![CDATA[<article><h1>Ethereum studio ConsenSys announces interoperable Bitcoin service BTC Relay</h1><p>Ethereum design studio ConsenSys has launched BTC Relay, an open source project enabling Ethereum-based networks to interoperate programmatically with the Bitcoin network and eventually other Ethereum and Bitcoin-based systems. BTC Relay is a fully decentralised smart contract for the community that does not grant special privileges to any party.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/495717f3a8949dbc2ea79c221f812ba03b48d420.jpg"></article>]]></description>
+            <link>http://www.ibtimes.co.uk/ethereum-studio-consensys-announces-interoperable-bitcoin-service-btc-relay-1557841</link>
+            <guid isPermaLink="false">19c2878d-06ef-49f1-975f-7f118168d39f</guid>
             <pubDate>Tue, 03 May 2016 02:19:10 GMT</pubDate>
         </item>
     </channel>
