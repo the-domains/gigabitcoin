@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 02:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 02:19:05 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gavin Anderson Refutes Hacking Claim to Assert Craig Wright Is Satoshi]]></title>
+            <description><![CDATA[<article><h1>Gavin Anderson Refutes Hacking Claim to Assert Craig Wright Is Satoshi</h1><p>At Consensus 2016, the cryptocurrency- and blockchain-industry conference currently being held in New York, Chief scientist of the Bitcoin Foundation Gavin Andersen has stuck with his assertion that Craig Wright is Satoshi Nakamoto, following his meeting with the Australian entrepreneur.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f4c141e138b5266a76a6deda206eb31d9e49b6c.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/gavin-anderson-refutes-hacking-claim-assert-craig-wright-satoshi/</link>
+            <guid isPermaLink="false">ec697ab8-e0ff-4133-b452-6b0e0339e84c</guid>
+            <pubDate>Tue, 03 May 2016 02:18:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is Blockchain a Better Payments Rail? Panelists Divided at Consensus 2016 - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Is Blockchain a Better Payments Rail? Panelists Divided at Consensus 2016 - CoinDesk</h1><p>Distributed ledgers are often referred to as a new database technology, but could they come to replace existing payments rails? The subject was the center of discussion among Julio Faura of Spanish megabank Santander; Marwan Forzley of blockchain payments startup Align Commerce; Gys Gyman of global consultancy Deloitte; Chris Larsen of distributed ledger leader Ripple; and Elizabeth Rossiello of bitcoin payments startup BitPesa today, the group representing a mix of financial incumbents and startups.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc08a4e7d3e73b7d041045ae950ccda2b11328e7.png"></article>]]></description>
@@ -65,13 +72,6 @@
             <description><![CDATA[<article><h1>0 active connection to bitcoin network (testnet)</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top I am working with the testnet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/43861/0-active-connection-to-bitcoin-network-testnet</link>
             <guid isPermaLink="false">92732038-8324-4888-a7d8-3eb37bd3f754</guid>
-            <pubDate>Mon, 02 May 2016 15:09:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australian tells BBC he created bitcoin, but some skeptical]]></title>
-            <description><![CDATA[<article><h1>Australian tells BBC he created bitcoin, but some skeptical</h1><p>SYDNEY/SINGAPORE (Reuters) - Australian tech entrepreneur Craig Wright told the BBC that he was the creator of controversial digital currency bitcoin, but some scepticism remained about the identity of a person who until now has gone by the name of Satoshi Nakamoto.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76454fefee1663fc57f85dcd0f6836e00d78f03c.jpg"></article>]]></description>
-            <link>http://finance.yahoo.com/news/bitcoin-creator-confirms-identity-australian-072737534.html</link>
-            <guid isPermaLink="false">0b5c1b40-37f1-420c-b52d-ee48b0bf982d</guid>
             <pubDate>Mon, 02 May 2016 15:09:03 GMT</pubDate>
         </item>
     </channel>
