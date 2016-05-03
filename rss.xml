@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 02:24:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 02:24:35 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Amazon Web Services is Now Working With Blockchain Startups - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Amazon Web Services is Now Working With Blockchain Startups - CoinDesk</h1><p>Amazon Web Services (AWS), the cloud computing business operated by Web commerce giant Amazon, is partnering with investment firm Digital Currency Group (DCG) to offer a blockchain experimentation environment for enterprise businesses. In collaboration with the startups in the DCG portfolio, AWS will provide dedicated cloud infrastructure and technical support for those projects.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/388b87bb682d69aacc40baea96102b2c81ca5906.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/amazon-web-services-now-working-blockchain-startups/</link>
+            <guid isPermaLink="false">12b65bfa-33de-4f34-9107-27451d8cd49f</guid>
+            <pubDate>Tue, 03 May 2016 02:19:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Craig Wright's Latest Satoshi Claim Unleashes Media Storm; Bitcoin Community Remains Skeptical]]></title>
             <description><![CDATA[<article><h1>Craig Wright's Latest Satoshi Claim Unleashes Media Storm; Bitcoin Community Remains Skeptical</h1><p>Through a coordinated media event, the Australian computer scientist Craig Steven Wright today claimed to be Satoshi Nakamoto, the inventor of Bitcoin. Wright himself published a blog post which he says cryptographically proves ownership of private keys Satoshi would have, which was covered by the BBC, The Economist and , and backed by several prominent members of the Bitcoin community.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f485319b67e0d9198c21920f0c42da48594c773.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><img src="http://imgur.com/IPDPXZm.png"></article>]]></description>
             <link>http://imgur.com/IPDPXZm</link>
             <guid isPermaLink="false">c0b40d02-530e-45c3-9a38-abfc54496ce0</guid>
-            <pubDate>Tue, 03 May 2016 02:19:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AP EXPLAINS: What Is Bitcoin? A Look at the Digital Currency]]></title>
-            <description><![CDATA[<article><h1>AP EXPLAINS: What Is Bitcoin? A Look at the Digital Currency</h1><p>Bitcoins allow people to buy goods and services and exchange money without involving banks, credit card issuers or other third parties. The online currency's origins have long been a mystery - though an Australian man long rumored to have ties to bitcoin has come forward claiming to be its...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/576aff5dded8abe80832047924138769170764fa.jpg"></article>]]></description>
-            <link>http://abcnews.go.com/Technology/wireStory/ap-explains-bitcoin-digital-currency-38820370</link>
-            <guid isPermaLink="false">b8d73000-52b6-4f71-b2af-0d66f0977c95</guid>
             <pubDate>Tue, 03 May 2016 02:19:10 GMT</pubDate>
         </item>
     </channel>
