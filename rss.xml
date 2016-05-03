@@ -4,14 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 02:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 02:25:17 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Video: Bitcoin: The Basics]]></title>
-            <link>http://abcnews.go.com/Business/video/bitcoin-basics-38821764</link>
-            <guid isPermaLink="false">8eb40384-a2f5-4c3c-a842-5c34ce23e4d7</guid>
-            <pubDate>Tue, 03 May 2016 02:19:44 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://twitter.com/SatoshiLite/status/727157971428331520</link>
@@ -72,6 +66,13 @@
             <description><![CDATA[<article><h1>Age of Altcoins? Alternative Cryptocurrencies Make Gains Against Bitcoin</h1><p>Bitcoin has long held a firm lead in the cryptocurrency world. However, this advantage has become diminished over the years as more altcoins have made gains in distribution, value, and adoption. Bitcoin's market capitalization percentage, well over 90% for 2013, has since declined to 82% after having reached an all-time low of 74% in March.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/634ab834d76dca3e3f1dd0817791b55d935a5d39.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/age-of-altcoins-alternative-cryptocurrencies-make-gains-against-bitcoin</link>
             <guid isPermaLink="false">5774f257-c29d-4c8e-b41f-56783e187b8b</guid>
+            <pubDate>Tue, 03 May 2016 02:19:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CME Group to publish daily bitcoin settlement price]]></title>
+            <description><![CDATA[<article><h1>CME Group to publish daily bitcoin settlement price</h1><p>CME Group plans to begin publishing a daily settlement price for bitcoin and real-time price data as the futures market operator moves into the world of the digital currency. Starting in the fourth quarter, the new settlement price will be published in U.S. dollars at 4 p.m.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ec530536437c3607db21c8c3401453d3357fe00.jpg"></article>]]></description>
+            <link>http://www.cnbc.com/2016/05/02/cme-group-to-publish-daily-bitcoin-settlement-price.html</link>
+            <guid isPermaLink="false">d8a52738-36be-4f55-afd9-52a0070ed182</guid>
             <pubDate>Tue, 03 May 2016 02:19:11 GMT</pubDate>
         </item>
     </channel>
