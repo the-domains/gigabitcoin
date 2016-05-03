@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 13:42:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 13:43:08 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Delaware Governor Announces Plan To Embrace Blockchain Tech]]></title>
+            <description><![CDATA[<article><h1>Delaware Governor Announces Plan To Embrace Blockchain Tech</h1><p>Delaware Gov. Jack Markell announced a state initiative to embrace blockchain and smart contract technology to help public and private enterprises lower transactional costs, automate and speed up transactions and reduce fraud. Markell announced the plan to look into blockchain technology while delivering a keynote address at Consensus 2016, a New York technology conference on blockchain innovation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51d01455244d25340ea1feee6d2acc7d88c15208.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/delaware-governor-announces-plan-to-embrace-blockchain-in-public-and-private-ventures/</link>
+            <guid isPermaLink="false">9697688e-1f33-4897-b777-0713e86f7e36</guid>
+            <pubDate>Tue, 03 May 2016 13:40:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Did Satoshi Steal My Blog Post?]]></title>
+            <description><![CDATA[<article><h1>Did Satoshi Steal My Blog Post?</h1><p>I'm JP Richardson, cofounder of Exodus bitcoin/ethereum wallet and active JavaScript/Bitcoin developer. I, like a lot of you, got caught up into reading about Craig Wright being Satoshi Nakamoto. I started poking around Craig Wright's site and stumbled upon this gem: http://www.drcraigwright.net/generating-bitcoin-address/ (if link is dead/removed: PDF copy) I thought it looked very similar to an old post I wrote in 2013: http://procbits.com/2013/08/27/generating-a-bitcoin-address-with-javascript using an ancient version of bitcoinjs-lib circa 2013.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a5e2ebee1002f1eeb3d6eb9b7c3ab403a4a7309.jpg"></article>]]></description>
+            <link>http://gigabitcoin.xyz/did-satoshi-steal-my-blog-post/index.html</link>
+            <guid isPermaLink="false">65a71ec1-d45c-4c44-a3ce-7b9d3ac66a6f</guid>
+            <pubDate>Tue, 03 May 2016 13:40:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TRI to Finally Ship Turing Phone This May]]></title>
+            <description><![CDATA[<article><h1>TRI to Finally Ship Turing Phone This May</h1><p>On April 30 Turing Robotic Industries sent a newsletter to all their subscribers, saying the Turing Phone is ready for shipment, which will begin after the final newsletter on May 3. Also read: Antonopoulos Declined 'Opportunity' to Identify Satoshi and Doesn't Care "While we scan through thousands of pre-orders and requests we have decided to send out the confirmation email on May 3rd.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e71283ff221fcdc401af2a0c6869ccee6375200.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/turing-phone-ship-may/</link>
+            <guid isPermaLink="false">f93960bd-f9ea-43b5-8516-acb3ff94fd5c</guid>
+            <pubDate>Tue, 03 May 2016 13:40:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Crypto Valley In Switzerland Now Accepts Bitcoin For Train Tickets]]></title>
             <description><![CDATA[<article><h1>Crypto Valley In Switzerland Now Accepts Bitcoin For Train Tickets</h1><p>One community in Switzerland dubbed Crypto Valley, has decided to start accepting Bitcoin payments for train tickets. This was agreed upon during the council meeting earlier today, as they now accept Bitcoin payments for bills up to 200 Swiss Francs Also read: Valyrian Tech Presents Bitcoin Spellbook Project Very few people will have heard of Crypto Valley - located in the Zug canton - so far, even though this community in Switzerland has been around for quite some time now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53d2ea26f91c03a0f90e7f0954de2d528638361c.jpg"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>http://www.theverge.com/2016/5/2/11566296/craig-steven-wright-satoshi-nakamoto-bitcoin-proof</link>
             <guid isPermaLink="false">404d3f89-9c9f-4c63-88e0-7664a11e9482</guid>
             <pubDate>Tue, 03 May 2016 13:40:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Technical Analysis for 05/03/2016 - How Low Can Bears Go? - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 05/03/2016 - How Low Can Bears Go? - NEWSBTC</h1><p>Bitcoin Price Key Highlights Bitcoin price broke below the short-term triangle consolidation pattern as predicted in the previous update. Price is currently stalling at an area of interest around $440 but could be due for further downside. The rising trend line connecting the lows of price action on the 4-hour time frame is still intact and ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d251a8c60d7a4e4e37c466ab0be7c936603e3f31.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/03/bitcoin-price-technical-analysis-05032016-low-can-bears-go/</link>
-            <guid isPermaLink="false">2e362ab6-f52d-4d77-9439-56f29eda5ee9</guid>
-            <pubDate>Tue, 03 May 2016 13:40:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Resilience  -  a decentralized taxation system for free market taxation]]></title>
-            <description><![CDATA[<article><h1>Resilience  -  a decentralized taxation system for free market taxation</h1><p>Why would the community want to inject government theft into a crypto-currency? - SeemedGood How is this theft? The whole "taxes = theft" argument falls apart if there doesn't exist some apparatus that is enforcing taxation through violence or the threat thereof - where do you see a threat of violence in this system?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3ce42fdedbd498b4d4be3b8664233b53976c349.png"></article>]]></description>
-            <link>http://themerkle.com/resilience%e2%80%8a-%e2%80%8aa-decentralized-taxation-system-for-free-market-taxation/</link>
-            <guid isPermaLink="false">4bd27da0-b53a-4ec6-8a9d-a975303514cc</guid>
-            <pubDate>Tue, 03 May 2016 13:40:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Market OpenBazaar Sweeps 2016 Blockchain Awards - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Market OpenBazaar Sweeps 2016 Blockchain Awards - CoinDesk</h1><p>Online bitcoin-enabled marketplace OpenBazaar was the big winner at the 2016 Blockchain Awards, sponsored by Blockchain and presented at the Coin Center Annual Dinner. Combined, OpenBaazar and OB1, the development firm that supports the platform, won three of the five awards offered on Monday night, including 'Best New Startup', 'Bitcoin Champion of the Year' and 'Most Promising Consumer Application'.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/854fa927350b0025b60c681bf407eede6816d3e7.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/openbazaar-wins-2016-blockchain-awards/</link>
-            <guid isPermaLink="false">b8d4bc0b-d519-428c-88ed-14e4455ece00</guid>
-            <pubDate>Tue, 03 May 2016 13:40:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
