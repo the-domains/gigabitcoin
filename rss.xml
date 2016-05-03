@@ -4,20 +4,13 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 02:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 02:24:56 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Still No Bitcoin Scaling Solution as April Ends Without SegWit]]></title>
             <description><![CDATA[<article><h1>Still No Bitcoin Scaling Solution as April Ends Without SegWit</h1><p>The roadmap for Bitcoin's future is again uncertain, as April passed without a usable release of Segregated Witness (SegWit) - a proposed solution to the block size issue. Also Read: The Segregated Witness Concept: A 'Turning Point' for Bitcoin?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f1f97b91ee4301dacef87ea69c543ef2ca001eb.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/april-ends-without-segwit-activation/</link>
             <guid isPermaLink="false">8f21403a-9358-4855-8a3f-3fd995995d9e</guid>
-            <pubDate>Tue, 03 May 2016 02:19:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An Australian Man Claims He Created Bitcoin -- Start Up Your Day Roundup | Fox News]]></title>
-            <description><![CDATA[<article><h1>An Australian Man Claims He Created Bitcoin -- Start Up Your Day Roundup | Fox News</h1><p>Plus: A drone ballet performed in front of Mt. Fuji.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/617b5398a589d1d55e824b84e5e9dddd0874c3c0.jpg"></article>]]></description>
-            <link>http://www.foxnews.com/us/2016/05/02/australian-man-claims-created-bitcoin-start-up-your-day-roundup.html</link>
-            <guid isPermaLink="false">58d103ff-fba5-407d-aacd-c01a647d5fb5</guid>
             <pubDate>Tue, 03 May 2016 02:19:11 GMT</pubDate>
         </item>
         <item>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Is This Man the Inventor of Bitcoin?</h1><p>WSJ's Paul Vigna joins Lunch Break with Tanya Rivero and sheds light on claims by Australian businessman Craig Wright that he is Satoshi Nakamoto, the elusive inventor of Bitcoin. Photo: drcraigwright.net</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8222e51594bc374148638891e8e7581930c4867e.jpg"></article>]]></description>
             <link>http://www.wsj.com/video/is-this-man-the-inventor-of-bitcoin/494CCFEF-ED98-42C0-BA94-44DD0435E92C.html</link>
             <guid isPermaLink="false">3b4d9395-5cbc-4eb6-9276-0f7acf88ca9d</guid>
+            <pubDate>Tue, 03 May 2016 02:19:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australian man claims to be creator of Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Australian man claims to be creator of Bitcoin</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c9c2719b538df80ecad36eb845d952c6bd2c20e.jpg"></article>]]></description>
+            <link>http://www.chicagotribune.com/news/ct-bitcoin-creator-video-20160502-premiumvideo.html</link>
+            <guid isPermaLink="false">4dc577cd-f4b4-4aa4-a960-f821c357605e</guid>
             <pubDate>Tue, 03 May 2016 02:19:10 GMT</pubDate>
         </item>
     </channel>
