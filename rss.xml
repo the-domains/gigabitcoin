@@ -4,36 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 02:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 02:21:26 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Why I declined to "verify" SN's identity two weeks ago * /r/btc]]></title>
-            <description><![CDATA[<article><h1>Why I declined to "verify" SN's identity two weeks ago * /r/btc</h1><p>About two weeks ago I was contacted and asked to offer security advice for a project. I was asked to sign an NDA in order to discuss the project...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
-            <link>https://www.reddit.com/r/btc/comments/4hj20k/why_i_declined_to_verify_sns_identity_two_weeks/</link>
-            <guid isPermaLink="false">60dd255d-4eae-459e-9a78-0815da73c49f</guid>
-            <pubDate>Tue, 03 May 2016 02:18:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Satoshi Nakamoto - Bitcoin Creator Revealed]]></title>
-            <description><![CDATA[<article><h1>Satoshi Nakamoto - Bitcoin Creator Revealed</h1><p>News broadcast of Craig Wright coming out as Satoshi Nakamoto</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ff844d6a9bf45e850a401f49f18001d2b341a5c.jpg"></article>]]></description>
-            <link>https://youtu.be/H2euMNmsb_s</link>
-            <guid isPermaLink="false">3fbecb12-799d-4b40-b349-332548882527</guid>
-            <pubDate>Tue, 03 May 2016 02:18:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Craig Wright Is Not Satoshi Nakamoto]]></title>
-            <description><![CDATA[<article><h1>Why Craig Wright Is Not Satoshi Nakamoto</h1><p>The news caused huge waves across the community, as people started taking sides on the question: some have believed that the evidence provided by Wright was substantial enough.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/12534f9f052c8b6f7cbb4578205fb0cd452a22c2.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/why-craig-wright-is-not-satoshi-nakamoto</link>
-            <guid isPermaLink="false">2b29b3a8-c7b7-4f16-af92-58844cfca88a</guid>
-            <pubDate>Tue, 03 May 2016 02:18:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Plutus Team Reveals Vital Pluton Crowdsale Details]]></title>
-            <description><![CDATA[<article><h1>Plutus Team Reveals Vital Pluton Crowdsale Details</h1><p>A lot of people have been keeping an eye on the Plutus project, which will enable cryptocurrency payments near any NFC terminal. The team behind Plutus has started their Pluton crowdsale and posted some details as to how the process will work.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1bf67fac5045a1ee242e0cb0bf860055b809b64.png"></article>]]></description>
-            <link>https://news.bitcoin.com/plutus-reveals-vital-crowdsale-details/</link>
-            <guid isPermaLink="false">7eb73b8c-98c3-49a9-92d6-eae1ac18b97d</guid>
-            <pubDate>Tue, 03 May 2016 02:18:46 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Price Is Not Bitcoin Value]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Is Not Bitcoin Value</h1><p>Bitcoin price slammed down to 1-day chart support today after a series of lower lows since the April top. The bulls kept buying even at the corrective highs, but are losing courage as an annual support comes under threat... This analysis is provided by xbt.social with a 3-hour delay.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8671ce4945f7bb666262e0847880586bda0c34bb.png"></article>]]></description>
@@ -75,6 +47,34 @@
             <link>http://themerkle.com/chain-to-showcase-blockchain-standard-at-consensus-2016-conference-in-new-york/</link>
             <guid isPermaLink="false">4026ba8e-aeb6-409b-8b97-f1203d0d9d9f</guid>
             <pubDate>Tue, 03 May 2016 02:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Former Maestro CEO Joins Agentic Group Blockchain Consortium]]></title>
+            <description><![CDATA[<article><h1>Former Maestro CEO Joins Agentic Group Blockchain Consortium</h1><p>Blockchain consortia are nothing new under the sun these days, and Agentic Group is one of one consortium very few people have heard of so far. This global Blockchain and digital currency initiative has added former Maestro CEO Ann Camarillo to their Senior Advisors board.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b411a11372aa0b1dc961ba4a882767cc798e4cd4.png"></article>]]></description>
+            <link>http://bitcoinist.net/former-maestro-ceo-joins-agentic-group-blockchain-consortium/</link>
+            <guid isPermaLink="false">7bec48ab-3b8a-40d6-bc37-fb1a7d43a61c</guid>
+            <pubDate>Tue, 03 May 2016 02:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Claymore's Dual Ethereum and Decred GPU Miner Linux Binary]]></title>
+            <description><![CDATA[<article><h1>Claymore's Dual Ethereum and Decred GPU Miner Linux Binary</h1><p>Claymore has released a Linux binary of his Dual Ethereum and Decred GPU miner for AMD GPUs. Prior to that the dual miner was only available for Windows users, but now Linux miners can also try to run it and increase their mining profit by mining ETH and DCR at the same time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a008e58415e772458e44b15580b695b76ed67fa1.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7810-claymores-dual-ethereum-and-decred-gpu-miner-linux-binary/</link>
+            <guid isPermaLink="false">e6255e9f-989d-4464-810c-b5221b159e56</guid>
+            <pubDate>Tue, 03 May 2016 02:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China Joins the Blockchain Race With ChinaLedger Alliance]]></title>
+            <description><![CDATA[<article><h1>China Joins the Blockchain Race With ChinaLedger Alliance</h1><p>Wanxiang Blockchain Labs, a Shanghai-based nonprofit research institution which hosted the first Global Blockchain Summit in Shanghai, is to lead an alliance of 11 regional commodity exchanges, equity exchanges and financial asset exchanges with the aim of creating "an open source blockchain protocol that developers can further build upon in the future" according to Bai Shuo, former chief engineer of the Shanghai Stock Exchange and director of the technology committee for the ChinaLedger Alliance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7424a171763b04d72d880c6d8c5f9333b255bcfb.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/china-joins-the-blockchain-race-with-chinaledger-alliance-1462204569</link>
+            <guid isPermaLink="false">73287a07-c0b2-440f-bd78-7c8d0d34f40e</guid>
+            <pubDate>Tue, 03 May 2016 02:18:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Industry Heavy Hitters Reveal the 'Real Satoshi' - Bitcoin News]]></title>
+            <description><![CDATA[<article><h1>Industry Heavy Hitters Reveal the 'Real Satoshi' - Bitcoin News</h1><p>Well, it's never a dull day in Also read: Gavin Andresen Resumes Work on Bitcoin Core Bitcoin-land , to say the least. Hours ago John Matonis tweeted to the public and revealed a blog called drcraigwright.net revealing a PGP signature from Dr. Craig Wright claiming to be the real Satoshi Nakamoto.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8aeb426f6a27d648930014484964a8fc627f8d3.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/heavy-hitters-reveal-real-satoshi/</link>
+            <guid isPermaLink="false">1438aee1-d779-4130-9b00-a433798ab723</guid>
+            <pubDate>Tue, 03 May 2016 02:18:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
