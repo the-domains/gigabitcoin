@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 13:41:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 13:41:12 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Craig Wright Might Not Be The Creator Of Bitcoin - Here's What To Read]]></title>
+            <description><![CDATA[<article><h1>Craig Wright Might Not Be The Creator Of Bitcoin - Here's What To Read</h1><p>​On Monday, Australian entrepreneur Craig Wright outed himself as the mysterious creator of Bitcoin, Satoshi Nakomoto. Today, the BBC, The Economist and GQ all published stories largely backing up Wright's claims. And although Wright claims to have evidence to back up his claim, he actually doesn't? Here's what to read.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/80dad449634458db02f61965f7cac3b370f02450.jpg"></article>]]></description>
+            <link>http://digg.com/2016/craig-wright-satoshi-nakomoto</link>
+            <guid isPermaLink="false">fabb8e4c-e1c3-48e2-928c-46968548cc8a</guid>
+            <pubDate>Tue, 03 May 2016 13:40:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IRC meeting summary for 2016-04-28]]></title>
             <description><![CDATA[<article><h1>IRC meeting summary for 2016-04-28</h1><p>Segwit review and status update of the BIPs The transition to travis trusty and C++11 has been successful The independent review for the constant time AES library talked about in the 2016-03-24 meeting is finished and he formally proved some parts were correct and analyzed the constant timeness.</p></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitsquare's Decentralized Currency Exchange is Ready For The World</h1><p>Bitsquare's Decentralized Currency Exchange is Ready For The World After 3 months of extensive testing on the Bitcoin MainNet, the world's first decentralized Bitcoin exchange is now ripe for a wider audience, entering the Beta launch stage. There are many currency exchange options out there, but none quite like BitSquare.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0bd54694bb348c17a51f5d89cfce57cf4b576477.jpg"></article>]]></description>
             <link>https://bitconnect.co/bitcoin-news/131/bitsquares-decentralized-currency-exchange-is-ready-for-the-world/</link>
             <guid isPermaLink="false">d63e6422-2dfc-49b3-ab24-40364a7ad6b9</guid>
-            <pubDate>Tue, 03 May 2016 13:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Analysis: 5/03/2016]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Analysis: 5/03/2016</h1><p>The short-term Bitcoin trend is currently staying within a flat. It's time for the market to choose a direction. Because there was no turnabout on the medium-term scale, the downward movement of Bitcoin is limited. Consequently, the price has stopped at the first key resistance line.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed35caac123313af8d34bc0ac56f2cd9f22f2724.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/bitcoin-price-analysis-week-of-may-3rd</link>
-            <guid isPermaLink="false">9fc66130-5075-4b76-a577-874fe0d055f5</guid>
             <pubDate>Tue, 03 May 2016 13:40:11 GMT</pubDate>
         </item>
     </channel>
