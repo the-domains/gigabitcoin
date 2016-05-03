@@ -4,13 +4,27 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 02:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 02:23:57 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is This Man the Inventor of Bitcoin?]]></title>
+            <description><![CDATA[<article><h1>Is This Man the Inventor of Bitcoin?</h1><p>WSJ's Paul Vigna joins Lunch Break with Tanya Rivero and sheds light on claims by Australian businessman Craig Wright that he is Satoshi Nakamoto, the elusive inventor of Bitcoin. Photo: drcraigwright.net</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8222e51594bc374148638891e8e7581930c4867e.jpg"></article>]]></description>
+            <link>http://www.wsj.com/video/is-this-man-the-inventor-of-bitcoin/494CCFEF-ED98-42C0-BA94-44DD0435E92C.html</link>
+            <guid isPermaLink="false">3b4d9395-5cbc-4eb6-9276-0f7acf88ca9d</guid>
+            <pubDate>Tue, 03 May 2016 02:19:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Remember: they cannot break bitcoin the tech. They can only try to break bitcoin the community. Pay attention to what comes out of this new "he's Satoshi!!!" thing. "Divide et impera" * /r/Bitcoin]]></title>
             <description><![CDATA[<article><h1>Remember: they cannot break bitcoin the tech. They can only try to break bitcoin the community. Pay attention to what comes out of this new "he's Satoshi!!!" thing. "Divide et impera" * /r/Bitcoin</h1><p>Bitcoin is the currency of the Internet: a distributed, worldwide, decentralized digital money. Unlike traditional currencies such as dollars, bitcoins are issued and managed without any central authority whatsoever: there is no government, company, or bank in charge of Bitcoin. As such, it is more resistant to wild inflation and corrupt banks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
             <link>https://www.reddit.com/r/Bitcoin/comments/4hflpo/remember_they_cannot_break_bitcoin_the_tech_they/</link>
             <guid isPermaLink="false">cd3f0033-3510-43fe-99fb-c8798c138039</guid>
+            <pubDate>Tue, 03 May 2016 02:19:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Craig constructed the "message" that he "signed" using Satoshi's key * /r/Bitcoin]]></title>
+            <description><![CDATA[<article><h1>How Craig constructed the "message" that he "signed" using Satoshi's key * /r/Bitcoin</h1><p>Craig was a bit clever here. He did not cheat, and did not use modified command line tools. He indeed posted a message signed by Satoshi's key,...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d19ef0ee35b97b6a36a392ec99f6484c16d7669.jpg"></article>]]></description>
+            <link>https://www.reddit.com/r/Bitcoin/comments/4hhreq/how_craig_constructed_the_message_that_he_signed/</link>
+            <guid isPermaLink="false">06223781-fba4-4e30-b7bb-7fec60eef73c</guid>
             <pubDate>Tue, 03 May 2016 02:19:10 GMT</pubDate>
         </item>
         <item>
@@ -61,20 +75,6 @@
             <link>http://themerkle.com/amazon-web-services-offers-cloud-computing-infrastructure-to-dcg/</link>
             <guid isPermaLink="false">2e34663e-9b23-4aad-860f-001e98cb77f9</guid>
             <pubDate>Tue, 03 May 2016 02:18:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain Tech Leaders Debate Satoshi Mystery and Scaling at Consensus 2016 - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Blockchain Tech Leaders Debate Satoshi Mystery and Scaling at Consensus 2016 - CoinDesk</h1><p>It has been said that bitcoin is in a crisis as its community attempt to reach consensus on how best to scale the technology to increase its capacity, and the evolving debate was on display at Consensus 2016 today.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9b5ed9cf3be77be9e552379ed3fbe6f8b8e203d.png"></article>]]></description>
-            <link>http://www.coindesk.com/consensus-2016-coverage-tech-policy-track-day-1/</link>
-            <guid isPermaLink="false">e92eadaa-42b2-4e01-a915-d35b7cf512e1</guid>
-            <pubDate>Tue, 03 May 2016 02:18:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BitPay reveals new U.S.-wide bitcoin debit card service]]></title>
-            <description><![CDATA[<article><h1>BitPay reveals new U.S.-wide bitcoin debit card service</h1><p>At a demonstration at the Consensus 2016 conference in New York, BitPay revealed a new bitcoin debit card that is available in all 50 U.S. states. Issued by Metropolitan Commercial Bank, the debit ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/618079ca1f1c5c525d064d8f04c2d167b7eb5f7b.png"></article>]]></description>
-            <link>https://coinreport.net/bitpay-reveals-new-u-s-wide-bitcoin-debit-card-service/</link>
-            <guid isPermaLink="false">fa1affca-fbba-4854-9974-f0574c9ba2a7</guid>
-            <pubDate>Tue, 03 May 2016 02:18:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
