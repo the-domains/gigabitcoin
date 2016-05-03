@@ -4,14 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 02:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 02:25:15 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://twitter.com/SatoshiLite/status/727157971428331520</link>
-            <guid isPermaLink="false">c769bc24-1d21-4a07-b3af-f13316b30c6e</guid>
-            <pubDate>Tue, 03 May 2016 02:19:30 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Craig Wright is Not Satoshi]]></title>
             <description><![CDATA[<article><h1>Craig Wright is Not Satoshi</h1><p>Craig Wright's proof of being Bitcoin's creator Satoshi Nakamoto is fraudulent as it was linked to a 2009 Bitcoin transaction. Furthermore, the way Mr. Wright keeps proving he is Satoshi is running his code in front of other people, code which has grammar mistakes a middle school student can notice.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6f67462b1a9b6b6c3b63806b38bfd1f71a74ccc8.png"></article>]]></description>
@@ -74,6 +68,13 @@
             <link>http://www.cnbc.com/2016/05/02/cme-group-to-publish-daily-bitcoin-settlement-price.html</link>
             <guid isPermaLink="false">d8a52738-36be-4f55-afd9-52a0070ed182</guid>
             <pubDate>Tue, 03 May 2016 02:19:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Core Dev Gavin Anderson's GitHub Commit Access Removed]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Core Dev Gavin Anderson's GitHub Commit Access Removed</h1><p>Citing fears of a hack that may have resulted in an account compromise, Bitcoin Core members have revoked the commit access belonging to Bitcoin Core developer Gavin Andersen. Monday began with the collective dramatic explosion of news that Australian entrepreneur Craig Wright publicly claimed that he is Satoshi Nakamoto, the pseudonymous inventor of Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91e41e2f41368b05e43ecc0bcffa8482f145e15d.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-chief-scientist-gavin-andersons-github-commit-access-removed/</link>
+            <guid isPermaLink="false">842ee16f-cdd9-40a7-b530-86bfc738f912</guid>
+            <pubDate>Tue, 03 May 2016 02:19:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
