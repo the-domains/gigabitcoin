@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 13:41:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 13:41:09 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A possibly stupid question regarding the number of bytes in an OP_RETURN transaction]]></title>
+            <description><![CDATA[<article><h1>A possibly stupid question regarding the number of bytes in an OP_RETURN transaction</h1><p>I was reading this very useful explanation of what an OP_RETURN transaction looks like and got tripped up by part of it. "hex" : "6a13636861726c6579206c6f766573206865696469" This first</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43960/a-possibly-stupid-question-regarding-the-number-of-bytes-in-an-op-return-transac</link>
+            <guid isPermaLink="false">612d8e75-47e0-4f9e-a10a-4028988032e4</guid>
+            <pubDate>Tue, 03 May 2016 13:40:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dash Is Ready for Business: Dash Developers Ready Point-of-Sale Integration]]></title>
             <description><![CDATA[<article><h1>Dash Is Ready for Business: Dash Developers Ready Point-of-Sale Integration</h1><p>In terms of adoption by merchants, businesses, and other "real world" applications, the rest of the cryptocurrency community lags severely behind Bitcoin. Recently, however, certain altcoins have begun to make inroads in business adoption ( Scotcoin for example).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/80172383378dc9842175412951cae9e8c7f707eb.jpg"></article>]]></description>
@@ -67,12 +74,6 @@
             <link>http://abcnews.go.com/Business/video/bitcoin-basics-38821764</link>
             <guid isPermaLink="false">8eb40384-a2f5-4c3c-a842-5c34ce23e4d7</guid>
             <pubDate>Tue, 03 May 2016 02:19:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://twitter.com/SatoshiLite/status/727157971428331520</link>
-            <guid isPermaLink="false">c769bc24-1d21-4a07-b3af-f13316b30c6e</guid>
-            <pubDate>Tue, 03 May 2016 02:19:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
