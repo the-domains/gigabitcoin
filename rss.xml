@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 13:43:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 13:43:12 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Doubts follow Craig Wright's claims of bitcoin invention | Business | DW.COM | 03.05.2016]]></title>
+            <description><![CDATA[<article><h1>Doubts follow Craig Wright's claims of bitcoin invention | Business | DW.COM | 03.05.2016</h1><p>Following waves made by Australian tech entrepreneur Craig Wright saying on Monday that bitcoin founder Satoshi Nakamoto was his alter-ego, doubts on the validity of his claim have emerged from prominent corners of the cryptography community.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac0afabc0f66e263e58716c82d3d63425eac2d6c.jpg"></article>]]></description>
+            <link>http://www.dw.com/en/doubts-follow-craig-wrights-claims-of-bitcoin-invention/a-19231562</link>
+            <guid isPermaLink="false">c8625bc9-55c1-4471-90f6-46417f2d8e57</guid>
+            <pubDate>Tue, 03 May 2016 13:40:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Consensus 2016 Panelists Debate Blockchain's Business Impact - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Consensus 2016 Panelists Debate Blockchain's Business Impact - CoinDesk</h1><p>Digital currency was the first application of blockchain technology - so it only makes sense that banks were among the first institutions to look into other applications. But as those same institutions pursue blockchain trials and proofs-of-concept focused on finance, both startups and established companies are setting their gaze beyond the world of banking.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a17e8238f309f3ebe412a212c5a60f5992bb3dd.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/consensus-2016-business-track-day-one/</link>
+            <guid isPermaLink="false">d97aa93a-68a8-4737-94ea-58c49f1b1bba</guid>
+            <pubDate>Tue, 03 May 2016 13:40:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Delaware Governor Announces Plan To Embrace Blockchain Tech]]></title>
+            <description><![CDATA[<article><h1>Delaware Governor Announces Plan To Embrace Blockchain Tech</h1><p>Delaware Gov. Jack Markell announced a state initiative to embrace blockchain and smart contract technology to help public and private enterprises lower transactional costs, automate and speed up transactions and reduce fraud. Markell announced the plan to look into blockchain technology while delivering a keynote address at Consensus 2016, a New York technology conference on blockchain innovation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51d01455244d25340ea1feee6d2acc7d88c15208.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/delaware-governor-announces-plan-to-embrace-blockchain-in-public-and-private-ventures/</link>
+            <guid isPermaLink="false">9697688e-1f33-4897-b777-0713e86f7e36</guid>
+            <pubDate>Tue, 03 May 2016 13:40:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Did Satoshi Steal My Blog Post?]]></title>
             <description><![CDATA[<article><h1>Did Satoshi Steal My Blog Post?</h1><p>I'm JP Richardson, cofounder of Exodus bitcoin/ethereum wallet and active JavaScript/Bitcoin developer. I, like a lot of you, got caught up into reading about Craig Wright being Satoshi Nakamoto. I started poking around Craig Wright's site and stumbled upon this gem: http://www.drcraigwright.net/generating-bitcoin-address/ (if link is dead/removed: PDF copy) I thought it looked very similar to an old post I wrote in 2013: http://procbits.com/2013/08/27/generating-a-bitcoin-address-with-javascript using an ancient version of bitcoinjs-lib circa 2013.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a5e2ebee1002f1eeb3d6eb9b7c3ab403a4a7309.jpg"></article>]]></description>
@@ -53,27 +74,6 @@
             <description><![CDATA[<article><h1>BitPay Launches Loadable Visa - Bitcoinist.net</h1><p>BitPay the global merchant processor for Bitcoin announced a Bitcoin debit card during the Consensus event in New York. BitPay CEO Stephen Pair let attendees know about the Bitcoin-loadable Visa that can make point-of-sale (POS) transactions at brick and mortar locations. The card will available for $9.95 for anyone in the United States and loadable from any Bitcoin wallet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/265b567e41c3a7cb31b7941935ee756f75137ae1.jpg"></article>]]></description>
             <link>http://bitcoinist.net/bitpay-launches-loadable-visa/</link>
             <guid isPermaLink="false">d7d9039f-ecde-40b8-9d1c-5cb0f97b6ffd</guid>
-            <pubDate>Tue, 03 May 2016 13:40:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Startup aims to end homeless hunger with blockchain technology]]></title>
-            <description><![CDATA[<article><h1>Startup aims to end homeless hunger with blockchain technology</h1><p>HALIFAX, Nova Scotia - May 2, 2016 - BlockCrushr Labs today unveiled a solution to revolutionize P2P (person to person) street giving, using emerging "blockchain" technologies to ensure that funds given to buy meals and other necessities are spent for their intended purpose.</p></article>]]></description>
-            <link>http://themerkle.com/startup-aims-to-end-homeless-hunger-with-blockchain-technology/</link>
-            <guid isPermaLink="false">5a88bbe8-8648-492c-8190-3d37d70d7d57</guid>
-            <pubDate>Tue, 03 May 2016 13:40:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The latest Bitcoin inventor claims don't add up]]></title>
-            <description><![CDATA[<article><h1>The latest Bitcoin inventor claims don't add up</h1><p>Bitcoin is based on a simple idea: all you need is math. It's the same idea that fueled the cypherpunks and forged large parts of the web. If you get the math right, you can trust it, and then you don't need to trust authorities or institutions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ae2c4d3ed021dc7050c4881d13d80040d0c0ac0.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/5/2/11566296/craig-steven-wright-satoshi-nakamoto-bitcoin-proof</link>
-            <guid isPermaLink="false">404d3f89-9c9f-4c63-88e0-7664a11e9482</guid>
-            <pubDate>Tue, 03 May 2016 13:40:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Technical Analysis for 05/03/2016 - How Low Can Bears Go? - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 05/03/2016 - How Low Can Bears Go? - NEWSBTC</h1><p>Bitcoin Price Key Highlights Bitcoin price broke below the short-term triangle consolidation pattern as predicted in the previous update. Price is currently stalling at an area of interest around $440 but could be due for further downside. The rising trend line connecting the lows of price action on the 4-hour time frame is still intact and ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d251a8c60d7a4e4e37c466ab0be7c936603e3f31.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/03/bitcoin-price-technical-analysis-05032016-low-can-bears-go/</link>
-            <guid isPermaLink="false">2e362ab6-f52d-4d77-9439-56f29eda5ee9</guid>
             <pubDate>Tue, 03 May 2016 13:40:13 GMT</pubDate>
         </item>
     </channel>
