@@ -4,34 +4,13 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 13:42:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 13:41:46 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[BitPay Launches Loadable Visa - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>BitPay Launches Loadable Visa - Bitcoinist.net</h1><p>BitPay the global merchant processor for Bitcoin announced a Bitcoin debit card during the Consensus event in New York. BitPay CEO Stephen Pair let attendees know about the Bitcoin-loadable Visa that can make point-of-sale (POS) transactions at brick and mortar locations. The card will available for $9.95 for anyone in the United States and loadable from any Bitcoin wallet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/265b567e41c3a7cb31b7941935ee756f75137ae1.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/bitpay-launches-loadable-visa/</link>
-            <guid isPermaLink="false">d7d9039f-ecde-40b8-9d1c-5cb0f97b6ffd</guid>
-            <pubDate>Tue, 03 May 2016 13:40:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Startup aims to end homeless hunger with blockchain technology]]></title>
-            <description><![CDATA[<article><h1>Startup aims to end homeless hunger with blockchain technology</h1><p>HALIFAX, Nova Scotia - May 2, 2016 - BlockCrushr Labs today unveiled a solution to revolutionize P2P (person to person) street giving, using emerging "blockchain" technologies to ensure that funds given to buy meals and other necessities are spent for their intended purpose.</p></article>]]></description>
-            <link>http://themerkle.com/startup-aims-to-end-homeless-hunger-with-blockchain-technology/</link>
-            <guid isPermaLink="false">5a88bbe8-8648-492c-8190-3d37d70d7d57</guid>
-            <pubDate>Tue, 03 May 2016 13:40:13 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[The latest Bitcoin inventor claims don't add up]]></title>
             <description><![CDATA[<article><h1>The latest Bitcoin inventor claims don't add up</h1><p>Bitcoin is based on a simple idea: all you need is math. It's the same idea that fueled the cypherpunks and forged large parts of the web. If you get the math right, you can trust it, and then you don't need to trust authorities or institutions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ae2c4d3ed021dc7050c4881d13d80040d0c0ac0.jpg"></article>]]></description>
             <link>http://www.theverge.com/2016/5/2/11566296/craig-steven-wright-satoshi-nakamoto-bitcoin-proof</link>
             <guid isPermaLink="false">404d3f89-9c9f-4c63-88e0-7664a11e9482</guid>
-            <pubDate>Tue, 03 May 2016 13:40:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Technical Analysis for 05/03/2016 - How Low Can Bears Go? - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 05/03/2016 - How Low Can Bears Go? - NEWSBTC</h1><p>Bitcoin Price Key Highlights Bitcoin price broke below the short-term triangle consolidation pattern as predicted in the previous update. Price is currently stalling at an area of interest around $440 but could be due for further downside. The rising trend line connecting the lows of price action on the 4-hour time frame is still intact and ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d251a8c60d7a4e4e37c466ab0be7c936603e3f31.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/03/bitcoin-price-technical-analysis-05032016-low-can-bears-go/</link>
-            <guid isPermaLink="false">2e362ab6-f52d-4d77-9439-56f29eda5ee9</guid>
             <pubDate>Tue, 03 May 2016 13:40:13 GMT</pubDate>
         </item>
         <item>
@@ -74,6 +53,27 @@
             <description><![CDATA[<article><h1>Craig Wright Might Not Be The Creator Of Bitcoin - Here's What To Read</h1><p>​On Monday, Australian entrepreneur Craig Wright outed himself as the mysterious creator of Bitcoin, Satoshi Nakomoto. Today, the BBC, The Economist and GQ all published stories largely backing up Wright's claims. And although Wright claims to have evidence to back up his claim, he actually doesn't? Here's what to read.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/80dad449634458db02f61965f7cac3b370f02450.jpg"></article>]]></description>
             <link>http://digg.com/2016/craig-wright-satoshi-nakomoto</link>
             <guid isPermaLink="false">fabb8e4c-e1c3-48e2-928c-46968548cc8a</guid>
+            <pubDate>Tue, 03 May 2016 13:40:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2016-04-28]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-04-28</h1><p>Segwit review and status update of the BIPs The transition to travis trusty and C++11 has been successful The independent review for the constant time AES library talked about in the 2016-03-24 meeting is finished and he formally proved some parts were correct and analyzed the constant timeness.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/04/28/</link>
+            <guid isPermaLink="false">73514b7d-1914-4bd0-a248-92e5bb10e3e2</guid>
+            <pubDate>Tue, 03 May 2016 13:40:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum Price Technical Analysis - $10.00 Target Hit, ETH In Uptrend - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Ethereum Price Technical Analysis - $10.00 Target Hit, ETH In Uptrend - NEWSBTC</h1><p>Ethereum price change in bias forecast was a success, as ETH/USD spiked higher and even broke the $10.00 resistance area. Ethereum price change in bias forecast was a success, as ETH/USD spiked higher and even broke the $10.00 resistance area. Ethereum price was unstoppable against the US Dollar and continued to move higher.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bc98f55389b76aef73e44b9008f1ea423a9ef33.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/03/ethereum-price-technical-analysis-10-00-target-hit-eth-uptrend/</link>
+            <guid isPermaLink="false">2930eb7b-d0aa-4825-9dc6-522bd882c77a</guid>
+            <pubDate>Tue, 03 May 2016 13:40:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A possibly stupid question regarding the number of bytes in an OP_RETURN transaction]]></title>
+            <description><![CDATA[<article><h1>A possibly stupid question regarding the number of bytes in an OP_RETURN transaction</h1><p>I was reading this very useful explanation of what an OP_RETURN transaction looks like and got tripped up by part of it. "hex" : "6a13636861726c6579206c6f766573206865696469" This first</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43960/a-possibly-stupid-question-regarding-the-number-of-bytes-in-an-op-return-transac</link>
+            <guid isPermaLink="false">612d8e75-47e0-4f9e-a10a-4028988032e4</guid>
             <pubDate>Tue, 03 May 2016 13:40:12 GMT</pubDate>
         </item>
     </channel>
