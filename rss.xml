@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 22:54:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 22:54:40 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Searches More Than Double According To Google Trends]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Searches More Than Double According To Google Trends</h1><p>Google Trends is always something fascinating to keep an eye on, especially when one is invested in Bitcoin and FinTech. The most recent report shows how the number of Google searches has gone up by 200% in the past week, which should come as no surprise.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b224388afb8cc5f7c8291662265d8501ccd06a21.jpg"></article>]]></description>
+            <link>http://themerkle.com/bitcoin-searches-more-than-double-according-to-google-trends/</link>
+            <guid isPermaLink="false">b8d34ba6-b5e9-427e-a104-366aa97a5ef7</guid>
+            <pubDate>Wed, 04 May 2016 22:54:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Markets Hold Steady, But Brace for More Craig Wright Details - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Bitcoin Markets Hold Steady, But Brace for More Craig Wright Details - CoinDesk</h1><p>Bitcoin markets experienced little change on 2nd May, providing a mild response to Craig Wright's claim that he is in fact the digital currency's inventor. The Economist, the BBC and GQ all released stories on the subject that day, following months of speculation surrounding whether Wright created bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ad63050a79ddafc053a33d2c025f7a47dedad55.jpg"></article>]]></description>
@@ -66,13 +73,6 @@
             <description><![CDATA[<article><h1>Blockchain Implementations: Who Are You Going to Call? - CoinDesk</h1><p>William Mougayar is a Toronto-based entrepreneur, investor and advisor to Consensus 2016, CoinDesk's flagship conference. He is also the author of the upcoming book, In this opinion piece, Mougayar segments the blockchain startup scene, breaking down the available platforms and tech providers, and their offerings. The Business Blockchain .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7af92f3d6db46e4307f14dfbf8e5d837a1f7c650.jpg"></article>]]></description>
             <link>http://www.coindesk.com/which-blockchain-implementations/</link>
             <guid isPermaLink="false">d9aa0f75-aca0-4efc-bf6f-fa38614478f8</guid>
-            <pubDate>Wed, 04 May 2016 17:41:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinsource Expands its Bitcoin ATM Network Across West Coast - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Coinsource Expands its Bitcoin ATM Network Across West Coast - NEWSBTC</h1><p>The number of Bitcoin ATMs in the 'City of Angels' has gone up. Coinsource, the Bitcoin ATM network has announced that it has added seven new Bitcoin ATMs to its network in Los Angeles recently. At the same time, Las Vegas received 2 more of these machines.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b0616e7d49d094b35fae44b57305392201724e3.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/04/coinsource-expands-bitcoin-atm-network-across-west-coast/</link>
-            <guid isPermaLink="false">373468e8-98b2-4445-94c8-a371606384b5</guid>
             <pubDate>Wed, 04 May 2016 17:41:25 GMT</pubDate>
         </item>
     </channel>
