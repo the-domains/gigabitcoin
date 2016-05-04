@@ -4,27 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 04:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 04:10:32 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://twitter.com/ElectrumWallet/status/727366861592076288</link>
-            <guid isPermaLink="false">6be4486d-f5e7-4262-91b9-772cc02aca1f</guid>
-            <pubDate>Wed, 04 May 2016 04:04:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://twitter.com/wikileaks/status/727562945840975872</link>
-            <guid isPermaLink="false">d2528e6b-5a41-4572-860f-3e1ca736e3c0</guid>
-            <pubDate>Wed, 04 May 2016 04:04:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="http://imgur.com/HkDzvNZ.jpg"></article>]]></description>
-            <link>http://i.imgur.com/HkDzvNZ.jpg</link>
-            <guid isPermaLink="false">04fb74d5-b10f-4807-a0b3-e109c2a5f382</guid>
-            <pubDate>Wed, 04 May 2016 04:03:42 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[ABN AMRO And Rabobank Ramp Up Blockchain Initiatives]]></title>
             <description><![CDATA[<article><h1>ABN AMRO And Rabobank Ramp Up Blockchain Initiatives</h1><p>Typically, financial institutions wait for a new technology to mature before investing in it. Blockchain technology, because of the impact it is expected to bring to the financial industry, is a different matter, as witnessed by the number of financial institutions investing in blockchain experimentation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6f2e9030335a586394ba8c1ac68bb4c53fdd9d9.jpg"></article>]]></description>
@@ -72,6 +53,27 @@
             <description><![CDATA[<article><h1>IBM Launches Highly Secure Blockchain Service on Cloud</h1><p>The idea of combining blockchain services and a cloud operating environment has always been desired, but was held back due to security concerns in the past. By launching blockchain services that meet the latest security standards on the cloud, IBM has just mitigated those concerns.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3af96c3a480a8f331fb123405f02b2a9fd659f61.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/ibm-launches-highly-secure-blockchain-service-on-cloud</link>
             <guid isPermaLink="false">b27c38bc-029d-460b-b756-edc10fae4ac8</guid>
+            <pubDate>Wed, 04 May 2016 04:03:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The CSIRO is exploring Bitcoin's blockchain technology]]></title>
+            <description><![CDATA[<article><h1>The CSIRO is exploring Bitcoin's blockchain technology</h1><p>Announced as part of the 2016 federal budget, the government will be encouraging its agencies as well as private companies to explore blockchain technology. The government's downsized CSIRO research body Data61 will lead the country's blockage development. "The Government will encourage the exploration of Blockchain technology, including through a study and pilot testing by the CSIRO's Data61," it said in the budget.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/feef6b8adc26a546c9ac234263701276ffb5b7b0.jpg"></article>]]></description>
+            <link>http://www.businessinsider.com.au/the-csiro-is-exploring-bitcoins-blockchain-technology-2016-5</link>
+            <guid isPermaLink="false">524e6de8-6560-4558-850b-e5135cd7a93c</guid>
+            <pubDate>Wed, 04 May 2016 04:03:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Inventor 'Satoshi Nakamoto' Finally Revealed]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Inventor 'Satoshi Nakamoto' Finally Revealed</h1><p>The inventor of the digital currency bitcoin has finally been revealed, according to an interview with several media outlets and a blog post written by the man himself. Australian entrepreneur Craig Wright has told the BBC that he is Satoshi Nakamoto, the shadowy creator of the cryptocurrency, in a move that is likely to end the years-old search for the inventor.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1e374d157c06cac08944c506bbe9a724f804ec9.jpg"></article>]]></description>
+            <link>http://www.nbcnews.com/tech/tech-news/bitcoin-inventor-satoshi-nakamoto-finally-revealed-n565756</link>
+            <guid isPermaLink="false">41bb90ab-7569-4e41-b254-a1c9d71994e1</guid>
+            <pubDate>Wed, 04 May 2016 04:03:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaking: Bitcoin Gets a Tax Cut in Australia]]></title>
+            <description><![CDATA[<article><h1>Breaking: Bitcoin Gets a Tax Cut in Australia</h1><p>Following a policy statement by the Australian Government Treasury in March that saw the authority reveal that digital currencies such as Bitcoin are likely to be exempt from double taxation via the Goods and Services (GST) tax, the Australian Government has kept its word.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c0ca97639afcfd4507d1d794654adc32cc6c0ea.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/breaking-bitcoin-gets-tax-cut-australia/</link>
+            <guid isPermaLink="false">7df5d4d3-75fd-4514-a555-856da6f8e009</guid>
             <pubDate>Wed, 04 May 2016 04:03:40 GMT</pubDate>
         </item>
     </channel>
