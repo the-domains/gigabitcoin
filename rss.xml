@@ -4,8 +4,43 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 04:09:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 04:10:18 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Question regarding the number of bytes in an OP_RETURN transaction]]></title>
+            <description><![CDATA[<article><h1>Question regarding the number of bytes in an OP_RETURN transaction</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top I was reading this very useful explanation of what an OP_RETURN transaction looks like and got tripped up by part of it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43960/question-regarding-the-number-of-bytes-in-an-op-return-transaction</link>
+            <guid isPermaLink="false">eec2abcf-f222-4341-9f59-1786d542ee46</guid>
+            <pubDate>Wed, 04 May 2016 04:03:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Europol Powers May Lead to Blockchain Analysis Task Force]]></title>
+            <description><![CDATA[<article><h1>New Europol Powers May Lead to Blockchain Analysis Task Force</h1><p>Bitcoin has been referred to as a tool that makes it easier for terrorist groups to acquire funding. The recently-acquired enhanced cyber powers by Europol may be used to crack down on Bitcoin and blockchain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfa51526b53b09f684908f108d2346327d63ce35.png"></article>]]></description>
+            <link>https://news.bitcoin.com/europol-blockchain-task-force/</link>
+            <guid isPermaLink="false">86bad9d1-7343-43ab-ba42-5b3156174150</guid>
+            <pubDate>Wed, 04 May 2016 04:03:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IBM Launches Highly Secure Blockchain Service on Cloud]]></title>
+            <description><![CDATA[<article><h1>IBM Launches Highly Secure Blockchain Service on Cloud</h1><p>The idea of combining blockchain services and a cloud operating environment has always been desired, but was held back due to security concerns in the past. By launching blockchain services that meet the latest security standards on the cloud, IBM has just mitigated those concerns.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3af96c3a480a8f331fb123405f02b2a9fd659f61.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/ibm-launches-highly-secure-blockchain-service-on-cloud</link>
+            <guid isPermaLink="false">b27c38bc-029d-460b-b756-edc10fae4ac8</guid>
+            <pubDate>Wed, 04 May 2016 04:03:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The CSIRO is exploring Bitcoin's blockchain technology]]></title>
+            <description><![CDATA[<article><h1>The CSIRO is exploring Bitcoin's blockchain technology</h1><p>Announced as part of the 2016 federal budget, the government will be encouraging its agencies as well as private companies to explore blockchain technology. The government's downsized CSIRO research body Data61 will lead the country's blockage development. "The Government will encourage the exploration of Blockchain technology, including through a study and pilot testing by the CSIRO's Data61," it said in the budget.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/feef6b8adc26a546c9ac234263701276ffb5b7b0.jpg"></article>]]></description>
+            <link>http://www.businessinsider.com.au/the-csiro-is-exploring-bitcoins-blockchain-technology-2016-5</link>
+            <guid isPermaLink="false">524e6de8-6560-4558-850b-e5135cd7a93c</guid>
+            <pubDate>Wed, 04 May 2016 04:03:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Inventor 'Satoshi Nakamoto' Finally Revealed]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Inventor 'Satoshi Nakamoto' Finally Revealed</h1><p>The inventor of the digital currency bitcoin has finally been revealed, according to an interview with several media outlets and a blog post written by the man himself. Australian entrepreneur Craig Wright has told the BBC that he is Satoshi Nakamoto, the shadowy creator of the cryptocurrency, in a move that is likely to end the years-old search for the inventor.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1e374d157c06cac08944c506bbe9a724f804ec9.jpg"></article>]]></description>
+            <link>http://www.nbcnews.com/tech/tech-news/bitcoin-inventor-satoshi-nakamoto-finally-revealed-n565756</link>
+            <guid isPermaLink="false">41bb90ab-7569-4e41-b254-a1c9d71994e1</guid>
+            <pubDate>Wed, 04 May 2016 04:03:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Breaking: Bitcoin Gets a Tax Cut in Australia]]></title>
             <description><![CDATA[<article><h1>Breaking: Bitcoin Gets a Tax Cut in Australia</h1><p>Following a policy statement by the Australian Government Treasury in March that saw the authority reveal that digital currencies such as Bitcoin are likely to be exempt from double taxation via the Goods and Services (GST) tax, the Australian Government has kept its word.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c0ca97639afcfd4507d1d794654adc32cc6c0ea.jpg"></article>]]></description>
@@ -40,41 +75,6 @@
             <link>https://bitconnect.co/bitcoin-news/142/why-gavin-andresen-signs-off-on-craig-wright-as-satoshi-nakamoto-but-i-will-not/</link>
             <guid isPermaLink="false">7cacd6e5-a2a8-4814-89ee-d19a6f4c038c</guid>
             <pubDate>Wed, 04 May 2016 04:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Product of the Week - BitPay's First Bitcoin Debit Card Raises The Bar]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Product of the Week - BitPay's First Bitcoin Debit Card Raises The Bar</h1><p>Bitcoin Product of the Week - BitPay's First Bitcoin Debit Card Raises The Bar ​The current crop of Bitcoin debit cards, the first generation, are fraught with limitations. Many are not available to American citizens, one of Bitcoins biggest markets.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f7b549b626bca68e5d0f0a3f459f4026ddb437c.png"></article>]]></description>
-            <link>https://bitconnect.co/bitcoin-news/141/bitcoin-product-of-the-week-bitpays-first-bitcoin-debit-card-raises-the-bar/</link>
-            <guid isPermaLink="false">b29fae26-9b81-4854-8891-cd0507422c95</guid>
-            <pubDate>Wed, 04 May 2016 04:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Settlement Experts Predict Three Fates for Blockchain at Consensus 2016 - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Settlement Experts Predict Three Fates for Blockchain at Consensus 2016 - CoinDesk</h1><p>Two global banking leaders, a banking consortium and a newly minted limited-purpose trust company gathered on stage at the Consensus 2016 conference in New York City to discuss the future of blockchain technology among global financial institutions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a3ceb74411a6ffc5bf58e4c2bf047d11f051e9e.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/the-3-fates-of-blockchain/</link>
-            <guid isPermaLink="false">ec004170-b4fe-4b2b-8398-469f8ef51a69</guid>
-            <pubDate>Wed, 04 May 2016 04:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Fantastic Four Winners - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>The Fantastic Four Winners - NEWSBTC</h1><p>The success of the First Global Credit Trading competitions is due to the ingenuity and persistence of the people who choose to take part. We have old friends who have traded with us from almost the beginning. These people have profitable live accounts, who like the challenge of pitting themselves against others.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9267340a8813af8ba60e18a66c47ee5704959445.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/03/fantastic-four-winners/</link>
-            <guid isPermaLink="false">f7c7f20b-0196-4f39-84ba-b96dcf0835a4</guid>
-            <pubDate>Wed, 04 May 2016 04:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Holding $440]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Holding $440</h1><p>Bitcoin price remains above $440 and is testing $450 at the time of writing. A narrowing range of price action implies a break-out is building up steam. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f40874012c9fb7b3b9767abaf109c93e2e8b965.png"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-price-holding-440/</link>
-            <guid isPermaLink="false">8c31fa3b-5980-4dc9-9911-aff709ca724f</guid>
-            <pubDate>Wed, 04 May 2016 04:03:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deloitte Reveals New Partnerships at Consensus 2016 FinTech Conference]]></title>
-            <description><![CDATA[<article><h1>Deloitte Reveals New Partnerships at Consensus 2016 FinTech Conference</h1><p>Deloitte, one of the largest accounting and financial consulting companies in the world, has revealed new partnerships with several blockchain firms at the Consensus 2016 fintech conference; distributed ledger developer BlockCypher; blockchain service provider Bloq; New York-based financial blockchain developer ConsenSys Enterprise; blockchain rewards program firm Loyyal; international remittance company Stellar.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4517e6c184e21cfd8f769006347029680f01c5c.jpg"></article>]]></description>
-            <link>http://themerkle.com/deloitte-reveals-new-partnerships-at-consensus-2016-fintech-conference/</link>
-            <guid isPermaLink="false">8b1efae2-0204-4c03-a3fc-d84e31b8fe98</guid>
-            <pubDate>Wed, 04 May 2016 04:03:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
