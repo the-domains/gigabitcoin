@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 17:42:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 17:42:58 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coinsource Expands its Bitcoin ATM Network Across West Coast - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Coinsource Expands its Bitcoin ATM Network Across West Coast - NEWSBTC</h1><p>The number of Bitcoin ATMs in the 'City of Angels' has gone up. Coinsource, the Bitcoin ATM network has announced that it has added seven new Bitcoin ATMs to its network in Los Angeles recently. At the same time, Las Vegas received 2 more of these machines.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b0616e7d49d094b35fae44b57305392201724e3.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/04/coinsource-expands-bitcoin-atm-network-across-west-coast/</link>
+            <guid isPermaLink="false">373468e8-98b2-4445-94c8-a371606384b5</guid>
+            <pubDate>Wed, 04 May 2016 17:41:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kraken to supply pricing data for CME Group's new bitcoin indices]]></title>
             <description><![CDATA[<article><h1>Kraken to supply pricing data for CME Group's new bitcoin indices</h1><p>Bitcoin and digital assets exchange Kraken has been selected to be a key supplier of market data for real-time and reference bitcoin price indices by CME Group. According to a press release sent to...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6debc036d0b06a393db63026d36c21e723e5f8e4.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://cointelegraph.com/news/ethereum-wallet-for-expanse-blockchain-platform-set-to-be-released</link>
             <guid isPermaLink="false">6582a65c-0177-4a64-a8cc-3571c98739c2</guid>
             <pubDate>Wed, 04 May 2016 17:41:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Man Says He Can Prove He's the Founder of Bitcoin]]></title>
-            <description><![CDATA[<article><h1>This Man Says He Can Prove He's the Founder of Bitcoin</h1><p>Some experts have doubted his claims, but Australian businessman Craig Wright says he plans to prove, once and for all, that he is "Satoshi Nakomoto," the pseudonymous founder of the virtual currency bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1452542e9acfca588f3a75f62edc4034651f578c.jpg"></article>]]></description>
-            <link>http://fortune.com/2016/05/04/craig-wright-bitcoin-creator-proof/</link>
-            <guid isPermaLink="false">c84c9fa1-818d-4fd8-b526-39fe475c8ec2</guid>
-            <pubDate>Wed, 04 May 2016 17:41:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
