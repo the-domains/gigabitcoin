@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 04:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 04:04:16 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Delaware to 'embrace the emerging blockchain and smart contract technology industry,' with distributed ledger shares]]></title>
+            <description><![CDATA[<article><h1>Delaware to 'embrace the emerging blockchain and smart contract technology industry,' with distributed ledger shares</h1><p>The state of Delaware is perhaps the most friendly jurisdictions for Bitcoin and blockchain technology in the U.S. Delaware Governor, Jack Markell, recently announced the details of a new initiative to "embrace the emerging blockchain and smart contract technology industry."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3f437cdcbdfff752d4e15862e3b5e014b92dae0.jpg"></article>]]></description>
+            <link>http://bravenewcoin.com/news/delaware-to-embrace-the-emerging-blockchain-and-smart-contract-technology-industry-with-distributed-ledger-shares/</link>
+            <guid isPermaLink="false">03553f98-b895-45db-b6f1-c114ad18bc66</guid>
+            <pubDate>Wed, 04 May 2016 04:03:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dueling Blockchain Visions Face Off in Consensus 2016 Finale - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Dueling Blockchain Visions Face Off in Consensus 2016 Finale - CoinDesk</h1><p>The final panel on the last full day of Consensus 2016 featured a gentlemen's dual of philosophies over the merits of public and private blockchains by two of the biggest names in the business.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6de6b2315d4f9a166cb1073e4217d17cdfb3b828.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Andresen Denies Hacking as GitHub Access Limited - Bitcoin News</h1><p>Amid speculation surrounding Dr. Craig Wright's claim to be Satoshi Nakamoto, Core developer Gavin Andresen has lost his Bitcoin commit privileges on GitHub. Also read: Industry Heavy Hitters Reveal the 'Real Satoshi' Andresen earlier released a blog entry stating his belief that Wright is the man behind the Satoshi Nakamoto pseudonym, which caused immediate controversy, with many suspecting Andresen had been hacked.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08aba7ab48a179c80a800e5c4e4693cdbad4a623.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/andresen-denies-hacking-github-limited/</link>
             <guid isPermaLink="false">22d88dbd-e277-4ccb-9b40-625878269560</guid>
-            <pubDate>Tue, 03 May 2016 13:40:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IPayYou Bitcoin Wallet Lets Users Cancel Transactions]]></title>
-            <description><![CDATA[<article><h1>IPayYou Bitcoin Wallet Lets Users Cancel Transactions</h1><p>Although these two features are appealing in their own right, the company plans to bring other types of functionality to IPayYou in the coming months. Bitcoin wallet solutions are plentiful, but there is still a mental hurdle to overcome by novice users.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/435dbdf69503a08f95ffe77bffbadd186b6f8456.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/03/ipayyou-bitcoin-wallet-lets-users-cancel-transactions/</link>
-            <guid isPermaLink="false">f2a21845-04af-455b-98da-36c3271b7a2d</guid>
             <pubDate>Tue, 03 May 2016 13:40:53 GMT</pubDate>
         </item>
     </channel>
