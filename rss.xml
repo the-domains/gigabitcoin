@@ -4,8 +4,14 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 17:43:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 17:43:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://twitter.com/aantonop/status/727647662724546560</link>
+            <guid isPermaLink="false">8b5687d4-a520-4183-bb9e-d886a8e72991</guid>
+            <pubDate>Wed, 04 May 2016 17:41:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Amazon partners with Digital Currency Group to use the Blockchain | HolyTransaction]]></title>
             <description><![CDATA[<article><h1>Amazon partners with Digital Currency Group to use the Blockchain | HolyTransaction</h1><p>Always more companies are developing a private blockchain for their security reasons or aim at using the bitcoin blockchain for their business objectives. In the latest blogs, in fact, we talked about companies such as DARPA or who plan to use the blockchain for their private goals.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/725dde0966229b643ee8f2ced69222bcffb9804b.jpg"></article>]]></description>
@@ -67,13 +73,6 @@
             <description><![CDATA[<article><h1>The Bitcoin Future is Bright</h1><p>A review of the exciting ways that Bitcoin will change our financial transactions and how we view money in the future. What fascinates many people is not what Bitcoin is today. Instead, the future possibilities of Bitcoin are seriously validating the idea of crypto-currencies eventually coming into the mainstream, alongside fiat currencies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa6afa73bedd36215307819f5736245f0121311b.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/05/04/bitcoin-future-bright/</link>
             <guid isPermaLink="false">501e7256-ef82-4112-8031-374e51d4492b</guid>
-            <pubDate>Wed, 04 May 2016 17:41:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gift Off Noted US$290k Monthly Turnover In Bitcoin - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>Gift Off Noted US$290k Monthly Turnover In Bitcoin - Bitcoinist.net</h1><p>Bitcoin is a booming business in the United Kingdom, assuming one knows how to play their cards right. Gift Off, a company specializing in selling gift cards for Bitcoin, recorded an all-time high turnover in February of 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eee8bd0ca56048507bd9c61c2173ebc9eaf32197.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/gift-off-noted-gbp-200k-bitcoin-turnover-monthly-turnover/</link>
-            <guid isPermaLink="false">7f34249c-af9c-48a8-91d0-244db6ecec53</guid>
             <pubDate>Wed, 04 May 2016 17:41:13 GMT</pubDate>
         </item>
     </channel>
