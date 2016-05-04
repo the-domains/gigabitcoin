@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 22:55:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 22:55:49 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vitalik Buterin on His Long-Term Goals for Ethereum]]></title>
+            <description><![CDATA[<article><h1>Vitalik Buterin on His Long-Term Goals for Ethereum</h1><p>Ethereum creator Vitalik Buterin was recently interviewed on Babbage, a podcast by The Economist . Buterin shared his long-term goals for Ethereum, which is a public blockchain that allows developers to easily deploy decentralized applications. A Programming Language for Blockchains When asked what inspired him to create Ethereum, Buterin first talked about how Bitcoin originally sparked his interest in blockchain technology.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dde4170a1b24f090d0690ff929db86cb547a6831.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/vitalik-buterin-on-his-long-term-goals-for-ethereum-1462381147</link>
+            <guid isPermaLink="false">c723f690-9ba8-485d-a858-b3ad23445288</guid>
+            <pubDate>Wed, 04 May 2016 22:54:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Scenes from a Visit to a Secret Chinese Bitcoin Mine]]></title>
             <description><![CDATA[<article><h1>Scenes from a Visit to a Secret Chinese Bitcoin Mine</h1><p>BBC reporter Danny Vincent visited a bitcoin mine in China that reportedly mines up to $8 million per year. Vincent was invited to tour the mine under the condition that its location remains confidential. The reason for the secrecy is that the mine is outside the control of the Chinese government, which has not taken a pro or con position on the cryptocurrency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef94a5ac6e1add3564990cea31a90e511646eb8f.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Early Bitcoin Adopter Becomes VR Headset Creator</h1><p>Early adopters who make a substantial amount of money in the Bitcoin world are always looking for ways to increase their wealth. One teenager has launched his Indiegogo campaign to fund a new VR headset. The story of Erik Finman is not an unusual one, as he invested US$1,000 in at the age of 13, and cashed out 18 months later to a US$100,000 paycheck.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d37ceee3f788f5bacc776d69a18c11b7e10b8f59.jpg"></article>]]></description>
             <link>http://themerkle.com/early-bitcoin-adopter-becomes-vr-headset-creator/</link>
             <guid isPermaLink="false">94326a61-0046-4b2e-9e4a-02c90cd78852</guid>
-            <pubDate>Wed, 04 May 2016 22:54:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This teen made $100,000 in bitcoin and now he's crowdfunding a VR headset]]></title>
-            <description><![CDATA[<article><h1>This teen made $100,000 in bitcoin and now he's crowdfunding a VR headset</h1><p>His grandma gave him $1,000 when he was 13 years old, and he invested it in bitcoin. A year annd a half later, he cashed out, netting $100,000. At 15, he turned that into Botangle, an online tutoring service. Now that he's 17, Erik Finman is jumping into the world of virtual reality.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d53f84a93ef839cb1514e5df24d08a354e4987e.jpg"></article>]]></description>
-            <link>http://mashable.com/2016/05/04/marvel-vr-headset/</link>
-            <guid isPermaLink="false">e12b96a5-58ba-4cb4-89b6-b9e4c5de0a5b</guid>
             <pubDate>Wed, 04 May 2016 22:54:11 GMT</pubDate>
         </item>
     </channel>
