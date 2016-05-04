@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 13:37:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 13:37:51 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Credits Brings Blockchain-as-a-service To UK Public Sector]]></title>
+            <description><![CDATA[<article><h1>Credits Brings Blockchain-as-a-service To UK Public Sector</h1><p>Over the past few months, there have been some minor headlines regarding the UK government looking closely at blockchain technology. Credits has announced their strategic partnership to deliver blockchain-as-a-service to the UK public sector.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d639a7c19c4abe8855e04623c9370616aec0d32e.png"></article>]]></description>
+            <link>http://bitcoinist.net/credits-brings-blockchain-as-a-service-to-uk-public-sector/</link>
+            <guid isPermaLink="false">4c9a6ac3-74ef-497c-afa7-02fd490f0b26</guid>
+            <pubDate>Wed, 04 May 2016 13:35:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Watch; Live Trade Complete - Profit Taken!]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Watch; Live Trade Complete - Profit Taken!</h1><p>Here's what we are looking at in today's bitcoin price, with our targets and risk parameters outlined for this morning's action. Over the weekend, and as we headed in to the beginning this week, the bitcoin price looked as though it was in for some sustained weakness.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43e744cacfb1799cb9cfeec52264873013068b89.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.cryptocoinsnews.com/amazon-web-services-teams-with-dcg-on-blockchain-endeavor/</link>
             <guid isPermaLink="false">097f0f93-d4ab-4d3b-a4de-55f3c07f9ded</guid>
             <pubDate>Wed, 04 May 2016 13:35:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Not Just Bitcoin: Why Blockchain Is A Seductive Technology To Many Industries]]></title>
-            <description><![CDATA[<article><h1>Not Just Bitcoin: Why Blockchain Is A Seductive Technology To Many Industries</h1><p>If you've ever run a business, whether it's an ice cream shop or a Fortune 500 company, then you've probably kept a ledger. It's nothing fancy, just a list of transactions. It's also at the root of a transformative technology that institutions including the U.K.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c27f507252c74bc4806da567516362374ddcf971.jpg"></article>]]></description>
-            <link>http://www.npr.org/sections/alltechconsidered/2016/05/04/476597296/not-just-bitcoin-why-blockchain-is-a-seductive-technology-to-many-industries</link>
-            <guid isPermaLink="false">f79e2e08-3322-42da-bcaa-2fcadfd80e0b</guid>
-            <pubDate>Wed, 04 May 2016 13:35:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
