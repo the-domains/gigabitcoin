@@ -4,13 +4,20 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 04:07:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 04:08:05 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bitcoin News for the week of 4/18/16]]></title>
             <description><![CDATA[<article><h1>Bitcoin News for the week of 4/18/16</h1><p>Welcome to our weekly bitcoin news recap, where we cover top headlines and stories in the world of bitcoin each week. This week we share updates on exciting things happening with bitcoin in Europe, and the recent price spike which made some waves.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f6035f48c5a5fba7f23838142d54cfc214e74b9.jpg"></article>]]></description>
             <link>https://blog.blockchain.com/2016/04/24/bitcoin-news-for-the-week-of-41816/</link>
             <guid isPermaLink="false">52a8e012-8d87-4c47-b3a2-582a6d455b11</guid>
+            <pubDate>Wed, 04 May 2016 04:03:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Support Team Tips: Why your wallet recovery phrase is so important]]></title>
+            <description><![CDATA[<article><h1>Support Team Tips: Why your wallet recovery phrase is so important</h1><p>A major asset to wallet security and ownership is the ability for users to back up their funds. The process and utility behind making a backup has changed since our legacy wallet. It's also a lot easier. To refresh your understanding of how our new wallet works under the hood, be sure to check out this post.</p></article>]]></description>
+            <link>https://blog.blockchain.com/2016/04/20/support-team-tips-why-your-wallet-recovery-phrase-is-so-important/</link>
+            <guid isPermaLink="false">9ec3f49d-472e-475e-a0e7-c2e82902ed23</guid>
             <pubDate>Wed, 04 May 2016 04:03:38 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Has Craig Wright proved he's Bitcoin's Satoshi Nakamoto? - BBC News</h1><p>Scepticism has greeted a claim by Craig Wright that he is the inventor of Bitcoin. His claim has been subjected to scrutiny on social media, discussion forums and message boards. Many say the evidence has been found wanting. On 2 May, Australian entrepreneur Craig Wright publicly claimed to be the creator of the Bitcoin virtual currency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0e7d6a1eeb359b9aea628def796c04c678d6343.jpg"></article>]]></description>
             <link>http://www.bbc.com/news/technology-36191165</link>
             <guid isPermaLink="false">b0644d24-b309-41a8-a871-56214c19f8e7</guid>
-            <pubDate>Wed, 04 May 2016 04:03:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IBM Announces Security Focused Blockchain Framework - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>IBM Announces Security Focused Blockchain Framework - NEWSBTC</h1><p>IBM's new blockchain technology framework and cloud services focus on the security aspects of blockchain deployment for regulated industries, addressing any concerns regarding its integrity. IBM recently announced its new blockchain framework and cloud supporting services. The tech pioneer has been making some really good progress in the blockchain technology segment in the recent days.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ef67b28995e4cea8be288b5f37a970e3a391e7e.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/03/ibm-announces-security-focused-blockchain-framework/</link>
-            <guid isPermaLink="false">d6d4c5de-183a-45dd-a250-cf53ebb7d54f</guid>
             <pubDate>Wed, 04 May 2016 04:03:37 GMT</pubDate>
         </item>
     </channel>
