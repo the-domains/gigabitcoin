@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 13:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 13:23:22 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chinese Mining Mogul: Chinese Government Bringing Future National Digital Currency]]></title>
+            <description><![CDATA[<article><h1>Chinese Mining Mogul: Chinese Government Bringing Future National Digital Currency</h1><p>Chinese Mining Mogul: Chinese Government Bringing Future National Digital Currency China is the engine behind Bitcoin. The Chinese are generating about 80% of the world's Bitcoins, and this has been the case for a couple of years. Behind "The Great Wall" are massive corporate Bitcoin mining operations which successfully mine 50 BTC or more daily, as I reported on last year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/13d6e50cc7ab88fb2e55348257f4e6a34d52d732.jpg"></article>]]></description>
+            <link>https://bitconnect.co/bitcoin-news/145/chinese-mining-mogul-chinese-government-bringing-future-national-digital-currency/</link>
+            <guid isPermaLink="false">1ac437f8-4db1-4688-9e5b-463f4818e2c3</guid>
+            <pubDate>Thu, 05 May 2016 13:22:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin 'creator' backs out of coin move 'proof' - BBC News]]></title>
             <description><![CDATA[<article><h1>Bitcoin 'creator' backs out of coin move 'proof' - BBC News</h1><p>The entrepreneur who has claimed to be the inventor of Bitcoin has reneged on a promise to present new "proof" to support his case. Craig Wright had pledged to move some of the virtual currency from one of its early address blocks, an act many believe can only be done by the tech's creator.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f140d7641f8791ec5e6c44963465afe14b86361c.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <link>https://twitter.com/slushcz/status/727877988147146753</link>
             <guid isPermaLink="false">f71c5f78-8818-49c8-b05e-2443b77a8a77</guid>
             <pubDate>Wed, 04 May 2016 22:54:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vitalik Buterin on His Long-Term Goals for Ethereum]]></title>
-            <description><![CDATA[<article><h1>Vitalik Buterin on His Long-Term Goals for Ethereum</h1><p>Ethereum creator Vitalik Buterin was recently interviewed on Babbage, a podcast by The Economist . Buterin shared his long-term goals for Ethereum, which is a public blockchain that allows developers to easily deploy decentralized applications. A Programming Language for Blockchains When asked what inspired him to create Ethereum, Buterin first talked about how Bitcoin originally sparked his interest in blockchain technology.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dde4170a1b24f090d0690ff929db86cb547a6831.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/vitalik-buterin-on-his-long-term-goals-for-ethereum-1462381147</link>
-            <guid isPermaLink="false">c723f690-9ba8-485d-a858-b3ad23445288</guid>
-            <pubDate>Wed, 04 May 2016 22:54:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
