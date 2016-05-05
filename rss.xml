@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 13:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 13:25:13 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Crypto Show with Justus Ranvier on BIP 47 in Samourai, Hashing out Craig Wright/Satoshi]]></title>
+            <description><![CDATA[<article><h1>The Crypto Show with Justus Ranvier on BIP 47 in Samourai, Hashing out Craig Wright/Satoshi</h1><p>Justus explains Payment Codes aka BIP 47. BIP 47 has been implemented into the Alpha test version of Samourai wallet. And it works quite well. BIP 47 allows you to have a single public key that sends a different address every transaction. Then the second hour we dive into the whole Craig Wright fiasco.</p><img src="https://letstalkbitcoin.com/files/blogs/1780-feace45b450ea3eadbe4434db2aeb9620b008e648620e6055c5a57726b04bb35.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/the-crypto-show-with-justus-ranvier-on-bip-47-in-samourai-hashing-out-craig-wright-satoshi</link>
+            <guid isPermaLink="false">6b6a467a-78c5-4dd0-bfd0-517f3c633aad</guid>
+            <pubDate>Thu, 05 May 2016 13:22:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Bitcoin Use Case: Donald Trump's Wall - Genesis Mining]]></title>
             <description><![CDATA[<article><h1>A Bitcoin Use Case: Donald Trump's Wall - Genesis Mining</h1><p>Last week, presidential candidate Donald Trump revealed his plan for funding the wall that he wants to build on the border between Mexico and the southern United States. How would he generate the billions of dollars to construct it? He has a simple plan: block the flow of remittance funds from United States to Mexico.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2a34e914acc17a11eeae6fb9663ead50e4ed3ae.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Chinese Investors Can Buy DigixDAO DGD Tokens At Yunbi</h1><p>Now that the DigixDAO initiative has been getting a lot of attention as of late, various exchanges are looking to sell the DGD token on their exchange. Yunbi, a Chinese cryptocurrency exchange, is one of the first opening a DGD/CNY trading pair.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1c502eb966cf69d554be18e096f35d962999fc2.png"></article>]]></description>
             <link>http://themerkle.com/chinese-investors-can-buy-digixdao-dgd-tokens-at-yunbi/</link>
             <guid isPermaLink="false">a38cb713-aad7-4508-b65b-038d42e40363</guid>
-            <pubDate>Thu, 05 May 2016 13:22:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cash, Plastic or Bitcoin?]]></title>
-            <description><![CDATA[<article><h1>Cash, Plastic or Bitcoin?</h1><p>When he encountered the Great Khan's paper money in China around 1260, explorer Marco Polo was astonished at the ready acceptance of what we now call "fiat money," i.e. currency established by the government (from Latin "fiat" = it shall be).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5dcf8de06c62852a5392a1fa624cfc3330adb8c8.jpg"></article>]]></description>
-            <link>http://www.northcoastjournal.com/humboldt/cash-plastic-or-bitcoin/Content?oid=3732130</link>
-            <guid isPermaLink="false">0a5f4a85-fc00-485e-b5b9-6892a07b3e02</guid>
             <pubDate>Thu, 05 May 2016 13:22:40 GMT</pubDate>
         </item>
     </channel>
