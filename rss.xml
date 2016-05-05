@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 21:09:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 21:09:06 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The DAO Crowdsale Shatters Ethereum Funding Total]]></title>
+            <description><![CDATA[<article><h1>The DAO Crowdsale Shatters Ethereum Funding Total</h1><p>There is a lot of focus on the crowdsale of The DAO right now, a project which is raking in a lot of money at a very rapid pace. In fact, the amount of money collected is so high already; it raised more money than Ethereum itself did.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7dc1b47f42861928fc2cd4e25c0cf02a909fecfb.jpg"></article>]]></description>
+            <link>http://themerkle.com/the-dao-crowdsale-shatters-ethereum-funding-total/</link>
+            <guid isPermaLink="false">f7e28afc-dc6a-4096-bc80-cd39f201fe83</guid>
+            <pubDate>Thu, 05 May 2016 21:08:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Against Malaria Foundation Now Accepts Bitcoin Donations]]></title>
             <description><![CDATA[<article><h1>Against Malaria Foundation Now Accepts Bitcoin Donations</h1><p>Charitable organizations stand to gain a lot from accepting Bitcoin payments, due to its global availability and very low transaction fees. The Against Malaria Foundation is the latest organization to accept cryptocurrency payments, although it is limited to a few countries for now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d040aeb37518495ec3bdcaa209426f88c0e05716.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://coinreport.net/bitcoin-exchange-gemini-licensed-nydfs-trade-ether/</link>
             <guid isPermaLink="false">3c906625-a069-4709-a83c-3bb1cbeeef29</guid>
             <pubDate>Thu, 05 May 2016 21:07:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Winklevoss Brothers: We Own 'Material' Amount of Ether - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Winklevoss Brothers: We Own 'Material' Amount of Ether - CoinDesk</h1><p>Tyler and Cameron Winklevoss have revealed that they have personally invested in ether, the digital asset that powers the Ethereum blockchain. The announcement follows on the heels of news the New York State Department of Financial Services (NYDFS) announced it will allow the brothers to add an Ethereum trading product to their digital currency exchange, Gemini.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/acdcd44982a8895846c63846ef36a667680b0d3b.png"></article>]]></description>
-            <link>http://www.coindesk.com/winklevoss-brothers-invest-ether-leading-launch/</link>
-            <guid isPermaLink="false">e3d0797b-3026-426e-b6c6-ab43b587b1b0</guid>
-            <pubDate>Thu, 05 May 2016 21:07:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
