@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 21:09:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 21:09:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Here's the biggest bitcoin and blockchain news this week]]></title>
+            <description><![CDATA[<article><h1>Here's the biggest bitcoin and blockchain news this week</h1><p>Breaking down the blockchain Now watching Breaking down the blockchain Verizon gives mobile startups awards for creating technology that saves, improves lives Verizon gives mobile startups awards for creating technology that saves, improves lives The big bitcoin conference Consensus descended on Manhattan this week, and a number of significant companies chose it as a venue to announce news.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3264144bebd766d284863b107b369421e72bb64b.png"></article>]]></description>
+            <link>http://finance.yahoo.com/news/the-biggest-bitcoin-and-blockchain-news-announcements-at-consensus-conference-2016-chain-21-delaware-craig-wright-032242815.html</link>
+            <guid isPermaLink="false">5d6e14f5-0137-4138-85c3-540d18beb3b4</guid>
+            <pubDate>Thu, 05 May 2016 21:08:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gemini Exchange Becomes The World's First Licensed Ether Exchange]]></title>
+            <description><![CDATA[<article><h1>Gemini Exchange Becomes The World's First Licensed Ether Exchange</h1><p>Winklevoss Twin's Cryptocurrency Exchange Gemini announced today the support of Ether trading starting on Monday, May 9th at 9:30 AM EDT. The exchange announced the inclusion of two new trading pairs ETH/BTC and ETH/USD.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76fc00767e391a70ae2ca6dbea3677c2301bd274.png"></article>]]></description>
+            <link>http://themerkle.com/gemini-exchange-becomes-the-worlds-first-licensed-ether-exchange/</link>
+            <guid isPermaLink="false">9df15396-da39-4ed2-99b6-020a301f6d60</guid>
+            <pubDate>Thu, 05 May 2016 21:08:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BitPay Announces Bitcoin Debit Card]]></title>
             <description><![CDATA[<article><h1>BitPay Announces Bitcoin Debit Card</h1><p>Bitcoin merchant services provider BitPay has introduced its latest product offering, a bitcoin-funded Visa debit card. The prepaid bitcoin debit card allows users to spend their bitcoin anywhere Visa is accepted. The BitPay Card is currently available to customers anywhere in the United States. Also read: U.S.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6be1b55087fc6a7178ff96bbe028312ef4f6670c.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://themerkle.com/monero-technical-analysis-for-05052016/</link>
             <guid isPermaLink="false">2073ac4c-c1ed-4aa6-bf4c-e08f26df69b9</guid>
             <pubDate>Thu, 05 May 2016 21:08:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Coinbase Built a Secure Cloud Infrastructure to Store Bitcoin]]></title>
-            <description><![CDATA[<article><h1>How Coinbase Built a Secure Cloud Infrastructure to Store Bitcoin</h1><p>When bitcoin exchange Coinbase launched two and a half years ago, Heroku, a simple hosting platform, provided the right solution, said Brian Armstrong, Coinbase co-founder, writing in Medium. Heroku provided a more battle-tested solution than anything the founders could create on their own.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06ae4295c27f2da3161dfa65452147323dbe036d.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/coinbase-secure-cloud-bitcoin/</link>
-            <guid isPermaLink="false">92c05cb9-d439-4b93-b026-6bd25fd777ff</guid>
-            <pubDate>Thu, 05 May 2016 21:07:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Conversation with Ned Scott, CEO of Steemit]]></title>
-            <description><![CDATA[<article><h1>A Conversation with Ned Scott, CEO of Steemit</h1><p>Along with BitShares founder Dan Larimer, Ned Scott leads Steemit, a blockchain-powered startup that rewards content creators and consumers with cryptocurrency for sharing and upvoting quality content on a dedicated social media platform. The New York-based firm uses a new cryptocurrency called Steem to reward users who post content such as images, articles and commentary, as well as users who source and upvote popular content.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53b009ef1a7989f9e12b212dbabc68300a752890.jpg"></article>]]></description>
-            <link>https://coinreport.net/conversation-ned-scott-ceo-steemit/</link>
-            <guid isPermaLink="false">0a00527a-b89e-432a-baf2-c5f768790df9</guid>
-            <pubDate>Thu, 05 May 2016 21:07:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
