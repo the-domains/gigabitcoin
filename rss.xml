@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 21:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 21:10:42 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to use Facebook Messenger to create warranties on the Blockchain | HolyTransaction]]></title>
+            <description><![CDATA[<article><h1>How to use Facebook Messenger to create warranties on the Blockchain | HolyTransaction</h1><p>The British advisory companyDeloitte recently used the new Facebook Messenger API to create a program that store warranties on the Bitcoin blockchain and allows clients to buy items insurances even after their purchase. Of course this is only an early version of the complete Deloitte project, which is capable of working without any applications to be downloaded by the user.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38519d77dc28e55e013b4c3b2aa1fa0c8345adee.png"></article>]]></description>
+            <link>http://blog.holytransaction.com/2016/05/how-to-use-facebook-messenger-to-create.html</link>
+            <guid isPermaLink="false">39747df8-857e-49a3-97b2-4386fb7bd566</guid>
+            <pubDate>Thu, 05 May 2016 21:08:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The story of the man who claimed to have created BitCoin just got a lot weirder]]></title>
             <description><![CDATA[<article><h1>The story of the man who claimed to have created BitCoin just got a lot weirder</h1><p>The man who claimed to be the BitCoin creator Satoshi Nakamoto has apparently gone back on his weird in a bizarre post on his website.&#13; &#13; Dr Craig Wright shocked the world when he said that he was the mysterious person behind the online currency. But a new post appears to suggest that he isn't.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab19542883dcf83bbdeeed15ab31698dd5593869.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://themerkle.com/gemini-exchange-becomes-the-worlds-first-licensed-ether-exchange/</link>
             <guid isPermaLink="false">9df15396-da39-4ed2-99b6-020a301f6d60</guid>
             <pubDate>Thu, 05 May 2016 21:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BitPay Announces Bitcoin Debit Card]]></title>
-            <description><![CDATA[<article><h1>BitPay Announces Bitcoin Debit Card</h1><p>Bitcoin merchant services provider BitPay has introduced its latest product offering, a bitcoin-funded Visa debit card. The prepaid bitcoin debit card allows users to spend their bitcoin anywhere Visa is accepted. The BitPay Card is currently available to customers anywhere in the United States. Also read: U.S.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6be1b55087fc6a7178ff96bbe028312ef4f6670c.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/bitpay-announces-bitcoin-debit-card/</link>
-            <guid isPermaLink="false">fff3af83-815d-43ba-a3a8-3f7def346169</guid>
-            <pubDate>Thu, 05 May 2016 21:08:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
