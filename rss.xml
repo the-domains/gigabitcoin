@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 21:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 21:12:10 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Craig Wright Fails to Prove He is Satoshi Nakamoto]]></title>
+            <description><![CDATA[<article><h1>Craig Wright Fails to Prove He is Satoshi Nakamoto</h1><p>Dr. Wright today published an apology note on his blog, stating that he is not strong enough to face the negativities that has surrounded him since his infamous proclamation. It appears that Dr. Craig Wright wanted to be Satoshi Nakamoto only for a few days.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82eb0e7e71fd3e1cec036cd577d621e19898cd0c.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/05/craig-wright-fails-prove-satoshi-nakamoto-takes-blog/</link>
+            <guid isPermaLink="false">9da83867-7707-4f56-8375-7cf222f1c96a</guid>
+            <pubDate>Thu, 05 May 2016 21:08:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Don't Like Advertising? One 'Brave' Startup Has The Answer And That Answer Is Bitcoin]]></title>
             <description><![CDATA[<article><h1>Don't Like Advertising? One 'Brave' Startup Has The Answer And That Answer Is Bitcoin</h1><p>There is a serious problem brewing on the internet. Everyone expects content to be free, content providers accept this, trying to make their way with a mix of selling advertising and profiling their customers. Many users turn to tools like Adblock to shut out unwanted interruptions, they use Do Not [...]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a980bed13e1677e94aa108fe45c5594b3860acfb.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Microsoft's Azure Blockchain Service Adds 9 New Digital Currencies</h1><p>Microsoft Azure has announced the inclusion of several new digital currencies to its Blockchain-as-a-Service (BaaS) developer environment: Jambucks, Bitswift, Storj, Vcash, Shadow, Blocknet, Blitz, Gamecredits and Okcash. Marley Gray, Director of BizDev & Strategy for Cloud and Enterprise at Microsoft, also announced the appointment of two new bloggers to Azure BaaS.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ede80456c031e1df2d3e0699bdc8a1aed10eb434.png"></article>]]></description>
             <link>http://themerkle.com/microsofts-azure-blockchain-service-adds-9-new-digital-currencies/</link>
             <guid isPermaLink="false">9a7150f2-aea7-485a-a9d0-5053ae02acdf</guid>
-            <pubDate>Thu, 05 May 2016 21:08:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exploring the Centralization Risks of Bitcoin's Lightning Network]]></title>
-            <description><![CDATA[<article><h1>Exploring the Centralization Risks of Bitcoin's Lightning Network</h1><p>For the vast majority of Bitcoin Core contributors, the Lightning Network is viewed as the best option for scaling Bitcoin to many millions of new users. But the system has not yet been implemented on the Bitcoin blockchain, which has left many to wonder whether it is wise to put so much hope and reliance behind an untested solution.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6cbeddc3ce8d6aad388f67a3660f6d3e37e65858.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/exploring-the-centralization-risks-of-bitcoin-s-lightning-network-1462460852</link>
-            <guid isPermaLink="false">17c91f5c-1442-47b1-8089-4d7d1d6d0b60</guid>
             <pubDate>Thu, 05 May 2016 21:08:32 GMT</pubDate>
         </item>
     </channel>
