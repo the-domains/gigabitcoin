@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 14:47:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 14:47:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Craig Wright Signed With Outside Organisation PR Agency]]></title>
+            <description><![CDATA[<article><h1>Craig Wright Signed With Outside Organisation PR Agency</h1><p>More information is surfacing regarding the major announcements Craig Wright promised the Bitcoin world, even though he will never deliver on them after throwing in the towel. It is worth noting, however, he hired a major PR agency to ensure his message got out to the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8af84da18043655d23713e0ab4f5a74a045f9d1.jpg"></article>]]></description>
+            <link>http://themerkle.com/craig-wright-signed-with-outside-organisation-pr-agency/</link>
+            <guid isPermaLink="false">0f1131f6-5023-40d5-9dad-c4ee09996e16</guid>
+            <pubDate>Thu, 05 May 2016 14:46:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin for Gold Bugs]]></title>
             <description><![CDATA[<article><h1>Bitcoin for Gold Bugs</h1><p>Zach Doty and Gavin Knight are joined by Joshua Scigala from Vaultoro to discuss their bitcoin/gold trading platform.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b7fe37783b4408589efc206ec591f357061a625.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The Crypto Show with Justus Ranvier on BIP 47 in Samourai, Hashing out Craig Wright/Satoshi</h1><p>Justus explains Payment Codes aka BIP 47. BIP 47 has been implemented into the Alpha test version of Samourai wallet. And it works quite well. BIP 47 allows you to have a single public key that sends a different address every transaction. Then the second hour we dive into the whole Craig Wright fiasco.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f355143deff2d9177bf9a3e69ffcf6955619588c.jpg"></article>]]></description>
             <link>https://letstalkbitcoin.com/blog/post/the-crypto-show-with-justus-ranvier-on-bip-47-in-samourai-hashing-out-craig-wright-satoshi</link>
             <guid isPermaLink="false">6b6a467a-78c5-4dd0-bfd0-517f3c633aad</guid>
-            <pubDate>Thu, 05 May 2016 13:22:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Bitcoin Use Case: Donald Trump's Wall - Genesis Mining]]></title>
-            <description><![CDATA[<article><h1>A Bitcoin Use Case: Donald Trump's Wall - Genesis Mining</h1><p>Last week, presidential candidate Donald Trump revealed his plan for funding the wall that he wants to build on the border between Mexico and the southern United States. How would he generate the billions of dollars to construct it? He has a simple plan: block the flow of remittance funds from United States to Mexico.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2a34e914acc17a11eeae6fb9663ead50e4ed3ae.jpg"></article>]]></description>
-            <link>http://blog.genesis-mining.com/bitcoin-use-case-donald-trumps-wall</link>
-            <guid isPermaLink="false">1a371586-b1dc-47b5-b6e0-0aa554da9f73</guid>
             <pubDate>Thu, 05 May 2016 13:22:41 GMT</pubDate>
         </item>
     </channel>
