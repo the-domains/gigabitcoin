@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 21:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 21:11:46 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitstamp: The First Licensed Bitcoin Exchange of Europe]]></title>
+            <description><![CDATA[<article><h1>Bitstamp: The First Licensed Bitcoin Exchange of Europe</h1><p>Bitstamp has received a license from Luxembourg to operate as a payment institution, making it Europe's first licensed bitcoin exchange. Could this extra legitimacy open up bitcoin as an asset class to an untapped customer base? In January 2015, Bitstamp suffered a hack which resulted in the loss of ~19,000 BTC (valued at around $5 Mn).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c2c9e3eb19a29b939f4fe09ed053dbe258ef4acb.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/bitstamp-the-first-licensed-bitcoin-exchange-of-europe</link>
+            <guid isPermaLink="false">e9c9350a-07cd-45d3-9c94-808c281050c9</guid>
+            <pubDate>Thu, 05 May 2016 21:08:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New Sega-Inspired Gaming App Offers Bitcoin Rewards]]></title>
             <description><![CDATA[<article><h1>New Sega-Inspired Gaming App Offers Bitcoin Rewards</h1><p>"Our team wanted to design an extremely simple-to-use, and kid-friendly game in order to introduce everyone to the Bitcoin currency to boost its adoption." A new gaming application inspired from Sega's Chu-Chu Rocket is using its advertising earnings to distribute Bitcoin rewards among players.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4278514705545efafdcb22d6b4cde77a142ec745.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://fortune.com/2016/05/05/bitcoin-ether-currency-winklevoss/</link>
             <guid isPermaLink="false">f7a85c16-1c6e-4c14-a824-c7ac30ff2d58</guid>
             <pubDate>Thu, 05 May 2016 21:08:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Global Expansion is Next Act for Bitcoin Cash App Abra - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Global Expansion is Next Act for Bitcoin Cash App Abra - CoinDesk</h1><p>Bill Barhydt talks fast, often in big, sweeping terms that pass with the frequency of mile markers. "We are basically preparing Abra to go global as quickly as possible," he says in interview.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0458cbb993c574a1af097abcf4d1ca93feeddacc.png"></article>]]></description>
-            <link>http://www.coindesk.com/global-expansion-bitcion-cash-abra/</link>
-            <guid isPermaLink="false">4da42303-cbd1-4bb3-b455-86ea683391b8</guid>
-            <pubDate>Thu, 05 May 2016 21:08:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
