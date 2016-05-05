@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 21:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 21:09:02 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Monero Technical Analysis for 05/05/2016 - Pivot Level Overview]]></title>
+            <description><![CDATA[<article><h1>Monero Technical Analysis for 05/05/2016 - Pivot Level Overview</h1><p>The importance of the 0.00225 pivot was outlined in my last Monero technical article - the one on the 22nd of April - and the market is continuing to respect this price level. Since the April 22, the 0.00225 area has been used as resistance about five times.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87de5f6abad720138758e8cf89675aa82c53fe9a.png"></article>]]></description>
+            <link>http://themerkle.com/monero-technical-analysis-for-05052016/</link>
+            <guid isPermaLink="false">2073ac4c-c1ed-4aa6-bf4c-e08f26df69b9</guid>
+            <pubDate>Thu, 05 May 2016 21:08:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Coinbase Built a Secure Cloud Infrastructure to Store Bitcoin]]></title>
+            <description><![CDATA[<article><h1>How Coinbase Built a Secure Cloud Infrastructure to Store Bitcoin</h1><p>When bitcoin exchange Coinbase launched two and a half years ago, Heroku, a simple hosting platform, provided the right solution, said Brian Armstrong, Coinbase co-founder, writing in Medium. Heroku provided a more battle-tested solution than anything the founders could create on their own.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06ae4295c27f2da3161dfa65452147323dbe036d.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/coinbase-secure-cloud-bitcoin/</link>
+            <guid isPermaLink="false">92c05cb9-d439-4b93-b026-6bd25fd777ff</guid>
+            <pubDate>Thu, 05 May 2016 21:07:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Conversation with Ned Scott, CEO of Steemit]]></title>
+            <description><![CDATA[<article><h1>A Conversation with Ned Scott, CEO of Steemit</h1><p>Along with BitShares founder Dan Larimer, Ned Scott leads Steemit, a blockchain-powered startup that rewards content creators and consumers with cryptocurrency for sharing and upvoting quality content on a dedicated social media platform. The New York-based firm uses a new cryptocurrency called Steem to reward users who post content such as images, articles and commentary, as well as users who source and upvote popular content.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53b009ef1a7989f9e12b212dbabc68300a752890.jpg"></article>]]></description>
+            <link>https://coinreport.net/conversation-ned-scott-ceo-steemit/</link>
+            <guid isPermaLink="false">0a00527a-b89e-432a-baf2-c5f768790df9</guid>
+            <pubDate>Thu, 05 May 2016 21:07:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Craig Wright won't provide proof that he created bitcoin, exits public world]]></title>
             <description><![CDATA[<article><h1>Craig Wright won't provide proof that he created bitcoin, exits public world</h1><p>Australian entrepreneur Craig Wright will not provide evidence that he is bitcoin creator Satoshi Nakamoto, and appears to have left the public spotlight. Earlier this week, Wright identified himse...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4927a377605a758bd466bb2b6f5947923ad5a960.png"></article>]]></description>
@@ -53,27 +74,6 @@
             <description><![CDATA[<article><h1>Craig Wright Says Sorry and Goodbye</h1><p>The week began with the dramatic, much-publicized claim by Craig Wright who proclaimed that he was Satoshi Nakamoto, bitcoin's mysterious and pseudonymous inventor. Four days later, Craig Wright's final act under the spotlight sees a muted exit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4793b32e2c981d56259175cdd8084336f471818.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/craig-wright-says-sorry-goodbye/</link>
             <guid isPermaLink="false">30918047-ac5d-4c6f-8ffa-84b1b3910a1d</guid>
-            <pubDate>Thu, 05 May 2016 14:46:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Craig Wright Won't Provide More Proof He Created Bitcoin - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Craig Wright Won't Provide More Proof He Created Bitcoin - CoinDesk</h1><p>In a stunning reversal, Craig Wright - the Australian academic who on Monday sparked a media frenzy with his efforts to prove that he is the pseudonymous creator of bitcoin, Satoshi Nakamoto - now says he will not provide any more proof as previously indicated.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56d9728208d02133ee5cdd2ee780d815861fd334.png"></article>]]></description>
-            <link>http://www.coindesk.com/craig-wright-wont-provide-satoshi-nakamoto-proof/</link>
-            <guid isPermaLink="false">f0f8ba70-e00a-4f57-8e8b-89097b7a9d27</guid>
-            <pubDate>Thu, 05 May 2016 14:46:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Craig Wright U-turns on pledge to provide evidence he invented bitcoin]]></title>
-            <description><![CDATA[<article><h1>Craig Wright U-turns on pledge to provide evidence he invented bitcoin</h1><p>Craig Wright, the Australian computer scientist who claimed to be Satoshi Nakamoto, the creator of bitcoin, has backtracked on a pledge to provide proof of his earlier claims. Despite promising on Tuesday that he would be offering "extraordinary evidence" to verify his claim that he is really Satoshi Nakamoto, Wright wiped his blog on Thursday, replacing it only with a message headlined: "I'm Sorry."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06cde384aa6502c2a94c79ca52c1fabc10296ae2.jpg"></article>]]></description>
-            <link>https://www.theguardian.com/technology/2016/may/05/craig-wright-u-turn-on-pledge-to-provide-evidence-he-invented-bitcoin</link>
-            <guid isPermaLink="false">b3e529bb-bc48-4d46-a633-518b6336a4d8</guid>
-            <pubDate>Thu, 05 May 2016 14:46:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Financial Blockchain Group PTDL Sees New Members]]></title>
-            <description><![CDATA[<article><h1>Financial Blockchain Group PTDL Sees New Members</h1><p>T he blockchain-centric Post-Trade Distributed Ledger (PTDL) Group has announced new members joining its initiative which now sees 37 financial institutions and market infrastructure companies involved in the collective. The PTLD Group, a consortium launched last year that consists of clearing and settlement houses, exchanges and banks among financial institutions coming together is an initiative with a focus on blockchain solutions in the post-trade industry.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98ec40df6d4aa04fa3150bd8f972a59150ceef80.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/financial-blockchain-group-ptdl-sees-new-members/</link>
-            <guid isPermaLink="false">005b3c38-7b29-4ee5-922a-8a5b02191003</guid>
             <pubDate>Thu, 05 May 2016 14:46:32 GMT</pubDate>
         </item>
     </channel>
