@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 13:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 13:23:29 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BitPay extends exchange services with VISA debit card]]></title>
+            <description><![CDATA[<article><h1>BitPay extends exchange services with VISA debit card</h1><p>Founded in 2011, while Bitcoin was still in its infancy, BitPay was created with the intention of making it easy for businesses to accept bitcoin payments. NewEgg, Valve, and Microsoft, to name a few, use the service to extend the payment options displayed on their sites.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7e7855389bc64d6609a781f5c7d2a0bdd393048.jpg"></article>]]></description>
+            <link>http://bravenewcoin.com/news/bitpay-extends-exchange-services-with-visa-debit-card/</link>
+            <guid isPermaLink="false">286bbafb-64e4-415f-8d5c-e5687a9e4a6d</guid>
+            <pubDate>Thu, 05 May 2016 13:22:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Interview With BitLox Bitcoin Wallet Creator Dana Coe]]></title>
+            <description><![CDATA[<article><h1>Interview With BitLox Bitcoin Wallet Creator Dana Coe</h1><p>BitLox is a new entrant into the physical Bitcoin wallet market. BitLox Creator Dana Coe sent us a wallet to test and review, and also answered some questions about BitLox, its development, and more. One of the first things you will notice about BitLox is it uses an e-ink screen which both saves power and makes reading it easier in many different lighting situations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92ec601256ee300a8f900267a96f1a83b49bd4a8.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/interview-bitlox-dana-coe/</link>
+            <guid isPermaLink="false">aed5ff90-9591-421a-aab8-f6bac925c140</guid>
+            <pubDate>Thu, 05 May 2016 13:22:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Markets for the Future]]></title>
             <description><![CDATA[<article><h1>Markets for the Future</h1><p>Policy decisions are at the core of all governance models. Organizations must make decisions on which policies to implement in order to maximize future welfare. For a government, this could mean deciding budget allocation. Should a portion of the budget be allocated for infrastructure projects or for education?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a870fe0bfc8e2fb59bdf98b7766d2667bb9157ad.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin 'creator' backs out of coin move 'proof' - BBC News</h1><p>The entrepreneur who has claimed to be the inventor of Bitcoin has reneged on a promise to present new "proof" to support his case. Craig Wright had pledged to move some of the virtual currency from one of its early address blocks, an act many believe can only be done by the tech's creator.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/399764b329ecb0cff40cf1d064fa9d72d117853e.jpg"></article>]]></description>
             <link>http://www.bbc.com/news/technology-36213580</link>
             <guid isPermaLink="false">d44ca77f-5787-4ac1-9f7d-d5a3be174edf</guid>
-            <pubDate>Thu, 05 May 2016 13:22:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Run Your Own Bitcoin Computer With The 21 Inc Software Package]]></title>
-            <description><![CDATA[<article><h1>Run Your Own Bitcoin Computer With The 21 Inc Software Package</h1><p>21 Inc wants to turn every single computer in the world into a Bitcoin Computer. This is quite an ambitious plan and a new announcement from 21 software sheds some light on how the company wants to achieve this goal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c0b5c69ecd78ed4ec1dca6f075025a8a7c44036.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/run-bitcoin-computer-21-inc/</link>
-            <guid isPermaLink="false">42b5b6b9-66f0-4da2-bbf2-7899e45be341</guid>
-            <pubDate>Thu, 05 May 2016 13:22:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Craig Wright Exits The Bitcoin Stage With Weird Blog Post]]></title>
-            <description><![CDATA[<article><h1>Craig Wright Exits The Bitcoin Stage With Weird Blog Post</h1><p>There has been a lot of focus on Craig Wright claiming to be Satoshi Nakamoto as of late, and many people have inspected the blog post Wright made to legitimize these claims. But all of a sudden, he has shut down his official blog, saying he is "not strong enough for this".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00b6ee7c6993d37a393caef748a698f56ccec653.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/craig-wright-exits-the-bitcoin-stage-with-weird-blog-post/</link>
-            <guid isPermaLink="false">25ececc3-d6cb-44d7-bc03-3c9d51fe0a6f</guid>
             <pubDate>Thu, 05 May 2016 13:22:38 GMT</pubDate>
         </item>
     </channel>
