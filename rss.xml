@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 01:52:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 01:52:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I Am Satoshi: Will Dr. Wright Cause Panic in the Bitcoin Markets?]]></title>
+            <description><![CDATA[<article><h1>I Am Satoshi: Will Dr. Wright Cause Panic in the Bitcoin Markets?</h1><p>Will Craig Wight´s "I am Satoshi" claim cause people to panic sell their bitcoins? If he is Satoshi, then he controls a large supply of the total coins in existence and could sell them. The last two times in recent bitcoin history when there was a major news event, the price tanked and then recovered.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7cf4423b01953e9f9ab86a0a44d3e53e49fbb584.png"></article>]]></description>
+            <link>http://bitcoinist.net/satoshi-wright-panic-bitcoin/</link>
+            <guid isPermaLink="false">2dfe753c-23df-46bd-a88a-4fd5afcf4e8f</guid>
+            <pubDate>Thu, 05 May 2016 01:51:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to steal 54 millions of dollar from the australian government * /r/Bitcoin]]></title>
             <description><![CDATA[<article><h1>How to steal 54 millions of dollar from the australian government * /r/Bitcoin</h1><p>I have bumped into this reddit post that seems the most likely explanation of the behavior of Craig Wright. I took the time to reformulate it, and point to links adding evidences to the case, so you can see for yourself if it is a conspiracy or the simpler explanation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27bf770b4b72ac12b4a43efc1da4c5c636657738.jpg"></article>]]></description>
@@ -66,13 +73,6 @@
             <description><![CDATA[<article><h1>Ultra Web Hosting accepting bitcoin for payment</h1><p>Ultra Web Hosting, a Seattle-based web hosting service, announced last week that it has added bitcoin to its available payment options. "Over the years Bitcoin has proven its validity in the market...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a0164e9cc98bb2dae0ca606eecc8886baf947fd.png"></article>]]></description>
             <link>https://coinreport.net/ultra-web-hosting-accepting-bitcoin-payment/</link>
             <guid isPermaLink="false">d1a0d461-196b-4b89-ac80-987fb59f6ae5</guid>
-            <pubDate>Wed, 04 May 2016 22:54:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We looked inside a secret Chinese bitcoin mine]]></title>
-            <description><![CDATA[<article><h1>We looked inside a secret Chinese bitcoin mine</h1><p>In China, savvy entrepreneurs are making millions a year by mining bitcoin. Danny Vincent visited one of the world's biggest facilities of its kind.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/698e6a1a5c536bbc48133cf6fe69406cd864664b.jpg"></article>]]></description>
-            <link>http://www.bbc.com/future/story/20160504-we-looked-inside-a-secret-chinese-bitcoin-mine</link>
-            <guid isPermaLink="false">e7c68b1b-8711-4eaf-96f5-2bc82355d05c</guid>
             <pubDate>Wed, 04 May 2016 22:54:11 GMT</pubDate>
         </item>
     </channel>
