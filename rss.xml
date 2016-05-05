@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 21:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 21:11:35 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Supposed Bitcoin founder says 'goodbye' after presenting fake evidence]]></title>
+            <description><![CDATA[<article><h1>Supposed Bitcoin founder says 'goodbye' after presenting fake evidence</h1><p>Craig Steven Wright, the man claiming to be mysterious Bitcoin founder Satoshi Nakamoto, is abruptly withdrawing from public life. Wright posted today that he would offer no more evidence to prove his identity, just days after he publicly claimed the Satoshi mantle in a series of coordinated articles.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55b95ad5ae717dcc8a123e2e979d629fde17bfcd.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/5/5/11595904/bitcoin-satoshi-nakamoto-identity-craig-steven-wright</link>
+            <guid isPermaLink="false">9610f5ed-aecc-40c4-bde0-f07f1a79f628</guid>
+            <pubDate>Thu, 05 May 2016 21:08:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[QIWI Contemplates Creating Russian R3 CEV Counterpart]]></title>
             <description><![CDATA[<article><h1>QIWI Contemplates Creating Russian R3 CEV Counterpart</h1><p>Russia is not warming up to Bitcoin just yet, although the Russian Central bank wants to start experimenting with blockchain technology. During a recent conference, it became apparent a Russian R3CEV may be formed by QIWI to study and develop distributed ledgers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9da1724c06ef1f2827dc99640f80018aa062a3ab.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Australian Regulators to Bring Bitcoin Under AML Laws</h1><p>However, it seems only normal governments around the world want to make sure Bitcoin is part of their AML regulation. Moreover, this decision indirectly gives cryptocurrency the label of "money" in Australia. Exciting changes are coming to Bitcoin in Australia, as the federal government will change their regulatory stance on cryptocurrency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/942a605bb8f6366f055e6a97f08c57788e06e367.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/05/05/australian-regulators-bring-bitcoin-aml-laws/</link>
             <guid isPermaLink="false">9926eddd-7fb3-4352-903b-acaa3e421981</guid>
-            <pubDate>Thu, 05 May 2016 21:08:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to use Facebook Messenger to create warranties on the Blockchain | HolyTransaction]]></title>
-            <description><![CDATA[<article><h1>How to use Facebook Messenger to create warranties on the Blockchain | HolyTransaction</h1><p>The British advisory companyDeloitte recently used the new Facebook Messenger API to create a program that store warranties on the Bitcoin blockchain and allows clients to buy items insurances even after their purchase. Of course this is only an early version of the complete Deloitte project, which is capable of working without any applications to be downloaded by the user.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38519d77dc28e55e013b4c3b2aa1fa0c8345adee.png"></article>]]></description>
-            <link>http://blog.holytransaction.com/2016/05/how-to-use-facebook-messenger-to-create.html</link>
-            <guid isPermaLink="false">39747df8-857e-49a3-97b2-4386fb7bd566</guid>
             <pubDate>Thu, 05 May 2016 21:08:30 GMT</pubDate>
         </item>
     </channel>
