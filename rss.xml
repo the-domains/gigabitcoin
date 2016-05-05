@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 21:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 21:12:01 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Don't Like Advertising? One 'Brave' Startup Has The Answer And That Answer Is Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Don't Like Advertising? One 'Brave' Startup Has The Answer And That Answer Is Bitcoin</h1><p>There is a serious problem brewing on the internet. Everyone expects content to be free, content providers accept this, trying to make their way with a mix of selling advertising and profiling their customers. Many users turn to tools like Adblock to shut out unwanted interruptions, they use Do Not [...]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a980bed13e1677e94aa108fe45c5594b3860acfb.png"></article>]]></description>
+            <link>http://www.forbes.com/sites/jonathanchester/2016/05/05/dont-like-advertising-one-brave-startup-has-the-answer-and-that-answer-is-bitcoin/</link>
+            <guid isPermaLink="false">bafbba48-627e-461b-88fa-86b15dafc54e</guid>
+            <pubDate>Thu, 05 May 2016 21:08:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BNP Paribas is Working With This Blockchain Startup to Open Source Law - CoinDesk]]></title>
             <description><![CDATA[<article><h1>BNP Paribas is Working With This Blockchain Startup to Open Source Law - CoinDesk</h1><p>The complex and fragmented legal arena could use some standardization, at least according to 35-year veteran lawyer, Jim Hazard, the founder of blockchain smart contracts startup, CommonAccord. CommonAccord, which was recently selected by BNP Paribas' new FinTech accelerator, L'Atelier, is developing global text codes for transferring legal documents via distributed ledgers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55499beaf28c0a60116f25bf1303e4cbecad2c03.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://bitcoinmagazine.com/articles/exploring-the-centralization-risks-of-bitcoin-s-lightning-network-1462460852</link>
             <guid isPermaLink="false">17c91f5c-1442-47b1-8089-4d7d1d6d0b60</guid>
             <pubDate>Thu, 05 May 2016 21:08:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uphold Launches Litecoin And iOS App]]></title>
-            <description><![CDATA[<article><h1>Uphold Launches Litecoin And iOS App</h1><p>The financial service provider, Uphold, has launched its long-awaited iOS app and adding Litecoin to its list of supported currencies, precious metals, and cryptocurrencies, bringing its total number to 29 currencies, 4 commodities and 3 cryptocurrencies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/edd092f28a9fb8fa147009b6248051d38bf557b5.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/uphold-launches-litecoin-and-ios-app</link>
-            <guid isPermaLink="false">40e27c92-8814-40d8-9a18-25ce89fa6565</guid>
-            <pubDate>Thu, 05 May 2016 21:08:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
