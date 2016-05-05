@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 21:08:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 21:08:57 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[A Conversation with Ned Scott, CEO of Steemit]]></title>
-            <description><![CDATA[<article><h1>A Conversation with Ned Scott, CEO of Steemit</h1><p>Along with BitShares founder Dan Larimer, Ned Scott leads Steemit, a blockchain-powered startup that rewards content creators and consumers with cryptocurrency for sharing and upvoting quality content on a dedicated social media platform. The New York-based firm uses a new cryptocurrency called Steem to reward users who post content such as images, articles and commentary, as well as users who source and upvote popular content.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53b009ef1a7989f9e12b212dbabc68300a752890.jpg"></article>]]></description>
-            <link>https://coinreport.net/conversation-ned-scott-ceo-steemit/</link>
-            <guid isPermaLink="false">0a00527a-b89e-432a-baf2-c5f768790df9</guid>
-            <pubDate>Thu, 05 May 2016 21:07:58 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Craig Wright won't provide proof that he created bitcoin, exits public world]]></title>
             <description><![CDATA[<article><h1>Craig Wright won't provide proof that he created bitcoin, exits public world</h1><p>Australian entrepreneur Craig Wright will not provide evidence that he is bitcoin creator Satoshi Nakamoto, and appears to have left the public spotlight. Earlier this week, Wright identified himse...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4927a377605a758bd466bb2b6f5947923ad5a960.png"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Craig Wright U-turns on pledge to provide evidence he invented bitcoin</h1><p>Craig Wright, the Australian computer scientist who claimed to be Satoshi Nakamoto, the creator of bitcoin, has backtracked on a pledge to provide proof of his earlier claims. Despite promising on Tuesday that he would be offering "extraordinary evidence" to verify his claim that he is really Satoshi Nakamoto, Wright wiped his blog on Thursday, replacing it only with a message headlined: "I'm Sorry."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06cde384aa6502c2a94c79ca52c1fabc10296ae2.jpg"></article>]]></description>
             <link>https://www.theguardian.com/technology/2016/may/05/craig-wright-u-turn-on-pledge-to-provide-evidence-he-invented-bitcoin</link>
             <guid isPermaLink="false">b3e529bb-bc48-4d46-a633-518b6336a4d8</guid>
+            <pubDate>Thu, 05 May 2016 14:46:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Financial Blockchain Group PTDL Sees New Members]]></title>
+            <description><![CDATA[<article><h1>Financial Blockchain Group PTDL Sees New Members</h1><p>T he blockchain-centric Post-Trade Distributed Ledger (PTDL) Group has announced new members joining its initiative which now sees 37 financial institutions and market infrastructure companies involved in the collective. The PTLD Group, a consortium launched last year that consists of clearing and settlement houses, exchanges and banks among financial institutions coming together is an initiative with a focus on blockchain solutions in the post-trade industry.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98ec40df6d4aa04fa3150bd8f972a59150ceef80.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/financial-blockchain-group-ptdl-sees-new-members/</link>
+            <guid isPermaLink="false">005b3c38-7b29-4ee5-922a-8a5b02191003</guid>
             <pubDate>Thu, 05 May 2016 14:46:32 GMT</pubDate>
         </item>
     </channel>
