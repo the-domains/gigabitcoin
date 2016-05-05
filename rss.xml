@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 21:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 21:11:03 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Exploring the Centralization Risks of Bitcoin's Lightning Network]]></title>
-            <description><![CDATA[<article><h1>Exploring the Centralization Risks of Bitcoin's Lightning Network</h1><p>For the vast majority of Bitcoin Core contributors, the Lightning Network is viewed as the best option for scaling Bitcoin to many millions of new users. But the system has not yet been implemented on the Bitcoin blockchain, which has left many to wonder whether it is wise to put so much hope and reliance behind an untested solution.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6cbeddc3ce8d6aad388f67a3660f6d3e37e65858.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/exploring-the-centralization-risks-of-bitcoin-s-lightning-network-1462460852</link>
-            <guid isPermaLink="false">17c91f5c-1442-47b1-8089-4d7d1d6d0b60</guid>
-            <pubDate>Thu, 05 May 2016 21:08:32 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Uphold Launches Litecoin And iOS App]]></title>
             <description><![CDATA[<article><h1>Uphold Launches Litecoin And iOS App</h1><p>The financial service provider, Uphold, has launched its long-awaited iOS app and adding Litecoin to its list of supported currencies, precious metals, and cryptocurrencies, bringing its total number to 29 currencies, 4 commodities and 3 cryptocurrencies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/edd092f28a9fb8fa147009b6248051d38bf557b5.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://cointelegraph.com/news/auroracoin-foundation-debuts-icelands-first-cryptocurrency-exchange</link>
             <guid isPermaLink="false">b7492f80-a1a3-40be-b233-c44a6fef4888</guid>
             <pubDate>Thu, 05 May 2016 21:08:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Winklevoss Bitcoin Exchange Gemini to Launch Ether Trading - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Winklevoss Bitcoin Exchange Gemini to Launch Ether Trading - CoinDesk</h1><p>Gemini, the bitcoin currency exchange operated by investors Cameron and Tyler Winkelvoss, has received approval from the state of New York to offer trading for ether, the native token of the Ethereum network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd43967c52f440725b23b7cee8660ca3ed120f55.png"></article>]]></description>
+            <link>http://www.coindesk.com/winklevoss-bitcoin-gemini-launch-ether-trading/</link>
+            <guid isPermaLink="false">528d2df8-4233-47a1-a66b-a8f9ff5d195e</guid>
+            <pubDate>Thu, 05 May 2016 21:08:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
