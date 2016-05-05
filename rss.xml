@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 13:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 13:23:33 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Konrad S. Graf: The Bitcoin Block Size Political Economy]]></title>
+            <description><![CDATA[<article><h1>Konrad S. Graf: The Bitcoin Block Size Political Economy</h1><p>Bitcoin.com got the chance to sit down with respected Bitcoin thinker Konrad S. Graf and talk about the ongoing Bitcoin block size controversy. By applying the theories of political economy to the issue, Graf believes that the 1 MB block size limit is akin to a government mandated output ceiling.</p><img src="https://news.bitcoin.com/wp-content/uploads/2016/05/Konrad-Graf-Block-Size-Interview-Cover.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/konrad-graf-bitcoin-block-size-economy/</link>
+            <guid isPermaLink="false">47a9be03-2ecd-4cdf-8ab2-ec9f792a8568</guid>
+            <pubDate>Thu, 05 May 2016 13:22:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BitPay extends exchange services with VISA debit card]]></title>
             <description><![CDATA[<article><h1>BitPay extends exchange services with VISA debit card</h1><p>Founded in 2011, while Bitcoin was still in its infancy, BitPay was created with the intention of making it easy for businesses to accept bitcoin payments. NewEgg, Valve, and Microsoft, to name a few, use the service to extend the payment options displayed on their sites.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7e7855389bc64d6609a781f5c7d2a0bdd393048.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.bbc.co.uk/news/technology-36213580</link>
             <guid isPermaLink="false">f6c59e1d-3953-45f0-b946-16ede665857b</guid>
             <pubDate>Thu, 05 May 2016 13:22:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin 'creator' backs out of coin move 'proof' - BBC News]]></title>
-            <description><![CDATA[<article><h1>Bitcoin 'creator' backs out of coin move 'proof' - BBC News</h1><p>The entrepreneur who has claimed to be the inventor of Bitcoin has reneged on a promise to present new "proof" to support his case. Craig Wright had pledged to move some of the virtual currency from one of its early address blocks, an act many believe can only be done by the tech's creator.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/399764b329ecb0cff40cf1d064fa9d72d117853e.jpg"></article>]]></description>
-            <link>http://www.bbc.com/news/technology-36213580</link>
-            <guid isPermaLink="false">d44ca77f-5787-4ac1-9f7d-d5a3be174edf</guid>
-            <pubDate>Thu, 05 May 2016 13:22:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
