@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 14:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 14:47:23 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blockchain and Ethereum Security on the Higher Level - Vitalik Buterin]]></title>
+            <description><![CDATA[<article><h1>Blockchain and Ethereum Security on the Higher Level - Vitalik Buterin</h1><p>The Finer Challenges in Bringing User Sovereignty from Cypherpunk Dream to Reality. Vitalik Buterin (https://about.me/vitalik_buterin) is a programmer & writer. He is primarily known as a co-founder of Ethereum, and as a co-founder of Bitcoin Magazine. In 2014, Buterin won the World Technology Award for the co-creation and invention of Ethereum.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/70d33c48df4eb3d3b320a4c750201683dc273978.jpg"></article>]]></description>
+            <link>http://www.youtube.com/watch?v=UFDAtStVXbc</link>
+            <guid isPermaLink="false">7c305b5a-8556-4825-a45b-43788340e77d</guid>
+            <pubDate>Thu, 05 May 2016 14:46:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jerry Brito Explains How Craig Wright Can Prove He Is Satoshi]]></title>
             <description><![CDATA[<article><h1>Jerry Brito Explains How Craig Wright Can Prove He Is Satoshi</h1><p>youtube channel tip jar: 1FEqW7sQrxqQbVtx3TpYMKYUuLU9CUEfmo Jerry Brito Wants Proof Craig Wright Is Satoshi Executive director at @coincenter. Teach at GMU Law.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a34621c6031c78661035966c0f00d309ad74b7d.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Ethereum - The World Computer! - Genesis Mining</h1><p>Price for Ether has skyrocketed in the last couple of weeks, bringing the total market cap to USD 800 mn. Ether is now the second largest cryptocurrency after Bitcoin and its market cap is bigger than all other alternative Cryptocurrencies combined. There is a lot of excitement about the new cryptocurrency and its possible applications!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ab2a23c4397aa43e1eebdc5c23a98b96fdaa73c.jpg"></article>]]></description>
             <link>http://blog.genesis-mining.com/ethereum</link>
             <guid isPermaLink="false">b7eb9929-b696-4aa1-bf66-aa4e196699d4</guid>
-            <pubDate>Thu, 05 May 2016 13:22:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Not Just Bitcoin: Why Blockchain Is A Seductive Technology To Many Industries]]></title>
-            <description><![CDATA[<article><h1>Not Just Bitcoin: Why Blockchain Is A Seductive Technology To Many Industries</h1><p>If you've ever run a business, whether it's an ice cream shop or a Fortune 500 company, then you've probably kept a ledger. It's nothing fancy, just a list of transactions. It's also at the root of a transformative technology that institutions including the U.K.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c27f507252c74bc4806da567516362374ddcf971.jpg"></article>]]></description>
-            <link>http://www.npr.org/sections/alltechconsidered/2016/05/04/476597296/not-just-bitcoin-why-blockchain-is-a-seductive-technology-to-many-industries?utm_medium=RSS&amp;utm_campaign=bitcoin</link>
-            <guid isPermaLink="false">1c7a7367-28fa-47a8-b022-aee6ac543d37</guid>
             <pubDate>Thu, 05 May 2016 13:22:41 GMT</pubDate>
         </item>
     </channel>
