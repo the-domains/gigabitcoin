@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 13:58:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 13:58:57 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Wallet Samourai Goes Open-Source]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Wallet Samourai Goes Open-Source</h1><p>"Users should look at our reputation thus far and make a judgement as to if we are honest and trustworthy, but at the end of the day code doesn't lie, we have produced the code, anyone can go take a look, can comment, can suggest, can criticize, can fork," a developer, who goes by 'SW', told CCN.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/211a888c4b2dcf5a7549524ad8c687e0682eaf2e.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/samourai-bitcoin-wallet-goes-open-source/</link>
+            <guid isPermaLink="false">34b1a451-b70e-4664-b3b9-35ba80a62c55</guid>
+            <pubDate>Fri, 06 May 2016 13:58:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Scaling Bitcoin- Adam Back's Bitcoin Scaling Plan and Timeline]]></title>
             <description><![CDATA[<article><h1>Scaling Bitcoin- Adam Back's Bitcoin Scaling Plan and Timeline</h1><p>Scaling Bitcoin: Adam Back's Bitcoin Scaling Plan and Timeline Many people in the Bitcoin community, myself included, worry about " The Future of Money" and its ability to scale, particularly in the near-future. There has been some lip service in 2016, but agreements and plans of action have been hard to come by.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e4a60fcaffd9d40209b0d910157f613883a5966.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.bbc.co.uk/news/technology-36197703</link>
             <guid isPermaLink="false">b60f4e72-9f86-454b-a651-71b9d6936964</guid>
             <pubDate>Fri, 06 May 2016 03:45:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ether has been cleared to trade on the Winklevoss bitcoin exchange]]></title>
-            <description><![CDATA[<article><h1>Ether has been cleared to trade on the Winklevoss bitcoin exchange</h1><p>While bitcoin is by far the biggest and most widely known digital currency, another is quickly establishing itself as a serious player. With a market capitalization of close to $800 million, Ethereum, with its ether digital currency, is considered the "next big thing" in cryptocurrency. And now, with new regulatory guidance from the state of...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e939e5c668dfe13f26f3a0bcde02095d31818241.jpg"></article>]]></description>
-            <link>http://qz.com/677179/ether-has-been-cleared-to-trade-on-the-winklevoss-bitcoin-exchange/</link>
-            <guid isPermaLink="false">1bca576d-3381-4dc0-b290-c395f8d6aea3</guid>
-            <pubDate>Fri, 06 May 2016 03:45:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
