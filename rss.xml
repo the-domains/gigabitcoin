@@ -4,20 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 14:01:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 14:01:25 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://twitter.com/aantonop/status/728242767869018113</link>
-            <guid isPermaLink="false">7fa94b53-f1ad-4ad5-a2a6-b8f5a47d0b3c</guid>
-            <pubDate>Fri, 06 May 2016 13:59:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://twitter.com/ErikVoorhees/status/727929857733058560</link>
-            <guid isPermaLink="false">1fce03d1-2e92-406f-a9bb-8a205161a724</guid>
-            <pubDate>Fri, 06 May 2016 13:58:45 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Post-Mortem Of A Con: To Be Satoshi Nakamoto or Not To Be?]]></title>
             <description><![CDATA[<article><h1>Post-Mortem Of A Con: To Be Satoshi Nakamoto or Not To Be?</h1><p>The con is over. Dr. Craig Steven Wright will not provide proof he is Satoshi Nakamoto. While Gavin Andresen admits he might have been fooled, Jon Matonis stands behind Wright's claim that he is Satoshi. Also read: Craig Wright Exits The Bitcoin Stage With Weird Blog Post There won't be an on-chain signing from early bitcoin blocks, but there also won't be another Satoshi.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4b32ffef30c8787bcd71c31784e4e65117f4bb2.png"></article>]]></description>
@@ -72,6 +60,20 @@
             <description><![CDATA[<article><h1>XMLGold Makes Trading Bitcoin More Convenient With Debit Cards and More</h1><p>Bitcoin Press Release: The well-known digital currency exchange, XMLGold allows Bitcoin traders to choose the payment option of their convenience such as Payeer, PayPal, PayWeb, PerfectMoney and more, while ensuring the best rates possible. May 5th, 2016 Belize City, Belize: XMLGold is offering the best rates for Bitcoin and other cryptocurrency trades on the platform.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0624c0e14760354bdb004c8a72ec0d6f26dcf70.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/05/06/xmlgold-makes-trading-bitcoin-convenient-debit-cards/</link>
             <guid isPermaLink="false">de4d9ff1-030f-4c6b-9513-95ac894d1c28</guid>
+            <pubDate>Fri, 06 May 2016 13:58:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Ripple's UNL list maintained by the network?]]></title>
+            <description><![CDATA[<article><h1>Is Ripple's UNL list maintained by the network?</h1><p>Who maintains the Ripple UNL list? This says We periodically poll our sources. If they mention a new node with a score over an amount, we add the node to our trusted core set. Who is "we"? ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43982/how-unl-is-created-in-ripple-network</link>
+            <guid isPermaLink="false">02492aeb-b1dc-4ddf-a966-f65804b85f27</guid>
+            <pubDate>Fri, 06 May 2016 13:58:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New York Reportedly Readies Bitcoin Licenses for Coinbase and Ripple Labs]]></title>
+            <description><![CDATA[<article><h1>New York Reportedly Readies Bitcoin Licenses for Coinbase and Ripple Labs</h1><p>Coinbase and Ripple Labs Inc. are close to receiving bitcoin licenses to offer their virtual currency services in New York State, according to Reuters. Both companies have provided applications to the state's Department of Financial Services (NYSDFS), according to a notice on the department's website.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b82daca0f15f895c15e0fe871c2755f6639ed5c.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/new-york-reportedly-readies-bitlicense-approval-for-coinbase-and-ripple-labs/</link>
+            <guid isPermaLink="false">d1fe7cd2-633c-4c97-bb25-545550ad125f</guid>
             <pubDate>Fri, 06 May 2016 13:58:25 GMT</pubDate>
         </item>
     </channel>
