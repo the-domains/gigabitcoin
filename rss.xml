@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 13:59:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 13:59:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The Ethereum DAO Has Already Raised $18 Million]]></title>
-            <description><![CDATA[<article><h1>The Ethereum DAO Has Already Raised $18 Million</h1><p>The Decentralized Autonomous Organization Also read: Swiss Town Begins Accepting Bitcoin for Public Services (DAO) asset fund created to sponsor Ethereum-based ventures has raised over $17.5 million USD in its crowdsale. At the time of this writing, 190.5 million DAO tokens have been sold for Ethereum.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3f3c99bd2dc6b07662f9e1e6bac1c99b28eda06.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/eth-dao-raises-18-million/</link>
-            <guid isPermaLink="false">6316978c-7bd5-4b4f-a7fd-5174e703a4ae</guid>
-            <pubDate>Fri, 06 May 2016 13:58:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Industry Report: Dr. Satoshi, BitPay Launches Bitcoin Debit Card]]></title>
-            <description><![CDATA[<article><h1>Industry Report: Dr. Satoshi, BitPay Launches Bitcoin Debit Card</h1><p>There have been some crazy things happening in the world of digital currency since our previous industry report. Is it possible that the identity of Satoshi Nakamoto has been revealed? Los Angeles is now home to some new Bitcoin ATMs, and BitPay has introduced us to a new kind of credit card.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f393f3fbbb4c8bcfe04be8611980c94369f353b.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/industry-report-satoshi-bitpay/</link>
-            <guid isPermaLink="false">91bc52da-109f-4165-96b0-2548a9b6dc2d</guid>
-            <pubDate>Fri, 06 May 2016 13:58:23 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Gemini to Include Ethereum, with the Blessings of BitLicense]]></title>
             <description><![CDATA[<article><h1>Gemini to Include Ethereum, with the Blessings of BitLicense</h1><p>Gemini, the BitLicense regulated Bitcoin exchange platform has received approval to include Ethereum as one of the tradable cryptocurrencies on the platform. Read more... Gemini, the New York-based bitcoin platform operated by the famed Winklevoss twins will soon allow traders to buy and sell Ethereum's native cryptocurrency Ether.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/023f27f183770fd9ebb0ad3b3162faea98cf994b.png"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>Isle of Man Govt Grants 'Designated Business' Title to CoinCorner</h1><p>The Isle of Man has been quite open to any company or individual looking to venture into the world of Bitcoin and cryptocurrency. CoinCorner is the first company in the region to achieve Designated Business Status as the company is now officially licensed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c24e2d1a98999a9fcad7c11fc612d22495320a9.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/isle-man-govt-grants-title-coincorner/</link>
             <guid isPermaLink="false">00592448-d768-4dae-8dad-de965691e5ac</guid>
+            <pubDate>Fri, 06 May 2016 13:58:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Analysis: 5/06/2016]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Analysis: 5/06/2016</h1><p>An upward trend continues to form on Bitcoin. Disruption of the structure of that trend could provoke a new fall. Bitcoin's price has been bouncing off the bottom limit of the flat, which indicated that the bears were holding the advantage.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea3383639fac0e81de2033af5d66fc90c2db249a.png"></article>]]></description>
+            <link>http://cointelegraph.com/news/bitcoin-price-analysis-5062016</link>
+            <guid isPermaLink="false">bfc8cedb-d4b7-49c0-a4dd-dc89619a8ebf</guid>
+            <pubDate>Fri, 06 May 2016 13:58:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Wallet Samourai Goes Open-Source]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Wallet Samourai Goes Open-Source</h1><p>"Users should look at our reputation thus far and make a judgement as to if we are honest and trustworthy, but at the end of the day code doesn't lie, we have produced the code, anyone can go take a look, can comment, can suggest, can criticize, can fork," a developer, who goes by 'SW', told CCN.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/211a888c4b2dcf5a7549524ad8c687e0682eaf2e.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/samourai-bitcoin-wallet-goes-open-source/</link>
+            <guid isPermaLink="false">34b1a451-b70e-4664-b3b9-35ba80a62c55</guid>
             <pubDate>Fri, 06 May 2016 13:58:23 GMT</pubDate>
         </item>
     </channel>
