@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 13:59:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 14:00:21 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Craig Wright Possesses Technical Knowledge To Dupe Gavin Andresen]]></title>
+            <description><![CDATA[<article><h1>Craig Wright Possesses Technical Knowledge To Dupe Gavin Andresen</h1><p>More and more details are surfacing as to who Craig Wright took the necessary precautions to validate his claims of being Satoshi Nakamoto. One worrying piece of evidence shows his list of certifications, which may give him the right tools to pull off a successful man-in-middle attack to sign a particular Bitcoin message.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/571175a692132859542f57fa9099646801e89e90.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/craig-wright-possesses-technical-knowledge-to-dupe-gavin-andresen/</link>
+            <guid isPermaLink="false">e27e6e95-17e7-4e3e-899a-deb5d92876b8</guid>
+            <pubDate>Fri, 06 May 2016 13:58:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Brave Will Utilize Bitcoin To Change The Browsing Experience]]></title>
+            <description><![CDATA[<article><h1>How Brave Will Utilize Bitcoin To Change The Browsing Experience</h1><p>A new infographic by the Brave team reveals how the company envisions the usage of Bitcoin within their new browser. While the primary goal is to improve the user experience by either removing or replacing ads entirely, but Bitcoin plays an integral role in the process as well.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29fb5cdbd21b89a18161c7846044a3fc5fa2ed99.jpg"></article>]]></description>
+            <link>http://themerkle.com/how-brave-will-utilize-bitcoin-to-change-the-browsing-experience/</link>
+            <guid isPermaLink="false">ce379812-f90d-431b-9cf4-390d307117a0</guid>
+            <pubDate>Fri, 06 May 2016 13:58:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gridseed not mining bitcoin - no shares accepted]]></title>
             <description><![CDATA[<article><h1>Gridseed not mining bitcoin - no shares accepted</h1><p>So I have had my Gridseed (5 chips) for about a week now, and still couldn't mine any Bitcoin, only Scrypt. I am currently only able to mine with minerd, using Scrypt, and I am on a Mac. I tried to mine Bitcoin using cgminer, bfgminer, minerd (versions from MacMiner and others on the internet), tried to compile, nothings seems to work.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Gemini to Include Ethereum, with the Blessings of BitLicense</h1><p>Gemini, the BitLicense regulated Bitcoin exchange platform has received approval to include Ethereum as one of the tradable cryptocurrencies on the platform. Read more... Gemini, the New York-based bitcoin platform operated by the famed Winklevoss twins will soon allow traders to buy and sell Ethereum's native cryptocurrency Ether.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/023f27f183770fd9ebb0ad3b3162faea98cf994b.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/05/06/gemini-to-include-ethereum-with-the-blessings-of-bitlicense/</link>
             <guid isPermaLink="false">14f991e1-83fe-4c5c-b238-f5c5acf630aa</guid>
-            <pubDate>Fri, 06 May 2016 13:58:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kaspersky Report Shows Bitcoin Ransomware Is Only A Minor Threat]]></title>
-            <description><![CDATA[<article><h1>Kaspersky Report Shows Bitcoin Ransomware Is Only A Minor Threat</h1><p>Kaspersky is one of the most world-renowned security firms in the world, and they have been keeping a close eye on the ransomware threat. Their recent report indicates how The Netherlands and Belgium are in the top three of countries where ransomware can become a significant threat.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7e2fb8a7ac35420e51854dfd90d17ff970b4d72.jpg"></article>]]></description>
-            <link>http://themerkle.com/kaspersky-report-shows-bitcoin-ransomware-is-only-a-minor-threat/</link>
-            <guid isPermaLink="false">003a5b9a-779c-47a8-ab2d-77c4b4efe049</guid>
-            <pubDate>Fri, 06 May 2016 13:58:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Investment Advisor Explains Why He's Bullish on Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Investment Advisor Explains Why He's Bullish on Bitcoin</h1><p>Charlie Morris, the investment director of the Fleet Street Letter, is buying bitcoin. He sees it as a cheap stock with an opportunity to grow in value because of the halving. Morris gave his reasons for being bullish on bitcoin in a column in the Fleet Street Letter, a MoneyWeek Research Publication in London, U.K.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38c59410ffd9486ffce62ae01ede22502c3c197b.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/investment-advisor-explains-why-hes-bullish-on-bitcoin/</link>
-            <guid isPermaLink="false">b955f027-2c44-4fb6-a8cf-88dddc71499e</guid>
             <pubDate>Fri, 06 May 2016 13:58:23 GMT</pubDate>
         </item>
     </channel>
