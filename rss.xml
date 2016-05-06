@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 14:01:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 14:01:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Post-Mortem Of A Con: To Be Satoshi Nakamoto or Not To Be?]]></title>
-            <description><![CDATA[<article><h1>Post-Mortem Of A Con: To Be Satoshi Nakamoto or Not To Be?</h1><p>The con is over. Dr. Craig Steven Wright will not provide proof he is Satoshi Nakamoto. While Gavin Andresen admits he might have been fooled, Jon Matonis stands behind Wright's claim that he is Satoshi. Also read: Craig Wright Exits The Bitcoin Stage With Weird Blog Post There won't be an on-chain signing from early bitcoin blocks, but there also won't be another Satoshi.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4b32ffef30c8787bcd71c31784e4e65117f4bb2.png"></article>]]></description>
-            <link>http://bitcoinist.net/satoshi-nakamoto-or-not-to-be/</link>
-            <guid isPermaLink="false">febcf274-e44a-4695-9692-2d7aad4d031a</guid>
-            <pubDate>Fri, 06 May 2016 13:58:25 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Gemini Is Now the World's First Licensed Ether Exchange!]]></title>
             <description><![CDATA[<article><h1>Gemini Is Now the World's First Licensed Ether Exchange!</h1><p>We are thrilled to announce support for ether trading starting on Monday, May 9th at 9:30 AM EDT. We will be offering ETH/BTC and ETH/USD trading pairs on two new order books. In the meantime, you can now store your ether on Gemini in advance of trading next week, with all of the same industry leading security we already offer for bitcoin storage.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc4dede1326a6c0053111797ec9d1b6f3b001951.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>New York Reportedly Readies Bitcoin Licenses for Coinbase and Ripple Labs</h1><p>Coinbase and Ripple Labs Inc. are close to receiving bitcoin licenses to offer their virtual currency services in New York State, according to Reuters. Both companies have provided applications to the state's Department of Financial Services (NYSDFS), according to a notice on the department's website.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b82daca0f15f895c15e0fe871c2755f6639ed5c.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/new-york-reportedly-readies-bitlicense-approval-for-coinbase-and-ripple-labs/</link>
             <guid isPermaLink="false">d1fe7cd2-633c-4c97-bb25-545550ad125f</guid>
+            <pubDate>Fri, 06 May 2016 13:58:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Assert Guards: Towards Automated Code Bounties & Safe Smart Contract Coding on Ethereum]]></title>
+            <description><![CDATA[<article><h1>Assert Guards: Towards Automated Code Bounties & Safe Smart Contract Coding on Ethereum</h1><p>With great power comes great responsibility. Once uploaded, the code on Ethereum runs exactly as programmed... forever. That is one of the platform's core benefits: code that always interoperates as promised, can't be tampered with, and has no down time. You don't have to trust the creator or hosting, only the code.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4bce902bc77a9948c5f53c0e120f82e6e6ee105d.png"></article>]]></description>
+            <link>http://bravenewcoin.com/news/assert-guards-towards-automated-code-bounties-and-safe-smart-contract-coding-on-ethereum/</link>
+            <guid isPermaLink="false">258256f4-6a21-4d99-be4e-2ec805a22f63</guid>
             <pubDate>Fri, 06 May 2016 13:58:25 GMT</pubDate>
         </item>
     </channel>
