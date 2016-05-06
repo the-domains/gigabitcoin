@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 14:00:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 14:00:40 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New York Reportedly Readies Bitcoin Licenses for Coinbase and Ripple Labs]]></title>
+            <description><![CDATA[<article><h1>New York Reportedly Readies Bitcoin Licenses for Coinbase and Ripple Labs</h1><p>Coinbase and Ripple Labs Inc. are close to receiving bitcoin licenses to offer their virtual currency services in New York State, according to Reuters. Both companies have provided applications to the state's Department of Financial Services (NYSDFS), according to a notice on the department's website.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b82daca0f15f895c15e0fe871c2755f6639ed5c.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/new-york-reportedly-readies-bitlicense-approval-for-coinbase-and-ripple-labs/</link>
+            <guid isPermaLink="false">d1fe7cd2-633c-4c97-bb25-545550ad125f</guid>
+            <pubDate>Fri, 06 May 2016 13:58:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Assert Guards: Towards Automated Code Bounties & Safe Smart Contract Coding on Ethereum]]></title>
+            <description><![CDATA[<article><h1>Assert Guards: Towards Automated Code Bounties & Safe Smart Contract Coding on Ethereum</h1><p>With great power comes great responsibility. Once uploaded, the code on Ethereum runs exactly as programmed... forever. That is one of the platform's core benefits: code that always interoperates as promised, can't be tampered with, and has no down time. You don't have to trust the creator or hosting, only the code.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4bce902bc77a9948c5f53c0e120f82e6e6ee105d.png"></article>]]></description>
+            <link>http://bravenewcoin.com/news/assert-guards-towards-automated-code-bounties-and-safe-smart-contract-coding-on-ethereum/</link>
+            <guid isPermaLink="false">258256f4-6a21-4d99-be4e-2ec805a22f63</guid>
+            <pubDate>Fri, 06 May 2016 13:58:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New York to Give BitLicense to Coinbase And Ripple]]></title>
             <description><![CDATA[<article><h1>New York to Give BitLicense to Coinbase And Ripple</h1><p>The process of getting all of the paperwork and legal documentation together is both time-consuming, and costly. But that is not the biggest concern, as BitLicense requires companies to keep an extensive amount of details on all of their customers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8f6d9b8af4868d964b9a6b3c580dc8d33504359.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://cointelegraph.com/news/bitcoin-trading-service-makes-possible-buying-bitcoin-in-local-banks-in-uk-and-mexico</link>
             <guid isPermaLink="false">11720d19-eb95-4ee2-86f1-b38d3b724f1e</guid>
             <pubDate>Fri, 06 May 2016 13:58:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Ethereum DAO Has Already Raised $18 Million]]></title>
-            <description><![CDATA[<article><h1>The Ethereum DAO Has Already Raised $18 Million</h1><p>The Decentralized Autonomous Organization Also read: Swiss Town Begins Accepting Bitcoin for Public Services (DAO) asset fund created to sponsor Ethereum-based ventures has raised over $17.5 million USD in its crowdsale. At the time of this writing, 190.5 million DAO tokens have been sold for Ethereum.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3f3c99bd2dc6b07662f9e1e6bac1c99b28eda06.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/eth-dao-raises-18-million/</link>
-            <guid isPermaLink="false">6316978c-7bd5-4b4f-a7fd-5174e703a4ae</guid>
-            <pubDate>Fri, 06 May 2016 13:58:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Industry Report: Dr. Satoshi, BitPay Launches Bitcoin Debit Card]]></title>
-            <description><![CDATA[<article><h1>Industry Report: Dr. Satoshi, BitPay Launches Bitcoin Debit Card</h1><p>There have been some crazy things happening in the world of digital currency since our previous industry report. Is it possible that the identity of Satoshi Nakamoto has been revealed? Los Angeles is now home to some new Bitcoin ATMs, and BitPay has introduced us to a new kind of credit card.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f393f3fbbb4c8bcfe04be8611980c94369f353b.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/industry-report-satoshi-bitpay/</link>
-            <guid isPermaLink="false">91bc52da-109f-4165-96b0-2548a9b6dc2d</guid>
-            <pubDate>Fri, 06 May 2016 13:58:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
