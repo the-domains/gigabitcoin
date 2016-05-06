@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 14:00:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 14:00:49 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[XMLGold Makes Trading Bitcoin More Convenient With Debit Cards and More]]></title>
+            <description><![CDATA[<article><h1>XMLGold Makes Trading Bitcoin More Convenient With Debit Cards and More</h1><p>Bitcoin Press Release: The well-known digital currency exchange, XMLGold allows Bitcoin traders to choose the payment option of their convenience such as Payeer, PayPal, PayWeb, PerfectMoney and more, while ensuring the best rates possible. May 5th, 2016 Belize City, Belize: XMLGold is offering the best rates for Bitcoin and other cryptocurrency trades on the platform.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0624c0e14760354bdb004c8a72ec0d6f26dcf70.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/06/xmlgold-makes-trading-bitcoin-convenient-debit-cards/</link>
+            <guid isPermaLink="false">de4d9ff1-030f-4c6b-9513-95ac894d1c28</guid>
+            <pubDate>Fri, 06 May 2016 13:58:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Ripple's UNL list maintained by the network?]]></title>
+            <description><![CDATA[<article><h1>Is Ripple's UNL list maintained by the network?</h1><p>Who maintains the Ripple UNL list? This says We periodically poll our sources. If they mention a new node with a score over an amount, we add the node to our trusted core set. Who is "we"? ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43982/how-unl-is-created-in-ripple-network</link>
+            <guid isPermaLink="false">02492aeb-b1dc-4ddf-a966-f65804b85f27</guid>
+            <pubDate>Fri, 06 May 2016 13:58:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New York Reportedly Readies Bitcoin Licenses for Coinbase and Ripple Labs]]></title>
             <description><![CDATA[<article><h1>New York Reportedly Readies Bitcoin Licenses for Coinbase and Ripple Labs</h1><p>Coinbase and Ripple Labs Inc. are close to receiving bitcoin licenses to offer their virtual currency services in New York State, according to Reuters. Both companies have provided applications to the state's Department of Financial Services (NYSDFS), according to a notice on the department's website.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b82daca0f15f895c15e0fe871c2755f6639ed5c.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Is There a Need For Ethereum Hardware Wallets?</h1><p>Bitcoin users have been enjoying a wide variety of hardware wallets for several years now, and new companies present their products on a regular basis. But the same principle does not apply to Ethereum users just yet, as there are no hardware solutions available.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c54bd633c84d1e2d3c4eba5c378eaea3650add2f.jpg"></article>]]></description>
             <link>http://themerkle.com/is-there-a-need-for-ethereum-hardware-wallets/</link>
             <guid isPermaLink="false">3ad6cbc0-171b-47be-9cb8-11d714818552</guid>
-            <pubDate>Fri, 06 May 2016 13:58:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Profit at the End of the Week]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Profit at the End of the Week</h1><p>We've come to the end of the week for our daily bitcoin price analysis, and it has been quite an interesting group of sessions. We've come to the end of the week for our daily bitcoin price analysis, and it has been quite an interesting group of sessions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/270c81270d20c9250238e2f66751e41fec72bdca.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/06/bitcoin-price-watch-profit-end-week/</link>
-            <guid isPermaLink="false">4b53db3b-253f-4070-8951-0082264c1d7b</guid>
-            <pubDate>Fri, 06 May 2016 13:58:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Trading Service Makes Possible Buying Bitcoin in Local Banks in UK and Mexico]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Trading Service Makes Possible Buying Bitcoin in Local Banks in UK and Mexico</h1><p>Want to be able to buy Bitcoins at your local bank? Now, if you live in the United Kingdom or Mexico, you can. Bitcoin trading service Wall of Coins has begun serving British and Mexican customers. Wall of Coins works by anonymously and securely matching buyers and sellers of Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e81a086f5f2911210b45a04e0eb6fdfd4b34bd56.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/bitcoin-trading-service-makes-possible-buying-bitcoin-in-local-banks-in-uk-and-mexico</link>
-            <guid isPermaLink="false">11720d19-eb95-4ee2-86f1-b38d3b724f1e</guid>
             <pubDate>Fri, 06 May 2016 13:58:24 GMT</pubDate>
         </item>
     </channel>
