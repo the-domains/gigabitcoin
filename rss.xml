@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 05:35:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 05:35:59 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>With cryptography & blockchain based audits Madoff, who fooled the board of Nasdaq, would have been caught in days rather than 40 years.</p>]]></description>
+            <link>https://twitter.com/brucefenton/status/728580929585860608</link>
+            <guid isPermaLink="false">c438e393-d580-4333-bd5a-746dc3109e7e</guid>
+            <pubDate>Sat, 07 May 2016 05:35:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The DAO Holds Over 38% of Entire Ethereum Supply]]></title>
+            <description><![CDATA[<article><h1>The DAO Holds Over 38% of Entire Ethereum Supply</h1><p>The DAO remains a success story to keep an eye on, as they have overtaken the Ethereum Foundation regarding holding Ether. Keeping in mind how this smart contract currently holds over 38% of the entire ETH supply, interesting things are bound to happen to the Ethereum price.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ed155c8b6d5821ad8f9a1677e0237834d1b04f3.jpg"></article>]]></description>
+            <link>http://themerkle.com/the-dao-holds-over-38-of-entire-ethereum-supply/</link>
+            <guid isPermaLink="false">25ae10c6-8968-4597-b128-839eb73baa9a</guid>
+            <pubDate>Sat, 07 May 2016 05:35:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Satoshi's Identity Matters & Why It's Irrelevant for Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Why Satoshi's Identity Matters & Why It's Irrelevant for Bitcoin</h1><p>There is one credible argument about why it is important to know Satoshi Nakamoto's identity for the interests of bitcoin. His public wallets will account for about 5.5 % of the total number of bitcoin which will be in circulation after the 21 millionth - the last- bitcoin has been mined in approximately the year 2140.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d51241d1dff05aba31db674614a7974dcad586d7.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/why-satoshis-identity-matters-why-its-irrelevant-for-bitcoin/</link>
+            <guid isPermaLink="false">8f45e8ef-4883-4145-8b02-f6d1e59ac8d1</guid>
+            <pubDate>Sat, 07 May 2016 05:35:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Prices Calm Despite Craig Wright Controversy - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Bitcoin Prices Calm Despite Craig Wright Controversy - CoinDesk</h1><p>Bitcoin has had a quiet week, experiencing low trading volume and rather modest price changes as market observers saw Australian academic Craig Wright claim to be Satoshi Nakamoto, the pseudonymous creator of bitcoin. On the other hand, ether - the native token of the Ethereum network - fluctuated far more significantly in terms of price during the seven days through 6th May.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/36bf841e08aa6b14c92552749d3c70746a7e792b.jpg"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>https://twitter.com/balajis/status/728298958036983808</link>
             <guid isPermaLink="false">cd0fb9b8-e794-4656-a053-cbf9dc5bb2b2</guid>
             <pubDate>Fri, 06 May 2016 13:59:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Avoid schadenfreude. Con artists can fool even the smartest people. What happened to Gavin and Jon could happen to anyone. #empathytime</p>]]></description>
-            <link>https://twitter.com/aantonop/status/728242767869018113</link>
-            <guid isPermaLink="false">7fa94b53-f1ad-4ad5-a2a6-b8f5a47d0b3c</guid>
-            <pubDate>Fri, 06 May 2016 13:59:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Really disappointed to see @gavinandresen's commit access removed. Deceptively done; not emblematic of Bitcoin's ideals.</p>]]></description>
-            <link>https://twitter.com/ErikVoorhees/status/727929857733058560</link>
-            <guid isPermaLink="false">1fce03d1-2e92-406f-a9bb-8a205161a724</guid>
-            <pubDate>Fri, 06 May 2016 13:58:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Post-Mortem Of A Con: To Be Satoshi Nakamoto or Not To Be?]]></title>
-            <description><![CDATA[<article><h1>Post-Mortem Of A Con: To Be Satoshi Nakamoto or Not To Be?</h1><p>The con is over. Dr. Craig Steven Wright will not provide proof he is Satoshi Nakamoto. While Gavin Andresen admits he might have been fooled, Jon Matonis stands behind Wright's claim that he is Satoshi. Also read: Craig Wright Exits The Bitcoin Stage With Weird Blog Post There won't be an on-chain signing from early bitcoin blocks, but there also won't be another Satoshi.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4b32ffef30c8787bcd71c31784e4e65117f4bb2.png"></article>]]></description>
-            <link>http://bitcoinist.net/satoshi-nakamoto-or-not-to-be/</link>
-            <guid isPermaLink="false">febcf274-e44a-4695-9692-2d7aad4d031a</guid>
-            <pubDate>Fri, 06 May 2016 13:58:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
