@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 05:36:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 05:36:03 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Instant Private Bitcoin Trading Could Revolutionize Remittances]]></title>
-            <description><![CDATA[<article><h1>Instant Private Bitcoin Trading Could Revolutionize Remittances</h1><p>Can you send money across borders instantly at almost no cost? Robert Genito of Wall of Coins thinks peer-to-peer Bitcoin exchanges could revolutionize the cross-border remittance industry. Cross-border remittances to friends and family account for a significant chunk of economic activity, especially among undocumented immigrants.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0e89be24717aba7a5e00e6ba90c450d1121c980.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/instant-private-bitcoin-trading-could-revolutionize-remittances</link>
-            <guid isPermaLink="false">26f485ae-6eef-4d4f-a900-136168aa80b7</guid>
-            <pubDate>Sat, 07 May 2016 05:35:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In London, Researchers Look at Blockchain Beyond Financial Services - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>In London, Researchers Look at Blockchain Beyond Financial Services - CoinDesk</h1><p>Blockchain applications have gained surprising momentum in the financial services industry. Major banks and financial institutions worldwide have invested in blockchain startups or formed group efforts to test the technology collaboratively. Yet the newsworthy events coming out of the financial industry can sometimes mask blockchain's potential in other industries that may not be making splashy headlines.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5dc0cd3c8647c1cb0bb3afafea0ed47fff09a101.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/blockchains-beyond-financial-services/</link>
-            <guid isPermaLink="false">297aefc3-76fd-41ae-b268-9469e9097b6e</guid>
-            <pubDate>Sat, 07 May 2016 05:35:14 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[XMLGold Offers More Payment Options Than Ever for Bitcoin Traders]]></title>
             <description><![CDATA[<article><h1>XMLGold Offers More Payment Options Than Ever for Bitcoin Traders</h1><p>Digital currency exchange XMLGold now allows bitcoin traders to choose from a variety of new payment options. Payeer, PayPal, PayWeb and PerfectMoney are a few of the new choices. Disclaimer: This article was provided by Bitcoin PR Buzz. Bitcoinist is not affiliated with the firms represented by Bitcoin PR Buzz and is not responsible for their products and/or services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7df4128df727dc66b790398862e6163c7c000a1c.jpg"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>Bitcoin Prices Calm Despite Craig Wright Controversy - CoinDesk</h1><p>Bitcoin has had a quiet week, experiencing low trading volume and rather modest price changes as market observers saw Australian academic Craig Wright claim to be Satoshi Nakamoto, the pseudonymous creator of bitcoin. On the other hand, ether - the native token of the Ethereum network - fluctuated far more significantly in terms of price during the seven days through 6th May.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/36bf841e08aa6b14c92552749d3c70746a7e792b.jpg"></article>]]></description>
             <link>http://www.coindesk.com/bitcoin-prices-calm-craig-wright-controversy/</link>
             <guid isPermaLink="false">c6860776-f492-4e81-a7a9-365e82ae05a7</guid>
+            <pubDate>Sat, 07 May 2016 05:35:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Emercoin Added to Microsoft Azure Platform - Bitcoinist.net]]></title>
+            <description><![CDATA[<article><h1>Emercoin Added to Microsoft Azure Platform - Bitcoinist.net</h1><p>The Emercoin platform was built with a key goal in mind, to help solve real-life problems and deliver decentralizing solutions for businesses around the world - and that goal became a little easier to achieve earlier this year. This article was provided by the Vanbex Group on behalf of the Emercoin project.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/94dc047de02c156cae8b645ef4b484a261a79a2e.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/emercoin-on-azure/</link>
+            <guid isPermaLink="false">180a15ca-1c30-4bd3-9068-711a8c373be1</guid>
+            <pubDate>Sat, 07 May 2016 05:35:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Would this scheme allow faster verification of transactions? (Multiple parallel block chains)]]></title>
+            <description><![CDATA[<article><h1>Would this scheme allow faster verification of transactions? (Multiple parallel block chains)</h1><p>One issue with one block chain is that it needs to be globally synchronized. One way to elevate this would be to use multiblock chains. Namely, we can imagine that there are N block chains, working in parallel. To make double spending impossible, a you can only spend a total of 1/N of your total money on each chain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43997/would-this-scheme-allow-faster-verification-of-transactions-multiple-parallel</link>
+            <guid isPermaLink="false">683f220d-bc03-40fb-86eb-6b71c41a8922</guid>
             <pubDate>Sat, 07 May 2016 05:35:13 GMT</pubDate>
         </item>
     </channel>
