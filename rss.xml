@@ -4,13 +4,20 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 15:52:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 15:52:34 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Startups' Hopes Wane as Bitcoin Fails to Gain Currency With Consumers]]></title>
             <description><![CDATA[<article><h1>Startups' Hopes Wane as Bitcoin Fails to Gain Currency With Consumers</h1><p>The bitcoin movement, encouraged by venture-capital investors, has so far failed to kick off a consumer cryptocurrency revolution. Investors' hopes had run high that the digital currency could solve credit card fraud and lower fees on purchases. "We saw the digital currency as a solution, the proverbial silver bullet to solve these issues," said John McDonnell, a former Visa Inc.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b670ff2756812ce948d42367cd556066fdee272d.jpg"></article>]]></description>
             <link>http://www.wsj.com/articles/startups-hopes-wane-as-bitcoin-fails-to-gain-currency-with-consumers-1462361406</link>
             <guid isPermaLink="false">7c36bb35-880b-4faa-a6e6-fd430e981464</guid>
+            <pubDate>Sat, 07 May 2016 15:51:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Foundation's Gavin Andresen has code repository access revoked]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Foundation's Gavin Andresen has code repository access revoked</h1><p>Gavin Andresen, chief scientist of the Bitcoin Foundation, has had his access to the Bitcoin Core code repository revoked following his support for Craig Wright, who claimed earlier this week he wa...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d10eed05dee8dc8b16e27d36047306cdc5eed59f.png"></article>]]></description>
+            <link>https://coinreport.net/bitcoin-foundations-gavin-andresen-code-repository-access-revoked/</link>
+            <guid isPermaLink="false">8db17108-2801-4c9e-9cb6-5d24044daa30</guid>
             <pubDate>Sat, 07 May 2016 15:51:57 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Australian Treasury department calls for public comments to help classify digital currency</h1><p>The Australian Treasury department recently released a discussion paper, "GST treatment of digital currency," which asks for public comments on how Bitcoin and other digital currencies should be defined and taxed. - The Hon. Scott Morrison MP The 15-page document is integral to the government's new fintech push, announced in March.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c53fe5c8a90b31b0419f86d2ec8b94d88e11888d.jpg"></article>]]></description>
             <link>http://bravenewcoin.com/news/australian-treasury-department-calls-for-public-comments-to-help-classify-digital-currency/</link>
             <guid isPermaLink="false">3d20e4bb-d1cd-40c7-a30e-4abc6350aef3</guid>
-            <pubDate>Sat, 07 May 2016 09:11:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Charles Sturt University Retracts Craig Wright Post]]></title>
-            <description><![CDATA[<article><h1>Charles Sturt University Retracts Craig Wright Post</h1><p>Now that the discussion about Craig Wright inventing Bitcoin has turned out to be nothing more than a tumbleweed, more and more people are retracting their claims which validated his "evidence". Charles Sturt University had a post up explaining why Wright could be Satoshi, but they retracted that rather quickly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/133412da486bd176637f9871ee661e7e30ff2d19.jpg"></article>]]></description>
-            <link>http://themerkle.com/charles-sturt-university-retracts-craig-wright-post/</link>
-            <guid isPermaLink="false">40994e1f-c6be-4595-a9a1-980992344ca6</guid>
             <pubDate>Sat, 07 May 2016 09:11:27 GMT</pubDate>
         </item>
     </channel>
