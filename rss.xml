@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 05:36:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 05:36:47 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Akasha Project Unveils Decentralized Social Media Network Based on Ethereum and IPFS]]></title>
+            <description><![CDATA[<article><h1>Akasha Project Unveils Decentralized Social Media Network Based on Ethereum and IPFS</h1><p>Akasha, a next-generation social media network powered by Ethereum and the InterPlanetary File System, was unveiled on May 3 ‒ World Press Freedom Day. The signups for the alpha release are open. The project is the brainchild of Mihai Alisie, cofounder of Bitcoin Magazine.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0708529aa26b99ddee8c67697a07678f3b1e279.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/akasha-project-unveils-decentralized-social-media-network-based-on-ethereum-and-ipfs-1462551273</link>
+            <guid isPermaLink="false">8d06ebc8-9726-4f4b-9ce2-516e33c05a8f</guid>
+            <pubDate>Sat, 07 May 2016 05:35:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Organized Crime Research Funded by Germany and Austria - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Bitcoin Organized Crime Research Funded by Germany and Austria - CoinDesk</h1><p>The Austrian and German governments are funding a research effort focused on the use of digital currencies in organized crime. Dubbed 'BitCrime', the initiative is backed by a number of governmental agencies in the two countries, and is split into two sub-projects.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fd81b907e743d1380ad962db6e481c9b711327e.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://themerkle.com/tech-news-sites-are-not-sold-on-bitcoin-yet/</link>
             <guid isPermaLink="false">c45ad2e5-200f-4f1d-8484-8aa3b269fb89</guid>
             <pubDate>Sat, 07 May 2016 05:35:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft Joins Chamber of Digital Commerce]]></title>
-            <description><![CDATA[<article><h1>Microsoft Joins Chamber of Digital Commerce</h1><p>Microsoft continues their push to bring their Blockchain-as-a-Service to as many enterprises and developers in the world as possible. Moreover, the company recently joined the Chamber of Digital Commerce, which strengthens the company's position in the field of distributed ledgers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37b32b1c3ba96942a21243083883da4a37293a17.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/microsoft-chamber-digital-commerce/</link>
-            <guid isPermaLink="false">761c96f9-ff49-4045-b744-fa63686917c2</guid>
-            <pubDate>Sat, 07 May 2016 05:35:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
