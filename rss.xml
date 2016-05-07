@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 15:52:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 15:52:32 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Can I send Bitcoins without a wallet]]></title>
+            <description><![CDATA[<article><h1>Can I send Bitcoins without a wallet</h1><p>How can I send bitcoins to someone, without having to purchase them first or set up a wallet? I'm looking for a service that will send N bitcoins to a given address. I pay them with my credit card...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/43999/can-i-send-bitcoins-without-a-wallet</link>
+            <guid isPermaLink="false">7df93ae9-0191-4117-8b02-c63662b52186</guid>
+            <pubDate>Sat, 07 May 2016 15:51:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mycelium Unveils New Wallet and Strategic Partnership - Bitcoinist.net]]></title>
             <description><![CDATA[<article><h1>Mycelium Unveils New Wallet and Strategic Partnership - Bitcoinist.net</h1><p>The Bitcoin company Also read: Industry Report: Dr. Satoshi, BitPay Launches Bitcoin Debit Card Mycelium recently announced the launch of a new updated wallet service and crowdsale . The application will no longer be a "typical wallet" says the Mycelium team and the API will allow developers to implement their own tweaks and modifications within the platform.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/579bcf91569e1d46c8fb6cb34910edbebdffb903.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Mycelium Wallet Will Support Fiat Tokens Through Waves</h1><p>In an interesting turn of events, Bitcoin wallet provider Mycelium and the Waves platform have formed a strategic partnership. As a result of this agreement, national currency transfers will be made available to Mycelium users in the future. Most people are well aware of the current Mycelium crowdsale which is taking place right now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a6c2dd21bc764f892b8148df353c56f47910028.jpg"></article>]]></description>
             <link>http://themerkle.com/mycelium-wallet-will-support-fiat-tokens-through-waves/</link>
             <guid isPermaLink="false">dc1a3d4b-1d48-49b6-8d0c-d0c45692b80e</guid>
-            <pubDate>Sat, 07 May 2016 09:11:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Third NH Bitcoin Vending Machine Launches in North Country]]></title>
-            <description><![CDATA[<article><h1>Third NH Bitcoin Vending Machine Launches in North Country</h1><p>Store owner Bill Bochynski decided to install the " General Bytes" brand BVM, the same type found at Murphy's Taproom in Manchester after seeing the unit in operation there. He cited the Keene BVM, operated by the Shire Free Church, as his original inspiration for adding a BVM to the North Country.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b3c1c799477471576fb4fd67db654f42fdd3b1a.jpg"></article>]]></description>
-            <link>http://freekeene.com/2016/05/07/third-nh-bitcoin-vending-machine-launches-in-north-country/</link>
-            <guid isPermaLink="false">63dbbe95-58bc-4a3b-93ff-84b8d87889d0</guid>
             <pubDate>Sat, 07 May 2016 09:11:27 GMT</pubDate>
         </item>
     </channel>
