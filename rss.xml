@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 20:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 20:16:57 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Cardfy Sells German and Austrian Gift Cards for Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Cardfy Sells German and Austrian Gift Cards for Bitcoin</h1><p>It is always positive to see a new merchant venture into the world of Bitcoin and cryptocurrency, as it opens up exciting opportunities for both businesses and consumers. Cardfy, a shop specializing in German gift cards, now accepts Bitcoin payments.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e36df2757e2460e25a387c9d9461bf441a35908f.jpg"></article>]]></description>
-            <link>http://themerkle.com/cardfy-sells-german-and-austrian-gift-cards-for-bitcoin/</link>
-            <guid isPermaLink="false">486f87ac-d6f0-406d-8dec-d2f8166d207c</guid>
-            <pubDate>Sat, 07 May 2016 20:16:10 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Adoption in Japan Will Not Happen Overnight]]></title>
             <description><![CDATA[<article><h1>Bitcoin Adoption in Japan Will Not Happen Overnight</h1><p>Although Bitcoin seems to be a big trend in Japan right now, the number of places to spend cryptocurrency is still fairly low. Merchants are not too keen on accepting Bitcoin just yet, despite growing interest from consumers and investors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c10112f964f990e11f237a4cd79bbf57f513eb32.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>The coming drop in new bitcoins doesn't guarantee a price surge</h1><p>Here's what we're all hearing: The number of new bitcoins getting into circulation every 10 minutes will halve from 25 to 12.5 on July 12 at 00:20:18, and the bitcoin price will surge as a result. Maybe it will surge a little. Maybe not at all. But it's widely expected to rise.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ce66cad645a4bed36ed956502ab0c7929b386f5.jpg"></article>]]></description>
             <link>http://venturebeat.com/2016/05/07/the-coming-drop-in-new-bitcoins-doesnt-guarantee-a-price-surge/</link>
             <guid isPermaLink="false">3dadb55b-6dbb-40bd-b6b2-12cd9d0996a5</guid>
+            <pubDate>Sat, 07 May 2016 18:36:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vante.me Is A New Bitcoin Vanity Address Generator]]></title>
+            <description><![CDATA[<article><h1>Vante.me Is A New Bitcoin Vanity Address Generator</h1><p>Bitcoin vanity addresses have alway had a certain appeal to cryptocurrency users all over the world, even though it is rather difficult to generate such an address oneself. Vante.me is a new service claiming to offer this service in a secure and convenient way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/502aa3ee85d3290cd71db6ac9c0b1f282561a9c9.jpg"></article>]]></description>
+            <link>http://themerkle.com/vante-me-is-a-new-bitcoin-vanity-address-generator/</link>
+            <guid isPermaLink="false">3e285aa0-fcc5-4ac3-86d2-4f8ab78de9b9</guid>
             <pubDate>Sat, 07 May 2016 18:36:29 GMT</pubDate>
         </item>
     </channel>
