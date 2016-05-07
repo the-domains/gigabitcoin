@@ -32,10 +32,10 @@ keywords:
 description: "In this opinion, Lingham explains why he believes the price of bitcoin is headed higher, even if this won't be the direct result of the network's reward halving this year. The post is a follow-up to his widely circulated opposing prediction, issued in 2014."
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.coindesk.com/2016%E2%80%8A-brought-bitcoin-awakening/'
+isBasedOnUrl: 'http://www.coindesk.com/2016%e2%80%8a-brought-bitcoin-awakening/'
 title: 2016  Has Brought a Bitcoin Awakening - CoinDesk
-datePublished: '2016-05-07T05:35:15.509Z'
-dateModified: '2016-05-06T16:07:33.758Z'
+datePublished: '2016-05-07T05:35:16.070Z'
+dateModified: '2016-05-06T15:37:29.213Z'
 starred: false
 sourcePath: _posts/2016-05-07-2016-has-brought-a-bitcoin-awakening-coindesk.md
 inFeed: true
