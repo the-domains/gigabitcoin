@@ -4,29 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 05:35:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 05:35:57 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Why Satoshi's Identity Matters & Why It's Irrelevant for Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Why Satoshi's Identity Matters & Why It's Irrelevant for Bitcoin</h1><p>There is one credible argument about why it is important to know Satoshi Nakamoto's identity for the interests of bitcoin. His public wallets will account for about 5.5 % of the total number of bitcoin which will be in circulation after the 21 millionth - the last- bitcoin has been mined in approximately the year 2140.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d51241d1dff05aba31db674614a7974dcad586d7.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/why-satoshis-identity-matters-why-its-irrelevant-for-bitcoin/</link>
-            <guid isPermaLink="false">8f45e8ef-4883-4145-8b02-f6d1e59ac8d1</guid>
-            <pubDate>Sat, 07 May 2016 05:35:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Prices Calm Despite Craig Wright Controversy - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Prices Calm Despite Craig Wright Controversy - CoinDesk</h1><p>Bitcoin has had a quiet week, experiencing low trading volume and rather modest price changes as market observers saw Australian academic Craig Wright claim to be Satoshi Nakamoto, the pseudonymous creator of bitcoin. On the other hand, ether - the native token of the Ethereum network - fluctuated far more significantly in terms of price during the seven days through 6th May.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/36bf841e08aa6b14c92552749d3c70746a7e792b.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/bitcoin-prices-calm-craig-wright-controversy/</link>
-            <guid isPermaLink="false">c6860776-f492-4e81-a7a9-365e82ae05a7</guid>
-            <pubDate>Sat, 07 May 2016 05:35:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Emercoin Added to Microsoft Azure Platform - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>Emercoin Added to Microsoft Azure Platform - Bitcoinist.net</h1><p>The Emercoin platform was built with a key goal in mind, to help solve real-life problems and deliver decentralizing solutions for businesses around the world - and that goal became a little easier to achieve earlier this year. This article was provided by the Vanbex Group on behalf of the Emercoin project.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/94dc047de02c156cae8b645ef4b484a261a79a2e.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/emercoin-on-azure/</link>
-            <guid isPermaLink="false">180a15ca-1c30-4bd3-9068-711a8c373be1</guid>
-            <pubDate>Sat, 07 May 2016 05:35:13 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Would this scheme allow faster verification of transactions? (Multiple parallel block chains)]]></title>
             <description><![CDATA[<article><h1>Would this scheme allow faster verification of transactions? (Multiple parallel block chains)</h1><p>One issue with one block chain is that it needs to be globally synchronized. One way to elevate this would be to use multiblock chains. Namely, we can imagine that there are N block chains, working in parallel. To make double spending impossible, a you can only spend a total of 1/N of your total money on each chain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -75,6 +54,27 @@
             <link>https://twitter.com/ErikVoorhees/status/727929857733058560</link>
             <guid isPermaLink="false">1fce03d1-2e92-406f-a9bb-8a205161a724</guid>
             <pubDate>Fri, 06 May 2016 13:58:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Post-Mortem Of A Con: To Be Satoshi Nakamoto or Not To Be?]]></title>
+            <description><![CDATA[<article><h1>Post-Mortem Of A Con: To Be Satoshi Nakamoto or Not To Be?</h1><p>The con is over. Dr. Craig Steven Wright will not provide proof he is Satoshi Nakamoto. While Gavin Andresen admits he might have been fooled, Jon Matonis stands behind Wright's claim that he is Satoshi. Also read: Craig Wright Exits The Bitcoin Stage With Weird Blog Post There won't be an on-chain signing from early bitcoin blocks, but there also won't be another Satoshi.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4b32ffef30c8787bcd71c31784e4e65117f4bb2.png"></article>]]></description>
+            <link>http://bitcoinist.net/satoshi-nakamoto-or-not-to-be/</link>
+            <guid isPermaLink="false">febcf274-e44a-4695-9692-2d7aad4d031a</guid>
+            <pubDate>Fri, 06 May 2016 13:58:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gemini Is Now the World's First Licensed Ether Exchange!]]></title>
+            <description><![CDATA[<article><h1>Gemini Is Now the World's First Licensed Ether Exchange!</h1><p>We are thrilled to announce support for ether trading starting on Monday, May 9th at 9:30 AM EDT. We will be offering ETH/BTC and ETH/USD trading pairs on two new order books. In the meantime, you can now store your ether on Gemini in advance of trading next week, with all of the same industry leading security we already offer for bitcoin storage.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc4dede1326a6c0053111797ec9d1b6f3b001951.jpg"></article>]]></description>
+            <link>https://gemini.com/blog/gemini-is-now-the-worlds-first-licensed-ether-exchange/</link>
+            <guid isPermaLink="false">366b221a-f5c1-4ea9-b4f1-d15f6fd6d0f6</guid>
+            <pubDate>Fri, 06 May 2016 13:58:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In the beginning, there was Bitcoin - Digital Chains]]></title>
+            <description><![CDATA[<article><h1>In the beginning, there was Bitcoin - Digital Chains</h1><p>I'm writing this Medium from the viewpoint of being perched on some rather uncomfortable crates in the middle of a big warehouse in Kreuzberg, Berlin, where the re:publica Internet and Society conference is happening. Outside, the sun is shining and around me, there are talks and exhibitions happening on more than ten stages.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b07a9f4a7e8eb7ca423fe9d7588b69f13f03155.jpg"></article>]]></description>
+            <link>http://gigabitcoin.xyz/in-the-beginning-there-was-bitcoin-digital-chains/index.html</link>
+            <guid isPermaLink="false">3316f4da-ed8c-44b5-a53c-1f48d891c8e1</guid>
+            <pubDate>Fri, 06 May 2016 13:58:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
