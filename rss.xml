@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 09:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 09:12:03 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Australian Treasury department calls for public comments to help classify digital currency]]></title>
-            <description><![CDATA[<article><h1>Australian Treasury department calls for public comments to help classify digital currency</h1><p>The Australian Treasury department recently released a discussion paper, "GST treatment of digital currency," which asks for public comments on how Bitcoin and other digital currencies should be defined and taxed. - The Hon. Scott Morrison MP The 15-page document is integral to the government's new fintech push, announced in March.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c53fe5c8a90b31b0419f86d2ec8b94d88e11888d.jpg"></article>]]></description>
-            <link>http://bravenewcoin.com/news/australian-treasury-department-calls-for-public-comments-to-help-classify-digital-currency/</link>
-            <guid isPermaLink="false">3d20e4bb-d1cd-40c7-a30e-4abc6350aef3</guid>
-            <pubDate>Sat, 07 May 2016 09:11:27 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Charles Sturt University Retracts Craig Wright Post]]></title>
             <description><![CDATA[<article><h1>Charles Sturt University Retracts Craig Wright Post</h1><p>Now that the discussion about Craig Wright inventing Bitcoin has turned out to be nothing more than a tumbleweed, more and more people are retracting their claims which validated his "evidence". Charles Sturt University had a post up explaining why Wright could be Satoshi, but they retracted that rather quickly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/133412da486bd176637f9871ee661e7e30ff2d19.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Ethereum: A Valuable FinTech Sandbox - CoinDesk</h1><p>Previously a CoinDesk contributing editor and COO of micropayments platform ZapChain, Daniel Cawrey is currently working on an Ethereum project for autonomous applications. In this opinion feature, Cawrey discusses how the Ethereum platform has risen beyond its altcoin rivals to become a valuable tool for FinTech business wishing to experiment on new blockchain-based products.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d829acf4ff4fbad2c379d6e7f089dfd9ab38a25.jpg"></article>]]></description>
             <link>http://www.coindesk.com/ethereum-fintech-sandbox/</link>
             <guid isPermaLink="false">b2a06bbf-f694-4705-a4ee-2db4068e7c6c</guid>
+            <pubDate>Sat, 07 May 2016 05:35:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sweatcoin Pays Digital Currency To Users Taking Steps Every Day]]></title>
+            <description><![CDATA[<article><h1>Sweatcoin Pays Digital Currency To Users Taking Steps Every Day</h1><p>Measuring the movement and location by users to prevent cheating is of the utmost importance for Sweatcoin. There seems to be an interesting correlation between issuing a new current to people who want to get fit. A new application on for iOS will pay people in Sweatcoin, depending on a number of steps they have taken every day.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7aa3834f65145e6a27a3ad28859011010edddcbd.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/06/sweatcoin-pays-digital-currency-to-users-taking-steps-every-day/</link>
+            <guid isPermaLink="false">474ef940-f1b2-404b-bd2b-f4e0d2388984</guid>
             <pubDate>Sat, 07 May 2016 05:35:16 GMT</pubDate>
         </item>
     </channel>
