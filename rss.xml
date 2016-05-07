@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 05:37:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 05:37:20 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Workshop Experts Explore Problems in Implementing Blockchain IDs - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Workshop Experts Explore Problems in Implementing Blockchain IDs - CoinDesk</h1><p>Identity is one use case of the blockchain that has many people excited. For the first time, an individual has the potential to create a true, immutable identity distributed across an entire network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/449fefd2bde6bc7cd827d1ddd8b9ea819f98894b.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/experts-talk-self-sovereign-identity-implementing-systems/</link>
+            <guid isPermaLink="false">650261e8-d6ec-4693-804b-8dd4b06e99b9</guid>
+            <pubDate>Sat, 07 May 2016 05:35:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin's Next Adoption Phase Imminent as Public Interest Surges]]></title>
             <description><![CDATA[<article><h1>Bitcoin's Next Adoption Phase Imminent as Public Interest Surges</h1><p>The Bitcoin space hasn't looked this bullish since early 2014. Riding on the coattails of the current hype around blockchain technology engulfing the financial sector, Bitcoin is not only reaching yearly highs in price, but public interest has also spiked as of late.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/36cf648ce75eec598256d3e4b648ff42e18fd751.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Organized Crime Research Funded by Germany and Austria - CoinDesk</h1><p>The Austrian and German governments are funding a research effort focused on the use of digital currencies in organized crime. Dubbed 'BitCrime', the initiative is backed by a number of governmental agencies in the two countries, and is split into two sub-projects.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fd81b907e743d1380ad962db6e481c9b711327e.jpg"></article>]]></description>
             <link>http://www.coindesk.com/german-austrian-research-digital-currency/</link>
             <guid isPermaLink="false">98c5a878-93c1-427f-94a5-6ecaf5e2b74f</guid>
-            <pubDate>Sat, 07 May 2016 05:35:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Winklevoss Twins Say They Own Sizable Amount of Ethereum Digital Tokens]]></title>
-            <description><![CDATA[<article><h1>Winklevoss Twins Say They Own Sizable Amount of Ethereum Digital Tokens</h1><p>Following yesterday's landmark announcement by the NYDFS regarding the addition of ether - the digital token powering the Ethereum blockchain network - to the Gemini bitcoin exchange, the Winklevoss twins revealed today that they have been investing in Ethereum's digital tokens.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3292eb0b26598137a660e7b65ba99b5bbf0e74ad.jpg"></article>]]></description>
-            <link>http://themerkle.com/winklevoss-twins-own-material-amount-of-ether-digital-currency/</link>
-            <guid isPermaLink="false">c506f068-45a3-4469-b5ee-d87555e75464</guid>
             <pubDate>Sat, 07 May 2016 05:35:14 GMT</pubDate>
         </item>
     </channel>
