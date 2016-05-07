@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 15:52:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 18:37:03 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vante.me Is A New Bitcoin Vanity Address Generator]]></title>
+            <description><![CDATA[<article><h1>Vante.me Is A New Bitcoin Vanity Address Generator</h1><p>Bitcoin vanity addresses have alway had a certain appeal to cryptocurrency users all over the world, even though it is rather difficult to generate such an address oneself. Vante.me is a new service claiming to offer this service in a secure and convenient way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/502aa3ee85d3290cd71db6ac9c0b1f282561a9c9.jpg"></article>]]></description>
+            <link>http://themerkle.com/vante-me-is-a-new-bitcoin-vanity-address-generator/</link>
+            <guid isPermaLink="false">3e285aa0-fcc5-4ac3-86d2-4f8ab78de9b9</guid>
+            <pubDate>Sat, 07 May 2016 18:36:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DNotes Hosts Kickstarter to Promote Co-Founder's Book]]></title>
+            <description><![CDATA[<article><h1>DNotes Hosts Kickstarter to Promote Co-Founder's Book</h1><p>DNotes is hosting a Kickstarter campaign to promote co-founder Alan Yong's book, The Four Pillars of Business Success, as part of their "Small Business Week" celebration. Disclaimer: This article was provided by Bitcoin PR Buzz. Bitcoinist is not affiliated with the firms represented by Bitcoin PR Buzz and is not responsible for their products and/or services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3719c255445db5cbf77d75b0c062b8a95d669e01.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/dnotes-kickstarter-book/</link>
+            <guid isPermaLink="false">3f696387-77a7-4988-8ed1-f56525c8a1f9</guid>
+            <pubDate>Sat, 07 May 2016 18:36:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Andresen's Commit Access Hangs in Balance Following Wright Exit]]></title>
             <description><![CDATA[<article><h1>Andresen's Commit Access Hangs in Balance Following Wright Exit</h1><p>Gavin Andresen has been a part of the Bitcoin community since the very beginning. As one of the earliest contributors Satoshi's original code, Andresen was entrusted with the Bitcoin protocol before Bitcoin's creator disappeared. Now, following the Craig Wright controversy, Andresen will have to fight to get his commit access back after having it stripped by fellow Core developers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09797cd5f056c39c98e1139620551b0ae5545c53.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Foundation's Gavin Andresen has code repository access revoked</h1><p>Gavin Andresen, chief scientist of the Bitcoin Foundation, has had his access to the Bitcoin Core code repository revoked following his support for Craig Wright, who claimed earlier this week he wa...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d10eed05dee8dc8b16e27d36047306cdc5eed59f.png"></article>]]></description>
             <link>https://coinreport.net/bitcoin-foundations-gavin-andresen-code-repository-access-revoked/</link>
             <guid isPermaLink="false">8db17108-2801-4c9e-9cb6-5d24044daa30</guid>
-            <pubDate>Sat, 07 May 2016 15:51:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inkshares Combines Crowdfunded Publishing With Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Inkshares Combines Crowdfunded Publishing With Bitcoin</h1><p>Inkshares is quite a unique platform when it comes to dealing with Bitcoin payments, as they primarily focus on content creation in written format. Anyone who aspires of writing a book may want to look into this platform, as they accept Bitcoin payments for books as well.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/395ad8f8536df8957d43618a1a95f08946a5f4aa.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/inkshares-crowdfunded-publishing-bitcoin/</link>
-            <guid isPermaLink="false">d7d60675-bed4-41c5-9cea-69d9bb8fef58</guid>
-            <pubDate>Sat, 07 May 2016 15:51:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Adoption in Africa Up Due to Trading, Remittances, Freelancing, Mining Remains Low]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Adoption in Africa Up Due to Trading, Remittances, Freelancing, Mining Remains Low</h1><p>Bitcoin users in parts of Africa have an almost non-existent mining practice yet the virtual currency's level of adoption is driving more Africans to its trade. Aside from a Ghanaian firm, Ghana Dot Com (GDC), which claimed it has launched the first Bitcoin mining facility in Africa in March, most mining efforts in parts of Africa are usually done on an individual basis or crowd mining with little or no chance of profitability.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/237f54246d0336a498e20401c0a802302b93ad6a.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/bitcoin-adoption-in-africa-up-due-to-trading-remittances-freelancing-mining-remains-low</link>
-            <guid isPermaLink="false">5b0ba8e5-3c4e-4b3c-bcb0-4bc5409097eb</guid>
             <pubDate>Sat, 07 May 2016 15:51:57 GMT</pubDate>
         </item>
     </channel>
