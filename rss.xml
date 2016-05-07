@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 05:37:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 05:37:22 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Award-Winning I/O Digital Creates Foundation For Blockchain Work And Charities]]></title>
+            <description><![CDATA[<article><h1>Award-Winning I/O Digital Creates Foundation For Blockchain Work And Charities</h1><p>I/O Digital, the creator of I/O Coin and its proof-of-stake blockchain network, has won the European FinTech awards and is launching a foundation called the I/O Digital Foundation to support blockchain projects as well as charity donations. I/O Digital won the public award at the European FinTech Awards in the blockchain category.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb0c2ea188e646ae66641222d908aec4cf0604cd.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/io-digital-wins-european-fintech-awards-creates-foundation-for-blockchain-work-and-charities/</link>
+            <guid isPermaLink="false">dc7a287d-072f-401e-ac90-f3233f0ba59d</guid>
+            <pubDate>Sat, 07 May 2016 05:35:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Workshop Experts Explore Problems in Implementing Blockchain IDs - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Workshop Experts Explore Problems in Implementing Blockchain IDs - CoinDesk</h1><p>Identity is one use case of the blockchain that has many people excited. For the first time, an individual has the potential to create a true, immutable identity distributed across an entire network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/449fefd2bde6bc7cd827d1ddd8b9ea819f98894b.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://bitcoinmagazine.com/articles/akasha-project-unveils-decentralized-social-media-network-based-on-ethereum-and-ipfs-1462551273</link>
             <guid isPermaLink="false">8d06ebc8-9726-4f4b-9ce2-516e33c05a8f</guid>
             <pubDate>Sat, 07 May 2016 05:35:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Organized Crime Research Funded by Germany and Austria - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Organized Crime Research Funded by Germany and Austria - CoinDesk</h1><p>The Austrian and German governments are funding a research effort focused on the use of digital currencies in organized crime. Dubbed 'BitCrime', the initiative is backed by a number of governmental agencies in the two countries, and is split into two sub-projects.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fd81b907e743d1380ad962db6e481c9b711327e.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/german-austrian-research-digital-currency/</link>
-            <guid isPermaLink="false">98c5a878-93c1-427f-94a5-6ecaf5e2b74f</guid>
-            <pubDate>Sat, 07 May 2016 05:35:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
