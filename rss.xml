@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 09:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 09:12:01 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ripple & Coinbase Expected to Obtain NY BitLicense - Bitcoin News]]></title>
+            <description><![CDATA[<article><h1>Ripple & Coinbase Expected to Obtain NY BitLicense - Bitcoin News</h1><p>According to a Reuters report, Coinbase and Ripple are very close to being approved for bitcoin licenses by New York's financial regulator, which would allow the two companies to legally operate within the state.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcc0b635ff4c393fa60b627f35c0bedd439e4cef.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/ripple-coinbase-obtain-ny-bitlicense/</link>
+            <guid isPermaLink="false">bc9c668e-2034-4ba5-8394-f0e1c84723e5</guid>
+            <pubDate>Sat, 07 May 2016 09:11:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mycelium Wallet Will Support Fiat Tokens Through Waves]]></title>
             <description><![CDATA[<article><h1>Mycelium Wallet Will Support Fiat Tokens Through Waves</h1><p>In an interesting turn of events, Bitcoin wallet provider Mycelium and the Waves platform have formed a strategic partnership. As a result of this agreement, national currency transfers will be made available to Mycelium users in the future. Most people are well aware of the current Mycelium crowdsale which is taking place right now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a6c2dd21bc764f892b8148df353c56f47910028.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Wikipedia, Art and Social Wallet: Interview with Kyle Kemper</h1><p>CoinTelegraph speaks to Canadian Bitcoiner Kyle Kemper about the Social Wallet, a nonprofit that hopes to digitize every aspect of a physical wallet, money, services, and identity. Kyle Kemper: Since this started, so many people have chipped in here and there. Brooks Hunter has been doing videos for 15 years, and was behind that Vimeo video.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac3c3a6b713db28f28e6994328e38f210c95bfca.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/wikipedia-art-and-social-wallet-interview-with-kyle-kemper</link>
             <guid isPermaLink="false">16f1182f-cb49-4edc-884e-aea6ac76566f</guid>
-            <pubDate>Sat, 07 May 2016 05:35:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; the Weekend Ahead... - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; the Weekend Ahead... - NEWSBTC</h1><p>Here's what we are looking to trade in the bitcoin price as we head into the weekend. Stops, targets and entries included. In this morning's bitcoin price watch article, we noted that the range we were focusing on in the bitcoin price was probably a little too tight to bring an intrarange strategy into the equation, but for an aggressive trader, it would probably be possible to draw a profit under some strict risk management parameters.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ae37f54c072af36cde94f428081d49f7c02b338.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/06/bitcoin-price-watch-weekend-ahead-2-3/</link>
-            <guid isPermaLink="false">a791ccca-c015-43f1-bcc5-7d2b76f29de1</guid>
             <pubDate>Sat, 07 May 2016 05:35:16 GMT</pubDate>
         </item>
     </channel>
