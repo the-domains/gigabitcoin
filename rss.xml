@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 05:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 05:35:59 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Tech News Sites Are Not Sold on Bitcoin Yet]]></title>
-            <description><![CDATA[<article><h1>Tech News Sites Are Not Sold on Bitcoin Yet</h1><p>Despite all of the attention on Bitcoin and its alleged creator over the past week or so, most major tech sites are still not keen on Bitcoin. That may seem only normal, as Bitcoin is in direct competition with the financial entities which support these media outlets.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4397f42b6a199fc5967c514a60790b016e0313e.jpg"></article>]]></description>
-            <link>http://themerkle.com/tech-news-sites-are-not-sold-on-bitcoin-yet/</link>
-            <guid isPermaLink="false">c45ad2e5-200f-4f1d-8484-8aa3b269fb89</guid>
-            <pubDate>Sat, 07 May 2016 05:35:14 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Microsoft Joins Chamber of Digital Commerce]]></title>
             <description><![CDATA[<article><h1>Microsoft Joins Chamber of Digital Commerce</h1><p>Microsoft continues their push to bring their Blockchain-as-a-Service to as many enterprises and developers in the world as possible. Moreover, the company recently joined the Chamber of Digital Commerce, which strengthens the company's position in the field of distributed ledgers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37b32b1c3ba96942a21243083883da4a37293a17.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Noise in the Markets, and Bitcoin's 'Creator' Surfaces - Podcast</h1><p>The world has already thrown investors two curve balls this year; what else can they handle? On MoneyBeat's Friday Food Fight podcast, we talked about "noise" in the market, and how best to handle it. Back in December, everybody assumed the Fed would be raising interest rates four times in 2016, and that Donald Trump 's odds of capturing the GOP nomination were very low.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a9003d6afbd690613bec6633f8df49db22ce1b3.jpg"></article>]]></description>
             <link>http://blogs.wsj.com/moneybeat/2016/05/06/noise-in-the-markets-and-bitcoins-creator-surfaces-podcast/</link>
             <guid isPermaLink="false">acaaf86f-c710-4262-94ab-fe7a321f5158</guid>
+            <pubDate>Sat, 07 May 2016 05:35:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Merchant Spotlight - Cheers Bar & Grill]]></title>
+            <description><![CDATA[<article><h1>Merchant Spotlight - Cheers Bar & Grill</h1><p>If you've been following the news, Bitcoin is a pretty big deal all over the world. The largest banks to the smallest shops can benefit from faster, affordable, and purely digital payments. The Linkou District in the western part of New Taipei is home to Cheers Linkou Bar and Grill.</p></article>]]></description>
+            <link>https://blog.blockchain.com/2016/05/06/merchant-spotlight-cheers-bar-grill/</link>
+            <guid isPermaLink="false">0641494f-632b-4fec-98bc-72b44befed63</guid>
             <pubDate>Sat, 07 May 2016 05:35:13 GMT</pubDate>
         </item>
     </channel>
