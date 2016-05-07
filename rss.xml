@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 18:37:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 20:16:13 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blockchain, the Ideal Tech to Ensure Legal & Regulatory Compliance among Companies - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Blockchain, the Ideal Tech to Ensure Legal & Regulatory Compliance among Companies - NEWSBTC</h1><p>The use of blockchain technology in registration and compliance of companies will help the regulatory authorities will help the regulatory authorities prevent fraud and misappropriation in/by the companies. The implementation of digital currency technology across the banking and financial sector is in full swing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92916676afeb892306d7238af1e9cddfc3fd9275.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/07/blockchain-the-ideal-tech-to-ensure-legal-regulatory-compliance-among-companies/</link>
+            <guid isPermaLink="false">6968b48e-5b84-437c-a85e-9a27bf00841f</guid>
+            <pubDate>Sat, 07 May 2016 20:16:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Former Amazon exec's Bitcoin service iPayYou aims to make cryptocurrency easier and more transparent - GeekWire]]></title>
             <description><![CDATA[<article><h1>Former Amazon exec's Bitcoin service iPayYou aims to make cryptocurrency easier and more transparent - GeekWire</h1><p>Bitcoin has plenty of barriers to entry. Even if you understand that it's a secure cryptocurrency, the steps needed to acquire and keep track of Bitcoin can be daunting. Then finding people who you can use the digital currency with is another hurdle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14e96a7283f96f55770ef06e8a8fb7a55b2bed99.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://bitcoinist.net/dnotes-kickstarter-book/</link>
             <guid isPermaLink="false">3f696387-77a7-4988-8ed1-f56525c8a1f9</guid>
             <pubDate>Sat, 07 May 2016 18:36:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andresen's Commit Access Hangs in Balance Following Wright Exit]]></title>
-            <description><![CDATA[<article><h1>Andresen's Commit Access Hangs in Balance Following Wright Exit</h1><p>Gavin Andresen has been a part of the Bitcoin community since the very beginning. As one of the earliest contributors Satoshi's original code, Andresen was entrusted with the Bitcoin protocol before Bitcoin's creator disappeared. Now, following the Craig Wright controversy, Andresen will have to fight to get his commit access back after having it stripped by fellow Core developers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09797cd5f056c39c98e1139620551b0ae5545c53.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/gavin-andresen-commit-access/</link>
-            <guid isPermaLink="false">42f7c861-ab6c-4335-9a75-f59e438a0c37</guid>
-            <pubDate>Sat, 07 May 2016 15:51:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
