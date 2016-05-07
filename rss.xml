@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 15:52:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 15:52:40 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Andresen's Commit Access Hangs in Balance Following Wright Exit]]></title>
+            <description><![CDATA[<article><h1>Andresen's Commit Access Hangs in Balance Following Wright Exit</h1><p>Gavin Andresen has been a part of the Bitcoin community since the very beginning. As one of the earliest contributors Satoshi's original code, Andresen was entrusted with the Bitcoin protocol before Bitcoin's creator disappeared. Now, following the Craig Wright controversy, Andresen will have to fight to get his commit access back after having it stripped by fellow Core developers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09797cd5f056c39c98e1139620551b0ae5545c53.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/gavin-andresen-commit-access/</link>
+            <guid isPermaLink="false">42f7c861-ab6c-4335-9a75-f59e438a0c37</guid>
+            <pubDate>Sat, 07 May 2016 15:51:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Does Scotland's Fintech Push Mean for Bitcoin?]]></title>
+            <description><![CDATA[<article><h1>What Does Scotland's Fintech Push Mean for Bitcoin?</h1><p>Bitcoin and cryptocurrency is an integral part of Fintech all over the world. Scotland has recently announced their five-year plan to become a Fintech hub shortly, and the Fintech Strategy Group has been created. Many countries around the world are focusing their attention on the industry right now, as no one wants to be left out by the look of things.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3042edbc69bd6d75b2a00929f8bf02f61c7b6aa.jpg"></article>]]></description>
+            <link>http://themerkle.com/what-does-scotlands-fintech-push-mean-for-bitcoin/</link>
+            <guid isPermaLink="false">3d43df84-1327-410b-bb2a-39c6e372b4c1</guid>
+            <pubDate>Sat, 07 May 2016 15:51:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Huobi: PBoC Digital Currency 'Design Ideas' Differ from Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Huobi: PBoC Digital Currency 'Design Ideas' Differ from Bitcoin</h1><p>As one of China's "big three" bitcoin exchanges, Huobi (huobi.com) has been responsible for processing a significant chunk of trading volume, particularly as of late. With over 90% of BTC trading conducted with Chinese Yuan (CNY), the Beijing-based exchange is undoubtedly an important player in the Bitcoin economy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5f88f73d59e1470c9ca7ac9f89f017581474e09.png"></article>]]></description>
+            <link>https://news.bitcoin.com/huobi-ceo-interview-pboc/</link>
+            <guid isPermaLink="false">95545361-13b2-426d-87c8-6652c8eddf60</guid>
+            <pubDate>Sat, 07 May 2016 15:51:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[University of Macedonia Investigates Cryptocurrency Adoption in the EU]]></title>
             <description><![CDATA[<article><h1>University of Macedonia Investigates Cryptocurrency Adoption in the EU</h1><p>The adoption of digital currencies from companies in European Union is a controversial issue as the legal framework is still vague in terms of accounting and currency handling. The directions from the European Central Bank are mainly focused on warning investors about the unstable nature of cryptocurrencies and the high volatility that is involved in their prices.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b3b3c95d8b23070bee84b983c5964a7266eb34f.jpg"></article>]]></description>
@@ -28,17 +49,17 @@
             <pubDate>Sat, 07 May 2016 15:51:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bitcoin Foundation's Gavin Andresen has code repository access revoked]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Foundation's Gavin Andresen has code repository access revoked</h1><p>Gavin Andresen, chief scientist of the Bitcoin Foundation, has had his access to the Bitcoin Core code repository revoked following his support for Craig Wright, who claimed earlier this week he wa...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d10eed05dee8dc8b16e27d36047306cdc5eed59f.png"></article>]]></description>
-            <link>https://coinreport.net/bitcoin-foundations-gavin-andresen-code-repository-access-revoked/</link>
-            <guid isPermaLink="false">8db17108-2801-4c9e-9cb6-5d24044daa30</guid>
-            <pubDate>Sat, 07 May 2016 15:51:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Startups' Hopes Wane as Bitcoin Fails to Gain Currency With Consumers]]></title>
             <description><![CDATA[<article><h1>Startups' Hopes Wane as Bitcoin Fails to Gain Currency With Consumers</h1><p>The bitcoin movement, encouraged by venture-capital investors, has so far failed to kick off a consumer cryptocurrency revolution. Investors' hopes had run high that the digital currency could solve credit card fraud and lower fees on purchases. "We saw the digital currency as a solution, the proverbial silver bullet to solve these issues," said John McDonnell, a former Visa Inc.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b670ff2756812ce948d42367cd556066fdee272d.jpg"></article>]]></description>
             <link>http://www.wsj.com/articles/startups-hopes-wane-as-bitcoin-fails-to-gain-currency-with-consumers-1462361406</link>
             <guid isPermaLink="false">7c36bb35-880b-4faa-a6e6-fd430e981464</guid>
+            <pubDate>Sat, 07 May 2016 15:51:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Foundation's Gavin Andresen has code repository access revoked]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Foundation's Gavin Andresen has code repository access revoked</h1><p>Gavin Andresen, chief scientist of the Bitcoin Foundation, has had his access to the Bitcoin Core code repository revoked following his support for Craig Wright, who claimed earlier this week he wa...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d10eed05dee8dc8b16e27d36047306cdc5eed59f.png"></article>]]></description>
+            <link>https://coinreport.net/bitcoin-foundations-gavin-andresen-code-repository-access-revoked/</link>
+            <guid isPermaLink="false">8db17108-2801-4c9e-9cb6-5d24044daa30</guid>
             <pubDate>Sat, 07 May 2016 15:51:57 GMT</pubDate>
         </item>
         <item>
@@ -53,27 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Adoption in Africa Up Due to Trading, Remittances, Freelancing, Mining Remains Low</h1><p>Bitcoin users in parts of Africa have an almost non-existent mining practice yet the virtual currency's level of adoption is driving more Africans to its trade. Aside from a Ghanaian firm, Ghana Dot Com (GDC), which claimed it has launched the first Bitcoin mining facility in Africa in March, most mining efforts in parts of Africa are usually done on an individual basis or crowd mining with little or no chance of profitability.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/237f54246d0336a498e20401c0a802302b93ad6a.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/bitcoin-adoption-in-africa-up-due-to-trading-remittances-freelancing-mining-remains-low</link>
             <guid isPermaLink="false">5b0ba8e5-3c4e-4b3c-bcb0-4bc5409097eb</guid>
-            <pubDate>Sat, 07 May 2016 15:51:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can I send Bitcoins without a wallet]]></title>
-            <description><![CDATA[<article><h1>Can I send Bitcoins without a wallet</h1><p>How can I send bitcoins to someone, without having to purchase them first or set up a wallet? I'm looking for a service that will send N bitcoins to a given address. I pay them with my credit card...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/43999/can-i-send-bitcoins-without-a-wallet</link>
-            <guid isPermaLink="false">7df93ae9-0191-4117-8b02-c63662b52186</guid>
-            <pubDate>Sat, 07 May 2016 15:51:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mycelium Unveils New Wallet and Strategic Partnership - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>Mycelium Unveils New Wallet and Strategic Partnership - Bitcoinist.net</h1><p>The Bitcoin company Also read: Industry Report: Dr. Satoshi, BitPay Launches Bitcoin Debit Card Mycelium recently announced the launch of a new updated wallet service and crowdsale . The application will no longer be a "typical wallet" says the Mycelium team and the API will allow developers to implement their own tweaks and modifications within the platform.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/579bcf91569e1d46c8fb6cb34910edbebdffb903.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/mycelium-new-wallet-and-partnership/</link>
-            <guid isPermaLink="false">12030b98-3a95-4116-be59-a1a9a4a9ac27</guid>
-            <pubDate>Sat, 07 May 2016 15:51:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Germany & Austria Fund a Bitcoin Financial Crime Research Project]]></title>
-            <description><![CDATA[<article><h1>Germany & Austria Fund a Bitcoin Financial Crime Research Project</h1><p>A bilateral research initiative sees Germany and Austria funding the project which is focused on organized financial crime specifically committed with virtual currencies. The project, titled ' BITCRIME' will see funding from the German Federal Ministry of Education and Research (BMBF) and the Austrian Federal Ministry for Transport, Innovation and Technology (BMVIT).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19a9a7ffbf5a7218faee68ae3c58b328ed9bce9e.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-financial-crime-research-project-developed-germany-austria/</link>
-            <guid isPermaLink="false">f015581b-dc56-48fa-a392-7788b14a6916</guid>
             <pubDate>Sat, 07 May 2016 15:51:57 GMT</pubDate>
         </item>
     </channel>
