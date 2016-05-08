@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 19:31:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 19:31:35 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Security Experts Infiltrate Locky Ransomware C&C Server]]></title>
-            <description><![CDATA[<article><h1>Security Experts Infiltrate Locky Ransomware C&C Server</h1><p>Bitcoin ransomware has been the front and center of media attention in recent months, but luckily, security researchers are inching closer towards a solution.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30c9bffcb7d5f0b9eec4ea5e3f4839e61ff7698d.jpg"></article>]]></description>
-            <link>http://themerkle.com/security-experts-infiltrate-locky-ransomware-cc-server/</link>
-            <guid isPermaLink="false">d6884952-ee93-48d8-ad98-3b8e77d61643</guid>
-            <pubDate>Sun, 08 May 2016 19:28:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase, Bitpay and Bitcoin Core]]></title>
-            <description><![CDATA[<article><h1>Coinbase, Bitpay and Bitcoin Core</h1><p>A website shows their services can be purchased via Coinbase and Bitpay. I searched for information and found Bitcoin Core from bitcoin.org/en/choose-your-wallet and I think it is very popular among</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38d479760543e82fd956555750f9b5370d382166.jpg"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/44001/coinbase-bitpay-and-bitcoin-core</link>
-            <guid isPermaLink="false">3e6eb2d5-0a17-4689-984f-c765664458e3</guid>
-            <pubDate>Sun, 08 May 2016 19:28:48 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[IBM Brings Blockchains to the Cloud - Bitcoin News]]></title>
             <description><![CDATA[<article><h1>IBM Brings Blockchains to the Cloud - Bitcoin News</h1><p>Recently, IBM Also read: Bitcoin's Next Adoption Phase Imminent as Public Interest Surges announced a new blockchain architecture based in the cloud after working with "hundreds of clients, startups, and developers." The protocol is a cloud service that address security standards, regulatory compliance with Federal Information Processing Standards (FIPS 140-2) and Evaluation Assurance Levels (EAL).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2dcbe8aea200f5e4e3cd35fea164c6aa8860cd45.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>http://cryptomining-blog.com/7826-nvidia-introducing-the-geforce-gtx-1080-and-gtx-1070/</link>
             <guid isPermaLink="false">59786c3b-68fe-48ca-a4d8-5defbcda7bba</guid>
             <pubDate>Sun, 08 May 2016 19:28:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Mining Equipment Producer Spondoolies Dissolved by Court | Finance Magnates]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Mining Equipment Producer Spondoolies Dissolved by Court | Finance Magnates</h1><p>A sad ending for Israeli Bitcoin mining equipment producer Spondoolies-Tech. The firm has been dissolved by a court in southern Israel after it failed to pay its employees since April. Founded in 2013 by a group of Israeli high-tech veterans and cryptocurrency champions, Spondoolies has raised about $12 million to design high efficiency dedicated Bitcoin mining rigs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cf72e0e843bef7aff10f48893c77e0467a2d35d.jpg"></article>]]></description>
+            <link>http://www.financemagnates.com/cryptocurrency/news/bitcoin-mining-equipment-producer-spondoolies-dissolved-court/</link>
+            <guid isPermaLink="false">2fe8f09c-5350-4272-a4b3-6f4feda4d892</guid>
+            <pubDate>Sun, 08 May 2016 19:28:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Bitcoin Investors Should Know Before Trading Ethereum - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>What Bitcoin Investors Should Know Before Trading Ethereum - CoinDesk</h1><p>Given the increasing prominence of the idea blockchain tech will impact enterprise business, both retail investors and investment institutions are optimistic the market could soon develop into a vibrant new asset class. However, to date, there have been few alternative digital assets that have offered a value proposition that differs from that of bitcoin, the oldest publicly traded blockchain-based cryptocurrency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1af3ff7782f4bd1d875299aac5416def6bd95702.png"></article>]]></description>
+            <link>http://www.coindesk.com/what-to-know-trading-ethereum/</link>
+            <guid isPermaLink="false">fa2bd802-cfef-49be-ae65-3b748e402da0</guid>
+            <pubDate>Sun, 08 May 2016 19:28:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
