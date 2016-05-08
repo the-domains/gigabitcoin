@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 21:01:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 21:01:07 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lack of Dough Forces Spondoolies-Tech to Stop Operations - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Lack of Dough Forces Spondoolies-Tech to Stop Operations - NEWSBTC</h1><p>Spondoolies-Tech, the bitcoin hardware and cloudmining company has stopped operations. Read more... The Bitcoin industry can get unpredictable sometimes, just like the value of digital currency. In one such sudden, out of the blue announcement, Spondoolies-Tech's CEO, Guy Corem in a post on the company's page has announced that they have shut down their operations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/374ebc37c098f00d76b99b0f3e3dce69f65e5231.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/08/lack-dough-forces-spondoolies-tech-stop-operations/</link>
+            <guid isPermaLink="false">f7cd616b-b5da-408a-9ef2-57ceb6119420</guid>
+            <pubDate>Sun, 08 May 2016 21:00:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Twitter, Bitstamp, European Parliament: Monthly Recap about Bitcoin | HolyTransaction]]></title>
             <description><![CDATA[<article><h1>Twitter, Bitstamp, European Parliament: Monthly Recap about Bitcoin | HolyTransaction</h1><p>Welcome to HolyTransaction 's fifth monthly recap for the 2016! Thanks for this month together. April has been marked by continued interest in bitcoin technology from all around the world; during that time, the bitcoin price rose from a high of $469.31 on April 21st to a low of $435.08 on April 28th, according to Bitcoin exchange Bitstamp .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7918ed4cf2d307cf6c96c4e5f96301bd49885ba0.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://themerkle.com/security-experts-infiltrate-locky-ransomware-cc-server/</link>
             <guid isPermaLink="false">d6884952-ee93-48d8-ad98-3b8e77d61643</guid>
             <pubDate>Sun, 08 May 2016 19:28:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase, Bitpay and Bitcoin Core]]></title>
-            <description><![CDATA[<article><h1>Coinbase, Bitpay and Bitcoin Core</h1><p>A website shows their services can be purchased via Coinbase and Bitpay. I searched for information and found Bitcoin Core from bitcoin.org/en/choose-your-wallet and I think it is very popular among</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38d479760543e82fd956555750f9b5370d382166.jpg"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/44001/coinbase-bitpay-and-bitcoin-core</link>
-            <guid isPermaLink="false">3e6eb2d5-0a17-4689-984f-c765664458e3</guid>
-            <pubDate>Sun, 08 May 2016 19:28:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
