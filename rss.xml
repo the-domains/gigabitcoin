@@ -4,77 +4,77 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 19:29:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 19:31:40 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Bitcoin Price And Cost Of Mining Production]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price And Cost Of Mining Production</h1><p>Bitcoin price is trading lower today after forming another rounded wave top. Analysis considers mining production costs and the historical relationship of market price to this fundamental metric. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58c4244f2cd1cba9814db60dbb6a3c60e7096586.png"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-price-cost-mining-production/</link>
-            <guid isPermaLink="false">4600357a-2080-46f2-ae50-cd521d1193c0</guid>
+            <title><![CDATA[Coinbase, Bitpay and Bitcoin Core]]></title>
+            <description><![CDATA[<article><h1>Coinbase, Bitpay and Bitcoin Core</h1><p>A website shows their services can be purchased via Coinbase and Bitpay. I searched for information and found Bitcoin Core from bitcoin.org/en/choose-your-wallet and I think it is very popular among</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38d479760543e82fd956555750f9b5370d382166.jpg"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/44001/coinbase-bitpay-and-bitcoin-core</link>
+            <guid isPermaLink="false">3e6eb2d5-0a17-4689-984f-c765664458e3</guid>
+            <pubDate>Sun, 08 May 2016 19:28:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IBM Brings Blockchains to the Cloud - Bitcoin News]]></title>
+            <description><![CDATA[<article><h1>IBM Brings Blockchains to the Cloud - Bitcoin News</h1><p>Recently, IBM Also read: Bitcoin's Next Adoption Phase Imminent as Public Interest Surges announced a new blockchain architecture based in the cloud after working with "hundreds of clients, startups, and developers." The protocol is a cloud service that address security standards, regulatory compliance with Federal Information Processing Standards (FIPS 140-2) and Evaluation Assurance Levels (EAL).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2dcbe8aea200f5e4e3cd35fea164c6aa8860cd45.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/ibm-blockchain-cloud/</link>
+            <guid isPermaLink="false">c5bdc680-5d74-48c0-b7e8-40c7b8b37b85</guid>
+            <pubDate>Sun, 08 May 2016 19:28:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Should We Abbreviate Bitcoin and Ether?]]></title>
+            <description><![CDATA[<article><h1>How Should We Abbreviate Bitcoin and Ether?</h1><p>Whilst the term 'BTC' has long been the standard abbreviation for Bitcoin, there is a growing call from the Bitcoin community and exchanges in particular to begin referring to it as 'XBT'. However, its semi-pseudonymous creator, Satoshi Nakamoto, still refers to it as ' BTC '. What is a proper way to abbreviate Bitcoin?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab28d95902167fd5747acf383d66fe5ac4d98945.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/how-should-we-abbreviate-bitcoin-and-ether</link>
+            <guid isPermaLink="false">2549811d-0120-46bd-9a54-71f678c5fd07</guid>
+            <pubDate>Sun, 08 May 2016 19:28:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wladimir van der Laan: "There is Something Truly Fishy Going On"]]></title>
+            <description><![CDATA[<article><h1>Wladimir van der Laan: "There is Something Truly Fishy Going On"</h1><p>Moreover, there is a grave concern regarding the amount of scammers and opportunists Bitcoin has attracted in the past few years. Wladimir van der Laan, one of the Bitcoin Core developers, has shared his thoughts with the world on recent Satoshi Nakamoto debacle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cedbaaec3fab1e875e9a10cf0b7cde95f5917eb1.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/08/wladimir-van-der-laan-something-truly-fishy-going/</link>
+            <guid isPermaLink="false">2a8f7619-0d97-4aa6-aa8d-4f4076eb240e</guid>
+            <pubDate>Sun, 08 May 2016 19:28:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spondoolies-Tech Shuts Down Operations Effectively Immediately]]></title>
+            <description><![CDATA[<article><h1>Spondoolies-Tech Shuts Down Operations Effectively Immediately</h1><p>Spondoolies-Tech was one of the most-renowned Bitcoin hardware manufacturers to make a name for itself in recent years, but as it turns out, the company had ceased operations a few days ago. This announcement caught everyone by surprise, as things were looking quite positive for the company so far.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce09776577f3ae642a2f7fe7014074a3e7268596.jpg"></article>]]></description>
+            <link>http://themerkle.com/spondoolies-tech-shuts-down-operations-effectively-immediately/</link>
+            <guid isPermaLink="false">dfaf9f53-15a0-43cd-bc58-61be611dd930</guid>
+            <pubDate>Sun, 08 May 2016 19:28:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New sgminer Fork With HMQ1725 Algorithm Support for AMD GPUs]]></title>
+            <description><![CDATA[<article><h1>New sgminer Fork With HMQ1725 Algorithm Support for AMD GPUs</h1><p>There is now an sgminer fork for GPU mining Espers (ESP) that uses HMQ1725 algorithm available ( source) that works on AMD GPUs. The miner is still in an early beta and you may experience issues trying to use it, it is recommended to be with 15.12 drivers as older or newer versions might not work, the latest Crimson release does not for sure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eddeda2d8cdbb3bf2528ae95c6e8302c19a58d4f.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7816-new-sgminer-fork-with-hmq1725-algorithm-support-for-amd-gpus/</link>
+            <guid isPermaLink="false">3dbf7f80-01a5-4f34-80a6-23a12feb32a7</guid>
+            <pubDate>Sun, 08 May 2016 19:28:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Updated Windows Binary of the ccMiner 1.5.80-git Fork by SP for Maxwell]]></title>
+            <description><![CDATA[<article><h1>Updated Windows Binary of the ccMiner 1.5.80-git Fork by SP for Maxwell</h1><p>A quick update of the public ccMiner fork by SP of his Nvidia Maxwell optimized miner in the form of a Windows binary compiled from the latest Git source code of the ccMiner 1.5.80-git SP-MOD fork ( source).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7af7ea31092f91289f49155a3409e6d044853eab.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7813-updated-windows-binary-of-the-ccminer-1-5-80-git-fork-by-sp-for-maxwell/</link>
+            <guid isPermaLink="false">df788f51-5cf3-4a7f-9b01-a09d05b48705</guid>
+            <pubDate>Sun, 08 May 2016 19:28:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Current State of X11 ASIC Miners and the X11 Market]]></title>
+            <description><![CDATA[<article><h1>The Current State of X11 ASIC Miners and the X11 Market</h1><p>If you are in the market for X11 ASICs then you might want to reconsider as the profitability at the moment is nothing like when the first batch of iBeLink X11 miners started shipping.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f0f8a5b6944dd76e23cc6426fb91a0f37c9b775.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7821-the-current-state-of-x11-asic-miners-and-the-market/</link>
+            <guid isPermaLink="false">f022bf02-25f1-41a8-99f5-6c7ad6dab2af</guid>
+            <pubDate>Sun, 08 May 2016 19:28:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nvidia Introducing The GeForce GTX 1080 and GTX 1070]]></title>
+            <description><![CDATA[<article><h1>Nvidia Introducing The GeForce GTX 1080 and GTX 1070</h1><p>Nvidia has announced the first GPUs from their next generation of consumer 16nm FinFET GPUs using the Pascal architecture including some specifications and new features along with the prices and release dates.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29db34b3c1d8d959b1338cf4a23ccdc3b9ef0c81.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7826-nvidia-introducing-the-geforce-gtx-1080-and-gtx-1070/</link>
+            <guid isPermaLink="false">59786c3b-68fe-48ca-a4d8-5defbcda7bba</guid>
+            <pubDate>Sun, 08 May 2016 19:28:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Mining Equipment Producer Spondoolies Dissolved by Court | Finance Magnates]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Mining Equipment Producer Spondoolies Dissolved by Court | Finance Magnates</h1><p>A sad ending for Israeli Bitcoin mining equipment producer Spondoolies-Tech. The firm has been dissolved by a court in southern Israel after it failed to pay its employees since April. Founded in 2013 by a group of Israeli high-tech veterans and cryptocurrency champions, Spondoolies has raised about $12 million to design high efficiency dedicated Bitcoin mining rigs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cf72e0e843bef7aff10f48893c77e0467a2d35d.jpg"></article>]]></description>
+            <link>http://www.financemagnates.com/cryptocurrency/news/bitcoin-mining-equipment-producer-spondoolies-dissolved-court/</link>
+            <guid isPermaLink="false">2fe8f09c-5350-4272-a4b3-6f4feda4d892</guid>
             <pubDate>Sun, 08 May 2016 19:28:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Running OpenBazaar on DigitalOcean With This Simple Script]]></title>
-            <description><![CDATA[<article><h1>Running OpenBazaar on DigitalOcean With This Simple Script</h1><p>Ever since OpenBazaar launched, there has been a question as to how people can ensure their online store is always accessible through this decentralised marketplace solution. Running OpenBazaar on one's computer would require it to run 24/7 every single day. A VPS or web host is certainly an option, and someone has created a Digitalocean deployment script.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5e631b4f4105f309f73cdd97843e5a9998971fd.jpg"></article>]]></description>
-            <link>http://themerkle.com/running-openbazaar-on-digitalocean-with-this-simple-script/</link>
-            <guid isPermaLink="false">bb4588ec-0e3e-4a89-a0d9-e5193c7e54fc</guid>
-            <pubDate>Sun, 08 May 2016 19:28:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Larry Summers: "Blockchain is Going to Be Fundamental"]]></title>
-            <description><![CDATA[<article><h1>Larry Summers: "Blockchain is Going to Be Fundamental"</h1><p>Larry Summers, the former Secretary of Treasury of the Clinton administration, is impressed by blockchain technology and believes that it will change financial practice and exchange as we know it today. Dr Larry Summers is no stranger to the world of finance. He was the Secretary of Treasury of the Clinton administration.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5912a9c4a5c3fe67fbb5c8b0b36e414cccb7a65.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/larry-summers-blockchain-is-going-to-be-fundamental</link>
-            <guid isPermaLink="false">f60a5844-b765-434b-90b0-660c99b5a18d</guid>
-            <pubDate>Sun, 08 May 2016 19:28:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin News for the week of 5/02/16]]></title>
-            <description><![CDATA[<article><h1>Bitcoin News for the week of 5/02/16</h1><p>Welcome to our weekly bitcoin news recap, where we cover top headlines and stories in the world of bitcoin each week. This has been an interesting past few days. Early into the week, news erupted around the world when another "Satoshi" revealed himself claiming to be Bitcoin's creator, but he has raised more questions than proofs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1f1c11699f3dfdcbf2cb2e0d791c42e1c7b5408.jpg"></article>]]></description>
-            <link>https://blog.blockchain.com/2016/05/08/bitcoin-news-for-the-week-of-50216/</link>
-            <guid isPermaLink="false">750ac3e5-0636-40df-b158-29c7c4db535a</guid>
-            <pubDate>Sun, 08 May 2016 19:28:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin is Back: Price Rises Nearly $15, Returns to $460]]></title>
-            <description><![CDATA[<article><h1>Bitcoin is Back: Price Rises Nearly $15, Returns to $460</h1><p>Bitcoin is back! After a temporary price drop since our previous price piece that saw it fall to a disappointing $448, our favorite digital currency has jumped back on the horse and commenced its journey into the sunset. Also read: I Am Satoshi: Will Dr. Wright Cause Panic in the Bitcoin Markets?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/128596ee5a31b9d10837f28b67dbaef54a18ad1f.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/bitcoin-price-rise-460/</link>
-            <guid isPermaLink="false">44d8cc7d-cc71-429d-9b05-86c26679b05c</guid>
-            <pubDate>Sun, 08 May 2016 19:28:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building a Better Bitcoin Fee Market - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Building a Better Bitcoin Fee Market - CoinDesk</h1><p>Over the past year, we have seen the fee market for bitcoin transactions evolve at a rapid pace. As transaction volume continues to increase, so does the demand for block space, which remains in limited supply of 1 megabyte (MB) approximately every 10 minutes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef3e0053d9afceaa868752ab77c2915f385449df.gif"></article>]]></description>
-            <link>http://www.coindesk.com/building-better-bitcoin-fee-market/</link>
-            <guid isPermaLink="false">ef70c2f4-fe3a-438a-9b7b-6eafc18e2c59</guid>
-            <pubDate>Sun, 08 May 2016 19:28:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Was There a Connection Between Craig Wright and Bitcoin Price? - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Was There a Connection Between Craig Wright and Bitcoin Price? - NEWSBTC</h1><p>There have been numerous reports connecting Craig Wright's announcement of him being Satoshi Nakamoto and Bitcoin price drop. Is there any connection? Read more... The mainstream media has been having a field day ever since Craig Wright, the Australian computer scientist proclaimed himself to be the Satoshi Nakamoto.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87d30649120693a0554750c2602ac28d3e194569.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/08/was-there-a-connection-between-craig-wright-and-bitcoin-price/</link>
-            <guid isPermaLink="false">be6c063b-2ccf-465b-a6f8-d4146c6392b0</guid>
-            <pubDate>Sun, 08 May 2016 19:28:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Virtual Economic Reality: Swiss Town Taking Bitcoin for Public Services]]></title>
-            <description><![CDATA[<article><h1>Virtual Economic Reality: Swiss Town Taking Bitcoin for Public Services</h1><p>The Town Council of Zug in Switzerland announced May 3 that its residents will be allowed to use Bitcoin to pay for municipality services as part of a trial run. Zug residents will be allowed to use up to 200 Francs worth of Bitcoin for different services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7452b6f5ee27beb5026f3ffc25c73b5fa9ab67b6.jpg"></article>]]></description>
-            <link>http://sputniknews.com/europe/20160508/1039274956/virtual-economic-reality-swiss-town-taking-bitcoin-public-services.html</link>
-            <guid isPermaLink="false">0c8a8dde-536f-4e36-bc67-f68703021447</guid>
-            <pubDate>Sun, 08 May 2016 19:28:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Satoshi Nakamoto, whoever that is, will not rescue Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Satoshi Nakamoto, whoever that is, will not rescue Bitcoin</h1><p>The mystery of Satoshi Nakamoto's identity has had all the hallmarks of a classic thriller. A secretive genius develops a technology that changes the world, develops a cult-like following and becomes fabulously wealthy in the process, without a soul knowing who he, or she, is.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a32c5b3f51ae556178fa27a23a66175a906cf7b5.jpg"></article>]]></description>
-            <link>http://www.telegraph.co.uk/technology/2016/05/08/satoshi-nakamoto-whoever-that-is-will-not-rescue-bitcoin/</link>
-            <guid isPermaLink="false">6a97b83c-d756-4d4f-b286-e48ce01cceba</guid>
-            <pubDate>Sun, 08 May 2016 19:28:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Hampshire Receives Third BTM, Only Operational BTMs in New England]]></title>
-            <description><![CDATA[<article><h1>New Hampshire Receives Third BTM, Only Operational BTMs in New England</h1><p>New Hampshire, the Bitcoin mecca of the northeastern United States, claims its third Bitcoin ATM, the only currently operational machines in New England. New Hampshire has received its third active Bitcoin ATM. The General Bytes machine is located in the northern part of the state at the Twin Mountain Country Store.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8bc04752bd19e0a8498bbff0b92472efdf3c085.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/new-hampshire-receives-third-btm-only-operational-btms-in-new-england</link>
-            <guid isPermaLink="false">61e830d8-5673-42c9-9d9c-fe26e88cd394</guid>
-            <pubDate>Sun, 08 May 2016 19:28:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
