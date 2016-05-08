@@ -4,36 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 19:31:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 19:30:50 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[New sgminer Fork With HMQ1725 Algorithm Support for AMD GPUs]]></title>
-            <description><![CDATA[<article><h1>New sgminer Fork With HMQ1725 Algorithm Support for AMD GPUs</h1><p>There is now an sgminer fork for GPU mining Espers (ESP) that uses HMQ1725 algorithm available ( source) that works on AMD GPUs. The miner is still in an early beta and you may experience issues trying to use it, it is recommended to be with 15.12 drivers as older or newer versions might not work, the latest Crimson release does not for sure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eddeda2d8cdbb3bf2528ae95c6e8302c19a58d4f.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7816-new-sgminer-fork-with-hmq1725-algorithm-support-for-amd-gpus/</link>
-            <guid isPermaLink="false">3dbf7f80-01a5-4f34-80a6-23a12feb32a7</guid>
-            <pubDate>Sun, 08 May 2016 19:28:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Updated Windows Binary of the ccMiner 1.5.80-git Fork by SP for Maxwell]]></title>
-            <description><![CDATA[<article><h1>Updated Windows Binary of the ccMiner 1.5.80-git Fork by SP for Maxwell</h1><p>A quick update of the public ccMiner fork by SP of his Nvidia Maxwell optimized miner in the form of a Windows binary compiled from the latest Git source code of the ccMiner 1.5.80-git SP-MOD fork ( source).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7af7ea31092f91289f49155a3409e6d044853eab.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7813-updated-windows-binary-of-the-ccminer-1-5-80-git-fork-by-sp-for-maxwell/</link>
-            <guid isPermaLink="false">df788f51-5cf3-4a7f-9b01-a09d05b48705</guid>
-            <pubDate>Sun, 08 May 2016 19:28:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Current State of X11 ASIC Miners and the X11 Market]]></title>
-            <description><![CDATA[<article><h1>The Current State of X11 ASIC Miners and the X11 Market</h1><p>If you are in the market for X11 ASICs then you might want to reconsider as the profitability at the moment is nothing like when the first batch of iBeLink X11 miners started shipping.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f0f8a5b6944dd76e23cc6426fb91a0f37c9b775.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7821-the-current-state-of-x11-asic-miners-and-the-market/</link>
-            <guid isPermaLink="false">f022bf02-25f1-41a8-99f5-6c7ad6dab2af</guid>
-            <pubDate>Sun, 08 May 2016 19:28:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nvidia Introducing The GeForce GTX 1080 and GTX 1070]]></title>
-            <description><![CDATA[<article><h1>Nvidia Introducing The GeForce GTX 1080 and GTX 1070</h1><p>Nvidia has announced the first GPUs from their next generation of consumer 16nm FinFET GPUs using the Pascal architecture including some specifications and new features along with the prices and release dates.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29db34b3c1d8d959b1338cf4a23ccdc3b9ef0c81.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7826-nvidia-introducing-the-geforce-gtx-1080-and-gtx-1070/</link>
-            <guid isPermaLink="false">59786c3b-68fe-48ca-a4d8-5defbcda7bba</guid>
-            <pubDate>Sun, 08 May 2016 19:28:48 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Mining Equipment Producer Spondoolies Dissolved by Court | Finance Magnates]]></title>
             <description><![CDATA[<article><h1>Bitcoin Mining Equipment Producer Spondoolies Dissolved by Court | Finance Magnates</h1><p>A sad ending for Israeli Bitcoin mining equipment producer Spondoolies-Tech. The firm has been dissolved by a court in southern Israel after it failed to pay its employees since April. Founded in 2013 by a group of Israeli high-tech veterans and cryptocurrency champions, Spondoolies has raised about $12 million to design high efficiency dedicated Bitcoin mining rigs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cf72e0e843bef7aff10f48893c77e0467a2d35d.jpg"></article>]]></description>
@@ -74,6 +46,34 @@
             <description><![CDATA[<article><h1>Bitcoin has a governance problem, no matter who created it</h1><p>LONDON - As one would-be father of bitcoin falls by the wayside, squabbling among the web-based currency's lead developers is exposing a fundamental flaw: it must evolve to meet growing demand, but may lack a governance structure to achieve this.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79e7487a243c8c497b97d664569bece170fbc262.jpg"></article>]]></description>
             <link>http://www.bdlive.co.za/markets/2016/05/08/bitcoin-has-a-governance-problem-no-matter-who-created-it</link>
             <guid isPermaLink="false">7f104c88-4ed8-4d06-b007-aa75ecc1460b</guid>
+            <pubDate>Sun, 08 May 2016 19:28:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price And Cost Of Mining Production]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price And Cost Of Mining Production</h1><p>Bitcoin price is trading lower today after forming another rounded wave top. Analysis considers mining production costs and the historical relationship of market price to this fundamental metric. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58c4244f2cd1cba9814db60dbb6a3c60e7096586.png"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-price-cost-mining-production/</link>
+            <guid isPermaLink="false">4600357a-2080-46f2-ae50-cd521d1193c0</guid>
+            <pubDate>Sun, 08 May 2016 19:28:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Running OpenBazaar on DigitalOcean With This Simple Script]]></title>
+            <description><![CDATA[<article><h1>Running OpenBazaar on DigitalOcean With This Simple Script</h1><p>Ever since OpenBazaar launched, there has been a question as to how people can ensure their online store is always accessible through this decentralised marketplace solution. Running OpenBazaar on one's computer would require it to run 24/7 every single day. A VPS or web host is certainly an option, and someone has created a Digitalocean deployment script.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5e631b4f4105f309f73cdd97843e5a9998971fd.jpg"></article>]]></description>
+            <link>http://themerkle.com/running-openbazaar-on-digitalocean-with-this-simple-script/</link>
+            <guid isPermaLink="false">bb4588ec-0e3e-4a89-a0d9-e5193c7e54fc</guid>
+            <pubDate>Sun, 08 May 2016 19:28:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Larry Summers: "Blockchain is Going to Be Fundamental"]]></title>
+            <description><![CDATA[<article><h1>Larry Summers: "Blockchain is Going to Be Fundamental"</h1><p>Larry Summers, the former Secretary of Treasury of the Clinton administration, is impressed by blockchain technology and believes that it will change financial practice and exchange as we know it today. Dr Larry Summers is no stranger to the world of finance. He was the Secretary of Treasury of the Clinton administration.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5912a9c4a5c3fe67fbb5c8b0b36e414cccb7a65.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/larry-summers-blockchain-is-going-to-be-fundamental</link>
+            <guid isPermaLink="false">f60a5844-b765-434b-90b0-660c99b5a18d</guid>
+            <pubDate>Sun, 08 May 2016 19:28:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin News for the week of 5/02/16]]></title>
+            <description><![CDATA[<article><h1>Bitcoin News for the week of 5/02/16</h1><p>Welcome to our weekly bitcoin news recap, where we cover top headlines and stories in the world of bitcoin each week. This has been an interesting past few days. Early into the week, news erupted around the world when another "Satoshi" revealed himself claiming to be Bitcoin's creator, but he has raised more questions than proofs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1f1c11699f3dfdcbf2cb2e0d791c42e1c7b5408.jpg"></article>]]></description>
+            <link>https://blog.blockchain.com/2016/05/08/bitcoin-news-for-the-week-of-50216/</link>
+            <guid isPermaLink="false">750ac3e5-0636-40df-b158-29c7c4db535a</guid>
             <pubDate>Sun, 08 May 2016 19:28:47 GMT</pubDate>
         </item>
     </channel>
