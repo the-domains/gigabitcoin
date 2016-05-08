@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 08:41:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 08:41:09 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Network Shows Signs of Improvement with Updated Core Versions - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Network Shows Signs of Improvement with Updated Core Versions - NEWSBTC</h1><p>The performance improvements in bitcoin network have reduced the number of Orphan Blocks created on the Bitcoin network. Read more... The latest version of Bitcoin Core software has brought a lot of improvement in the performance of the Bitcoin network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca8beaa3d55cba418c2e63fe3ef8522589305772.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/07/bitcoin-network-shows-signs-improvement-updated-core-versions/</link>
+            <guid isPermaLink="false">32ecfcc7-1cf8-43de-a4d0-1806b569a8fb</guid>
+            <pubDate>Sun, 08 May 2016 08:40:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blockchain and Biometrics Can Reduce Rampant Corruption]]></title>
             <description><![CDATA[<article><h1>Blockchain and Biometrics Can Reduce Rampant Corruption</h1><p>One of the many issues that society still faces is corruption; this problem is especially troubling in under-developed nations. With the surge of Blockchain startups, identity will play an important role, can Blockchain Tech walk hand in hand with Biometrics?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c98cdaecca704f8385c85c681cba337696cf81d.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Craig Wright Incident Proves Blockchain Can Detect Frauds - NEWSBTC</h1><p>The recent Craig Wright incident has again reiterated the importance of blockchain technology and how it can prevent falsification of information or fraud. Read more... Most of us know about the recent incidents revolving around Craig Wright, an Australian computer scientist, who claimed that he is the creator of Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6f5785fbb8ec3ef294d893d71e4fca345e11ec9.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/05/08/craig-wright-incident-proves-blockchain-can-detect-frauds/</link>
             <guid isPermaLink="false">7ef380b1-deea-43d7-8c8e-e04c7ef0c406</guid>
-            <pubDate>Sun, 08 May 2016 08:40:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Let's stop making tempests in teapots; who has commit access is not important (we have gitian). Stop bashing @orionwl</p>]]></description>
-            <link>https://twitter.com/gavinandresen/status/728974522544750592</link>
-            <guid isPermaLink="false">6739c0a3-192d-478a-bc3e-93ff80beffd4</guid>
             <pubDate>Sun, 08 May 2016 08:40:19 GMT</pubDate>
         </item>
     </channel>
