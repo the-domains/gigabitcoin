@@ -7,13 +7,6 @@
         <lastBuildDate>Sun, 08 May 2016 08:41:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Bitcoin suffers from identity crisis]]></title>
-            <description><![CDATA[<article><h1>Bitcoin suffers from identity crisis</h1><p>by Izabella Kaminska In the shadowy world of cyber space, hacking and cryptography, intrigue and mystery are never far from the surface. Sometimes that intrigue takes the form of so-called alternate reality games, played out in the networked landscape of the real world but borrowing heavily from fiction.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a73feb52931f37a7b9a5e24ca763a0fa218bf74a.jpg"></article>]]></description>
-            <link>http://www.afr.com/technology/bitcoin-suffers-from-identity-crisis-20160507-gop1d3</link>
-            <guid isPermaLink="false">6564dadb-36b7-447a-be6f-d9814a3900d3</guid>
-            <pubDate>Sun, 08 May 2016 08:40:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Various Users Report Ethereum Geth Syncing Issues]]></title>
             <description><![CDATA[<article><h1>Various Users Report Ethereum Geth Syncing Issues</h1><p>Several Reddit users are complaining about an ongoing issue with the Ethereum wallet, which seems to take a very long time to synchronize the last 380,000 blocks on the network. Bitcoin users will know these struggles all too well, as there is nothing more annoying than spending days to get synchronized with the network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b27d0bee91b65b6070a6615d23927c178ca24b9a.jpg"></article>]]></description>
             <link>http://themerkle.com/various-users-report-ethereum-geth-syncing-issues/</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Let's Talk Bitcoin! #292 Infrastructure Inversion and the Emancipated Taxi</h1><p>On Episode 291... On today's episode of Let's Talk Bitcoin, we join Andreas in Germany on his most recent world tour for a talk that sheds a little historical context on the world in which we find ourselves today. After the break we'll rejoin Andreas for an extended Q&A.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32d43e0d61f8c2a47e499e6de4c25866b5c593af.jpg"></article>]]></description>
             <link>https://letstalkbitcoin.com/blog/post/lets-talk-bitcoin-292-infrastructure-inversion-and-the-emancipated-taxi</link>
             <guid isPermaLink="false">7b64d1a9-db13-445b-8306-4240817d9de5</guid>
+            <pubDate>Sat, 07 May 2016 18:36:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blockchain Future: CSIRO Joins Bitcoin Tech Boom]]></title>
+            <description><![CDATA[<article><h1>Blockchain Future: CSIRO Joins Bitcoin Tech Boom</h1><p>Australian based Commonwealth Scientific and Industrial Research Organisation ( CSIRO), has announced that its digital technology branch Data61 will join forces with the Treasury to explore the potential of Bitcoin technologies. A publication on the CSIRO website on May 4 2016 says that CSIRO's Data61 will undertake a review to fully examine the far-reaching potential and implications for both government and industry of the adoption of 'blockchain' technology.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9bf1c291a6e752135765d973f1edcd07e70346b.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/blockchain-future-csiro-joins-bitcoin-tech-boom</link>
+            <guid isPermaLink="false">d3277c63-f2db-4163-a67e-c5fc0f5dfde0</guid>
             <pubDate>Sat, 07 May 2016 18:36:29 GMT</pubDate>
         </item>
     </channel>
