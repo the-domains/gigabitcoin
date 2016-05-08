@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 19:29:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 19:29:42 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin is Back: Price Rises Nearly $15, Returns to $460]]></title>
-            <description><![CDATA[<article><h1>Bitcoin is Back: Price Rises Nearly $15, Returns to $460</h1><p>Bitcoin is back! After a temporary price drop since our previous price piece that saw it fall to a disappointing $448, our favorite digital currency has jumped back on the horse and commenced its journey into the sunset. Also read: I Am Satoshi: Will Dr. Wright Cause Panic in the Bitcoin Markets?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/128596ee5a31b9d10837f28b67dbaef54a18ad1f.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/bitcoin-price-rise-460/</link>
-            <guid isPermaLink="false">44d8cc7d-cc71-429d-9b05-86c26679b05c</guid>
-            <pubDate>Sun, 08 May 2016 19:28:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building a Better Bitcoin Fee Market - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Building a Better Bitcoin Fee Market - CoinDesk</h1><p>Over the past year, we have seen the fee market for bitcoin transactions evolve at a rapid pace. As transaction volume continues to increase, so does the demand for block space, which remains in limited supply of 1 megabyte (MB) approximately every 10 minutes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef3e0053d9afceaa868752ab77c2915f385449df.gif"></article>]]></description>
-            <link>http://www.coindesk.com/building-better-bitcoin-fee-market/</link>
-            <guid isPermaLink="false">ef70c2f4-fe3a-438a-9b7b-6eafc18e2c59</guid>
-            <pubDate>Sun, 08 May 2016 19:28:47 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Was There a Connection Between Craig Wright and Bitcoin Price? - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Was There a Connection Between Craig Wright and Bitcoin Price? - NEWSBTC</h1><p>There have been numerous reports connecting Craig Wright's announcement of him being Satoshi Nakamoto and Bitcoin price drop. Is there any connection? Read more... The mainstream media has been having a field day ever since Craig Wright, the Australian computer scientist proclaimed himself to be the Satoshi Nakamoto.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87d30649120693a0554750c2602ac28d3e194569.png"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>Bing Search Results Riddled With Fake Bitcoin Wallet Providers</h1><p>It is not hard to figure out where these search results are coming from, as the website owners will pay to have their website listed at the top of search results. When novice users are on the lookout for a proper Bitcoin wallet solution, search engines are the first tool they will wield.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2bfdb0d00f3eb81cbefb0559b257252a993af87.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/05/08/bing-search-results-riddled-fake-bitcoin-wallet-providers/</link>
             <guid isPermaLink="false">eea95cd8-61fb-45c0-ade9-6231e22de08f</guid>
+            <pubDate>Sun, 08 May 2016 19:28:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Tatiana Show - Judd Weiss Of The McAfee Presidential Campaign | Lets Talk Bitcoin]]></title>
+            <description><![CDATA[<article><h1>The Tatiana Show - Judd Weiss Of The McAfee Presidential Campaign | Lets Talk Bitcoin</h1><p>Tatiana and Josh interview Judd Weiss of the McAfee presidential campaign. Topics of discussion include Satoshi Nakamoto, the Libertarian Party, John McAfee and his presidential campaign. Judd Weiss is John McAfee's Vice Presidential running mate pick in the race for the Libertarian Party presidential nomination.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c28aadbbd144f21a041fe2001ecd8f8264ad1d97.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/the-tatiana-show-judd-weiss-of-the-mcafee-presidential-campaign</link>
+            <guid isPermaLink="false">0eff0592-50c1-4ada-a7c9-f1a9a11312ed</guid>
+            <pubDate>Sun, 08 May 2016 19:28:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is the Bitcoin Community Being too Harsh on Gavin Andresen?]]></title>
+            <description><![CDATA[<article><h1>Is the Bitcoin Community Being too Harsh on Gavin Andresen?</h1><p>Perhaps the biggest casualty of this week's Satoshi Nakamoto/Craig Wright fiasco has been Gavin Andresen. But has the Bitcoin community been fair to one of its hardest workers?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c64a8e2ae026289f5de36e2f97f406bbb8da548.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/bitcoin-community-harsh-gavin-andresen/</link>
+            <guid isPermaLink="false">f1176b76-c0aa-43a8-a886-356fc35e5243</guid>
             <pubDate>Sun, 08 May 2016 19:28:46 GMT</pubDate>
         </item>
     </channel>
