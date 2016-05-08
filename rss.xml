@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 19:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 19:32:27 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><p>SAN FRANCISCO - Who is Satoshi Nakamoto? For many in the tech world, the identity of bitcoin&apos;s elusive creator has been a long-running parlor game. And the speculation might not be over. Australian entrepreneur Craig Steven Wright, who announced Monday that he founded the digital currency , convinced at least one longtime bitcoin contributor that he&apos;s the real deal.</p></article>]]></description>
-            <link>http://rep-am.com/articles/2016/05/08/news/national/955805.txt</link>
-            <guid isPermaLink="false">d57a8b26-4d42-49ec-8b9f-992def3e430a</guid>
-            <pubDate>Sun, 08 May 2016 19:28:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.S. Court Sentences Man to 20 Years in Prison for Virtual Currency Money Laundering]]></title>
-            <description><![CDATA[<article><h1>U.S. Court Sentences Man to 20 Years in Prison for Virtual Currency Money Laundering</h1><p>A federal court has sentenced Arthur Budovsky, 42, to 20 years in prison for laundering hundreds of millions of dollars through a virtual currency called Liberty Reserve that was used by cyber criminals for laundering, according to the U.S. Justice Department. U.S. District Judge Denise L.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5aa13ef993401fc051723b2b284ea66e19a3975.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/u-s-court-sentences-man-to-20-years-in-prison-for-virtual-currency-money-laundering/</link>
-            <guid isPermaLink="false">dd6a16c0-1741-40b2-b5f1-7d05525f1f17</guid>
-            <pubDate>Sun, 08 May 2016 19:28:49 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin has a governance problem, no matter who created it - Tech2]]></title>
             <description><![CDATA[<article><h1>Bitcoin has a governance problem, no matter who created it - Tech2</h1><p>As one would-be father of bitcoin falls by the wayside, squabbling among the web-based currency's lead developers is exposing a fundamental flaw: it must evolve to meet growing demand, but may lack a governance structure to achieve this.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/69c0b4f408d8681703098db19a65be2af8b3ee89.jpg"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>IBM Brings Blockchains to the Cloud - Bitcoin News</h1><p>Recently, IBM Also read: Bitcoin's Next Adoption Phase Imminent as Public Interest Surges announced a new blockchain architecture based in the cloud after working with "hundreds of clients, startups, and developers." The protocol is a cloud service that address security standards, regulatory compliance with Federal Information Processing Standards (FIPS 140-2) and Evaluation Assurance Levels (EAL).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2dcbe8aea200f5e4e3cd35fea164c6aa8860cd45.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/ibm-blockchain-cloud/</link>
             <guid isPermaLink="false">c5bdc680-5d74-48c0-b7e8-40c7b8b37b85</guid>
+            <pubDate>Sun, 08 May 2016 19:28:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Should We Abbreviate Bitcoin and Ether?]]></title>
+            <description><![CDATA[<article><h1>How Should We Abbreviate Bitcoin and Ether?</h1><p>Whilst the term 'BTC' has long been the standard abbreviation for Bitcoin, there is a growing call from the Bitcoin community and exchanges in particular to begin referring to it as 'XBT'. However, its semi-pseudonymous creator, Satoshi Nakamoto, still refers to it as ' BTC '. What is a proper way to abbreviate Bitcoin?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab28d95902167fd5747acf383d66fe5ac4d98945.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/how-should-we-abbreviate-bitcoin-and-ether</link>
+            <guid isPermaLink="false">2549811d-0120-46bd-9a54-71f678c5fd07</guid>
+            <pubDate>Sun, 08 May 2016 19:28:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wladimir van der Laan: "There is Something Truly Fishy Going On"]]></title>
+            <description><![CDATA[<article><h1>Wladimir van der Laan: "There is Something Truly Fishy Going On"</h1><p>Moreover, there is a grave concern regarding the amount of scammers and opportunists Bitcoin has attracted in the past few years. Wladimir van der Laan, one of the Bitcoin Core developers, has shared his thoughts with the world on recent Satoshi Nakamoto debacle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cedbaaec3fab1e875e9a10cf0b7cde95f5917eb1.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/08/wladimir-van-der-laan-something-truly-fishy-going/</link>
+            <guid isPermaLink="false">2a8f7619-0d97-4aa6-aa8d-4f4076eb240e</guid>
             <pubDate>Sun, 08 May 2016 19:28:48 GMT</pubDate>
         </item>
     </channel>
