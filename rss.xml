@@ -4,36 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 19:31:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 19:31:05 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Wladimir van der Laan: "There is Something Truly Fishy Going On"]]></title>
-            <description><![CDATA[<article><h1>Wladimir van der Laan: "There is Something Truly Fishy Going On"</h1><p>Moreover, there is a grave concern regarding the amount of scammers and opportunists Bitcoin has attracted in the past few years. Wladimir van der Laan, one of the Bitcoin Core developers, has shared his thoughts with the world on recent Satoshi Nakamoto debacle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cedbaaec3fab1e875e9a10cf0b7cde95f5917eb1.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/08/wladimir-van-der-laan-something-truly-fishy-going/</link>
-            <guid isPermaLink="false">2a8f7619-0d97-4aa6-aa8d-4f4076eb240e</guid>
-            <pubDate>Sun, 08 May 2016 19:28:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spondoolies-Tech Shuts Down Operations Effectively Immediately]]></title>
-            <description><![CDATA[<article><h1>Spondoolies-Tech Shuts Down Operations Effectively Immediately</h1><p>Spondoolies-Tech was one of the most-renowned Bitcoin hardware manufacturers to make a name for itself in recent years, but as it turns out, the company had ceased operations a few days ago. This announcement caught everyone by surprise, as things were looking quite positive for the company so far.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce09776577f3ae642a2f7fe7014074a3e7268596.jpg"></article>]]></description>
-            <link>http://themerkle.com/spondoolies-tech-shuts-down-operations-effectively-immediately/</link>
-            <guid isPermaLink="false">dfaf9f53-15a0-43cd-bc58-61be611dd930</guid>
-            <pubDate>Sun, 08 May 2016 19:28:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New sgminer Fork With HMQ1725 Algorithm Support for AMD GPUs]]></title>
-            <description><![CDATA[<article><h1>New sgminer Fork With HMQ1725 Algorithm Support for AMD GPUs</h1><p>There is now an sgminer fork for GPU mining Espers (ESP) that uses HMQ1725 algorithm available ( source) that works on AMD GPUs. The miner is still in an early beta and you may experience issues trying to use it, it is recommended to be with 15.12 drivers as older or newer versions might not work, the latest Crimson release does not for sure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eddeda2d8cdbb3bf2528ae95c6e8302c19a58d4f.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7816-new-sgminer-fork-with-hmq1725-algorithm-support-for-amd-gpus/</link>
-            <guid isPermaLink="false">3dbf7f80-01a5-4f34-80a6-23a12feb32a7</guid>
-            <pubDate>Sun, 08 May 2016 19:28:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Updated Windows Binary of the ccMiner 1.5.80-git Fork by SP for Maxwell]]></title>
-            <description><![CDATA[<article><h1>Updated Windows Binary of the ccMiner 1.5.80-git Fork by SP for Maxwell</h1><p>A quick update of the public ccMiner fork by SP of his Nvidia Maxwell optimized miner in the form of a Windows binary compiled from the latest Git source code of the ccMiner 1.5.80-git SP-MOD fork ( source).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7af7ea31092f91289f49155a3409e6d044853eab.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7813-updated-windows-binary-of-the-ccminer-1-5-80-git-fork-by-sp-for-maxwell/</link>
-            <guid isPermaLink="false">df788f51-5cf3-4a7f-9b01-a09d05b48705</guid>
-            <pubDate>Sun, 08 May 2016 19:28:48 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[The Current State of X11 ASIC Miners and the X11 Market]]></title>
             <description><![CDATA[<article><h1>The Current State of X11 ASIC Miners and the X11 Market</h1><p>If you are in the market for X11 ASICs then you might want to reconsider as the profitability at the moment is nothing like when the first batch of iBeLink X11 miners started shipping.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f0f8a5b6944dd76e23cc6426fb91a0f37c9b775.jpg"></article>]]></description>
@@ -74,6 +46,34 @@
             <description><![CDATA[<article><h1>Bitcoin Price Check: Ignoring the FUD - Bitcoinist.net</h1><p>The price of Bitcoin has remained steady and has climbed this week from a slight drop from $445 back up to the $460 range after a wild week in crypto-land. Many people thought the price would take a significant hit when Craig Wright did his magic trick and fooled some of the industry leaders within the Bitcoin space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7cd4c6c6de5c84dddbffab969928e881bc09b6cd.jpg"></article>]]></description>
             <link>http://bitcoinist.net/bitcoin-price-ignoring-fud/</link>
             <guid isPermaLink="false">165cfa46-a595-429c-8553-fcda60dbead6</guid>
+            <pubDate>Sun, 08 May 2016 19:28:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Altcoins Price Analysis (Week of May 8th): Ethereum, Litecoin and DASH]]></title>
+            <description><![CDATA[<article><h1>Altcoins Price Analysis (Week of May 8th): Ethereum, Litecoin and DASH</h1><p>The ETHUSD, LTCSUD, and DASHUSD markets are all undergoing mild upward trends. The coming week could bring radical changes. Ethereum's price is fortifying at the medium-term level of $9-10. A rebound off $10.21 could become the peak of a correction within the downward trend, unless the price manages to form a turn to growth.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a278cdd309a9ab831129b2c5cb783cbcd2a6f1a.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/altcoins-price-analysis-week-of-may-8th-ethereum-litecoin-and-dash</link>
+            <guid isPermaLink="false">b492de9b-67bd-4bd7-a374-4ece525f8bce</guid>
+            <pubDate>Sun, 08 May 2016 19:28:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin has a governance problem, no matter who created it]]></title>
+            <description><![CDATA[<article><h1>Bitcoin has a governance problem, no matter who created it</h1><p>LONDON - As one would-be father of bitcoin falls by the wayside, squabbling among the web-based currency's lead developers is exposing a fundamental flaw: it must evolve to meet growing demand, but may lack a governance structure to achieve this.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79e7487a243c8c497b97d664569bece170fbc262.jpg"></article>]]></description>
+            <link>http://www.bdlive.co.za/markets/2016/05/08/bitcoin-has-a-governance-problem-no-matter-who-created-it</link>
+            <guid isPermaLink="false">7f104c88-4ed8-4d06-b007-aa75ecc1460b</guid>
+            <pubDate>Sun, 08 May 2016 19:28:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price And Cost Of Mining Production]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price And Cost Of Mining Production</h1><p>Bitcoin price is trading lower today after forming another rounded wave top. Analysis considers mining production costs and the historical relationship of market price to this fundamental metric. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58c4244f2cd1cba9814db60dbb6a3c60e7096586.png"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-price-cost-mining-production/</link>
+            <guid isPermaLink="false">4600357a-2080-46f2-ae50-cd521d1193c0</guid>
+            <pubDate>Sun, 08 May 2016 19:28:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Running OpenBazaar on DigitalOcean With This Simple Script]]></title>
+            <description><![CDATA[<article><h1>Running OpenBazaar on DigitalOcean With This Simple Script</h1><p>Ever since OpenBazaar launched, there has been a question as to how people can ensure their online store is always accessible through this decentralised marketplace solution. Running OpenBazaar on one's computer would require it to run 24/7 every single day. A VPS or web host is certainly an option, and someone has created a Digitalocean deployment script.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5e631b4f4105f309f73cdd97843e5a9998971fd.jpg"></article>]]></description>
+            <link>http://themerkle.com/running-openbazaar-on-digitalocean-with-this-simple-script/</link>
+            <guid isPermaLink="false">bb4588ec-0e3e-4a89-a0d9-e5193c7e54fc</guid>
             <pubDate>Sun, 08 May 2016 19:28:47 GMT</pubDate>
         </item>
     </channel>
