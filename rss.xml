@@ -7,13 +7,6 @@
         <lastBuildDate>Sun, 08 May 2016 08:41:07 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[BBC Once Again Shows How Clueless They Are About Bitcoin]]></title>
-            <description><![CDATA[<article><h1>BBC Once Again Shows How Clueless They Are About Bitcoin</h1><p>Moreover, the BBC determines the success of Bitcoin will hinge on whether or not blockchain technology will make a significant impact. Bitcoin has been getting a lot of mainstream media attention over the past week, yet most news outlets still fair to grasp the concept of this popular cryptocurrency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e19a46c68d5beb4d4e7539b6383bd083ec1dddf.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/07/bbc-shows-clueless-bitcoin/</link>
-            <guid isPermaLink="false">affee166-f0f3-4b7b-893f-76680c149487</guid>
-            <pubDate>Sun, 08 May 2016 08:40:20 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Can you have a password based cryptocurrency?]]></title>
             <description><![CDATA[<article><h1>Can you have a password based cryptocurrency?</h1><p>Bitcoin is key based. Although it is possible to convert a password into a key, publishing the public key makes it vulnerable to brute force. Currently, passwords are used with Bitcoin, but only to</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/44005/can-you-have-a-password-based-cryptocurrency</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Cardfy Sells German and Austrian Gift Cards for Bitcoin</h1><p>It is always positive to see a new merchant venture into the world of Bitcoin and cryptocurrency, as it opens up exciting opportunities for both businesses and consumers. Cardfy, a shop specializing in German gift cards, now accepts Bitcoin payments.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e36df2757e2460e25a387c9d9461bf441a35908f.jpg"></article>]]></description>
             <link>http://themerkle.com/cardfy-sells-german-and-austrian-gift-cards-for-bitcoin/</link>
             <guid isPermaLink="false">486f87ac-d6f0-406d-8dec-d2f8166d207c</guid>
+            <pubDate>Sat, 07 May 2016 20:16:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Adoption in Japan Will Not Happen Overnight]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Adoption in Japan Will Not Happen Overnight</h1><p>Although Bitcoin seems to be a big trend in Japan right now, the number of places to spend cryptocurrency is still fairly low. Merchants are not too keen on accepting Bitcoin just yet, despite growing interest from consumers and investors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c10112f964f990e11f237a4cd79bbf57f513eb32.jpg"></article>]]></description>
+            <link>http://themerkle.com/bitcoin-adoption-in-japan-will-not-happen-overnight/</link>
+            <guid isPermaLink="false">fdefaed6-2a77-49da-9ed5-a3ee126649f8</guid>
             <pubDate>Sat, 07 May 2016 20:16:10 GMT</pubDate>
         </item>
     </channel>
