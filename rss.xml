@@ -7,6 +7,13 @@
         <lastBuildDate>Sun, 08 May 2016 08:41:09 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Bitcoin Core Team Has No Intentions Of Bringing Gavin Andresen Back]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Core Team Has No Intentions Of Bringing Gavin Andresen Back</h1><p>This situation becomes especially painful when considering how Satoshi Nakamoto himself appointed Gavin Andresen as being the one to take over the "reigns" of Bitcoin development Now that the Craig Wright debacle has calmed down again, there is still the pressing matter of what will happen with Gavin Andresen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c270ad790bb712e4a250c84753d4bb07d08e198f.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/07/bitcoin-core-team-no-intentions-bringing-gavin-andresen-back/</link>
+            <guid isPermaLink="false">422b7953-08e5-4a15-b4ed-3cdeafda704f</guid>
+            <pubDate>Sun, 08 May 2016 08:40:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bitcoin Network Shows Signs of Improvement with Updated Core Versions - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitcoin Network Shows Signs of Improvement with Updated Core Versions - NEWSBTC</h1><p>The performance improvements in bitcoin network have reduced the number of Orphan Blocks created on the Bitcoin network. Read more... The latest version of Bitcoin Core software has brought a lot of improvement in the performance of the Bitcoin network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca8beaa3d55cba418c2e63fe3ef8522589305772.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/05/07/bitcoin-network-shows-signs-improvement-updated-core-versions/</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Various Users Report Ethereum Geth Syncing Issues</h1><p>Several Reddit users are complaining about an ongoing issue with the Ethereum wallet, which seems to take a very long time to synchronize the last 380,000 blocks on the network. Bitcoin users will know these struggles all too well, as there is nothing more annoying than spending days to get synchronized with the network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b27d0bee91b65b6070a6615d23927c178ca24b9a.jpg"></article>]]></description>
             <link>http://themerkle.com/various-users-report-ethereum-geth-syncing-issues/</link>
             <guid isPermaLink="false">0ac17fd0-af81-4971-a872-84b2881980a0</guid>
-            <pubDate>Sun, 08 May 2016 08:40:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Craig Wright Incident Proves Blockchain Can Detect Frauds - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Craig Wright Incident Proves Blockchain Can Detect Frauds - NEWSBTC</h1><p>The recent Craig Wright incident has again reiterated the importance of blockchain technology and how it can prevent falsification of information or fraud. Read more... Most of us know about the recent incidents revolving around Craig Wright, an Australian computer scientist, who claimed that he is the creator of Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6f5785fbb8ec3ef294d893d71e4fca345e11ec9.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/08/craig-wright-incident-proves-blockchain-can-detect-frauds/</link>
-            <guid isPermaLink="false">7ef380b1-deea-43d7-8c8e-e04c7ef0c406</guid>
             <pubDate>Sun, 08 May 2016 08:40:19 GMT</pubDate>
         </item>
     </channel>
