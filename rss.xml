@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 19:28:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 19:28:51 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Tatiana Show - Judd Weiss Of The McAfee Presidential Campaign | Lets Talk Bitcoin]]></title>
+            <description><![CDATA[<article><h1>The Tatiana Show - Judd Weiss Of The McAfee Presidential Campaign | Lets Talk Bitcoin</h1><p>Tatiana and Josh interview Judd Weiss of the McAfee presidential campaign. Topics of discussion include Satoshi Nakamoto, the Libertarian Party, John McAfee and his presidential campaign. Judd Weiss is John McAfee's Vice Presidential running mate pick in the race for the Libertarian Party presidential nomination.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c28aadbbd144f21a041fe2001ecd8f8264ad1d97.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/the-tatiana-show-judd-weiss-of-the-mcafee-presidential-campaign</link>
+            <guid isPermaLink="false">0eff0592-50c1-4ada-a7c9-f1a9a11312ed</guid>
+            <pubDate>Sun, 08 May 2016 19:28:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is the Bitcoin Community Being too Harsh on Gavin Andresen?]]></title>
             <description><![CDATA[<article><h1>Is the Bitcoin Community Being too Harsh on Gavin Andresen?</h1><p>Perhaps the biggest casualty of this week's Satoshi Nakamoto/Craig Wright fiasco has been Gavin Andresen. But has the Bitcoin community been fair to one of its hardest workers?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c64a8e2ae026289f5de36e2f97f406bbb8da548.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Isle of Man Grants Designated Business Status To Coincorner</h1><p>There is a lot of focus on regulating Bitcoin all over the world, particularly when exchanges and other money transmitting services are concerned. The Isle of Man is one of the most favorable regions for Bitcoin companies, and British exchange CoinCorner has received "Designated Business" status just a few days ago.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3073918f47be74a328931cc95b2b6b8b34111a80.jpg"></article>]]></description>
             <link>http://themerkle.com/isle-of-man-grants-designated-business-status-to-coincorner/</link>
             <guid isPermaLink="false">eceb9561-5338-4a90-a49e-57c26e69baaf</guid>
-            <pubDate>Sun, 08 May 2016 08:40:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin suffers from identity crisis]]></title>
-            <description><![CDATA[<article><h1>Bitcoin suffers from identity crisis</h1><p>by Izabella Kaminska In the shadowy world of cyber space, hacking and cryptography, intrigue and mystery are never far from the surface. Sometimes that intrigue takes the form of so-called alternate reality games, played out in the networked landscape of the real world but borrowing heavily from fiction.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a73feb52931f37a7b9a5e24ca763a0fa218bf74a.jpg"></article>]]></description>
-            <link>http://www.afr.com/technology/bitcoin-suffers-from-identity-crisis-20160507-gop1d3</link>
-            <guid isPermaLink="false">6564dadb-36b7-447a-be6f-d9814a3900d3</guid>
             <pubDate>Sun, 08 May 2016 08:40:19 GMT</pubDate>
         </item>
     </channel>
