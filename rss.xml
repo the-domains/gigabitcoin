@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 19:32:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 19:32:02 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Counterparty and the Japanese Digital Currency Market - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Counterparty and the Japanese Digital Currency Market - NEWSBTC</h1><p>Counterparty has gained lot of traction in Japan, the country that was least expected to get back on the cryptocurrency bandwagon so soon after the Mt Gox fiasco. Read more... Since Bitcoin started gaining attention across the world, Japan was the first country to face the burnt, all thanks to the Mt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad41b7ae550d2a291ece1868bac0a112dc795103.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/08/counterparty-japanese-digital/</link>
-            <guid isPermaLink="false">2fcee542-4040-4de7-9f24-3d23e87276ff</guid>
-            <pubDate>Sun, 08 May 2016 19:28:49 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Exclusive: Jeff Garzik's Stealthy Ploy To Get Bitcoin Onto Private Blockchains]]></title>
             <description><![CDATA[<article><h1>Exclusive: Jeff Garzik's Stealthy Ploy To Get Bitcoin Onto Private Blockchains</h1><p>Longtime Bitcoin core developer Jeff Garzik acknowledges Bitcoins' branding problem. "The bitcoin name, in terms of marketing, is something that larger institutions are somewhat reluctant to deal with, related to the history with Mt Gox and Silk Road, most notably." Garzik bemoans how this reputation follows the word Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d44230c0b841d81b11287e5d89b8db6051b44260.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Updated Windows Binary of the ccMiner 1.5.80-git Fork by SP for Maxwell</h1><p>A quick update of the public ccMiner fork by SP of his Nvidia Maxwell optimized miner in the form of a Windows binary compiled from the latest Git source code of the ccMiner 1.5.80-git SP-MOD fork ( source).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7af7ea31092f91289f49155a3409e6d044853eab.jpg"></article>]]></description>
             <link>http://cryptomining-blog.com/7813-updated-windows-binary-of-the-ccminer-1-5-80-git-fork-by-sp-for-maxwell/</link>
             <guid isPermaLink="false">df788f51-5cf3-4a7f-9b01-a09d05b48705</guid>
+            <pubDate>Sun, 08 May 2016 19:28:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Current State of X11 ASIC Miners and the X11 Market]]></title>
+            <description><![CDATA[<article><h1>The Current State of X11 ASIC Miners and the X11 Market</h1><p>If you are in the market for X11 ASICs then you might want to reconsider as the profitability at the moment is nothing like when the first batch of iBeLink X11 miners started shipping.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f0f8a5b6944dd76e23cc6426fb91a0f37c9b775.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7821-the-current-state-of-x11-asic-miners-and-the-market/</link>
+            <guid isPermaLink="false">f022bf02-25f1-41a8-99f5-6c7ad6dab2af</guid>
             <pubDate>Sun, 08 May 2016 19:28:48 GMT</pubDate>
         </item>
     </channel>
