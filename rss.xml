@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 19:29:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 19:29:39 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Backers Debate Whether False Founding Claims Hurt the Virtual Currency | VICE News]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Backers Debate Whether False Founding Claims Hurt the Virtual Currency | VICE News</h1><p>The about-face of the Australian entrepreneur who claimed to be Satoshi Nakamoto, the mysterious pseudonymous creator of bitcoin, is the latest embarrassing controversy for a virtual currency that has become increasingly popular among serious techies and financiers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0bbf48518cd18fefbc8318cb35dea9c64c8bafe.jpg"></article>]]></description>
+            <link>https://news.vice.com/article/bitcoin-backers-debate-whether-false-founding-claims-hurt-the-virtual-currency</link>
+            <guid isPermaLink="false">0c69856e-b569-4edd-8565-cd3f5dccf7bc</guid>
+            <pubDate>Sun, 08 May 2016 19:28:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bing Search Results Riddled With Fake Bitcoin Wallet Providers]]></title>
             <description><![CDATA[<article><h1>Bing Search Results Riddled With Fake Bitcoin Wallet Providers</h1><p>It is not hard to figure out where these search results are coming from, as the website owners will pay to have their website listed at the top of search results. When novice users are on the lookout for a proper Bitcoin wallet solution, search engines are the first tool they will wield.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2bfdb0d00f3eb81cbefb0559b257252a993af87.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Can you have a password based cryptocurrency?</h1><p>Bitcoin is key based. Although it is possible to convert a password into a key, publishing the public key makes it vulnerable to brute force. Currently, passwords are used with Bitcoin, but only to</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/44005/can-you-have-a-password-based-cryptocurrency</link>
             <guid isPermaLink="false">891d08f2-fcaf-4587-a106-9883a5ab773c</guid>
-            <pubDate>Sun, 08 May 2016 08:40:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Weekly Analysis - BTC/USD Remains In Clear Uptrend - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Weekly Analysis - BTC/USD Remains In Clear Uptrend - NEWSBTC</h1><p>Bitcoin price as forecasted in the last weekly analysis started to trade higher. If the current sentiment stays, BTC/USD can test $470. Bitcoin price as forecasted in the last weekly analysis started to trade higher. If the current sentiment stays, BTC/USD can test $470.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93f8e465035a79ded6f3875a1690d1f213ac2c67.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/08/bitcoin-price-weekly-analysis-btcusd-remains-clear-uptrend/</link>
-            <guid isPermaLink="false">026432f9-09b4-47c2-8ab5-3a4316fef498</guid>
             <pubDate>Sun, 08 May 2016 08:40:19 GMT</pubDate>
         </item>
     </channel>
