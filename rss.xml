@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 08:40:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 08:40:22 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Let's stop making tempests in teapots; who has commit access is not important (we have gitian). Stop bashing @orionwl</p>]]></description>
-            <link>https://twitter.com/gavinandresen/status/728974522544750592</link>
-            <guid isPermaLink="false">6739c0a3-192d-478a-bc3e-93ff80beffd4</guid>
-            <pubDate>Sun, 08 May 2016 08:40:19 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Liberty Reserve court case marks the dawn of a new era]]></title>
             <description><![CDATA[<article><h1>Liberty Reserve court case marks the dawn of a new era</h1><p>Before Satoshi Nakamoto was able to figure out the right recipe for decentralizing currency, there were several attempts at centralized online currencies, or 'internet money,' unaffiliated with any state. The last of the bunch to thrive outside of the U.S. financial framework was the Costa Rican startup Liberty Reserve, which was taken down in 2013.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/647576a6b7242f4bbfda142f388448ba49b93426.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>10 Things You Can Buy for $10 on Bitcoin Market OpenBazaar - CoinDesk</h1><p>Leslie Starr O'Hara is a human who lives on a mini-farm in the mountains of North Carolina (Planet Earth) and the author of "The Doublespeak Dictionary." In this feature, O'Hara looks at some of the items already for sale on the recently launched bitcoin-based online market OpenBazaar. You may have heard of OpenBazaar.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09d65c5c49e1afc511f34c4d86df6fd447c11acd.png"></article>]]></description>
             <link>http://www.coindesk.com/buy-10-bitcoin-market-openbazaar/</link>
             <guid isPermaLink="false">c4ecac09-ab7d-422d-817a-7a7010b249de</guid>
+            <pubDate>Sat, 07 May 2016 18:36:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the Blockchain Can Avoid the Perils of Futurism - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>How the Blockchain Can Avoid the Perils of Futurism - CoinDesk</h1><p>In this opinion piece, Hagelstrom speaks out against what he argues is the pervasiveness of futurist thinking in the blockchain industry, reasoning that practical solutions are currently a greater need. We have all heard how bitcoin will make it possible for driverless Ubers to fill their gas tanks, visit mechanics and pay for service without any need of human interventions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0557f3a877bf1abb3cb984cb2a2331705db68ed6.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/blockchain-smart-contracts-non-sci-fi-version/</link>
+            <guid isPermaLink="false">8a5eb5a3-334d-41dd-aba8-700eb5ba83aa</guid>
             <pubDate>Sat, 07 May 2016 18:36:29 GMT</pubDate>
         </item>
     </channel>
