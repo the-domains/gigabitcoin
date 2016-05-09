@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 13:42:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 13:42:03 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Why a Swiss Tax Haven is Embracing Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Why a Swiss Tax Haven is Embracing Bitcoin</h1><p>Municipal bosses in the Swiss town of Zug have decided to accept the bitcoin cryptocurrency for payments up to the value to 200 francs ($206), in a new pilot project.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d5ee89621d6a189638f170f6ec3057487ca5444.jpg"></article>]]></description>
-            <link>http://fortune.com/2016/05/09/zug-bitcoin-services/</link>
-            <guid isPermaLink="false">9618fdf5-8e6a-4c8e-9b20-ed72d1ce6e1b</guid>
-            <pubDate>Mon, 09 May 2016 13:41:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Official Litecoin.com Website Has Been Compromised]]></title>
-            <description><![CDATA[<article><h1>The Official Litecoin.com Website Has Been Compromised</h1><p>It seems that the official Litecoin.com website has been hacked and was serving virus-infected downloads, so if you have downloaded something from there in the last few weeks you might want to take some action in order to avoid loss of coins.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91ad69072cbdda982129ed57649a18e8804e810e.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7829-the-official-litecoin-com-has-been-compromised/</link>
-            <guid isPermaLink="false">6237f1a5-bac9-4abd-be4a-7c95d9d1940b</guid>
-            <pubDate>Mon, 09 May 2016 13:41:08 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Explore a Huge Bitcoin Mine in 360 Video]]></title>
             <description><![CDATA[<article><h1>Explore a Huge Bitcoin Mine in 360 Video</h1><p>Ever wondered what a large-scale Bitcoin mine looks like? Well this video allows you to step inside a Chinese factory where the equivalent of $8 million of the cryptocurrency is generated every single year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7b9c27ed5111c3b61fc9eff545195a85fe2943f.jpg"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>Bitcoin Price Analysis 5/09/2016</h1><p>Bitcoin is undergoing a correction toward the upward trend. That rebound can become a turn to decline. A stop and a rebound of Bitcoin's price off the level of large trading volumes at $456 indicates that that trend is backed by some degree of support.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99c75fda4184e2b270b6afa0cfe86f5237cc6c55.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/bitcoin-price-analysis-5092016</link>
             <guid isPermaLink="false">7c2febf2-ad6d-4f10-a87c-485b3703c4f2</guid>
+            <pubDate>Mon, 09 May 2016 13:40:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[360° Chinese Bitcoin Mine - Brit Lab - BBC Future]]></title>
+            <description><![CDATA[<article><h1>360° Chinese Bitcoin Mine - Brit Lab - BBC Future</h1><p>In China, savvy entrepreneurs are making millions a year by mining bitcoin. Danny Vincent visited one of the world's biggest facilities of its kind to film the activity and people within. Read the full article on BBC Future: http://www.bbc.com/future/story/20160504-we-looked-inside-a-secret-chinese-bitcoin-mine Subscribe for more awesome science - http://www.youtube.com/subscription_center?add_user=HeadsqueezeTV http://www.youtube.com/user/HeadsqueezeTV</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f55c38a16e6cc25c77d017dbb326ddf0036ee615.jpg"></article>]]></description>
+            <link>http://www.youtube.com/watch?v=d5PJnDi_uGA</link>
+            <guid isPermaLink="false">c8617222-f7f6-4914-9ab1-d3816e1a4385</guid>
+            <pubDate>Mon, 09 May 2016 13:40:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Core Dev: Gavin Andresen's GitHub Privileges Were A "Liability"]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Core Dev: Gavin Andresen's GitHub Privileges Were A "Liability"</h1><p>Gavin Andresen, chief scientist at the Bitcoin Core Foundation and former chief developer of the Bitcoin source code had his commit access revoked recently. The move, a collective one taken by Bitcoin Core developers, left Andresen without any administrator or commit privileges after publicly backing Craig Wright's claim that he was Satoshi Nakamoto, Bitcoin's creator.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04dab2962c5d3819d60894856fc81e355f04ca57.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-core-dev-gavin-andresens-github-privileges-liability/</link>
+            <guid isPermaLink="false">31494b9d-ae23-4d2a-a792-23b81a179b97</guid>
             <pubDate>Mon, 09 May 2016 13:40:51 GMT</pubDate>
         </item>
     </channel>
