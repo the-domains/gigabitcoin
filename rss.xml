@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 13:41:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 13:40:58 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Ethereum (ETH) Price Trends: 5/09/2016]]></title>
-            <description><![CDATA[<article><h1>Ethereum (ETH) Price Trends: 5/09/2016</h1><p>Ethereum is forming a short-term flat. The situation is heating up. Powerful impulses usually follow after long flats such as the current one. So far, this movement seems to be a correction toward the upward trend. Ethereum's price has rebounded off the level of large volumes, around $9.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a9bb02cab064463608bb4cdec384213b8497423.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/ethereum-eth-price-trends-5092016</link>
-            <guid isPermaLink="false">21bc72c6-9d56-4bd0-8292-881140725174</guid>
-            <pubDate>Mon, 09 May 2016 13:40:51 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Q&A: What will happen during The Halvening 2016? - Mining Haves & Have-nots]]></title>
             <description><![CDATA[<article><h1>Bitcoin Q&A: What will happen during The Halvening 2016? - Mining Haves & Have-nots</h1><p>Keywords/phrases: the Halvening / Bitcoin halving. Block reward, ending the era of 25 BTC & entering the era of 12.5 BTC. Differences in monetary policy expectations with Bitcoin vs. central banks. Transition from CPU to GPU to FPGA to ASIC mining and back again. The wall in Moore's Law.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1dcd648ba26e59b95c0e512099478fea590a27e7.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://www.engadget.com/2016/05/08/swiss-town-accepts-bitcoin/</link>
             <guid isPermaLink="false">1e2fb698-e8c4-4e79-9132-6af1c115c98d</guid>
             <pubDate>Sun, 08 May 2016 23:59:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[15 Oddest Places where Bitcoin is accepted | HolyTransaction]]></title>
+            <description><![CDATA[<article><h1>15 Oddest Places where Bitcoin is accepted | HolyTransaction</h1><p>If you want to buy somenthing with Bitcoin you must have an online wallet, of course.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1890377bb0f5595961903d075a0828178689562.png"></article>]]></description>
+            <link>http://blog.holytransaction.com/2016/04/15-oddest-places-where-bitcoin-is.html</link>
+            <guid isPermaLink="false">7918d2bb-59c9-42f6-a1ce-e0caa91c144c</guid>
+            <pubDate>Sun, 08 May 2016 21:00:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
