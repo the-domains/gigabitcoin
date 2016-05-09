@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 00:00:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 00:00:39 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coinbase, Ripple poised to receive BitLicense]]></title>
+            <description><![CDATA[<article><h1>Coinbase, Ripple poised to receive BitLicense</h1><p>Coinbase and Ripple Labs are both close to obtaining a BitLicense in order to operate in New York, according to a source who spoke to Reuters. The news agency cited a notice published on the New Yo...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2cca0f608d6d51ffa054d3354f0a3ec05584d0a1.png"></article>]]></description>
+            <link>https://coinreport.net/coinbase-ripple-poised-receive-bitlicense/</link>
+            <guid isPermaLink="false">758ba451-5f9e-4eab-b8a4-ad2b68f8c6f4</guid>
+            <pubDate>Sun, 08 May 2016 23:59:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Decentralizing All The Things]]></title>
             <description><![CDATA[<article><h1>Decentralizing All The Things</h1><p>Distributed applications are the future, they are immune to censorship, downtimes, and the inherent security of the Blockchain remain untouched. The brilliant Satoshi Nakamoto found a way to implement a system in which currency transactions could be carried out in a secure way, and with all the aforementioned benefits.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a41515a1c74353157c1891ebe1db1b949c12ad4c.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>U.S. Court Sentences Man to 20 Years in Prison for Virtual Currency Money Laundering</h1><p>A federal court has sentenced Arthur Budovsky, 42, to 20 years in prison for laundering hundreds of millions of dollars through a virtual currency called Liberty Reserve that was used by cyber criminals for laundering, according to the U.S. Justice Department. U.S. District Judge Denise L.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5aa13ef993401fc051723b2b284ea66e19a3975.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/u-s-court-sentences-man-to-20-years-in-prison-for-virtual-currency-money-laundering/</link>
             <guid isPermaLink="false">dd6a16c0-1741-40b2-b5f1-7d05525f1f17</guid>
-            <pubDate>Sun, 08 May 2016 19:28:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin has a governance problem, no matter who created it - Tech2]]></title>
-            <description><![CDATA[<article><h1>Bitcoin has a governance problem, no matter who created it - Tech2</h1><p>As one would-be father of bitcoin falls by the wayside, squabbling among the web-based currency's lead developers is exposing a fundamental flaw: it must evolve to meet growing demand, but may lack a governance structure to achieve this.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/69c0b4f408d8681703098db19a65be2af8b3ee89.jpg"></article>]]></description>
-            <link>http://tech.firstpost.com/news-analysis/bitcoin-has-a-governance-problem-no-matter-who-created-it-313604.html</link>
-            <guid isPermaLink="false">3f656545-1d20-4431-9753-bd6fc4d51e94</guid>
             <pubDate>Sun, 08 May 2016 19:28:49 GMT</pubDate>
         </item>
     </channel>
