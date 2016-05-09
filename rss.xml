@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 13:41:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 13:41:51 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin Core Dev: Gavin Andresen's GitHub Privileges Were A "Liability"]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Core Dev: Gavin Andresen's GitHub Privileges Were A "Liability"</h1><p>Gavin Andresen, chief scientist at the Bitcoin Core Foundation and former chief developer of the Bitcoin source code had his commit access revoked recently. The move, a collective one taken by Bitcoin Core developers, left Andresen without any administrator or commit privileges after publicly backing Craig Wright's claim that he was Satoshi Nakamoto, Bitcoin's creator.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04dab2962c5d3819d60894856fc81e355f04ca57.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-core-dev-gavin-andresens-github-privileges-liability/</link>
-            <guid isPermaLink="false">31494b9d-ae23-4d2a-a792-23b81a179b97</guid>
-            <pubDate>Mon, 09 May 2016 13:40:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Documentary: The Bitcoin Gospel (VPRO Backlight)]]></title>
-            <description><![CDATA[<article><h1>Documentary: The Bitcoin Gospel (VPRO Backlight)</h1><p>Is bitcoin the blueprint for a bankless currency, or the biggest pyramid scheme ever? What if we could create money ourselves, without the need for banks? Money that can't be forged, that will appreciate rather than depreciate, and that can be used worldwide without transaction costs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fea929f908f1a33f50349e03c0429540329b87e9.jpg"></article>]]></description>
-            <link>http://www.youtube.com/watch?v=8zKuoqZLyKg</link>
-            <guid isPermaLink="false">86897177-7584-439c-8897-02c604d493ca</guid>
-            <pubDate>Mon, 09 May 2016 13:40:51 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin's on a bull run again]]></title>
             <description><![CDATA[<article><h1>Bitcoin's on a bull run again</h1><p>The price of bitcoin has been climbing all year, even as a "civil war" has divided its community of developers, and an Australian man has claimed to be its creator in a highly orchestrated media spectacle in recent days. Bitcoin is now trading at $457, according to the Bitcoin Price Index maintained by CoinDesk.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e59fc2a4ff94b3484e4e9ec2ef46f84ce0e4be1.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>http://www.newsbtc.com/2016/05/09/ethereum-price-technical-analysis-retest-10-40-possible/</link>
             <guid isPermaLink="false">5016cd2f-670b-4bb2-9f8b-818854dc88c6</guid>
             <pubDate>Mon, 09 May 2016 06:34:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coinbase, Ripple poised to receive BitLicense]]></title>
+            <description><![CDATA[<article><h1>Coinbase, Ripple poised to receive BitLicense</h1><p>Coinbase and Ripple Labs are both close to obtaining a BitLicense in order to operate in New York, according to a source who spoke to Reuters. The news agency cited a notice published on the New Yo...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2cca0f608d6d51ffa054d3354f0a3ec05584d0a1.png"></article>]]></description>
+            <link>https://coinreport.net/coinbase-ripple-poised-receive-bitlicense/</link>
+            <guid isPermaLink="false">758ba451-5f9e-4eab-b8a4-ad2b68f8c6f4</guid>
+            <pubDate>Sun, 08 May 2016 23:59:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Decentralizing All The Things]]></title>
+            <description><![CDATA[<article><h1>Decentralizing All The Things</h1><p>Distributed applications are the future, they are immune to censorship, downtimes, and the inherent security of the Blockchain remain untouched. The brilliant Satoshi Nakamoto found a way to implement a system in which currency transactions could be carried out in a secure way, and with all the aforementioned benefits.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a41515a1c74353157c1891ebe1db1b949c12ad4c.png"></article>]]></description>
+            <link>http://themerkle.com/decentralizing-all-the-things/</link>
+            <guid isPermaLink="false">edd056c9-7a8a-411a-9b6f-b0263b3be2d5</guid>
+            <pubDate>Sun, 08 May 2016 23:59:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
