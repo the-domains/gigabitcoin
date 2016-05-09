@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 00:00:38 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Decentralizing All The Things]]></title>
+            <description><![CDATA[<article><h1>Decentralizing All The Things</h1><p>Distributed applications are the future, they are immune to censorship, downtimes, and the inherent security of the Blockchain remain untouched. The brilliant Satoshi Nakamoto found a way to implement a system in which currency transactions could be carried out in a secure way, and with all the aforementioned benefits.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a41515a1c74353157c1891ebe1db1b949c12ad4c.png"></article>]]></description>
+            <link>http://themerkle.com/decentralizing-all-the-things/</link>
+            <guid isPermaLink="false">edd056c9-7a8a-411a-9b6f-b0263b3be2d5</guid>
+            <pubDate>Sun, 08 May 2016 23:59:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Liberty Reserve's Arthur Budovsky receives 20-year prison sentence]]></title>
             <description><![CDATA[<article><h1>Liberty Reserve's Arthur Budovsky receives 20-year prison sentence</h1><p>The co-founder of Liberty Reserve, a Costa Rican-based digital currency company, was sentenced Friday to 20 years in prison in relation to a money laundering scheme. U.S. District Judge Denise Cote...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/055f31160d6a8202c8a15f2152104a1aa1defdc2.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin has a governance problem, no matter who created it - Tech2</h1><p>As one would-be father of bitcoin falls by the wayside, squabbling among the web-based currency's lead developers is exposing a fundamental flaw: it must evolve to meet growing demand, but may lack a governance structure to achieve this.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/69c0b4f408d8681703098db19a65be2af8b3ee89.jpg"></article>]]></description>
             <link>http://tech.firstpost.com/news-analysis/bitcoin-has-a-governance-problem-no-matter-who-created-it-313604.html</link>
             <guid isPermaLink="false">3f656545-1d20-4431-9753-bd6fc4d51e94</guid>
-            <pubDate>Sun, 08 May 2016 19:28:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Liberty Reserve Creator Sentenced To 20 Years Jail Time]]></title>
-            <description><![CDATA[<article><h1>Liberty Reserve Creator Sentenced To 20 Years Jail Time</h1><p>Bitcoin was not the first type of online money to be ever created, as it was preceded by E-Gold and Liberty Reserve, to name a few. The creator of Liberty Reserve was sentenced to 20 years in prison on May 6th.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e7787d2619d6535cbd795260ecfed05017cf6fe.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/liberty-reserve-creator-jail-time/</link>
-            <guid isPermaLink="false">3a56749e-d212-4614-ad7a-d2f0e99bae20</guid>
             <pubDate>Sun, 08 May 2016 19:28:49 GMT</pubDate>
         </item>
     </channel>
