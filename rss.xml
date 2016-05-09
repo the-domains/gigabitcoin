@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 13:41:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 13:41:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin's on a bull run again]]></title>
-            <description><![CDATA[<article><h1>Bitcoin's on a bull run again</h1><p>The price of bitcoin has been climbing all year, even as a "civil war" has divided its community of developers, and an Australian man has claimed to be its creator in a highly orchestrated media spectacle in recent days. Bitcoin is now trading at $457, according to the Bitcoin Price Index maintained by CoinDesk.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e59fc2a4ff94b3484e4e9ec2ef46f84ce0e4be1.jpg"></article>]]></description>
-            <link>http://qz.com/678928/bitcoins-on-a-bull-run-again/</link>
-            <guid isPermaLink="false">d8c98f3c-261d-4b54-a051-0030832c8bbf</guid>
-            <pubDate>Mon, 09 May 2016 13:40:51 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Ethereum (ETH) Price Trends: 5/09/2016]]></title>
             <description><![CDATA[<article><h1>Ethereum (ETH) Price Trends: 5/09/2016</h1><p>Ethereum is forming a short-term flat. The situation is heating up. Powerful impulses usually follow after long flats such as the current one. So far, this movement seems to be a correction toward the upward trend. Ethereum's price has rebounded off the level of large volumes, around $9.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a9bb02cab064463608bb4cdec384213b8497423.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://coinreport.net/liberty-reserves-arthur-budovsky-receives-20-year-prison-sentence/</link>
             <guid isPermaLink="false">ed68c254-7528-4a2b-9ce1-51a136b19f08</guid>
             <pubDate>Sun, 08 May 2016 23:59:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin will pay for public services in a small Swiss town]]></title>
+            <description><![CDATA[<article><h1>Bitcoin will pay for public services in a small Swiss town</h1><p>It might seem odd to center a trial like this on a municipality with less than 30,000 people, but this is potentially an ideal testbed. Zug takes a laissez-faire attitude toward its economy, even in the context of Switzerland, and has much more financial clout than you'd expect -- 3 percent of the world's oil trades through the area.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6bf41981753effecb5320fb5c08bb0948b64822.jpg"></article>]]></description>
+            <link>http://www.engadget.com/2016/05/08/swiss-town-accepts-bitcoin/</link>
+            <guid isPermaLink="false">1e2fb698-e8c4-4e79-9132-6af1c115c98d</guid>
+            <pubDate>Sun, 08 May 2016 23:59:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
