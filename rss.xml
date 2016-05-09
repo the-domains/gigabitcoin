@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 23:59:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 00:00:00 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Liberty Reserve's Arthur Budovsky receives 20-year prison sentence]]></title>
+            <description><![CDATA[<article><h1>Liberty Reserve's Arthur Budovsky receives 20-year prison sentence</h1><p>The co-founder of Liberty Reserve, a Costa Rican-based digital currency company, was sentenced Friday to 20 years in prison in relation to a money laundering scheme. U.S. District Judge Denise Cote...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/055f31160d6a8202c8a15f2152104a1aa1defdc2.png"></article>]]></description>
+            <link>https://coinreport.net/liberty-reserves-arthur-budovsky-receives-20-year-prison-sentence/</link>
+            <guid isPermaLink="false">ed68c254-7528-4a2b-9ce1-51a136b19f08</guid>
+            <pubDate>Sun, 08 May 2016 23:59:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin will pay for public services in a small Swiss town]]></title>
             <description><![CDATA[<article><h1>Bitcoin will pay for public services in a small Swiss town</h1><p>It might seem odd to center a trial like this on a municipality with less than 30,000 people, but this is potentially an ideal testbed. Zug takes a laissez-faire attitude toward its economy, even in the context of Switzerland, and has much more financial clout than you'd expect -- 3 percent of the world's oil trades through the area.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6bf41981753effecb5320fb5c08bb0948b64822.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Liberty Reserve Creator Sentenced To 20 Years Jail Time</h1><p>Bitcoin was not the first type of online money to be ever created, as it was preceded by E-Gold and Liberty Reserve, to name a few. The creator of Liberty Reserve was sentenced to 20 years in prison on May 6th.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e7787d2619d6535cbd795260ecfed05017cf6fe.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/liberty-reserve-creator-jail-time/</link>
             <guid isPermaLink="false">3a56749e-d212-4614-ad7a-d2f0e99bae20</guid>
-            <pubDate>Sun, 08 May 2016 19:28:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is There A Bitcoin Connection Between The CIA and Satoshi Nakamoto?]]></title>
-            <description><![CDATA[<article><h1>Is There A Bitcoin Connection Between The CIA and Satoshi Nakamoto?</h1><p>While it is certainly true Gavin Andresen gave a talk on Bitcoin at the CIA headquarters a few years ago, nothing has come from that connection ever since. The mystery of Satoshi Nakamoto will remain a topic of substantial discussion for several years to come.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6810a2ba35694b535990e90b96078a0364f726ce.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/08/bitcoin-connection-cia-satoshi-nakamoto/</link>
-            <guid isPermaLink="false">d1320fa5-c1e1-4fd8-baa1-f528d694cde2</guid>
             <pubDate>Sun, 08 May 2016 19:28:49 GMT</pubDate>
         </item>
     </channel>
