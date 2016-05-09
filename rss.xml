@@ -4,13 +4,20 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 13:43:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 13:43:07 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[RPT-Bitcoin has a governance problem, no matter who created it]]></title>
             <description><![CDATA[<article><h1>RPT-Bitcoin has a governance problem, no matter who created it</h1><p>(Repeats Friday item) * Bitcoin founder claims provoke fresh bitcoin bickering * System needs to evolve to handle rise in transactions * But lead developers squabble, freeze out one of their peers * System needs "adults" to make decisions - U.S.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e97add1cee49d9d0a7f087204eafc069359e468.png"></article>]]></description>
             <link>http://www.reuters.com/article/bitcoin-governance-idUSL5N1834ZA</link>
             <guid isPermaLink="false">ba9bc3e0-5293-46da-badd-dd25d87b70c8</guid>
+            <pubDate>Mon, 09 May 2016 13:41:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[London Institute Uses 64 Monitors to Demonstrate How Bitcoin Works]]></title>
+            <description><![CDATA[<article><h1>London Institute Uses 64 Monitors to Demonstrate How Bitcoin Works</h1><p>The Imperial Data Science Institute in London has an exhibit of 64 monitors with lines moving in geometric shapes representing real-time bitcoin transactions, according to The Imperial College of London website. Harry Pettit, a graduate student, recently visited the exhibit and discovered it provided a unique way to visualize transactions, according to a news story on the college website.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/761d84ba70bda520fb2840d210cbc73ad43234a6.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/london-institute-64-monitors-bitcoin/</link>
+            <guid isPermaLink="false">cf0b2484-f55e-4c6d-a525-8f3d34d1b4d1</guid>
             <pubDate>Mon, 09 May 2016 13:41:08 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Accenture: Over 60% UK SMEs Want Banks to Offer Bitcoin Services</h1><p>The report, titled "SME Banking 2020; Changing the Conversation", is penned after surveying 1,000 UK-based SMEs to understand the growing business challenges they face due to inadequate banking services. A new Accenture-commissioned survey has revealed that over 60% small-and-medium enterprises (SMEs) would use their banks if they receive Bitcoin services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3632c732cf1afcfac6abe357d6a50dc5307cb30f.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/05/09/accenture-60-uk-smes-want-banks-offer-bitcoin-services/</link>
             <guid isPermaLink="false">a3214e51-3975-4617-9341-aedd0de4fe9d</guid>
-            <pubDate>Mon, 09 May 2016 13:40:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We Accept Bitcoin - Swiss Town Takes Digital Currency Payments]]></title>
-            <description><![CDATA[<article><h1>We Accept Bitcoin - Swiss Town Takes Digital Currency Payments</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a7c60e54d99a3739b804e9685a8b75087455a4e.jpg"></article>]]></description>
-            <link>https://bitconnect.co/bitcoin-news/149/we-accept-bitcoin-swiss-town-takes-digital-currency-payments/</link>
-            <guid isPermaLink="false">474be509-3d3d-4f25-b5b8-3caf8b3044de</guid>
             <pubDate>Mon, 09 May 2016 13:40:52 GMT</pubDate>
         </item>
     </channel>
