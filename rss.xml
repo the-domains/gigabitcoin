@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 13:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 13:26:13 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EB130 - Erik Voorhees: Fooling The Fox - The Story Of The Shapeshift Hack]]></title>
+            <description><![CDATA[<article><h1>EB130 - Erik Voorhees: Fooling The Fox - The Story Of The Shapeshift Hack</h1><p>In the short history of the Bitcoin industry, there has been an impressive amount of high profile hacks, ranging from a few hundred thousand to many millions of dollars. In all of these, customers, Bitcoin users, where robbed of their funds because poor security policies, negligence, incompetence, or plain old scamming.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d41be8c33d32f1bc40fe860ca69a5f44f5a7b0bd.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/epicenter-bitcoin-130-erik-voorhees-fooling-the-fox-the-story-of-the-shapeshift-hack</link>
+            <guid isPermaLink="false">6bc1fe32-43b3-4da9-a8b0-2fc805fdefc4</guid>
+            <pubDate>Tue, 10 May 2016 13:22:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[200 Bitcoin Meetups and Counting]]></title>
+            <description><![CDATA[<article><h1>200 Bitcoin Meetups and Counting</h1><p>Last night I went to Strange Brew Tavern in Manchester for their 200th bitcoin meetup. It is the longest running consecutive bitcoin meet up in the world - going for almost 4 years now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fdaf6a84f9d33050b2a96e9d9c974180d3e40cca.jpg"></article>]]></description>
+            <link>http://freekeene.com/2016/05/09/200-bitcoin-meetups-and-counting/</link>
+            <guid isPermaLink="false">8676cf2c-fe2d-43b2-bbe6-ce988dc10e67</guid>
+            <pubDate>Tue, 10 May 2016 13:22:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The African Mobile Revolution]]></title>
+            <description><![CDATA[<article><h1>The African Mobile Revolution</h1><p>Last week I chaired the inaugural Dot Finance Live conference in Nairobi, Kenya. It is Africa's premier FinTech event, drawing people from all over the countries of sub-Sahara Africa. What struck me as I listened to lots of keynotes about mobile innovation and mobile financial inclusion, is that Africa is actually leading the world in financial innovation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58185b86801b3be260b986d1027bbb8a1551fca2.jpg"></article>]]></description>
+            <link>http://bravenewcoin.com/news/the-african-mobile-revolution-part-one/</link>
+            <guid isPermaLink="false">5be91a66-4c1b-4912-ac26-3e3682d3d574</guid>
+            <pubDate>Tue, 10 May 2016 13:22:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IRC meeting summary for 2016-05-05]]></title>
             <description><![CDATA[<article><h1>IRC meeting summary for 2016-05-05</h1><p>segwit versionbit, testnet startdate, GBT changes NicolasDorier proposed to work on this issue. Morcos commented we should separate wallet functionality to use some smarter higher value for "dust" and the floor for dust should be a separate variable as oposed to a multiple of min relay that it is now.</p></article>]]></description>
@@ -54,27 +75,6 @@
             <link>http://themerkle.com/lending-clubs-founder-and-ceo-resigns/</link>
             <guid isPermaLink="false">c40529b7-0932-4563-9d80-5f48e2efa6b8</guid>
             <pubDate>Tue, 10 May 2016 13:22:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dazed and confused, but trying to continue]]></title>
-            <description><![CDATA[<article><h1>Dazed and confused, but trying to continue</h1><p>I'm happy with the job I'm doing, happy to work with a few very smart people on an extremely interesting project, involving various entirely new challenges, that could have enormous impact. But on the other hand Bitcoin infrastucture development must be one of the most hostile and crazy working environments in existence, at least in software development.</p></article>]]></description>
-            <link>https://laanwj.github.io/2016/05/06/hostility-scams-and-moving-forward.html</link>
-            <guid isPermaLink="false">1a26c555-030c-4910-8d46-d53bd5ef0215</guid>
-            <pubDate>Tue, 10 May 2016 13:22:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[mbitCasino - The Coolest Bitcoin Casino Around - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>mbitCasino - The Coolest Bitcoin Casino Around - NEWSBTC</h1><p>mBit Casino is one of the leading online Bitcoin casinos. mBit offers an easy-to-use interface with hundreds of different games, from slots to blackjack and bitcoin sports betting. mBitCasino also offers non-stop promotions, the best, most available support team, and is always introducing new games.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db5d984bb2759efbdeb59270e3534f8495924761.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/10/mbitcasino-coolest-bitcoin-casino-around/</link>
-            <guid isPermaLink="false">e68489c7-2218-457f-8116-7f6e3c5f0fcd</guid>
-            <pubDate>Tue, 10 May 2016 13:22:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain: It's Not Just About Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Blockchain: It's Not Just About Bitcoin</h1><p>While Bitcoin gets all the attention, the blockchain technology it's based on can be used for a wide variety of applications, such as tracking ownership or the provenance of documents, digital assets, physical assets or voting rights. Here are some of the ways blockchains could improve business and government.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/105d6c4e299e6fa32c2d43ee876a9ccba3645211.jpg"></article>]]></description>
-            <link>http://www.lifehacker.com.au/2016/05/blockchain-its-not-just-about-bitcoin/</link>
-            <guid isPermaLink="false">332b425c-2d26-4327-8e8d-fbbb1f156d02</guid>
-            <pubDate>Tue, 10 May 2016 13:22:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
