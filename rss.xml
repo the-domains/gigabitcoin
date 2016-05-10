@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 01:00:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 01:00:40 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[BitcoinAverage: Craig Wright Can't Keep Bitcoin Down For Long]]></title>
-            <description><![CDATA[<article><h1>BitcoinAverage: Craig Wright Can't Keep Bitcoin Down For Long</h1><p>BitcoinAverage (May 9, 2016) - The unraveling of the supposed mysterious inventor of Bitcoin, Satoshi Nakamoto, made headlines this week across mainstream media outlets. Yet, despite the potential implications of the identity of Satoshi, who owns 7% holdings of the total BTC supply, the price held steady, only selling off a measly 4.6%.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68394b437e1ce43e825fbcc869c5fd7524ea09ec.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/bitcoinaverage-craig-wright-bitcoin/</link>
-            <guid isPermaLink="false">9b786fdb-69c2-4035-85ab-5d2a4e059dbd</guid>
-            <pubDate>Tue, 10 May 2016 00:59:22 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Ethereum Technical Analysis for 05/09/2016 - 0.0205 Pivot Level Continues to Influence Price]]></title>
             <description><![CDATA[<article><h1>Ethereum Technical Analysis for 05/09/2016 - 0.0205 Pivot Level Continues to Influence Price</h1><p>The 0.0205 pivot zone - which I outlined in Friday's ETH article - is continuing the exert its influence on market participants. Since the big sell-off that took place on Friday, the 30-minute chart shows 0.0205 acting as resistance a total of three times.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f5c05dd3a8b668ef0e7e1623067806ee1038fe3.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Coinbase Uses 'Paranoid' Cloud Infrastructure to Secure Platform</h1><p>Coinbase, founded in 2012 by Fred Ehrsam and Brian Armstrong, is one of the most popular bitcoin companies in the cryptocurrency ecosystem. The firm has grown quite a bit since its inception and has become one of the largest Bitcoin trading platforms in the United States.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c46d511d45827c05e12e694918daa29ecd6b2800.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/coinbase-parinoid-cloud-infrastructure/</link>
             <guid isPermaLink="false">b8ffcc5a-b352-4d00-b4ee-d9ba9d839018</guid>
+            <pubDate>Tue, 10 May 2016 00:59:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Here's Why Blockchains Will Change the World]]></title>
+            <description><![CDATA[<article><h1>Here's Why Blockchains Will Change the World</h1><p>As early as 1981, inventors were attempting to solve the Internet's problems of privacy, security, and inclusion with cryptography. No matter how they reengineered the process, there were always leaks because third parties were involved. Paying with credit cards over the Internet was insecure because users had to divulge too much personal data, and the transaction fees were too high for small payments.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2566b52d7abadcb2c492bd7eda55173365b4a177.jpg"></article>]]></description>
+            <link>http://fortune.com/2016/05/08/why-blockchains-will-change-the-world/</link>
+            <guid isPermaLink="false">13a716b8-c041-4ed8-a820-9caa0ff96733</guid>
             <pubDate>Tue, 10 May 2016 00:59:21 GMT</pubDate>
         </item>
     </channel>
