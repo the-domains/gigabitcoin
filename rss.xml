@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 01:03:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 01:03:34 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is the Blockchain a Trojan Horse Behind Wall Street's Walled Garden?]]></title>
+            <description><![CDATA[<article><h1>Is the Blockchain a Trojan Horse Behind Wall Street's Walled Garden?</h1><p>The Bitcoin/blockchain industry's flagship annual conference was held this week in New York City, and there were 1500 attendees and 150 speakers. Eight years after this technology was first described in a nine-page paper dropped on the internet by a mysterious computer scientist, interest is suddenly exploding among blue chip financial firms, who are exploring how Bitcoin and blockchains can make their operations more efficient.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/80a8e67fe25e69dfea3e009d6defa9b3818f4582.jpg"></article>]]></description>
+            <link>http://www.youtube.com/watch?v=Iz2zrEhZs4s</link>
+            <guid isPermaLink="false">3686f834-673b-4ddc-a343-8d07bd10708f</guid>
+            <pubDate>Tue, 10 May 2016 00:59:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Watch: Live Entries For Tonight - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Watch: Live Entries For Tonight - NEWSBTC</h1><p>Here's what we are looking to trade in the bitcoin price for this evening's session out of Europe The European session is now drawing to a close, and its time to perform the second of our twice daily bitcoin price watch analyses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7efc84750390224ce2b09b7d04c5f2a20012f71b.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price On A High Tension Wire</h1><p>Bitcoin price is pushing higher once again but the market is struggling to make a new high since last week. Could this be the final push to resistance? This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e0416bed8a67b6deec028f986eba9eafa8e934d.png"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/bitcoin-price-high-tension-wire/</link>
             <guid isPermaLink="false">1de38bb1-b8ac-4f7e-a9dc-40d2849eb71c</guid>
-            <pubDate>Tue, 10 May 2016 00:59:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FBI Contracted Former Tor Developer To Create Torsploit Malware]]></title>
-            <description><![CDATA[<article><h1>FBI Contracted Former Tor Developer To Create Torsploit Malware</h1><p>Ever since the Silk Road platform was shut down by law enforcement, people have been wondering if the Tor network was as secure as it is touted to be. As it turns out, a former part-time Tor Project developer helped the FBI in developing the Torsploit malware.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d3691adf91941d826d67019f85e019f4bd3e504.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/fbi-tor-developer-torsploit-malware/</link>
-            <guid isPermaLink="false">a584d2c4-cfce-4be3-917b-012c2a4959a7</guid>
             <pubDate>Tue, 10 May 2016 00:59:27 GMT</pubDate>
         </item>
     </channel>
