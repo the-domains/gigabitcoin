@@ -7,6 +7,13 @@
         <lastBuildDate>Tue, 10 May 2016 01:00:27 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Private Digital Currency Founder Jailed for 20 Years - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Private Digital Currency Founder Jailed for 20 Years - CoinDesk</h1><p>The founder of Liberty Reserve, a private digital currency system shuttered by the US government for its alleged use by organized crime, has been sentenced to 20 years in prison. Arthur Budovsky was arrested in the spring of 2013 and later extradited to the US for trial.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e80a480ed57aaf53bf12544b11b1daaf4f0db72e.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/liberty-reserve-founder-20-years/</link>
+            <guid isPermaLink="false">2384b398-6069-4dc3-a1a9-d3e2b1d788f2</guid>
+            <pubDate>Tue, 10 May 2016 00:59:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[SWIFT Institute Sponsors Research Paper on Blockchains in the Securities Industry]]></title>
             <description><![CDATA[<article><h1>SWIFT Institute Sponsors Research Paper on Blockchains in the Securities Industry</h1><p>Two blockchain researchers have released an 81-page paper exploring the impact of distributed ledgers on current post-trade securities processes in the financial securities industry.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad2122dbd7d855b9f5bc7619db3dd6f4ab372262.gif"></article>]]></description>
             <link>http://themerkle.com/swift-institute-sponsors-research-paper-on-blockchains-in-the-securities-industry/</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Evangelist Touts Digital Currency As New Hope For Wall Street</h1><p>Bitcoin gets a lot of attention because drug dealers sometimes use to buy and sell drugs on the digital underground. But that's not all it is. Turns out Bitcoin is also the great new hope on Wall Street - a tool that is so powerful, it might even be able to keep traders honest.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c94931878d491a88c5f8b0fe282d3564f72a7d3e.jpg"></article>]]></description>
             <link>http://www.npr.org/2016/05/09/477382540/bitcoin-evangelist-touts-digital-currency-as-new-hope-for-wall-street</link>
             <guid isPermaLink="false">26a22c69-d838-4601-b68e-b7e43de2f588</guid>
-            <pubDate>Tue, 10 May 2016 00:59:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Transaction using OP_CHECKSEQUENCEVERIFY not accepted by the network]]></title>
-            <description><![CDATA[<article><h1>Transaction using OP_CHECKSEQUENCEVERIFY not accepted by the network</h1><p>When I publish the testnet transaction below, it does not seem to be accepted by the network. Publishing the transaction seems to work fine as it returns the txid, but the transaction does not show</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/44026/transaction-using-op-checksequenceverify-not-accepted-by-the-network</link>
-            <guid isPermaLink="false">3fc05ec9-ac27-4342-97bd-4f648d893a08</guid>
             <pubDate>Tue, 10 May 2016 00:59:20 GMT</pubDate>
         </item>
     </channel>
