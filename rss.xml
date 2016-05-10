@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 13:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 13:23:26 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin Price Analysis 5/10/2016]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Analysis 5/10/2016</h1><p>Bitcoin's price has bounced off a significant resistance line. The basis is now formed for a medium-term upward trend. A second rebound off the top level indicates that that price is used by the majority of traders, who are expecting a similar fall to the one we've seen earlier.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e50a1da3f07066c95bf94d7fc2d5cb04cb9d018.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/bitcoin-price-analysis-5102016</link>
-            <guid isPermaLink="false">fec4a08a-df11-4668-81bf-daae4c7acff2</guid>
-            <pubDate>Tue, 10 May 2016 13:22:49 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Peace & Stability Through The Blockchain: Information Sharing]]></title>
             <description><![CDATA[<article><h1>Peace & Stability Through The Blockchain: Information Sharing</h1><p>For part 1, click here. For part 2, click here. For part 3, click here. For part 4, click here. In part 5, we look at how information might be shared on a blockchain system. The WikiLeaks example demonstrates the issues facing sources for information.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39790d6ca971ad18e3de8f4f8760b1e8c3c5b479.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Mining Ether Just Got a Whole Lot Cheaper</h1><p>Ethereum is one of the fastest growing cryptocurrencies next to Bitcoin. Just a few months ago, the price was $1, then it shot up to $13 and today it has settled at just under $10. This rapid growth excited investors who were eager not to miss out on another hyper-growth investment opportunity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b948adfbe6cff87b31532e702c448f87639a417.jpg"></article>]]></description>
             <link>http://cryptomining-blog.com/7835-mining-ether-just-got-a-whole-lot-cheaper/</link>
             <guid isPermaLink="false">f13572c1-aa6b-47a2-b13e-f14d4dffb085</guid>
+            <pubDate>Tue, 10 May 2016 00:59:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Commonwealth to release blockchain-based messaging system for law enforcement]]></title>
+            <description><![CDATA[<article><h1>The Commonwealth to release blockchain-based messaging system for law enforcement</h1><p>During the last couple of years, cybercrime has gotten significantly worse due to the establishment of the Internet era. According to recent reports, The Commonwealth, which is a voluntary association made up of 53 countries, has announced a project that aims to develop a blockchain app to help combat cross-border crime.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6359cbade362b47416156ec233ca81faf9c861d0.jpg"></article>]]></description>
+            <link>http://themerkle.com/the-commonwealth-to-release-blockchain-based-messaging-system-for-law-enforcement/</link>
+            <guid isPermaLink="false">1026e60f-2f0c-45a1-8ad3-c375d8d29a4e</guid>
             <pubDate>Tue, 10 May 2016 00:59:28 GMT</pubDate>
         </item>
     </channel>
