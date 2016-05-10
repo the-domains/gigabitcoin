@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 01:03:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 01:03:09 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Mining Ether Just Got a Whole Lot Cheaper]]></title>
-            <description><![CDATA[<article><h1>Mining Ether Just Got a Whole Lot Cheaper</h1><p>Ethereum is one of the fastest growing cryptocurrencies next to Bitcoin. Just a few months ago, the price was $1, then it shot up to $13 and today it has settled at just under $10. This rapid growth excited investors who were eager not to miss out on another hyper-growth investment opportunity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b948adfbe6cff87b31532e702c448f87639a417.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7835-mining-ether-just-got-a-whole-lot-cheaper/</link>
-            <guid isPermaLink="false">f13572c1-aa6b-47a2-b13e-f14d4dffb085</guid>
-            <pubDate>Tue, 10 May 2016 00:59:28 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[The Commonwealth to release blockchain-based messaging system for law enforcement]]></title>
             <description><![CDATA[<article><h1>The Commonwealth to release blockchain-based messaging system for law enforcement</h1><p>During the last couple of years, cybercrime has gotten significantly worse due to the establishment of the Internet era. According to recent reports, The Commonwealth, which is a voluntary association made up of 53 countries, has announced a project that aims to develop a blockchain app to help combat cross-border crime.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6359cbade362b47416156ec233ca81faf9c861d0.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://themerkle.com/coinfirm-launches-the-first-blockchain-lab-situated-in-central-europe/</link>
             <guid isPermaLink="false">e1aac4d5-7ef6-4d6a-84f3-106aee7d8354</guid>
             <pubDate>Tue, 10 May 2016 00:59:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Steemit: New Social Media Platform Which Pays You to Post]]></title>
+            <description><![CDATA[<article><h1>Steemit: New Social Media Platform Which Pays You to Post</h1><p>Steemit, a new social media platform where everyone gets paid to post online, has been released in beta. In the age of multiple social media platforms, many of them entrenched players, how will new users react to Steemit? Steemit is a relatively new company, founded in early 2016 by Ned Scott and Daniel Larimer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0af7fda180d9a108ecd4439c7f189fb7c63a7bb3.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/steemit-new-social-media-platform-which-pays-you-to-post</link>
+            <guid isPermaLink="false">33eb3f98-2286-4d5d-9484-7ab417b702f6</guid>
+            <pubDate>Tue, 10 May 2016 00:59:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
