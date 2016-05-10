@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 13:24:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 13:25:14 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dazed and confused, but trying to continue]]></title>
+            <description><![CDATA[<article><h1>Dazed and confused, but trying to continue</h1><p>I'm happy with the job I'm doing, happy to work with a few very smart people on an extremely interesting project, involving various entirely new challenges, that could have enormous impact. But on the other hand Bitcoin infrastucture development must be one of the most hostile and crazy working environments in existence, at least in software development.</p></article>]]></description>
+            <link>https://laanwj.github.io/2016/05/06/hostility-scams-and-moving-forward.html</link>
+            <guid isPermaLink="false">1a26c555-030c-4910-8d46-d53bd5ef0215</guid>
+            <pubDate>Tue, 10 May 2016 13:22:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mbitCasino - The Coolest Bitcoin Casino Around - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>mbitCasino - The Coolest Bitcoin Casino Around - NEWSBTC</h1><p>mBit Casino is one of the leading online Bitcoin casinos. mBit offers an easy-to-use interface with hundreds of different games, from slots to blackjack and bitcoin sports betting. mBitCasino also offers non-stop promotions, the best, most available support team, and is always introducing new games.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db5d984bb2759efbdeb59270e3534f8495924761.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/10/mbitcasino-coolest-bitcoin-casino-around/</link>
+            <guid isPermaLink="false">e68489c7-2218-457f-8116-7f6e3c5f0fcd</guid>
+            <pubDate>Tue, 10 May 2016 13:22:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blockchain: It's Not Just About Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Blockchain: It's Not Just About Bitcoin</h1><p>While Bitcoin gets all the attention, the blockchain technology it's based on can be used for a wide variety of applications, such as tracking ownership or the provenance of documents, digital assets, physical assets or voting rights. Here are some of the ways blockchains could improve business and government.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/105d6c4e299e6fa32c2d43ee876a9ccba3645211.jpg"></article>]]></description>
+            <link>http://www.lifehacker.com.au/2016/05/blockchain-its-not-just-about-bitcoin/</link>
+            <guid isPermaLink="false">332b425c-2d26-4327-8e8d-fbbb1f156d02</guid>
+            <pubDate>Tue, 10 May 2016 13:22:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Movidius Fathom Is a Deep Neural Network Accelerator in USB Format]]></title>
             <description><![CDATA[<article><h1>Movidius Fathom Is a Deep Neural Network Accelerator in USB Format</h1><p>Artificial intelligence, supercomputers, and Bitcoin seem to be three of the hottest trends in the world of technology right now. Thanks to the Movidius Fathom USB stick, any Linux computer can become an AI supercomputer all of a sudden. Quite an exciting development to take note of, as it offers a lot of attractive opportunities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16d092b7987de4acb17e410e63975a0d367d4bde.jpg"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>https://news.bitcoin.com/vitalik-buterin-classic-core-community/</link>
             <guid isPermaLink="false">2116af01-a375-4edc-b732-bc7663e5ba04</guid>
             <pubDate>Tue, 10 May 2016 13:22:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Predecessor - Liberty Reserve Founder Receives 20-Year Prison Sentence]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Predecessor - Liberty Reserve Founder Receives 20-Year Prison Sentence</h1><p>Arthur Budovsky, the creator of Liberty Reserve, a digital currency exchange that traded virtual currencies widely regarded to be the predecessors to Bitcoin, has just received a 20-year prison sentence as the US government declared that the whole thing was massive $6 billion money laundering operation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3dc3b438ac75643969fbef6f7f9d0c71453de64.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/bitcoin-predecessor-liberty-reserve-founder-receives-20-year-prison-sentence</link>
-            <guid isPermaLink="false">dbef87f3-fe2f-4352-b9da-00cfcdd08225</guid>
-            <pubDate>Tue, 10 May 2016 13:22:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Developers Introduce Bloom Filters to Improve Bitcoin Wallet Security]]></title>
-            <description><![CDATA[<article><h1>Developers Introduce Bloom Filters to Improve Bitcoin Wallet Security</h1><p>Security is of the utmost importance when suggesting newer technologies on a large scale, and a proposal is made to present bloom filters to lightweight clients through semi-trusted oracles. Bitcoin developers are always looking to add new features and improvements to the many available wallet solutions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/abf53af4e1b9e6ac2afd088b07ede75c73a29f6e.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/10/developers-introduce-bloom-filters-improve-bitcoin-wallet-security/</link>
-            <guid isPermaLink="false">3fbb27ea-1c3c-44e7-bb42-12fe0e2185cf</guid>
-            <pubDate>Tue, 10 May 2016 13:22:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LastPass Password Vault to Include Bitcoin Support - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>LastPass Password Vault to Include Bitcoin Support - NEWSBTC</h1><p>LastPass, the password management solutions provider have announced bitcoin support on twitter. Read more... LastPass, the secure password manager, and vault service has announced Bitcoin support! The announcement was recently made on the company's twitter channel. However, the exact timeline for Bitcoin support is not yet known.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ca662c4eedf4809c9824538feb23da4452aed8e.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/10/lastpass-password-vault-include-bitcoin-support/</link>
-            <guid isPermaLink="false">cc259dd8-1458-4e64-9c9e-c55ef539e58a</guid>
-            <pubDate>Tue, 10 May 2016 13:22:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
