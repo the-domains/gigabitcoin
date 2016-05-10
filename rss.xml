@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 01:00:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 01:00:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coinbase Uses 'Paranoid' Cloud Infrastructure to Secure Platform]]></title>
+            <description><![CDATA[<article><h1>Coinbase Uses 'Paranoid' Cloud Infrastructure to Secure Platform</h1><p>Coinbase, founded in 2012 by Fred Ehrsam and Brian Armstrong, is one of the most popular bitcoin companies in the cryptocurrency ecosystem. The firm has grown quite a bit since its inception and has become one of the largest Bitcoin trading platforms in the United States.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c46d511d45827c05e12e694918daa29ecd6b2800.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/coinbase-parinoid-cloud-infrastructure/</link>
+            <guid isPermaLink="false">b8ffcc5a-b352-4d00-b4ee-d9ba9d839018</guid>
+            <pubDate>Tue, 10 May 2016 00:59:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Here's Why Blockchains Will Change the World]]></title>
+            <description><![CDATA[<article><h1>Here's Why Blockchains Will Change the World</h1><p>As early as 1981, inventors were attempting to solve the Internet's problems of privacy, security, and inclusion with cryptography. No matter how they reengineered the process, there were always leaks because third parties were involved. Paying with credit cards over the Internet was insecure because users had to divulge too much personal data, and the transaction fees were too high for small payments.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2566b52d7abadcb2c492bd7eda55173365b4a177.jpg"></article>]]></description>
+            <link>http://fortune.com/2016/05/08/why-blockchains-will-change-the-world/</link>
+            <guid isPermaLink="false">13a716b8-c041-4ed8-a820-9caa0ff96733</guid>
+            <pubDate>Tue, 10 May 2016 00:59:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump: U.S. will never default 'because you print the money']]></title>
             <description><![CDATA[<article><h1>Trump: U.S. will never default 'because you print the money'</h1><p>Trump insisted that he never said the U.S. should default or attempt to renegotiate with creditors, as had been reported. "People said I want to go and buy debt and default on debt, and I mean, these people are crazy. This is the United States government," Trump told CNN's Chris Cuomo on "New Day."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16eb724bf04adb835d9da508d0a3514f280aa698.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>London Institute Uses 64 Monitors to Demonstrate How Bitcoin Works</h1><p>The Imperial Data Science Institute in London has an exhibit of 64 monitors with lines moving in geometric shapes representing real-time bitcoin transactions, according to The Imperial College of London website. Harry Pettit, a graduate student, recently visited the exhibit and discovered it provided a unique way to visualize transactions, according to a news story on the college website.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/761d84ba70bda520fb2840d210cbc73ad43234a6.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/london-institute-64-monitors-bitcoin/</link>
             <guid isPermaLink="false">cf0b2484-f55e-4c6d-a525-8f3d34d1b4d1</guid>
-            <pubDate>Mon, 09 May 2016 13:41:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="http://imgur.com/5wEror2.png"></article>]]></description>
-            <link>http://imgur.com/5wEror2</link>
-            <guid isPermaLink="false">7af89eec-8617-442c-9c62-dc01cfeb9bc5</guid>
-            <pubDate>Mon, 09 May 2016 13:41:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; The Week Ahead]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; The Week Ahead</h1><p>Here's what we are looking to trade in the bitcoin price for this morning's session out of Europe It's the start of a fresh week, and the weekend just gone has been a bit of an anomaly when compared to the last couple of months' worth of action.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/998dab764d97018bfd07e14d2bc75971a30ce6f4.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/09/bitcoin-price-watch-week-ahead/</link>
-            <guid isPermaLink="false">32d247a2-1927-4f92-b9b8-3a65080e5cbc</guid>
             <pubDate>Mon, 09 May 2016 13:41:08 GMT</pubDate>
         </item>
     </channel>
