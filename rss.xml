@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 13:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 13:23:35 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LastPass Password Vault to Include Bitcoin Support - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>LastPass Password Vault to Include Bitcoin Support - NEWSBTC</h1><p>LastPass, the password management solutions provider have announced bitcoin support on twitter. Read more... LastPass, the secure password manager, and vault service has announced Bitcoin support! The announcement was recently made on the company's twitter channel. However, the exact timeline for Bitcoin support is not yet known.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ca662c4eedf4809c9824538feb23da4452aed8e.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/10/lastpass-password-vault-include-bitcoin-support/</link>
+            <guid isPermaLink="false">cc259dd8-1458-4e64-9c9e-c55ef539e58a</guid>
+            <pubDate>Tue, 10 May 2016 13:22:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Wallet iPay You Simplifies Sending And Receiving Bitcoin]]></title>
             <description><![CDATA[<article><h1>Bitcoin Wallet iPay You Simplifies Sending And Receiving Bitcoin</h1><p>iPay You, a Seattle, Wash.-based bitcoin wallet created by Gene Kavner, a former director of Amazon Associates and a Microsoft veteran, allows users to send bitcoin to people who don't already have a bitcoin account, using text or email. It also makes it possible to buy bitcoin using a U.S.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d8b5b7624d9a8cca35b8db2036f9b956de6131a.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Peace & Stability Through The Blockchain: Information Sharing</h1><p>For part 1, click here. For part 2, click here. For part 3, click here. For part 4, click here. In part 5, we look at how information might be shared on a blockchain system. The WikiLeaks example demonstrates the issues facing sources for information.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39790d6ca971ad18e3de8f4f8760b1e8c3c5b479.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/peace-stability-public-ledger-information-sharing/</link>
             <guid isPermaLink="false">3462ed3d-b085-479f-96c1-db61248986da</guid>
-            <pubDate>Tue, 10 May 2016 13:22:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Genesis Mining Announces Decrease in Ethereum Mining Price]]></title>
-            <description><![CDATA[<article><h1>Genesis Mining Announces Decrease in Ethereum Mining Price</h1><p>Press Release: Mining Ether just got a whole lot cheaper as cloud mining giant Genesis Mining release pictures of the largest Ether cloud mining farm in the world, Enigma. Ethereum is one of the fastest growing cryptocurrencies next to Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/785ebb3764bd8dc6f15550ff80b9b7d5e0ed6ac5.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/10/worlds-largest-cloud-mining-provider-genesis-mining-announces-significant-decrease-ethereum-mining-price/</link>
-            <guid isPermaLink="false">e38a5d93-fb2f-41d1-a181-d18d443a451a</guid>
             <pubDate>Tue, 10 May 2016 13:22:49 GMT</pubDate>
         </item>
     </channel>
