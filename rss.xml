@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 00:59:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 00:59:56 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gemini Trading Launch Does Little to Boost Ether Price - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Gemini Trading Launch Does Little to Boost Ether Price - CoinDesk</h1><p>Ether prices experienced only modest movements on 9th May despite the high-profile launch of trading support for the digital asset on Gemini, the digital currency exchange owned by investors Cameron and Tyler Winklevoss. Announced last week, Gemini began offering both ETH/BTC and ETH/USD pairs at 14:30 UTC today, a launch that coincided with news coverage from Reuters and Bloomberg, among others.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75602396e2b2f53d474e975a9539e4bc380c5269.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/gemini-trading-ether-price/</link>
+            <guid isPermaLink="false">83368a2c-7fa5-45c4-99af-7ac68e08e33d</guid>
+            <pubDate>Tue, 10 May 2016 00:59:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Evangelist Touts Digital Currency As New Hope For Wall Street]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Evangelist Touts Digital Currency As New Hope For Wall Street</h1><p>Bitcoin gets a lot of attention because drug dealers sometimes use to buy and sell drugs on the digital underground. But that's not all it is. Turns out Bitcoin is also the great new hope on Wall Street - a tool that is so powerful, it might even be able to keep traders honest.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c94931878d491a88c5f8b0fe282d3564f72a7d3e.jpg"></article>]]></description>
+            <link>http://www.npr.org/2016/05/09/477382540/bitcoin-evangelist-touts-digital-currency-as-new-hope-for-wall-street</link>
+            <guid isPermaLink="false">26a22c69-d838-4601-b68e-b7e43de2f588</guid>
+            <pubDate>Tue, 10 May 2016 00:59:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Transaction using OP_CHECKSEQUENCEVERIFY not accepted by the network]]></title>
             <description><![CDATA[<article><h1>Transaction using OP_CHECKSEQUENCEVERIFY not accepted by the network</h1><p>When I publish the testnet transaction below, it does not seem to be accepted by the network. Publishing the transaction seems to work fine as it returns the txid, but the transaction does not show</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://fortune.com/2016/05/09/zug-bitcoin-services/</link>
             <guid isPermaLink="false">9618fdf5-8e6a-4c8e-9b20-ed72d1ce6e1b</guid>
             <pubDate>Mon, 09 May 2016 13:41:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Official Litecoin.com Website Has Been Compromised]]></title>
-            <description><![CDATA[<article><h1>The Official Litecoin.com Website Has Been Compromised</h1><p>It seems that the official Litecoin.com website has been hacked and was serving virus-infected downloads, so if you have downloaded something from there in the last few weeks you might want to take some action in order to avoid loss of coins.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91ad69072cbdda982129ed57649a18e8804e810e.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7829-the-official-litecoin-com-has-been-compromised/</link>
-            <guid isPermaLink="false">6237f1a5-bac9-4abd-be4a-7c95d9d1940b</guid>
-            <pubDate>Mon, 09 May 2016 13:41:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Explore a Huge Bitcoin Mine in 360 Video]]></title>
-            <description><![CDATA[<article><h1>Explore a Huge Bitcoin Mine in 360 Video</h1><p>Ever wondered what a large-scale Bitcoin mine looks like? Well this video allows you to step inside a Chinese factory where the equivalent of $8 million of the cryptocurrency is generated every single year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7b9c27ed5111c3b61fc9eff545195a85fe2943f.jpg"></article>]]></description>
-            <link>http://gizmodo.com/explore-a-huge-bitcoin-mine-in-360-video-1775485315</link>
-            <guid isPermaLink="false">89a79efc-1625-4a8c-8e41-eb7077b1439d</guid>
-            <pubDate>Mon, 09 May 2016 13:40:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
