@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 01:03:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 01:03:42 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="http://imgur.com/5dUjUQf.png"></article>]]></description>
-            <link>http://i.imgur.com/5dUjUQf.png</link>
-            <guid isPermaLink="false">4942c27b-e627-44b3-9ada-3a74ae58d8b6</guid>
-            <pubDate>Tue, 10 May 2016 00:59:36 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Is Blockchain the Key to User-Controlled Social Media? - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Is Blockchain the Key to User-Controlled Social Media? - CoinDesk</h1><p>New social media platforms are starting to emerge that utilize blockchain and distributed ledger technology in an effort to build platforms where users are in control on of their data and more expressive choices are available.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bced9a3bb3efe3699c6925f04aae446ff83d92c.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Swiss Town Accepts Bitcoin for Public Services</h1><p>A town in Switzerland has begun to accept Bitcoin payments for certain city services. The northern town of Zug decided to allow Bitcoin payments earlier this month for public services as a part of a trial run. The municipality services will be capped at 200 francs worth of Bitcoin, and include services like public utilities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d9113e5785de517e2d8b6c8d660e08b4f113b4b.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/swiss-town-accepts-bitcoin-for-public-services</link>
             <guid isPermaLink="false">7901d705-7c1b-411b-8e38-c46e8914bdc5</guid>
+            <pubDate>Tue, 10 May 2016 00:59:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Did Japan Really Trade More Bitcoin than US this Weekend? - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Did Japan Really Trade More Bitcoin than US this Weekend? - NEWSBTC</h1><p>One Redditor reported that bitcoin trade volumes in Japan were the second highest among all currency pairs across the world. Read more... Bitcoin technology is unquestionably finding its share of fans in Japan, a country which recently proposed a rather friendlier regulatory framework for the digital currency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7adc852e57a4d52837cf4eeca41b8988bc8f6f69.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/09/japan-really-trade-bitcoin-us-weekend/</link>
+            <guid isPermaLink="false">bdd696fd-6316-41ee-b392-7d823390efd6</guid>
             <pubDate>Tue, 10 May 2016 00:59:27 GMT</pubDate>
         </item>
     </channel>
