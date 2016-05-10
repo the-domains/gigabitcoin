@@ -4,29 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 13:25:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 13:25:33 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The African Mobile Revolution]]></title>
-            <description><![CDATA[<article><h1>The African Mobile Revolution</h1><p>Last week I chaired the inaugural Dot Finance Live conference in Nairobi, Kenya. It is Africa's premier FinTech event, drawing people from all over the countries of sub-Sahara Africa. What struck me as I listened to lots of keynotes about mobile innovation and mobile financial inclusion, is that Africa is actually leading the world in financial innovation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58185b86801b3be260b986d1027bbb8a1551fca2.jpg"></article>]]></description>
-            <link>http://bravenewcoin.com/news/the-african-mobile-revolution-part-one/</link>
-            <guid isPermaLink="false">5be91a66-4c1b-4912-ac26-3e3682d3d574</guid>
-            <pubDate>Tue, 10 May 2016 13:22:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2016-05-05]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-05-05</h1><p>segwit versionbit, testnet startdate, GBT changes NicolasDorier proposed to work on this issue. Morcos commented we should separate wallet functionality to use some smarter higher value for "dust" and the floor for dust should be a separate variable as oposed to a multiple of min relay that it is now.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/05/05/</link>
-            <guid isPermaLink="false">16f2a7fe-ca1c-4313-a7bb-b435f0f723f2</guid>
-            <pubDate>Tue, 10 May 2016 13:22:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Conversation with Edward M. Stadum, Kraken General Counsel]]></title>
-            <description><![CDATA[<article><h1>A Conversation with Edward M. Stadum, Kraken General Counsel</h1><p>Last month, bitcoin exchange Kraken announced the appointment of Edward M. Stadum as its General Counsel. Stadum brings to the position 50 years' experience as a renowned international lawyer, vent...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c022881ed1196601c222f57c59183efa13616b30.jpg"></article>]]></description>
-            <link>https://coinreport.net/conversation-edward-m-stadum-kraken-general-counsel/</link>
-            <guid isPermaLink="false">df422dfe-edc3-4670-874e-050f5f7de38e</guid>
-            <pubDate>Tue, 10 May 2016 13:22:51 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Enigma / The world's largest Ethereum Mine - Genesis Mining]]></title>
             <description><![CDATA[<article><h1>Enigma / The world's largest Ethereum Mine - Genesis Mining</h1><p>Ethereum is the first 'world computer'. It is a decentralized network that can be used by anyone and is capable of running applications with no possibility of downtime, censorship or fraud. It's native currency, Ether is one of the fastest growing cryptocurrencies next to Bitcoin. Just a few months ago, the price was $1,...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1b20b5f02e2372f9bed5e99ad7a343888680a72.jpg"></article>]]></description>
@@ -74,6 +53,27 @@
             <description><![CDATA[<article><h1>mbitCasino - The Coolest Bitcoin Casino Around - NEWSBTC</h1><p>mBit Casino is one of the leading online Bitcoin casinos. mBit offers an easy-to-use interface with hundreds of different games, from slots to blackjack and bitcoin sports betting. mBitCasino also offers non-stop promotions, the best, most available support team, and is always introducing new games.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db5d984bb2759efbdeb59270e3534f8495924761.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/05/10/mbitcasino-coolest-bitcoin-casino-around/</link>
             <guid isPermaLink="false">e68489c7-2218-457f-8116-7f6e3c5f0fcd</guid>
+            <pubDate>Tue, 10 May 2016 13:22:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blockchain: It's Not Just About Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Blockchain: It's Not Just About Bitcoin</h1><p>While Bitcoin gets all the attention, the blockchain technology it's based on can be used for a wide variety of applications, such as tracking ownership or the provenance of documents, digital assets, physical assets or voting rights. Here are some of the ways blockchains could improve business and government.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/105d6c4e299e6fa32c2d43ee876a9ccba3645211.jpg"></article>]]></description>
+            <link>http://www.lifehacker.com.au/2016/05/blockchain-its-not-just-about-bitcoin/</link>
+            <guid isPermaLink="false">332b425c-2d26-4327-8e8d-fbbb1f156d02</guid>
+            <pubDate>Tue, 10 May 2016 13:22:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Movidius Fathom Is a Deep Neural Network Accelerator in USB Format]]></title>
+            <description><![CDATA[<article><h1>Movidius Fathom Is a Deep Neural Network Accelerator in USB Format</h1><p>Artificial intelligence, supercomputers, and Bitcoin seem to be three of the hottest trends in the world of technology right now. Thanks to the Movidius Fathom USB stick, any Linux computer can become an AI supercomputer all of a sudden. Quite an exciting development to take note of, as it offers a lot of attractive opportunities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16d092b7987de4acb17e410e63975a0d367d4bde.jpg"></article>]]></description>
+            <link>http://themerkle.com/movidius-fathom-is-a-deep-neural-network-accelerator-in-usb-format/</link>
+            <guid isPermaLink="false">4c5dc99f-e08e-450c-b1d7-ca2879725b47</guid>
+            <pubDate>Tue, 10 May 2016 13:22:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenBazaar Developers Reveal Roadmap And Upcoming Features]]></title>
+            <description><![CDATA[<article><h1>OpenBazaar Developers Reveal Roadmap And Upcoming Features</h1><p>It has been hinted at for several weeks now, but the OpenBazaar team has finally revealed their development roadmap. Several new features will be coming, although some of them will take a year - or longer- to be implemented. Additionally, the team has also introduced some ongoing improvements to make the ecosystem more versatile and mature.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f420645de57637bf266cd534ae82cc5770e39489.jpg"></article>]]></description>
+            <link>http://themerkle.com/openbazaar-developers-reveal-roadmap-and-upcoming-features/</link>
+            <guid isPermaLink="false">cd22e2bf-9794-4125-8174-309ae99ae96f</guid>
             <pubDate>Tue, 10 May 2016 13:22:50 GMT</pubDate>
         </item>
     </channel>
