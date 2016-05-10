@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 13:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 13:25:05 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Dazed and confused, but trying to continue]]></title>
-            <description><![CDATA[<article><h1>Dazed and confused, but trying to continue</h1><p>I'm happy with the job I'm doing, happy to work with a few very smart people on an extremely interesting project, involving various entirely new challenges, that could have enormous impact. But on the other hand Bitcoin infrastucture development must be one of the most hostile and crazy working environments in existence, at least in software development.</p></article>]]></description>
-            <link>https://laanwj.github.io/2016/05/06/hostility-scams-and-moving-forward.html</link>
-            <guid isPermaLink="false">1a26c555-030c-4910-8d46-d53bd5ef0215</guid>
-            <pubDate>Tue, 10 May 2016 13:22:51 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[mbitCasino - The Coolest Bitcoin Casino Around - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>mbitCasino - The Coolest Bitcoin Casino Around - NEWSBTC</h1><p>mBit Casino is one of the leading online Bitcoin casinos. mBit offers an easy-to-use interface with hundreds of different games, from slots to blackjack and bitcoin sports betting. mBitCasino also offers non-stop promotions, the best, most available support team, and is always introducing new games.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db5d984bb2759efbdeb59270e3534f8495924761.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Vitalik Buterin: Keep Classic, Core Separate to Satisfy Community</h1><p>Ethereum creator Vitalik Buterin has said the Bitcoin community "would be happier" if the Classic and Core protocols hard forked. Also read: Accusations Fly as Classic Core Debate Goes Corporate Buterin made the comments in a French-language interview for French information resource CryptoFR.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1521a6700544e068d0f0738ee1b4217a96cf2cd.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/vitalik-buterin-classic-core-community/</link>
             <guid isPermaLink="false">2116af01-a375-4edc-b732-bc7663e5ba04</guid>
+            <pubDate>Tue, 10 May 2016 13:22:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Predecessor - Liberty Reserve Founder Receives 20-Year Prison Sentence]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Predecessor - Liberty Reserve Founder Receives 20-Year Prison Sentence</h1><p>Arthur Budovsky, the creator of Liberty Reserve, a digital currency exchange that traded virtual currencies widely regarded to be the predecessors to Bitcoin, has just received a 20-year prison sentence as the US government declared that the whole thing was massive $6 billion money laundering operation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3dc3b438ac75643969fbef6f7f9d0c71453de64.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/bitcoin-predecessor-liberty-reserve-founder-receives-20-year-prison-sentence</link>
+            <guid isPermaLink="false">dbef87f3-fe2f-4352-b9da-00cfcdd08225</guid>
             <pubDate>Tue, 10 May 2016 13:22:50 GMT</pubDate>
         </item>
     </channel>
