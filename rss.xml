@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 13:24:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 13:24:58 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blockchain: It's Not Just About Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Blockchain: It's Not Just About Bitcoin</h1><p>While Bitcoin gets all the attention, the blockchain technology it's based on can be used for a wide variety of applications, such as tracking ownership or the provenance of documents, digital assets, physical assets or voting rights. Here are some of the ways blockchains could improve business and government.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/105d6c4e299e6fa32c2d43ee876a9ccba3645211.jpg"></article>]]></description>
+            <link>http://www.lifehacker.com.au/2016/05/blockchain-its-not-just-about-bitcoin/</link>
+            <guid isPermaLink="false">332b425c-2d26-4327-8e8d-fbbb1f156d02</guid>
+            <pubDate>Tue, 10 May 2016 13:22:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Movidius Fathom Is a Deep Neural Network Accelerator in USB Format]]></title>
+            <description><![CDATA[<article><h1>Movidius Fathom Is a Deep Neural Network Accelerator in USB Format</h1><p>Artificial intelligence, supercomputers, and Bitcoin seem to be three of the hottest trends in the world of technology right now. Thanks to the Movidius Fathom USB stick, any Linux computer can become an AI supercomputer all of a sudden. Quite an exciting development to take note of, as it offers a lot of attractive opportunities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16d092b7987de4acb17e410e63975a0d367d4bde.jpg"></article>]]></description>
+            <link>http://themerkle.com/movidius-fathom-is-a-deep-neural-network-accelerator-in-usb-format/</link>
+            <guid isPermaLink="false">4c5dc99f-e08e-450c-b1d7-ca2879725b47</guid>
+            <pubDate>Tue, 10 May 2016 13:22:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[OpenBazaar Developers Reveal Roadmap And Upcoming Features]]></title>
             <description><![CDATA[<article><h1>OpenBazaar Developers Reveal Roadmap And Upcoming Features</h1><p>It has been hinted at for several weeks now, but the OpenBazaar team has finally revealed their development roadmap. Several new features will be coming, although some of them will take a year - or longer- to be implemented. Additionally, the team has also introduced some ongoing improvements to make the ecosystem more versatile and mature.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f420645de57637bf266cd534ae82cc5770e39489.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.newsbtc.com/2016/05/10/developers-introduce-bloom-filters-improve-bitcoin-wallet-security/</link>
             <guid isPermaLink="false">3fbb27ea-1c3c-44e7-bb42-12fe0e2185cf</guid>
             <pubDate>Tue, 10 May 2016 13:22:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LastPass Password Vault to Include Bitcoin Support - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>LastPass Password Vault to Include Bitcoin Support - NEWSBTC</h1><p>LastPass, the password management solutions provider have announced bitcoin support on twitter. Read more... LastPass, the secure password manager, and vault service has announced Bitcoin support! The announcement was recently made on the company's twitter channel. However, the exact timeline for Bitcoin support is not yet known.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ca662c4eedf4809c9824538feb23da4452aed8e.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/10/lastpass-password-vault-include-bitcoin-support/</link>
-            <guid isPermaLink="false">cc259dd8-1458-4e64-9c9e-c55ef539e58a</guid>
-            <pubDate>Tue, 10 May 2016 13:22:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Wallet iPay You Simplifies Sending And Receiving Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Wallet iPay You Simplifies Sending And Receiving Bitcoin</h1><p>iPay You, a Seattle, Wash.-based bitcoin wallet created by Gene Kavner, a former director of Amazon Associates and a Microsoft veteran, allows users to send bitcoin to people who don't already have a bitcoin account, using text or email. It also makes it possible to buy bitcoin using a U.S.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d8b5b7624d9a8cca35b8db2036f9b956de6131a.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-wallet-ipay-you-simplifies-sending-and-receiving-bitcoin/</link>
-            <guid isPermaLink="false">eaf8a00a-5ce0-4387-87bb-47484de9d677</guid>
-            <pubDate>Tue, 10 May 2016 13:22:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
