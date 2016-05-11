@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 02:07:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 02:07:44 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[In search of Satoshi Nakamoto, Bitcoin's mysterious creator]]></title>
+            <description><![CDATA[<article><h1>In search of Satoshi Nakamoto, Bitcoin's mysterious creator</h1><p>The English-speaking world has long had a love affair with literature that attempts to describe experience from the point of view of another species. Henry Williamson is perhaps the best-known British chronicler of the beast's inner world: his early forays, particularly Tarka the Otter (1927) and Salar the Salmon (1935), are considered classics of the genre.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5d1515dc2f6e8ef2e0977bcd02fc5a78567bc31.jpg"></article>]]></description>
+            <link>http://www.newstatesman.com/culture/observations/2016/05/search-satoshi-nakamoto-bitcoins-mysterious-creator</link>
+            <guid isPermaLink="false">866649a3-d02d-465c-8cbd-5128f9af55fa</guid>
+            <pubDate>Wed, 11 May 2016 02:06:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does the Lightning Network Threaten Bitcoin's Censorship Resistance?]]></title>
+            <description><![CDATA[<article><h1>Does the Lightning Network Threaten Bitcoin's Censorship Resistance?</h1><p>The Lightning Network may well be Bitcoin's primary solution to the issue of scalability, but many skeptics believe there are unresolved issues with this layer-2 system for the blockchain. The possibility of too much centralization via so-called "supernodes" is one of the common criticisms of the Lightning Network, and attached to that is the fear of these new, mostly -centralized payment hubs having the capacity to censor transactions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8bd5fae749ab7fa2f524b90b2dba82a2d488490.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/does-the-lightning-network-threaten-bitcoin-s-censorship-resistance-1462904079</link>
+            <guid isPermaLink="false">59731241-8ddf-4f81-bf5a-73b128beaf67</guid>
+            <pubDate>Wed, 11 May 2016 02:06:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Thank you Gavin Andresen for showing the world that you shouldn't rely on a signature verification done on a computer you don't control. * /r/Bitcoin]]></title>
             <description><![CDATA[<article><h1>Thank you Gavin Andresen for showing the world that you shouldn't rely on a signature verification done on a computer you don't control. * /r/Bitcoin</h1><p>257 points and 167 comments so far on reddit</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Ethereum DAO Crowdsale, the Most Successful Crowdfunding Campaign - NEWSBTC</h1><p>The Ethereum DAO crowdsale is now one of the most successful crowdfunding campaign till date. Read more... Ethereum DAO token crowdsale is the best performing crowdfunding campaign so far! The platform has raised over $34.45 million in less than 15 days of launch.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0580e989d06a00fcc7c0f2256455bcd630601314.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/05/10/ethereum-dao-crowd-sale-successful-crowdfunding-campaign/</link>
             <guid isPermaLink="false">8538ff0b-6400-4cc2-ab30-521a7f17b291</guid>
-            <pubDate>Wed, 11 May 2016 02:06:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Target Is Hiring an Expert Who Understands Bitcoin - Bitcoin News]]></title>
-            <description><![CDATA[<article><h1>Target Is Hiring an Expert Who Understands Bitcoin - Bitcoin News</h1><p>Target is changing its focus to online e-commerce according to a Also read: Accusations Fly as Classic Core Debate Goes Corporate report from Business Insider. The company believes its efforts towards this goal is a necessary step to broaden its horizons.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b5035be1793490bdd63af2b27455b367ceeaa63.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/target-hiring-expert-understands-bitcoin/</link>
-            <guid isPermaLink="false">9c9163f7-7060-43b3-9c42-a2d456dcd4b7</guid>
-            <pubDate>Wed, 11 May 2016 02:06:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Messaging app Vodi using BitPay to accept bitcoin payments]]></title>
-            <description><![CDATA[<article><h1>Messaging app Vodi using BitPay to accept bitcoin payments</h1><p>Bitcoin payment processor BitPay announced on its corporate blog Monday a partnership with international mobile messaging app Vodi to integrate bitcoin payments. Available for both Android and iOS ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/618079ca1f1c5c525d064d8f04c2d167b7eb5f7b.png"></article>]]></description>
-            <link>https://coinreport.net/messaging-app-vodi-using-bitpay-accept-bitcoin-payments/</link>
-            <guid isPermaLink="false">25d38c7a-e99c-4f85-b7e9-4c0dfacaf1de</guid>
             <pubDate>Wed, 11 May 2016 02:06:22 GMT</pubDate>
         </item>
     </channel>
