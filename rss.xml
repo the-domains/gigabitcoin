@@ -4,11 +4,32 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 02:09:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 02:09:48 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[gpu mining slows down my ubuntu]]></title>
+            <description><![CDATA[<article><h1>gpu mining slows down my ubuntu</h1><p>i'm trying to mine using my cpu and gpu, when the cpu is set to use all its cores, i have no problems, but when i use my gpu, my desktop gets way too slow because unity uses it too i think, so i ne...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/44042/gpu-mining-slows-down-my-ubuntu</link>
+            <guid isPermaLink="false">766b61cd-0bd5-4ae1-8979-cb9b9e3008dc</guid>
+            <pubDate>Wed, 11 May 2016 02:06:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin may or may not change money, but the blockchain will change finance]]></title>
+            <description><![CDATA[<article><h1>Bitcoin may or may not change money, but the blockchain will change finance</h1><p>"The back office in financial services is finally sexy again," says Jim Zemlin, the executive director of the Linux Foundation. It's not often you hear "back office" and "sexy" in the same sentence, and it may never happen again.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a00a77e0564ed6d78292888225abc0354571cfc.jpg"></article>]]></description>
+            <link>http://www.newsweek.com/bitcoin-goes-corporate-or-least-blockchain-does-457716</link>
+            <guid isPermaLink="false">51f3101d-0841-4d98-9072-e17f96cd5ce5</guid>
+            <pubDate>Wed, 11 May 2016 02:06:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Password Manager LastPass Hints at Bitcoin Acceptance]]></title>
+            <description><![CDATA[<article><h1>Password Manager LastPass Hints at Bitcoin Acceptance</h1><p>LastPass, commonly known as the most popular password manager and vault around has hinted at Bitcoin acceptance as payment for its paid (and premium) accounts. Widely-used password manager and storage vault LastPass could soon begin accepting bitcoin as payment from users.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6ec5c501aeb4aad2d0430074b2a0653bafb5e36.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/password-manager-lastpass-hints-bitcoin-acceptance/</link>
+            <guid isPermaLink="false">a76dfff1-271d-4828-9309-a38b9a288522</guid>
+            <pubDate>Wed, 11 May 2016 02:06:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[10 Quotes That Defined Consensus 2016 - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>10 Quotes That Defined Consensus 2016 - CoinDesk</h1><p>Held one week ago in New York City, CoinDesk's Consensus 2016 blockchain conference brought together speakers from all over the world to unveil new products, discuss the major issues of the day and begin to help plotting a course forward for the future of the industry. The biggest moments?</p><img src="http://media.coindesk.com/2016/05/Untitled.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>10 Quotes That Defined Consensus 2016 - CoinDesk</h1><p>Held one week ago in New York City, CoinDesk's Consensus 2016 blockchain conference brought together speakers from all over the world to unveil new products, discuss the major issues of the day and begin to help plotting a course forward for the future of the industry. The biggest moments?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae0c66f8ba67f81f0b1e4e050541f87e6bbedd25.jpg"></article>]]></description>
             <link>http://www.coindesk.com/11-times-speakers-stole-show-consensus-2016/</link>
             <guid isPermaLink="false">b22ee0b4-326b-4c74-bd3f-920b954eb114</guid>
             <pubDate>Wed, 11 May 2016 02:06:24 GMT</pubDate>
@@ -53,27 +74,6 @@
             <description><![CDATA[<article><h1>The Blockchain Revolution: 10 European Fintech Startups to Watch in 2016</h1><p>NexusLab, Zurich-based business platform, has gathered 10 teams to develop new applications of blockchain technologies in different industries; half of startups are from Nordics. Daniel Grassinger, managing director of Nexuslab and co-founder of Nexussquared, says: "Having identified and scouted more than 260 European early-stage blockchain startups and being able to select our pilot cohort out of some 50 qualified applicants is testament to the importance and broad future impact of blockchain technology.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ece8136d4d701988978e5c822a10a505ab4adf36.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/the-blockchain-revolution-10-european-fintech-startups-to-watch-in-2016</link>
             <guid isPermaLink="false">33c0f884-3c4a-4177-a484-816e2639c23a</guid>
-            <pubDate>Wed, 11 May 2016 02:06:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitwala Offers Free Bitcoin VISA Debits Cards]]></title>
-            <description><![CDATA[<article><h1>Bitwala Offers Free Bitcoin VISA Debits Cards</h1><p>Netherlands-based digital currency payments solutions firm Bitwala is offering free bitcoin debit cards to the first 2000 clients. Bitwala's VISA debit card is comparable to BitPay's debit card in terms of fees and issuance charges, however, Bitwala also offers virtual card deliveries that cost only €5.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d210c8a4b4887e6e2a5a10b3aa4153907271112.jpg"></article>]]></description>
-            <link>http://themerkle.com/bitwala-offers-free-bitcoin-visa-debits-cards/</link>
-            <guid isPermaLink="false">a231b4dc-d856-4e47-82c7-9c1749157f9a</guid>
-            <pubDate>Wed, 11 May 2016 02:06:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BITCOIN NEWS, PRICE & ANALYSIS - NEWSBTC.COM]]></title>
-            <description><![CDATA[<article><h1>BITCOIN NEWS, PRICE & ANALYSIS - NEWSBTC.COM</h1><p>NewsBTC is a Bitcoin news service that covers cryptocurrency news, technical analysis and forecasts for bitcoin, litecoin, dash, doge & digital currencies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43cfc6d43a55ea4f964a522ebe2781b17191ab0c.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/10/bitcoin-price-watch-tonights-trades-focus/</link>
-            <guid isPermaLink="false">c5fb9adc-6f78-4004-835a-27f268080cc8</guid>
-            <pubDate>Wed, 11 May 2016 02:06:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dark Web Conference Coming to New York May 12]]></title>
-            <description><![CDATA[<article><h1>Dark Web Conference Coming to New York May 12</h1><p>Alan Meckler, the man behind the 1990s' Internet World and Inside Bitcoins over the past few years, is launching a new conference in collaboration with TMC: Inside Dark Web. The new dark web conference will take place at the Museum of Jewish Heritage in New York City on May 12th, 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aebeef100baae442dd57f06128142a48ba1a3e08.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/dark-web-conference-coming-to-new-york-may-1462896734</link>
-            <guid isPermaLink="false">b5baf973-f075-4f0f-94cc-fe616afa8603</guid>
             <pubDate>Wed, 11 May 2016 02:06:24 GMT</pubDate>
         </item>
     </channel>
