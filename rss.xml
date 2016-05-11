@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 05:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 05:19:39 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I'm reclaiming the word "Blockchain", but using it with a qualifier: Open Blockchain If it ain't open, it ain't worth shit</p>]]></description>
+            <link>https://twitter.com/aantonop/status/729462686514208769</link>
+            <guid isPermaLink="false">384cf8ca-ddec-467d-9c3d-0971dc463cae</guid>
+            <pubDate>Wed, 11 May 2016 05:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum Price Technical Analysis - Annoying Range Moves - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Ethereum Price Technical Analysis - Annoying Range Moves - NEWSBTC</h1><p>Ethereum price after dipping a few points towards $9.20 found support. It looks like ETH/USD is struggling to gain pace in the short term. Ethereum price after dipping a few points towards $9.20 found support. It looks like ETH/USD is struggling to gain pace in the short term.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b57e43235e2089e451553c1adc91e58123f95288.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/11/ethereum-price-technical-analysis-annoying-range-moves/</link>
+            <guid isPermaLink="false">34b8e81f-2058-4624-b29a-68f6871af4d5</guid>
+            <pubDate>Wed, 11 May 2016 05:18:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New features in OpenBazaar 1.1.5 release]]></title>
             <description><![CDATA[<article><h1>New features in OpenBazaar 1.1.5 release</h1><p>OpenBazaar version 1.1.5 has just been released ( download here). You can read the full changelog at the bottom of this post. This release includes several new features, including email notifications, multiple server management, CSV export for order management, and improved display of listing information.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e75d25c2c78810c4820570f954dbeed9014eafc.png"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>gpu mining slows down my ubuntu</h1><p>i'm trying to mine using my cpu and gpu, when the cpu is set to use all its cores, i have no problems, but when i use my gpu, my desktop gets way too slow because unity uses it too i think, so i ne...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/44042/gpu-mining-slows-down-my-ubuntu</link>
             <guid isPermaLink="false">766b61cd-0bd5-4ae1-8979-cb9b9e3008dc</guid>
-            <pubDate>Wed, 11 May 2016 02:06:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Town Tests Bitcoin Service Payments | PYMNTS.com]]></title>
-            <description><![CDATA[<article><h1>Swiss Town Tests Bitcoin Service Payments | PYMNTS.com</h1><p>While plenty of government officials aren't ready to jump to support bitcoin as a legitimate payment option, there is one small town in Switzerland that has caught the bitcoin bug. Zug, a northern Switzerland town, has announced it is accepting bitcoin payments for specific services as it tests the digital currency on a trial run to determine if its residents care to pay that way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88ebddae5238200945ca5234fbbd44ed370d186c.jpg"></article>]]></description>
-            <link>http://www.pymnts.com/news/bitcoin-tracker/2016/municipal-bitcoin-payments/</link>
-            <guid isPermaLink="false">3237d7fa-27f6-4d58-8cbc-8066ed7616de</guid>
-            <pubDate>Wed, 11 May 2016 02:06:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin may or may not change money, but the blockchain will change finance]]></title>
-            <description><![CDATA[<article><h1>Bitcoin may or may not change money, but the blockchain will change finance</h1><p>"The back office in financial services is finally sexy again," says Jim Zemlin, the executive director of the Linux Foundation. It's not often you hear "back office" and "sexy" in the same sentence, and it may never happen again.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a00a77e0564ed6d78292888225abc0354571cfc.jpg"></article>]]></description>
-            <link>http://www.newsweek.com/bitcoin-goes-corporate-or-least-blockchain-does-457716</link>
-            <guid isPermaLink="false">51f3101d-0841-4d98-9072-e17f96cd5ce5</guid>
             <pubDate>Wed, 11 May 2016 02:06:25 GMT</pubDate>
         </item>
     </channel>
