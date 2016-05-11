@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 02:09:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 02:09:15 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[How to Make Bitcoin and Credit Cards Familiar with Each Other]]></title>
-            <description><![CDATA[<article><h1>How to Make Bitcoin and Credit Cards Familiar with Each Other</h1><p>Despite the growing number of crypo wallets and transactions, Bitcoin remains a niche product. To become a popular means of payment, it must be accepted by large trading networks and payment systems. Widespread use of Bitcoins depends on the ability of people to pay their bills and purchases in cryptocurrencies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e8f77b37db3baffdcbf8599854d81f768e9677a6.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/10/mass-acceptance-bitcoin-make-cryptocurrencies-credit-cards-familiar/</link>
-            <guid isPermaLink="false">c55368b0-ec3e-4c07-81de-54dcfe32c2b3</guid>
-            <pubDate>Wed, 11 May 2016 02:06:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Schools and universities are slowly implementing blockchain technology]]></title>
-            <description><![CDATA[<article><h1>Schools and universities are slowly implementing blockchain technology</h1><p>Thanks to the rising popularity of blockchain-based services, a couple of schools have decided to resort to bitcoin when it comes down to recording and verifying the credentials of their students. At this moment in time, most schools have to deal with recording hundreds of student's credentials and achievements, which is a process that is often costly, but also time-consuming.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8760c01fb1fa92d600d585604d55ece3c6eff82.jpg"></article>]]></description>
-            <link>http://themerkle.com/schools-and-universities-are-slowly-implementing-blockchain-technology/</link>
-            <guid isPermaLink="false">4aebe7ab-6bbd-4560-a04c-f656df4471ed</guid>
-            <pubDate>Wed, 11 May 2016 02:06:24 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[The Blockchain Revolution: 10 European Fintech Startups to Watch in 2016]]></title>
             <description><![CDATA[<article><h1>The Blockchain Revolution: 10 European Fintech Startups to Watch in 2016</h1><p>NexusLab, Zurich-based business platform, has gathered 10 teams to develop new applications of blockchain technologies in different industries; half of startups are from Nordics. Daniel Grassinger, managing director of Nexuslab and co-founder of Nexussquared, says: "Having identified and scouted more than 260 European early-stage blockchain startups and being able to select our pilot cohort out of some 50 qualified applicants is testament to the importance and broad future impact of blockchain technology.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ece8136d4d701988978e5c822a10a505ab4adf36.jpg"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>Banca IMI Researcher: Blockchain Won't Work if Banks Don't Change</h1><p>A new paper on blockchain technology has been released by the head of interest rate and credit models at Banca IMI, an investment banking and capital markets subsidiary of Intesa Sanpaolo. The paper highlights "real business cases" for the technology, arguing that financial services need to be reformed and not simply improved.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ae55f846df4611762b6a1c77d9ee13c7303fe20.jpg"></article>]]></description>
             <link>https://bitcoinmagazine.com/articles/banca-imi-researcher-blockchain-won-t-work-if-banks-don-t-change-1462892762</link>
             <guid isPermaLink="false">f3ee2f46-e0cf-4611-98d6-dad2fd024c5f</guid>
+            <pubDate>Wed, 11 May 2016 02:06:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CoinFac announces quantum computing technology for cryptocurrency mining]]></title>
+            <description><![CDATA[<article><h1>CoinFac announces quantum computing technology for cryptocurrency mining</h1><p>According to recent reports, CoinFac, a technology company established this year, has just introduced a next generation quantum computing tech, meant for digital currency mining. In return, this will supposedly allow bitcoin and altcoin miners from all around the world to get a 4,000x speed increase.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc5b383fdb33475feb864d4c16c0dbf592432d35.jpg"></article>]]></description>
+            <link>http://themerkle.com/coinfac-announces-quantum-computing-technology-for-cryptocurrency-mining/</link>
+            <guid isPermaLink="false">36784c53-a360-4feb-83b1-a065f6624f10</guid>
+            <pubDate>Wed, 11 May 2016 02:06:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitbank Seeks $1.57M to Build Bitcoin Mining Facility with 'world's only 12nm miners']]></title>
+            <description><![CDATA[<article><h1>Bitbank Seeks $1.57M to Build Bitcoin Mining Facility with 'world's only 12nm miners'</h1><p>Shenzhen-based Bitbank Group, a bitcoin hardware manufacturer and digital currency software solutions provider, is looking to raise 3500 BTC ($1.57 million) via crowdfunding for its new mining facility in Xinjiang. The crowdfunding page states that the new mining facility will use the "world's only 12nm miners" to produce about 30 petahash of bitcoin mining power.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d4d8acf006594f5ee16bd4dda8ea86bbe3584d1.png"></article>]]></description>
+            <link>http://themerkle.com/bitbank-seeks-1-57m-to-build-bitcoin-mining-facility-with-worlds-only-12nm-miners/</link>
+            <guid isPermaLink="false">703106b3-6370-484d-88f2-82c0cd169291</guid>
             <pubDate>Wed, 11 May 2016 02:06:23 GMT</pubDate>
         </item>
     </channel>
