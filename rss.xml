@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 02:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 02:09:59 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[ASX Listing Changes Might Affect Bitcoin Startups' Growth]]></title>
-            <description><![CDATA[<article><h1>ASX Listing Changes Might Affect Bitcoin Startups' Growth</h1><p>While it certainly true tech companies and entrepreneurs should not see the ASX as a funding source, there is a growing interest in tech companies by investors. With the changes being made to the way Bitcoin is taxed in Australia, it appears as of the Australian Securities Exchange will be undergoing changes as well.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42c3598e4422db386ffae979491cbec2930cdc52.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/10/asx-listing-changes-might-affect-bitcoin-startups-growth/</link>
-            <guid isPermaLink="false">3178f53b-55e6-46d6-81b8-f4b80635d28b</guid>
-            <pubDate>Wed, 11 May 2016 02:06:25 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[gpu mining slows down my ubuntu]]></title>
             <description><![CDATA[<article><h1>gpu mining slows down my ubuntu</h1><p>i'm trying to mine using my cpu and gpu, when the cpu is set to use all its cores, i have no problems, but when i use my gpu, my desktop gets way too slow because unity uses it too i think, so i ne...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>How to Make Bitcoin and Credit Cards Familiar with Each Other</h1><p>Despite the growing number of crypo wallets and transactions, Bitcoin remains a niche product. To become a popular means of payment, it must be accepted by large trading networks and payment systems. Widespread use of Bitcoins depends on the ability of people to pay their bills and purchases in cryptocurrencies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e8f77b37db3baffdcbf8599854d81f768e9677a6.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/05/10/mass-acceptance-bitcoin-make-cryptocurrencies-credit-cards-familiar/</link>
             <guid isPermaLink="false">c55368b0-ec3e-4c07-81de-54dcfe32c2b3</guid>
+            <pubDate>Wed, 11 May 2016 02:06:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Schools and universities are slowly implementing blockchain technology]]></title>
+            <description><![CDATA[<article><h1>Schools and universities are slowly implementing blockchain technology</h1><p>Thanks to the rising popularity of blockchain-based services, a couple of schools have decided to resort to bitcoin when it comes down to recording and verifying the credentials of their students. At this moment in time, most schools have to deal with recording hundreds of student's credentials and achievements, which is a process that is often costly, but also time-consuming.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8760c01fb1fa92d600d585604d55ece3c6eff82.jpg"></article>]]></description>
+            <link>http://themerkle.com/schools-and-universities-are-slowly-implementing-blockchain-technology/</link>
+            <guid isPermaLink="false">4aebe7ab-6bbd-4560-a04c-f656df4471ed</guid>
             <pubDate>Wed, 11 May 2016 02:06:24 GMT</pubDate>
         </item>
     </channel>
