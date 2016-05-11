@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 02:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 05:19:36 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New features in OpenBazaar 1.1.5 release]]></title>
+            <description><![CDATA[<article><h1>New features in OpenBazaar 1.1.5 release</h1><p>OpenBazaar version 1.1.5 has just been released ( download here). You can read the full changelog at the bottom of this post. This release includes several new features, including email notifications, multiple server management, CSV export for order management, and improved display of listing information.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e75d25c2c78810c4820570f954dbeed9014eafc.png"></article>]]></description>
+            <link>https://blog.openbazaar.org/new-features-in-openbazaar-1-1-5-release/</link>
+            <guid isPermaLink="false">c176d090-15c1-45a1-84ef-2b40a95bbdbc</guid>
+            <pubDate>Wed, 11 May 2016 05:18:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://imgur.com/TWbjzaM.png"></article>]]></description>
+            <link>http://imgur.com/TWbjzaM</link>
+            <guid isPermaLink="false">8f846561-a882-4675-b866-6034bcd4d47f</guid>
+            <pubDate>Wed, 11 May 2016 02:06:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bucbi Ransomware Resurfaces Through Targeted Attacks]]></title>
             <description><![CDATA[<article><h1>Bucbi Ransomware Resurfaces Through Targeted Attacks</h1><p>The topic of ransomware seems to be entwined with Bitcoin these days, and two-year-old malware Bucbi is jumping on the cryptocurrency bandwagon. In its new form, the Bucbi ransomware will target specific victims and demand a five-Bitcoin ransom.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93f3d20a0abe9d880b33c54e988f13a47e0931ea.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.newsweek.com/bitcoin-goes-corporate-or-least-blockchain-does-457716</link>
             <guid isPermaLink="false">51f3101d-0841-4d98-9072-e17f96cd5ce5</guid>
             <pubDate>Wed, 11 May 2016 02:06:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Password Manager LastPass Hints at Bitcoin Acceptance]]></title>
-            <description><![CDATA[<article><h1>Password Manager LastPass Hints at Bitcoin Acceptance</h1><p>LastPass, commonly known as the most popular password manager and vault around has hinted at Bitcoin acceptance as payment for its paid (and premium) accounts. Widely-used password manager and storage vault LastPass could soon begin accepting bitcoin as payment from users.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6ec5c501aeb4aad2d0430074b2a0653bafb5e36.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/password-manager-lastpass-hints-bitcoin-acceptance/</link>
-            <guid isPermaLink="false">a76dfff1-271d-4828-9309-a38b9a288522</guid>
-            <pubDate>Wed, 11 May 2016 02:06:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 Quotes That Defined Consensus 2016 - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>10 Quotes That Defined Consensus 2016 - CoinDesk</h1><p>Held one week ago in New York City, CoinDesk's Consensus 2016 blockchain conference brought together speakers from all over the world to unveil new products, discuss the major issues of the day and begin to help plotting a course forward for the future of the industry. The biggest moments?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae0c66f8ba67f81f0b1e4e050541f87e6bbedd25.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/11-times-speakers-stole-show-consensus-2016/</link>
-            <guid isPermaLink="false">b22ee0b4-326b-4c74-bd3f-920b954eb114</guid>
-            <pubDate>Wed, 11 May 2016 02:06:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
