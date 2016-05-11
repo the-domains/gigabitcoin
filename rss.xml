@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 02:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 02:10:52 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://imgur.com/TWbjzaM.png"></article>]]></description>
+            <link>http://imgur.com/TWbjzaM</link>
+            <guid isPermaLink="false">8f846561-a882-4675-b866-6034bcd4d47f</guid>
+            <pubDate>Wed, 11 May 2016 02:06:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bucbi Ransomware Resurfaces Through Targeted Attacks]]></title>
             <description><![CDATA[<article><h1>Bucbi Ransomware Resurfaces Through Targeted Attacks</h1><p>The topic of ransomware seems to be entwined with Bitcoin these days, and two-year-old malware Bucbi is jumping on the cryptocurrency bandwagon. In its new form, the Bucbi ransomware will target specific victims and demand a five-Bitcoin ransom.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93f3d20a0abe9d880b33c54e988f13a47e0931ea.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.cryptocoinsnews.com/password-manager-lastpass-hints-bitcoin-acceptance/</link>
             <guid isPermaLink="false">a76dfff1-271d-4828-9309-a38b9a288522</guid>
             <pubDate>Wed, 11 May 2016 02:06:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 Quotes That Defined Consensus 2016 - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>10 Quotes That Defined Consensus 2016 - CoinDesk</h1><p>Held one week ago in New York City, CoinDesk's Consensus 2016 blockchain conference brought together speakers from all over the world to unveil new products, discuss the major issues of the day and begin to help plotting a course forward for the future of the industry. The biggest moments?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae0c66f8ba67f81f0b1e4e050541f87e6bbedd25.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/11-times-speakers-stole-show-consensus-2016/</link>
-            <guid isPermaLink="false">b22ee0b4-326b-4c74-bd3f-920b954eb114</guid>
-            <pubDate>Wed, 11 May 2016 02:06:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
