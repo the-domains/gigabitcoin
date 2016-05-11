@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 05:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 05:19:37 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin is not the answer to central bank worries - The Economic Times]]></title>
-            <description><![CDATA[<article><h1>Bitcoin is not the answer to central bank worries - The Economic Times</h1><p>Here's a utopian image (or perhaps dystopian, depending on the point of view) to ponder: Central banks have switched from issuing money in the form of cash to releasing digital currency and registering transactions on a distributed ledger along the lines of the Bitcoin blockchain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2cb39e94261716af737b3f74d5b414f63787fb71.jpg"></article>]]></description>
-            <link>http://economictimes.indiatimes.com/news/international/business/bitcoin-is-not-the-answer-to-central-bank-worries/articleshow/52215383.cms</link>
-            <guid isPermaLink="false">76c0a479-da00-4564-8ce9-704021bbb96a</guid>
-            <pubDate>Wed, 11 May 2016 05:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>I'm reclaiming the word "Blockchain", but using it with a qualifier: Open Blockchain If it ain't open, it ain't worth shit</p>]]></description>
-            <link>https://twitter.com/aantonop/status/729462686514208769</link>
-            <guid isPermaLink="false">384cf8ca-ddec-467d-9c3d-0971dc463cae</guid>
-            <pubDate>Wed, 11 May 2016 05:19:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Ethereum Price Technical Analysis - Annoying Range Moves - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Ethereum Price Technical Analysis - Annoying Range Moves - NEWSBTC</h1><p>Ethereum price after dipping a few points towards $9.20 found support. It looks like ETH/USD is struggling to gain pace in the short term. Ethereum price after dipping a few points towards $9.20 found support. It looks like ETH/USD is struggling to gain pace in the short term.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b57e43235e2089e451553c1adc91e58123f95288.png"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>ASX Listing Changes Might Affect Bitcoin Startups' Growth</h1><p>While it certainly true tech companies and entrepreneurs should not see the ASX as a funding source, there is a growing interest in tech companies by investors. With the changes being made to the way Bitcoin is taxed in Australia, it appears as of the Australian Securities Exchange will be undergoing changes as well.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42c3598e4422db386ffae979491cbec2930cdc52.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/05/10/asx-listing-changes-might-affect-bitcoin-startups-growth/</link>
             <guid isPermaLink="false">3178f53b-55e6-46d6-81b8-f4b80635d28b</guid>
+            <pubDate>Wed, 11 May 2016 02:06:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[gpu mining slows down my ubuntu]]></title>
+            <description><![CDATA[<article><h1>gpu mining slows down my ubuntu</h1><p>i'm trying to mine using my cpu and gpu, when the cpu is set to use all its cores, i have no problems, but when i use my gpu, my desktop gets way too slow because unity uses it too i think, so i ne...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/44042/gpu-mining-slows-down-my-ubuntu</link>
+            <guid isPermaLink="false">766b61cd-0bd5-4ae1-8979-cb9b9e3008dc</guid>
+            <pubDate>Wed, 11 May 2016 02:06:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Swiss Town Tests Bitcoin Service Payments | PYMNTS.com]]></title>
+            <description><![CDATA[<article><h1>Swiss Town Tests Bitcoin Service Payments | PYMNTS.com</h1><p>While plenty of government officials aren't ready to jump to support bitcoin as a legitimate payment option, there is one small town in Switzerland that has caught the bitcoin bug. Zug, a northern Switzerland town, has announced it is accepting bitcoin payments for specific services as it tests the digital currency on a trial run to determine if its residents care to pay that way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88ebddae5238200945ca5234fbbd44ed370d186c.jpg"></article>]]></description>
+            <link>http://www.pymnts.com/news/bitcoin-tracker/2016/municipal-bitcoin-payments/</link>
+            <guid isPermaLink="false">3237d7fa-27f6-4d58-8cbc-8066ed7616de</guid>
             <pubDate>Wed, 11 May 2016 02:06:25 GMT</pubDate>
         </item>
     </channel>
