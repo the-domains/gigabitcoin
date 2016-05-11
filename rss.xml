@@ -7,6 +7,13 @@
         <lastBuildDate>Wed, 11 May 2016 02:06:31 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[MinerGate Announces First One-Click Ethereum Miner - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>MinerGate Announces First One-Click Ethereum Miner - NEWSBTC</h1><p>May 10, 2016 - Previously accessible to tech-savvy miners only, Ethereum mining finally becomes available for anyone who can handle a simple desktop application. Instead of configuring the system and studying tutorials, the user only needs to launch the application and click "Start mining".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/330ecf7f78bf9eec359bd1c19a6eb6c15d0b0e3b.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/10/minergate-announces-first-one-click-ethereum-miner/</link>
+            <guid isPermaLink="false">681be050-2382-43c2-b126-e7d0919c5e5d</guid>
+            <pubDate>Wed, 11 May 2016 02:06:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fintech Storms Comes to Mumbai This Thursday]]></title>
             <description><![CDATA[<article><h1>Fintech Storms Comes to Mumbai This Thursday</h1><p>Fintech Storm - a two-day symposium on blockchains, distributed ledgers and various other emerging financial technologies - will be held this Thursday in Mumbai, India. The landmark conference will be attended by venture capital firms, fintech industry leaders, blockchain startups, prominent academics and bank executives.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90cc9812dfc25c061a1445b6cd45c8fe1d53fbb3.jpg"></article>]]></description>
             <link>http://themerkle.com/fintech-storms-comes-to-mumbai-this-thursday/</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>IRC meeting summary for 2016-05-05</h1><p>segwit versionbit, testnet startdate, GBT changes NicolasDorier proposed to work on this issue. Morcos commented we should separate wallet functionality to use some smarter higher value for "dust" and the floor for dust should be a separate variable as oposed to a multiple of min relay that it is now.</p></article>]]></description>
             <link>https://bitcoincore.org/en/meetings/2016/05/05/</link>
             <guid isPermaLink="false">16f2a7fe-ca1c-4313-a7bb-b435f0f723f2</guid>
-            <pubDate>Tue, 10 May 2016 13:22:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Conversation with Edward M. Stadum, Kraken General Counsel]]></title>
-            <description><![CDATA[<article><h1>A Conversation with Edward M. Stadum, Kraken General Counsel</h1><p>Last month, bitcoin exchange Kraken announced the appointment of Edward M. Stadum as its General Counsel. Stadum brings to the position 50 years' experience as a renowned international lawyer, vent...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c022881ed1196601c222f57c59183efa13616b30.jpg"></article>]]></description>
-            <link>https://coinreport.net/conversation-edward-m-stadum-kraken-general-counsel/</link>
-            <guid isPermaLink="false">df422dfe-edc3-4670-874e-050f5f7de38e</guid>
             <pubDate>Tue, 10 May 2016 13:22:51 GMT</pubDate>
         </item>
     </channel>
