@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 13:36:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 13:36:22 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[US Military Seeks Its Own Secure Blockchain Messaging System]]></title>
-            <description><![CDATA[<article><h1>US Military Seeks Its Own Secure Blockchain Messaging System</h1><p>Secured messaging has become crucially important. Blackberry used to be known for it, but the user needed their hardware. WhatsApp is more functional, but still requires a centralized, fallible infrastructure. Enter blockchain and DARPA... If you were to look up Topic # SB162-004 SBIR/ STTR Web Portal (I do not know why you ever would...)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bea67d821e4b815042b3c9f0d00a13a857533430.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/darpa-blockchain-messaging-system/</link>
-            <guid isPermaLink="false">2b3d2e33-0f5d-41b0-8e03-f3bee6cb1cff</guid>
-            <pubDate>Thu, 12 May 2016 13:36:11 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Latest Satoshi Stories Overshadow Real Bitcoin News]]></title>
             <description><![CDATA[<article><h1>Latest Satoshi Stories Overshadow Real Bitcoin News</h1><p>Last week was a fascinating one for Bitcoin, with the digital currency and payments system once again receiving attention from traditional media sources. On Monday, the BBC, The Economist, and GQ all published interviews with the Australian academic and possibly tech entrepreneur Craig Wright in which he claimed to be Satoshi Nakamoto, the mysterious creator of Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97b467fd64903656b372f672ae72f35b13c5e056.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>With Bitcoin, Hiding Assets in Divorce Is Risky, But It Pays</h1><p>Can you really hide assets in a divorce through Bitcoin? CoinTelegraph investigates the feasibility of such a suggestion. In most cases, assets in divorce are hidden through relatively simple means with varying legality. That includes transferring money from joint accounts to private accounts; transferring assets to a friend prior to the divorce; undervaluing assets; or simply storing assets as cash in a hidden safety deposit box.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7223d25b8ea0838b39f9872690f9587b73ee2682.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/with-bitcoin-hiding-assets-in-divorce-is-risky-but-it-pays</link>
             <guid isPermaLink="false">0ac9e0ba-bfcc-4e8f-82c2-8e0c3e419542</guid>
+            <pubDate>Thu, 12 May 2016 01:28:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price: Can Trade Hold $450?]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price: Can Trade Hold $450?</h1><p>Bitcoin price has drawn sideways around $450 (Bitstamp) for most of the day before making a rounded push higher. The decline may be over but additional price action is needed so soon after the strong upside reversal. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b643f2508b0f5a467dfd29a27ef02717d469e458.png"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-price-can-trade-hold-450/</link>
+            <guid isPermaLink="false">72be6444-0857-4c18-92df-909a22d7cda5</guid>
             <pubDate>Thu, 12 May 2016 01:28:59 GMT</pubDate>
         </item>
     </channel>
