@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 13:38:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 13:38:58 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Change address same as originator address?]]></title>
+            <description><![CDATA[<article><h1>Change address same as originator address?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Many wallets let you control where to send the change.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/44054/change-address-same-as-originator-address</link>
+            <guid isPermaLink="false">a0ae89bf-d9b3-45ce-920a-14a1cd12c799</guid>
+            <pubDate>Thu, 12 May 2016 13:36:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Citing privacy risks, Mt. Gox trustee suspends bitcoin address list release]]></title>
+            <description><![CDATA[<article><h1>Citing privacy risks, Mt. Gox trustee suspends bitcoin address list release</h1><p>The trustee of the collapsed Tokyo-based Mt. Gox bitcoin exchange issued a notice Wednesday, stating that plans to release of a list of bitcoin addresses controlled by the debtor (Mt. Gox) have been suspended</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4927a377605a758bd466bb2b6f5947923ad5a960.png"></article>]]></description>
+            <link>https://coinreport.net/citing-privacy-risks-mt-gox-trustee-suspends-bitcoin-address-list-release/</link>
+            <guid isPermaLink="false">ed57264c-ee48-4035-ac89-87201d049c00</guid>
+            <pubDate>Thu, 12 May 2016 13:36:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[FBI Director: "Encryption is Essential Tradecraft of Terrorist Groups"]]></title>
             <description><![CDATA[<article><h1>FBI Director: "Encryption is Essential Tradecraft of Terrorist Groups"</h1><p>Law enforcement has been making a lot of media headlines as of late in their "war' on encryption. FBI Director James Comey mentioned how encryption is "essential tradecraft" of terrorist groups, and more requests to access electronic devices will be part of the future.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bad8fe6e9fbbf0fcafcc9712d75cc6bf89aae9b6.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.newsbtc.com/2016/05/12/bitcoin-price-watch-riding-todays-volatility/</link>
             <guid isPermaLink="false">c842233a-dc0a-438c-9a4b-60c975d819d8</guid>
             <pubDate>Thu, 12 May 2016 13:36:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In Search of Bitcoin's Mysterious Creator: Can David Kleiman Be Satoshi Nakamoto?]]></title>
-            <description><![CDATA[<article><h1>In Search of Bitcoin's Mysterious Creator: Can David Kleiman Be Satoshi Nakamoto?</h1><p>Was the inventor of Bitcoin a man found dead in horribly tragic circumstances? A few days ago Cointelegraph carried an article by my colleague Cyril Gilson, which asked the question God is Dead? Craig Wright Is a Very Bad Satoshi Anyway.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b52a2841dd59f53fb3fdc34d626159dbe8418f6.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/in-search-of-bitcoins-mysterious-creator-can-david-kleiman-be-satoshi-nakamoto</link>
-            <guid isPermaLink="false">a91e9ad6-d880-4d48-879f-02b09ce725b3</guid>
-            <pubDate>Thu, 12 May 2016 13:36:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Industry in Japan Awaits Regulation]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Industry in Japan Awaits Regulation</h1><p>The National Diet in Japan (the legislature consisting of the Lower House and the Upper House) is currently deliberating over bills to regulate bitcoin and other virtual currencies and a keenly contested bitcoin industry in Japan is watching closely. Following the debacle of the now-defunct bitcoin exchange Mt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/abe1b6555146f7f61d9cf01e26c7a9a1234a54ad.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-industry-japan-awaits-regulation/</link>
-            <guid isPermaLink="false">bf156bcf-650c-4e4a-ac99-4dd9701ce09a</guid>
-            <pubDate>Thu, 12 May 2016 13:36:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
