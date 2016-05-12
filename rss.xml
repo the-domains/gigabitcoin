@@ -7,20 +7,6 @@
         <lastBuildDate>Thu, 12 May 2016 13:37:15 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Charted: The life and (many) deaths of bitcoin]]></title>
-            <description><![CDATA[<article><h1>Charted: The life and (many) deaths of bitcoin</h1><p>Bitcoin has had an eventful life. Since the cryptocurrency's inception in 2008, all the bitcoins in circulation have grown from being worth nothing to a value of nearly $7 billion today. Along the way, however, bitcoin helped fuel the rise of the Silk Road, a globe-spanning black market for narcotics and other contraband that prompted a major clampdown by...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d3b50854d5197047cb5a1bb846bf0a820f15d34.png"></article>]]></description>
-            <link>http://qz.com/682718/charted-the-life-and-many-deaths-of-bitcoin/</link>
-            <guid isPermaLink="false">82d6a3aa-8a07-4056-97e0-6f23bd2db20c</guid>
-            <pubDate>Thu, 12 May 2016 13:36:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kraken Introduces the Very First Ether Dark Pool]]></title>
-            <description><![CDATA[<article><h1>Kraken Introduces the Very First Ether Dark Pool</h1><p>Kraken has become the first digital currency platform in the history to introduce Ether Dark Pool. Read more... Kraken yesterday announced that it is introducing Ether Dark Pool on its platform, thereby becoming the first digital currency exchange to have introduced such a trading feature.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d77977c861999b1b7dfa2ec5bcc969bb002fcc52.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/12/kraken-introduces-the-very-first-ether-dark-pool/</link>
-            <guid isPermaLink="false">5031bd5a-9437-4a6f-8617-84e7a20640b5</guid>
-            <pubDate>Thu, 12 May 2016 13:36:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Kraken Launches Ether Dark Pool Trading]]></title>
             <description><![CDATA[<article><h1>Kraken Launches Ether Dark Pool Trading</h1><p>Kraken has introduced Ether (ETH) Dark Pool trading in its platform, chalking a milestone as the first ever digital currency exchange to do so with the currency powering Ethereum. In a nod to ether's rapid rise, both in popularity and value, Kraken has become the first virtual currency exchange to offer clients Dark Pool trading with Ether.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fafa292514406aa8afcd9caac03d07e39dad0b89.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/kraken-launches-ether-dark-pool-trading/</link>
@@ -75,6 +61,20 @@
             <link>https://news.bitcoin.com/theymos-bitcoins-satoshi-destroyed/</link>
             <guid isPermaLink="false">ff7425be-57eb-4316-b7ea-c836882e10b7</guid>
             <pubDate>Thu, 12 May 2016 13:36:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Analysis: 5/12/2016]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Analysis: 5/12/2016</h1><p>Bitcoin's price is still undergoing a medium-term downward correction. A turn to growth didn't happen, which means that there is a possibility of the price dropping to the next level. Bitcoin's price has not reached its top key level. After forming a micro-flat, it has continued its fall.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dad3db907fa8593ee1f8651d476623b7c6f86695.png"></article>]]></description>
+            <link>http://cointelegraph.com/news/bitcoin-price-analysis-5122016</link>
+            <guid isPermaLink="false">30573350-c1aa-481b-a971-d9bbec3d0836</guid>
+            <pubDate>Thu, 12 May 2016 13:36:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum Based Censorship-Immune Social Media Network "Akasha" Unveiled]]></title>
+            <description><![CDATA[<article><h1>Ethereum Based Censorship-Immune Social Media Network "Akasha" Unveiled</h1><p>The AKASHA Project hopes to deliver an Internet where privacy and freedom of expression are embedded into the code, using the Ethereum and the Inter-Planetary File System (IPFS). Mihai Alisie, founder and CEO of AKASHA, recently celebrated World Press Freedom Day by inviting people to sign up for its alpha release, according to his blog.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac2ad654b82de512c4d47cf0069852a11f231dd5.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/ethereum-based-censorship-immune-social-media-network-akasha-unveiled/</link>
+            <guid isPermaLink="false">117ca173-6e65-48c4-a4e1-609b1e3d91cf</guid>
+            <pubDate>Thu, 12 May 2016 01:29:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
