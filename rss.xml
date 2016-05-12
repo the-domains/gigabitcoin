@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 01:31:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 01:31:39 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ghana: First Comes Internet Security, Then Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Ghana: First Comes Internet Security, Then Bitcoin</h1><p>Ghana seeks to secure transactions on the Internet first and only then start a discussion on Bitcoin adoption. As a lack of training on cryptography is still a major issue in parts of Africa, Ghana's Chapter of the Internet Society has trained some of its members.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae578059f9118bb85c39a9ce0fd5c6b10d652533.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/ghana-first-comes-internet-security-then-bitcoin</link>
+            <guid isPermaLink="false">a7aee2e1-023a-4260-a1e5-7deb8cf8b381</guid>
+            <pubDate>Thu, 12 May 2016 01:28:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blockchain Platform Fluent Raises $1.65m in Seed Fund]]></title>
             <description><![CDATA[<article><h1>Blockchain Platform Fluent Raises $1.65m in Seed Fund</h1><p>It is worth noting Fluent has been active in worlds of fintech and blockchain technology for a long time, which explains their vision of supporting disruptive companies with distributed ledger technology. Plenty of startups around the world are trying to leverage blockchain technology and bring it to different industries all over the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82e2f956563fc2e30244e47db97fb70f88a2b100.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Forget Satoshi. I want to know where Segregated Witness is hiding out? * /r/Bitcoin</h1><p>209 points and 109 comments so far on reddit</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
             <link>https://www.reddit.com/r/Bitcoin/comments/4i4s1c/forget_satoshi_i_want_to_know_where_segregated/</link>
             <guid isPermaLink="false">78935694-7edf-48af-9729-a12da0bd5027</guid>
-            <pubDate>Thu, 12 May 2016 01:28:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australian Government Releases Response on Digital Currency & FinTech Regulations]]></title>
-            <description><![CDATA[<article><h1>Australian Government Releases Response on Digital Currency & FinTech Regulations</h1><p>The Australian Government has released a 5-page report detailing its response to the recommendations made by the Australian Senate Economics References Committee last year, which called for all digital currency exchanges within the country to be brought under existing anti-money laundering (AML) and counter-terrorist finance (CTF) regulations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c1f2d42150c10496e89dae2f9c038febba2c06b.jpg"></article>]]></description>
-            <link>http://themerkle.com/australian-government-releases-response-on-digital-currency-fintech-regulations/</link>
-            <guid isPermaLink="false">79616857-feb5-4044-9157-d813908a1e5b</guid>
             <pubDate>Thu, 12 May 2016 01:28:57 GMT</pubDate>
         </item>
     </channel>
