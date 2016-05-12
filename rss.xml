@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 01:32:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 01:32:22 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Andreas Antonopoulos' Folly On Private Blockchains]]></title>
-            <description><![CDATA[<article><h1>Andreas Antonopoulos' Folly On Private Blockchains</h1><p>Andreas Antonopoulos and others are perpetuating a misconception about the nature of power by advancing the notion that the most monied institutions on the planet won't crack the code for their own blockchain-based systems. Antonopolous claims that, if a blockchain is not an "open" - or public - blockchain, then it "ain't worth shit."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4dfa03412b34d8d168aada4ad885245f25a4ebbd.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/antonopoulos-private-blockchains/</link>
-            <guid isPermaLink="false">93f9776a-8fb3-4d22-8eab-1e078032b279</guid>
-            <pubDate>Thu, 12 May 2016 01:28:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; This Evening's Targets... - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; This Evening's Targets... - NEWSBTC</h1><p>Here are the levels we are looking to trade in this evening's bitcoin price market. So we are about to close out the session in Europe, and action has been pretty much flat throughout the day.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb4cc3fc18cc0b0ea82e1fe9c915ce9210bf3247.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/11/bitcoin-price-watch-evenings-targets/</link>
-            <guid isPermaLink="false">14fc94e6-4018-4e7e-970b-6c2e1d839fe7</guid>
-            <pubDate>Thu, 12 May 2016 01:28:59 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin.com Launches a High-Stakes Casino - Bitcoin News]]></title>
             <description><![CDATA[<article><h1>Bitcoin.com Launches a High-Stakes Casino - Bitcoin News</h1><p>Bitcoin.com Also read: Bitstamp Moves to Luxembourg, Becomes First Nationally-Licensed Exchange is excited to announce a new casino portal added to our page, and a new partnership with gaming provider SoftSwiss . Casino.bitcoin.com will feature over 1,000 games from a wide array of gaming platforms, which fall under the purview of the SoftSwiss gaming license, based in Curaçao.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c1eb30a26eff440839ac948bcdf018631fb2aae.jpg"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>Ghana: First Comes Internet Security, Then Bitcoin</h1><p>Ghana seeks to secure transactions on the Internet first and only then start a discussion on Bitcoin adoption. As a lack of training on cryptography is still a major issue in parts of Africa, Ghana's Chapter of the Internet Society has trained some of its members.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae578059f9118bb85c39a9ce0fd5c6b10d652533.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/ghana-first-comes-internet-security-then-bitcoin</link>
             <guid isPermaLink="false">a7aee2e1-023a-4260-a1e5-7deb8cf8b381</guid>
+            <pubDate>Thu, 12 May 2016 01:28:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blockchain Platform Fluent Raises $1.65m in Seed Fund]]></title>
+            <description><![CDATA[<article><h1>Blockchain Platform Fluent Raises $1.65m in Seed Fund</h1><p>It is worth noting Fluent has been active in worlds of fintech and blockchain technology for a long time, which explains their vision of supporting disruptive companies with distributed ledger technology. Plenty of startups around the world are trying to leverage blockchain technology and bring it to different industries all over the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82e2f956563fc2e30244e47db97fb70f88a2b100.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/11/blockchain-payment-platform-fluent-raises-1-65m-seed-fund/</link>
+            <guid isPermaLink="false">c158cfd8-6595-46dd-9f00-2ee8ae8e77c1</guid>
+            <pubDate>Thu, 12 May 2016 01:28:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australia Nearing Decision on Bitcoin Exchange Regulation - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Australia Nearing Decision on Bitcoin Exchange Regulation - CoinDesk</h1><p>The Australian government has officially responded to a Senate report in which lawmakers argued that the country should bring domestic digital currency exchanges under existing anti-money laundering (AML) and counter-terrorist financing (CTF) rules. In newly issued remarks, the Australian government indicated that it agrees with this recommendation and that it expects a review of the relevant laws to be released shortly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb548c6f92ad5f7a1d81921b4000288f8845f890.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/australia-near-decision-bitcoin-exchange-aml-ctf/</link>
+            <guid isPermaLink="false">5a15b0d8-ae0a-4e92-acd8-d5f90d070079</guid>
             <pubDate>Thu, 12 May 2016 01:28:58 GMT</pubDate>
         </item>
     </channel>
