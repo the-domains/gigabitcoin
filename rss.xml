@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 13:36:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 13:36:19 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Theymos: "Bitcoins Belonging To Satoshi Should Be Destroyed"]]></title>
+            <description><![CDATA[<article><h1>Theymos: "Bitcoins Belonging To Satoshi Should Be Destroyed"</h1><p>The recent Craig Wright-Satoshi Nakamoto debacle has spurred a new discussion as to what should happen with the coins mined by the mysterious Bitcoin creator. Theymos, the owner of BitcoinTalk, feels these coins should be destroyed to "prevent disastrous monetary inflation."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3990ef77560bc310c2a10c22cfb2d102b91e2175.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/theymos-bitcoins-satoshi-destroyed/</link>
+            <guid isPermaLink="false">ff7425be-57eb-4316-b7ea-c836882e10b7</guid>
+            <pubDate>Thu, 12 May 2016 13:36:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Analysis: 5/12/2016]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Analysis: 5/12/2016</h1><p>Bitcoin's price is still undergoing a medium-term downward correction. A turn to growth didn't happen, which means that there is a possibility of the price dropping to the next level. Bitcoin's price has not reached its top key level. After forming a micro-flat, it has continued its fall.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dad3db907fa8593ee1f8651d476623b7c6f86695.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin May Help Criminals, But Blockchain Can Help Thwart Fraud</h1><p>We all know bitcoin as an edgy and anonymous cryptocurrency. It provokes strong opinions. Department of Justice officials reference it in connection with real-life crimes, just as made-up bad guys reference it in movies. But the underlying ledger technology behind bitcoin - the blockchain - should lack such negative connotations due to its capability of tracking users' activities in a rigorous way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/572a8b33688e1a0ba5260f0885fc92d97c825cc8.jpg"></article>]]></description>
             <link>http://www.americanbanker.com/bankthink/bitcoin-may-help-criminals-but-blockchain-can-help-thwart-fraud-1080937-1.html</link>
             <guid isPermaLink="false">4f5678d9-1917-4b2b-ad59-8f9559900d8a</guid>
-            <pubDate>Thu, 12 May 2016 01:28:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Japan's Bitcoin Entrepreneurs Await New Digital Currency Laws]]></title>
-            <description><![CDATA[<article><h1>Japan's Bitcoin Entrepreneurs Await New Digital Currency Laws</h1><p>The National Diet, Japan's legislature, is examining several digital currency bills that have the potential to lend a great deal of legitimacy to the virtual currency industry in the country. In the aftermath of the Mt.Gox collapse in 2014, Japanese lawmakers decided to draft laws that would bring bitcoin exchanges under the supervision of financial regulators, in addition to recognizing digital currencies as legal tender.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc4b0e66de5d63519a291134ce35a892ac81c75c.jpg"></article>]]></description>
-            <link>http://themerkle.com/japans-bitcoin-entrepreneurs-await-new-digital-currency-laws/</link>
-            <guid isPermaLink="false">a2212acb-036d-4136-919f-5f2db752762e</guid>
             <pubDate>Thu, 12 May 2016 01:28:59 GMT</pubDate>
         </item>
     </channel>
