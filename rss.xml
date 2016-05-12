@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 01:33:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 01:33:21 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Schools Embrace Bitcoin Technology To Record Student Credentials]]></title>
+            <description><![CDATA[<article><h1>Schools Embrace Bitcoin Technology To Record Student Credentials</h1><p>The use cases of blockchain technology have been touted many times, and various education facilities are using this concept to record and verify student credentials. Adding this new layer of transparency will help employers check candidate credentials in the future.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b23b62b59548d9211451205794380d41d6fefa3.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/schools-bitcoin-student-credentials/</link>
+            <guid isPermaLink="false">95d6056f-5a61-4a21-9ce4-4f82f61dcd30</guid>
+            <pubDate>Thu, 12 May 2016 01:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Swarm Decentralizes Storage and Bandwidth Through Ethereum]]></title>
+            <description><![CDATA[<article><h1>Swarm Decentralizes Storage and Bandwidth Through Ethereum</h1><p>A new distributed storage platform has been announced, called Swarm. What is even more interesting is how this project is a native base layer of the Ethereum web three stack. Additionally, Swarm could also be used as a content distribution service, which opens up exciting opportunities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/84d23bb5b32c584ba2b9e86054114ca62fe05f62.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/swarm-decentralizes-storage-and-bandwidth-through-ethereum/</link>
+            <guid isPermaLink="false">42a5679c-207b-4041-b22f-074d07b4c75f</guid>
+            <pubDate>Thu, 12 May 2016 01:29:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ethereum (ETH) Price Trends: 5/11/2016]]></title>
             <description><![CDATA[<article><h1>Ethereum (ETH) Price Trends: 5/11/2016</h1><p>Ethereum's price has reached a key short-term level. An upward trend can begin at that resistance level. Ethereum has cautiously reached the level of $9.5, from which it can quite likely rebound in the future. The bears can prove themselves at that mark and the downward correction could continue.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f46dcf4a299d69301d05bebccce23a23b66587ca.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Watch; This Evening's Targets... - NEWSBTC</h1><p>Here are the levels we are looking to trade in this evening's bitcoin price market. So we are about to close out the session in Europe, and action has been pretty much flat throughout the day.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb4cc3fc18cc0b0ea82e1fe9c915ce9210bf3247.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/05/11/bitcoin-price-watch-evenings-targets/</link>
             <guid isPermaLink="false">14fc94e6-4018-4e7e-970b-6c2e1d839fe7</guid>
-            <pubDate>Thu, 12 May 2016 01:28:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin.com Launches a High-Stakes Casino - Bitcoin News]]></title>
-            <description><![CDATA[<article><h1>Bitcoin.com Launches a High-Stakes Casino - Bitcoin News</h1><p>Bitcoin.com Also read: Bitstamp Moves to Luxembourg, Becomes First Nationally-Licensed Exchange is excited to announce a new casino portal added to our page, and a new partnership with gaming provider SoftSwiss . Casino.bitcoin.com will feature over 1,000 games from a wide array of gaming platforms, which fall under the purview of the SoftSwiss gaming license, based in Curaçao.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c1eb30a26eff440839ac948bcdf018631fb2aae.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/bitcoin-com-launches-casino/</link>
-            <guid isPermaLink="false">52162868-bf70-4e8d-bf72-97035b5af9d0</guid>
-            <pubDate>Thu, 12 May 2016 01:28:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Reaches a Crossroads With the Scaling Debate, Not a Crisis]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Reaches a Crossroads With the Scaling Debate, Not a Crisis</h1><p>Judging from various reports in the media over the past year, Bitcoin is in a serious crisis that threatens its very existence. Longtime Bitcoin developer Mike Hearn even left the ecosystem entirely and claimed the project is now a failed experiment. Of course, Bitcoin has been proclaimed dead roughly 100 other times.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e68ed5ef9ce3d536e3fd5c54139986a245bc6dc5.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/bitcoin-reaches-a-crossroads-with-the-scaling-debate-not-a-crisis-1462980183</link>
-            <guid isPermaLink="false">bd06ee5c-7c50-4e48-a2ca-f9d513591efe</guid>
             <pubDate>Thu, 12 May 2016 01:28:59 GMT</pubDate>
         </item>
     </channel>
