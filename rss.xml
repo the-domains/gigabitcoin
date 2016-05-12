@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 01:30:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 01:31:12 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>@jerrybrito Ask me in six months; I don't trust my own judgement right now after all the drama.</p>]]></description>
+            <link>https://twitter.com/gavinandresen/status/728316830683639808</link>
+            <guid isPermaLink="false">f5b2ef4a-4645-4480-89e5-c5dac1282eb3</guid>
+            <pubDate>Thu, 12 May 2016 01:28:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Facebook, Uber, Airbnb, eBay: How Blockchain Can Break Data Monopolists]]></title>
             <description><![CDATA[<article><h1>Facebook, Uber, Airbnb, eBay: How Blockchain Can Break Data Monopolists</h1><p>Can Blockchain break Facebook, Uber, Airbnb, eBay and the like? The answer we want to give for the currently discussed Blockchain interpretation is 'so far, no' - contrary to common opinion. The reason being is that for none of the Blockchain technology specifica is there is a clear path to attract users to the platform.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/23bff9ae595694a9274fe55b768dd60ada212b4b.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Why Silvergate's CEO is Banking 15 Bitcoin Companies - CoinDesk</h1><p>Startups focused on products and services based on bitcoin have never had an easy time opening bank accounts - or maintaining positive relationships with those firms. The problem? Bitcoin-related clients are frequently viewed as high-risk by banking institutions, and thus far few banks have shown an interest in going through the process of mitigating that risk.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6065f271b325f38904479c3635c03e703b25a97d.png"></article>]]></description>
             <link>http://www.coindesk.com/silvergate-banking-bitcoin-companies/</link>
             <guid isPermaLink="false">bb8096b3-8545-4444-979f-b8f000a42721</guid>
-            <pubDate>Thu, 12 May 2016 01:28:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nobuaki Kobayashi Decides Against Making Mt Gox Bitcoin Addresses Public - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Nobuaki Kobayashi Decides Against Making Mt Gox Bitcoin Addresses Public - NEWSBTC</h1><p>The wallet addresses belonging to Mt Gox will not be made public, said the court-appointed trustee in today's statement. Read more... If there is one incident which the bitcoin community is forced to revisit occasionally, then Mt Gox takes the cake.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b241683f55ebeaf797ecacc4f429bcdbec205b7b.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/11/nobuaki-kobayashi-decides-against-making-mt-gox-bitcoin-addresses-public/</link>
-            <guid isPermaLink="false">fa95dfb2-62e8-40cb-987a-f23cdb4b29e4</guid>
             <pubDate>Thu, 12 May 2016 01:28:57 GMT</pubDate>
         </item>
     </channel>
