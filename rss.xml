@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 01:29:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 01:29:53 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Weekly 2016 May 11: OpenBazaar 1.1.5, Bitbank Chinese mine, Gemini adds Ethereum trading]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Weekly 2016 May 11: OpenBazaar 1.1.5, Bitbank Chinese mine, Gemini adds Ethereum trading</h1><p>Peer-to-peer marketplace OpenBazaar continues to develop apace with the release of version 1.1.5, which adds e-mail notifications, easy server switching, CSV data export and improved listing information. The BBC published a report about a giant Bitcoin mining facility located in a remote Chinese village with an interesting 360-degree video.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/279bfc1222a64a4d454d0ca598f02010ff13b316.jpg"></article>]]></description>
+            <link>http://siliconangle.com/blog/2016/05/11/bitcoin-weekly-2016-may-11-openbazaar-1-1-5-bitbank-chinese-mine-gemini-adds-ethereum-trading/</link>
+            <guid isPermaLink="false">182c7bf4-4f6d-4cd1-8194-e9d5d5896f27</guid>
+            <pubDate>Thu, 12 May 2016 01:28:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Former CFTC Commissioner States Obama "Should Heed the Call" on Bitcoin]]></title>
             <description><![CDATA[<article><h1>Former CFTC Commissioner States Obama "Should Heed the Call" on Bitcoin</h1><p>Former commissioner on the Commodity Futures Trading Commission advised Obama in an op-ed on CNBC today to take a reasonable approach to digital currency and blockchain technology, one that fosters innovation. Bitcoin and blockchain regulation has been a hot topic at conferences and on the nascent technology's online forums. Bitcoin, known for its anarchist and libertarian leanings, fear government legislators and regulators.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef3ec5d689227564dea77aa595c56b4712e1ae29.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Investigation into Bitcoin Exchange Cryptsy Issues Subpoenas, CEO Remains Missing</h1><p>The court-appointed receiver for Cryptsy, the defunct, Florida-based bitcoin and cryptocurrency exchange that claims to have lost more than $5 million in investors' funds to theft, has filed a report that identifies some of the banks and exchanges the defendants used in operating the scheme that left hundreds of investors without access to their accounts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/81159441a8fe6ecb1a4f58e7e3b7be692ef983b9.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/bitcoin-cryptsy-subpoenas-ceo-missing/</link>
             <guid isPermaLink="false">26cf9ac3-c33a-4677-bb6f-2f31c4ca3f8a</guid>
-            <pubDate>Wed, 11 May 2016 13:55:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Profit Taken Overnight - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Profit Taken Overnight - NEWSBTC</h1><p>Here's what we are focusing on for this Wednesday morning's session in the bitcoin price, and a look at what happened overnight. It's early Wednesday morning, and about time for the first of our twice-daily bitcoin price watch analyses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4353729b56285dbcca934121fac4e2fcfdfc9896.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/11/bitcoin-price-watch-profit-taken-overnight/</link>
-            <guid isPermaLink="false">a54ae7c9-4690-4835-8424-ebb0b5b571b7</guid>
             <pubDate>Wed, 11 May 2016 13:55:24 GMT</pubDate>
         </item>
     </channel>
