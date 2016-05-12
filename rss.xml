@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 19:24:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 19:24:47 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Here's What Bitcoin Offers That Private Wall Street Blockchains Won't]]></title>
+            <description><![CDATA[<article><h1>Here's What Bitcoin Offers That Private Wall Street Blockchains Won't</h1><p>A panel at a recent cryptocurrency event hosted by the Cato Institute discussed the differences between public blockchains (such as Bitcoin) and the distributed ledger technology currently being researched by various Wall Street firms and consortiums. Although many people view consortium blockchains as competition for Bitcoin, the reality is that these systems are mostly intended for different use cases.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67f44efb0e329662f425996c30fb62ade0f313d7.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/here-s-what-bitcoin-offers-that-private-wall-street-blockchains-won-t-1463067769</link>
+            <guid isPermaLink="false">bee1e787-167a-4673-b175-eadf5e960df1</guid>
+            <pubDate>Thu, 12 May 2016 19:21:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin peer list]]></title>
+            <description><![CDATA[<article><h1>Bitcoin peer list</h1><p>I noticed that a company I have connections with, has an asset (ip) that appears on this bitcoin peer list; http://pastebin.com/HTPjuJBt In laymens terms, what is a peer list, and should I be con...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/44075/bitcoin-peer-list</link>
+            <guid isPermaLink="false">8128acd2-3f4b-4683-b859-bfc0651b0eaf</guid>
+            <pubDate>Thu, 12 May 2016 19:21:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[please note the number of tweets and rambling by Gavin about his repository rights in the last days ... * /r/btc]]></title>
             <description><![CDATA[<article><h1>please note the number of tweets and rambling by Gavin about his repository rights in the last days ... * /r/btc</h1><p>exactly : 0 he have way more class , honesty and integrity than those other guys that like to elevate themselves as guru and judges . shame on them .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Japanese Bitcoin Firm TechBureau Raises $6.2 Million</h1><p>TechBureau Inc, a Japanese blockchain solutions firm and operator of bitcoin exchange Zaif, has announced the successful completion of a ¥670 million ($6.2M) Series A funding round.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03e96831cf3e500ac42d5170028e3f8c7a6016c6.jpg"></article>]]></description>
             <link>http://themerkle.com/japanese-fintech-firm-techbureau-raises-6-2-million/</link>
             <guid isPermaLink="false">d6c45719-2c9b-4bd7-9b35-57ce03e8a40b</guid>
-            <pubDate>Thu, 12 May 2016 19:21:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Will Bitcoin Overcome Its Biggest Test?]]></title>
-            <description><![CDATA[<article><h1>How Will Bitcoin Overcome Its Biggest Test?</h1><p>Following the impressive rise of the Bitcoin digital currency over the past few years, criminals are stepping up their game. If you're unfamiliar, Bitcoin is an open-source software code that offers a person-to-person (P2P) monetary exchange with no central servers. It uses mathematics, cryptography, and blockchain technology to facilitate transactions easily, quickly, and securely.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d9706d76e59f00b56b1d04dbf677c86cfd12299.jpg"></article>]]></description>
-            <link>http://www.wallstreetdaily.com/2016/05/12/bitcoin-cryptocurrency-security/</link>
-            <guid isPermaLink="false">8f88df59-bb1e-4767-a3fe-94e6010ba669</guid>
-            <pubDate>Thu, 12 May 2016 19:21:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Congressional Committee Hears Testimony on Blockchain's Role in Health Care - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Congressional Committee Hears Testimony on Blockchain's Role in Health Care - CoinDesk</h1><p>During an appearance on Capitol Hill earlier this week, a representative for a prominent US think tank suggested that blockchain applications could fuel next-generation health and insurance data systems. American Enterprise Institute (AEI) resident fellow Scott Gottlieb spoke yesterday before the US House Committee on Energy and Commerce's Subcommittee on Health.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec0c7eae4d6b99c8c1ef395a8a079a0c9f3ee5a0.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/us-think-tank-suggests-blockchain-application-insurance-risk-pooling/</link>
-            <guid isPermaLink="false">ef91ae61-377e-4551-830c-2e8ec2293cd8</guid>
             <pubDate>Thu, 12 May 2016 19:21:48 GMT</pubDate>
         </item>
     </channel>
