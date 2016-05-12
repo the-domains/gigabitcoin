@@ -4,29 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 01:31:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 01:30:26 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>@jerrybrito Ask me in six months; I don't trust my own judgement right now after all the drama.</p>]]></description>
-            <link>https://twitter.com/gavinandresen/status/728316830683639808</link>
-            <guid isPermaLink="false">f5b2ef4a-4645-4480-89e5-c5dac1282eb3</guid>
-            <pubDate>Thu, 12 May 2016 01:28:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Facebook, Uber, Airbnb, eBay: How Blockchain Can Break Data Monopolists]]></title>
-            <description><![CDATA[<article><h1>Facebook, Uber, Airbnb, eBay: How Blockchain Can Break Data Monopolists</h1><p>Can Blockchain break Facebook, Uber, Airbnb, eBay and the like? The answer we want to give for the currently discussed Blockchain interpretation is 'so far, no' - contrary to common opinion. The reason being is that for none of the Blockchain technology specifica is there is a clear path to attract users to the platform.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/23bff9ae595694a9274fe55b768dd60ada212b4b.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/facebook-uber-airbnb-ebay-how-blockchain-can-break-data-monopolists</link>
-            <guid isPermaLink="false">df5b0b12-f2c5-4f1b-a67b-eb09a42f16cd</guid>
-            <pubDate>Thu, 12 May 2016 01:28:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can't find correct z1 & z2 for transaction]]></title>
-            <description><![CDATA[<article><h1>Can't find correct z1 & z2 for transaction</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top I've been trying to understand the issue and repeat Willem Hengeveld's answer, but I think I'm failing at getting correct script for hash.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/44022/cant-find-correct-z1-z2-for-transaction</link>
-            <guid isPermaLink="false">d555a627-04f1-4b5f-9146-5363b88e3ece</guid>
-            <pubDate>Thu, 12 May 2016 01:28:58 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Forget Satoshi. I want to know where Segregated Witness is hiding out? * /r/Bitcoin]]></title>
             <description><![CDATA[<article><h1>Forget Satoshi. I want to know where Segregated Witness is hiding out? * /r/Bitcoin</h1><p>209 points and 109 comments so far on reddit</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
@@ -74,6 +53,27 @@
             <description><![CDATA[<article><h1>Why Silvergate's CEO is Banking 15 Bitcoin Companies - CoinDesk</h1><p>Startups focused on products and services based on bitcoin have never had an easy time opening bank accounts - or maintaining positive relationships with those firms. The problem? Bitcoin-related clients are frequently viewed as high-risk by banking institutions, and thus far few banks have shown an interest in going through the process of mitigating that risk.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6065f271b325f38904479c3635c03e703b25a97d.png"></article>]]></description>
             <link>http://www.coindesk.com/silvergate-banking-bitcoin-companies/</link>
             <guid isPermaLink="false">bb8096b3-8545-4444-979f-b8f000a42721</guid>
+            <pubDate>Thu, 12 May 2016 01:28:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nobuaki Kobayashi Decides Against Making Mt Gox Bitcoin Addresses Public - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Nobuaki Kobayashi Decides Against Making Mt Gox Bitcoin Addresses Public - NEWSBTC</h1><p>The wallet addresses belonging to Mt Gox will not be made public, said the court-appointed trustee in today's statement. Read more... If there is one incident which the bitcoin community is forced to revisit occasionally, then Mt Gox takes the cake.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b241683f55ebeaf797ecacc4f429bcdbec205b7b.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/11/nobuaki-kobayashi-decides-against-making-mt-gox-bitcoin-addresses-public/</link>
+            <guid isPermaLink="false">fa95dfb2-62e8-40cb-987a-f23cdb4b29e4</guid>
+            <pubDate>Thu, 12 May 2016 01:28:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Proposed Hard-Fork to Nullify ASICBoost Patent - Bitcoinist.net]]></title>
+            <description><![CDATA[<article><h1>Proposed Hard-Fork to Nullify ASICBoost Patent - Bitcoinist.net</h1><p>Bitcoin Core contributor, Peter Todd, announced that a hard-fork had been proposed to negate attempts to patent the Also read: Kraken Launches ETH Dark Pool Trading ASICBoost method. According to a message by Peter, this proposed idea sprang from an agreement made at a Bitcoin-oriented round-table in February.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19dcfd2b450452424717657c2725322480646fee.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/proposed-hard-fork-to-nullify-asicboost-patent/</link>
+            <guid isPermaLink="false">86a25752-6388-4789-ae10-46cc775bcf63</guid>
+            <pubDate>Thu, 12 May 2016 01:28:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin.com Partner With SoftSwiss to Launch Digital Currency Casino]]></title>
+            <description><![CDATA[<article><h1>Bitcoin.com Partner With SoftSwiss to Launch Digital Currency Casino</h1><p>SoftSwiss, a white label online casino platform developer, announced today a white label partnership with Bitcoin.com, currently owned by famed Bitcoin investor Roger Ver. Ver was involved in the early-stage funding of several prominent digital currency firms such as Kraken, Bockchcain.info and BitPay.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c388d40d440044432a057c154cfb19bff5836d37.jpg"></article>]]></description>
+            <link>http://themerkle.com/bitcoin-com-partner-with-softswiss-to-launch-digital-currency-casino/</link>
+            <guid isPermaLink="false">46f464b1-fc10-417b-b5b9-9c2c481dc11e</guid>
             <pubDate>Thu, 12 May 2016 01:28:57 GMT</pubDate>
         </item>
     </channel>
