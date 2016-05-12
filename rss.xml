@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 13:39:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 13:39:02 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Security Offerings Become The New Crowdfunding For Startups]]></title>
-            <description><![CDATA[<article><h1>Security Offerings Become The New Crowdfunding For Startups</h1><p>Raising funds is one of the top priorities for nearly every startup in existence, regardless of whether they have a working product or not. Crowdfunding portals can soon be used by startups to sell shares to investors, rather than using the traditional reward option such as on Kickstarter and Indiegogo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9cf8fbfb50f31f9287267af3cd4d140ddbcf522a.jpg"></article>]]></description>
-            <link>http://themerkle.com/security-offerings-become-the-new-crowdfunding-for-startups/</link>
-            <guid isPermaLink="false">312ed77b-c50d-46b8-afa1-f1e869929998</guid>
-            <pubDate>Thu, 12 May 2016 13:36:14 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Swarm Announces The Releases of The Orange Paper Series]]></title>
             <description><![CDATA[<article><h1>Swarm Announces The Releases of The Orange Paper Series</h1><p>The Swarm team announced the release of a new project that aims to create a platformfor the sharing, publishing and distribution of cutting-edge research papers about various aspects of Ethereum's Technology and ecosystem. Members of the Swarm team announced the creation of a new project called The ΞTHΞЯSPHΞЯΞ orange paper series, a collaborative editing platform to create and publish research based on the Ethereum's ecosystem.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/49f1b88467e2fef05434605c84b9e8eb1feeef3e.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>These Two Doctors Wrote a Paper on How to Sign Medical Documents With Bitcoin</h1><p>Two doctors published a proof of concept paper on how to use blockchain-timestamped protocols to improve the trustworthiness of medical science, the article was published on F1000Research an open science publishing platform. The doctors Greg Irving from the institute of public health in the University of Cambridge and John Holden a general practitioner for Garswood Surgery, St.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/189b86d77c89638d7b0ae394ed80942517809c89.jpg"></article>]]></description>
             <link>http://themerkle.com/these-two-doctors-wrote-a-paper-on-how-to-sign-medical-documents-with-bitcoin/</link>
             <guid isPermaLink="false">d012403d-0079-4cb6-87fd-fd04cbff73fd</guid>
+            <pubDate>Thu, 12 May 2016 13:36:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Industry Report: Bitcoin Expansion, Ransomware, Dark Web Drudgery]]></title>
+            <description><![CDATA[<article><h1>Industry Report: Bitcoin Expansion, Ransomware, Dark Web Drudgery</h1><p>A bitcoin market announces plans for expansion; a long-thought-dead form of ransomware makes another appearance, and it's Silk Road all over again as Norway shuts down a dark web string. These are only some of the stories you might have missed in this week's cryptocurrency news, so take a gander at the details below.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1d9804f5a133ca3fefc51b33a16845837bd3ee7.png"></article>]]></description>
+            <link>http://bitcoinist.net/bitcoin-ransomware-dark-web/</link>
+            <guid isPermaLink="false">ca01ffc7-8484-490b-b922-5602facc2844</guid>
             <pubDate>Thu, 12 May 2016 13:36:13 GMT</pubDate>
         </item>
     </channel>
