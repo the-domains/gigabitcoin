@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 01:31:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 01:31:53 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bart Chilton: Bitcoin is a huge opportunity. Obama needs to make a move now]]></title>
+            <description><![CDATA[<article><h1>Bart Chilton: Bitcoin is a huge opportunity. Obama needs to make a move now</h1><p>Since the digital currency bitcoin and blockchain (the underlying technology) burst onto the scene in 2009, serious skepticism and palpable passion have played equal roles. Many bitcoin devotees wanted little to do with government legislators or regulators and regulators were dubious of this new currency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e10a15d32be6e289173a6843203ab8dc52c19409.jpg"></article>]]></description>
+            <link>http://www.cnbc.com/2016/05/11/obama-needs-to-make-a-move-on-bitcoin-now-bart-chilton-commentary.html</link>
+            <guid isPermaLink="false">d11822d0-081d-41c3-9f25-078c90206aff</guid>
+            <pubDate>Thu, 12 May 2016 01:28:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bankruptcy Trustee Says MtGox Bitcoin Addresses Will Not Be Released]]></title>
+            <description><![CDATA[<article><h1>Bankruptcy Trustee Says MtGox Bitcoin Addresses Will Not Be Released</h1><p>Nobuaki Kobayashi, Bankruptcy Trustee for now-defunct Japanese bitcoin exchange MtGox, released a statement today saying that he will not release a list of bitcoin addresses supposedly controlled by MtGox, which he hoped would aid the investigation and recovery of missing customer funds.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55e2199a70e3da37db934f19cdfb86ca93480b34.jpg"></article>]]></description>
+            <link>http://themerkle.com/bankruptcy-trustee-says-mtgox-bitcoin-addresses-will-remain-private/</link>
+            <guid isPermaLink="false">202aed5c-9953-4bdd-9d84-772a61747c28</guid>
+            <pubDate>Thu, 12 May 2016 01:28:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ghana: First Comes Internet Security, Then Bitcoin]]></title>
             <description><![CDATA[<article><h1>Ghana: First Comes Internet Security, Then Bitcoin</h1><p>Ghana seeks to secure transactions on the Internet first and only then start a discussion on Bitcoin adoption. As a lack of training on cryptography is still a major issue in parts of Africa, Ghana's Chapter of the Internet Society has trained some of its members.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae578059f9118bb85c39a9ce0fd5c6b10d652533.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://cointelegraph.com/news/facebook-uber-airbnb-ebay-how-blockchain-can-break-data-monopolists</link>
             <guid isPermaLink="false">df5b0b12-f2c5-4f1b-a67b-eb09a42f16cd</guid>
             <pubDate>Thu, 12 May 2016 01:28:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can't find correct z1 & z2 for transaction]]></title>
-            <description><![CDATA[<article><h1>Can't find correct z1 & z2 for transaction</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top I've been trying to understand the issue and repeat Willem Hengeveld's answer, but I think I'm failing at getting correct script for hash.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/44022/cant-find-correct-z1-z2-for-transaction</link>
-            <guid isPermaLink="false">d555a627-04f1-4b5f-9146-5363b88e3ece</guid>
-            <pubDate>Thu, 12 May 2016 01:28:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Forget Satoshi. I want to know where Segregated Witness is hiding out? * /r/Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Forget Satoshi. I want to know where Segregated Witness is hiding out? * /r/Bitcoin</h1><p>209 points and 109 comments so far on reddit</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
-            <link>https://www.reddit.com/r/Bitcoin/comments/4i4s1c/forget_satoshi_i_want_to_know_where_segregated/</link>
-            <guid isPermaLink="false">78935694-7edf-48af-9729-a12da0bd5027</guid>
-            <pubDate>Thu, 12 May 2016 01:28:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
