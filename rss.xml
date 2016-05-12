@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 01:31:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 01:31:47 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Kraken Launches ETH Dark Pool Trading - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>Kraken Launches ETH Dark Pool Trading - Bitcoinist.net</h1><p>The global Bitcoin and digital asset exchange Also read: Bitcoin is Back: Price Rises Nearly $15, Returns to $460 Kraken has announced it will be the first and only exchange enabling clients to use the (ETH) Dark Pool Trading. The Dark Pool allows users to "discreetly" place large trading orders without exposing the order book to the public.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/952fa8258f526d5efe17ce82aa0b4b46168f3287.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/kraken-eth-dark-pool-trading/</link>
-            <guid isPermaLink="false">b7816381-d82d-426b-b5eb-8907fee0fc77</guid>
-            <pubDate>Thu, 12 May 2016 01:28:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bart Chilton: Bitcoin is a huge opportunity. Obama needs to make a move now]]></title>
-            <description><![CDATA[<article><h1>Bart Chilton: Bitcoin is a huge opportunity. Obama needs to make a move now</h1><p>Since the digital currency bitcoin and blockchain (the underlying technology) burst onto the scene in 2009, serious skepticism and palpable passion have played equal roles. Many bitcoin devotees wanted little to do with government legislators or regulators and regulators were dubious of this new currency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e10a15d32be6e289173a6843203ab8dc52c19409.jpg"></article>]]></description>
-            <link>http://www.cnbc.com/2016/05/11/obama-needs-to-make-a-move-on-bitcoin-now-bart-chilton-commentary.html</link>
-            <guid isPermaLink="false">d11822d0-081d-41c3-9f25-078c90206aff</guid>
-            <pubDate>Thu, 12 May 2016 01:28:58 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bankruptcy Trustee Says MtGox Bitcoin Addresses Will Not Be Released]]></title>
             <description><![CDATA[<article><h1>Bankruptcy Trustee Says MtGox Bitcoin Addresses Will Not Be Released</h1><p>Nobuaki Kobayashi, Bankruptcy Trustee for now-defunct Japanese bitcoin exchange MtGox, released a statement today saying that he will not release a list of bitcoin addresses supposedly controlled by MtGox, which he hoped would aid the investigation and recovery of missing customer funds.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55e2199a70e3da37db934f19cdfb86ca93480b34.jpg"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<p>@jerrybrito Ask me in six months; I don't trust my own judgement right now after all the drama.</p>]]></description>
             <link>https://twitter.com/gavinandresen/status/728316830683639808</link>
             <guid isPermaLink="false">f5b2ef4a-4645-4480-89e5-c5dac1282eb3</guid>
+            <pubDate>Thu, 12 May 2016 01:28:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Facebook, Uber, Airbnb, eBay: How Blockchain Can Break Data Monopolists]]></title>
+            <description><![CDATA[<article><h1>Facebook, Uber, Airbnb, eBay: How Blockchain Can Break Data Monopolists</h1><p>Can Blockchain break Facebook, Uber, Airbnb, eBay and the like? The answer we want to give for the currently discussed Blockchain interpretation is 'so far, no' - contrary to common opinion. The reason being is that for none of the Blockchain technology specifica is there is a clear path to attract users to the platform.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/23bff9ae595694a9274fe55b768dd60ada212b4b.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/facebook-uber-airbnb-ebay-how-blockchain-can-break-data-monopolists</link>
+            <guid isPermaLink="false">df5b0b12-f2c5-4f1b-a67b-eb09a42f16cd</guid>
+            <pubDate>Thu, 12 May 2016 01:28:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can't find correct z1 & z2 for transaction]]></title>
+            <description><![CDATA[<article><h1>Can't find correct z1 & z2 for transaction</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top I've been trying to understand the issue and repeat Willem Hengeveld's answer, but I think I'm failing at getting correct script for hash.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/44022/cant-find-correct-z1-z2-for-transaction</link>
+            <guid isPermaLink="false">d555a627-04f1-4b5f-9146-5363b88e3ece</guid>
             <pubDate>Thu, 12 May 2016 01:28:58 GMT</pubDate>
         </item>
     </channel>
