@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 13:37:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 13:37:10 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Gavin Andresen is Not Giving Up on Bitcoin Classic - Coinjournal]]></title>
-            <description><![CDATA[<article><h1>Gavin Andresen is Not Giving Up on Bitcoin Classic - Coinjournal</h1><p>During a recent AMA on Chinese Bitcoin community website 8btc, Bitcoin Foundation Chief Scientist Gavin Andresen confirmed that he's not giving up on Bitcoin Classic and the project intends to proceed with their development plans.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f9a64096843b030c9ce9bb0d7be2cb8a7b9f8a6.jpg"></article>]]></description>
-            <link>http://coinjournal.net/gavin-andresen-not-giving-bitcoin-classic/</link>
-            <guid isPermaLink="false">04f18b17-8108-4b8a-8a31-aa217fc02e85</guid>
-            <pubDate>Thu, 12 May 2016 13:36:12 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Email Creator Shiva Ayyadurai Faces A Satoshi Nakamoto Moment]]></title>
             <description><![CDATA[<article><h1>Email Creator Shiva Ayyadurai Faces A Satoshi Nakamoto Moment</h1><p>Bitcoin is not the only concept which seems to be dealing with creator identity issues as of late. The creator of email - or at last the person claiming responsibility for doing so - is suing Gawker over two articles published on Gizmodo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccfeae5863839053fdee4e498725fd0569f6aadd.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Ethereum (ETH) Price Trends: 5/11/2016</h1><p>Ethereum's price has reached a key short-term level. An upward trend can begin at that resistance level. Ethereum has cautiously reached the level of $9.5, from which it can quite likely rebound in the future. The bears can prove themselves at that mark and the downward correction could continue.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f46dcf4a299d69301d05bebccce23a23b66587ca.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/ethereum-eth-price-trends-5112016</link>
             <guid isPermaLink="false">389c290d-b582-483b-bec1-4880cc596ab3</guid>
+            <pubDate>Thu, 12 May 2016 01:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[State of Blockchain Q1 2016: Blockchain Funding Overtakes Bitcoin - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>State of Blockchain Q1 2016: Blockchain Funding Overtakes Bitcoin - CoinDesk</h1><p>This article highlights a few of the 100 new slides from the report, which is freely available to view in full here. For more of our quarterly and annual reports, visit CoinDesk Research. As blockchain hype begins to subside and entrepreneurs and organizations get down to the business of implementation and execution, a new debate has emerged over timing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cea97e4ff87b950b22085fd6b4fec7895a2f5846.png"></article>]]></description>
+            <link>http://www.coindesk.com/state-of-blockchain-q1-2016/</link>
+            <guid isPermaLink="false">dec88dba-814c-4cf0-8b35-0774bea8d6f9</guid>
             <pubDate>Thu, 12 May 2016 01:29:00 GMT</pubDate>
         </item>
     </channel>
