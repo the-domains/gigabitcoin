@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 13:39:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 13:39:22 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Antonopoulos: There Are No Spam Transactions in Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Antonopoulos: There Are No Spam Transactions in Bitcoin</h1><p>As Bitcoin blocks get closer to full capacity, some members of the community are claiming many of the transactions on the network are nothing more than spam. Defining a spam transaction on the Bitcoin network is somewhat difficult. In fact, Mastering Bitcoin author Andreas Antonopoulos believes it's impossible for such transactions to exist.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c0b59aa439d52d5e4daaa892a9a7342a24d0c2a.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/antonopoulos-there-are-no-spam-transactions-in-bitcoin-1463081880</link>
-            <guid isPermaLink="false">9aa61897-bcbc-4076-b2f4-096222e8d974</guid>
-            <pubDate>Fri, 13 May 2016 13:35:47 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[CEX.IO Plans to Add Bitcoin Margin Trading]]></title>
             <description><![CDATA[<article><h1>CEX.IO Plans to Add Bitcoin Margin Trading</h1><p>London-based bitcoin cloud mining service CEX.IO has plans to add marging trading. In an interview with CoinTelegraph, Co-founder and CEO Oleksandr Lutskevych, said that CEX.IO is preparing to roll out a bitcoin margin trading program that will dynamically calculate risk via custom algorithms. Lutskevych explained: "We are preparing to launch beta testing of Bitcoin margin trading to satisfy the needs of traders.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6123551ce0a1818ffe520036593d5fff26ba5f2.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Capgemini to Develop Blockchain Loyalty Tech Amid 'Aggressive' Hiring Push - CoinDesk</h1><p>Technology consulting firm Capgemini took its latest step on its bid to dramatically increase its investment in blockchain tech this week, announcing a partnership with industry startup Ascribe that would find it using its solutions to create a real-time rewards system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32545eb6d187bcf013f6ecbf157956bd6ec5c755.png"></article>]]></description>
             <link>http://www.coindesk.com/capgemini-develop-new-loyalty-tech-amid-aggressive-blockchain-push/</link>
             <guid isPermaLink="false">85dec48d-0da1-4b96-be2f-7dea74f5a041</guid>
+            <pubDate>Fri, 13 May 2016 13:35:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China: Bitcoin Banks, Mines, Myths and Realities - Bitcoin News]]></title>
+            <description><![CDATA[<article><h1>China: Bitcoin Banks, Mines, Myths and Realities - Bitcoin News</h1><p>Western curiosity about Bitcoin in China remains high, but access to information is usually quite limited. See also: Bitcoin's Capital Controls Resistance a Concern says IMF as $1 Trillion Leaves China As a consequence, there are a few tropes about Chinese Bitcoin activity that tend to pop up in every conversation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7e6aaf80ef851f2a171661ef9e4c2e0002525bd.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/china-bitcoin-myths-realities/</link>
+            <guid isPermaLink="false">b918f7ef-69cf-4200-8506-176ada5e5020</guid>
             <pubDate>Fri, 13 May 2016 13:35:45 GMT</pubDate>
         </item>
     </channel>
