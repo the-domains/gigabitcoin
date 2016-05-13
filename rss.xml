@@ -4,20 +4,13 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 13:40:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 13:39:58 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Palantir Denies Ownership of 'Quantum' Bitcoin Cloud Mining Service - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Palantir Denies Ownership of 'Quantum' Bitcoin Cloud Mining Service - CoinDesk</h1><p>Earlier this week, a press release for a Hong Kong-based company called CoinFac began circulating an outlined a plan to "introduce the next generation quantum computing technology into cryptocurrency mining". The pitch promised big processing speed increases thanks to the claimed technology advances, and visitors to the CoinFac website are quickly directed to a series of cloud mining contract options.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e49d3821a81ba06c2cb4e015a67dc5ccdbe391d.jpg"></article>]]></description>
             <link>http://www.coindesk.com/palantir-quantum-bitcoin-cloud-mining/</link>
             <guid isPermaLink="false">28008cbf-61d4-4f74-addb-c80ca3d2f6d4</guid>
-            <pubDate>Fri, 13 May 2016 13:35:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Interest in Bitcoin tech grows]]></title>
-            <description><![CDATA[<article><h1>Interest in Bitcoin tech grows</h1><p>Jamie Gray Jamie Gray is a business reporter for the NZ Herald and APNZ Opinions differ about the value of Bitcoin but one thing is for sure - the technology that underpins the alternative currency has got stock exchanges, clearing houses, banks and central banks talking.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/17501a509fa353a24956c8ff1a1d4436ef58af2e.jpg"></article>]]></description>
-            <link>http://m.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;objectid=11638357</link>
-            <guid isPermaLink="false">dbacdd5b-8e6e-4e7c-9ccb-9df8de4c0eaa</guid>
             <pubDate>Fri, 13 May 2016 13:35:47 GMT</pubDate>
         </item>
         <item>
@@ -75,6 +68,13 @@
             <link>http://bitcoin.stackexchange.com/questions/44082/are-there-any-services-to-tell-black-list-address</link>
             <guid isPermaLink="false">06f23134-22a4-4dfe-ba19-8dc5f513f59a</guid>
             <pubDate>Fri, 13 May 2016 13:35:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Ethminer 0.9.41-genoil-1.0.8 Windows Binary]]></title>
+            <description><![CDATA[<article><h1>New Ethminer 0.9.41-genoil-1.0.8 Windows Binary</h1><p>Genoil has updated his ethminer 0.9.41 fork to version 1.0.8 ( source) and here is a Windows binary of the latest version that you can try. Genoil's fork of ethminer is targeted at Nvidia CUDA miners, but it also works on AMD OpenCL for mining of Ethereum (ETH).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/769a687c9ac88c75d07c510fbc5addc2cc3463d6.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7844-new-ethminer-0-9-41-genoil-1-0-8-windows-binary/</link>
+            <guid isPermaLink="false">05989d97-25d8-4ff6-8414-ef710474c4ec</guid>
+            <pubDate>Fri, 13 May 2016 13:35:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
