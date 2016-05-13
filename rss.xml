@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 13:36:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 13:37:25 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Trump's Remittance Wall Idea Will Lead To More Money Smuggling]]></title>
+            <description><![CDATA[<article><h1>Trump's Remittance Wall Idea Will Lead To More Money Smuggling</h1><p>There has been a lot of talk about Donald Trump's idea to block all remittance transfers from the US to Mexico shortly. While this makes an excellent case for Bitcoin, the Mexican government has issued a warning and hinted at potential repercussions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/72c8774e1d237d163c9b087404201b3e/croprotate.jpg?cropheight=667&cropwidth=787&degrees=0&input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F05%2Fshutterstock_354775595.jpg&x=0&y=0"></article>]]></description>
+            <link>http://themerkle.com/trumps-remittance-wall-idea-will-lead-to-more-money-smuggling/</link>
+            <guid isPermaLink="false">3ac7b513-e5d5-4530-ab0a-c4242ae71a98</guid>
+            <pubDate>Fri, 13 May 2016 13:35:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoiners Starting to Appear in Panama Papers Leaks]]></title>
+            <description><![CDATA[<article><h1>Bitcoiners Starting to Appear in Panama Papers Leaks</h1><p>The 11.5 million leaked "Panama Papers" detailed financial attorney-client information for over 214,488 offshore companies. At the heart of the controversy was the Panamanian law firm and corporate service firm Mossack Fonseca. The documents spanned a wide timeline, ranging from the 1970s to today.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5cfc67876e75836ea714830b78805179b544240.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/bitcoiners-panama-papers/</link>
+            <guid isPermaLink="false">77eb26f9-1e99-47d8-b815-b291a18dfa06</guid>
+            <pubDate>Fri, 13 May 2016 13:35:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ethereum User Reports Loss of 7,182 ETH Through Mist Wallet]]></title>
             <description><![CDATA[<article><h1>Ethereum User Reports Loss of 7,182 ETH Through Mist Wallet</h1><p>Based on the latest information provided, it appears as if the hacker story is the most likely outcome, as the Mist user noticed some strange IP connectivity requests during the time of the attack. An interesting and worrying post has been made on the Daohub forum, explaining how one Ethereum user lost a significant amount of funds as his Mist wallet allegedly got hacked.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44acd218e37a9ba67102fd8288cbc9434ba6eee1.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Argentinian Bitcoin Lending Venture Illuminates Global Economy</h1><p>At TechCrunch Disrupt New York in Red Hook, Brooklyn, BitPagos made it to the finals in the startup battlefield after a Tuesday night presentation where they showed how they could bring unsecured personal loans to the developing world with Bitcoin. BitPagos's Sebastian Serrano took to the stage to introduce his company's new service, Ripio.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35aa4fffac23803ed8ed9f6da3371e3d0a49664e.jpg"></article>]]></description>
             <link>http://observer.com/2016/05/ripio-bitpagos-techcrunch-disrupt/</link>
             <guid isPermaLink="false">f6f46eb3-e3e6-42ec-835e-2d5ce1cac097</guid>
-            <pubDate>Fri, 13 May 2016 13:35:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SWIFT Network Abused Again By Internet Criminals]]></title>
-            <description><![CDATA[<article><h1>SWIFT Network Abused Again By Internet Criminals</h1><p>For the second time in a few months, the SWIFT payment network has come under attack from hackers. To make matters even worse, a different bank was involved in the process this time, and money has been stolen this time as well.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0cc2a1345e66bcc4887e45a600f11e5a1237aca5.jpg"></article>]]></description>
-            <link>http://themerkle.com/swift-network-abused-again-by-internet-criminals/</link>
-            <guid isPermaLink="false">369cffbe-0d54-4136-b290-3ff11bce1d43</guid>
-            <pubDate>Fri, 13 May 2016 13:35:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Taiwanese Bitcoin Conman Arrested on Multiple Charges]]></title>
-            <description><![CDATA[<article><h1>Taiwanese Bitcoin Conman Arrested on Multiple Charges</h1><p>In a report coming out of Taiwan, an individual who founded and ran a bitcoin company has been arrested on charges of fraud, breach of trust and document forgery after allegedly causing losses to 49 customers in a month.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c4d70920b93a4b2f0861bda9767d9950e9238d9.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/taiwanese-bitcoin-conman-arrested/</link>
-            <guid isPermaLink="false">acf71750-f6d8-4efc-82f6-02fbf472c86c</guid>
             <pubDate>Fri, 13 May 2016 13:35:42 GMT</pubDate>
         </item>
     </channel>
