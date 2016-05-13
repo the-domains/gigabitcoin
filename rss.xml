@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 13:39:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 13:39:20 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[CEX.IO Plans to Add Bitcoin Margin Trading]]></title>
-            <description><![CDATA[<article><h1>CEX.IO Plans to Add Bitcoin Margin Trading</h1><p>London-based bitcoin cloud mining service CEX.IO has plans to add marging trading. In an interview with CoinTelegraph, Co-founder and CEO Oleksandr Lutskevych, said that CEX.IO is preparing to roll out a bitcoin margin trading program that will dynamically calculate risk via custom algorithms. Lutskevych explained: "We are preparing to launch beta testing of Bitcoin margin trading to satisfy the needs of traders.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6123551ce0a1818ffe520036593d5fff26ba5f2.jpg"></article>]]></description>
-            <link>http://themerkle.com/cex-io-plans-to-add-bitcoin-margin-trading/</link>
-            <guid isPermaLink="false">4a9ee86e-5378-42ba-aefa-1384766a2866</guid>
-            <pubDate>Fri, 13 May 2016 13:35:47 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Government Planners Will Fail at Regulating Bitcoin - Bitcoin News]]></title>
             <description><![CDATA[<article><h1>Government Planners Will Fail at Regulating Bitcoin - Bitcoin News</h1><p>The world is changing. And due to certain technologies and information, citizens of this globe are thinking differently. The advent of the Internet has brought us vast amounts of subject material that has changed our thoughts on government. Encryption has taught us how to keep things private while using the web.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76b49c754949c9d60641a1dbe723dd4656a23a02.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>China: Bitcoin Banks, Mines, Myths and Realities - Bitcoin News</h1><p>Western curiosity about Bitcoin in China remains high, but access to information is usually quite limited. See also: Bitcoin's Capital Controls Resistance a Concern says IMF as $1 Trillion Leaves China As a consequence, there are a few tropes about Chinese Bitcoin activity that tend to pop up in every conversation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7e6aaf80ef851f2a171661ef9e4c2e0002525bd.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/china-bitcoin-myths-realities/</link>
             <guid isPermaLink="false">b918f7ef-69cf-4200-8506-176ada5e5020</guid>
+            <pubDate>Fri, 13 May 2016 13:35:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Blockchain Could Disrupt Everything: Goldman Sachs' Jim Schneider]]></title>
+            <description><![CDATA[<article><h1>The Blockchain Could Disrupt Everything: Goldman Sachs' Jim Schneider</h1><p>The Blockchain - the technology that underpins Bitcoin transactions - has applications far beyond just digital currency. Jim Schneider, a research analyst in Goldman Sachs Research, explains how the distributed ledger technology works and why it has the potential to disrupt industries from finance to real estate. Learn more: http://link.gs.com/iB8y</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e3ddf80b6fc421b33387ed133ab8fe0889c5c69.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=OljQtssHsQI</link>
+            <guid isPermaLink="false">d15bd548-9b0d-452a-b52f-6b60dcf488d5</guid>
             <pubDate>Fri, 13 May 2016 13:35:45 GMT</pubDate>
         </item>
     </channel>
