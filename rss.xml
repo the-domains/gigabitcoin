@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 13:36:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 13:36:31 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blockchain as Part of the Web: Does It Fit in?]]></title>
+            <description><![CDATA[<article><h1>Blockchain as Part of the Web: Does It Fit in?</h1><p>Schools are now using Bitcoin technology to record and verify candidates' credentials; and to track the creation or transfer of physical assets, shareholdings, certifications, digital rights, intellectual property or even votes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2fba95e561618eb2426e2e417e8e0e72455ef63.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/blockchain-as-part-of-the-web-does-it-fit-in</link>
+            <guid isPermaLink="false">231e5f34-daf7-4e8a-8104-03bca384ca59</guid>
+            <pubDate>Fri, 13 May 2016 13:35:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Erik Voorhees & Charlie Shrem Named in Panama Papers Leak]]></title>
             <description><![CDATA[<article><h1>Erik Voorhees & Charlie Shrem Named in Panama Papers Leak</h1><p>Erik Voorhees, CEO of ShapeShift.io, and Charlie Shrem, Founder of the Bitcoin Foundation, have been named in the Panama Papers Leak. The Panama Papers, as they have been dubbed, are 11.5 million leaked documents that contain financial information of more than 214, 488 entities associated with the Panamanian law firm, Mossack Fonseca.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d9997597b09c05606ed22fe5b04a0f16651a5ca4.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Digital Bitcoin Company's Chairman Arrested on Fraud Charges</h1><p>It is not the first time Digital Bitcoin Company chairman Ho gets into troubled waters with law enforcement, as he falsely claimed Bitcoin investors wanted to buy cryptocurrency at a premium price. Bitcoin has attracted the attention of law enforcement agencies all over the world in recent years, yet some people still use cryptocurrency as a way to commit fraud.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09582bdcb1bd72ce41a9f1f246bd32d1449abccd.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/05/13/digital-bitcoin-companys-chairman-arrested-fraud-charges/</link>
             <guid isPermaLink="false">799854bb-d347-423f-82f4-924e72f1ab3c</guid>
-            <pubDate>Fri, 13 May 2016 13:35:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Top 10 Myths About Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Top 10 Myths About Bitcoin</h1><p>Although Bitcoin has been around for more than seven years now, there are still plenty of myths about this technology percolating among the general public and the mainstream press. Bitcoin is sometimes a difficult subject to grasp because it requires a basic understanding of many different areas of study such as cryptography, economics and computer science.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e625a6e004cc945dd54d74e9cf82255025bb901a.jpg"></article>]]></description>
-            <link>http://www.nasdaq.com/article/top-10-myths-about-bitcoin-cm620562</link>
-            <guid isPermaLink="false">15b99c60-2a5d-4c63-b733-92b2fd79635a</guid>
             <pubDate>Fri, 13 May 2016 13:35:41 GMT</pubDate>
         </item>
     </channel>
