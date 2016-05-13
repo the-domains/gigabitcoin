@@ -4,27 +4,13 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 13:39:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 13:38:46 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Are there any services to tell black list address?]]></title>
-            <description><![CDATA[<article><h1>Are there any services to tell black list address?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top No and active work is being done to make this even harder as we speak.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/44082/are-there-any-services-to-tell-black-list-address</link>
-            <guid isPermaLink="false">06f23134-22a4-4dfe-ba19-8dc5f513f59a</guid>
-            <pubDate>Fri, 13 May 2016 13:35:46 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[New Ethminer 0.9.41-genoil-1.0.8 Windows Binary]]></title>
             <description><![CDATA[<article><h1>New Ethminer 0.9.41-genoil-1.0.8 Windows Binary</h1><p>Genoil has updated his ethminer 0.9.41 fork to version 1.0.8 ( source) and here is a Windows binary of the latest version that you can try. Genoil's fork of ethminer is targeted at Nvidia CUDA miners, but it also works on AMD OpenCL for mining of Ethereum (ETH).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/769a687c9ac88c75d07c510fbc5addc2cc3463d6.jpg"></article>]]></description>
             <link>http://cryptomining-blog.com/7844-new-ethminer-0-9-41-genoil-1-0-8-windows-binary/</link>
             <guid isPermaLink="false">05989d97-25d8-4ff6-8414-ef710474c4ec</guid>
-            <pubDate>Fri, 13 May 2016 13:35:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Craig Wright Announcement affected the Bitcoin price | HolyTransaction]]></title>
-            <description><![CDATA[<article><h1>Craig Wright Announcement affected the Bitcoin price | HolyTransaction</h1><p>During this last week, Bitcoin had a low trading volume and its price dropped when the Australian entrepreneur Craig Wright said to be Satoshi Nakamoto, the creator of Bitcoin. So, according to Coindesk , Craig Wright's announcement affected the Bitcoin price. Traders moved only 7.7m BTC during this week, according to Bitcoinity, much less than usual.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1078cde0de15a54d780f8f524a5b9a09f3c698f.png"></article>]]></description>
-            <link>http://blog.holytransaction.com/2016/05/craig-wright-announcement-affected.html</link>
-            <guid isPermaLink="false">e1e4f051-c04f-4a5e-a871-160e38391a16</guid>
             <pubDate>Fri, 13 May 2016 13:35:45 GMT</pubDate>
         </item>
         <item>
@@ -75,6 +61,20 @@
             <link>https://hueniverse.com/2016/01/26/how-to-use-open-source-and-shut-the-fuck-up-at-the-same-time/</link>
             <guid isPermaLink="false">09ad8292-b644-418b-a9a1-b98b9e1536af</guid>
             <pubDate>Fri, 13 May 2016 13:35:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Technical Analysis for 05/13/2016 - Bulls Putting Up a Fight! - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 05/13/2016 - Bulls Putting Up a Fight! - NEWSBTC</h1><p>Bitcoin price has been consolidating at the bottom of the ascending channel, with buyers still trying to push for a bounce. Bitcoin Price Key Highlights Bitcoin price has been consolidating at the bottom of the ascending channel, with buyers still trying to push for a bounce.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64a74fa21590ecd80dac7cfa464c5baeeffce6dc.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/13/bitcoin-price-technical-analysis-05132016-bulls-putting-fight/</link>
+            <guid isPermaLink="false">25cd5ecc-7294-4258-b5c0-da4e85e6397c</guid>
+            <pubDate>Fri, 13 May 2016 13:35:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Content Monetization via Bitcoin Nanopayments]]></title>
+            <description><![CDATA[<article><h1>Content Monetization via Bitcoin Nanopayments</h1><p>In February 2016, SatoshiPay introduced a new feature - payment for online content via Bitcoin nanopayments. Thus, users have obtained a possibility to pay for useful information only, and content producers - to monetize their products quickly. What is a nanopayment? It is a Bitcoin transaction for an amount up to one cent or less.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb74f0e620ca2dec53bd2676b371ee6e80fd491e.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/13/content-monetization-via-bitcoin-nanopayments-works-convenient/</link>
+            <guid isPermaLink="false">878e49e5-97f5-49e5-b850-4c3053aa88d4</guid>
+            <pubDate>Fri, 13 May 2016 13:35:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
