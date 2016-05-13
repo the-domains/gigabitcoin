@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 13:38:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 13:38:16 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[China: Bitcoin Banks, Mines, Myths and Realities - Bitcoin News]]></title>
-            <description><![CDATA[<article><h1>China: Bitcoin Banks, Mines, Myths and Realities - Bitcoin News</h1><p>Western curiosity about Bitcoin in China remains high, but access to information is usually quite limited. See also: Bitcoin's Capital Controls Resistance a Concern says IMF as $1 Trillion Leaves China As a consequence, there are a few tropes about Chinese Bitcoin activity that tend to pop up in every conversation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7e6aaf80ef851f2a171661ef9e4c2e0002525bd.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/china-bitcoin-myths-realities/</link>
-            <guid isPermaLink="false">b918f7ef-69cf-4200-8506-176ada5e5020</guid>
-            <pubDate>Fri, 13 May 2016 13:35:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Blockchain Could Disrupt Everything: Goldman Sachs' Jim Schneider]]></title>
-            <description><![CDATA[<article><h1>The Blockchain Could Disrupt Everything: Goldman Sachs' Jim Schneider</h1><p>The Blockchain - the technology that underpins Bitcoin transactions - has applications far beyond just digital currency. Jim Schneider, a research analyst in Goldman Sachs Research, explains how the distributed ledger technology works and why it has the potential to disrupt industries from finance to real estate. Learn more: http://link.gs.com/iB8y</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e3ddf80b6fc421b33387ed133ab8fe0889c5c69.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=OljQtssHsQI</link>
-            <guid isPermaLink="false">d15bd548-9b0d-452a-b52f-6b60dcf488d5</guid>
-            <pubDate>Fri, 13 May 2016 13:35:45 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[The man once thought to be Satoshi Nakamoto is raising money for a bitcoin startup]]></title>
             <description><![CDATA[<article><h1>The man once thought to be Satoshi Nakamoto is raising money for a bitcoin startup</h1><p>One of the early pioneers of bitcoin and blockchain is raising money to fund a financial startup based on the virtual currency. Nick Szabo, a cryptographer who worked on an early bitcoin prototype called DigiCash, is in talks to raise $3 million, according to sources and a pitch deck reviewed by Quartz.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e593d86bc20e7323aa932520812534492b87ef84.jpg"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>Cashila introduces ICONOMI, an Ether exchange</h1><p>During the last couple of months, Ethereum's popularity has increased significantly, and digital currency companies are slowly manifesting their interest in the project. According to recent reports, the popular bitcoin exchange Cashila, is introducing ICONOMI, a user-friendly exchange system meant to allow people to buy and store Ether, the digital currency of the Ethereum project.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e7cc50c169be22f6304cbc4d1113be428621f54.jpg"></article>]]></description>
             <link>http://themerkle.com/cashila-introduces-iconomi-an-ether-exchange/</link>
             <guid isPermaLink="false">53a539a4-579e-4a88-ad34-9eeb2ff81f50</guid>
+            <pubDate>Fri, 13 May 2016 13:35:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Capgemini partners with Ascribe to produce loyalty and rewards programs]]></title>
+            <description><![CDATA[<article><h1>Capgemini partners with Ascribe to produce loyalty and rewards programs</h1><p>Capgemini today announced an alliance with ascribe GmbH to develop a blockchain database solution built on BigchainDB. The Paris based consulting, technology, and outsourcing services provider is present in over 40 countries, employing over 180,000 people worldwide. The Group reported global revenues of €11.9 billion in 2015, an increase of 12.7% over the previous year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2a1ee5ab22b94ecda423012f8bc3a722c5e8531.png"></article>]]></description>
+            <link>http://bravenewcoin.com/news/capgemini-partners-with-ascribe-to-produce-loyalty-and-rewards-programs/</link>
+            <guid isPermaLink="false">30958dab-3b23-4334-a93d-5c5fa8a1c9b5</guid>
+            <pubDate>Fri, 13 May 2016 13:35:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump's Remittance Wall Idea Will Lead To More Money Smuggling]]></title>
+            <description><![CDATA[<article><h1>Trump's Remittance Wall Idea Will Lead To More Money Smuggling</h1><p>There has been a lot of talk about Donald Trump's idea to block all remittance transfers from the US to Mexico shortly. While this makes an excellent case for Bitcoin, the Mexican government has issued a warning and hinted at potential repercussions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/72c8774e1d237d163c9b087404201b3e/croprotate.jpg?cropheight=667&cropwidth=787&degrees=0&input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F05%2Fshutterstock_354775595.jpg&x=0&y=0"></article>]]></description>
+            <link>http://themerkle.com/trumps-remittance-wall-idea-will-lead-to-more-money-smuggling/</link>
+            <guid isPermaLink="false">3ac7b513-e5d5-4530-ab0a-c4242ae71a98</guid>
             <pubDate>Fri, 13 May 2016 13:35:43 GMT</pubDate>
         </item>
     </channel>
