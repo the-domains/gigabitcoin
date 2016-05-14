@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 15:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 May 2016 15:19:16 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Always the same deposit address for a user?]]></title>
+            <description><![CDATA[<article><h1>Always the same deposit address for a user?</h1><p>I'm wondering if it is possible to at creation of a user account also save a deposit address(blockchain.info receive payments API) which the user will always use when he/she wants to deposit coins.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/44099/always-the-same-deposit-address-for-a-user</link>
+            <guid isPermaLink="false">0b6988d2-3f61-48c3-b7f7-7a65064a839f</guid>
+            <pubDate>Sat, 14 May 2016 15:18:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Adobe Flash Security Experts Fix Yet Another Zero-day Vulnerability]]></title>
+            <description><![CDATA[<article><h1>Adobe Flash Security Experts Fix Yet Another Zero-day Vulnerability</h1><p>Computer security remains a topic of substantial debate, and even technology giants have to stay on their toes at all times. Adobe had to patch yet another Flash zero-day vulnerability, for the third month in a row. It is due time Flash is weeded out completely sooner rather than later.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7afc91296b741f95562fc200c3947cf0667be90e.jpg"></article>]]></description>
+            <link>http://themerkle.com/adobe-flash-security-experts-fix-yet-another-zero-day-vulnerability/</link>
+            <guid isPermaLink="false">ae62999a-4c1d-4af0-a6e0-3222b73bfeae</guid>
+            <pubDate>Sat, 14 May 2016 15:18:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Out-of-Hospital Blockchains Matter - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Why Out-of-Hospital Blockchains Matter - CoinDesk</h1><p>In this opinion piece, Maaghul discusses what he sees as the potential applications for blockchain in the field of healthcare, an area increasingly of interest to industry firms. I bought my first bitcoin in May 2013 while on a vegan retreat in Asheville, North Carolina.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26cbd365494f28a6345600aefb0c5cdc3dfad3de.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Nulled.io Data Dump Contains Information on Stolen Bitcoins</h1><p>Platforms facilitating illegal activity on the Internet, such as selling stolen passwords and exchanging stolen bitcoins, are a plague. That being said, Karma has a way of working out in the end, as Nulled.io, a hacker forum, was compromised and the data has been made available on a data breach sharing site.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/848af3b908527559cd7a3391160adb7f5442250d.jpg"></article>]]></description>
             <link>http://themerkle.com/nulled-io-data-dump-contains-information-on-stolen-bitcoins/</link>
             <guid isPermaLink="false">437799b4-b61d-4630-8a1b-ff24ff116be4</guid>
-            <pubDate>Sat, 14 May 2016 15:18:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nigerian Currency Falls After Petrol Price Hike, Bitcoin Offers Solution]]></title>
-            <description><![CDATA[<article><h1>Nigerian Currency Falls After Petrol Price Hike, Bitcoin Offers Solution</h1><p>A recent hike in prices of petroleum products in Nigeria may increase Bitcoin adoption for cross border transactions and other uses such as for safekeeping and investments. Compounded by rising foreign exchange rates for imports, the hike is likely to have a transparent effect on inflation which already hit a 46-month high of 12.8% in March.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f92cd4c09515b8bd7be9f955fb797f63086d7420.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/nigerian-currency-falls-after-petrol-price-hike-bitcoin-offers-solution</link>
-            <guid isPermaLink="false">af8ed542-202e-4ab7-bedb-de95fb774c1a</guid>
-            <pubDate>Sat, 14 May 2016 15:18:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Here's why 21 is the most exciting bitcoin company]]></title>
-            <description><![CDATA[<article><h1>Here's why 21 is the most exciting bitcoin company</h1><p>Watch the video Here's why 21 is the most exciting bitcoin company on Yahoo Finance. Before 21 Inc. had even put out a product, it had raised $121 million in venture funding-the most of any bitcoin company. It was unclear, for months, what 21 would actually do or make.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b612790e3f18c7f49960d1416cb85ffa5fcfca4.jpg"></article>]]></description>
-            <link>https://ca.finance.yahoo.com/video/heres-why-21-most-exciting-215019322.html</link>
-            <guid isPermaLink="false">8a909bf2-fb3e-48e3-9662-57858fe0d34c</guid>
             <pubDate>Sat, 14 May 2016 15:18:04 GMT</pubDate>
         </item>
     </channel>
