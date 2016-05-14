@@ -7,13 +7,6 @@
         <lastBuildDate>Sat, 14 May 2016 21:12:45 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Visa and MasterCard Secretly Increase Processing Fees]]></title>
-            <description><![CDATA[<article><h1>Visa and MasterCard Secretly Increase Processing Fees</h1><p>The introduction of new NFC and EMV-enabled payment cards has forced merchants to upgrade their payment terminals since last 2015. However, it seems that upgrade brought other unwanted changes, such as an increase in debit transaction fees.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d298c91d3f0334fdfc580ee434f3a47ff5c47534.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/visa-mastercard-increase-fees/</link>
-            <guid isPermaLink="false">501354ae-d93d-4162-90f2-0e08f44e4942</guid>
-            <pubDate>Sat, 14 May 2016 21:11:51 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bitcoin Core To Remove Patented AsicBoost Advantage Soon]]></title>
             <description><![CDATA[<article><h1>Bitcoin Core To Remove Patented AsicBoost Advantage Soon</h1><p>According to the statement posted by one of the Bitcoin Core developers, this change will be made to fight the centralization of Bitcoin mining. An interesting statement was posted on Twitter by Olivier Janssens, as he explained an upcoming change in the Bitcoin Core client software.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e238338de3cdb625f217cd4b7e1a7de5748d8fa.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/05/14/bitcoin-core-remove-patented-asicboost-advantage-soon/</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Japanese Company Raising Funds Abuses Tech Bureau Corp. Credentials</h1><p>Success in the world of Bitcoin and cryptocurrency inadvertently leads to unwanted attention. In the case of Tech Bureau Corp, the company behind Zaif and Mijin blockchain technology, they became the victim of Akitsu, Co, Ltd. using some of their product names for commercial purposes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/94546179b5fd92d289e2397e6058ece033ceadd7.jpg"></article>]]></description>
             <link>http://bitcoinist.net/japanese-company-raising-funds-abuses-tech-bureau-corp-credentials/</link>
             <guid isPermaLink="false">d6234c5f-8857-4df6-8b9a-4e2b72ef1eca</guid>
+            <pubDate>Sat, 14 May 2016 15:18:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[11FS is trying to raise $50 million to create a blockchain fund]]></title>
+            <description><![CDATA[<article><h1>11FS is trying to raise $50 million to create a blockchain fund</h1><p>According to recent reports, it seems like a new fintech consultancy firm is trying to raise a total of $50 million to invest in blockchain-based startups that strive to bring the technology over to the baking industry.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cbdbba18887ba41777a7e528f65780002060f52e.jpg"></article>]]></description>
+            <link>http://themerkle.com/11fs-is-trying-to-raise-50-million-to-create-a-blockchain-fund/</link>
+            <guid isPermaLink="false">c72e827a-ff3f-4ed2-8409-05846144265a</guid>
             <pubDate>Sat, 14 May 2016 15:18:06 GMT</pubDate>
         </item>
     </channel>
