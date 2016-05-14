@@ -7,6 +7,13 @@
         <lastBuildDate>Sat, 14 May 2016 02:00:14 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Bitcoin Price Stabilizes at $450 But Path Ahead Unclear - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Stabilizes at $450 But Path Ahead Unclear - CoinDesk</h1><p>Bitcoin prices fluctuated little in the week ending 13th May, staying largely between $450 and $460 amid lackluster trading volume. By contrast, ether prices experienced notable volatility during the period, changing roughly 17% amid modest trading volume.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bbad7b1758e0f3a9bce316db2483ae275887bdca.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/bitcoin-price-stabilizes-but-path-ahead-unclear/</link>
+            <guid isPermaLink="false">e23492ac-d462-499b-912c-1bf85109ddc1</guid>
+            <pubDate>Sat, 14 May 2016 01:59:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Bitcoin Baron: Who is Satoshi Nakamoto?]]></title>
             <description><![CDATA[<article><h1>The Bitcoin Baron: Who is Satoshi Nakamoto?</h1><p>Will the real Satoshi Nakamoto please stand up? We've all heard of Bitcoin, the innovative crypto currency that was created by Satoshi Nakamoto. Now, an Australian entrepreneur, claims he is the one behind Bitcoin and "Satoshi" was just an alias. Or is it?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0400cb91d786c4d216b42e43453dcb8a2369065d.jpg"></article>]]></description>
             <link>http://www.my9nj.com/fox-content-hub/140726489-story</link>
@@ -68,13 +75,6 @@
             <link>http://www.bitcoinerrorlog.com/2016/05/13/r3cev-articles-mysteriously-disappear/</link>
             <guid isPermaLink="false">f6a6ebd5-9bce-4d2d-913d-89ee79780c25</guid>
             <pubDate>Sat, 14 May 2016 01:59:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Palantir Denies Ownership of 'Quantum' Bitcoin Cloud Mining Service - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Palantir Denies Ownership of 'Quantum' Bitcoin Cloud Mining Service - CoinDesk</h1><p>Earlier this week, a press release for a Hong Kong-based company called CoinFac began circulating an outlined a plan to "introduce the next generation quantum computing technology into cryptocurrency mining". The pitch promised big processing speed increases thanks to the claimed technology advances, and visitors to the CoinFac website are quickly directed to a series of cloud mining contract options.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e49d3821a81ba06c2cb4e015a67dc5ccdbe391d.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/palantir-quantum-bitcoin-cloud-mining/</link>
-            <guid isPermaLink="false">28008cbf-61d4-4f74-addb-c80ca3d2f6d4</guid>
-            <pubDate>Fri, 13 May 2016 13:35:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
