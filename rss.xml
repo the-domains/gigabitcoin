@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 02:03:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 May 2016 02:04:02 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ethereum (ETH) Price Trends: 5/13/2016]]></title>
+            <description><![CDATA[<article><h1>Ethereum (ETH) Price Trends: 5/13/2016</h1><p>Ethereum continues its upward trend. The structure of the trend was not disrupted at a key level, which resulted in a new upward impulse. After a rebound from a medium-term level, Ethereum's price has continued its upward movement. The power of that impulse is caused by the inablity of the market to form a turn to decline.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d3f971868d4f037826ab1ff31ec0e4c71bce6ed.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/ethereum-eth-price-trends-5132016</link>
+            <guid isPermaLink="false">a6160023-32ea-4874-9616-8604f4861b1c</guid>
+            <pubDate>Sat, 14 May 2016 01:59:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Satoshi Nakamoto's Identity Matters - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Why Satoshi Nakamoto's Identity Matters - CoinDesk</h1><p>In this opinion piece, Schuil argues that the identity of bitcoin's creator could have a great impact not only on the technology, but potentially the future of the world's economy. Lots has been said (and even more has been speculated) following Craig Wright's claim that he is bitcoin creator Satoshi Nakamoto.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd041786941977ad52a9fd175d540a01c37acac5.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Microsoft Joins Blockchain-Focused Chamber of Digital Commerce</h1><p>Microsoft has joined the Chamber of Digital Commerce. What difference would this bring to blockchain adoption? Recently Microsoft has announced that it has joined the Chamber of Digital Commerce, a trade association focused on promoting distributed ledger technology. What difference would this bring to blockchain adoption?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/926b01ed2a5bfd47551271a34d05dc716ad399a7.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/microsoft-joins-blockchain-focused-chamber-of-digital-commerce</link>
             <guid isPermaLink="false">a0e8baed-1933-4228-a546-d9120c35d5f9</guid>
-            <pubDate>Sat, 14 May 2016 01:59:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Japan's TechBureau Raises $6.5 Million for Bitcoin and Blockchain Services - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Japan's TechBureau Raises $6.5 Million for Bitcoin and Blockchain Services - CoinDesk</h1><p>A Japanese blockchain startup has raised ¥720m (or just over $6.5m) in a new Series A funding round. TechBureau, which operates a bitcoin exchange called Zaif and a permissioned blockchain platform named Mijin, netted the investment from a group of investors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7470485d4d6ba1c53bdac1db9a2332f120c010b.png"></article>]]></description>
-            <link>http://www.coindesk.com/japanese-bitcoin-exchange-series-a-round/</link>
-            <guid isPermaLink="false">cd7f0695-34f3-4889-b801-e12e2cee79fc</guid>
             <pubDate>Sat, 14 May 2016 01:59:20 GMT</pubDate>
         </item>
     </channel>
