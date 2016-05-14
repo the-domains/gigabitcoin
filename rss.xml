@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 15:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 May 2016 21:12:43 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Swift Is Hacked Again. The Bitcoin/Blockchain Fat Lady Sings.]]></title>
+            <description><![CDATA[<article><h1>Swift Is Hacked Again. The Bitcoin/Blockchain Fat Lady Sings.</h1><p>I see the bad moon arising. I see trouble on the way. I see earthquakes and lightnin'. I see bad times today. Creedence Clearwater Revival The SWIFT payment system failed again this week. The tone of Swift's announcement intimated the end of life on the planet earth as we know it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6fc7e7de52aef60e985d267eb563fcb8d360a3bc.png"></article>]]></description>
+            <link>http://seekingalpha.com/article/3975082-swift-hacked-bitcoin-blockchain-fat-lady-sings</link>
+            <guid isPermaLink="false">9453c2e5-545c-49a1-9282-55aa049e3859</guid>
+            <pubDate>Sat, 14 May 2016 21:11:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New address for OpenBazaar project funds]]></title>
+            <description><![CDATA[<article><h1>New address for OpenBazaar project funds</h1><p>Back in November 2014 we created a 2-of-4 multisig account for our OpenBazaar project fund, where we could receive donations. We explained our reasoning for using multisig and being transparent with our project funds. That multisig account has four keyholders: Brian Hoffman, Sam Patterson, Washington Sanchez, and Dionysis Zindros.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ed0e44d6a80102fdc45ccbfd4386ecf1ac0ab76.png"></article>]]></description>
+            <link>https://blog.openbazaar.org/new-address-for-openbazaar-project-funds/</link>
+            <guid isPermaLink="false">6df851dc-1f4f-4830-87d9-189f645173f9</guid>
+            <pubDate>Sat, 14 May 2016 15:18:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Africa's blockchain transformation]]></title>
             <description><![CDATA[<article><h1>Africa's blockchain transformation</h1><p>ValueWeb makes the contention that you cannot have an internet of things without a real-time and cheap internet of value. A core part of this is focused upon building a cheap shared ledger structure for digital identity and digital currencies and guess what? That cheap shared ledger is most likely going to be built in Africa.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/545e07f7f0a41bc95a20bcf6cff20486ca15d8c0.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://themerkle.com/bitcoin-core-irc-chat-shows-signs-of-censorship/</link>
             <guid isPermaLink="false">4c9b48ff-2248-4479-8a62-4503075fccfb</guid>
             <pubDate>Sat, 14 May 2016 15:18:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cerber Bitcoin Ransomware Creators Use Dridex Spam Provider]]></title>
-            <description><![CDATA[<article><h1>Cerber Bitcoin Ransomware Creators Use Dridex Spam Provider</h1><p>The topic of Bitcoin ransomware has been touched upon multiple times over the past few months, but it appears as if Cerber ransomware attacks are on the rise once again. By sending spam email messages through the same infrastructure used by Dridex banking malware, it looks like this threat is far from over.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1876f40d0338c1638e0147600f6c8ff0637a04e.jpg"></article>]]></description>
-            <link>http://themerkle.com/cerber-bitcoin-ransomware-creators-use-dridex-spam-provider/</link>
-            <guid isPermaLink="false">e6c5a9ad-0104-482a-a9d3-fa7442dafce7</guid>
-            <pubDate>Sat, 14 May 2016 15:18:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World's Longest-Running Weekly Bitcoin Meetup Celebrates 200th Meetup]]></title>
-            <description><![CDATA[<article><h1>World's Longest-Running Weekly Bitcoin Meetup Celebrates 200th Meetup</h1><p>The Manchester Bitcoin meetup, the world's longest-running weekly Bitcoin meetup, just celebrated its 200th consecutive meetup. The meetup, started in 2012 by the Harvey brothers of Lamassu fame, has taken place every Sunday evening in Manchester, New Hampshire since then without fail. Derrick J.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/717d376a62fa013c4fd25fadfcf3e7e4ad2e2137.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/worlds-longest-running-weekly-bitcoin-meetup-celebrates-200th-meetup</link>
-            <guid isPermaLink="false">cd5282bf-3066-421e-bc67-f627a9a53432</guid>
-            <pubDate>Sat, 14 May 2016 15:18:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
