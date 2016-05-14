@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 21:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 May 2016 21:12:52 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin in Africa Could Leapfrog Just Like Cellular Phones Replaced Landline]]></title>
-            <description><![CDATA[<article><h1>Bitcoin in Africa Could Leapfrog Just Like Cellular Phones Replaced Landline</h1><p>Werner van Rooyen, head of Business Development and Growth at Bitx, one of Africa's biggest Bitcoin exchanges, spoke to CoinTelegraph about the problems and potential of Bitcoin in Africa. CoinTelegraph: Bitcoin use in Africa has improved in the last couple of years. What has really changed?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bddd09b70e8ed6352bc1f3529567ac935e5a5162.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/bitcoin-in-africa-could-leapfrog-just-like-cellular-phones-replaced-landline</link>
-            <guid isPermaLink="false">09cdbffd-6e6d-45c5-95b7-6ac939f113ac</guid>
-            <pubDate>Sat, 14 May 2016 21:11:53 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Price Analysis: Quiet Trade Above $450]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Analysis: Quiet Trade Above $450</h1><p>Bitcoin price has not made any significant move during quiet Saturday trade. The start of day in the US may change that, but for now it looks like continuing inaction will be the prospect. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4c656574135f70f25669b43717431daf06e845c.png"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://bitcoinist.net/creditbit-ten-times-faster-bitcoin/</link>
             <guid isPermaLink="false">ba3beecf-3692-4391-885c-95cc91086823</guid>
             <pubDate>Sat, 14 May 2016 21:11:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Visa and MasterCard Secretly Increase Processing Fees]]></title>
+            <description><![CDATA[<article><h1>Visa and MasterCard Secretly Increase Processing Fees</h1><p>The introduction of new NFC and EMV-enabled payment cards has forced merchants to upgrade their payment terminals since last 2015. However, it seems that upgrade brought other unwanted changes, such as an increase in debit transaction fees.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d298c91d3f0334fdfc580ee434f3a47ff5c47534.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/visa-mastercard-increase-fees/</link>
+            <guid isPermaLink="false">501354ae-d93d-4162-90f2-0e08f44e4942</guid>
+            <pubDate>Sat, 14 May 2016 21:11:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
