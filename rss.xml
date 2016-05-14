@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 21:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 May 2016 21:12:51 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin Price Analysis: Quiet Trade Above $450]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Analysis: Quiet Trade Above $450</h1><p>Bitcoin price has not made any significant move during quiet Saturday trade. The start of day in the US may change that, but for now it looks like continuing inaction will be the prospect. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4c656574135f70f25669b43717431daf06e845c.png"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-price-analysis-quiet-trade-450/</link>
-            <guid isPermaLink="false">b2257b2a-7378-438c-bb48-1363147338cb</guid>
-            <pubDate>Sat, 14 May 2016 21:11:53 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Kompany.com Announces Private Blockchain Integration]]></title>
             <description><![CDATA[<article><h1>Kompany.com Announces Private Blockchain Integration</h1><p>The business registry database, Kompany.com, made it known at a joint conference of the European Commerce Registers' Forum (ECRF) and Corporate Registers' Forum (CRF) that they are introducing a blockchain ledger into their business model.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df83a95a411240be8321446d13777241b05d8303.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Visa and MasterCard Secretly Increase Processing Fees</h1><p>The introduction of new NFC and EMV-enabled payment cards has forced merchants to upgrade their payment terminals since last 2015. However, it seems that upgrade brought other unwanted changes, such as an increase in debit transaction fees.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d298c91d3f0334fdfc580ee434f3a47ff5c47534.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/visa-mastercard-increase-fees/</link>
             <guid isPermaLink="false">501354ae-d93d-4162-90f2-0e08f44e4942</guid>
+            <pubDate>Sat, 14 May 2016 21:11:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Core To Remove Patented AsicBoost Advantage Soon]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Core To Remove Patented AsicBoost Advantage Soon</h1><p>According to the statement posted by one of the Bitcoin Core developers, this change will be made to fight the centralization of Bitcoin mining. An interesting statement was posted on Twitter by Olivier Janssens, as he explained an upcoming change in the Bitcoin Core client software.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e238338de3cdb625f217cd4b7e1a7de5748d8fa.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/14/bitcoin-core-remove-patented-asicboost-advantage-soon/</link>
+            <guid isPermaLink="false">cbf7a7a4-3198-486f-b308-a9ae730bd309</guid>
             <pubDate>Sat, 14 May 2016 21:11:51 GMT</pubDate>
         </item>
     </channel>
