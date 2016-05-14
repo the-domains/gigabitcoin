@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 15:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 May 2016 15:20:09 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[SovereignBTC #87 Begin with the End in Mind & Bitcoin Activism]]></title>
-            <description><![CDATA[<article><h1>SovereignBTC #87 Begin with the End in Mind & Bitcoin Activism</h1><p>In this edition of SovereignBTC, John Bush explores Habit #2 of Seven Habits of Highly Effective People by Stephen Covey, Begin with the End in Mind. This Habit centers around the idea that, "All things are created twice. There's a mental or first creation, and a physical or second creation."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/971e48dd21c495ed2b0c32c85fb5870ebc4d5a9b.jpg"></article>]]></description>
-            <link>https://letstalkbitcoin.com/blog/post/begin-with-the-end-in-mind</link>
-            <guid isPermaLink="false">a9d4eb8e-3bc6-4adf-9676-1fb0aa0ac005</guid>
-            <pubDate>Sat, 14 May 2016 15:18:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unocoin and MobiKwik partner to boost Bitcoin adoption across India with over 75,000 merchants]]></title>
-            <description><![CDATA[<article><h1>Unocoin and MobiKwik partner to boost Bitcoin adoption across India with over 75,000 merchants</h1><p>Indian Bitcoin heavyweight Unocoin, sometimes referred to as 'the Coinbase of India' due to offering similar services, announced an integration with leading mobile wallet in India, MobiKwik, on Thursday. The announcement followed news of their partnership with MobiKwik earlier this month to "let Unocoin users topup their MobiKwik wallets through bitcoin," and is now live on the website.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3601a5777ab6ab5516a30dafbb074e90f54124e8.png"></article>]]></description>
-            <link>http://bravenewcoin.com/news/unocoin-and-mobikwik-partner-to-boost-bitcoin-adoption-across-india-with-over-75000-merchants/</link>
-            <guid isPermaLink="false">49a6cd82-650e-4ec8-925f-3a6bd9b376f4</guid>
-            <pubDate>Sat, 14 May 2016 15:18:06 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Gavin Wood Steps Down As Curator for The DAO]]></title>
             <description><![CDATA[<article><h1>Gavin Wood Steps Down As Curator for The DAO</h1><p>An interesting post has surfaced on Medium, explaining why Dr. Gavin Wood has stepped down as curator for The DAO. Then again, given the autonomous nature of this project, it should not matter who is involved, as long as the code checks out.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd6162c650eaf5c1bc60df9d01dcd0df58213d9f.jpg"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>Cashila Launches New Ethereum Platform Called ICONOMI</h1><p>A new service has been launched by the Cashila team, with the aim of making Ether trading more convenient for users. ICONOMI, as this new feature is called, enables purchases through direct SEPA transfers. Also read: A Bitcoin Chat With CoinCorner CTO Danny Scott Cashila is one of the many cryptocurrency exchange platforms in the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/473a681b2f593d8bf0adff24ad706dd6b31106e1.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/cashila-ethereum-platform-iconomi/</link>
             <guid isPermaLink="false">010456bf-9f86-4b63-9e1d-d10e085f5579</guid>
+            <pubDate>Sat, 14 May 2016 15:18:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Always the same deposit address for a user?]]></title>
+            <description><![CDATA[<article><h1>Always the same deposit address for a user?</h1><p>I'm wondering if it is possible to at creation of a user account also save a deposit address(blockchain.info receive payments API) which the user will always use when he/she wants to deposit coins.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/44099/always-the-same-deposit-address-for-a-user</link>
+            <guid isPermaLink="false">0b6988d2-3f61-48c3-b7f7-7a65064a839f</guid>
+            <pubDate>Sat, 14 May 2016 15:18:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Adobe Flash Security Experts Fix Yet Another Zero-day Vulnerability]]></title>
+            <description><![CDATA[<article><h1>Adobe Flash Security Experts Fix Yet Another Zero-day Vulnerability</h1><p>Computer security remains a topic of substantial debate, and even technology giants have to stay on their toes at all times. Adobe had to patch yet another Flash zero-day vulnerability, for the third month in a row. It is due time Flash is weeded out completely sooner rather than later.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7afc91296b741f95562fc200c3947cf0667be90e.jpg"></article>]]></description>
+            <link>http://themerkle.com/adobe-flash-security-experts-fix-yet-another-zero-day-vulnerability/</link>
+            <guid isPermaLink="false">ae62999a-4c1d-4af0-a6e0-3222b73bfeae</guid>
             <pubDate>Sat, 14 May 2016 15:18:05 GMT</pubDate>
         </item>
     </channel>
