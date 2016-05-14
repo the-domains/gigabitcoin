@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 02:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 May 2016 03:42:11 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gatecoin Exchange is Investigating a Possible Hack]]></title>
+            <description><![CDATA[<article><h1>Gatecoin Exchange is Investigating a Possible Hack</h1><p>Gatecoin, the regulated cryptocurrency exchange is investigating a potential leak of funds in its hotwallet, employees of Gatecoin detected last night what appeared to be suspicious transactions, and decided to shut down the exchange to prevent further losses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c50bb7288a9535d393b17e341787fa691a97d61e.jpg"></article>]]></description>
+            <link>http://themerkle.com/gatecoin-exchange-is-investigating-a-possible-hack/</link>
+            <guid isPermaLink="false">98072422-5b46-45db-808f-d356fd44b307</guid>
+            <pubDate>Sat, 14 May 2016 03:41:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Deep Web Marketplace Silk Road 3.0 Is Back]]></title>
             <description><![CDATA[<article><h1>Bitcoin Deep Web Marketplace Silk Road 3.0 Is Back</h1><p>In a very surprising turn of events, it turns out Silk Road 3.0 is back online after a lengthy absence. Several new security upgrades have been implemented, and the overall design has been changed as well. However, the people running the platform are still the same, by the look of things.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4ff1bb0e343213a30091579acee1c0ddbd7fff4.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://bitconnect.co/bitcoin-news/157/andreas-antonopoulos-blocks-bitcoinist-on-twitter-after-hit-job-story/</link>
             <guid isPermaLink="false">0e7844b4-835c-4aec-bba4-58e35a640907</guid>
             <pubDate>Sat, 14 May 2016 01:59:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Here's Our Weekend Strategy - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Here's Our Weekend Strategy - NEWSBTC</h1><p>Here's what we are looking at for the weekend sessions in the bitcoin price So that's it - the end of the week. We've had some considerable up and down swings in the bitcoin price since Monday, and as we mentioned in the first of our twice daily bitcoin price watch pieces this morning, we've been able to get in and out for a profit on a couple of occasions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a52b28c0876b53009eae5b6b0dc9f5fc70eec02.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/13/bitcoin-price-watch-heres-weekend-strategy/</link>
-            <guid isPermaLink="false">e0fab718-ea4e-4ac6-bf15-7e2e88b185f9</guid>
-            <pubDate>Sat, 14 May 2016 01:59:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
