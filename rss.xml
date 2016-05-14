@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 02:03:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 May 2016 02:03:36 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Smart Contracts May Need To Play By Dumb Rules]]></title>
+            <description><![CDATA[<article><h1>Smart Contracts May Need To Play By Dumb Rules</h1><p>Smart contracts seem to become the norm these days, although there is an argument to be made as to how "smart" these contracts truly are. While there is a certain attribute of efficiency to be gained, there is the question of whether people can make these contracts behave as intended in the real world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b93a8e54d7391d394c87f19a0c04f92f851b5e2.jpg"></article>]]></description>
+            <link>http://themerkle.com/smart-contracts-may-need-to-play-by-dumb-rules/</link>
+            <guid isPermaLink="false">485c5e71-8344-488d-9c26-beacb621864e</guid>
+            <pubDate>Sat, 14 May 2016 01:59:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What Makes Japan Second Largest Bitcoin Market, Potentially First]]></title>
             <description><![CDATA[<article><h1>What Makes Japan Second Largest Bitcoin Market, Potentially First</h1><p>Having overtaken the US, Japan has become the world's second Bitcoin market, after China. Will the Empire of the Sun move ahead of all to completely embrace digital assets? Japan has recently overtaken the United States to become the world's second largest Bitcoin market.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7382252fb1c63c0938318eca5dfe942d3de03d5c.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Claims of Quantum Computing Bitcoin Mining Through Coinfac Debunked</h1><p>Throughout the past few months, here has been a lot of talk about Bitcoin and quantum computing. Coinfac, a company, based in Hong Kong - allegedly owned by Palantir Technologies - wants to use quantum computing for Bitcoin mining.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/633a4ab6003c26bebf396581b43a05173db8b468.jpg"></article>]]></description>
             <link>http://bitcoinist.net/claims-of-quantum-computing-bitcoin-mining-through-coinfac-debunked/</link>
             <guid isPermaLink="false">28d106f1-e6c6-444c-afcb-e2476094201c</guid>
-            <pubDate>Sat, 14 May 2016 01:59:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Popular Bitcoin Casino FortuneJack launches New Bonus Offers]]></title>
-            <description><![CDATA[<article><h1>Popular Bitcoin Casino FortuneJack launches New Bonus Offers</h1><p>The casino exclusively accepts Bitcoin, Litecoin, Darkcoin, Namecoin, Clams, Dogecoin, Peercoin, Novacoin, and Reddcoin. FortuneJack is one of the most popular online Bitcoin Casinos in the Industry. It is an instant play provably fair casino that offers a true gambling experience in a cryptocurrency gaming environment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f121697586ee949d9787a00dae4ea422e1c473e7.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/13/popular-bitcoin-casino-fortunejack-launches-new-bonus-offers/</link>
-            <guid isPermaLink="false">2e236519-8bd1-46ba-ad5e-44cfc4b67a8b</guid>
             <pubDate>Sat, 14 May 2016 01:59:20 GMT</pubDate>
         </item>
     </channel>
