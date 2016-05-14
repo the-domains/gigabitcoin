@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 13:40:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 May 2016 01:59:20 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[R3CEV Articles Mysteriously Disappear!]]></title>
+            <description><![CDATA[<article><h1>R3CEV Articles Mysteriously Disappear!</h1><p>The infamous deconstructed-blockchain-as-a-service-to-relieve-your-bank-of-its-R&D-budget company known as R3CEV has somehow managed to have some disparaging articles about their newly announced $200-million-dollar fundraising effort erased from the web. ...Well, as erased as one can get these days. Google Cache links are available for at least two of the wiped articles .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/130b561fda1e7b0763a4b09ab38c15303ec2fa9c.jpg"></article>]]></description>
+            <link>http://www.bitcoinerrorlog.com/2016/05/13/r3cev-articles-mysteriously-disappear/</link>
+            <guid isPermaLink="false">f6a6ebd5-9bce-4d2d-913d-89ee79780c25</guid>
+            <pubDate>Sat, 14 May 2016 01:59:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Palantir Denies Ownership of 'Quantum' Bitcoin Cloud Mining Service - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Palantir Denies Ownership of 'Quantum' Bitcoin Cloud Mining Service - CoinDesk</h1><p>Earlier this week, a press release for a Hong Kong-based company called CoinFac began circulating an outlined a plan to "introduce the next generation quantum computing technology into cryptocurrency mining". The pitch promised big processing speed increases thanks to the claimed technology advances, and visitors to the CoinFac website are quickly directed to a series of cloud mining contract options.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e49d3821a81ba06c2cb4e015a67dc5ccdbe391d.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://themerkle.com/bitcoin-payment-firm-bitwala-to-present-at-the-pioneers-festival-2016/</link>
             <guid isPermaLink="false">e033d0e9-d950-40cb-92b3-5c747a6d71c2</guid>
             <pubDate>Fri, 13 May 2016 13:35:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are there any services to tell black list address?]]></title>
-            <description><![CDATA[<article><h1>Are there any services to tell black list address?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top No and active work is being done to make this even harder as we speak.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/44082/are-there-any-services-to-tell-black-list-address</link>
-            <guid isPermaLink="false">06f23134-22a4-4dfe-ba19-8dc5f513f59a</guid>
-            <pubDate>Fri, 13 May 2016 13:35:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
