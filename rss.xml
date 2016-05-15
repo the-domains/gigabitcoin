@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 21:40:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2016 21:40:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Malaysian Central Bank Focuses on Adapting Fintech Regulation]]></title>
+            <description><![CDATA[<article><h1>Malaysian Central Bank Focuses on Adapting Fintech Regulation</h1><p>Malaysia is one of the most recent countries to look at its current regulatory guidelines and come up with changes to take part of the FinTech revolution. Keeping in mind how Bitcoin is a part of FinTech as well, these changes will have a rippling effect on cryptocurrency adoption.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f4a799ee5bd8cc0212df55d534f8204eab32c7e8.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/malaysian-bank-fintech-regulation/</link>
+            <guid isPermaLink="false">6a487f17-5b40-4a75-bd62-8453cfbe6994</guid>
+            <pubDate>Sun, 15 May 2016 21:39:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[11FS Blockchain Consultancy Seeks $100 Million - Bitcoin News]]></title>
             <description><![CDATA[<article><h1>11FS Blockchain Consultancy Seeks $100 Million - Bitcoin News</h1><p>Recently, there have been reports of a new fintech consultancy firm that will be headquartered in London, touting blockchain technology. The speculative new company, called has reportedly raised $5 million USD in seed funding already from the venture capital operation Life.SREDA.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a82f8e9e907da52e4a224cdfa7d1f9fd6182c5e.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Adam Back's clever mechanism to prevent miners from censoring transactions. * /r/Bitcoin</h1><p>In addition to the above discussions, I was wowed by many of the clever ways that Adam had in mind for making bitcoin more scalable, flexible,...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
             <link>https://www.reddit.com/r/Bitcoin/comments/4j7pfj/adam_backs_clever_mechanism_to_prevent_miners/</link>
             <guid isPermaLink="false">b824edbd-2a7e-44fe-a536-11c9de178f5c</guid>
-            <pubDate>Sun, 15 May 2016 16:17:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Real Value of Using Bitcoin and Crypto Currency]]></title>
-            <description><![CDATA[<article><h1>Real Value of Using Bitcoin and Crypto Currency</h1><p>I created this video with the YouTube Video Editor (http://www.youtube.com/editor)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1996599b99c3dcbcb2b041127039b00f1762a0fe.jpg"></article>]]></description>
-            <link>http://www.youtube.com/watch?v=ydgiHVblkA8</link>
-            <guid isPermaLink="false">a0afb6b1-309d-419a-a0b3-1da4a6f0b659</guid>
             <pubDate>Sun, 15 May 2016 16:17:03 GMT</pubDate>
         </item>
     </channel>
