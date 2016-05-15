@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 21:40:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2016 21:40:01 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Doug Miller of KeepKey Bitcoin Wallet on SegWit and New Features]]></title>
-            <description><![CDATA[<article><h1>Doug Miller of KeepKey Bitcoin Wallet on SegWit and New Features</h1><p>KeepKey is one of the top Bitcoin Hardware Wallets in the industry right now. I recently had the opportunity to have a hands-on experience with one, as well as speak to Doug Miller of KeepKey. KeepKey is a very solidly-built wallet with a large, very easy to read screen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05ca24149daba8910f9f0f7b0c96cb3ba55ac60b.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/doug-miller-keepkey-segwit/</link>
-            <guid isPermaLink="false">5b93ce0d-0909-4ded-81e9-19a8e2143f2d</guid>
-            <pubDate>Sun, 15 May 2016 21:39:21 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Blockchain Technology Now Enters Educational Institutions - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Blockchain Technology Now Enters Educational Institutions - NEWSBTC</h1><p>Educational institutions are working on implementing bitcoin technology to maintain academic records. Read more... Blockchain technology, initially developed to record and confirm all digital currency transactions happening over the bitcoin network is increasingly being used in various industries.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6d9167e2be795f6b282e3bc8a01360ef35fdb0e.png"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Keiser Report: Bitcoin Core versus Bitcoin Classic (E912)</h1><p>Every week Max Keiser looks at all the scandal behind the financial news headlines. In this episode of the Keiser Report, Max and Stacy discuss Goldman Sachs managing to deplete the teamsters' pension fund more successfully and rapidly than the mob could ever manage to.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20b9f4e2279e1d5c4420fdf91a8d77d9d5d3815c.jpg"></article>]]></description>
             <link>http://www.youtube.com/watch?v=9uXgRgekOBE</link>
             <guid isPermaLink="false">a3834eb3-72ad-40a1-8798-fade9df7a591</guid>
+            <pubDate>Sun, 15 May 2016 16:17:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Winklevoss Twins Add Ether to Bitcoin Exchange]]></title>
+            <description><![CDATA[<article><h1>The Winklevoss Twins Add Ether to Bitcoin Exchange</h1><p>May 12 -- Cameron and Tyler Winklevoss, Gemini Trust Company co-founders, discuss their bitcoin exchange and the future of cryptocurrencies. They speak with Bloomberg's Erik Schatzker at the SALT Conference in Las Vegas on "Bloomberg West."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/790beabc7475206a412602331197c772feb43372.jpg"></article>]]></description>
+            <link>http://www.youtube.com/watch?v=I56zTh9vjYY</link>
+            <guid isPermaLink="false">d0b695ec-84c9-4a2f-977a-41d3b3feb63f</guid>
             <pubDate>Sun, 15 May 2016 16:17:02 GMT</pubDate>
         </item>
     </channel>
