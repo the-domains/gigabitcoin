@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 21:39:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2016 21:40:01 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is bitcoin mining even worth it anymore?]]></title>
+            <description><![CDATA[<article><h1>Is bitcoin mining even worth it anymore?</h1><p>Answer (1 of 2): Its depends on the scale of the operation. Because it's an economy of scale, there would be points as you get larger where you start off losing money, then break even, and assuming the btc price doesn't rocket up(increasing hash power as a side effect) you will eventually turn a ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/Is-bitcoin-mining-even-worth-it-anymore</link>
+            <guid isPermaLink="false">f4d37d60-7545-4809-ab37-4e94103707ad</guid>
+            <pubDate>Sun, 15 May 2016 21:39:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What is Hillary Clinton's policy on bitcoins and cryptocurrencies?]]></title>
             <description><![CDATA[<article><h1>What is Hillary Clinton's policy on bitcoins and cryptocurrencies?</h1><p>I'm a Clinton supporter. I like Bernie. If he's nominated, I'll donate and work hard for him. I prefer Clinton's wide experience and deep competency. And fundamentally, I think her visions of what needs to be addressed and how are more in line with my views.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
@@ -18,6 +25,13 @@
             <description><![CDATA[<article><h1>What is the mathematics behind a blockchain problem?</h1><p>Answer: There are lots of problems. It depends on which you refer to. The one the allowed the whole system to work, the problem that couldn't be cracked for more than a decade or two is the bayzentine generals problem, though there are many other problems that had to be solved and combined to ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
             <link>https://www.quora.com/What-is-the-mathematics-behind-a-blockchain-problem</link>
             <guid isPermaLink="false">e46e1cee-a962-4123-96d3-43bd0aede270</guid>
+            <pubDate>Sun, 15 May 2016 21:39:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How is it possible to lose Bitcoins if they are traceable?]]></title>
+            <description><![CDATA[<article><h1>How is it possible to lose Bitcoins if they are traceable?</h1><p>Answer (1 of 2): Bitcoins are lost, because the private keys of a bitcoin address is stolen. A bitcoin address is the public key of a public key-private key, key-pair. All wallets have a function to import/export private keys, to enhance security. So, if the corresponding private keys, of a bitco...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/How-is-it-possible-to-lose-Bitcoins-if-they-are-traceable</link>
+            <guid isPermaLink="false">27227fc7-ea60-4e16-8c90-c154bcc681e6</guid>
             <pubDate>Sun, 15 May 2016 21:39:21 GMT</pubDate>
         </item>
         <item>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Bobby Lee: Why Bitcoin Makes Sense [Entire Talk]</h1><p>Bobby Lee, the co-founder and CEO of leading Bitcoin financial platform BTCC, answers some of the most common questions about the cryptocurrency, explains how its value is set and why it is the perfect monetary system for the digital age. Lee also shares familiar lessons for entrepreneurs that he learned launching his first startup in China.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a941c7c9dc704202b488d8b32643c019cde9def.jpg"></article>]]></description>
             <link>http://www.youtube.com/watch?v=yCIuEKbQNPo</link>
             <guid isPermaLink="false">ce05944f-6d94-43d2-9761-727d3e665354</guid>
-            <pubDate>Sun, 15 May 2016 16:17:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Festival Season Puts Consumer Digital Data At Risk]]></title>
-            <description><![CDATA[<article><h1>Festival Season Puts Consumer Digital Data At Risk</h1><p>During the Summer season, a lot of people will try to attend various events around the world. But during these times, we stay connected with the world through our portable technology. At the same time, this also poses some serious privacy concerns which users need to be made aware of.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c20d4124775ad7303c50b185dcc5103fe12fcbbd.jpg"></article>]]></description>
-            <link>http://themerkle.com/festival-season-puts-consumer-digital-data-at-risk/</link>
-            <guid isPermaLink="false">ce1a2ab6-adee-48c1-8546-e821e262a46e</guid>
-            <pubDate>Sun, 15 May 2016 16:17:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LocalBitcoins and Paxful Accessible Again After Potential DDoS Attacks]]></title>
-            <description><![CDATA[<article><h1>LocalBitcoins and Paxful Accessible Again After Potential DDoS Attacks</h1><p>It appears as if hackers are deliberately targeting bitcoin platforms all of a sudden, as both LocalBitcoins and Paxful were inaccessible due to potential DDoS attacks. Although these issues did not take long to sort themselves out, it raises the question as to why would be behind such attacks, and what they hope to gain from it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52820ceb6aaa0211c304d07f60864b388180e973.jpg"></article>]]></description>
-            <link>http://themerkle.com/localbitcoins-and-paxful-accessible-again-after-potential-ddos-attacks/</link>
-            <guid isPermaLink="false">c000392a-c8ec-4d5c-b7af-de72d596ff26</guid>
             <pubDate>Sun, 15 May 2016 16:17:02 GMT</pubDate>
         </item>
     </channel>
