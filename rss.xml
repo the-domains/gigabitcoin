@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 03:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2016 03:20:47 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Japan Could Come to Dominate the Bitcoin Landscape - Bitcoin News]]></title>
+            <description><![CDATA[<article><h1>Japan Could Come to Dominate the Bitcoin Landscape - Bitcoin News</h1><p>Japan seems to have Bitcoin fever these days. Trading volume is Also read: A Bitcoin Chat With CoinCorner CTO Danny Scott growing exponentially in the region and organizations across the land are investing in this new technology. Now the Japanese blockchain firm TechBureau, who maintains one of Japan's largest Bitcoin exchanges, Zaif, has just raised ¥720m or $6.5 million USD.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/200ba3714936cfe99e7cc4d382553f120381ec86.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/japan-dominate-bitcoin-landscape/</link>
+            <guid isPermaLink="false">68bcc1a8-d79c-4f81-bd0f-9baacec704ee</guid>
+            <pubDate>Sun, 15 May 2016 03:19:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Slush Pool Introduces Hash Rate Proof]]></title>
             <description><![CDATA[<article><h1>Slush Pool Introduces Hash Rate Proof</h1><p>Slush Pool, the first bitcoin mining pool, announced the inclusion of a new feature that will increase the transparency of its operations, Hash Rate Proof is an add-on that will accurately report the Pool's total hashrate, allowing miners to see in real-time relevant statistics.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcf4889bc6ebf4d897ac3a9e160c746d1b011284.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Global Sales Tax Consultant Avalara Announces Blockchain Exploration - NEWSBTC</h1><p>Avalara, the well-known taxation management, and automation software company is working on implementing blockchain technology into its solutions. Read more... How can we use the Blockchain technology to calculate and manage taxes for our customers? Avalara, the well-known taxation management, and automation software company is thinking along these lines.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43cfc6d43a55ea4f964a522ebe2781b17191ab0c.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/05/14/global-sales-tax-consultant-avalara-announces-blockchain-exploration/</link>
             <guid isPermaLink="false">7ecd601c-d28e-4981-b270-1bc0f87c1326</guid>
-            <pubDate>Sat, 14 May 2016 21:11:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the total number of bitcoin is limited?]]></title>
-            <description><![CDATA[<article><h1>Why the total number of bitcoin is limited?</h1><p>Why the total number of bitcoin is limited? Is there a protocol in the block or somewhere so that the participants can't violate the rule? The first one who find the block can receive the bitcoin ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/44118/why-the-total-number-of-bitcoin-is-limited</link>
-            <guid isPermaLink="false">c1c6a0f8-bc2d-420f-84af-037f2b64d0bf</guid>
             <pubDate>Sat, 14 May 2016 21:11:52 GMT</pubDate>
         </item>
     </channel>
