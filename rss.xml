@@ -4,8 +4,36 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 16:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2016 21:39:58 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is the mathematics behind a blockchain problem?]]></title>
+            <description><![CDATA[<article><h1>What is the mathematics behind a blockchain problem?</h1><p>Answer: There are lots of problems. It depends on which you refer to. The one the allowed the whole system to work, the problem that couldn't be cracked for more than a decade or two is the bayzentine generals problem, though there are many other problems that had to be solved and combined to ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/What-is-the-mathematics-behind-a-blockchain-problem</link>
+            <guid isPermaLink="false">e46e1cee-a962-4123-96d3-43bd0aede270</guid>
+            <pubDate>Sun, 15 May 2016 21:39:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What would you call the blockchain if you were to rename it?]]></title>
+            <description><![CDATA[<article><h1>What would you call the blockchain if you were to rename it?</h1><p>Answer (1 of 3): Cryptographically Authenitic Shared Distributed Ledger</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/What-would-you-call-the-blockchain-if-you-were-to-rename-it</link>
+            <guid isPermaLink="false">39552149-f074-470e-be0f-b5e431225e38</guid>
+            <pubDate>Sun, 15 May 2016 21:39:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Adam Back's clever mechanism to prevent miners from censoring transactions. * /r/Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Adam Back's clever mechanism to prevent miners from censoring transactions. * /r/Bitcoin</h1><p>In addition to the above discussions, I was wowed by many of the clever ways that Adam had in mind for making bitcoin more scalable, flexible,...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
+            <link>https://www.reddit.com/r/Bitcoin/comments/4j7pfj/adam_backs_clever_mechanism_to_prevent_miners/</link>
+            <guid isPermaLink="false">b824edbd-2a7e-44fe-a536-11c9de178f5c</guid>
+            <pubDate>Sun, 15 May 2016 16:17:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Real Value of Using Bitcoin and Crypto Currency]]></title>
+            <description><![CDATA[<article><h1>Real Value of Using Bitcoin and Crypto Currency</h1><p>I created this video with the YouTube Video Editor (http://www.youtube.com/editor)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1996599b99c3dcbcb2b041127039b00f1762a0fe.jpg"></article>]]></description>
+            <link>http://www.youtube.com/watch?v=ydgiHVblkA8</link>
+            <guid isPermaLink="false">a0afb6b1-309d-419a-a0b3-1da4a6f0b659</guid>
+            <pubDate>Sun, 15 May 2016 16:17:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Keiser Report: Bitcoin Core versus Bitcoin Classic (E912)]]></title>
             <description><![CDATA[<article><h1>Keiser Report: Bitcoin Core versus Bitcoin Classic (E912)</h1><p>Every week Max Keiser looks at all the scandal behind the financial news headlines. In this episode of the Keiser Report, Max and Stacy discuss Goldman Sachs managing to deplete the teamsters' pension fund more successfully and rapidly than the mob could ever manage to.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20b9f4e2279e1d5c4420fdf91a8d77d9d5d3815c.jpg"></article>]]></description>
@@ -28,17 +56,17 @@
             <pubDate>Sun, 15 May 2016 16:17:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[LocalBitcoins and Paxful Accessible Again After Potential DDoS Attacks]]></title>
-            <description><![CDATA[<article><h1>LocalBitcoins and Paxful Accessible Again After Potential DDoS Attacks</h1><p>It appears as if hackers are deliberately targeting bitcoin platforms all of a sudden, as both LocalBitcoins and Paxful were inaccessible due to potential DDoS attacks. Although these issues did not take long to sort themselves out, it raises the question as to why would be behind such attacks, and what they hope to gain from it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52820ceb6aaa0211c304d07f60864b388180e973.jpg"></article>]]></description>
-            <link>http://themerkle.com/localbitcoins-and-paxful-accessible-again-after-potential-ddos-attacks/</link>
-            <guid isPermaLink="false">c000392a-c8ec-4d5c-b7af-de72d596ff26</guid>
-            <pubDate>Sun, 15 May 2016 16:17:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Festival Season Puts Consumer Digital Data At Risk]]></title>
             <description><![CDATA[<article><h1>Festival Season Puts Consumer Digital Data At Risk</h1><p>During the Summer season, a lot of people will try to attend various events around the world. But during these times, we stay connected with the world through our portable technology. At the same time, this also poses some serious privacy concerns which users need to be made aware of.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c20d4124775ad7303c50b185dcc5103fe12fcbbd.jpg"></article>]]></description>
             <link>http://themerkle.com/festival-season-puts-consumer-digital-data-at-risk/</link>
             <guid isPermaLink="false">ce1a2ab6-adee-48c1-8546-e821e262a46e</guid>
+            <pubDate>Sun, 15 May 2016 16:17:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LocalBitcoins and Paxful Accessible Again After Potential DDoS Attacks]]></title>
+            <description><![CDATA[<article><h1>LocalBitcoins and Paxful Accessible Again After Potential DDoS Attacks</h1><p>It appears as if hackers are deliberately targeting bitcoin platforms all of a sudden, as both LocalBitcoins and Paxful were inaccessible due to potential DDoS attacks. Although these issues did not take long to sort themselves out, it raises the question as to why would be behind such attacks, and what they hope to gain from it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52820ceb6aaa0211c304d07f60864b388180e973.jpg"></article>]]></description>
+            <link>http://themerkle.com/localbitcoins-and-paxful-accessible-again-after-potential-ddos-attacks/</link>
+            <guid isPermaLink="false">c000392a-c8ec-4d5c-b7af-de72d596ff26</guid>
             <pubDate>Sun, 15 May 2016 16:17:02 GMT</pubDate>
         </item>
         <item>
@@ -47,34 +75,6 @@
             <link>http://www.newsbtc.com/2016/05/15/21-inc-building-the-future-of-bitcoin/</link>
             <guid isPermaLink="false">0a14240b-2f0b-4cea-a5d5-b50fc221b46a</guid>
             <pubDate>Sun, 15 May 2016 16:17:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Weekly Analysis - Can BTC/USD Gain Momentum? - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Weekly Analysis - Can BTC/USD Gain Momentum? - NEWSBTC</h1><p>Bitcoin price traded as high as $464 recently where it found sellers. Moving ahead, as long as the trend line holds, BTC may trade higher once again. Bitcoin price traded as high as $464 recently where it found sellers. Moving ahead, as long as the trend line holds, BTC may trade higher once again.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da6efc6bc3377ccd8066558a434e4c00519c6c00.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/15/bitcoin-price-weekly-analysis-can-btcusd-gain-momentum/</link>
-            <guid isPermaLink="false">3eb6af5f-e473-497e-9ea9-dcee79835e9b</guid>
-            <pubDate>Sun, 15 May 2016 16:17:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gatecoin Issues a Statement on Recent Security Breach - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Gatecoin Issues a Statement on Recent Security Breach - NEWSBTC</h1><p>The CEO of Gatecoin, the recently compromised Hong Kong based security exchange has issued a statement about the on-going investigation. Read more... Gatecoin, the Hong Kong-based digital currency exchange has issued an official statement regarding the recent security breach.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a13ccc061f49ca3bd6437ac3edf44b893aa80ea.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/15/gatecoin-hack-ceo-statement/</link>
-            <guid isPermaLink="false">7579d582-d2f5-4643-bf10-c064b879acc2</guid>
-            <pubDate>Sun, 15 May 2016 16:17:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will the Bitcoin Price Hang Where It Is for a Little While?]]></title>
-            <description><![CDATA[<article><h1>Will the Bitcoin Price Hang Where It Is for a Little While?</h1><p>Since our previous look at the bitcoin price, bitcoin has enjoyed a hike of about two dollars. It's not terrible; after all, any rise in price is something worth celebrating, but at the same time, $2 is nothing to jump and holler about.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8958cd73ef538769f584b237a455adefc62907b3.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/bitcoin-price-hang/</link>
-            <guid isPermaLink="false">a202139f-722f-48b8-bc7b-281bfcb42714</guid>
-            <pubDate>Sun, 15 May 2016 16:17:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Childish Personal Attacks Are Damaging the Bitcoin Industry]]></title>
-            <description><![CDATA[<article><h1>Childish Personal Attacks Are Damaging the Bitcoin Industry</h1><p>Bitcoin developers and entrepreneurs frequently endure public ad hominem attacks from others in the community. It's time thought leaders honored their recently-signed pledge to put a stop to such unprofessional behavior. The Bitcoin industry has always had participants who are passionate about its surrounding issues.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd69be9d8c3d8c11d5e378934927da7e10c895fa.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/childish-attacks-damaging-bitcoin/</link>
-            <guid isPermaLink="false">b339b0dc-5dd4-47b3-a909-b9308d1b1e32</guid>
-            <pubDate>Sun, 15 May 2016 16:17:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
