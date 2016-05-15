@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 21:40:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2016 21:40:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Visa Wants Maximum Revenue Regardless Of Retailer Concerns]]></title>
-            <description><![CDATA[<article><h1>Visa Wants Maximum Revenue Regardless Of Retailer Concerns</h1><p>For the time being, it appears as if Visa prefers the money over their customers, which is not a positive sign for the future. Despite the convenience factor associated with credit and debit card payments, there are a lot of drawbacks as well.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2769d238f30dc296a753be8b410c51dfa956efe9.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/15/visa-wants-maximum-revenue-regardless-retailer-concerns/</link>
-            <guid isPermaLink="false">42e82172-8dd2-4b84-a76a-0c7ed081d044</guid>
-            <pubDate>Sun, 15 May 2016 21:39:22 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin's Transaction Fees Skyrocket as the Bitcoin Halving Looms]]></title>
             <description><![CDATA[<article><h1>Bitcoin's Transaction Fees Skyrocket as the Bitcoin Halving Looms</h1><p>Having almost tripled since last summer, Bitcoin transaction fees continue to grow. According to a new bitcoin fee estimator from Bitmain, almost 20,000 transactions are currently paying more than 35 cents for a next block confirmation. The current average fee is almost 15 cents per average bitcoin transaction size of approximately 500 bytes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c519423cc2a4ddb94b5d2394c414c3956315aa0.jpg"></article>]]></description>
@@ -21,17 +14,17 @@
             <pubDate>Sun, 15 May 2016 21:39:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What Will The Future Hold For Bitcoin Debit Cards?]]></title>
-            <description><![CDATA[<article><h1>What Will The Future Hold For Bitcoin Debit Cards?</h1><p>There are a lot of questions waiting to be answered regarding how businesses and enthusiasts intend to take Bitcoin to the mainstream. Issuing Bitcoin debit cards seem a step in the right direction, although it is doubtful this will be the best - and final - iteration of merging traditional finance with cryptocurrency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ff7e90842fd5c20716516caa507f5445887d950.jpg"></article>]]></description>
-            <link>http://themerkle.com/what-will-the-future-hold-for-bitcoin-debit-cards/</link>
-            <guid isPermaLink="false">81cf51e1-f483-4625-9730-0402e2010e97</guid>
-            <pubDate>Sun, 15 May 2016 21:39:21 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Malaysian Central Bank Focuses on Adapting Fintech Regulation]]></title>
             <description><![CDATA[<article><h1>Malaysian Central Bank Focuses on Adapting Fintech Regulation</h1><p>Malaysia is one of the most recent countries to look at its current regulatory guidelines and come up with changes to take part of the FinTech revolution. Keeping in mind how Bitcoin is a part of FinTech as well, these changes will have a rippling effect on cryptocurrency adoption.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f4a799ee5bd8cc0212df55d534f8204eab32c7e8.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/malaysian-bank-fintech-regulation/</link>
             <guid isPermaLink="false">6a487f17-5b40-4a75-bd62-8453cfbe6994</guid>
+            <pubDate>Sun, 15 May 2016 21:39:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Will The Future Hold For Bitcoin Debit Cards?]]></title>
+            <description><![CDATA[<article><h1>What Will The Future Hold For Bitcoin Debit Cards?</h1><p>There are a lot of questions waiting to be answered regarding how businesses and enthusiasts intend to take Bitcoin to the mainstream. Issuing Bitcoin debit cards seem a step in the right direction, although it is doubtful this will be the best - and final - iteration of merging traditional finance with cryptocurrency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ff7e90842fd5c20716516caa507f5445887d950.jpg"></article>]]></description>
+            <link>http://themerkle.com/what-will-the-future-hold-for-bitcoin-debit-cards/</link>
+            <guid isPermaLink="false">81cf51e1-f483-4625-9730-0402e2010e97</guid>
             <pubDate>Sun, 15 May 2016 21:39:21 GMT</pubDate>
         </item>
         <item>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>What is the mathematics behind a blockchain problem?</h1><p>Answer: There are lots of problems. It depends on which you refer to. The one the allowed the whole system to work, the problem that couldn't be cracked for more than a decade or two is the bayzentine generals problem, though there are many other problems that had to be solved and combined to ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
             <link>https://www.quora.com/What-is-the-mathematics-behind-a-blockchain-problem</link>
             <guid isPermaLink="false">e46e1cee-a962-4123-96d3-43bd0aede270</guid>
+            <pubDate>Sun, 15 May 2016 21:39:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How is it possible to lose Bitcoins if they are traceable?]]></title>
+            <description><![CDATA[<article><h1>How is it possible to lose Bitcoins if they are traceable?</h1><p>Answer (1 of 2): Bitcoins are lost, because the private keys of a bitcoin address is stolen. A bitcoin address is the public key of a public key-private key, key-pair. All wallets have a function to import/export private keys, to enhance security. So, if the corresponding private keys, of a bitco...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/How-is-it-possible-to-lose-Bitcoins-if-they-are-traceable</link>
+            <guid isPermaLink="false">27227fc7-ea60-4e16-8c90-c154bcc681e6</guid>
             <pubDate>Sun, 15 May 2016 21:39:21 GMT</pubDate>
         </item>
     </channel>
