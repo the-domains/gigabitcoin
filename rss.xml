@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 16:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2016 16:19:46 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Adam Back's clever mechanism to prevent miners from censoring transactions. * /r/Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Adam Back's clever mechanism to prevent miners from censoring transactions. * /r/Bitcoin</h1><p>In addition to the above discussions, I was wowed by many of the clever ways that Adam had in mind for making bitcoin more scalable, flexible,...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
-            <link>https://www.reddit.com/r/Bitcoin/comments/4j7pfj/adam_backs_clever_mechanism_to_prevent_miners/</link>
-            <guid isPermaLink="false">b824edbd-2a7e-44fe-a536-11c9de178f5c</guid>
-            <pubDate>Sun, 15 May 2016 16:17:03 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Real Value of Using Bitcoin and Crypto Currency]]></title>
             <description><![CDATA[<article><h1>Real Value of Using Bitcoin and Crypto Currency</h1><p>I created this video with the YouTube Video Editor (http://www.youtube.com/editor)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1996599b99c3dcbcb2b041127039b00f1762a0fe.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Gatecoin Issues a Statement on Recent Security Breach - NEWSBTC</h1><p>The CEO of Gatecoin, the recently compromised Hong Kong based security exchange has issued a statement about the on-going investigation. Read more... Gatecoin, the Hong Kong-based digital currency exchange has issued an official statement regarding the recent security breach.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a13ccc061f49ca3bd6437ac3edf44b893aa80ea.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/05/15/gatecoin-hack-ceo-statement/</link>
             <guid isPermaLink="false">7579d582-d2f5-4643-bf10-c064b879acc2</guid>
+            <pubDate>Sun, 15 May 2016 16:17:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will the Bitcoin Price Hang Where It Is for a Little While?]]></title>
+            <description><![CDATA[<article><h1>Will the Bitcoin Price Hang Where It Is for a Little While?</h1><p>Since our previous look at the bitcoin price, bitcoin has enjoyed a hike of about two dollars. It's not terrible; after all, any rise in price is something worth celebrating, but at the same time, $2 is nothing to jump and holler about.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8958cd73ef538769f584b237a455adefc62907b3.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/bitcoin-price-hang/</link>
+            <guid isPermaLink="false">a202139f-722f-48b8-bc7b-281bfcb42714</guid>
             <pubDate>Sun, 15 May 2016 16:17:02 GMT</pubDate>
         </item>
     </channel>
