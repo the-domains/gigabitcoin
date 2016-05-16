@@ -4,29 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 13:46:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2016 13:45:50 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[How could the blockchain affect democracy?]]></title>
-            <description><![CDATA[<article><h1>How could the blockchain affect democracy?</h1><p>Answer (1 of 2): In terms of democratic elections, Blockchain based voting is the ultimate way to prove the following: 1.) As a citizen, to check that your ballot was officially counted 2.) Prevent lost ballots, and ensure a permanent way to review results of past elections. Also, it's a great...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/How-could-the-blockchain-affect-democracy</link>
-            <guid isPermaLink="false">05505f1c-593c-44d1-b782-ffbbca8c0ce8</guid>
-            <pubDate>Mon, 16 May 2016 13:41:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is there any open source solution for blockchain?]]></title>
-            <description><![CDATA[<article><h1>Is there any open source solution for blockchain?</h1><p>Answer (1 of 3): Yes, every blockchain solution is open source. Thats the entire purpose of the technology - to be open, easily accessible, auditable, and have the security/code reviewed by anyone. If however by blockchain you meant private block chains, then I'm not sure. I do know that mijin i...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/Is-there-any-open-source-solution-for-blockchain</link>
-            <guid isPermaLink="false">a1930e08-9872-41ad-bdd5-d23330761d9f</guid>
-            <pubDate>Mon, 16 May 2016 13:41:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is there any books for dummies to learn about blockchain and ethereum?]]></title>
-            <description><![CDATA[<article><h1>Is there any books for dummies to learn about blockchain and ethereum?</h1><p>Answer: I would suggest The Business Blockchain. The book gives a thorough overview of blockchain, the technologies influenced by blockchain, and describes it as a disruptive technology like the internet in the 90′s. Though the book does not detail "ethereum", it gives source to reader where to f...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/Is-there-any-books-for-dummies-to-learn-about-blockchain-and-ethereum</link>
-            <guid isPermaLink="false">e2f51736-2d85-4389-bd3c-171457d2e92a</guid>
-            <pubDate>Mon, 16 May 2016 13:41:22 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Where do I go if I want to create a new blockchain?]]></title>
             <description><![CDATA[<article><h1>Where do I go if I want to create a new blockchain?</h1><p>Answer (1 of 3): In short: * Yes, you can "create" a new instance of Blockchain on your PC. * No, I guess most blockchains can be developed also on Linux/Windows machines. * That depends on what you want to do. If you just want to run a clone of existing blockchain like Bitcoin - you would o...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
@@ -74,6 +53,27 @@
             <description><![CDATA[<article><h1>Centralized Monetary Systems Need To Be Replaced</h1><p>There has been a lot of discussion as to why the banking ecosystem needs to change, rather than to stick to its centralised model. Then again, there are so many negative aspects associated with the money we use today; it becomes only more obvious centralised systems are on their way out.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c609cc799f4883812fb8907c6cb5ba5839d52f7.jpg"></article>]]></description>
             <link>http://themerkle.com/centralized-monetary-systems-need-to-be-replaced/</link>
             <guid isPermaLink="false">06f54d80-4b7a-4f52-94e5-72c83e130446</guid>
+            <pubDate>Mon, 16 May 2016 13:41:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Creating New Technology Standards For Bitcoin Core Development]]></title>
+            <description><![CDATA[<article><h1>Creating New Technology Standards For Bitcoin Core Development</h1><p>Throughout the years, several changes have been made to the Bitcoin Core code, allowing for new features, improved security, and ultimately, bigger network blocks. But it seems as if the developers want to revamp their code changes in the future, to engage more people in the future and development of Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1af338fb590f1c2612238a85ee9226cce78194d.jpg"></article>]]></description>
+            <link>http://themerkle.com/creating-new-technology-standards-for-bitcoin-core-development/</link>
+            <guid isPermaLink="false">5c72c04b-4649-4819-a2c6-5970b04204ac</guid>
+            <pubDate>Mon, 16 May 2016 13:41:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Making a Server?]]></title>
+            <description><![CDATA[<article><h1>Making a Server?</h1><p>Can anyone give me some advice? I'm looking to learn how to make an independent market for selling and buying CS:GO skins for BTC. I'm using Django and I want all BTC to be stored and processed w...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/44133/making-a-server</link>
+            <guid isPermaLink="false">70f3a735-0cc2-40fa-b49a-875c1433cb02</guid>
+            <pubDate>Mon, 16 May 2016 13:41:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Exchange Gatecoin Hacked; 250 BTC & 185,000 ETH Lost]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Exchange Gatecoin Hacked; 250 BTC & 185,000 ETH Lost</h1><p>Gatecoin, a Hong Kong-based digital currency startup that has cited segregated client accounts as a way to minimize exposure to risks, suffered a breach and lost 250 BTC and 185,000 ETH, 15% of its crypto asset deposits. A cybersecurity firm, Tehtri Security, conducted a forensic investigation and confirmed the breach, Gatecoin announced in a statement by CEO Aurélien Menant posted on its website.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67330478c262b7414b0c66fe4ef2523f375c43c7.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-exchange-gatecoin-hacked-250-btc-185000-eth-lost/</link>
+            <guid isPermaLink="false">1b5d1ef8-a7eb-454e-a09a-ec92e8b4f22a</guid>
             <pubDate>Mon, 16 May 2016 13:41:21 GMT</pubDate>
         </item>
     </channel>
