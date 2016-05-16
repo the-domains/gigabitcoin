@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 13:44:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2016 13:45:06 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Centralized Monetary Systems Need To Be Replaced]]></title>
+            <description><![CDATA[<article><h1>Centralized Monetary Systems Need To Be Replaced</h1><p>There has been a lot of discussion as to why the banking ecosystem needs to change, rather than to stick to its centralised model. Then again, there are so many negative aspects associated with the money we use today; it becomes only more obvious centralised systems are on their way out.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c609cc799f4883812fb8907c6cb5ba5839d52f7.jpg"></article>]]></description>
+            <link>http://themerkle.com/centralized-monetary-systems-need-to-be-replaced/</link>
+            <guid isPermaLink="false">06f54d80-4b7a-4f52-94e5-72c83e130446</guid>
+            <pubDate>Mon, 16 May 2016 13:41:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Creating New Technology Standards For Bitcoin Core Development]]></title>
+            <description><![CDATA[<article><h1>Creating New Technology Standards For Bitcoin Core Development</h1><p>Throughout the years, several changes have been made to the Bitcoin Core code, allowing for new features, improved security, and ultimately, bigger network blocks. But it seems as if the developers want to revamp their code changes in the future, to engage more people in the future and development of Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1af338fb590f1c2612238a85ee9226cce78194d.jpg"></article>]]></description>
+            <link>http://themerkle.com/creating-new-technology-standards-for-bitcoin-core-development/</link>
+            <guid isPermaLink="false">5c72c04b-4649-4819-a2c6-5970b04204ac</guid>
+            <pubDate>Mon, 16 May 2016 13:41:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Making a Server?]]></title>
             <description><![CDATA[<article><h1>Making a Server?</h1><p>Can anyone give me some advice? I'm looking to learn how to make an independent market for selling and buying CS:GO skins for BTC. I'm using Django and I want all BTC to be stored and processed w...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Is it worth it to start a bitcoin faucet?</h1><p>Answer (1 of 3): I would say that faucets are still popular with many people, but they're popular in areas where US pennies are worth something. I would say that your largest hurdles will be scammers running bots to drain your faucet and ad blockers. Most faucets run on ad revenue and ad blockers...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
             <link>https://www.quora.com/Is-it-worth-it-to-start-a-bitcoin-faucet</link>
             <guid isPermaLink="false">8d8b5668-b907-41b0-a385-3a816884f0e6</guid>
-            <pubDate>Mon, 16 May 2016 13:41:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is bitcoin mining waste of time and money?]]></title>
-            <description><![CDATA[<article><h1>Is bitcoin mining waste of time and money?</h1><p>Answer (1 of 2): Answering from a different perspective than Greg Matthews mining results in the miner receiving payment for a service. Protecting the bitcoin system from false spending of coins is essential to its working acceptably. While the total expenditure world wide could be considered exc...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/Is-bitcoin-mining-waste-of-time-and-money</link>
-            <guid isPermaLink="false">7ce647df-e355-4927-a67e-61e540ac7099</guid>
-            <pubDate>Mon, 16 May 2016 13:41:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What are the possible intersections between bitcoin and artificial intelligence?]]></title>
-            <description><![CDATA[<article><h1>What are the possible intersections between bitcoin and artificial intelligence?</h1><p>Answer: Balaji Srinivasan of 21 posted some great insights on this topic in 2014 in a tweet storm. I have compiled them together for readability: "A big part of AI is game theory (eg IBM chess). A big part of game theory is incentives. Bitcoin allows algorithms to act on incentives.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/What-are-the-possible-intersections-between-bitcoin-and-artificial-intelligence</link>
-            <guid isPermaLink="false">dcfb097a-330b-462d-9892-9654b9aeafd5</guid>
             <pubDate>Mon, 16 May 2016 13:41:20 GMT</pubDate>
         </item>
     </channel>
