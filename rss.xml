@@ -4,8 +4,36 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 13:45:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2016 13:46:07 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is there any open source solution for blockchain?]]></title>
+            <description><![CDATA[<article><h1>Is there any open source solution for blockchain?</h1><p>Answer (1 of 3): Yes, every blockchain solution is open source. Thats the entire purpose of the technology - to be open, easily accessible, auditable, and have the security/code reviewed by anyone. If however by blockchain you meant private block chains, then I'm not sure. I do know that mijin i...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/Is-there-any-open-source-solution-for-blockchain</link>
+            <guid isPermaLink="false">a1930e08-9872-41ad-bdd5-d23330761d9f</guid>
+            <pubDate>Mon, 16 May 2016 13:41:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is there any books for dummies to learn about blockchain and ethereum?]]></title>
+            <description><![CDATA[<article><h1>Is there any books for dummies to learn about blockchain and ethereum?</h1><p>Answer: I would suggest The Business Blockchain. The book gives a thorough overview of blockchain, the technologies influenced by blockchain, and describes it as a disruptive technology like the internet in the 90′s. Though the book does not detail "ethereum", it gives source to reader where to f...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/Is-there-any-books-for-dummies-to-learn-about-blockchain-and-ethereum</link>
+            <guid isPermaLink="false">e2f51736-2d85-4389-bd3c-171457d2e92a</guid>
+            <pubDate>Mon, 16 May 2016 13:41:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Where do I go if I want to create a new blockchain?]]></title>
+            <description><![CDATA[<article><h1>Where do I go if I want to create a new blockchain?</h1><p>Answer (1 of 3): In short: * Yes, you can "create" a new instance of Blockchain on your PC. * No, I guess most blockchains can be developed also on Linux/Windows machines. * That depends on what you want to do. If you just want to run a clone of existing blockchain like Bitcoin - you would o...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/Where-do-I-go-if-I-want-to-create-a-new-blockchain</link>
+            <guid isPermaLink="false">32cad4c5-74f0-44cf-badf-1f80d6342147</guid>
+            <pubDate>Mon, 16 May 2016 13:41:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the implications of blockchain technology in payment processing industry?]]></title>
+            <description><![CDATA[<article><h1>What are the implications of blockchain technology in payment processing industry?</h1><p>Answer: As Visa Europe was quoted saying: The Blockchain is 'No Longer a Choice': Article: Visa Europe: The Blockchain is 'No Longer a Choice' Visa is already piloting using Bitcoin for internal remittances and settling of funds, which shows us that the transition to Bitcoin/Blockchain is alre...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/What-are-the-implications-of-blockchain-technology-in-payment-processing-industry</link>
+            <guid isPermaLink="false">1a03feb8-276d-4478-b330-f10a3f2f47a9</guid>
+            <pubDate>Mon, 16 May 2016 13:41:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How has gambling become more fair with blockchain?]]></title>
             <description><![CDATA[<article><h1>How has gambling become more fair with blockchain?</h1><p>Answer (1 of 2): I agree with John - blockchain hasn't yet made gambling fair. However, there is potential to make it fair. The way that happens is by putting a software middleman in place. Let us imagine a gamble on the outcome of a soccer match for $100.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
@@ -46,34 +74,6 @@
             <description><![CDATA[<article><h1>Creating New Technology Standards For Bitcoin Core Development</h1><p>Throughout the years, several changes have been made to the Bitcoin Core code, allowing for new features, improved security, and ultimately, bigger network blocks. But it seems as if the developers want to revamp their code changes in the future, to engage more people in the future and development of Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1af338fb590f1c2612238a85ee9226cce78194d.jpg"></article>]]></description>
             <link>http://themerkle.com/creating-new-technology-standards-for-bitcoin-core-development/</link>
             <guid isPermaLink="false">5c72c04b-4649-4819-a2c6-5970b04204ac</guid>
-            <pubDate>Mon, 16 May 2016 13:41:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Making a Server?]]></title>
-            <description><![CDATA[<article><h1>Making a Server?</h1><p>Can anyone give me some advice? I'm looking to learn how to make an independent market for selling and buying CS:GO skins for BTC. I'm using Django and I want all BTC to be stored and processed w...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/44133/making-a-server</link>
-            <guid isPermaLink="false">70f3a735-0cc2-40fa-b49a-875c1433cb02</guid>
-            <pubDate>Mon, 16 May 2016 13:41:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Exchange Gatecoin Hacked; 250 BTC & 185,000 ETH Lost]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Exchange Gatecoin Hacked; 250 BTC & 185,000 ETH Lost</h1><p>Gatecoin, a Hong Kong-based digital currency startup that has cited segregated client accounts as a way to minimize exposure to risks, suffered a breach and lost 250 BTC and 185,000 ETH, 15% of its crypto asset deposits. A cybersecurity firm, Tehtri Security, conducted a forensic investigation and confirmed the breach, Gatecoin announced in a statement by CEO Aurélien Menant posted on its website.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67330478c262b7414b0c66fe4ef2523f375c43c7.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-exchange-gatecoin-hacked-250-btc-185000-eth-lost/</link>
-            <guid isPermaLink="false">1b5d1ef8-a7eb-454e-a09a-ec92e8b4f22a</guid>
-            <pubDate>Mon, 16 May 2016 13:41:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is the best book about bitcoin?]]></title>
-            <description><![CDATA[<article><h1>What is the best book about bitcoin?</h1><p>Answer (1 of 2): The best book is hard to answer because bitcoin is so so dynamic. The surface has not be discovered therefore only a few scratches have been made or attempted. I suggest (from a close friend and Expertpreneur) Read Satoshi's White Paper. This is the whole concept of it's Creator...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/What-is-the-best-book-about-bitcoin</link>
-            <guid isPermaLink="false">b41ada50-8770-448c-b665-d1ea398f788e</guid>
-            <pubDate>Mon, 16 May 2016 13:41:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can blockchain technology reduce bureaucracy? How?]]></title>
-            <description><![CDATA[<article><h1>Can blockchain technology reduce bureaucracy? How?</h1><p>Answer (1 of 2): Blockchain technology is really good at one thing: reliable reconciliation. So if I say I sent you $10 but you say you didn't receive it, we don't have to have a battle of opinions and just refer to What the Blockchain Says. Bureaucracy technically refers to a government where d...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/Can-blockchain-technology-reduce-bureaucracy-How</link>
-            <guid isPermaLink="false">6365319d-d405-41f2-8b6f-c95eb97723f9</guid>
             <pubDate>Mon, 16 May 2016 13:41:21 GMT</pubDate>
         </item>
     </channel>
