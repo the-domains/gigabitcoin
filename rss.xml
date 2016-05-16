@@ -7,6 +7,13 @@
         <lastBuildDate>Mon, 16 May 2016 13:41:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Can I run a webserver in Ethereum?]]></title>
+            <description><![CDATA[<article><h1>Can I run a webserver in Ethereum?</h1><p>Answer: No, Ethereum is run on a decentralized network of nodes. A web server is a single, centralized node*. Even if you could build something like a web server n Ethereum, you wouldn't want to, as it defeats the purpose of a decentralized, trustless network. In a traditional web server, you ha...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/Can-I-run-a-webserver-in-Ethereum</link>
+            <guid isPermaLink="false">865255ec-b2e2-4b39-90dd-baaa3731aefe</guid>
+            <pubDate>Mon, 16 May 2016 13:41:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How many apps are currently running on ethereum?]]></title>
             <description><![CDATA[<article><h1>How many apps are currently running on ethereum?</h1><p>The usual term is self-ownership. It is important to realize that this is a different kind of beast than with other forms of property, since the person "owning" and the person "owned" are the same and this self-referential character is unique, and this character does not completely extrapolate from consideration of other forms of property.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
             <link>https://www.quora.com/unanswered/How-many-apps-are-currently-running-on-ethereum</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Are bitcoin faucets profitable or just a waste of time?</h1><p>Answer (1 of 4): Profitable? You get bitcoin for little to no work. So yes I would consider them profitable. Depends on how much your time is worth. That's relative. It's much more profitable for the owner of the faucet. So I'd argue it's better to create a faucet then use them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
             <link>https://www.quora.com/Are-bitcoin-faucets-profitable-or-just-a-waste-of-time</link>
             <guid isPermaLink="false">8d8a048a-4e0f-4be2-82e4-149c25fe03bf</guid>
-            <pubDate>Mon, 16 May 2016 03:33:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What are the risks and benefits of being paid in bitcoins?]]></title>
-            <description><![CDATA[<article><h1>What are the risks and benefits of being paid in bitcoins?</h1><p>Answer (1 of 4): Risks: You are personally responsible for the security of the Bitcoin. I recommend cold wallets You are prone to fluctuations in price. Benefits: You may use that bitcoin to invest in other Bitcoin services, such as BTCJam, BTCPOP, BitBond, etc. You are embracing the future,...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/What-are-the-risks-and-benefits-of-being-paid-in-bitcoins</link>
-            <guid isPermaLink="false">abaaf87f-93e2-4d27-812a-9467bd4c3223</guid>
             <pubDate>Mon, 16 May 2016 03:33:30 GMT</pubDate>
         </item>
     </channel>
