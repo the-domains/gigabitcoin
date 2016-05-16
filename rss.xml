@@ -4,8 +4,36 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 03:34:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2016 03:34:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why most bitcoin mining farms are hidden or not publicly shown?]]></title>
+            <description><![CDATA[<article><h1>Why most bitcoin mining farms are hidden or not publicly shown?</h1><p>Answer (1 of 3): From my experience, most legitimate cloud mining operations would be more than happy to share photos of their "mines". Cloud mining and bitcoin mining are some of the most googled phrases around Bitcoin. This is due to the hype around them. It is getting more difficult to trust ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/Why-most-bitcoin-mining-farms-are-hidden-or-not-publicly-shown</link>
+            <guid isPermaLink="false">c7bdd16d-d87f-47c7-ab7c-d4a283fd3d2c</guid>
+            <pubDate>Mon, 16 May 2016 03:33:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I want to instantly buy bitcoin in the next 10 minutes, where is the best place to do that on the internet?]]></title>
+            <description><![CDATA[<article><h1>I want to instantly buy bitcoin in the next 10 minutes, where is the best place to do that on the internet?</h1><p>Answer (1 of 4): Probably the website Bitcoin Ranger. It has developed a solid reputation for being the "convenience store of bitcoin". It's also one of the few places where you can buy bitcoin with Paypal. Because buying bitcoins with Paypal or credit card should be easy! ~~</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/I-want-to-instantly-buy-bitcoin-in-the-next-10-minutes-where-is-the-best-place-to-do-that-on-the-internet</link>
+            <guid isPermaLink="false">680a90d2-3029-42c4-b0b7-de090ceb88b5</guid>
+            <pubDate>Mon, 16 May 2016 03:33:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What sort of math problems are involved in mining bitcoin?]]></title>
+            <description><![CDATA[<article><h1>What sort of math problems are involved in mining bitcoin?</h1><p>Answer (1 of 3): Bitcoin mining is guessing, over and over, a value that gets added to the header of the block you are trying to mine. Each time, once you fill in your guess, the header is put through the SHA-256 hash function twice.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/What-sort-of-math-problems-are-involved-in-mining-bitcoin</link>
+            <guid isPermaLink="false">b664f814-fb0f-49e4-87eb-956bc7d907da</guid>
+            <pubDate>Mon, 16 May 2016 03:33:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I'm becoming convinced that "the real innovation isn't bitcoin, it's the blockchain" is total nonsense.</p>]]></description>
+            <link>https://twitter.com/binarybits/status/731531380031692804</link>
+            <guid isPermaLink="false">c6a9ef23-b638-405a-8cbf-26bf37f7b3f6</guid>
+            <pubDate>Mon, 16 May 2016 03:33:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Can java be used for high frequency trading?]]></title>
             <description><![CDATA[<article><h1>Can java be used for high frequency trading?</h1><p>Answer: In US liquid markets, "high frequency trading" strategies are usually implemented in C/C++, if not at FPGAs / RDMA adapters, which would shut a Java-based HFT implementation out of the market. However, your strategy is effectively "high frequency" if your code is faster than mostly every...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
@@ -47,34 +75,6 @@
             <link>http://themerkle.com/future-generations-of-cyber-security-experts-need-to-think-like-a-hacker/</link>
             <guid isPermaLink="false">0ec70136-434f-404c-a9c6-c4dba56998c9</guid>
             <pubDate>Sun, 15 May 2016 21:39:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Visa Wants Maximum Revenue Regardless Of Retailer Concerns]]></title>
-            <description><![CDATA[<article><h1>Visa Wants Maximum Revenue Regardless Of Retailer Concerns</h1><p>For the time being, it appears as if Visa prefers the money over their customers, which is not a positive sign for the future. Despite the convenience factor associated with credit and debit card payments, there are a lot of drawbacks as well.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2769d238f30dc296a753be8b410c51dfa956efe9.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/15/visa-wants-maximum-revenue-regardless-retailer-concerns/</link>
-            <guid isPermaLink="false">42e82172-8dd2-4b84-a76a-0c7ed081d044</guid>
-            <pubDate>Sun, 15 May 2016 21:39:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin's Transaction Fees Skyrocket as the Bitcoin Halving Looms]]></title>
-            <description><![CDATA[<article><h1>Bitcoin's Transaction Fees Skyrocket as the Bitcoin Halving Looms</h1><p>Having almost tripled since last summer, Bitcoin transaction fees continue to grow. According to a new bitcoin fee estimator from Bitmain, almost 20,000 transactions are currently paying more than 35 cents for a next block confirmation. The current average fee is almost 15 cents per average bitcoin transaction size of approximately 500 bytes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c519423cc2a4ddb94b5d2394c414c3956315aa0.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/bitcoins-transaction-fees-skyrocket-as-the-bitcoin-halving-looms</link>
-            <guid isPermaLink="false">27698c5c-438e-48bb-b963-05bbb5acb4eb</guid>
-            <pubDate>Sun, 15 May 2016 21:39:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Malaysian Central Bank Focuses on Adapting Fintech Regulation]]></title>
-            <description><![CDATA[<article><h1>Malaysian Central Bank Focuses on Adapting Fintech Regulation</h1><p>Malaysia is one of the most recent countries to look at its current regulatory guidelines and come up with changes to take part of the FinTech revolution. Keeping in mind how Bitcoin is a part of FinTech as well, these changes will have a rippling effect on cryptocurrency adoption.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f4a799ee5bd8cc0212df55d534f8204eab32c7e8.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/malaysian-bank-fintech-regulation/</link>
-            <guid isPermaLink="false">6a487f17-5b40-4a75-bd62-8453cfbe6994</guid>
-            <pubDate>Sun, 15 May 2016 21:39:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Will The Future Hold For Bitcoin Debit Cards?]]></title>
-            <description><![CDATA[<article><h1>What Will The Future Hold For Bitcoin Debit Cards?</h1><p>There are a lot of questions waiting to be answered regarding how businesses and enthusiasts intend to take Bitcoin to the mainstream. Issuing Bitcoin debit cards seem a step in the right direction, although it is doubtful this will be the best - and final - iteration of merging traditional finance with cryptocurrency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ff7e90842fd5c20716516caa507f5445887d950.jpg"></article>]]></description>
-            <link>http://themerkle.com/what-will-the-future-hold-for-bitcoin-debit-cards/</link>
-            <guid isPermaLink="false">81cf51e1-f483-4625-9730-0402e2010e97</guid>
-            <pubDate>Sun, 15 May 2016 21:39:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
