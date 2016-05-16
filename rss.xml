@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 13:45:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2016 13:45:11 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[What is your opinion about Bitcoin and blockchain technology?]]></title>
-            <description><![CDATA[<article><h1>What is your opinion about Bitcoin and blockchain technology?</h1><p>Answer: In many ways, that is two questions. Bitcoin is a payment system. Blockchain is a software technique for managing virtual ledgers that is implemented through the use of multiple computers. Bitcoin uses the blockchain as the foundation of how it works. Bitcoin may or may not be around ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/What-is-your-opinion-about-Bitcoin-and-blockchain-technology</link>
-            <guid isPermaLink="false">eb6d1cec-e064-437b-867c-5b542d7102b5</guid>
-            <pubDate>Mon, 16 May 2016 13:41:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum Price Analysis - Further Appreciation or Depreciation?]]></title>
-            <description><![CDATA[<article><h1>Ethereum Price Analysis - Further Appreciation or Depreciation?</h1><p>Ethereum price moved below the 100 SMA, but stayed above a support trend line. Can it recover or break the support to move down? Ethereum price moved below the 100 SMA, but stayed above a support trend line. Can it recover or break the support to move down?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5acfc5cdd48bcae29c2d7183737889cc107fe60f.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/16/ethereum-price-technical-analysis-appreciation-depreciation/</link>
-            <guid isPermaLink="false">08a97583-4aa1-4d51-a7a0-126949a60cb5</guid>
-            <pubDate>Mon, 16 May 2016 13:41:22 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[The Crypto Show on the Arcade City experiment and yes it's working.]]></title>
             <description><![CDATA[<article><h1>The Crypto Show on the Arcade City experiment and yes it's working.</h1><p>We focus the whole show on the arrival of Arcade City to Austin. Whether the App works or not on the Ethereum platform is irrelevant because the guerrilla marketing taking place on the interim Facebook page is amazing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8df9052cc74dcbde105b6d39c1d0473ec0f1e020.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>https://www.quora.com/Does-Coinbase-represent-a-failure-of-Bitcoin-idea</link>
             <guid isPermaLink="false">2e007657-81f2-426f-b7d4-03143eda8490</guid>
             <pubDate>Mon, 16 May 2016 13:41:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is bitcoin good or best for?]]></title>
+            <description><![CDATA[<article><h1>What is bitcoin good or best for?</h1><p>Answer (1 of 2): Bitcoin was invented to create something that had never before existed on earth; a digital gold equivalent. However, contrary to popular myth, it is certainly not untraceable. Actually quite the opposite. Every bitcoin transaction is traced and recorded publicly on the blockchai...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/What-is-bitcoin-good-or-best-for</link>
+            <guid isPermaLink="false">f434859e-e673-4002-9ee0-9e7f51ecb540</guid>
+            <pubDate>Mon, 16 May 2016 13:41:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Are there any alternatives to Bitcoin that might be a good investment opportunity?]]></title>
+            <description><![CDATA[<article><h1>Are there any alternatives to Bitcoin that might be a good investment opportunity?</h1><p>Answer (1 of 2): I'm currently involved with a tiny 3-year-old cryptocurrency called GoldCoin (GLD). We have assembled a dedicated and professional team and are currently working to add a precious metals component to the currency. The price is currently near record low levels while the community...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/Are-there-any-alternatives-to-Bitcoin-that-might-be-a-good-investment-opportunity</link>
+            <guid isPermaLink="false">b03917a7-2413-43fd-b024-0620f0e2ddcc</guid>
+            <pubDate>Mon, 16 May 2016 13:41:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
