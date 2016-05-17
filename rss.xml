@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 13:51:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 13:51:03 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[EB131 - Stefan Thomas & Evan Schwartz: Building The Internet Of Payments With Interledger]]></title>
-            <description><![CDATA[<article><h1>EB131 - Stefan Thomas & Evan Schwartz: Building The Internet Of Payments With Interledger</h1><p>One of the foundational problems in payment networks is that they are mostly uninteroperable. This problem exists at all levels, from consumer payment solutions like PayPal, to national and multi-national banks. This complexity is brought on by the proprietary nature of payment networks, and moving value from one to another requires a negotiation between parties on which common payment network to use in a transaction.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc71040b69401ba0a8ef2ddc6f35978cedb855d6.jpg"></article>]]></description>
-            <link>https://letstalkbitcoin.com/blog/post/epicenter-bitcoin-131-stefan-thomas-and-evan-schwartz-building-the-internet-of-payments-with-interledger</link>
-            <guid isPermaLink="false">e40a9033-f512-4dfe-9ba9-c824d5ed030d</guid>
-            <pubDate>Tue, 17 May 2016 13:47:07 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin-ransoming Romney tax 'hacker' faces 25 years inside]]></title>
             <description><![CDATA[<article><h1>Bitcoin-ransoming Romney tax 'hacker' faces 25 years inside</h1><p>A self-confessed hacker who sought a million-dollar Bitcoin payment in exchange for then-US Presidential candidate Mitt Romney's tax records has been found guilty of extortion and fraud. In August 2012 Michael Mancil Brown, 37, sent a letter to one of Romney's accountants, PricewaterhouseCoopers (PwC), claiming to have hacked the company's servers and obtained the tax records of Romney and his wife Ann.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d59490fad0f1166bbc3dbebaeb73b54fd0bf4113.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>What is your view on cryptocurrencies and other blockchain tech like Ethereum?</h1><p>Answer (1 of 2): Large corporations and big banks are beginning to understand the power of public blockchains. A public blockchain is a decentralized public ledger that powers itself by incentivizing miners to maintain the network. There is a new trend developing whereby businesses form relation...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
             <link>https://www.quora.com/What-is-your-view-on-cryptocurrencies-and-other-blockchain-tech-like-Ethereum</link>
             <guid isPermaLink="false">a33830ce-289e-4c4d-85af-5a68bc3940d8</guid>
+            <pubDate>Tue, 17 May 2016 13:47:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin on Wheels: How We Took Part in European Bitcoin Tour]]></title>
+            <description><![CDATA[<article><h1>Bitcoin on Wheels: How We Took Part in European Bitcoin Tour</h1><p>Strictly speaking, we just provided our moral and financial support to it. The members of the expedition, held this year from February 26 to March 8, were journalists of the "Govorit i Pokazyvaet" production studio and BitNovosti web-site, who paid all their travel expenses only with cryptocurrency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f78d7f0e5c0a2c775d9270186b77b5e79a7f90fc.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/bitcoin-on-wheels-how-we-took-part-in-european-bitcoin-tour</link>
+            <guid isPermaLink="false">fa4943e9-def6-421e-9463-87496c11bf85</guid>
             <pubDate>Tue, 17 May 2016 13:47:06 GMT</pubDate>
         </item>
     </channel>
