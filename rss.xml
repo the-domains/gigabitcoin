@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 13:49:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 13:49:19 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Back to Breakout - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Back to Breakout - NEWSBTC</h1><p>Last night, we set up a little bit differently for the second of our twice daily analyses. Rather than outline standard support and resistance, we looked at an upward sloping triangle that offered us the opportunity to get into the markets on a scalp trade position, and use that to draw a sharp, decent downside profit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7b9772ea91c2f53b43033472f76ec444d8b8634.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/17/bitcoin-price-watch-back-breakout-2/</link>
-            <guid isPermaLink="false">ddd023c9-bb93-4bb6-b29c-ee8be8b0a7f3</guid>
-            <pubDate>Tue, 17 May 2016 13:47:05 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[What's the difference between synced_blocks and synced_headers?]]></title>
             <description><![CDATA[<article><h1>What's the difference between synced_blocks and synced_headers?</h1><p>My P2P is a bit rusty, but as far as I understand; if we're running a full node, other nodes will connect to us to share blocks. So I can see why it would be useful to be able to see how far behind...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://news.bitcoin.com/refusing-decrypt-hard-drives-jail/</link>
             <guid isPermaLink="false">8ce4c78d-53a1-4f98-8b31-17f8f15db3c9</guid>
             <pubDate>Tue, 17 May 2016 13:47:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The European Committee of Economic and Monetary Affairs recommends regulatory approach to digital currencies]]></title>
+            <description><![CDATA[<article><h1>The European Committee of Economic and Monetary Affairs recommends regulatory approach to digital currencies</h1><p>During the last couple of months, government organisations and financial institutions have been in the process of developing regulatory framework for digital currencies and the blockchain technology. According to recent reports, it seems like the European Parliament's Committee on Economic and Monetary Affairs, also known as ECON, is in the process of closely examining the technology while also listing its opportunities and risks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6eb5f023d341e9efd8208f3f12c459d25e937c00.jpg"></article>]]></description>
+            <link>http://themerkle.com/the-european-committee-of-economic-and-monetary-affairs-recommends-regulatory-approach-to-digital-currencies/</link>
+            <guid isPermaLink="false">91c918ed-bff0-4ce5-a569-375b7aa305a2</guid>
+            <pubDate>Tue, 17 May 2016 13:47:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
