@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 13:50:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 13:50:32 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Why is the change address for a transaction the same as the originator address?]]></title>
-            <description><![CDATA[<article><h1>Why is the change address for a transaction the same as the originator address?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Many wallets let you control where to send the change.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/44054/why-is-the-change-address-for-a-transaction-the-same-as-the-originator-address</link>
-            <guid isPermaLink="false">b982921c-59f0-4e8d-a1f4-0e9b8455c551</guid>
-            <pubDate>Tue, 17 May 2016 13:47:07 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[For lightning network, can I surround myself with a bunch of nodes to increase anonymity]]></title>
             <description><![CDATA[<article><h1>For lightning network, can I surround myself with a bunch of nodes to increase anonymity</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Let's say I'm on a lightning network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>BitHope Foundation Partners With Counterparty For HOPECOIN Token</h1><p>The BitHope Foundation has partnered with Counterparty, which means the charitable organisation has created their token. HOPECOIN, as this token is called, will be sent to anyone who makes a donation through the IndieSquare button.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1058d035d3e54a750f4daa524b115c51a2bee69c.png"></article>]]></description>
             <link>http://bitcoinist.net/bithope-foundation-partners-with-counterparty-for-hopecoin-token/</link>
             <guid isPermaLink="false">ee0b5e15-d860-42dd-b208-6dcbf9a54b0b</guid>
+            <pubDate>Tue, 17 May 2016 13:47:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CEX.io Surpasses US$40m in Payment Card Deposits]]></title>
+            <description><![CDATA[<article><h1>CEX.io Surpasses US$40m in Payment Card Deposits</h1><p>CEX.io remains one of the world's best-known Bitcoin exchanges, and they have surpassed the US$40m mark in deposits through Visa and MasterCard. This is quite a significant milestone for the company, as it goes to show consumers want to use convenient payment methods to buy Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/736570573262b2f225e942acc5dba5b5b19f6bb4.jpg"></article>]]></description>
+            <link>http://themerkle.com/cex-io-surpasses-us40m-in-payment-card-deposits/</link>
+            <guid isPermaLink="false">bda4f461-f688-4b6d-bf8a-e7b8591062eb</guid>
             <pubDate>Tue, 17 May 2016 13:47:06 GMT</pubDate>
         </item>
     </channel>
