@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 13:56:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 14:35:32 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kaspersky Labs Outsmarts CryptXXX Bitcoin Ransomware Developers Again]]></title>
+            <description><![CDATA[<article><h1>Kaspersky Labs Outsmarts CryptXXX Bitcoin Ransomware Developers Again</h1><p>CryptXXX Ransomware has been on the Kaspersky radar for quite some time now, as they are doing everything they can to let victims restore file access without paying the Bitcoin fee. A similar attempt had been made earlier this year, but the CryptXXX creators quickly patched the flaw allowing for this scenario to take place.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20c8088feaa56134de3ba47ac41665c72234a2d2.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/kaspersky-labs-outsmarts-cryptxxx-bitcoin-ransomware-developers-again/</link>
+            <guid isPermaLink="false">b72aa862-a98e-4341-b85c-a771d325cdee</guid>
+            <pubDate>Tue, 17 May 2016 14:34:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Onename Parent Company Is Now Known As Blockstack Labs]]></title>
             <description><![CDATA[<article><h1>Onename Parent Company Is Now Known As Blockstack Labs</h1><p>Bitcoin and blockchain enthusiasts may recall an application called Onename, which was built on top of the identity- and storage-providing blockchain platform called Blockstack. In an announcement earlier today, the company announced they will be changing their name to Blockstack Labs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b53e11fdd5fdeb1accc6b74ca9ef330c8d6e09b5.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Identity Startup Netki to Launch SSL Certificate for Blockchain - CoinDesk</h1><p>With websites operating under the constant threat of attacks, users have long been accustomed to looking for a little green lock in web browsers, signaling an SSL certificate, to ensure that the site is secure when transferring sensitive data. Today, SSL is used for transmitting private information over the Internet, and it has long been a significant driver of e-commerce.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/847b427a80a2b70ca47c279d474e29beaf58b462.jpg"></article>]]></description>
             <link>http://www.coindesk.com/blockchain-identity-company-netki-launch-ssl-certificate-blockchain/</link>
             <guid isPermaLink="false">b78e5d52-adef-4516-b278-ff83bb1b042e</guid>
-            <pubDate>Tue, 17 May 2016 13:47:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Trading Back To The Mean]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Trading Back To The Mean</h1><p>Bitcoin trading returned price to a sideways path after a short upside burst failed to achieve altitude and fizzled back toward $455. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member? Join now and receive a $29 discount using the code CCN29.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1b4588ee6fef4c027e175a7e82050d87ac148e9.png"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-trading-back-mean/</link>
-            <guid isPermaLink="false">56faf102-0723-4669-a05b-88f5f176590e</guid>
             <pubDate>Tue, 17 May 2016 13:47:16 GMT</pubDate>
         </item>
     </channel>
