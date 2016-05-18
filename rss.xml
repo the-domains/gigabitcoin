@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 14:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 14:20:23 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Silk Road 3.0 - Reincarnation of the Bitcoin Deep Web Marketplace]]></title>
-            <description><![CDATA[<article><h1>Silk Road 3.0 - Reincarnation of the Bitcoin Deep Web Marketplace</h1><p>The latest reincarnation of the deep web marketplace, in the form of Silk Road 3.0 is started by the people behind Crypto Market. Will they be able to live up to the expectations? Read more... Silk Road is reincarnated for the fourth time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9bdf8af3aa56b89c444e0cf4c959dfeb4aad0c21.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/18/silk-road-3-0-reincarnation-bitcoin-deep-web-marketplace/</link>
-            <guid isPermaLink="false">87c22881-28eb-4785-ad8a-b6c3b33df59e</guid>
-            <pubDate>Wed, 18 May 2016 14:19:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to tell bitcoind to use more memory and CPU]]></title>
-            <description><![CDATA[<article><h1>How to tell bitcoind to use more memory and CPU</h1><p>I just updated my node to 0.12 and its going through its long verification process but I noticed that its not using very much memory/cpu pi 602 10.5 19.4 352220 184312 ? Ssl 21:57 ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/44171/how-to-tell-bitcoind-to-use-more-memory-and-cpu</link>
-            <guid isPermaLink="false">5fbf028c-787f-46d8-a53a-00e8ff661082</guid>
-            <pubDate>Wed, 18 May 2016 14:19:25 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Ethereum (ETH) Price Trends: 5/18/2016]]></title>
             <description><![CDATA[<article><h1>Ethereum (ETH) Price Trends: 5/18/2016</h1><p>Ethereum's price is moving along a medium-term upward trend. The cancellation of a likely flat has provoked this impulse. The cancellation of a flat wave scenario meant that there is a medium-term trend underway. Because of that, there was no turn to decline and a quite powerful upward trend has played out instead.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5b849e76f53d13e290bf5622970d8d854ef52dc.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>http://themerkle.com/trezor-hardware-wallet-will-support-ethereum-soon/</link>
             <guid isPermaLink="false">35794fe2-d841-4bf2-b751-4990fc336d25</guid>
             <pubDate>Wed, 18 May 2016 14:19:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This bitcoin challenger is up 1,100% this year - but is it ready for prime time?]]></title>
+            <description><![CDATA[<article><h1>This bitcoin challenger is up 1,100% this year - but is it ready for prime time?</h1><p>By Ethereum, the world's second-most valuable cryptocurrency, has seen its value skyrocket as investors and developers have sought different ways to use the technology introduced by bitcoin. But is it ready for the big time? That's what some are asking with its market capitalization briefly crossing $1.1 billion - up from $72 million at the beginning of 2016 - in mid-March.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07f0580bb2fde304179e596a9d6dcfd6a6f7b5df.jpg"></article>]]></description>
+            <link>http://www.marketwatch.com/story/this-bitcoins-challenger-is-up-1100-this-year-but-is-it-ready-for-prime-time-2016-05-18</link>
+            <guid isPermaLink="false">3277440b-c1af-490c-85e6-8a0da4c4b4e3</guid>
+            <pubDate>Wed, 18 May 2016 14:19:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin: Can This Neo-Currency Provide Security for Your Future?]]></title>
+            <description><![CDATA[<article><h1>Bitcoin: Can This Neo-Currency Provide Security for Your Future?</h1><p>It used to be unthinkable to go out for the day without having cash with you. But lately I find many days I set out with nothing in my wallet but plastic. What's even stranger - I sense more of a mental disconnect between using a card and really experiencing the fact that my money is leaving my hands.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f15d2f1878c156d70a4c24e5217b21e13054e2a.aspx"></article>]]></description>
+            <link>http://www.newsmax.com/Finance/TrevorGerszt/bitcoin-security-investors-currency/2016/05/17/id/729252/</link>
+            <guid isPermaLink="false">24f2544a-7d8e-4c4a-b5b3-0bdd7d037ab0</guid>
+            <pubDate>Wed, 18 May 2016 06:01:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
