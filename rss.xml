@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 02:55:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 02:55:20 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Breadwallet Update Includes Apple Watch Support]]></title>
+            <description><![CDATA[<article><h1>Breadwallet Update Includes Apple Watch Support</h1><p>Breadwallet is one of the most popular bitcoin wallet solutions for iOS users. In the most recently released update, some minor issues have been fixed, and the developers have added a compatible version for Apple Watch users as well. A lot of people use a wallet on their iOS devices, but the number of solutions available is still fairly limited.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c7bd63c8abab7d212f1c51eb88adcd80328aadb.jpg"></article>]]></description>
+            <link>http://themerkle.com/breadwallet-update-includes-apple-watch-support/</link>
+            <guid isPermaLink="false">35b76baf-29d8-4136-8341-a2e40f591c12</guid>
+            <pubDate>Wed, 18 May 2016 02:52:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Video Experiment Shows YouTube Stars Can Earn More Revenue With Bitcoin Micropayments]]></title>
+            <description><![CDATA[<article><h1>Video Experiment Shows YouTube Stars Can Earn More Revenue With Bitcoin Micropayments</h1><p>Micropayments have been touted as one of Bitcoin's main use cases since the early days of the technology, and a recent trial of the Bitcoin-powered content platform PopChest by YouTube Star NurdRage indicates that these claims may not be overblown.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/abf7f264f063d5e770ac2e69937a2c9272330eaa.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/video-experiment-shows-youtube-stars-can-earn-more-revenue-with-bitcoin-micropayments-1463499434</link>
+            <guid isPermaLink="false">4c5cc16c-b678-49d0-bdd9-c5702b93636d</guid>
+            <pubDate>Wed, 18 May 2016 02:52:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Rolling To Bounce]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Rolling To Bounce</h1><p>Bitcoin price slumps toward support - which has held since late-May - although coming under fire twice during the last 24 hours. Additional support awaits just below. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/033ad8af62357581b34382e6360c193a36ab59cb.png"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.newsbtc.com/2016/05/17/credibit-introduces-future-money/</link>
             <guid isPermaLink="false">786a31d5-5de6-4661-ae12-e7acb1b1dfd8</guid>
             <pubDate>Wed, 18 May 2016 02:52:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain Provider Gem Pursues Expansion Into Health Care Sector]]></title>
-            <description><![CDATA[<article><h1>Blockchain Provider Gem Pursues Expansion Into Health Care Sector</h1><p>Gem, a provider of enterprise blockchain development and operations tools, is entering Nashville's booming health care sector. Micah Winkelspecht, the founder and CEO of Gem, said in a recent interview with Venture Nashville that the decision to increase the company's focus on health care was made after a six-month period of growing interest from the industry.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f47036b0d6b8661b5cd753d00fe06608db276f45.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/blockchain-provider-gem-pursues-expansion-into-health-care-sector-1463502895</link>
-            <guid isPermaLink="false">7e261eea-ef89-4a15-b9ee-1709e37a626c</guid>
-            <pubDate>Wed, 18 May 2016 02:52:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ANX International to Launch Free Multipurpose Blockchain Platform]]></title>
-            <description><![CDATA[<article><h1>ANX International to Launch Free Multipurpose Blockchain Platform</h1><p>Hong Kong-based blockchain developer ANX International is 13 hour away from launching its all-encompassing blockchain services platform. ANX Blockchain Services (ABS) is designed to give any individuals/business the ability to launch their own digital assets like private tokens, loyalty points and coupons, at no cost.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/350d3ff7690aee529f325b26c63ed5b4e644adc0.jpg"></article>]]></description>
-            <link>http://themerkle.com/anx-international-to-launch-free-multi-purpose-blockchain-platfrom/</link>
-            <guid isPermaLink="false">727e1fd5-7dc5-438e-b92b-b44e736b0c52</guid>
-            <pubDate>Wed, 18 May 2016 02:52:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
