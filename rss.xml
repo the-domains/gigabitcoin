@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 14:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 14:20:19 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Former State Street Blockchain Lead Launches Post-Trade Startup - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Former State Street Blockchain Lead Launches Post-Trade Startup - CoinDesk</h1><p>State Street's former blockchain lead for Europe and the Middle East has launched a new startup focused on using blockchain technology to "redesign" the securities services industry. Called RISE Financial Technologies, the startup is seeking to provide distributed ledger technology that provides data integrity and immutability to financial trades in a way that is in harmony with existing bank processes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e2edc461e42fe06470713552f76de16ff3a512c.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/rise-financial-technologies-blockchain-post-trade/</link>
+            <guid isPermaLink="false">28adc571-3888-4b8e-9704-c77e1224d4ca</guid>
+            <pubDate>Wed, 18 May 2016 14:19:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[TREZOR Hardware Wallet Will Support Ethereum Soon]]></title>
             <description><![CDATA[<article><h1>TREZOR Hardware Wallet Will Support Ethereum Soon</h1><p>An exciting announcement was made earlier today, as it appears popular hardware Bitcoin wallet manufacturer Satoshilabs is planning to add Ethereum support to their TREZOR offering soon. Not too long ago, we pondered over the question as to whether or not there is a need for hardware Ethereum wallets .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f43382576b5cc3532869721636f11ca2e9932e70.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://cryptomining-blog.com/7856-pinidea-x11-usb-asic-miner-du-1-coming-soon/</link>
             <guid isPermaLink="false">215403d8-287d-43d3-a688-99c3c7dc27fd</guid>
             <pubDate>Wed, 18 May 2016 02:52:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are Ether Ethereum) paper wallets safe from being backdoored or hacked?]]></title>
-            <description><![CDATA[<article><h1>Are Ether Ethereum) paper wallets safe from being backdoored or hacked?</h1><p>Answer: Paper wallets are the same for all cryptocurrencies. Actually they are public key-private key key-pairs printed on paper. There is Ethereum paper wallet generator that create a key-pair for you to print it on paper. There are two qr-codes. The left is the address and the right is the priv...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/Are-Ether-Ethereum-paper-wallets-safe-from-being-backdoored-or-hacked</link>
-            <guid isPermaLink="false">404f3026-9d78-47f9-a429-9f46c27acd42</guid>
-            <pubDate>Wed, 18 May 2016 02:52:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
