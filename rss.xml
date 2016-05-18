@@ -7,20 +7,6 @@
         <lastBuildDate>Wed, 18 May 2016 14:20:20 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[More On Red Hat Launching Blockchain Open Source Initiative]]></title>
-            <description><![CDATA[<article><h1>More On Red Hat Launching Blockchain Open Source Initiative</h1><p>In April, Red Hat announced the OpenShift initiative to aid financial services industry in building hosted blockchain applications. Red Hat would manage container application deployment with OpenShift Dedicated support for financial institutions interested in experimenting with the blockchain. "We are pleased to partner with Red Hat and have initially deployed BlockApps STRATO, our Ethereum Blockchain infrastructure on OpenShift," the company stated.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4850b905000f8ff517f1ff531367dbf8f1b24fab.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/red-hat-blockchain-open-source/</link>
-            <guid isPermaLink="false">fe7e2a15-73f7-47c7-a224-754d5fc8a7f8</guid>
-            <pubDate>Wed, 18 May 2016 14:19:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IBM Exec to Gov't: 'Safeguard' Blockchain or Risk Falling Behind]]></title>
-            <description><![CDATA[<article><h1>IBM Exec to Gov't: 'Safeguard' Blockchain or Risk Falling Behind</h1><p>IBM Blockchain Technologies Executive Jerry Cuomo testified on May 16 before the President's Commission concerning Also read: Vitalik Buterin: Russia's Crypto Ban Would Stifle Blockchains National Cyber Security . Cuomo spoke on the attributes of blockchain technology and its use in society. The meeting involved a panel of government officials and other technological firm representatives.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e1d0e9ab69995cb1d5f64f7df00b70aa437f1af.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/ibm-govt-blockchain-falling-behind/</link>
-            <guid isPermaLink="false">e2c55254-33cf-429e-916d-a7f247be950d</guid>
-            <pubDate>Wed, 18 May 2016 14:19:25 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA["Uber Killer" Is On The Rise, Arcade City Wins First Place in Tech Entrepreneurship Contest in Berlin]]></title>
             <description><![CDATA[<article><h1>"Uber Killer" Is On The Rise, Arcade City Wins First Place in Tech Entrepreneurship Contest in Berlin</h1><p>New "Uber killer" ridesharing company Arcade City won first place at the GTEC Awards in Berlin, and with it a prize of 20,000 euros. Ridesharing startup Arcade City won first place at the German Tech Entrepreneurship Center (GTEC) Awards in Berlin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a832f6faa808647f526b1e8345782af13c9a35f2.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/uber-killer-is-on-the-rise-arcade-city-wins-first-place-in-tech-entrepreneurship-contest-in-berlin</link>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>Where is the bitcoin algorithm running?</h1><p>Answer: To radically oversimplify: Bitcoin is a "peer-to-peer" protocol in the sense that it works without one central server running things. Additionally, there are some ideas from cryptography being used that allow people to run parts of the protocol on their machine, and if they communicate ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
             <link>https://www.quora.com/Where-is-the-bitcoin-algorithm-running</link>
             <guid isPermaLink="false">cb4f5578-265e-4ab2-ad46-ac3559350229</guid>
+            <pubDate>Wed, 18 May 2016 06:01:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My youngest son just did his high school exam English in the Netherlands, guess what ... * /r/Bitcoin]]></title>
+            <description><![CDATA[<article><h1>My youngest son just did his high school exam English in the Netherlands, guess what ... * /r/Bitcoin</h1><p>Bitcoin is the currency of the Internet: a distributed, worldwide, decentralized digital money. Unlike traditional currencies such as dollars, bitcoins are issued and managed without any central authority whatsoever: there is no government, company, or bank in charge of Bitcoin. As such, it is more resistant to wild inflation and corrupt banks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
+            <link>https://www.reddit.com/r/Bitcoin/comments/4jrnor/my_youngest_son_just_did_his_high_school_exam/</link>
+            <guid isPermaLink="false">27351e27-4e01-411d-ae6b-906eb9d53360</guid>
+            <pubDate>Wed, 18 May 2016 06:01:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum Price Technical Analysis - Buying Dips Worked Again - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Ethereum Price Technical Analysis - Buying Dips Worked Again - NEWSBTC</h1><p>Ethereum price surged above the $12.00 level, and it looks like ETH/USD bulls gained a lot of momentum. Can they continue to push prices higher? Ethereum price surged above the $12.00 level, and it looks like ETH/USD bulls gained a lot of momentum. Can they continue to push prices higher?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0eb95085296cbef32e514198611b9d42ca62542.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/18/ethereum-price-technical-analysis-buying-dips-worked/</link>
+            <guid isPermaLink="false">91ade833-eba0-4924-99a3-802259589b77</guid>
             <pubDate>Wed, 18 May 2016 06:01:40 GMT</pubDate>
         </item>
     </channel>
