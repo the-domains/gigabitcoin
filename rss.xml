@@ -4,8 +4,43 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 14:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 14:21:16 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Got 99 Problems, But What Are The Solutions?]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Got 99 Problems, But What Are The Solutions?</h1><p>As the volume of transactions on the Bitcoin blockchain keeps increasing, transaction delays have become more apparent. The problem relates to how transactions are processed on the blockchain. Are there any solutions offered by the Bitcoin community yet? The average time it takes for a bitcoin transaction to be verified has increased significantly and some transactions remain unverified forever.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b71e41016ef31557d368a29c54a0c1ea890c0094.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/bitcoin-got-99-problems-but-what-are-the-solutions</link>
+            <guid isPermaLink="false">a385ded6-6fd4-460a-af32-e9b88d3a965e</guid>
+            <pubDate>Wed, 18 May 2016 14:19:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin.com Launches Official Store, Top Quality Bitcoin Merch]]></title>
+            <description><![CDATA[<article><h1>Bitcoin.com Launches Official Store, Top Quality Bitcoin Merch</h1><p>Bitcoin.com, a leading source for education, information and news regarding everyone's favorite cryptocurrency, has launched a global store for cryptocurrency enthusiasts, by cryptocurrency enthusiasts. Also read: Mitt Romney Tax Record Hacker Sentenced to Prison for Bitcoin Ransom We're excited to announce the launch of the Bitcoin.com store.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b023b3cabbda58cc8bc46d9da4ce3dc67d304e46.png"></article>]]></description>
+            <link>https://news.bitcoin.com/official-store-bitcoin-merch/</link>
+            <guid isPermaLink="false">bfbb3ee1-8004-48f2-8d70-881cd34493db</guid>
+            <pubDate>Wed, 18 May 2016 14:19:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Social Messaging App Vodi Now Accepts Bitcoin Payments]]></title>
+            <description><![CDATA[<article><h1>Social Messaging App Vodi Now Accepts Bitcoin Payments</h1><p>Despite various Telegram bots allowing for Bitcoin payments and wallet service already, this business model hasn't been embraced by more popular messaging platforms just yet. Messaging tools are an interesting area to explore as far as Bitcoin payments are concerned, given the global appeal and reach by both forms of technology.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/080cbc23ed3e3d598f6b7b7a6c3fb3a2f08ba2ac.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/18/social-messaging-app-vodi-now-accepts-bitcoin-payments/</link>
+            <guid isPermaLink="false">52b3d0af-edbd-459b-88a1-5b6fae78976e</guid>
+            <pubDate>Wed, 18 May 2016 14:19:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Exchange CCEDK Relaunches as Decentralized Conglomerate]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Exchange CCEDK Relaunches as Decentralized Conglomerate</h1><p>CCEDK, the Denmark-based bitcoin exchange, will go offline at the end of May in order to relaunch as part of a network of cryptocurrency partnerships known as Decentralized Conglomerate, according to the company's website. The website directs visitors to Bitscan, a bitcoin business directory, where CCEDK's plans are explained in detail.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f68067aa15d8736dbff5464d2fb9c88cee98c4b.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-exchange-ccedk-relaunches-decentralized-conglomerate/</link>
+            <guid isPermaLink="false">411a771a-60a9-4b03-a256-1a4b022c9113</guid>
+            <pubDate>Wed, 18 May 2016 14:19:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[just to remember : it's mid-may , and segwit has yet to provide any help '' scaling '' Bitcoin ! * /r/btc]]></title>
+            <description><![CDATA[<article><h1>just to remember : it's mid-may , and segwit has yet to provide any help '' scaling '' Bitcoin ! * /r/btc</h1><p>no 4x , no 2x , no 1.75x -- nothing , nada , niet ! congratulations on /u/nullc /u/adam3us on meeting their promises .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
+            <link>https://www.reddit.com/r/btc/comments/4jifzn/just_to_remember_its_midmay_and_segwit_has_yet_to/</link>
+            <guid isPermaLink="false">f8dd89b6-2df7-45d5-8a96-757aefcbc493</guid>
+            <pubDate>Wed, 18 May 2016 14:19:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[VWO Students Read Bitcoin Article For English Exam]]></title>
             <description><![CDATA[<article><h1>VWO Students Read Bitcoin Article For English Exam</h1><p>There is a lot of education to be done regarding Bitcoin and cryptocurrency, but Dutch schools are taking a unique approach to this problem.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf2c78556c73df4cd524684d8b6b99a2b98fe460.jpg"></article>]]></description>
@@ -39,41 +74,6 @@
             <description><![CDATA[<article><h1>How to tell bitcoind to use more memory and CPU</h1><p>I just updated my node to 0.12 and its going through its long verification process but I noticed that its not using very much memory/cpu pi 602 10.5 19.4 352220 184312 ? Ssl 21:57 ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/44171/how-to-tell-bitcoind-to-use-more-memory-and-cpu</link>
             <guid isPermaLink="false">5fbf028c-787f-46d8-a53a-00e8ff661082</guid>
-            <pubDate>Wed, 18 May 2016 14:19:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum (ETH) Price Trends: 5/18/2016]]></title>
-            <description><![CDATA[<article><h1>Ethereum (ETH) Price Trends: 5/18/2016</h1><p>Ethereum's price is moving along a medium-term upward trend. The cancellation of a likely flat has provoked this impulse. The cancellation of a flat wave scenario meant that there is a medium-term trend underway. Because of that, there was no turn to decline and a quite powerful upward trend has played out instead.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5b849e76f53d13e290bf5622970d8d854ef52dc.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/ethereum-eth-price-trends-5182016</link>
-            <guid isPermaLink="false">72fce7ac-f935-495b-b642-9fc215ccfff7</guid>
-            <pubDate>Wed, 18 May 2016 14:19:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK Launch of Android Pay Will Include Exclusive Deal-Focused Programme]]></title>
-            <description><![CDATA[<article><h1>UK Launch of Android Pay Will Include Exclusive Deal-Focused Programme</h1><p>Today is an important day for Android Pay enthusiasts in the United Kingdom, as mobile payment support will rolling out very soon. Additionally, Transport for London will support the payment method as well, making the purchase of tube and bus tickets a lot more convenient.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d35b82c5badb49022ad48381803c4065bcdaf9db.jpg"></article>]]></description>
-            <link>http://themerkle.com/uk-launch-of-android-pay-will-include-exclusive-deal-focused-programme/</link>
-            <guid isPermaLink="false">78365724-22fe-4b17-a09d-46131ade3102</guid>
-            <pubDate>Wed, 18 May 2016 14:19:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[More On Red Hat Launching Blockchain Open Source Initiative]]></title>
-            <description><![CDATA[<article><h1>More On Red Hat Launching Blockchain Open Source Initiative</h1><p>In April, Red Hat announced the OpenShift initiative to aid financial services industry in building hosted blockchain applications. Red Hat would manage container application deployment with OpenShift Dedicated support for financial institutions interested in experimenting with the blockchain. "We are pleased to partner with Red Hat and have initially deployed BlockApps STRATO, our Ethereum Blockchain infrastructure on OpenShift," the company stated.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4850b905000f8ff517f1ff531367dbf8f1b24fab.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/red-hat-blockchain-open-source/</link>
-            <guid isPermaLink="false">fe7e2a15-73f7-47c7-a224-754d5fc8a7f8</guid>
-            <pubDate>Wed, 18 May 2016 14:19:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IBM Exec to Gov't: 'Safeguard' Blockchain or Risk Falling Behind]]></title>
-            <description><![CDATA[<article><h1>IBM Exec to Gov't: 'Safeguard' Blockchain or Risk Falling Behind</h1><p>IBM Blockchain Technologies Executive Jerry Cuomo testified on May 16 before the President's Commission concerning Also read: Vitalik Buterin: Russia's Crypto Ban Would Stifle Blockchains National Cyber Security . Cuomo spoke on the attributes of blockchain technology and its use in society. The meeting involved a panel of government officials and other technological firm representatives.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e1d0e9ab69995cb1d5f64f7df00b70aa437f1af.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/ibm-govt-blockchain-falling-behind/</link>
-            <guid isPermaLink="false">e2c55254-33cf-429e-916d-a7f247be950d</guid>
-            <pubDate>Wed, 18 May 2016 14:19:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Uber Killer" Is On The Rise, Arcade City Wins First Place in Tech Entrepreneurship Contest in Berlin]]></title>
-            <description><![CDATA[<article><h1>"Uber Killer" Is On The Rise, Arcade City Wins First Place in Tech Entrepreneurship Contest in Berlin</h1><p>New "Uber killer" ridesharing company Arcade City won first place at the GTEC Awards in Berlin, and with it a prize of 20,000 euros. Ridesharing startup Arcade City won first place at the German Tech Entrepreneurship Center (GTEC) Awards in Berlin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a832f6faa808647f526b1e8345782af13c9a35f2.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/uber-killer-is-on-the-rise-arcade-city-wins-first-place-in-tech-entrepreneurship-contest-in-berlin</link>
-            <guid isPermaLink="false">8a8f90e9-7040-4dbe-95dc-9c76c8fb8051</guid>
             <pubDate>Wed, 18 May 2016 14:19:25 GMT</pubDate>
         </item>
     </channel>
