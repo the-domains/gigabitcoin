@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 02:55:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 02:55:19 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Breadwallet Update Includes Apple Watch Support]]></title>
-            <description><![CDATA[<article><h1>Breadwallet Update Includes Apple Watch Support</h1><p>Breadwallet is one of the most popular bitcoin wallet solutions for iOS users. In the most recently released update, some minor issues have been fixed, and the developers have added a compatible version for Apple Watch users as well. A lot of people use a wallet on their iOS devices, but the number of solutions available is still fairly limited.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c7bd63c8abab7d212f1c51eb88adcd80328aadb.jpg"></article>]]></description>
-            <link>http://themerkle.com/breadwallet-update-includes-apple-watch-support/</link>
-            <guid isPermaLink="false">35b76baf-29d8-4136-8341-a2e40f591c12</guid>
-            <pubDate>Wed, 18 May 2016 02:52:41 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Video Experiment Shows YouTube Stars Can Earn More Revenue With Bitcoin Micropayments]]></title>
             <description><![CDATA[<article><h1>Video Experiment Shows YouTube Stars Can Earn More Revenue With Bitcoin Micropayments</h1><p>Micropayments have been touted as one of Bitcoin's main use cases since the early days of the technology, and a recent trial of the Bitcoin-powered content platform PopChest by YouTube Star NurdRage indicates that these claims may not be overblown.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/abf7f264f063d5e770ac2e69937a2c9272330eaa.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Credibit Introduces the Future of Money - NEWSBTC</h1><p>Credibit is a new digital currency and payment protocol that promises to offer new capabilities to many of the limitations presented by several other cryptocurrencies. It is an open source project released under the MIT/X11 license allowing anyone to run, modify, and copy the software and to distribute, modified copies of the software.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9e503dcc082e40af333fc18b07a794a7a529e03.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/05/17/credibit-introduces-future-money/</link>
             <guid isPermaLink="false">786a31d5-5de6-4661-ae12-e7acb1b1dfd8</guid>
+            <pubDate>Wed, 18 May 2016 02:52:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blockchain Provider Gem Pursues Expansion Into Health Care Sector]]></title>
+            <description><![CDATA[<article><h1>Blockchain Provider Gem Pursues Expansion Into Health Care Sector</h1><p>Gem, a provider of enterprise blockchain development and operations tools, is entering Nashville's booming health care sector. Micah Winkelspecht, the founder and CEO of Gem, said in a recent interview with Venture Nashville that the decision to increase the company's focus on health care was made after a six-month period of growing interest from the industry.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f47036b0d6b8661b5cd753d00fe06608db276f45.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/blockchain-provider-gem-pursues-expansion-into-health-care-sector-1463502895</link>
+            <guid isPermaLink="false">7e261eea-ef89-4a15-b9ee-1709e37a626c</guid>
             <pubDate>Wed, 18 May 2016 02:52:40 GMT</pubDate>
         </item>
     </channel>
