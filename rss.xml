@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 02:53:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 02:53:18 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[" Blockspeed]]></title>
+            <description><![CDATA[<article><h1>&quot; Blockspeed</h1></article>]]></description>
+            <link>http://blockspeed.info/</link>
+            <guid isPermaLink="false">3fde57db-a6a5-404e-986e-29c0851cce5a</guid>
+            <pubDate>Wed, 18 May 2016 02:52:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Global Bitcoin nodes distribution]]></title>
+            <description><![CDATA[<article><h1>Global Bitcoin nodes distribution</h1><p>Bitnodes is currently being developed to estimate the size of the Bitcoin network by finding all the reachable nodes in the network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/512efe9ec1e49cdf7d27f81fa40cc83616c90516.png"></article>]]></description>
+            <link>https://bitnodes.21.co/dashboard/</link>
+            <guid isPermaLink="false">81b0a2ac-ff50-4561-afae-29eda85eb894</guid>
+            <pubDate>Wed, 18 May 2016 02:52:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What do you think is better to invest in (about 10K) - Bitcoin or Ethereum?]]></title>
+            <description><![CDATA[<article><h1>What do you think is better to invest in (about 10K) - Bitcoin or Ethereum?</h1><p>Answer (1 of 3): Neither at the moment. Bitcoin is suffering from development stagnation and an internal war over its core direction. If you look at the block explorer today, you can see that each block is full, causing transaction delays and user frustration. Ethereum is overpriced and over-hy...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/What-do-you-think-is-better-to-invest-in-about-10K-Bitcoin-or-Ethereum</link>
+            <guid isPermaLink="false">43f80c92-95f0-4c76-95c2-f189ef49bcdb</guid>
+            <pubDate>Wed, 18 May 2016 02:52:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This Mexican Startup Will Allow Customers to Buy Bitcoins In Grocery Stores]]></title>
             <description><![CDATA[<article><h1>This Mexican Startup Will Allow Customers to Buy Bitcoins In Grocery Stores</h1><p>Zmart Group, a Mexican startup, announced that they will bring Bitcoin to their extensive network of cellphone top-up resellers, this will allow customers to buy Bitcoins at their local grocery store without the need for a credit card.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3f6e61c83dd71ce7cc624aeeca0c345588fd735.jpg"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>http://themerkle.com/ibm-introduces-the-beta-version-of-their-bluemix-blockchain/</link>
             <guid isPermaLink="false">fdde7ed4-bb7a-4bbb-9f3a-acb5e22d3d47</guid>
             <pubDate>Tue, 17 May 2016 13:47:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain open sources Thunder network, paving the way for instant bitcoin transactions]]></title>
-            <description><![CDATA[<article><h1>Blockchain open sources Thunder network, paving the way for instant bitcoin transactions</h1><p>Blockchain, the company behind the world's most popular bitcoin wallet, has been quietly working on an interesting project called Thunder. The Thunder network is an alternative network of nodes that lets you make off-chain bitcoin payments in seconds and settle back to the bitcoin blockchain every now and then.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33a38b8dc9d37623e26d1a0db626690f7f61d26b.jpg"></article>]]></description>
-            <link>http://techcrunch.com/2016/05/16/blockchain-open-sources-thunder-network-paving-the-way-for-instant-bitcoin-transactions/</link>
-            <guid isPermaLink="false">38ce96d3-8ea8-4322-a206-ebc647c09437</guid>
-            <pubDate>Tue, 17 May 2016 13:47:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Scalp Trade Is On - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Scalp Trade Is On - NEWSBTC</h1><p>A scalp pattern has presented itself in the bitcoin price, here's how we are looking to trade it. For this evening's analysis, we're going to go at our bitcoin price strategy a little different than normal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22bb17e3c1323dfb87183932b1c4fe8b112870d3.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/16/bitcoin-price-watch-scalp-trade/</link>
-            <guid isPermaLink="false">56229f1a-1b1f-460f-83de-15e78ee8bf3b</guid>
-            <pubDate>Tue, 17 May 2016 13:47:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Bitcoin's Halving Doom or Boom The Cryptocurrency?]]></title>
-            <description><![CDATA[<article><h1>Will Bitcoin's Halving Doom or Boom The Cryptocurrency?</h1><p>As the Bitcoin's halving approaches, many are wondering whether it will double Bitcoin's price to compensate for the halved supply, or will lead to a downward spiral and a depressed price due to the growth of confirmation delays. On July 11th, only two months away, supply halves.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1286714b18156e911b5762460dbe9a289b933bd4.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/will-bitcoins-halving-doom-or-boom-the-cryptocurrency</link>
-            <guid isPermaLink="false">c6d210c2-ecea-4303-8e58-a4346274bb6e</guid>
-            <pubDate>Tue, 17 May 2016 13:47:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
