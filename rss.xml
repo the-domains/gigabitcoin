@@ -4,36 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 02:55:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 02:55:27 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[DAO Makes History, Raises $130 Million, Breaking All Records]]></title>
-            <description><![CDATA[<article><h1>DAO Makes History, Raises $130 Million, Breaking All Records</h1><p>The millennial generation is experiencing history in the making as they flock in amazing numbers - almost 5,000 members on the DAO slack channel - to fund one of the most promising decentralized autonomous organizations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8045b7e6c1e789b64e5449cc7af0eb3e94bfe348.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/dao-makes-history-raises-130-million-breaking-all-records</link>
-            <guid isPermaLink="false">e08517fe-1b11-4993-ba37-5bc1eb5a7240</guid>
-            <pubDate>Wed, 18 May 2016 02:52:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Former Citadel Technology CEO Joins Blockchain Developer Axoni]]></title>
-            <description><![CDATA[<article><h1>Former Citadel Technology CEO Joins Blockchain Developer Axoni</h1><p>New York-based blockchain solutions provider Axoni announced today the appointment of Thomas Chippas as chief operating officer. Chippas has a long track record in the finance and trading industry; CEO of high-frequency trading firm Citadel Technology; Managing Director at Barclays Capital and Deutsche Bank; Principal of Electronic Trading Services at Bank of America.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/302a133a1a20d2cbbfe1ec2b48b4a7bb83e7e39a.jpg"></article>]]></description>
-            <link>http://themerkle.com/former-citadel-technology-ceo-joins-blockchain-developer-axoni/</link>
-            <guid isPermaLink="false">f9e15615-da57-482b-b53c-1da59214bd95</guid>
-            <pubDate>Wed, 18 May 2016 02:52:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain Announces Thunder Network to Tackle Slow Bitcoin Transactions - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Blockchain Announces Thunder Network to Tackle Slow Bitcoin Transactions - NEWSBTC</h1><p>Blockchain has announced the alpha release of its latest Thunder Network capable of handling loads of off-chain transactions in a faster and more economical way compared to the present day Bitcoin blockchain. Blockchain, the Bitcoin wallet company has announced the alpha release of its latest Thunder Network, a payment channel technology designed to accelerate bitcoin transactions over the blockchain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0401a815dcb131cb3bdbe95e0443d83738171351.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/17/blockchain-thunder-network-adaptation/</link>
-            <guid isPermaLink="false">085efd40-9956-46c0-8c21-092b15dffe09</guid>
-            <pubDate>Wed, 18 May 2016 02:52:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Denmark's CCEDK to Cease Trading, Reopen as Finance Incubator]]></title>
-            <description><![CDATA[<article><h1>Denmark's CCEDK to Cease Trading, Reopen as Finance Incubator</h1><p>Pioneering Danish Bitcoin exchange CCEDK is to close down and reopen as a financial gateway for OpenLedger, its creator has announced. Also read: Digix: Gold-Backed Ethereum Smart Contracts for All Ronny Boesing, who started the exchange in 2014, released the news to users in a statement Friday.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3eed5419411706e70f09da1caaacc9f86c5047e.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/ccedk-reopen-finance-incubator/</link>
-            <guid isPermaLink="false">1409c0b3-0372-4ebd-a5bd-5f850d4392f5</guid>
-            <pubDate>Wed, 18 May 2016 02:52:41 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Tendermint Exploring Possible Public Blockchain Launch - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Tendermint Exploring Possible Public Blockchain Launch - CoinDesk</h1><p>Blockchain app specialist Tendermint is in the early stages of preparing to launch a public blockchain that could find it issuing tokens in a bid to create a platform comparable to bitcoin or Ethereum with alternative capabilities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/addb64cb4bf0e531caa32a0cf369fed964523fa9.jpg"></article>]]></description>
@@ -75,6 +47,34 @@
             <link>http://themerkle.com/bitcoinira-gives-ira-holders-a-bitcoin-investment-vehicle/</link>
             <guid isPermaLink="false">c595b24b-bd02-4366-84da-a639870f5db4</guid>
             <pubDate>Wed, 18 May 2016 02:52:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Data Protection Firm Acronis Invests In Blockchain Technology]]></title>
+            <description><![CDATA[<article><h1>Data Protection Firm Acronis Invests In Blockchain Technology</h1><p>Many companies around the world keep a close eye on the blockchain these days, as the technology can be used in a variety of ways. Especially the data protection sector is of significant importance, and Acronis is the first firm in this industry to look at distributed ledgers for data protection.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3fa5cdfb45d2cd512cdb388bed3c5696a0c5383.jpg"></article>]]></description>
+            <link>http://themerkle.com/data-protection-firm-acronis-invests-in-blockchain-technology/</link>
+            <guid isPermaLink="false">b04c5350-c2d1-4def-af6c-ca201c4e98b1</guid>
+            <pubDate>Wed, 18 May 2016 02:52:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CoinTelegraph Launches Its Own Bitcoin Price Index]]></title>
+            <description><![CDATA[<article><h1>CoinTelegraph Launches Its Own Bitcoin Price Index</h1><p>Cointelegraph announces the release of our brand new Bitcoin Price Index - a comprehensive tool for tracking Bitcoin price changes and historical data, analyzing the market and making trading decisions. It is an easy way to track Bitcoin exchange rates and keep an eye on the value of Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e3e38645b86b6341e3f7db603cccf8147771113.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/cointelegraph-launches-its-own-bitcoin-price-index</link>
+            <guid isPermaLink="false">3f3b232c-d5b1-4b98-a006-9fd5e7ce2848</guid>
+            <pubDate>Wed, 18 May 2016 02:52:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin: Three Reasons You Should Start Getting Paid?]]></title>
+            <description><![CDATA[<article><h1>Bitcoin: Three Reasons You Should Start Getting Paid?</h1><p>The Bitcoin Ecosystem Keeps Growing Bitcoin is more than seven years old. In that time, it has become more mature, robust, and secure than anyone could have imagined at its inception. A few years ago, the rap against it was its instability, as if a new digital money for the world should find its value and never move.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91fc73ae57c7236a575be33df730c2736b176458.png"></article>]]></description>
+            <link>http://www.valuewalk.com/2016/05/paid-bitcoin/</link>
+            <guid isPermaLink="false">cf0fbbc9-3e4c-4d94-9a3c-60beb974ff81</guid>
+            <pubDate>Wed, 18 May 2016 02:52:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zimbabwe's Cash Crisis Is Bitcoin's Boost?]]></title>
+            <description><![CDATA[<article><h1>Zimbabwe's Cash Crisis Is Bitcoin's Boost?</h1><p>A recent survey by The Zimbabwe Standard has shown that a number of banks in the central business district of the country's capital, Harare, has long queues to withdraw cash with others running out of cash by midday.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da225fd411b7a6c56b98dab7de4ba617ecb30398.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/zimbabwes-cash-crisis-is-bitcoins-boost</link>
+            <guid isPermaLink="false">cc7abc93-be20-4a30-ad5f-8f9001238ec4</guid>
+            <pubDate>Wed, 18 May 2016 02:52:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
