@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 02:55:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 02:55:10 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BitCoinIRA Gives IRA Holders a Bitcoin Investment Option]]></title>
+            <description><![CDATA[<article><h1>BitCoinIRA Gives IRA Holders a Bitcoin Investment Option</h1><p>California-based BitCoinIRA.com announced today the launch of its new "Bitcoin IRA" product, which gives investors the option of diversifying their retirement portfolios with exposure to the innovative digital currency, bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9f13ad5046dfc8e509c127cfc3974f90f2e7354.jpg"></article>]]></description>
+            <link>http://themerkle.com/bitcoinira-gives-ira-holders-a-bitcoin-investment-vehicle/</link>
+            <guid isPermaLink="false">c595b24b-bd02-4366-84da-a639870f5db4</guid>
+            <pubDate>Wed, 18 May 2016 02:52:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Data Protection Firm Acronis Invests In Blockchain Technology]]></title>
             <description><![CDATA[<article><h1>Data Protection Firm Acronis Invests In Blockchain Technology</h1><p>Many companies around the world keep a close eye on the blockchain these days, as the technology can be used in a variety of ways. Especially the data protection sector is of significant importance, and Acronis is the first firm in this industry to look at distributed ledgers for data protection.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3fa5cdfb45d2cd512cdb388bed3c5696a0c5383.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Lightning Inter-node Protocol: A Primer</h1><p>The original protocol I wrote for two lightning nodes to communicate was simple: to make a change, you proposed it and sent the signature for their commitment transaction, they replied with the revocation secret for the previous one and a signature for you, then you finished it by providing a signature for them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c58917ff4c957ad301ff8689c7336715cc0ac5a.png"></article>]]></description>
             <link>http://gigabitcoin.xyz/lightning-inter-node-protocol-a-primer/index.html</link>
             <guid isPermaLink="false">358cc5a7-6407-415d-b966-2f920775c93b</guid>
-            <pubDate>Wed, 18 May 2016 02:52:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mitt Romney Tax Hacker Sentenced to Prison for Bitcoin Ransom]]></title>
-            <description><![CDATA[<article><h1>Mitt Romney Tax Hacker Sentenced to Prison for Bitcoin Ransom</h1><p>Accepting Bitcoin for illicit transactions is never a good idea, and the alleged hacker of tax records belonging to Mitt Romney has found that out the hard way. Michael Mancil Brown was found guilty of fraud and extortion.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fc348edc80bc5418a69c2c464a670fa5197145e.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/mitt-romney-hacker-prison-bitcoin/</link>
-            <guid isPermaLink="false">6cedf5f3-0f99-4cdc-bc6f-c5bb33e945ec</guid>
             <pubDate>Wed, 18 May 2016 02:52:39 GMT</pubDate>
         </item>
     </channel>
