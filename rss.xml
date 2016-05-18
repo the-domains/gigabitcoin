@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 14:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 14:20:28 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Social Messaging App Vodi Now Accepts Bitcoin Payments]]></title>
-            <description><![CDATA[<article><h1>Social Messaging App Vodi Now Accepts Bitcoin Payments</h1><p>Despite various Telegram bots allowing for Bitcoin payments and wallet service already, this business model hasn't been embraced by more popular messaging platforms just yet. Messaging tools are an interesting area to explore as far as Bitcoin payments are concerned, given the global appeal and reach by both forms of technology.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/080cbc23ed3e3d598f6b7b7a6c3fb3a2f08ba2ac.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/18/social-messaging-app-vodi-now-accepts-bitcoin-payments/</link>
-            <guid isPermaLink="false">52b3d0af-edbd-459b-88a1-5b6fae78976e</guid>
-            <pubDate>Wed, 18 May 2016 14:19:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Exchange CCEDK Relaunches as Decentralized Conglomerate]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Exchange CCEDK Relaunches as Decentralized Conglomerate</h1><p>CCEDK, the Denmark-based bitcoin exchange, will go offline at the end of May in order to relaunch as part of a network of cryptocurrency partnerships known as Decentralized Conglomerate, according to the company's website. The website directs visitors to Bitscan, a bitcoin business directory, where CCEDK's plans are explained in detail.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f68067aa15d8736dbff5464d2fb9c88cee98c4b.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-exchange-ccedk-relaunches-decentralized-conglomerate/</link>
-            <guid isPermaLink="false">411a771a-60a9-4b03-a256-1a4b022c9113</guid>
-            <pubDate>Wed, 18 May 2016 14:19:26 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[just to remember : it's mid-may , and segwit has yet to provide any help '' scaling '' Bitcoin ! * /r/btc]]></title>
             <description><![CDATA[<article><h1>just to remember : it's mid-may , and segwit has yet to provide any help '' scaling '' Bitcoin ! * /r/btc</h1><p>no 4x , no 2x , no 1.75x -- nothing , nada , niet ! congratulations on /u/nullc /u/adam3us on meeting their promises .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>UK Launch of Android Pay Will Include Exclusive Deal-Focused Programme</h1><p>Today is an important day for Android Pay enthusiasts in the United Kingdom, as mobile payment support will rolling out very soon. Additionally, Transport for London will support the payment method as well, making the purchase of tube and bus tickets a lot more convenient.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d35b82c5badb49022ad48381803c4065bcdaf9db.jpg"></article>]]></description>
             <link>http://themerkle.com/uk-launch-of-android-pay-will-include-exclusive-deal-focused-programme/</link>
             <guid isPermaLink="false">78365724-22fe-4b17-a09d-46131ade3102</guid>
+            <pubDate>Wed, 18 May 2016 14:19:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[More On Red Hat Launching Blockchain Open Source Initiative]]></title>
+            <description><![CDATA[<article><h1>More On Red Hat Launching Blockchain Open Source Initiative</h1><p>In April, Red Hat announced the OpenShift initiative to aid financial services industry in building hosted blockchain applications. Red Hat would manage container application deployment with OpenShift Dedicated support for financial institutions interested in experimenting with the blockchain. "We are pleased to partner with Red Hat and have initially deployed BlockApps STRATO, our Ethereum Blockchain infrastructure on OpenShift," the company stated.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4850b905000f8ff517f1ff531367dbf8f1b24fab.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/red-hat-blockchain-open-source/</link>
+            <guid isPermaLink="false">fe7e2a15-73f7-47c7-a224-754d5fc8a7f8</guid>
+            <pubDate>Wed, 18 May 2016 14:19:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IBM Exec to Gov't: 'Safeguard' Blockchain or Risk Falling Behind]]></title>
+            <description><![CDATA[<article><h1>IBM Exec to Gov't: 'Safeguard' Blockchain or Risk Falling Behind</h1><p>IBM Blockchain Technologies Executive Jerry Cuomo testified on May 16 before the President's Commission concerning Also read: Vitalik Buterin: Russia's Crypto Ban Would Stifle Blockchains National Cyber Security . Cuomo spoke on the attributes of blockchain technology and its use in society. The meeting involved a panel of government officials and other technological firm representatives.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e1d0e9ab69995cb1d5f64f7df00b70aa437f1af.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/ibm-govt-blockchain-falling-behind/</link>
+            <guid isPermaLink="false">e2c55254-33cf-429e-916d-a7f247be950d</guid>
             <pubDate>Wed, 18 May 2016 14:19:25 GMT</pubDate>
         </item>
     </channel>
