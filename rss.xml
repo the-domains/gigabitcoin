@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 13:38:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 13:37:57 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>@CarpeNoctom @flibbr Yes, that is a LOT of compression. Time to pay attention!</p>]]></description>
-            <link>https://twitter.com/bbands/status/733009813815222273</link>
-            <guid isPermaLink="false">bba73c01-d97b-4611-b914-d9715d2fef92</guid>
-            <pubDate>Thu, 19 May 2016 13:36:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gmail Labels Bitcoin Content From Google Alerts As Potentially Dangerous]]></title>
-            <description><![CDATA[<article><h1>Gmail Labels Bitcoin Content From Google Alerts As Potentially Dangerous</h1><p>Google needs to crack down on malicious financial advertisements, and it seems they are taking things well beyond the search engine platform itself. Emails received through Gmail are also flagged if they may contain potentially malicious content.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d9ce397ef0855b828e7414ca51fc776809464ba.jpg"></article>]]></description>
-            <link>http://themerkle.com/gmail-labels-bitcoin-content-from-google-alerts-as-potentially-dangerous/</link>
-            <guid isPermaLink="false">3e90fecb-5833-4c60-9697-f8299160febf</guid>
-            <pubDate>Thu, 19 May 2016 13:36:39 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Mexican startup Zmart Group to allow users to buy bitcoin at grocery stores]]></title>
             <description><![CDATA[<article><h1>Mexican startup Zmart Group to allow users to buy bitcoin at grocery stores</h1><p>Mexican startup Zmart Group is bringing bitcoin to its cell phone top-up reseller network, which will allow users to buy bitcoin in grocery stores, the Merkle reported. Zmart Group is an eCommerce ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d376a99bb85b1da1498e999997c83ed18b83cbec.png"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>When will ethereum switch to proof of stake?</h1><p>Answer: The difficulty bomb should make mining inpossible latest winter 2016/17. So either there will be proof of stake or a hard fork to fix the difficulty bomb around this time See: When will the difficulty bomb make mining impossible?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
             <link>https://www.quora.com/When-will-ethereum-switch-to-proof-of-stake</link>
             <guid isPermaLink="false">95c60466-67c6-4872-9246-3f791eccc7d1</guid>
+            <pubDate>Thu, 19 May 2016 13:36:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will the Bitcoin dominate world's currency?]]></title>
+            <description><![CDATA[<article><h1>Will the Bitcoin dominate world's currency?</h1><p>Cryptocurrencies will gain global popularity for their ability to store value (commodity) and for person-to-person transactions (money). But they will be unable to compete with the fiat currencies issued by state authorities. Given the current crisis in the core development of bitcoin, it is likely that alternative currencies will quickly surpass bitcoin in adoption.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/Will-the-Bitcoin-dominate-worlds-currency</link>
+            <guid isPermaLink="false">321ac35b-9840-4185-81db-7108ca2f9979</guid>
+            <pubDate>Thu, 19 May 2016 13:36:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jeff Garzik Defends Hard Fork Solution for Bitcoin Block Size Issue]]></title>
+            <description><![CDATA[<article><h1>Jeff Garzik Defends Hard Fork Solution for Bitcoin Block Size Issue</h1><p>Jeff Garzik, a bitcoin code veteran who recently launched the Bloq code-for-hire service to develop blockchain features, continues to defend a hard fork solution to the bitcoin scaling challenge. Garzik has engaged with individuals who disagree with him on Twitter in the last few days.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c388a629e8aa2414fa692560e7732c040d0ab826.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/jeff-garzik-bitcoin-hard-fork-block-size/</link>
+            <guid isPermaLink="false">9d06e408-e7f3-43a0-b833-77c6d5c8539b</guid>
             <pubDate>Thu, 19 May 2016 13:36:38 GMT</pubDate>
         </item>
     </channel>
