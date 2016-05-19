@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 01:48:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 01:49:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Crypto-Currency Market Capitalizations]]></title>
+            <description><![CDATA[<article><h1>Crypto-Currency Market Capitalizations</h1><p>Crypto-currency market cap rankings, charts, and more</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a790c0d573c67156b98038dbe838721f6f36072d.png"></article>]]></description>
+            <link>http://coinmarketcap.com/</link>
+            <guid isPermaLink="false">ad0f8929-c248-4797-9a93-4c8baa78aeee</guid>
+            <pubDate>Thu, 19 May 2016 01:48:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Public Opinion Split As The DAO Rakes In Ethereum Funding - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Public Opinion Split As The DAO Rakes In Ethereum Funding - CoinDesk</h1><p>The DAO has become the talk of the digital town since the launch less than a month ago of what has become the most successful crowdfunding campaign ever. With nearly $150m worth of the cryptocurrency ether raised to date the unusual organization has inspired both passionate supporters and cold, calculating skeptics.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71b5e1aadb6f4d14157ba47f056939d170ab185b.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Besa Mafia deep web hitman service turns out to be an elaborate bitcoin scam</h1><p>The Besa Mafia hitman marketplace was the latest and most elaborate example of a hitman service on the deep web, the part of the World Wide Web that can't be found with standard search engines. The very real Silk Road offered a similar deep web marketplace, but focused on illegal drugs, drawing the line at hitmen and weapons.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/689df2c137d1ce4b808609864591a8d3cbad3648.png"></article>]]></description>
             <link>http://bravenewcoin.com/news/besa-mafia-deep-web-hitman-service-turns-out-to-be-an-elaborate-bitcoin-scam/</link>
             <guid isPermaLink="false">f9f89cdb-c8da-4f6c-af63-244074086f8d</guid>
-            <pubDate>Wed, 18 May 2016 14:19:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>SegWit needs to be a hard fork. Putting control of -economic resource size- in the hands of a few devs & miners is anti-bitcoin.</p>]]></description>
-            <link>https://twitter.com/jgarzik/status/732648223823695874</link>
-            <guid isPermaLink="false">432a4c04-23ee-43d0-bf34-0adf71a1d058</guid>
             <pubDate>Wed, 18 May 2016 14:19:27 GMT</pubDate>
         </item>
     </channel>
