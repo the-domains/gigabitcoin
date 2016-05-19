@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 13:36:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 13:36:44 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Silk Road 3.0 Announces Bitcoin Charity Drive]]></title>
+            <description><![CDATA[<article><h1>Silk Road 3.0 Announces Bitcoin Charity Drive</h1><p>Silk Road 3.0 has returned from the dead not too long ago, and it looks like they will be started an effort to get in people's good graces again. A society charity drive will be held from June 8 onwards, and US$5 from every sale on the platform will be donated to the Last Door Recovery Society.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d6a13c006d370984cacf9e177f4e68440030c7a.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/silk-road-3-0-announces-bitcoin-charity-drive/</link>
+            <guid isPermaLink="false">dce11956-68d8-43c8-86e0-e94a3276b1d0</guid>
+            <pubDate>Thu, 19 May 2016 13:36:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Senator Lindsey Graham Feels Ransomware Is An Act of Terrorism]]></title>
+            <description><![CDATA[<article><h1>Senator Lindsey Graham Feels Ransomware Is An Act of Terrorism</h1><p>Law enforcement agencies and government officials are trying to come up with a strategy to fight Bitcoin ransomware on a global scale. One proposal would see countries not doing anything to stop ransomware groups should be treated the same as those who aid in terrorism.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f98c27c1d6164141b410dea1c6f6ba07d6b9688.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/senator-graham-ransomware-act-terrorism/</link>
+            <guid isPermaLink="false">98dbe424-083d-4b11-a236-f82fa9106a9e</guid>
+            <pubDate>Thu, 19 May 2016 13:36:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Analysis: 5/19/2016]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Analysis: 5/19/2016</h1><p>Bitcoin's price, unable to form a turn to growth, is continuing its downward trend. That movement is approaching a long-term resistance line, from which it may rebound up. After breaking through the key level of $455, Bitcoin's price could not fortify it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/066e9cde4b7b7e8249c9c5666d9c70ea5f829390.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://cointelegraph.com/news/holytransactions-ceo-explains-new-multicurrency-wallet-features</link>
             <guid isPermaLink="false">08434345-6fc2-4f06-bfbf-742e9c74fb79</guid>
             <pubDate>Thu, 19 May 2016 01:48:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On Blockchain Disillusionment and Bitcoin's Big Bad Wolves - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>On Blockchain Disillusionment and Bitcoin's Big Bad Wolves - CoinDesk</h1><p>Beneath the headlines, there's arguably been the early stirrings of a sea change in the blockchain industry. There's a new trough of disillusionment, but this time its those working with blockchain applications, not bitcoin, who are being affected.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/704566eae4c870989539bc95a37d56fb5e2af0d1.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/blockchain-disillusionment-big-bad-wolves-bitcoins-turning-tide/</link>
-            <guid isPermaLink="false">ca2940f4-96fa-483c-abb5-42f584e4f0f3</guid>
-            <pubDate>Thu, 19 May 2016 01:48:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Dr. Evil" Facing 25 years for Bitcoin Ransom Hack Attack]]></title>
-            <description><![CDATA[<article><h1>"Dr. Evil" Facing 25 years for Bitcoin Ransom Hack Attack</h1><p>"Dr. Evil" Facing 25 years for Bitcoin Ransom Hack Attack Crime doesn't always pay if you're a criminal who happens to love Bitcoin. The naive have sought to criminalize Bitcoin since it has become the preferred currency of the criminals in the hacking online community.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88a8717a3c23376b38cbf07a20380b29a153b23d.jpg"></article>]]></description>
-            <link>https://bitconnect.co/bitcoin-news/165/dr-evil-facing-25-years-for-bitcoin-ransom-hack-attack/</link>
-            <guid isPermaLink="false">3e564936-cbb1-49b4-99fb-73c4f0212268</guid>
-            <pubDate>Thu, 19 May 2016 01:48:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
