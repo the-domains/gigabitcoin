@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 13:38:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 13:38:22 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Voxel Foundation To Support Outreach For Virtual Reality Development]]></title>
-            <description><![CDATA[<article><h1>Voxel Foundation To Support Outreach For Virtual Reality Development</h1><p>Voxelus, which considers itself to be the world's first virtual reality (VR) content creation platform and marketplace, has launched a Voxel Foundation to expand the use of Voxel, its in-game cryptocurrency. Voxelus will fund the foundation with a grant of 5 million Voxels, with as much as 10 million more Voxels in the future to support its mission, according to CEO Martin Repetto.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6079d3ae1fbb4421d020f34c84099fca734cd732.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/voxel-foundation-support-outreach-virtual-reality-development/</link>
-            <guid isPermaLink="false">1f9c8adf-667c-4bba-8d96-c7aeb6b36e40</guid>
-            <pubDate>Thu, 19 May 2016 13:36:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The DAO Push Ethereum Mining Profitability to the Moon]]></title>
-            <description><![CDATA[<article><h1>The DAO Push Ethereum Mining Profitability to the Moon</h1><p>Press Release: CoinWarz, a platform that allows miners to compare cryptocurrency mining profitability, recently launched their Ethereum mining calculator. The launch was timed perfectly with 'The DAO' crowdfund - a project with the potential to push Ethereum mining profitability to the moon.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74d90da36fb6a8701e38b2a9fe448a401c02bc74.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/19/dao-push-ethereum-mining-profitability-moon/</link>
-            <guid isPermaLink="false">6feecc03-1c6b-4afb-8367-cebd1fdcdcdc</guid>
-            <pubDate>Thu, 19 May 2016 13:36:39 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Android Wear 2.0 Conveniently Puts Bitcoin Information On A Wrist]]></title>
             <description><![CDATA[<article><h1>Android Wear 2.0 Conveniently Puts Bitcoin Information On A Wrist</h1><p>Google has announced Android Wear 2.0 during their O/O 2016 conference. As more details are becoming available, it becomes clear these new wearables will be able to connect to the internet without a smartphone. Checking up on Bitcoin from your wrist will become a whole lot easier.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd6f35c2cd7bfb51a95158fb665ead3fe1daedaf.png"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>https://news.bitcoin.com/clinical-blockchain-stop-fraud-science/</link>
             <guid isPermaLink="false">5057b483-38ed-4cd4-998f-fe060b1b97ed</guid>
             <pubDate>Thu, 19 May 2016 13:36:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum to Open Blockchain Research Center in Russia's Silicon Valley]]></title>
+            <description><![CDATA[<article><h1>Ethereum to Open Blockchain Research Center in Russia's Silicon Valley</h1><p>Ethereum blockchain platform is to open a Blockchain research center in Skolkovo (Russia's counterpart of Silicon Valley), and partner with Acronis data management company, as reported by the Russian VC.ru. On Monday, Vitalik Buterin, the founder of Ethereum platform, hosted the "Ethereum Russia 2016" conference in Skolkovo, which was also attended by the representatives of QIWI payment processor, AlmazCapital venture fund, IBM, Waves, and Acronis.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92378f4a36a937cae73c03ac749c672553405d38.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/ethereum-to-open-blockchain-research-center-in-russias-silicon-valley</link>
+            <guid isPermaLink="false">db3f6788-3298-48b3-a5a9-0ac05a9d9408</guid>
+            <pubDate>Thu, 19 May 2016 13:36:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Robin Hood hacker donates $11,000 stolen Bitcoin to help fight ISIS]]></title>
+            <description><![CDATA[<article><h1>Robin Hood hacker donates $11,000 stolen Bitcoin to help fight ISIS</h1><p>A Kurdish region of Syria that borders territory held by the Islamic State militant group (ISIS) has received an $11,000 donation in allegedly stolen bitcoin from a vigilante hacker. The pseudonymous Phineas Fisher donated 25 bitcoins to a crowdfunding campaign set up by members of the Rojava region's economic committee, described by Fisher as "one of the most inspiring revolutionary projects in the world."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14e5a613c9fc8b86535703234aeff8c4b5f73673.jpg"></article>]]></description>
+            <link>http://www.newsweek.com/robin-hood-hacker-donates-stolen-bitcoin-help-fight-isis-461245?rx=us</link>
+            <guid isPermaLink="false">465f00b9-c775-4c36-9a2e-342e70d0fbe8</guid>
+            <pubDate>Thu, 19 May 2016 13:36:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
