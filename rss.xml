@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 01:50:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 01:50:31 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[My BTCJam Investment Just Went Bust]]></title>
-            <description><![CDATA[<article><h1>My BTCJam Investment Just Went Bust</h1><p>Share on Facebook Share on Twitter Share on Google+ Share on LinkedIn+BTCJam is a Bitcoin peer to peer lending platform. About 6 months ago I reviewed BTCJam and concluded it to be a solid option for people who are willing to take calculated risks on their Bitcoins for higher rewards.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff60097b11739bdd6aebed6476e0092d4b724cf6.jpg"></article>]]></description>
-            <link>https://99bitcoins.com/btcjam-investment-went-bust/</link>
-            <guid isPermaLink="false">5d72463b-eb38-48aa-8668-595ff4b8c697</guid>
-            <pubDate>Thu, 19 May 2016 01:48:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Erik Voorhees: Complying With BitLicense Would Have Made ShapeShift Hack Much Worse]]></title>
-            <description><![CDATA[<article><h1>Erik Voorhees: Complying With BitLicense Would Have Made ShapeShift Hack Much Worse</h1><p>The recent hacks at ShapeShift, a sort of vending machine for altcoins, has been one of the biggest stories in Bitcoin for the past few weeks. Although the hacks were a serious hit to the exchange, CEO Erik Voorhees claims things could have been much worse if the startup had decided to comply with BitLicense regulations in New York.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7aee90ff87d00c9b6cbf49fddd4df67d330df05d.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/erik-voorhees-complying-with-bitlicense-would-have-made-shapeshift-hack-much-worse-1463587103</link>
-            <guid isPermaLink="false">2b6f1fde-a0e7-495e-9900-9da5ffb4d6b8</guid>
-            <pubDate>Thu, 19 May 2016 01:48:13 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Mycelium Bitcoin Wallet Crowdsale Closes in on $1 Million Fundraise, Integrates Glidera]]></title>
             <description><![CDATA[<article><h1>Mycelium Bitcoin Wallet Crowdsale Closes in on $1 Million Fundraise, Integrates Glidera</h1><p>In a month of big news for the Bitcoin wallet, Mycelium has announced the integration of Glidera. Now, users can buy and sell bitcoin in the United States and Canada through the oldest wallet in the Bitcoin space besides the original Satoshi client.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6503e2e563372c5a949ad8fda85423446f8b96b.jpg"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>Ethical Hacker and Bitcoin Hero Johoe Joins SatoshiLabs as TREZOR Cryptographer</h1><p>May, 18 2016 - SatoshiLabs is thrilled to announce that Dr. Jochen Hoenicke aka johoe has joined the company as TREZOR Cryptographer. Dr. Hoenicke comes with a wealth of expertise within software development and cryptography.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e04c4135972d30daf6916e60326ba9e59390cf30.png"></article>]]></description>
             <link>http://gigabitcoin.xyz/ethical-hacker-and-bitcoin-hero-johoe-joins-satoshilabs-as-t/index.html</link>
             <guid isPermaLink="false">5c954c00-80c2-47a6-a6df-c8ef40ab7191</guid>
+            <pubDate>Thu, 19 May 2016 01:48:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Android Version of SaruTobi Has Been Released]]></title>
+            <description><![CDATA[<article><h1>Android Version of SaruTobi Has Been Released</h1><p>It has been coming for quite some time now, but popular Bitcoin game SaruTobi is finally available to Android users. The developers have released the information earlier today, and the app can be found in the Google Play Store. Android users all over the world can grab the game and install it on their device as of today.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e6e86bec666cb33d4ba81649d2130477b4ebecb.jpg"></article>]]></description>
+            <link>http://themerkle.com/android-version-of-sarutobi-has-been-released/</link>
+            <guid isPermaLink="false">ef7167fa-fae3-489a-b1ca-bc79f26b9546</guid>
+            <pubDate>Thu, 19 May 2016 01:48:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nasdaq Explores How Blockchain Could Fuel Solar Energy Market - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Nasdaq Explores How Blockchain Could Fuel Solar Energy Market - CoinDesk</h1><p>During a demonstration at Nasdaq's global headquarters today, the stock exchange operator unveiled a service that lets solar power generators sell certificates using its Linq blockchain service. The solar panels are connected to the Internet with technology provided by Filament, a Nevada-based blockchain startup that has raised $6m in venture capital to build technology that allows traditional electronic devices to be connected online.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a23ea40fcd5eedc8439b5d313b3c88db6d69804b.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/nasdaq-blockchain-solar-power-market/</link>
+            <guid isPermaLink="false">32c53e6b-5114-429b-a022-e7aadbce1437</guid>
             <pubDate>Thu, 19 May 2016 01:48:12 GMT</pubDate>
         </item>
     </channel>
