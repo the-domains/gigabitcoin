@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 17:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 May 2016 17:17:57 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Payments Giant Qiwi is Building a Blockchain Replacement for its Core Database - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Payments Giant Qiwi is Building a Blockchain Replacement for its Core Database - CoinDesk</h1><p>Russian payments firm Qiwi is currently designing its own proprietary blockchain in an effort to replace its central payments processing database. Called the "Qiwi blockchain system", the company's development effort focuses on how its core database of customer transactions could be replaced to reduce costs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75bcc5c1932a4fd5e474560c150bca6d1bb92669.png"></article>]]></description>
+            <link>http://www.coindesk.com/qiwi-replace-payments-processor-blockchain/</link>
+            <guid isPermaLink="false">70e95d35-6bc0-466c-847a-18604c4d1b29</guid>
+            <pubDate>Fri, 20 May 2016 17:17:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[More Stake Pools For Decred (DCR) Are Launching]]></title>
+            <description><![CDATA[<article><h1>More Stake Pools For Decred (DCR) Are Launching</h1><p>The main Decred (DCR) staking pool hasn't been accepting new registrations for quite a while, but now more staking pools are expected to soon be available. The first from the new wave of DCR staking pools is from Stakeminer that is already running on the mainnet with a few more still on the testnet that should soon also become available of the main Decred network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9815a263311827d42aaad53a86524151656bb5c9.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7864-more-stake-pools-for-decred-dcr-are-launching/</link>
+            <guid isPermaLink="false">e8f78f5c-eed4-4d1c-b335-a508313ca599</guid>
+            <pubDate>Fri, 20 May 2016 17:17:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Are Altcoins Bitcoin's Friends or Enemies?]]></title>
+            <description><![CDATA[<article><h1>Are Altcoins Bitcoin's Friends or Enemies?</h1><p>Altcoins have a long tradition in the Bitcoin community, but they tend to cause a contentious divide among those who think they're useful and those who think they're all scams. One side of the argument, articulated by the Satoshi Nakamoto Institute's Daniel Krawisz, is that altcoins have no chance of success and distract possible users from Bitcoin, while the other side, articulated by many Ethereum supporters, believe platforms such as Bitcoin and Ethereum can work together.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd53904a2c444aabcf9fcf3ef6afb405bb9281d7.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/are-altcoins-bitcoin-s-friends-or-enemies-1463761410</link>
+            <guid isPermaLink="false">69616165-8404-40af-88cd-a8424bc0936e</guid>
+            <pubDate>Fri, 20 May 2016 17:17:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['Decentralized Uber' Arcade City: 'We Will Submit a DAO Proposal']]></title>
             <description><![CDATA[<article><h1>'Decentralized Uber' Arcade City: 'We Will Submit a DAO Proposal'</h1><p>Until this week, our biggest successes were in Midland, TX, and Fresno, CA. In both cities we had a core group of highly motivated drivers who took the initiative to build large networks of riders and drivers themselves. They printed up business cards, went into bars, promoted themselves, organized drivers on Facebook, and stirred up business.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c01469e4d57068d42ca73f88271fa7ff2be37305.jpg"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>http://www.newsbtc.com/2016/05/20/coinbase-becomes-gdax-adds-ethereum-litecoin-trading/</link>
             <guid isPermaLink="false">1fe67f8c-4a3c-42b1-9a06-ba64c392919c</guid>
             <pubDate>Fri, 20 May 2016 13:36:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tech Bureau and NEM Develop Catapult Blockchain Engine]]></title>
-            <description><![CDATA[<article><h1>Tech Bureau and NEM Develop Catapult Blockchain Engine</h1><p>Tech Bureau Corp is one of the most prominent blockchain players in Japan, and their partnership with NEW will lead to the development of a new blockchain engine called Catapult. This new engine is an augmented and amended version of Mijin, which was also developed in partnership with NEM.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0cd237bf0cdcd45ba5efd5fd09dc13a66895027.png"></article>]]></description>
-            <link>http://bitcoinist.net/tech-bureau-and-nem-develop-catapult-blockchain-engine/</link>
-            <guid isPermaLink="false">e2f90782-7131-4149-88a5-1a059cd22e7c</guid>
-            <pubDate>Fri, 20 May 2016 13:36:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Have you tested blockchain technology on any businesses you have equity in?]]></title>
-            <description><![CDATA[<article><h1>Have you tested blockchain technology on any businesses you have equity in?</h1><p>Answer (1 of 2): Yes. I'm trying to use blockchain to keep track of my loans and trade financing deals, and it is a *PAIN*. I'm one of the developers of Hyperledger fabric, and getting the &^%&^% code to $#%$#%#$% do $%$&$^&% productive is a $#%$#% pain in the $%%^%$^.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/Have-you-tested-blockchain-technology-on-any-businesses-you-have-equity-in</link>
-            <guid isPermaLink="false">4650db2f-ad97-4ae1-b77b-45f2fee2f26d</guid>
-            <pubDate>Fri, 20 May 2016 13:36:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is bitcoin the most powerful currency?]]></title>
-            <description><![CDATA[<article><h1>Is bitcoin the most powerful currency?</h1><p>Answer (1 of 3): Thanks A2A The most powerful? Oh, really? it sounds like tricky and Utopian I guess. It's a lot like in 1900 you asked whether USD would be as powerful as Gold, making it become the most powerful currency in the world that dominates all the financial system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/Is-bitcoin-the-most-powerful-currency</link>
-            <guid isPermaLink="false">0273ba37-da24-4240-8d02-d6a575034aff</guid>
-            <pubDate>Fri, 20 May 2016 13:36:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
