@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 17:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 May 2016 17:18:06 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Got sent 38btc instead of $38 usd worth of btc * /r/Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Got sent 38btc instead of $38 usd worth of btc * /r/Bitcoin</h1><p>Wish I could say I didn't contemplate keeping it. Can't say I'll see that much money "in my hands" ever, or in a long ass time. [Here's the...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a76f6614c8b4534eedff6b4cb79837a922e93f74.jpg"></article>]]></description>
+            <link>https://www.reddit.com/r/Bitcoin/comments/4k792v/got_sent_38btc_instead_of_38_usd_worth_of_btc/</link>
+            <guid isPermaLink="false">6f5bb4e4-6002-47a4-b01d-5eaf988db1d4</guid>
+            <pubDate>Fri, 20 May 2016 17:17:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Smart Contracts Are Solution To Nigeria's "Fantastic Corruption"]]></title>
             <description><![CDATA[<article><h1>Smart Contracts Are Solution To Nigeria's "Fantastic Corruption"</h1><p>Smart contracts can help avoid human error and prevent fraud in countries like Nigeria. Among many vices, corruption in Nigeria stands as one of its biggest problems. Several administrations have been and gone with claims of fighting corruption. Despite the application of orthodox methods, not much has been achieved.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/390378c33551d8cf8513af428aa9894d9a1e2ae5.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Factom Technical Analysis for 05/20/2016 - Pivot Level Overview</h1><p>My previous Factom article, the one on the 13th, talked about the technical significance of the 0.0023 level and why it must hold as support, otherwise the bear market would continue. Since the 13th, the 0.023 area acted as support on multiple times and the market finally began to rally, yesterday.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a37919a0c53e93a1a0b9d3920574a95eb866a32d.png"></article>]]></description>
             <link>http://themerkle.com/factom-technical-analysis-for-05202016/</link>
             <guid isPermaLink="false">a2c65f3b-ace5-47d1-8c91-a3ac450fb0d6</guid>
-            <pubDate>Fri, 20 May 2016 17:17:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Payments Giant Qiwi is Building a Blockchain Replacement for its Core Database - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Payments Giant Qiwi is Building a Blockchain Replacement for its Core Database - CoinDesk</h1><p>Russian payments firm Qiwi is currently designing its own proprietary blockchain in an effort to replace its central payments processing database. Called the "Qiwi blockchain system", the company's development effort focuses on how its core database of customer transactions could be replaced to reduce costs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75bcc5c1932a4fd5e474560c150bca6d1bb92669.png"></article>]]></description>
-            <link>http://www.coindesk.com/qiwi-replace-payments-processor-blockchain/</link>
-            <guid isPermaLink="false">70e95d35-6bc0-466c-847a-18604c4d1b29</guid>
             <pubDate>Fri, 20 May 2016 17:17:08 GMT</pubDate>
         </item>
     </channel>
