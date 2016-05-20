@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 03:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 May 2016 03:12:44 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[What is the reason for the recent drop in Bitcoin classic nodes?]]></title>
-            <description><![CDATA[<article><h1>What is the reason for the recent drop in Bitcoin classic nodes?</h1><p>Was it just a VPS based ploy to temporarily fake demand for the protocol?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/44173/what-is-the-reason-for-the-recent-drop-in-bitcoin-classic-nodes</link>
-            <guid isPermaLink="false">3ba82001-fcfa-4503-86f1-d956edc5bd7b</guid>
-            <pubDate>Fri, 20 May 2016 03:10:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SaruTobi, the Game That Tips Players in Bitcoin, Is Now On Android - Bitcoin News]]></title>
-            <description><![CDATA[<article><h1>SaruTobi, the Game That Tips Players in Bitcoin, Is Now On Android - Bitcoin News</h1><p>SaruTobi, the mobile game that spreads Bitcoin use by tipping its players, has at last released a version for Android - with added cross-game features. Also read: Blockchain Launches Thunder Network Prototype SaruTobi Arrives on Android The game has been popular on iOS since it first appeared in December 2014.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7531d37d963d5c6575c8656c3b2dea2d79f6c7b1.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/sarutobi-game-tips-players-bitcoin-now-android/</link>
-            <guid isPermaLink="false">2db45140-5cad-4345-8408-57c8b8d75393</guid>
-            <pubDate>Fri, 20 May 2016 03:10:25 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin marketplace Purse launches pre-order service]]></title>
             <description><![CDATA[<article><h1>Bitcoin marketplace Purse launches pre-order service</h1><p>Purse.io, known for providing deep discounts on Amazon products by using bitcoin, announced Tuesday a new service called Purse Pre, where consumers can pre-order the latest gadgets. The San Francis...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14ce5744d0d51828aa2c4e59d5e79b510a56e1a3.png"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>What's up with the Philippines and Cashless Economy? - NEWSBTC</h1><p>The rate of adoption of mobile money and bitcoin is increasing in the Philippines, driving the country towards a cashless economy. The Asian countries have exhibited tremendous economic growth in the past few years. While China and India make the icing on the cake, Philippines is right around the corner.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73b87a7d15dbaadae5ff9bb10b54cbca01afab2e.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/05/19/philippines-cashless-economy/</link>
             <guid isPermaLink="false">c1352929-c9c7-4b6a-b6c5-6e34e1b4303c</guid>
+            <pubDate>Fri, 20 May 2016 03:10:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coinbase will start trading bitcoin rival etherum on its cryptocurrency exchange]]></title>
+            <description><![CDATA[<article><h1>Coinbase will start trading bitcoin rival etherum on its cryptocurrency exchange</h1><p>Ethereum is having a moment. Coinable, a bitcoin-only exchange, is planning to add support for ethereum, the company said today (May 19). Coinbase exchange users will be able to buy and sell ether, the virtual currency unit behind ethereum starting Tuesday, May 24. Ether is currently trading at about $14 USD (bitcoin is trading at around $448...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d746349d5871037b3b44472856fe4d4a254b8074.jpg"></article>]]></description>
+            <link>http://qz.com/687482/coinbase-will-start-trading-bitcoin-rival-etherum-on-its-cryptocurrency-exchange/</link>
+            <guid isPermaLink="false">66d54fcb-cb06-4e84-8c21-3f9d79b68c70</guid>
+            <pubDate>Fri, 20 May 2016 03:10:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia's 'Bitcoin Ban' Faces Uncertain Future After Draft Bill Withdrawn - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Russia's 'Bitcoin Ban' Faces Uncertain Future After Draft Bill Withdrawn - CoinDesk</h1><p>A bill prepared by Russia's Ministry of Finance targeting the creation and circulation of so-called money surrogates, a classification that would include digital currencies like bitcoin, has been at least temporarily withdrawn from consideration following comments from the country's Justice Ministry.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c291827691171750678e29c932db235fbfe6641e.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/russias-bitcoin-ban-draft-bill-withdrawn/</link>
+            <guid isPermaLink="false">73fb62d0-fcbb-45e7-ad0e-1a0ced2f2e2d</guid>
             <pubDate>Fri, 20 May 2016 03:10:25 GMT</pubDate>
         </item>
     </channel>
