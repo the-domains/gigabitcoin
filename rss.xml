@@ -7,13 +7,6 @@
         <lastBuildDate>Fri, 20 May 2016 13:37:20 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[BTCPOP offer Instant Collateral Loans - Bitcoin News]]></title>
-            <description><![CDATA[<article><h1>BTCPOP offer Instant Collateral Loans - Bitcoin News</h1><p>Disclaimer: Bitcoin.com does not endorse nor support this product, use at your own risk. This is a Press Release. Submit yours today here! As of today (Friday 20th May 2016), BTCPOP are the first ever P2P bitcoin lending company that offer Collateral Instant Loans.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35f07258b8318e15cfa74c0ed421e3b29272b5a9.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/btcpop-offer-instant-collateral-loans/</link>
-            <guid isPermaLink="false">3e2d566c-c791-4875-a45f-d3ce8fda0c1f</guid>
-            <pubDate>Fri, 20 May 2016 13:36:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Coinbase to Offer Ether, Litecoin Under New GDAX Brand]]></title>
             <description><![CDATA[<article><h1>Coinbase to Offer Ether, Litecoin Under New GDAX Brand</h1><p>Coinbase has announced its part rebranding to GDAX following its decision to support Ether (ETH), with Litecoin (LTC) also "in the works." Also read: Ripple & Coinbase Expected to Obtain NY BitLicense A week after its fourth birthday, the service made an initial "clarifying announcement" via Twitter Thursday: To clarify, Coinbase (our consumer product) is not rebranding.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea854d7f956d602e6da6d5d52758963e43816f03.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/coinbase-ether-litecoin-trade-gdax/</link>
@@ -75,6 +68,13 @@
             <link>http://www.fiercebiotech.com/cro/doctors-use-bitcoin-tech-to-improve-transparency-trial-research</link>
             <guid isPermaLink="false">5e4b3354-8545-41a5-8374-4353cb095481</guid>
             <pubDate>Fri, 20 May 2016 03:10:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Are there any projections about when transaction fees per block will equal block reward?]]></title>
+            <description><![CDATA[<article><h1>Are there any projections about when transaction fees per block will equal block reward?</h1><p>A spreadsheet with a base projection and the following editable variables (for a given block height) would be great: BTC transaction volume per block Number of transaction per block Average</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/44196/are-there-any-projections-about-when-transaction-fees-per-block-will-equal-block</link>
+            <guid isPermaLink="false">fa85c750-d49e-4e69-a6f8-121ed02b0e1b</guid>
+            <pubDate>Fri, 20 May 2016 03:10:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
