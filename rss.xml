@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 17:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 May 2016 19:01:58 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Researchers Plan 'Unstoppable' DAO to Help Whales Save Themselves - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Researchers Plan 'Unstoppable' DAO to Help Whales Save Themselves - CoinDesk</h1><p>In an attempt to better understand the technical, legal and sociological impact of decentralized autonomous organizations (DAOs) a group of researchers is planning to launch a DAO that would seek to "save the whales".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9778a859a0f4888ce3331f0e5b227345772d50a4.png"></article>]]></description>
+            <link>http://www.coindesk.com/researchers-dao-save-the-whales/</link>
+            <guid isPermaLink="false">d619370c-ef27-4dc9-b83e-5e108acbd2d1</guid>
+            <pubDate>Fri, 20 May 2016 19:01:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Core has solved the scalability issue! * /r/btc]]></title>
+            <description><![CDATA[<article><h1>Core has solved the scalability issue! * /r/btc</h1><p>By keeping the blocksize at 1MB they have motivated users to look to other blockchains. Problem solved!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
+            <link>https://www.reddit.com/r/btc/comments/4k5k80/core_has_solved_the_scalability_issue/</link>
+            <guid isPermaLink="false">5870ef36-2229-453a-afa4-e980a5e2aebe</guid>
+            <pubDate>Fri, 20 May 2016 19:01:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Exchange Coinbase Adds Ethereum Trading; Set for Rebrand]]></title>
             <description><![CDATA[<article><h1>Bitcoin Exchange Coinbase Adds Ethereum Trading; Set for Rebrand</h1><p>Prominent bitcoin exchange Coinbase will soon add digital currency on its trading platform, with trading to commence on Tuesday, May 24. The inclusion of ether on the trading platform comes at a time when there is an increased interest in the second major cryptocurrency after bitcoin in market captalization, amid increased valuation of Ether.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25ca7adc4e33be1b85e62d6c7846589e21a1d7ac.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Electrum Faces Some Slack Over Replace-by-Fee Change</h1><p>The Bitcoin world always seems to be filled with some drama, and there is a new debacle regarding the replace-by-fee structure coming to Electrum shortly. This has caused a stir among /r/BTC community members, so let's see what all the fuss is all about.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/adf4485c50a8d1d5473123106a500f90ad580512.jpg"></article>]]></description>
             <link>http://themerkle.com/electrum-faces-some-slack-over-replace-by-fee-change/</link>
             <guid isPermaLink="false">798cd898-71c5-4a1a-8286-41fc9de8d514</guid>
-            <pubDate>Fri, 20 May 2016 17:17:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cards, Dice and DAO: The Isle of Man Could Become The World's Gambling Heaven]]></title>
-            <description><![CDATA[<article><h1>Cards, Dice and DAO: The Isle of Man Could Become The World's Gambling Heaven</h1><p>The Isle of Man could become the Switzerland for Bitcoin as the small island's government has been quick to react to the growth of digital currencies. Over the past twenty years the proliferation of the internet has brought about a golden age of gambling.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15f421994723a0ab87e262606d20b950cdc9c692.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/cards-dice-and-dao-the-isle-of-man-could-become-the-worlds-gambling-heaven</link>
-            <guid isPermaLink="false">02604316-dc5f-4891-8b22-3aefacaa32be</guid>
-            <pubDate>Fri, 20 May 2016 17:17:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain Goes Beyond Crypto-Currency]]></title>
-            <description><![CDATA[<article><h1>Blockchain Goes Beyond Crypto-Currency</h1><p>Starting next September, some logistics companies in Finland, Sweden, Estonia, and Latvia will begin outfitting shipping containers with a soda-can-size device that will beam out the cargo's location, how much it's vibrating as it travels, and its ambient temperature.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff958e251d9ffcaea5034952ef8622c799b63810.jpg"></article>]]></description>
-            <link>http://www.bloomberg.com/news/articles/2016-05-19/built-for-bitcoin-blockchain-goes-beyond-crypto-currency</link>
-            <guid isPermaLink="false">acfd6bd6-27a2-413b-80c8-38ea59a9a984</guid>
             <pubDate>Fri, 20 May 2016 17:17:08 GMT</pubDate>
         </item>
     </channel>
