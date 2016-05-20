@@ -4,29 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 17:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 May 2016 17:17:55 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Factom Technical Analysis for 05/20/2016 - Pivot Level Overview]]></title>
-            <description><![CDATA[<article><h1>Factom Technical Analysis for 05/20/2016 - Pivot Level Overview</h1><p>My previous Factom article, the one on the 13th, talked about the technical significance of the 0.0023 level and why it must hold as support, otherwise the bear market would continue. Since the 13th, the 0.023 area acted as support on multiple times and the market finally began to rally, yesterday.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a37919a0c53e93a1a0b9d3920574a95eb866a32d.png"></article>]]></description>
-            <link>http://themerkle.com/factom-technical-analysis-for-05202016/</link>
-            <guid isPermaLink="false">a2c65f3b-ace5-47d1-8c91-a3ac450fb0d6</guid>
-            <pubDate>Fri, 20 May 2016 17:17:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Payments Giant Qiwi is Building a Blockchain Replacement for its Core Database - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Payments Giant Qiwi is Building a Blockchain Replacement for its Core Database - CoinDesk</h1><p>Russian payments firm Qiwi is currently designing its own proprietary blockchain in an effort to replace its central payments processing database. Called the "Qiwi blockchain system", the company's development effort focuses on how its core database of customer transactions could be replaced to reduce costs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75bcc5c1932a4fd5e474560c150bca6d1bb92669.png"></article>]]></description>
-            <link>http://www.coindesk.com/qiwi-replace-payments-processor-blockchain/</link>
-            <guid isPermaLink="false">70e95d35-6bc0-466c-847a-18604c4d1b29</guid>
-            <pubDate>Fri, 20 May 2016 17:17:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[More Stake Pools For Decred (DCR) Are Launching]]></title>
-            <description><![CDATA[<article><h1>More Stake Pools For Decred (DCR) Are Launching</h1><p>The main Decred (DCR) staking pool hasn't been accepting new registrations for quite a while, but now more staking pools are expected to soon be available. The first from the new wave of DCR staking pools is from Stakeminer that is already running on the mainnet with a few more still on the testnet that should soon also become available of the main Decred network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9815a263311827d42aaad53a86524151656bb5c9.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7864-more-stake-pools-for-decred-dcr-are-launching/</link>
-            <guid isPermaLink="false">e8f78f5c-eed4-4d1c-b335-a508313ca599</guid>
-            <pubDate>Fri, 20 May 2016 17:17:07 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Are Altcoins Bitcoin's Friends or Enemies?]]></title>
             <description><![CDATA[<article><h1>Are Altcoins Bitcoin's Friends or Enemies?</h1><p>Altcoins have a long tradition in the Bitcoin community, but they tend to cause a contentious divide among those who think they're useful and those who think they're all scams. One side of the argument, articulated by the Satoshi Nakamoto Institute's Daniel Krawisz, is that altcoins have no chance of success and distract possible users from Bitcoin, while the other side, articulated by many Ethereum supporters, believe platforms such as Bitcoin and Ethereum can work together.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd53904a2c444aabcf9fcf3ef6afb405bb9281d7.jpg"></article>]]></description>
@@ -75,6 +54,27 @@
             <link>http://www.newsbtc.com/2016/05/20/ethereum-price-technical-analysis-eth-burst/</link>
             <guid isPermaLink="false">c55a24fd-38e0-43e7-8c41-3b50acb309d8</guid>
             <pubDate>Fri, 20 May 2016 13:36:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coinbase Becomes GDAX And Adds Ethereum and Litecoin Trading]]></title>
+            <description><![CDATA[<article><h1>Coinbase Becomes GDAX And Adds Ethereum and Litecoin Trading</h1><p>Coinbase/GDAX joins a very long list of Bitcoin exchanges who have added Ethereum in the past. Exciting times are ahead for Coinbase customers and Ethereum enthusiasts, as the exchange platform will support ETH trading soon. Additionally, the company will rebrand to GDAX, and the new website and logo will be coming soon.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9de99c1008cf70834ead230f9afe476c1c45eae8.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/20/coinbase-becomes-gdax-adds-ethereum-litecoin-trading/</link>
+            <guid isPermaLink="false">1fe67f8c-4a3c-42b1-9a06-ba64c392919c</guid>
+            <pubDate>Fri, 20 May 2016 13:36:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tech Bureau and NEM Develop Catapult Blockchain Engine]]></title>
+            <description><![CDATA[<article><h1>Tech Bureau and NEM Develop Catapult Blockchain Engine</h1><p>Tech Bureau Corp is one of the most prominent blockchain players in Japan, and their partnership with NEW will lead to the development of a new blockchain engine called Catapult. This new engine is an augmented and amended version of Mijin, which was also developed in partnership with NEM.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0cd237bf0cdcd45ba5efd5fd09dc13a66895027.png"></article>]]></description>
+            <link>http://bitcoinist.net/tech-bureau-and-nem-develop-catapult-blockchain-engine/</link>
+            <guid isPermaLink="false">e2f90782-7131-4149-88a5-1a059cd22e7c</guid>
+            <pubDate>Fri, 20 May 2016 13:36:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Have you tested blockchain technology on any businesses you have equity in?]]></title>
+            <description><![CDATA[<article><h1>Have you tested blockchain technology on any businesses you have equity in?</h1><p>Answer (1 of 2): Yes. I'm trying to use blockchain to keep track of my loans and trade financing deals, and it is a *PAIN*. I'm one of the developers of Hyperledger fabric, and getting the &^%&^% code to $#%$#%#$% do $%$&$^&% productive is a $#%$#% pain in the $%%^%$^.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/Have-you-tested-blockchain-technology-on-any-businesses-you-have-equity-in</link>
+            <guid isPermaLink="false">4650db2f-ad97-4ae1-b77b-45f2fee2f26d</guid>
+            <pubDate>Fri, 20 May 2016 13:36:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
