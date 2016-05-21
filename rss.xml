@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 17:08:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 18:47:32 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Will Blockchain save businesses and consumers save billions of dollars by reducing losses from theft and fraud?]]></title>
+            <description><![CDATA[<article><h1>Will Blockchain save businesses and consumers save billions of dollars by reducing losses from theft and fraud?</h1><p>Even more so than the U.S and the U.K. Being both a Law graduate and Veteran combat officer I can testify first hand - He is spot on. Here's a tip to stop viewing the world in Black and White (Which the phrasing of the question implies) - When you learn of the sad results of a-symmetr...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/Will-Blockchain-save-businesses-and-consumers-save-billions-of-dollars-by-reducing-losses-from-theft-and-fraud</link>
+            <guid isPermaLink="false">fb0c2c20-218b-4e63-9a15-860fbbb23426</guid>
+            <pubDate>Sat, 21 May 2016 18:47:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How do I store/download a file in the Bitcoin blockchain network if that's possible?]]></title>
+            <description><![CDATA[<article><h1>How do I store/download a file in the Bitcoin blockchain network if that's possible?</h1><p>Answer (1 of 3): Most of the time, when you hear about files being stored on Bitcoin's blockchain, people really mean hashes of files are being stored, in a field called OP_RETURN, when making a bitcoin payment. This is like typing into the free text field you often have when making a bank paymen...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/How-do-I-store-download-a-file-in-the-Bitcoin-blockchain-network-if-thats-possible</link>
+            <guid isPermaLink="false">da99ebbf-8ff9-4557-b85a-c6b4b6eccd74</guid>
+            <pubDate>Sat, 21 May 2016 17:05:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From the Fields of Lightning: Kyiv Bitcoin Lightning Network Meetup]]></title>
+            <description><![CDATA[<article><h1>From the Fields of Lightning: Kyiv Bitcoin Lightning Network Meetup</h1><p>As ForkLog reported earlier, last week Kyiv hosted Bitcoin Lightning Meetup featuring the Lightning Network team speaking about what their system may give to the cryptocurrency world. The event took place on May 12 at IDF Reforms Lab under the auspices of BitFury and Distributed Lab, so many thanks go to them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ba260fdb557fb02949d0fc87550bedcb624fdce.jpg"></article>]]></description>
+            <link>http://forklog.net/from-the-fields-of-lightning-kyiv-bitcoin-lightning-network-meetup/</link>
+            <guid isPermaLink="false">b2f4e292-18fb-4363-904f-f0cf23ebe2b8</guid>
+            <pubDate>Sat, 21 May 2016 17:05:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Coinbase Announces Ethereum Support and Rebranding]]></title>
             <description><![CDATA[<article><h1>Coinbase Announces Ethereum Support and Rebranding</h1><p>One of the world's leading bitcoin exchanges and wallet providers Coinbase has announced it intends to add Ethereum to its list of services. Additionally, the exchange intends to undergo rebranding, resulting in a new name and logo. According to Coinbase's VP for business development Adam White, Etheres will become tradeable as of May 24.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0df9f5e139d312e9e253fad450f0bd6db5502606.png"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>http://forklog.net/troubles-at-exchanges-investments-continuing-and-r3cev-exploding-from-within-cryptospace-news-may-8-14/</link>
             <guid isPermaLink="false">a8d0a6ec-ec5c-447f-a7f2-2178792d4165</guid>
             <pubDate>Sat, 21 May 2016 17:05:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lightning Meetup in Kyiv: What Will Happen to Bitcoin After Lightning Network]]></title>
-            <description><![CDATA[<article><h1>Lightning Meetup in Kyiv: What Will Happen to Bitcoin After Lightning Network</h1><p>On May 12, Ukraine's capital of Kyiv hosted Bitcoin Lightning Meetup, where the Lightning Network's team presented their protocol's advantages and spoke about its possible impact on bitcoin and global economy. In this article the basic implications will be explained.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6022d63cc4da7f4eba5ed8044c8b712db6465c08.jpg"></article>]]></description>
-            <link>http://forklog.net/bitcoin-lightning-meetup-in-kyiv-what-will-happen-to-bitcoin-after-lightning-network/</link>
-            <guid isPermaLink="false">228f6c1f-dae3-4509-8a8b-6e712b82c794</guid>
-            <pubDate>Sat, 21 May 2016 17:05:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ecuador Bank Claims To Have Suffered From A SWIFT Breach In 2015]]></title>
-            <description><![CDATA[<article><h1>Ecuador Bank Claims To Have Suffered From A SWIFT Breach In 2015</h1><p>The SWIFT story is far from over, as yet another bank says they have lost funds during the 2015 attack. A bank in Ecuador claims they have been attacked in the same way as Bangladesh bank back in 2015, resulting in a US$12m loss.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c880361aee6562939c5a1776de3c0ad65096c5c7.jpg"></article>]]></description>
-            <link>http://themerkle.com/ecuador-bank-claims-to-have-suffered-from-a-swift-breach-in-2015/</link>
-            <guid isPermaLink="false">e37de048-9c93-4eb7-badb-8d926ad8b237</guid>
-            <pubDate>Sat, 21 May 2016 17:05:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Study Reveals Dash Masternode Yields 18% ROI]]></title>
-            <description><![CDATA[<article><h1>Study Reveals Dash Masternode Yields 18% ROI</h1><p>Alongside its recent block size increase, the digital currency Dash and its Masternode system reveal the protocol is doing more than just governance features. According to a Also read: OpenBazaar is Here but Darknet Markets Will Remain recent study , a Masternode holds similar value to a bond and has given those who operate a node a substantial annual return of investment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3a49c786862ff615f697fc428a458d75431c6aa.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/study-dash-masternode-18-roi/</link>
-            <guid isPermaLink="false">b831ae96-8c67-4b5a-b641-44d0e25064f9</guid>
-            <pubDate>Sat, 21 May 2016 17:05:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
