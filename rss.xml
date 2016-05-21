@@ -4,29 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 17:07:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 17:07:34 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Vitalik Buterin About Ethereum, Smart Contracts, and Himself]]></title>
-            <description><![CDATA[<article><h1>Vitalik Buterin About Ethereum, Smart Contracts, and Himself</h1><p>This week, Vitalik Buterin visited Russia to participate in Ethereum Russia 2016 conference. Over the course of the event, the platform's founder talked with Russian crypto-enthusiasts, entrepreneurs and government officials. Recent hype around Ethereum is quite understandable considering the opportunities offered by the technology.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56abb7f37ca8cc0d59933f53be7939630d166f2d.png"></article>]]></description>
-            <link>http://forklog.net/vitalik-buterin-about-ethereum-smart-contracts-and-himself/</link>
-            <guid isPermaLink="false">dd80a281-568b-4dd1-94b1-e28cb0771434</guid>
-            <pubDate>Sat, 21 May 2016 17:05:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Belarusian Developer Creates a Socket Selling Power for Ethereum]]></title>
-            <description><![CDATA[<article><h1>Belarusian Developer Creates a Socket Selling Power for Ethereum</h1><p>A bitcoin enthusiast and blockchain developer from Belarus has assembled a 'smart socket' capable of selling power and WiFi connection for Ethereum tokens. The smart socket's creator, Valery Litvin, is also one of Cyber.fund developers. He told ForkLog the socket will be officially presented on May 21 at Blockchain Conference Kyiv.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca5829454fd074a1871d4c1d4190f3eb94c009a4.jpg"></article>]]></description>
-            <link>http://forklog.net/belarusian-developer-creates-a-socket-selling-power-for-ethereum/</link>
-            <guid isPermaLink="false">e2e00d1b-8a28-4f93-bdd3-606558ef3689</guid>
-            <pubDate>Sat, 21 May 2016 17:05:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lightning and Thunder: Blockchain.info Releases Alpha Version of Lightning Network's Analogue]]></title>
-            <description><![CDATA[<article><h1>Lightning and Thunder: Blockchain.info Releases Alpha Version of Lightning Network's Analogue</h1><p>Blockchain.info, a company known mostly for an eponymous bitcoin wallet, has announced the release of Thunder Network in alpha, which is said to be the first implementation of Lightning Network protocol. Thunder is an alternative network of nodes allowing for nearly instantaneous off-chain payments, which records them onto blockchain as needed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5abbbaab5b23a027214a413d4868cda77e0cc98a.png"></article>]]></description>
-            <link>http://forklog.net/lightning-and-thunder-blockchain-releases-alpha-version-of-lightning-networks-analogue/</link>
-            <guid isPermaLink="false">e74b2201-66e1-4c2e-bc30-d7766de23858</guid>
-            <pubDate>Sat, 21 May 2016 17:05:10 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Foundation CEO Dismisses Allegations on a Breakup in Bitcoin Community]]></title>
             <description><![CDATA[<article><h1>Bitcoin Foundation CEO Dismisses Allegations on a Breakup in Bitcoin Community</h1><p>Bruce Fenton, CEO at Bitcoin Foundation, attempted to shed some sunlight on myths around Bitcoin in an interview with RT. He stated that most problems associated with the system are a consequence of poor knowledge of cryptocurrency in general.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d5704e7414da6a82bfb18aa2183239475d177de.png"></article>]]></description>
@@ -74,6 +53,27 @@
             <description><![CDATA[<article><h1>segregated witness adoption</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/44224/segregated-witness-adoption</link>
             <guid isPermaLink="false">ffa4a1ec-6e2f-4d11-ba41-2175d63acaef</guid>
+            <pubDate>Sat, 21 May 2016 17:05:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nigeria Offers A Vibrant Bitcoin Ecosystem]]></title>
+            <description><![CDATA[<article><h1>Nigeria Offers A Vibrant Bitcoin Ecosystem</h1><p>Bitcoin is becoming the next big thing in Nigeria by the look of things, as there is a growing demand for this cryptocurrency in the past few weeks. Part of this success comes due to economic policies by the Nigerian government, which is rather surprising.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de2ad88cf5b0f40b184d23e7acbbcaf4944ebb0b.jpg"></article>]]></description>
+            <link>http://themerkle.com/nigeria-offers-a-vibrant-bitcoin-ecosystem/</link>
+            <guid isPermaLink="false">05f42160-e918-448a-995e-ebe1602bc144</guid>
+            <pubDate>Sat, 21 May 2016 17:05:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Syscoin 2.0 Launches DirectBTC on Decentralized Marketplace]]></title>
+            <description><![CDATA[<article><h1>Syscoin 2.0 Launches DirectBTC on Decentralized Marketplace</h1><p>Syscoin, a cryptocurrency built for online merchants and marketplaces, has implemented DirectBTC as part of Syscoin 2.0 which builds on the features established on earlier versions. DirectBTC allows Bitcoin users to participate on the currency's marketplace, which previously required ownership of the coin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d66cd02528dc43103f38a2ae6fe94c115824525c.png"></article>]]></description>
+            <link>http://bitcoinist.net/syscoin-directbtc-marketplace/</link>
+            <guid isPermaLink="false">5341b37d-a82d-4d57-aa10-e5c8ac71a0ff</guid>
+            <pubDate>Sat, 21 May 2016 17:05:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.S. Defense Department Requests Secure Messaging Platform, Will Blockchain Really Serve?]]></title>
+            <description><![CDATA[<article><h1>U.S. Defense Department Requests Secure Messaging Platform, Will Blockchain Really Serve?</h1><p>Imagine ordering a powerful new pneumatic nail gun. You aren't a roofer; you bought it mostly as a toy because you like power tools. The first thing you would do after unpackaging it is start looking around for things to nail and nail you would: walls, your workbench, walls, boards, and walls.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f73efa3a9b849a2e7ef09ac5d3f22c879bb677c9.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/us-defense-department-requests-secure-messaging-platform-will-blockchain-really-serve</link>
+            <guid isPermaLink="false">10fa749a-ac0e-4718-a190-a28462115110</guid>
             <pubDate>Sat, 21 May 2016 17:05:09 GMT</pubDate>
         </item>
     </channel>
