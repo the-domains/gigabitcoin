@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 22:56:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 03:19:57 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ethereum Startup Offers Grants to Open Blockchain Developers - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Ethereum Startup Offers Grants to Open Blockchain Developers - CoinDesk</h1><p>Autonomous financing project String Labs has announced a program to award grants to developers working on Ethereum projects. As part of the effort to seed open blockchain finance projects - permissioned ledgers need not apply - the California-based company will award an unspecified number of grants ranging between $2,000 and $10,000.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4b161c425bbe1d35eee3d42313574b0de6042cb.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/ethereum-grants-open-blockchain/</link>
+            <guid isPermaLink="false">16534c91-974e-494d-ab23-7b27ee14e1cc</guid>
+            <pubDate>Sat, 21 May 2016 03:19:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://imgur.com/yMtxDYI.png"></article>]]></description>
+            <link>http://imgur.com/yMtxDYI</link>
+            <guid isPermaLink="false">507c02d1-6f90-4319-bdb2-134b2575bfac</guid>
+            <pubDate>Fri, 20 May 2016 22:56:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SEC Chief Voices Concerns Over US Financial Structure Cyber Security]]></title>
             <description><![CDATA[<article><h1>SEC Chief Voices Concerns Over US Financial Structure Cyber Security</h1><p>The topics of cyber security and finance do not seem to mix well, and the situation is direr than ever before for the US financial system. That was the statement SEC Chief Mary Jo White made earlier this week, as she feels US financial system cyber policies are inadequately equipped.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df80bc427c192a308f307909bbf3224ec6c32e79.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Automated Exchange AlfaCashier Adds Ethereum</h1><p>AlfaCashier, an online virtual currency & digital payment processor, has announced the addition of Ethereum to its list of supported virtual currencies that also includes Bitcoin, Litecoin, Dogecoin, DASH. Founded in 2012, the exchange service has processed over 290,000 transaction for customers in 150 countries.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bddbcc217931625e1a3e8890f8041b7d71de8349.png"></article>]]></description>
             <link>http://themerkle.com/automated-exchange-alfacashier-adds-ethereum/</link>
             <guid isPermaLink="false">c38152c8-2ca3-470e-bb7c-87ca4cbe5dea</guid>
-            <pubDate>Fri, 20 May 2016 19:01:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Researchers Plan 'Unstoppable' DAO to Help Whales Save Themselves - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Researchers Plan 'Unstoppable' DAO to Help Whales Save Themselves - CoinDesk</h1><p>In an attempt to better understand the technical, legal and sociological impact of decentralized autonomous organizations (DAOs) a group of researchers is planning to launch a DAO that would seek to "save the whales".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9778a859a0f4888ce3331f0e5b227345772d50a4.png"></article>]]></description>
-            <link>http://www.coindesk.com/researchers-dao-save-the-whales/</link>
-            <guid isPermaLink="false">d619370c-ef27-4dc9-b83e-5e108acbd2d1</guid>
-            <pubDate>Fri, 20 May 2016 19:01:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BTC Markets to add DAO tokens to its marketplace]]></title>
-            <description><![CDATA[<article><h1>BTC Markets to add DAO tokens to its marketplace</h1><p>Australian-based cryptocurrency marketplace BTC Markets announced Wednesday it will add support for The DAO tokens on May 28, the same day The DAO is slated to end its token crowdsale. The move wil...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/784cff76937ad561afb29f84cbfd5b9b919eee2e.jpg"></article>]]></description>
-            <link>https://coinreport.net/btc-markets-add-dao-tokens-marketplace/</link>
-            <guid isPermaLink="false">ced70eec-505f-4d17-a7c1-d9e9b53184e7</guid>
             <pubDate>Fri, 20 May 2016 19:01:53 GMT</pubDate>
         </item>
     </channel>
