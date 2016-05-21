@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 03:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 05:55:42 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Social KYC: far easier than passports and utility bills]]></title>
+            <description><![CDATA[<article><h1>Social KYC: far easier than passports and utility bills</h1><p>I just received a white paper about Social KYC from Fintech startup Veridu. The idea is to use our social media profiles to authenticate and onboard as a new 21st century KYC process.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da279cac792ded32c8563f27ed36dffb06ea9818.jpg"></article>]]></description>
+            <link>http://bravenewcoin.com/news/social-kyc-far-easier-than-passports-and-utility-bills/</link>
+            <guid isPermaLink="false">e0b597ef-9c65-4ffd-b0d8-21de6b41187c</guid>
+            <pubDate>Sat, 21 May 2016 05:55:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The price of Ether, a bitcoin rival, is soaring because of a radical, $150 million experiment]]></title>
             <description><![CDATA[<article><h1>The price of Ether, a bitcoin rival, is soaring because of a radical, $150 million experiment</h1><p>Thousands of people have pumped $150 million into what might be the biggest crowdfunded project in history, something called the Decentralized Autonomous Organization (DAO). Compare this to the $20 million raised by the project with the most funds on Kickstarter, the Pebble Time smartwatch.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c0398ae25a81367eb55b14dd6f348de2205d91d.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Why The Blockchain Needs To Replace Archaic Archiving Methods</h1><p>A recent survey in The Netherlands shows how a lot of cities lost important records due to floppy disks and CD-ROMs being used for archiving. In this day and age, hardly anyone uses this form of storage anymore, and the blockchain is a more than viable alternative to this problem.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f129238ee98c1a4204868d42277798334ffa9258.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/blockchain-replace-archaic-archiving/</link>
             <guid isPermaLink="false">5d5c1475-0734-4747-ae62-234d5cf4e392</guid>
-            <pubDate>Sat, 21 May 2016 03:19:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why central banks need to study Bitcoin | HolyTransaction]]></title>
-            <description><![CDATA[<article><h1>Why central banks need to study Bitcoin | HolyTransaction</h1><p>A few days ago Deputy Governor Hiroshi Nakaso explained why central banks from all over the world need to study and focus on Bitcoin and blockchain applications. During an event held in Japan, Nakaso gave a speech about many aspects of the financial environment, including bitcoin and the distrubuted ledger.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/026f673ecc8c0529890833eea9c786778789f08a.jpg"></article>]]></description>
-            <link>http://blog.holytransaction.com/2016/05/why-central-banks-need-to-study-bitcoin.html</link>
-            <guid isPermaLink="false">dc5b844e-d474-4e24-8ecf-5aed23968e69</guid>
             <pubDate>Sat, 21 May 2016 03:19:17 GMT</pubDate>
         </item>
     </channel>
