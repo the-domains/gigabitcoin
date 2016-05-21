@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 17:06:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 17:06:23 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[segregated witness adoption]]></title>
-            <description><![CDATA[<article><h1>segregated witness adoption</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/44224/segregated-witness-adoption</link>
-            <guid isPermaLink="false">ffa4a1ec-6e2f-4d11-ba41-2175d63acaef</guid>
-            <pubDate>Sat, 21 May 2016 17:05:09 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Nigeria Offers A Vibrant Bitcoin Ecosystem]]></title>
             <description><![CDATA[<article><h1>Nigeria Offers A Vibrant Bitcoin Ecosystem</h1><p>Bitcoin is becoming the next big thing in Nigeria by the look of things, as there is a growing demand for this cryptocurrency in the past few weeks. Part of this success comes due to economic policies by the Nigerian government, which is rather surprising.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de2ad88cf5b0f40b184d23e7acbbcaf4944ebb0b.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://letstalkbitcoin.com/blog/post/lets-talk-bitcoin-294-winding-forward</link>
             <guid isPermaLink="false">7f1887ab-90ec-442f-a281-867c48eeaaf6</guid>
             <pubDate>Sat, 21 May 2016 17:05:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blockchain Forum Is A Message Board For Bitcoin Technology Development]]></title>
+            <description><![CDATA[<article><h1>Blockchain Forum Is A Message Board For Bitcoin Technology Development</h1><p>There never seems to be a shortage of forums and online discussions boards where people can talk about Bitcoin and blockchain technology. Blockchain Forum was launched recently, which focuses on decentralized Bitcoin technology. Whereas most online forums and message boards will touch upon the subject of itself, Blockchain Forum wants to take an entirely different approach.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab1b2fdc822936f364fcae62a07c909cfdfa2564.jpg"></article>]]></description>
+            <link>http://themerkle.com/blockchain-forum-is-a-message-board-for-bitcoin-technology-development/</link>
+            <guid isPermaLink="false">a0c8d972-7a1a-4915-ba7d-419ae8298c34</guid>
+            <pubDate>Sat, 21 May 2016 17:05:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
