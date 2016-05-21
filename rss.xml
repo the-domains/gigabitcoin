@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 23:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 23:25:41 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Why GDAX CEO Brian Armstrong Is Not Turning His Back on Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Why GDAX CEO Brian Armstrong Is Not Turning His Back on Bitcoin</h1><p>While these comments have not sparked any significant debate over the past five to six weeks, they are popping up once again now that GBAX will add support for Ethereum. The Coinbase exchange platform will be going through several changes over the coming months, as they will rebrand to GDAX and add two new cryptocurrencies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c22bc69a66565ff98a30502eedea16f38664b04.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/21/gdax-ceo-brian-armstrong-not-turning-back-bitcoin/</link>
-            <guid isPermaLink="false">5386e073-3569-413b-9e0f-2624c932052b</guid>
-            <pubDate>Sat, 21 May 2016 23:25:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wladimir's new GPG key]]></title>
-            <description><![CDATA[<article><h1>Wladimir's new GPG key</h1><p>I just went to install the latest version of bitcoind and discovered that Wladimir has signed the https://bitcoin.org/bin/bitcoin-core-0.12.1/SHA256SUMS.asc file with a new GPG key:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/44238/wladimirs-new-gpg-key</link>
-            <guid isPermaLink="false">cce16608-a211-45eb-a010-7fedcdb48c08</guid>
-            <pubDate>Sat, 21 May 2016 23:25:12 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[New Regulatory Proposal By SEC May Affect Bitcoin ETFs]]></title>
             <description><![CDATA[<article><h1>New Regulatory Proposal By SEC May Affect Bitcoin ETFs</h1><p>A study has been conducted regarding the role of market makers in operating and trading ETFs over the past few years, as well as investors' understanding of these vehicles. The SEC is taking a very close look at all exchange-traded funds, and they might impose "enhanced attention" rules.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd2195cdda24630963da4b0589d26c1d135e12f2.jpg"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>Coinbase Will Have To Refund Double-charged Customers</h1><p>Even Bitcoin exchanges can make a mistake now and then, although people may have a hard time forgiving what Coinbase did not too long ago. Various users have been double-charged on their transactions, although the company has apologized for the mistake. A new topic surfaced on yesterday, explaining how the Coinbase exchange has apparently double-charged a few customers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b367ff23aef3cc8f7de6264fb57e74c9b4ac8c3.jpg"></article>]]></description>
             <link>http://themerkle.com/coinbase-will-have-to-refund-double-charged-customers/</link>
             <guid isPermaLink="false">c7f64404-92ee-4e10-b765-52e6af640609</guid>
+            <pubDate>Sat, 21 May 2016 18:47:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Ticked Fred Wilson into Bitcoin and Blockchain Sector - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>What Ticked Fred Wilson into Bitcoin and Blockchain Sector - NEWSBTC</h1><p>Fred Wilson, the partner at Union Square Ventures recently spoke about his experiences with the blockchain technology and its future. Fred Wilson, the partner at Union Square Ventures which happens to be one of the leading investment firms in the Bitcoin and blockchain technology sector recently spoke at a Coin Center Annual Dinner event held on May 2, 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca49b46e6738363daa158f8bc8fe6ea80a5c1891.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/21/fred-wilson-on-blockchain/</link>
+            <guid isPermaLink="false">d20ca219-9815-4d0a-8ed7-364070863817</guid>
+            <pubDate>Sat, 21 May 2016 18:47:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will Blockchain save businesses and consumers save billions of dollars by reducing losses from theft and fraud?]]></title>
+            <description><![CDATA[<article><h1>Will Blockchain save businesses and consumers save billions of dollars by reducing losses from theft and fraud?</h1><p>Even more so than the U.S and the U.K. Being both a Law graduate and Veteran combat officer I can testify first hand - He is spot on. Here's a tip to stop viewing the world in Black and White (Which the phrasing of the question implies) - When you learn of the sad results of a-symmetr...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/Will-Blockchain-save-businesses-and-consumers-save-billions-of-dollars-by-reducing-losses-from-theft-and-fraud</link>
+            <guid isPermaLink="false">fb0c2c20-218b-4e63-9a15-860fbbb23426</guid>
             <pubDate>Sat, 21 May 2016 18:47:24 GMT</pubDate>
         </item>
     </channel>
