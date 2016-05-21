@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 17:06:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 17:06:18 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Nigeria Offers A Vibrant Bitcoin Ecosystem]]></title>
-            <description><![CDATA[<article><h1>Nigeria Offers A Vibrant Bitcoin Ecosystem</h1><p>Bitcoin is becoming the next big thing in Nigeria by the look of things, as there is a growing demand for this cryptocurrency in the past few weeks. Part of this success comes due to economic policies by the Nigerian government, which is rather surprising.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de2ad88cf5b0f40b184d23e7acbbcaf4944ebb0b.jpg"></article>]]></description>
-            <link>http://themerkle.com/nigeria-offers-a-vibrant-bitcoin-ecosystem/</link>
-            <guid isPermaLink="false">05f42160-e918-448a-995e-ebe1602bc144</guid>
-            <pubDate>Sat, 21 May 2016 17:05:09 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Syscoin 2.0 Launches DirectBTC on Decentralized Marketplace]]></title>
             <description><![CDATA[<article><h1>Syscoin 2.0 Launches DirectBTC on Decentralized Marketplace</h1><p>Syscoin, a cryptocurrency built for online merchants and marketplaces, has implemented DirectBTC as part of Syscoin 2.0 which builds on the features established on earlier versions. DirectBTC allows Bitcoin users to participate on the currency's marketplace, which previously required ownership of the coin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d66cd02528dc43103f38a2ae6fe94c115824525c.png"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Blockchain Forum Is A Message Board For Bitcoin Technology Development</h1><p>There never seems to be a shortage of forums and online discussions boards where people can talk about Bitcoin and blockchain technology. Blockchain Forum was launched recently, which focuses on decentralized Bitcoin technology. Whereas most online forums and message boards will touch upon the subject of itself, Blockchain Forum wants to take an entirely different approach.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab1b2fdc822936f364fcae62a07c909cfdfa2564.jpg"></article>]]></description>
             <link>http://themerkle.com/blockchain-forum-is-a-message-board-for-bitcoin-technology-development/</link>
             <guid isPermaLink="false">a0c8d972-7a1a-4915-ba7d-419ae8298c34</guid>
+            <pubDate>Sat, 21 May 2016 17:05:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What can be done with old (unprofitable) ASICs?]]></title>
+            <description><![CDATA[<article><h1>What can be done with old (unprofitable) ASICs?</h1><p>GPUs used for bitcoin mining have many other purposes and can generally be sold after they are no longer mining enough Bitcoin to meet variable (electricity, etc) costs. What uses do old ASICs have</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/44227/what-can-be-done-with-old-unprofitable-asics</link>
+            <guid isPermaLink="false">01b4487f-e7e5-4f55-9041-da032071f695</guid>
             <pubDate>Sat, 21 May 2016 17:05:08 GMT</pubDate>
         </item>
     </channel>
