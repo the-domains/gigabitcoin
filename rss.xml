@@ -7,6 +7,13 @@
         <lastBuildDate>Sat, 21 May 2016 17:07:00 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Lightning Meetup in Kyiv: What Will Happen to Bitcoin After Lightning Network]]></title>
+            <description><![CDATA[<article><h1>Lightning Meetup in Kyiv: What Will Happen to Bitcoin After Lightning Network</h1><p>On May 12, Ukraine's capital of Kyiv hosted Bitcoin Lightning Meetup, where the Lightning Network's team presented their protocol's advantages and spoke about its possible impact on bitcoin and global economy. In this article the basic implications will be explained.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6022d63cc4da7f4eba5ed8044c8b712db6465c08.jpg"></article>]]></description>
+            <link>http://forklog.net/bitcoin-lightning-meetup-in-kyiv-what-will-happen-to-bitcoin-after-lightning-network/</link>
+            <guid isPermaLink="false">228f6c1f-dae3-4509-8a8b-6e712b82c794</guid>
+            <pubDate>Sat, 21 May 2016 17:05:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ecuador Bank Claims To Have Suffered From A SWIFT Breach In 2015]]></title>
             <description><![CDATA[<article><h1>Ecuador Bank Claims To Have Suffered From A SWIFT Breach In 2015</h1><p>The SWIFT story is far from over, as yet another bank says they have lost funds during the 2015 attack. A bank in Ecuador claims they have been attacked in the same way as Bangladesh bank back in 2015, resulting in a US$12m loss.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c880361aee6562939c5a1776de3c0ad65096c5c7.jpg"></article>]]></description>
             <link>http://themerkle.com/ecuador-bank-claims-to-have-suffered-from-a-swift-breach-in-2015/</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Chinese Bter.com Back Online After Being Down For a Day</h1><p>The China-based digital currency exchange platform Bter is back online after more than 24 hours offline. It cites DNS error issue. According to Is It Down Right Now?, Bter has been down for a day and 16 hours as at May 19, 2016 at 2:45 pm (GMT+1).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1de0b7a41e046a02a61aa1cbbe6d766c1a5910de.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/chinese-btercom-back-online-after-being-down-for-a-day</link>
             <guid isPermaLink="false">74a43b3e-db61-4e70-83f6-4e70e958066d</guid>
-            <pubDate>Sat, 21 May 2016 17:05:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Smaller Banks Need Bitcoin To Protect The Global Financial System]]></title>
-            <description><![CDATA[<article><h1>Smaller Banks Need Bitcoin To Protect The Global Financial System</h1><p>With the financial ecosystem on the proverbial brink of collapsing, there is a growing concern among banking industry experts. Not about the imminent collapse itself, though, but how hackers can easily attack the global financial system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cd6f9f1f658699678b0364e9d41370f2b68c0fe.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/small-banks-bitcoin-global-financial-system/</link>
-            <guid isPermaLink="false">5a2a5e88-54d7-4939-81e8-548265c7e296</guid>
             <pubDate>Sat, 21 May 2016 17:05:09 GMT</pubDate>
         </item>
     </channel>
