@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 03:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 03:20:06 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The price of Ether, a bitcoin rival, is soaring because of a radical, $150 million experiment]]></title>
+            <description><![CDATA[<article><h1>The price of Ether, a bitcoin rival, is soaring because of a radical, $150 million experiment</h1><p>Thousands of people have pumped $150 million into what might be the biggest crowdfunded project in history, something called the Decentralized Autonomous Organization (DAO). Compare this to the $20 million raised by the project with the most funds on Kickstarter, the Pebble Time smartwatch.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c0398ae25a81367eb55b14dd6f348de2205d91d.png"></article>]]></description>
+            <link>http://qz.com/688194/the-price-of-ether-a-bitcoin-rival-is-soaring-because-of-a-radical-150-million-experiment/</link>
+            <guid isPermaLink="false">9cd51e32-78aa-4529-88ed-0809e87bcb5b</guid>
+            <pubDate>Sat, 21 May 2016 03:19:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin's Price Tanks as Coinbase Pivots and Users Complain]]></title>
             <description><![CDATA[<article><h1>Bitcoin's Price Tanks as Coinbase Pivots and Users Complain</h1><p>Bitcoin is being tested like never before as one of the biggest and oldest Bitcoin company, Coinbase, announced their exchange will be renamed to Global Digital Asset Exchange (GDAX) to support Ethereum trading. A first for the four years old bitcoin company which has never added any other digital currency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/963bb2d236d963aa2288576eeec2e2f5e5817a4b.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Why central banks need to study Bitcoin | HolyTransaction</h1><p>A few days ago Deputy Governor Hiroshi Nakaso explained why central banks from all over the world need to study and focus on Bitcoin and blockchain applications. During an event held in Japan, Nakaso gave a speech about many aspects of the financial environment, including bitcoin and the distrubuted ledger.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/026f673ecc8c0529890833eea9c786778789f08a.jpg"></article>]]></description>
             <link>http://blog.holytransaction.com/2016/05/why-central-banks-need-to-study-bitcoin.html</link>
             <guid isPermaLink="false">dc5b844e-d474-4e24-8ecf-5aed23968e69</guid>
-            <pubDate>Sat, 21 May 2016 03:19:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ether Price Surges 50% as The DAO Draws Trading Interest - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Ether Price Surges 50% as The DAO Draws Trading Interest - CoinDesk</h1><p>While bitcoin has long dominated the digital currency space, ether has been grabbing headlines - and trading volume - this week as global market participants rally around the digital currency. The price of ether - the digital currency used by the Ethereum platform - surged by upwards of 50% in the seven days through 20th May, according to figures from US-based digital currency exchange Poloniex.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09cfe00018e32c13e0d0952069c9b0509d305a9c.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/ether-surges-dao-trading-interest/</link>
-            <guid isPermaLink="false">38a9a61e-81f6-4eab-837f-126e1f08f7cf</guid>
             <pubDate>Sat, 21 May 2016 03:19:17 GMT</pubDate>
         </item>
     </channel>
