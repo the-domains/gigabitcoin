@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 07:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 07:38:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coin Exchange Profits]]></title>
+            <description><![CDATA[<article><h1>Coin Exchange Profits</h1><p>I've seen plenty of people looking into setting up coin exchanges. I'm also interested in the development of cyptocurrencies and think it might be a good idea to get involved in the business envir...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/44221/coin-exchange-profits</link>
+            <guid isPermaLink="false">6b180781-c72f-4697-8853-dff65bb42653</guid>
+            <pubDate>Sat, 21 May 2016 07:37:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2016 Is The Year Real Estate Wakes Up To Blockchain]]></title>
+            <description><![CDATA[<article><h1>2016 Is The Year Real Estate Wakes Up To Blockchain</h1><p>I founded the International Blockchain Real Estate Association (IBREA) in October of 2013. On May 17th we held a conference in Newport Beach, CA. It was the first-ever full day conference dedicated exclusively to applying Bitcoin technology to the real estate industry.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d9bd924586de1f2ff3bb994699e5119cc2f2647.jpg"></article>]]></description>
+            <link>http://bravenewcoin.com/news/2016-is-turning-out-to-be-the-year-real-estate-wakes-up-to-blockchain/</link>
+            <guid isPermaLink="false">c159b956-c443-4901-8e18-12d2ddfbf8f9</guid>
+            <pubDate>Sat, 21 May 2016 07:37:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Double Spending before confirmation]]></title>
             <description><![CDATA[<article><h1>Double Spending before confirmation</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top What's to prevent someone from using bitcoin at a store like subway and double spending to buy the sandwich before a confirmation is made?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://themerkle.com/hackers-try-to-scam-bitcoin-users-through-dropbox-links/</link>
             <guid isPermaLink="false">912910bb-63f0-47b0-83d5-b655cd3462ae</guid>
             <pubDate>Sat, 21 May 2016 03:19:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Diginomics Launches Ethereum Developers Course]]></title>
-            <description><![CDATA[<article><h1>Diginomics Launches Ethereum Developers Course</h1><p>Diginomics, founded by political economist and digital currency advocate Travis Patron, has announced a new course aimed at entrepreneurs looking to develop smart contract applications on the Ethereum blockchain. Patron is best known for The Bitcoin Revolution: An Internet of Money , a 127-page manuscript detailing the intricacies of Bitcoin and its implications on monetary policy and the global economic order.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f97d96086118e9a67d4984e7ee3258d2eaa16d5.jpg"></article>]]></description>
-            <link>http://themerkle.com/diginomics-launches-ethereum-developers-course/</link>
-            <guid isPermaLink="false">a8501561-59b5-469f-879b-cba6f7b665b3</guid>
-            <pubDate>Sat, 21 May 2016 03:19:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Arbitrage - Can Anyone Get Me Borrow?]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Arbitrage - Can Anyone Get Me Borrow?</h1><p>Bitcoin Arbitrage - Can Someone Find Me A Borrow For This Crazy Investment, Please? Do you remember when you were growing up and all your friends were allowed Atari game consoles but you weren't? Well, I do and the things seemed as foreign to me as Venus.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b6adc5986f02c427f99676f0b6d828c2f6b3409.jpg"></article>]]></description>
-            <link>http://www.valuewalk.com/2016/05/bitcoin-arbitrage-investment/</link>
-            <guid isPermaLink="false">194493e3-5ec6-49d5-bd6b-18db5168d182</guid>
-            <pubDate>Sat, 21 May 2016 03:19:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
