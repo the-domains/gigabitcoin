@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 18:48:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 18:48:12 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Analysis: Do Fundamentals Drive Price?]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Analysis: Do Fundamentals Drive Price?</h1><p>Bitcoin price meanders near its low, apparently acquainting itself with long-term support. Chart technicals to one side today, as we consider the question "Do fundamentals drive price?" This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/471973e971639cfab306123bb0cbee1d6adeefa9.png"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-price-analysis-fundamentals-drive-price/</link>
+            <guid isPermaLink="false">4a097025-ae17-4781-9907-dfd153b4122f</guid>
+            <pubDate>Sat, 21 May 2016 18:47:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What's the best learning path to take for someone with little programming experience who wants to start programming with ethereum?]]></title>
+            <description><![CDATA[<article><h1>What's the best learning path to take for someone with little programming experience who wants to start programming with ethereum?</h1><p>Answer: JavaScript is fine for writing DApps. If you want to write SmartContracts as well, Solidity or Serpent.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/Whats-the-best-learning-path-to-take-for-someone-with-little-programming-experience-who-wants-to-start-programming-with-ethereum</link>
+            <guid isPermaLink="false">5b78b6af-0168-49a0-bd78-a8a4ba12d963</guid>
+            <pubDate>Sat, 21 May 2016 18:47:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Coinbase Will Have To Refund Double-charged Customers]]></title>
             <description><![CDATA[<article><h1>Coinbase Will Have To Refund Double-charged Customers</h1><p>Even Bitcoin exchanges can make a mistake now and then, although people may have a hard time forgiving what Coinbase did not too long ago. Various users have been double-charged on their transactions, although the company has apologized for the mistake. A new topic surfaced on yesterday, explaining how the Coinbase exchange has apparently double-charged a few customers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b367ff23aef3cc8f7de6264fb57e74c9b4ac8c3.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Belarusian Developer Creates a Socket Selling Power for Ethereum</h1><p>A bitcoin enthusiast and blockchain developer from Belarus has assembled a 'smart socket' capable of selling power and WiFi connection for Ethereum tokens. The smart socket's creator, Valery Litvin, is also one of Cyber.fund developers. He told ForkLog the socket will be officially presented on May 21 at Blockchain Conference Kyiv.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca5829454fd074a1871d4c1d4190f3eb94c009a4.jpg"></article>]]></description>
             <link>http://forklog.net/belarusian-developer-creates-a-socket-selling-power-for-ethereum/</link>
             <guid isPermaLink="false">e2e00d1b-8a28-4f93-bdd3-606558ef3689</guid>
-            <pubDate>Sat, 21 May 2016 17:05:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lightning and Thunder: Blockchain.info Releases Alpha Version of Lightning Network's Analogue]]></title>
-            <description><![CDATA[<article><h1>Lightning and Thunder: Blockchain.info Releases Alpha Version of Lightning Network's Analogue</h1><p>Blockchain.info, a company known mostly for an eponymous bitcoin wallet, has announced the release of Thunder Network in alpha, which is said to be the first implementation of Lightning Network protocol. Thunder is an alternative network of nodes allowing for nearly instantaneous off-chain payments, which records them onto blockchain as needed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5abbbaab5b23a027214a413d4868cda77e0cc98a.png"></article>]]></description>
-            <link>http://forklog.net/lightning-and-thunder-blockchain-releases-alpha-version-of-lightning-networks-analogue/</link>
-            <guid isPermaLink="false">e74b2201-66e1-4c2e-bc30-d7766de23858</guid>
-            <pubDate>Sat, 21 May 2016 17:05:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Foundation CEO Dismisses Allegations on a Breakup in Bitcoin Community]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Foundation CEO Dismisses Allegations on a Breakup in Bitcoin Community</h1><p>Bruce Fenton, CEO at Bitcoin Foundation, attempted to shed some sunlight on myths around Bitcoin in an interview with RT. He stated that most problems associated with the system are a consequence of poor knowledge of cryptocurrency in general.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d5704e7414da6a82bfb18aa2183239475d177de.png"></article>]]></description>
-            <link>http://forklog.net/bitcoin-foundation-ceo-dismisses-allegations-on-a-breakup-in-bitcoin-community/</link>
-            <guid isPermaLink="false">ba140a94-f959-4e26-b12b-84c25f6ff0fe</guid>
             <pubDate>Sat, 21 May 2016 17:05:10 GMT</pubDate>
         </item>
     </channel>
