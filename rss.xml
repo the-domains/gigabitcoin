@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 23:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 23:25:15 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Греф предрек России технологический регресс из-за запрета на обмен биткоинов]]></title>
-            <description><![CDATA[<article><h1>Греф предрек России технологический регресс из-за запрета на обмен биткоинов</h1><p>Введение в России уголовной ответственности за обмен биткоинов приведет к остановке развития перспективной технологии blockchain в стране и регрессу в целом. Такое мнение высказал глава Сбербанка Герман Греф. Российские специалисты будут вынуждены работать в других юрисдикциях, считает он.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87507af1003227c5c2e807ed2ec067fd46db126c.jpg"></article>]]></description>
-            <link>https://lenta.ru/news/2016/05/21/blockchain/</link>
-            <guid isPermaLink="false">a0eafaa4-92ca-4925-850a-571c1ab894be</guid>
-            <pubDate>Sat, 21 May 2016 23:25:12 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Sydney Stock Exchange to Implement Blockchain Tech With Bit Trade Labs - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Sydney Stock Exchange to Implement Blockchain Tech With Bit Trade Labs - NEWSBTC</h1><p>Sydney Stock Exchange has recently announced that it will be implementing blockchain based trade settlement and clearance system in association with Bit Trade Labs. Read more... Sydney Stock Exchange has recently announced that it will be implementing blockchain technology for its equities market settlement and registration system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff1b9547e21232be9fe56a4ef43586cbcbbd2d58.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>How do I store/download a file in the Bitcoin blockchain network if that's possible?</h1><p>Answer (1 of 3): Most of the time, when you hear about files being stored on Bitcoin's blockchain, people really mean hashes of files are being stored, in a field called OP_RETURN, when making a bitcoin payment. This is like typing into the free text field you often have when making a bank paymen...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
             <link>https://www.quora.com/How-do-I-store-download-a-file-in-the-Bitcoin-blockchain-network-if-thats-possible</link>
             <guid isPermaLink="false">da99ebbf-8ff9-4557-b85a-c6b4b6eccd74</guid>
+            <pubDate>Sat, 21 May 2016 17:05:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From the Fields of Lightning: Kyiv Bitcoin Lightning Network Meetup]]></title>
+            <description><![CDATA[<article><h1>From the Fields of Lightning: Kyiv Bitcoin Lightning Network Meetup</h1><p>As ForkLog reported earlier, last week Kyiv hosted Bitcoin Lightning Meetup featuring the Lightning Network team speaking about what their system may give to the cryptocurrency world. The event took place on May 12 at IDF Reforms Lab under the auspices of BitFury and Distributed Lab, so many thanks go to them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ba260fdb557fb02949d0fc87550bedcb624fdce.jpg"></article>]]></description>
+            <link>http://forklog.net/from-the-fields-of-lightning-kyiv-bitcoin-lightning-network-meetup/</link>
+            <guid isPermaLink="false">b2f4e292-18fb-4363-904f-f0cf23ebe2b8</guid>
             <pubDate>Sat, 21 May 2016 17:05:10 GMT</pubDate>
         </item>
     </channel>
