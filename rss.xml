@@ -4,34 +4,13 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 17:08:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 17:07:41 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[From the Fields of Lightning: Kyiv Bitcoin Lightning Network Meetup]]></title>
-            <description><![CDATA[<article><h1>From the Fields of Lightning: Kyiv Bitcoin Lightning Network Meetup</h1><p>As ForkLog reported earlier, last week Kyiv hosted Bitcoin Lightning Meetup featuring the Lightning Network team speaking about what their system may give to the cryptocurrency world. The event took place on May 12 at IDF Reforms Lab under the auspices of BitFury and Distributed Lab, so many thanks go to them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ba260fdb557fb02949d0fc87550bedcb624fdce.jpg"></article>]]></description>
-            <link>http://forklog.net/from-the-fields-of-lightning-kyiv-bitcoin-lightning-network-meetup/</link>
-            <guid isPermaLink="false">b2f4e292-18fb-4363-904f-f0cf23ebe2b8</guid>
-            <pubDate>Sat, 21 May 2016 17:05:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase Announces Ethereum Support and Rebranding]]></title>
-            <description><![CDATA[<article><h1>Coinbase Announces Ethereum Support and Rebranding</h1><p>One of the world's leading bitcoin exchanges and wallet providers Coinbase has announced it intends to add Ethereum to its list of services. Additionally, the exchange intends to undergo rebranding, resulting in a new name and logo. According to Coinbase's VP for business development Adam White, Etheres will become tradeable as of May 24.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0df9f5e139d312e9e253fad450f0bd6db5502606.png"></article>]]></description>
-            <link>http://forklog.net/coinbase-announces-ethereum-support-and-rebranding/</link>
-            <guid isPermaLink="false">a3695f7d-4c17-4247-944f-97d8323e08c2</guid>
-            <pubDate>Sat, 21 May 2016 17:05:10 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Vitalik Buterin About Ethereum, Smart Contracts, and Himself]]></title>
             <description><![CDATA[<article><h1>Vitalik Buterin About Ethereum, Smart Contracts, and Himself</h1><p>This week, Vitalik Buterin visited Russia to participate in Ethereum Russia 2016 conference. Over the course of the event, the platform's founder talked with Russian crypto-enthusiasts, entrepreneurs and government officials. Recent hype around Ethereum is quite understandable considering the opportunities offered by the technology.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56abb7f37ca8cc0d59933f53be7939630d166f2d.png"></article>]]></description>
             <link>http://forklog.net/vitalik-buterin-about-ethereum-smart-contracts-and-himself/</link>
             <guid isPermaLink="false">dd80a281-568b-4dd1-94b1-e28cb0771434</guid>
-            <pubDate>Sat, 21 May 2016 17:05:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Belarusian Developer Creates a Socket Selling Power for Ethereum]]></title>
-            <description><![CDATA[<article><h1>Belarusian Developer Creates a Socket Selling Power for Ethereum</h1><p>A bitcoin enthusiast and blockchain developer from Belarus has assembled a 'smart socket' capable of selling power and WiFi connection for Ethereum tokens. The smart socket's creator, Valery Litvin, is also one of Cyber.fund developers. He told ForkLog the socket will be officially presented on May 21 at Blockchain Conference Kyiv.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca5829454fd074a1871d4c1d4190f3eb94c009a4.jpg"></article>]]></description>
-            <link>http://forklog.net/belarusian-developer-creates-a-socket-selling-power-for-ethereum/</link>
-            <guid isPermaLink="false">e2e00d1b-8a28-4f93-bdd3-606558ef3689</guid>
             <pubDate>Sat, 21 May 2016 17:05:10 GMT</pubDate>
         </item>
         <item>
@@ -75,6 +54,27 @@
             <link>http://themerkle.com/ecuador-bank-claims-to-have-suffered-from-a-swift-breach-in-2015/</link>
             <guid isPermaLink="false">e37de048-9c93-4eb7-badb-8d926ad8b237</guid>
             <pubDate>Sat, 21 May 2016 17:05:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Study Reveals Dash Masternode Yields 18% ROI]]></title>
+            <description><![CDATA[<article><h1>Study Reveals Dash Masternode Yields 18% ROI</h1><p>Alongside its recent block size increase, the digital currency Dash and its Masternode system reveal the protocol is doing more than just governance features. According to a Also read: OpenBazaar is Here but Darknet Markets Will Remain recent study , a Masternode holds similar value to a bond and has given those who operate a node a substantial annual return of investment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3a49c786862ff615f697fc428a458d75431c6aa.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/study-dash-masternode-18-roi/</link>
+            <guid isPermaLink="false">b831ae96-8c67-4b5a-b641-44d0e25064f9</guid>
+            <pubDate>Sat, 21 May 2016 17:05:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[segregated witness adoption]]></title>
+            <description><![CDATA[<article><h1>segregated witness adoption</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/44224/segregated-witness-adoption</link>
+            <guid isPermaLink="false">ffa4a1ec-6e2f-4d11-ba41-2175d63acaef</guid>
+            <pubDate>Sat, 21 May 2016 17:05:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nigeria Offers A Vibrant Bitcoin Ecosystem]]></title>
+            <description><![CDATA[<article><h1>Nigeria Offers A Vibrant Bitcoin Ecosystem</h1><p>Bitcoin is becoming the next big thing in Nigeria by the look of things, as there is a growing demand for this cryptocurrency in the past few weeks. Part of this success comes due to economic policies by the Nigerian government, which is rather surprising.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de2ad88cf5b0f40b184d23e7acbbcaf4944ebb0b.jpg"></article>]]></description>
+            <link>http://themerkle.com/nigeria-offers-a-vibrant-bitcoin-ecosystem/</link>
+            <guid isPermaLink="false">05f42160-e918-448a-995e-ebe1602bc144</guid>
+            <pubDate>Sat, 21 May 2016 17:05:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
