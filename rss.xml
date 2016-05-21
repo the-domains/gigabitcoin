@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 03:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 03:20:00 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin Arbitrage - Can Anyone Get Me Borrow?]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Arbitrage - Can Anyone Get Me Borrow?</h1><p>Bitcoin Arbitrage - Can Someone Find Me A Borrow For This Crazy Investment, Please? Do you remember when you were growing up and all your friends were allowed Atari game consoles but you weren't? Well, I do and the things seemed as foreign to me as Venus.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b6adc5986f02c427f99676f0b6d828c2f6b3409.jpg"></article>]]></description>
-            <link>http://www.valuewalk.com/2016/05/bitcoin-arbitrage-investment/</link>
-            <guid isPermaLink="false">194493e3-5ec6-49d5-bd6b-18db5168d182</guid>
-            <pubDate>Sat, 21 May 2016 03:19:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[German TV Show Darknet Stunt Fails Miserably - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>German TV Show Darknet Stunt Fails Miserably - Bitcoinist.net</h1><p>Typically the media loves to portray the dark side of the deep web with stories of hired hitmen, weapons and people buying illegal drugs. One TV show from Germany was hoping to demonstrate how easy it was to order guns online when they ordered an AK-47 assault rifle with $800 worth of Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f073a5f1e2d6e5a5dc17a3bd40184671b89207d.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/german-tv-darknet-stunt-fails/</link>
-            <guid isPermaLink="false">2306ed46-57ed-4067-955d-cb895ffb106f</guid>
-            <pubDate>Sat, 21 May 2016 03:19:17 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Unlucky guy upgrades PC and loses $67,000 in Bitcoin]]></title>
             <description><![CDATA[<article><h1>Unlucky guy upgrades PC and loses $67,000 in Bitcoin</h1><p>If you're thinking about upgrading your PC, be sure to backup every bit of important data on your storage device before making the transition, otherwise you could be out $67,000. Well, probably not, but it did supposedly happen to some poor soul who posted his sad story on Reddit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e54ac379aea302a2c338d6337c682a5c1155980.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>http://themerkle.com/sec-chief-voices-concerns-over-us-financial-structure-cyber-security/</link>
             <guid isPermaLink="false">07b3f2a2-e386-456b-8d71-06caf5cd76a0</guid>
             <pubDate>Fri, 20 May 2016 22:56:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is the future of internet security, specially with advent of AI, quantum/super computing and blockchain?]]></title>
+            <description><![CDATA[<article><h1>What is the future of internet security, specially with advent of AI, quantum/super computing and blockchain?</h1><p>Certainly it could be, but it would be stupid. All that is needed is for some member of the House of Representatives to introduce articles of impeachment. These must specify an offense - which would be hard on the first day in office. The House would then vote on this issue.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/What-is-the-future-of-internet-security-specially-with-advent-of-AI-quantum-super-computing-and-blockchain</link>
+            <guid isPermaLink="false">84a91963-f3de-4a82-a00d-6d5423db3925</guid>
+            <pubDate>Fri, 20 May 2016 19:01:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What's the best learning path to take for someone with little programming experience who wants to start programming with ethereum?]]></title>
+            <description><![CDATA[<article><h1>What's the best learning path to take for someone with little programming experience who wants to start programming with ethereum?</h1><p>4 people want answers to this question. Be the first to answer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/Whats-the-best-learning-path-to-take-for-someone-with-little-programming-experience-who-wants-to-start-programming-with-ethereum</link>
+            <guid isPermaLink="false">c870415c-5313-4a2c-a911-d443b15cb2f9</guid>
+            <pubDate>Fri, 20 May 2016 19:01:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
