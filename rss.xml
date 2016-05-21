@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 07:38:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 07:38:01 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Coin Exchange Profits]]></title>
-            <description><![CDATA[<article><h1>Coin Exchange Profits</h1><p>I've seen plenty of people looking into setting up coin exchanges. I'm also interested in the development of cyptocurrencies and think it might be a good idea to get involved in the business envir...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/44221/coin-exchange-profits</link>
-            <guid isPermaLink="false">6b180781-c72f-4697-8853-dff65bb42653</guid>
-            <pubDate>Sat, 21 May 2016 07:37:26 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[2016 Is The Year Real Estate Wakes Up To Blockchain]]></title>
             <description><![CDATA[<article><h1>2016 Is The Year Real Estate Wakes Up To Blockchain</h1><p>I founded the International Blockchain Real Estate Association (IBREA) in October of 2013. On May 17th we held a conference in Newport Beach, CA. It was the first-ever full day conference dedicated exclusively to applying Bitcoin technology to the real estate industry.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d9bd924586de1f2ff3bb994699e5119cc2f2647.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Hackers Try To Scam Bitcoin Users Through Dropbox Links</h1><p>There seems to be a new Bitcoin wallet scam going around, which tricks users into thinking they have accidentally received somebody's wallet. However, the files are hosted on Dropbox, and are most likely intended to steal one's funds. Earlier today, several people have gotten an email containing a link to , which allegedly hold some sort of Bitcoin information.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c1644815bbe24c633057a47bc84ba9726951193.jpg"></article>]]></description>
             <link>http://themerkle.com/hackers-try-to-scam-bitcoin-users-through-dropbox-links/</link>
             <guid isPermaLink="false">912910bb-63f0-47b0-83d5-b655cd3462ae</guid>
+            <pubDate>Sat, 21 May 2016 03:19:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Diginomics Launches Ethereum Developers Course]]></title>
+            <description><![CDATA[<article><h1>Diginomics Launches Ethereum Developers Course</h1><p>Diginomics, founded by political economist and digital currency advocate Travis Patron, has announced a new course aimed at entrepreneurs looking to develop smart contract applications on the Ethereum blockchain. Patron is best known for The Bitcoin Revolution: An Internet of Money , a 127-page manuscript detailing the intricacies of Bitcoin and its implications on monetary policy and the global economic order.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f97d96086118e9a67d4984e7ee3258d2eaa16d5.jpg"></article>]]></description>
+            <link>http://themerkle.com/diginomics-launches-ethereum-developers-course/</link>
+            <guid isPermaLink="false">a8501561-59b5-469f-879b-cba6f7b665b3</guid>
             <pubDate>Sat, 21 May 2016 03:19:18 GMT</pubDate>
         </item>
     </channel>
