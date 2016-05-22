@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 16:51:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2016 17:25:59 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Analysis (Week of May 22th)]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Analysis (Week of May 22th)</h1><p>Bitcoin is moving toward the target of the long-term correction within the upward trend. The ending of that rebound could provoke a continuation of the long-term trend and a turn to decline. Bitcoin's price is fulfilling its minimal correction targets at around $440.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a021feae854f7ef0029f8f12a4d59c07a399f346.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/bitcoin-price-analysis-week-of-may-22th</link>
+            <guid isPermaLink="false">62325518-5dfc-4fe6-8a79-887c3ce32594</guid>
+            <pubDate>Sun, 22 May 2016 17:25:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What percentage of merchant Bitcoin receipts are immediately converted into fiat?]]></title>
             <description><![CDATA[<article><h1>What percentage of merchant Bitcoin receipts are immediately converted into fiat?</h1><p>Does anyone have access to this data from Bitpay or Coinbase perhaps? If so please break down the data by country and industry if available and how these statistics have changed over time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>REPOST from 12/2015: "If there are only 20 seats on the bus and 25 people that want to ride, there is no ticket price where everyone gets a seat. Capacity problems can't be fixed with a 'fee market'; they are fixed by adding seats, which in this case means raising the blocksize cap." - /u/Vibr8gKiwi * /r/btc</h1><p>https://np.reddit.com/r/btc/comments/3yeypc/if_there_are_only_20_seats_on_the_bus_and_25/ --- https://np.reddit.com/r/btc/comments/3ye3g8/finally...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
             <link>https://www.reddit.com/r/btc/comments/4kfqyj/repost_from_122015_if_there_are_only_20_seats_on/</link>
             <guid isPermaLink="false">6e1b2c47-09ee-4759-8a91-64dd837b790c</guid>
-            <pubDate>Sun, 22 May 2016 16:07:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Agentic Group Strikes a Deal with Bermuda Govt. - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Agentic Group Strikes a Deal with Bermuda Govt. - NEWSBTC</h1><p>Agentic Group, a global consortium of the blockchain companies has entered into a partnership with the Government of Bermuda to offer training on blockchain and digital currencies while fostering the digital currency ecosystem.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/21e92d7cc88836c73f126620a24f890f2188dc56.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/22/agentic-group-partners-with-bermuda/</link>
-            <guid isPermaLink="false">b4d85930-272a-494a-b128-3dd9919f81a8</guid>
             <pubDate>Sun, 22 May 2016 16:07:36 GMT</pubDate>
         </item>
     </channel>
