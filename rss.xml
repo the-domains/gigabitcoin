@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 16:51:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2016 16:51:52 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Experiment Allows You to Play Monopoly on the Blockchain]]></title>
+            <description><![CDATA[<article><h1>New Experiment Allows You to Play Monopoly on the Blockchain</h1><p>Just recently, a new study has been revealed using blockchain technology and the popular Parker Brothers board game Monopoly. Also read: IBM Exec to US Gov't: 'Safeguard' Blockchain Innovation or Risk Falling Behind In his study, Blocktech IVS founder and CEO Thorkild Grothe-Møller mixes innovative protocols with a classic board game that operates on the principles of basic economics.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e60ce26bd2faa660c7017db3a69d8480220eea9.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/blockchain-monopoly-board-game/</link>
+            <guid isPermaLink="false">59babd23-99bf-4288-96b4-8d0d737503e7</guid>
+            <pubDate>Sun, 22 May 2016 16:51:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The DAO is a New Dow - CoinDesk]]></title>
             <description><![CDATA[<article><h1>The DAO is a New Dow - CoinDesk</h1><p>Nolan Bauerle is a former researcher and writer for the Canadian Senate Banking Committee, for which he drafted a 2015 report on cryptocurrencies and blockchain technology. He is the founder of tech strategy firm Borderless Blockchain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7dbefebf363dbf3d70d5d580b859ad2a9d01a3d1.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How can I know the Bitcoin address of the guy that sent me Bitcoins?</h1><p>Answer (1 of 2): There is no such thing as a "from" address. I have written in other answers and I'll repeat. The "from" address is not an address of the sender's bitcoin wallet. If it is important for you to know, create a new address and inform the sender with that address, if address has funds...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
             <link>https://www.quora.com/How-can-I-know-the-Bitcoin-address-of-the-guy-that-sent-me-Bitcoins</link>
             <guid isPermaLink="false">cb87aabe-6d7e-488c-939c-dfbbc84be6a9</guid>
-            <pubDate>Sun, 22 May 2016 16:07:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin and Ethereum Aren't Really Going Head-On against Each Other! - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin and Ethereum Aren't Really Going Head-On against Each Other! - NEWSBTC</h1><p>The debate about whether Bitcoin and Ethereum are rivals rages on. Well, they are not and for obvious reasons. Read more... If you ask anyone about the top cryptocurrencies at the moment, the answer will definitely be Bitcoin and Ethereum, followed by Ripple, Litecoin, Dash and so on.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fe20ab2bebbed84dda13c9c5aa24edfcc21a19a.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/22/bitcoin-and-ethereum-not-rivals/</link>
-            <guid isPermaLink="false">e79f2ad7-7d32-4e45-b0d4-6a9bc41d22b8</guid>
             <pubDate>Sun, 22 May 2016 16:07:36 GMT</pubDate>
         </item>
     </channel>
