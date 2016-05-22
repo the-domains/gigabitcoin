@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 02:05:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2016 04:51:14 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Merchant tool that will dynamically adjust the # of required confirmations based on network hashrate data]]></title>
+            <description><![CDATA[<article><h1>Merchant tool that will dynamically adjust the # of required confirmations based on network hashrate data</h1><p>Satoshi built Bitcoin to be a decentralized network. Some of the original recommendations (such as waiting for 6 confirmations) relied on statistics that related to level of decentralization.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/44249/merchant-tool-that-will-dynamically-adjust-the-of-required-confirmations-based</link>
+            <guid isPermaLink="false">bbb548c1-7845-4764-952b-706bf4a3f782</guid>
+            <pubDate>Sun, 22 May 2016 04:50:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Are there private blockchains that do not require mining fees that small developers can play with?]]></title>
             <description><![CDATA[<article><h1>Are there private blockchains that do not require mining fees that small developers can play with?</h1><p>You see, Russia's leaders had this wet dream for some time and kept calling Ukraine a brotherly nation, while sending special ops, mercenaries, tanks, artillery and missiles over the border at the same time. Russia killed too many Russian-speakers in Ukraine, and sent thousands o...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Analysis: Do Fundamentals Drive Price?</h1><p>Bitcoin price meanders near its low, apparently acquainting itself with long-term support. Chart technicals to one side today, as we consider the question "Do fundamentals drive price?" This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/471973e971639cfab306123bb0cbee1d6adeefa9.png"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/bitcoin-price-analysis-fundamentals-drive-price/</link>
             <guid isPermaLink="false">4a097025-ae17-4781-9907-dfd153b4122f</guid>
-            <pubDate>Sat, 21 May 2016 18:47:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What's the best learning path to take for someone with little programming experience who wants to start programming with ethereum?]]></title>
-            <description><![CDATA[<article><h1>What's the best learning path to take for someone with little programming experience who wants to start programming with ethereum?</h1><p>Answer: JavaScript is fine for writing DApps. If you want to write SmartContracts as well, Solidity or Serpent.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/Whats-the-best-learning-path-to-take-for-someone-with-little-programming-experience-who-wants-to-start-programming-with-ethereum</link>
-            <guid isPermaLink="false">5b78b6af-0168-49a0-bd78-a8a4ba12d963</guid>
             <pubDate>Sat, 21 May 2016 18:47:24 GMT</pubDate>
         </item>
     </channel>
