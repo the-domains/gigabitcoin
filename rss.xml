@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 16:08:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2016 16:08:21 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blockchain Going for a Song: New Tech Tunes Up Music Industry]]></title>
+            <description><![CDATA[<article><h1>Blockchain Going for a Song: New Tech Tunes Up Music Industry</h1><p>Will Blockchain make inroads into the music industry? Well, it's already in the global music, as well as the movie and publishing worlds. But there have been efforts to find ways to block access to materials and to halt free and open distribution of creative works over the internet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e23becc676962d89c55cbc32a04df7639ee33c2.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/blockchain-going-for-a-song-new-tech-tunes-up-music-industry</link>
+            <guid isPermaLink="false">93494599-4dbc-4c24-af9e-4c32dba81a9b</guid>
+            <pubDate>Sun, 22 May 2016 16:07:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Determining Liability When a DAO is Sued - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Determining Liability When a DAO is Sued - CoinDesk</h1><p>A lawyer at Washington, DC-based Palley Law, PLLC, Stephen D Palley represents construction and technology companies in connection with litigation, insurance coverage matters and product design and development. In this op-ed, Palley explores the question of liability and jurisdiction in the context of decentralized autonomous organizations (DAOs). Does distributed presence create distributed liability?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a897335bdb3a5dc6f02b5edcf261e4b8c680ae1.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://bitcoin.stackexchange.com/questions/44236/can-i-receive-bitcoin-on-any-of-my-wallet-addresses</link>
             <guid isPermaLink="false">0387e36e-6098-40c9-9059-eedcb350d02d</guid>
             <pubDate>Sun, 22 May 2016 04:50:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Conversation with Gene Kavner, CEO of iPayYou]]></title>
-            <description><![CDATA[<article><h1>A Conversation with Gene Kavner, CEO of iPayYou</h1><p>iPayYou is a new service that offers what is touted as the easiest, safest and most useful bitcoin wallet in the world. The Seattle-based company's wallet lets users hold, purchase, sell, send and ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8af33f95a595bd392eceb44696740a9e3624efb.jpg"></article>]]></description>
-            <link>https://coinreport.net/conversation-gene-kavner-ceo-ipayyou/</link>
-            <guid isPermaLink="false">56e9c989-aa3f-45f9-a109-3cd22f88e3f7</guid>
-            <pubDate>Sun, 22 May 2016 04:50:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
