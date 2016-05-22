@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 04:51:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2016 04:51:17 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Will ether (ethereum) hit $10 again in the short term?]]></title>
+            <description><![CDATA[<article><h1>Will ether (ethereum) hit $10 again in the short term?</h1><p>Answer: Probably. It's very volatile.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/Will-ether-ethereum-hit-10-again-in-the-short-term</link>
+            <guid isPermaLink="false">28b0c71f-dc58-4789-b1a7-4daa7848e99d</guid>
+            <pubDate>Sun, 22 May 2016 04:50:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can I receive bitcoin on any of my wallet addresses?]]></title>
+            <description><![CDATA[<article><h1>Can I receive bitcoin on any of my wallet addresses?</h1><p>Can i receive bitcoin to any wallet addresses from it ? because i have more wallet addresses on coinbase it is every day change it .. How can i turning off this choice ? Thanks for help ..</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/44236/can-i-receive-bitcoin-on-any-of-my-wallet-addresses</link>
+            <guid isPermaLink="false">0387e36e-6098-40c9-9059-eedcb350d02d</guid>
+            <pubDate>Sun, 22 May 2016 04:50:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Conversation with Gene Kavner, CEO of iPayYou]]></title>
             <description><![CDATA[<article><h1>A Conversation with Gene Kavner, CEO of iPayYou</h1><p>iPayYou is a new service that offers what is touted as the easiest, safest and most useful bitcoin wallet in the world. The Seattle-based company's wallet lets users hold, purchase, sell, send and ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8af33f95a595bd392eceb44696740a9e3624efb.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://lenta.ru/news/2016/05/21/blockchain/</link>
             <guid isPermaLink="false">a0eafaa4-92ca-4925-850a-571c1ab894be</guid>
             <pubDate>Sat, 21 May 2016 23:25:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sydney Stock Exchange to Implement Blockchain Tech With Bit Trade Labs - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Sydney Stock Exchange to Implement Blockchain Tech With Bit Trade Labs - NEWSBTC</h1><p>Sydney Stock Exchange has recently announced that it will be implementing blockchain based trade settlement and clearance system in association with Bit Trade Labs. Read more... Sydney Stock Exchange has recently announced that it will be implementing blockchain technology for its equities market settlement and registration system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff1b9547e21232be9fe56a4ef43586cbcbbd2d58.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/21/sydney-stock-exchange-blockchain-implementation/</link>
-            <guid isPermaLink="false">bccc963f-b1f2-4baa-b62d-d24f0133cc92</guid>
-            <pubDate>Sat, 21 May 2016 23:25:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Could a Proof of Burn function be implemented into Bitcoin Core to help prove loss of private keys?]]></title>
-            <description><![CDATA[<article><h1>Could a Proof of Burn function be implemented into Bitcoin Core to help prove loss of private keys?</h1><p>Is there a list of self reported BTC addresses with lost private keys? Of course such a list would never be conclusive as we would have to trust the people who report that the keys were lost.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/44235/could-a-proof-of-burn-function-be-implemented-into-bitcoin-core-to-help-prove-lo</link>
-            <guid isPermaLink="false">57ad2de1-da0b-439b-bcb2-1132aa8991d7</guid>
-            <pubDate>Sat, 21 May 2016 23:25:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
