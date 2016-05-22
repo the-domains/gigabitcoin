@@ -4,27 +4,13 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 16:08:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2016 16:08:31 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Industry Report: Bitcoin Is Still on Drugs, No Detox in Sight]]></title>
-            <description><![CDATA[<article><h1>Industry Report: Bitcoin Is Still on Drugs, No Detox in Sight</h1><p>Coinbase undergoes some changes, Bitcoin can't break it's drug habit, and Silk Road has a heart of gold. Here's what you might have missed in this week's cryptocurrency news: Also read: Industry Report: Bitcoin Hears Thunder, Ethereum's Biggest Crowdsale, Kaspersky Kills Crime Bitcoin exchange Coinbase is changing its name to Global Digital Asset Exchange (GDAX) after announcing support for Ether trading on its platform.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa4bfd021c83dc9e0762450259864851aadba61c.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/industry-report-bitcoin-drugs/</link>
-            <guid isPermaLink="false">3cc9d5e6-1037-48db-9975-0f88dfa9815e</guid>
-            <pubDate>Sun, 22 May 2016 16:07:35 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Cryptocurrency Experts Predict Exponential Bitcoin Price Growth]]></title>
             <description><![CDATA[<article><h1>Cryptocurrency Experts Predict Exponential Bitcoin Price Growth</h1><p>Several of the Bitcoin experts are expecting another Bitcoin bubble this year, although it will hopefully be a more legitimate one. The Bitcoin price will always remain a topic of significant debate, as there are those who feel the cryptocurrency is undervalued, whereas others predict stagnation or even a decline.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b77702ede2af6d56d9b9e872aee9b1007c048a4.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/05/22/cryptocurrency-experts-predict-exponential-bitcoin-price-growth/</link>
             <guid isPermaLink="false">e885cf2d-ca50-410c-8a68-75483ff2de4f</guid>
-            <pubDate>Sun, 22 May 2016 16:07:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3 Common Ways Bitcoin Users Lose Their Funds]]></title>
-            <description><![CDATA[<article><h1>3 Common Ways Bitcoin Users Lose Their Funds</h1><p>As much as consumers want to protect their Bitcoins at all times, there are so many different mistakes that can be made resulting in a financial loss. Some of these potential threats keep returning after seven years, and it is time to point out some of the obvious mistakes Bitcoin users tend to make.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f56d70e7600d88b5f88d7cb1fa2982b53693a6fe.jpg"></article>]]></description>
-            <link>http://themerkle.com/3-common-ways-bitcoin-users-lose-their-funds/</link>
-            <guid isPermaLink="false">63d8f1ff-639b-4ef8-99e0-4e411248708a</guid>
             <pubDate>Sun, 22 May 2016 16:07:35 GMT</pubDate>
         </item>
         <item>
@@ -75,6 +61,20 @@
             <link>http://www.newsbtc.com/2016/05/22/will-dao-lead-legal-trouble-every-investor/</link>
             <guid isPermaLink="false">10d04ecb-bdfa-4845-aba1-7df78384d71b</guid>
             <pubDate>Sun, 22 May 2016 16:07:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Government To Monitor Consumer GPS Movements All The Time]]></title>
+            <description><![CDATA[<article><h1>Japanese Government To Monitor Consumer GPS Movements All The Time</h1><p>Smartphones have quickly become the internet-connected device of choice for consumers all over the world, due to portability and powerful specifications. But over in Japan, government officials make use of five new smartphones by NTT DoCoMo to secretly track users, including their location.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/49bde98b3b286a9bd5041e2a8208ded0f0d154da.jpg"></article>]]></description>
+            <link>http://themerkle.com/japanese-government-to-monitor-consumer-gps-movements-all-the-time/</link>
+            <guid isPermaLink="false">54667034-ee2b-47ca-ac38-ea5114df8d7f</guid>
+            <pubDate>Sun, 22 May 2016 16:07:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Audio Fingerprinting May Become The New Norm To Breach Browsing Privacy]]></title>
+            <description><![CDATA[<article><h1>Audio Fingerprinting May Become The New Norm To Breach Browsing Privacy</h1><p>Online tracking of users is become more the norm than the exception these days, and various websites are resorting to audio fingerprinting. The AudioContext API can identify audio signals which may reveal unique information about one's browser and Internet-connected device.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b1c5b16506c18c5c1e7c587a3b3cdc2652c3907.jpg"></article>]]></description>
+            <link>http://themerkle.com/audio-fingerprinting-may-become-the-new-norm-to-breach-browsing-privacy/</link>
+            <guid isPermaLink="false">82d41ab6-c763-4341-b2ff-1f7e48caf86b</guid>
+            <pubDate>Sun, 22 May 2016 16:07:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
