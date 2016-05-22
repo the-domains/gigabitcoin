@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 04:51:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2016 04:51:15 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin News for the week of 5/16/16]]></title>
+            <description><![CDATA[<article><h1>Bitcoin News for the week of 5/16/16</h1><p>Welcome to our weekly bitcoin news recap, where we cover top headlines and stories in the world of bitcoin each week. This was a huge week for Blockchain with the launch of the Thunder Network, which was carried by several mainstream media outlets including TechCrunch and Forbes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8be2f04c2d93334d2008e3775ab04b2f44ae2e18.png"></article>]]></description>
+            <link>https://blog.blockchain.com/2016/05/21/bitcoin-news-for-the-week-of-51616/</link>
+            <guid isPermaLink="false">c977576a-7be3-4c65-a9c2-1777fdf882cf</guid>
+            <pubDate>Sun, 22 May 2016 04:50:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Merchant tool that will dynamically adjust the # of required confirmations based on network hashrate data]]></title>
             <description><![CDATA[<article><h1>Merchant tool that will dynamically adjust the # of required confirmations based on network hashrate data</h1><p>Satoshi built Bitcoin to be a decentralized network. Some of the original recommendations (such as waiting for 6 confirmations) relied on statistics that related to level of decentralization.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Google Search Rich Cards Make Bitcoin Content More Visually Appealing</h1><p>A lot of consumers are using their mobile devices to conduct online searches, and Google remains the dominant search engine all over the world. The company has announced they will introduce rich cards into their mobile search results, which will impact how users learn more about all kinds of topics, including Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c79ed95ff46a07ffca46c7e59b3f06d8d01ade2.jpg"></article>]]></description>
             <link>http://themerkle.com/google-search-rich-cards-make-bitcoin-content-more-visually-appealing/</link>
             <guid isPermaLink="false">e8a8e9d5-3f6c-4d22-9b68-fa23720254e5</guid>
-            <pubDate>Sat, 21 May 2016 18:47:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Analysis: Do Fundamentals Drive Price?]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Analysis: Do Fundamentals Drive Price?</h1><p>Bitcoin price meanders near its low, apparently acquainting itself with long-term support. Chart technicals to one side today, as we consider the question "Do fundamentals drive price?" This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/471973e971639cfab306123bb0cbee1d6adeefa9.png"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-price-analysis-fundamentals-drive-price/</link>
-            <guid isPermaLink="false">4a097025-ae17-4781-9907-dfd153b4122f</guid>
             <pubDate>Sat, 21 May 2016 18:47:24 GMT</pubDate>
         </item>
     </channel>
