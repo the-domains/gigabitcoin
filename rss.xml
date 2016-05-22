@@ -4,36 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 16:09:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2016 16:08:43 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Where does a blockchain ledger live? I.e. does blockchain tech die if it can't reach a critical mass of users to store & distribute the s...]]></title>
-            <description><![CDATA[<article><h1>Where does a blockchain ledger live? I.e. does blockchain tech die if it can't reach a critical mass of users to store & distribute the s...</h1><p>Answer (1 of 2): The ledger can exist on one device. But then who is to say if its been tampered with? A distributed ledger is required to ensure it is kept accurate and true to its record. If more than half the keepers of the ledger agree to tamper with it, then inaccurate records could be add...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/Where-does-a-blockchain-ledger-live-I-e-does-blockchain-tech-die-if-it-cant-reach-a-critical-mass-of-users-to-store-distribute-the-shared-ledger</link>
-            <guid isPermaLink="false">593465c8-d4fa-470e-99e1-90f21967e4e2</guid>
-            <pubDate>Sun, 22 May 2016 16:07:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cryptospace News Digest, May 15 - 21]]></title>
-            <description><![CDATA[<article><h1>Cryptospace News Digest, May 15 - 21</h1><p>Bitcoin exchange rate's unexpected retreat against the background of skyrocketing Ether, big news from cryptocurrency exchanges, and Vitalik Buterin's long-awaited visit to Russia - all in ForkLog's weekly overview. Bitcoin continued its earlier fluctuations in the corridor between $450 and $460, however, on Thursday it sank down to $435.62.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/040cf23e3a289bedccbd2d4eb9cf28dcf4798064.png"></article>]]></description>
-            <link>http://forklog.net/cryptospace-news-digest-may-15-21/</link>
-            <guid isPermaLink="false">fab0e089-ee1e-4b30-8665-590bd6ccdca5</guid>
-            <pubDate>Sun, 22 May 2016 16:07:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How can I know the Bitcoin address of the guy that sent me Bitcoins?]]></title>
-            <description><![CDATA[<article><h1>How can I know the Bitcoin address of the guy that sent me Bitcoins?</h1><p>Answer (1 of 2): There is no such thing as a "from" address. I have written in other answers and I'll repeat. The "from" address is not an address of the sender's bitcoin wallet. If it is important for you to know, create a new address and inform the sender with that address, if address has funds...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/How-can-I-know-the-Bitcoin-address-of-the-guy-that-sent-me-Bitcoins</link>
-            <guid isPermaLink="false">cb87aabe-6d7e-488c-939c-dfbbc84be6a9</guid>
-            <pubDate>Sun, 22 May 2016 16:07:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin and Ethereum Aren't Really Going Head-On against Each Other! - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin and Ethereum Aren't Really Going Head-On against Each Other! - NEWSBTC</h1><p>The debate about whether Bitcoin and Ethereum are rivals rages on. Well, they are not and for obvious reasons. Read more... If you ask anyone about the top cryptocurrencies at the moment, the answer will definitely be Bitcoin and Ethereum, followed by Ripple, Litecoin, Dash and so on.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fe20ab2bebbed84dda13c9c5aa24edfcc21a19a.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/22/bitcoin-and-ethereum-not-rivals/</link>
-            <guid isPermaLink="false">e79f2ad7-7d32-4e45-b0d4-6a9bc41d22b8</guid>
-            <pubDate>Sun, 22 May 2016 16:07:36 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Industry Report: Bitcoin Is Still on Drugs, No Detox in Sight]]></title>
             <description><![CDATA[<article><h1>Industry Report: Bitcoin Is Still on Drugs, No Detox in Sight</h1><p>Coinbase undergoes some changes, Bitcoin can't break it's drug habit, and Silk Road has a heart of gold. Here's what you might have missed in this week's cryptocurrency news: Also read: Industry Report: Bitcoin Hears Thunder, Ethereum's Biggest Crowdsale, Kaspersky Kills Crime Bitcoin exchange Coinbase is changing its name to Global Digital Asset Exchange (GDAX) after announcing support for Ether trading on its platform.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa4bfd021c83dc9e0762450259864851aadba61c.jpg"></article>]]></description>
@@ -75,6 +47,34 @@
             <link>http://cointelegraph.com/news/what-bitcoin-pizza-day-can-teach-us-today</link>
             <guid isPermaLink="false">7cb23bd5-ea3c-4134-a606-3787920919bd</guid>
             <pubDate>Sun, 22 May 2016 16:07:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Where does the money I get from mining bitcoin come from?]]></title>
+            <description><![CDATA[<article><h1>Where does the money I get from mining bitcoin come from?</h1><p>Bitcoin noob here. Where does the money I get from mining bitcoin come from? Does bitcoin mining means I "steal" from other people? If yes, should I fear this probability of being robbed while I...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/44241/where-does-the-money-i-get-from-mining-bitcoin-come-from</link>
+            <guid isPermaLink="false">bcef85b2-0057-4d78-aa72-377edf9c8493</guid>
+            <pubDate>Sun, 22 May 2016 16:07:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[These cofounders live in separate countries and have never even met - and they're trying to create a new kind of money]]></title>
+            <description><![CDATA[<article><h1>These cofounders live in separate countries and have never even met - and they're trying to create a new kind of money</h1><p>Max Kordek is a 24-year-old Bitcoin wiz from Germany. Next week he and his co-founder, 37-year-old Oliver Beddows, will launch their company, Lisk. And Lisk is such an exciting idea that during their 30-day crowdfunding campaign, nearly 4,000 people chipped in a total of $6 million in bitcoin to fund their seed round, Kordek tells Business Insider.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50bf92b223d25cf9dba170c3420fc6eb2dee83d2.jpg"></article>]]></description>
+            <link>http://www.businessinsider.com/24-year-old-raises-66-million-for-bitcoin-app-store-2016-5</link>
+            <guid isPermaLink="false">d25879af-810e-4eb6-8386-c6faee5d95ef</guid>
+            <pubDate>Sun, 22 May 2016 16:07:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Money Demystified: How the Blockchain Offers Financial Safety]]></title>
+            <description><![CDATA[<article><h1>Money Demystified: How the Blockchain Offers Financial Safety</h1><p>Despite eight years revamping the world of finance, digital currency is still getting a bum rap. Indeed, we can acknowledge the fact that Bitcoin and the blockchain has thus far held a rather short life and faced excessive negativity and competition from traditional financiers, but is that enough to lessen its accomplishments?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/263f1e052f5bb49441617d3f8be87b3fb9244dd5.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/money-demystified-blockchain-safety/</link>
+            <guid isPermaLink="false">d1b43e7c-e748-4563-adc0-3ee3f6d0d6bc</guid>
+            <pubDate>Sun, 22 May 2016 16:07:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will The DAO Lead To Legal Trouble For Every Investor?]]></title>
+            <description><![CDATA[<article><h1>Will The DAO Lead To Legal Trouble For Every Investor?</h1><p>While nearly every investor is confident the code behind The DAO alone is well worth the investment, that alone should not be the main reason to participate in this crowdsale. Despite the overwhelming success of The DAO so far, a lot of people are still unable to wrap their head around the concept.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b123395d149de62aac45ed8d738a09530f4cc44.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/22/will-dao-lead-legal-trouble-every-investor/</link>
+            <guid isPermaLink="false">10d04ecb-bdfa-4845-aba1-7df78384d71b</guid>
+            <pubDate>Sun, 22 May 2016 16:07:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
