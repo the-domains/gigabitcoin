@@ -4,13 +4,27 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 16:51:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2016 16:51:53 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2016-05-19]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-05-19</h1></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/05/19/</link>
+            <guid isPermaLink="false">95763e9b-d299-4df2-a9a3-d66e314e0323</guid>
+            <pubDate>Sun, 22 May 2016 16:51:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New Experiment Allows You to Play Monopoly on the Blockchain]]></title>
             <description><![CDATA[<article><h1>New Experiment Allows You to Play Monopoly on the Blockchain</h1><p>Just recently, a new study has been revealed using blockchain technology and the popular Parker Brothers board game Monopoly. Also read: IBM Exec to US Gov't: 'Safeguard' Blockchain Innovation or Risk Falling Behind In his study, Blocktech IVS founder and CEO Thorkild Grothe-Møller mixes innovative protocols with a classic board game that operates on the principles of basic economics.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e60ce26bd2faa660c7017db3a69d8480220eea9.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/blockchain-monopoly-board-game/</link>
             <guid isPermaLink="false">59babd23-99bf-4288-96b4-8d0d737503e7</guid>
+            <pubDate>Sun, 22 May 2016 16:51:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mt Gox : A New Revelation Surfaces - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Mt Gox : A New Revelation Surfaces - NEWSBTC</h1><p>What really happened with Mt Gox, the world's largest Bitcoin exchange at one time which unfortunately went bankrupt? The bankruptcy was allegedly brought upon it due to the theft of huge amounts of bitcoin by hackers combined with mismanagement and embezzlement by Mark Karpeles, the owner and CEO of Mt Gox at that time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b1577f81df1734200838b47d0dc33b2c82793aa.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/22/mt-gox-a-new-revelation-surfaces/</link>
+            <guid isPermaLink="false">c213badb-6e73-454e-942f-61080639e7d6</guid>
             <pubDate>Sun, 22 May 2016 16:51:19 GMT</pubDate>
         </item>
         <item>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Where does a blockchain ledger live? I.e. does blockchain tech die if it can't reach a critical mass of users to store & distribute the s...</h1><p>Answer (1 of 2): The ledger can exist on one device. But then who is to say if its been tampered with? A distributed ledger is required to ensure it is kept accurate and true to its record. If more than half the keepers of the ledger agree to tamper with it, then inaccurate records could be add...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
             <link>https://www.quora.com/Where-does-a-blockchain-ledger-live-I-e-does-blockchain-tech-die-if-it-cant-reach-a-critical-mass-of-users-to-store-distribute-the-shared-ledger</link>
             <guid isPermaLink="false">593465c8-d4fa-470e-99e1-90f21967e4e2</guid>
-            <pubDate>Sun, 22 May 2016 16:07:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cryptospace News Digest, May 15 - 21]]></title>
-            <description><![CDATA[<article><h1>Cryptospace News Digest, May 15 - 21</h1><p>Bitcoin exchange rate's unexpected retreat against the background of skyrocketing Ether, big news from cryptocurrency exchanges, and Vitalik Buterin's long-awaited visit to Russia - all in ForkLog's weekly overview. Bitcoin continued its earlier fluctuations in the corridor between $450 and $460, however, on Thursday it sank down to $435.62.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/040cf23e3a289bedccbd2d4eb9cf28dcf4798064.png"></article>]]></description>
-            <link>http://forklog.net/cryptospace-news-digest-may-15-21/</link>
-            <guid isPermaLink="false">fab0e089-ee1e-4b30-8665-590bd6ccdca5</guid>
-            <pubDate>Sun, 22 May 2016 16:07:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How can I know the Bitcoin address of the guy that sent me Bitcoins?]]></title>
-            <description><![CDATA[<article><h1>How can I know the Bitcoin address of the guy that sent me Bitcoins?</h1><p>Answer (1 of 2): There is no such thing as a "from" address. I have written in other answers and I'll repeat. The "from" address is not an address of the sender's bitcoin wallet. If it is important for you to know, create a new address and inform the sender with that address, if address has funds...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/How-can-I-know-the-Bitcoin-address-of-the-guy-that-sent-me-Bitcoins</link>
-            <guid isPermaLink="false">cb87aabe-6d7e-488c-939c-dfbbc84be6a9</guid>
             <pubDate>Sun, 22 May 2016 16:07:36 GMT</pubDate>
         </item>
     </channel>
