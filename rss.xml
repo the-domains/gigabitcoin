@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 16:08:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2016 16:08:22 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price - Blue Moon]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price - Blue Moon</h1><p>Bitcoin price wallows near a 15-month support line near $434. The market seems somber after a frustrating 5 months that had produced nothing in the chart to write home about. Perhaps it's Saturday's blue moon or perhaps it's sheer exhaustion from ecosystem overload during the past year...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/49280034cda2e53f7d4048f422f9ac974b7d8f1e.png"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-price-blue-moon/</link>
+            <guid isPermaLink="false">115bddb9-c46d-4ce9-8789-162a24d941eb</guid>
+            <pubDate>Sun, 22 May 2016 16:07:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blockchain Going for a Song: New Tech Tunes Up Music Industry]]></title>
             <description><![CDATA[<article><h1>Blockchain Going for a Song: New Tech Tunes Up Music Industry</h1><p>Will Blockchain make inroads into the music industry? Well, it's already in the global music, as well as the movie and publishing worlds. But there have been efforts to find ways to block access to materials and to halt free and open distribution of creative works over the internet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e23becc676962d89c55cbc32a04df7639ee33c2.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Will ether (ethereum) hit $10 again in the short term?</h1><p>Answer: Probably. It's very volatile.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
             <link>https://www.quora.com/Will-ether-ethereum-hit-10-again-in-the-short-term</link>
             <guid isPermaLink="false">28b0c71f-dc58-4789-b1a7-4daa7848e99d</guid>
-            <pubDate>Sun, 22 May 2016 04:50:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can I receive bitcoin on any of my wallet addresses?]]></title>
-            <description><![CDATA[<article><h1>Can I receive bitcoin on any of my wallet addresses?</h1><p>Can i receive bitcoin to any wallet addresses from it ? because i have more wallet addresses on coinbase it is every day change it .. How can i turning off this choice ? Thanks for help ..</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/44236/can-i-receive-bitcoin-on-any-of-my-wallet-addresses</link>
-            <guid isPermaLink="false">0387e36e-6098-40c9-9059-eedcb350d02d</guid>
             <pubDate>Sun, 22 May 2016 04:50:20 GMT</pubDate>
         </item>
     </channel>
