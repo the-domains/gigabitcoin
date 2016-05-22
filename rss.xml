@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 16:09:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2016 16:09:36 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Companies Aid NY State Police In Deep Web Bust]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Companies Aid NY State Police In Deep Web Bust</h1><p>There has been a lot of talk about Bitcoin and deep web marketplaces as of late, which has lead to the creation of The State Police Suspicious Activity Review team in New York. This team was formally recognized for tracing bank deposits back to the deep web, even though funds was converted to Bitcoin in the process.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d7512efdf3d3cc8eb42faf871951e9d7357887e.jpg"></article>]]></description>
+            <link>http://themerkle.com/bitcoin-companies-aid-ny-state-police-in-deep-web-bust/</link>
+            <guid isPermaLink="false">d2cb44f8-9520-4135-91bb-bd4e0c6905a1</guid>
+            <pubDate>Sun, 22 May 2016 16:07:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chinese Government Wants Stricter Regulation of P2P Lending]]></title>
             <description><![CDATA[<article><h1>Chinese Government Wants Stricter Regulation of P2P Lending</h1><p>Financial news coming from China is always a mixed bag of good and bad news these days.The local government wants to limit peer-to-peer lending, which will undoubtedly have an impact on Bitcoin as well. It is not the first time the People's Bank of China wants to tighten regulation of the financial sector, particularly when Bitcoin and peer-to-peer lending is concerned.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09241182c49b3c2799473b8205605d88306c594a.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Lisk to Move Developers from Blockchain to Sidechain</h1><p>Lisk plans to launch a modular cryptocurrency which it says would satisfy the growing interest to use the blockchain as a decentralized database for different use-cases outside of FinTech May 24.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29bd497b4799b0e3a0ae0802f62a7189299b8232.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/lisk-to-move-developers-from-blockchain-to-sidechain</link>
             <guid isPermaLink="false">87305e8f-ad58-41b5-a4da-de461e42603d</guid>
-            <pubDate>Sun, 22 May 2016 16:07:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ID2020, held at the United Nations, features 'lots and lots of Blockchain']]></title>
-            <description><![CDATA[<article><h1>ID2020, held at the United Nations, features 'lots and lots of Blockchain'</h1><p>During the inaugural ID2020 summit, held at the UN headquarters in New York on Friday, representatives from over 50 technology businesses discussed the world's Identity problems, including representatives from at least half dozen blockchain-centered companies. The purpose of the annual event is to make sure that every human being has access to identity services, even if they have no state-issued identification.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/408ca933bf8e438d7c40fa0e4c7a5561b4b94a5e.jpg"></article>]]></description>
-            <link>http://bravenewcoin.com/news/id2020-held-at-the-united-nations-features-lots-and-lots-of-blockchain/</link>
-            <guid isPermaLink="false">663e898b-7015-47c9-b8be-8beccbddc627</guid>
             <pubDate>Sun, 22 May 2016 16:07:35 GMT</pubDate>
         </item>
     </channel>
