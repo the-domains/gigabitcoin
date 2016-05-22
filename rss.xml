@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 16:51:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2016 16:51:54 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Explaining Bitcoin to the Masses: A Glass Box Analogy]]></title>
+            <description><![CDATA[<article><h1>Explaining Bitcoin to the Masses: A Glass Box Analogy</h1><p>Since I first got involved in Bitcoin, I've sought a simple means of explaining Bitcoin and the technology that underpins it, the Blockchain, to my friends and family, looking for a simple yet true-to-life analogy that illustrates something so complex.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32cf79b8cb555fb66bbc518dd5dd43c43faab957.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/explaining-bitcoin-to-the-masses-a-glass-box-analogy</link>
+            <guid isPermaLink="false">62f062ab-a968-440d-8ac2-47271dd76bc1</guid>
+            <pubDate>Sun, 22 May 2016 16:51:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IRC meeting summary for 2016-05-19]]></title>
             <description><![CDATA[<article><h1>IRC meeting summary for 2016-05-19</h1></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Chinese Government Wants Stricter Regulation of P2P Lending</h1><p>Financial news coming from China is always a mixed bag of good and bad news these days.The local government wants to limit peer-to-peer lending, which will undoubtedly have an impact on Bitcoin as well. It is not the first time the People's Bank of China wants to tighten regulation of the financial sector, particularly when Bitcoin and peer-to-peer lending is concerned.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09241182c49b3c2799473b8205605d88306c594a.jpg"></article>]]></description>
             <link>http://themerkle.com/chinese-government-wants-stricter-regulation-of-p2p-lending/</link>
             <guid isPermaLink="false">7210bed3-ec90-4955-94ed-45847cd2676a</guid>
-            <pubDate>Sun, 22 May 2016 16:07:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Where does a blockchain ledger live? I.e. does blockchain tech die if it can't reach a critical mass of users to store & distribute the s...]]></title>
-            <description><![CDATA[<article><h1>Where does a blockchain ledger live? I.e. does blockchain tech die if it can't reach a critical mass of users to store & distribute the s...</h1><p>Answer (1 of 2): The ledger can exist on one device. But then who is to say if its been tampered with? A distributed ledger is required to ensure it is kept accurate and true to its record. If more than half the keepers of the ledger agree to tamper with it, then inaccurate records could be add...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/Where-does-a-blockchain-ledger-live-I-e-does-blockchain-tech-die-if-it-cant-reach-a-critical-mass-of-users-to-store-distribute-the-shared-ledger</link>
-            <guid isPermaLink="false">593465c8-d4fa-470e-99e1-90f21967e4e2</guid>
             <pubDate>Sun, 22 May 2016 16:07:36 GMT</pubDate>
         </item>
     </channel>
