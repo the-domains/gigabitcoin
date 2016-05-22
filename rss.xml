@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 05:31:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2016 16:08:20 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Determining Liability When a DAO is Sued - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Determining Liability When a DAO is Sued - CoinDesk</h1><p>A lawyer at Washington, DC-based Palley Law, PLLC, Stephen D Palley represents construction and technology companies in connection with litigation, insurance coverage matters and product design and development. In this op-ed, Palley explores the question of liability and jurisdiction in the context of decentralized autonomous organizations (DAOs). Does distributed presence create distributed liability?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a897335bdb3a5dc6f02b5edcf261e4b8c680ae1.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/legal-liability-dao/</link>
+            <guid isPermaLink="false">7a4858be-2e32-457f-ad72-21b3d7e3910f</guid>
+            <pubDate>Sun, 22 May 2016 16:07:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Weekly Analysis - Can Double Bottom Push BTC/USD Higher? - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Weekly Analysis - Can Double Bottom Push BTC/USD Higher? - NEWSBTC</h1><p>Bitcoin price traded down this past week vs the US dollar, but is looks like BTC/USD is now forming a bullish pattern, which may push it higher. Bitcoin price traded down this past week vs the US dollar, but is looks like BTC/USD is now forming a bullish pattern, which may push it higher.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/640cb7c71a7b4a34b4c688948782aafb2a568869.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>A Conversation with Gene Kavner, CEO of iPayYou</h1><p>iPayYou is a new service that offers what is touted as the easiest, safest and most useful bitcoin wallet in the world. The Seattle-based company's wallet lets users hold, purchase, sell, send and ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8af33f95a595bd392eceb44696740a9e3624efb.jpg"></article>]]></description>
             <link>https://coinreport.net/conversation-gene-kavner-ceo-ipayyou/</link>
             <guid isPermaLink="false">56e9c989-aa3f-45f9-a109-3cd22f88e3f7</guid>
-            <pubDate>Sun, 22 May 2016 04:50:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin News for the week of 5/16/16]]></title>
-            <description><![CDATA[<article><h1>Bitcoin News for the week of 5/16/16</h1><p>Welcome to our weekly bitcoin news recap, where we cover top headlines and stories in the world of bitcoin each week. This was a huge week for Blockchain with the launch of the Thunder Network, which was carried by several mainstream media outlets including TechCrunch and Forbes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8be2f04c2d93334d2008e3775ab04b2f44ae2e18.png"></article>]]></description>
-            <link>https://blog.blockchain.com/2016/05/21/bitcoin-news-for-the-week-of-51616/</link>
-            <guid isPermaLink="false">c977576a-7be3-4c65-a9c2-1777fdf882cf</guid>
             <pubDate>Sun, 22 May 2016 04:50:19 GMT</pubDate>
         </item>
     </channel>
