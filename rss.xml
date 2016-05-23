@@ -4,8 +4,50 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 22:05:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 22:06:40 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Sailing A Shallow Sea]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Sailing A Shallow Sea</h1><p>The bitcoin price ship again scraped its hull against something in the mid-$430s (Bitstamp). Evidently, there was no damage, yet the wind is just not billowing the sails. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d9c9b93f8ea1c2be906703bc5936c20bf923ef48.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-price-ship-shallow-sea/</link>
+            <guid isPermaLink="false">6fafe1fa-d903-4d2d-ae20-a3e89e8fec15</guid>
+            <pubDate>Mon, 23 May 2016 22:02:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[String Labs announces grants program for Ethereum developers]]></title>
+            <description><![CDATA[<article><h1>String Labs announces grants program for Ethereum developers</h1><p>There's no doubt that Ethereum has seen a significant popularity growth during the last couple of weeks, with some miners even expanding their operations towards mining Ether. According to recent reports, String Labs, an autonomous financing project has announced that it has begun accepting proposals from developers that want to innovate in the Ethereum market, for grants.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb4e14be33ca4224b5da9e4f8216239b4c325af4.jpg"></article>]]></description>
+            <link>http://themerkle.com/string-labs-announces-grants-program-for-ethereum-developers/</link>
+            <guid isPermaLink="false">f4d39905-8533-45f1-8969-917176d9ef9c</guid>
+            <pubDate>Mon, 23 May 2016 22:02:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Electrum Seed Length]]></title>
+            <description><![CDATA[<article><h1>Electrum Seed Length</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top I noticed that Electrum seeds are 13 words long if the wallet has been created by Electrum but if I used a random hex string to create the wallet it always was 24 words long.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/44272/electrum-seed-length</link>
+            <guid isPermaLink="false">c8621686-a67b-4c93-8ee4-d8f52618013f</guid>
+            <pubDate>Mon, 23 May 2016 22:02:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DARPA, NATO Looking at Military Applications of Blockchain Technology]]></title>
+            <description><![CDATA[<article><h1>DARPA, NATO Looking at Military Applications of Blockchain Technology</h1><p>Both the Defense Advanced Research Projects Agency (DARPA) of the U.S. Department of Defense (DoD) and NATO have put out requests for military-related apps built on blockchain technology, Defense One reports. DARPA wants to leverage blockchain technology to create a secure messaging service.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a2450c2d2c59bfae0a7eee72efd51a961f3791e.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/darpa-nato-looking-at-military-applications-of-blockchain-technology-1464018766</link>
+            <guid isPermaLink="false">ff421894-9029-4265-93b3-a6798c59a07c</guid>
+            <pubDate>Mon, 23 May 2016 22:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Distributed: Trade Blockchain Hackathon Offers $25k in Prizes for Supply Chain and Finance Use Cases]]></title>
+            <description><![CDATA[<article><h1>Distributed: Trade Blockchain Hackathon Offers $25k in Prizes for Supply Chain and Finance Use Cases</h1><p>BTC Media, the parent company of Bitcoin Magazine, and SixThirty recently announced a 24-hour blockchain hackathon with $25,000 in prize money will take place on June 12-13, 2016, a day before their Distributed: Trade conference, in St. Louis.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8151684a8f1cfcc6a7e8bd8282e56df79101216b.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/distributed-trade-blockchain-hackathon-offers-k-in-prizes-for-supply-chain-and-finance-use-cases-1464018607</link>
+            <guid isPermaLink="false">53a77813-c5d3-4b7d-b464-d8f05854b1a3</guid>
+            <pubDate>Mon, 23 May 2016 22:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ouch * /r/ethtrader]]></title>
+            <description><![CDATA[<article><h1>Ouch * /r/ethtrader</h1><p>Actually, I never planned to build on the bitcoin chain. Even back when I was planning on doing a metacoin for simplicity, the parent chain was...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
+            <link>https://np.reddit.com/r/ethtrader/comments/4asiad/ouch/d1385jc</link>
+            <guid isPermaLink="false">1f3490ab-8488-4e27-9a9c-e236e6d061e8</guid>
+            <pubDate>Mon, 23 May 2016 22:02:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin users are speaking out, and they want bigger blocks. Compare these 2 OPs: r\bitcoin: "Full blocks DO NOT matter, what matters is transaction fees" (100 upvotes) vs r/btc: "Capacity problems can't be fixed with a 'fee market'; they can only be fixed by raising the blocksize cap" (200 upvotes) * /r/btc]]></title>
             <description><![CDATA[<article><h1>Bitcoin users are speaking out, and they want bigger blocks. Compare these 2 OPs: r\bitcoin: "Full blocks DO NOT matter, what matters is transaction fees" (100 upvotes) vs r/btc: "Capacity problems can't be fixed with a 'fee market'; they can only be fixed by raising the blocksize cap" (200 upvotes) * /r/btc</h1><p>If the voting and comments on these 2 threads are any indication, then it looks like twice as many Bitcoin users want bigger blocks. Here's the thread on r\bitcoin, with only around 100 upvotes: Why all the disinformation? Full blocks DO NOT matter, what matters is transaction fees.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
@@ -33,48 +75,6 @@
             <link>http://www.newsbtc.com/2016/05/23/okwave-enters-into-a-strategic-partnership-with-breadwallet/</link>
             <guid isPermaLink="false">ac5192f7-586f-4266-a4d0-fbe4398525c3</guid>
             <pubDate>Mon, 23 May 2016 22:02:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[India's 'Unregulated' Bitcoin Industry is Thriving]]></title>
-            <description><![CDATA[<article><h1>India's 'Unregulated' Bitcoin Industry is Thriving</h1><p>The popularity of Bitcoin in India has seen an exponential rise, according to the Hindustantimes . The report details that more users in the region are using the cryptocurrency to pay mobile bills and vouchers for online shopping.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/134af2b6f3cd646bdacb626457f3fc4e27fb2f23.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/india-unregulated-bitcoin-thriving/</link>
-            <guid isPermaLink="false">1714cae0-93cc-487c-a05b-cdc18c32ad21</guid>
-            <pubDate>Mon, 23 May 2016 22:02:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Copyright Infringement Disputes? Blockchain Can Provide Solutions]]></title>
-            <description><![CDATA[<article><h1>Copyright Infringement Disputes? Blockchain Can Provide Solutions</h1><p>Fox uses an existing Youtube video in an episode of Family Guy, then complains about copyright infringement and takes down the video. This is just one of the many cases where large media organizations have unfairly used the provisions of the Digital Millennium Copyright Act (DMCA).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61364258598fc0ee329d2110ad0050e0556d5ec2.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/copyright-infringement-disputes-blockchain-can-provide-solutions</link>
-            <guid isPermaLink="false">9afc61c3-44f9-4b25-a633-5b585975086c</guid>
-            <pubDate>Mon, 23 May 2016 22:02:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Venture Capitalist Balaji Srinivasan Banks on Bitcoin Adoption]]></title>
-            <description><![CDATA[<article><h1>Venture Capitalist Balaji Srinivasan Banks on Bitcoin Adoption</h1><p>Register today for inside access to our thought-provoking coverage of the global financial markets! Interactive Digital Access Research & Ranking Summary Results Monthly Magazine* Daily eNewsletters Register Today *For qualified registrants only Banking + Capital Markets Picture a world where machines barter for resources using their own virtual currency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f53d7ea3386e6d73cedd5284a2faf6749c5dcef2.jpg"></article>]]></description>
-            <link>http://www.institutionalinvestor.com/article/3556256/banking-and-capital-markets-trading-and-technology/venture-capitalist-balaji-srinivasan-banks-on-bitcoin-adoption.html</link>
-            <guid isPermaLink="false">b4f54035-38e8-4131-83ae-2ca239137148</guid>
-            <pubDate>Mon, 23 May 2016 22:02:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[European Union Takes Data Privacy More Seriously]]></title>
-            <description><![CDATA[<article><h1>European Union Takes Data Privacy More Seriously</h1><p>Data privacy is becoming more important to consumers all over the world, and there are different ways to balance technology with security. Over in Europe, policymakers seem to be on the right track by the look of things, although it is still early to say so for sure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d45f83206ef9fa0e03dbcaad43c03f6a29e2a91.jpg"></article>]]></description>
-            <link>http://themerkle.com/european-union-takes-data-privacy-more-seriously/</link>
-            <guid isPermaLink="false">c35422b8-fd47-4cfb-951a-3466cae91b5c</guid>
-            <pubDate>Mon, 23 May 2016 22:02:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dubai Government to Sponsor Upcoming Digital Currency Conference - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Dubai Government to Sponsor Upcoming Digital Currency Conference - CoinDesk</h1><p>Dubai is set to play host to a conference on digital currencies later this month, an event that comes several months after a government-backed blockchain effort was first unveiled.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/701e4e622832ad14c49c1c1842d4ba69f6706af0.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/dubai-host-digital-currency-conference-later-month/</link>
-            <guid isPermaLink="false">6a08af6d-1d08-4494-a324-b5581b1f005f</guid>
-            <pubDate>Mon, 23 May 2016 22:02:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK Banks' Obsoleteness at Root of Small BTC/GBP Trading Volume]]></title>
-            <description><![CDATA[<article><h1>UK Banks' Obsoleteness at Root of Small BTC/GBP Trading Volume</h1><p>Despite being the fifth largest economy in the world, the United Kingdom has a relatively small BTC/GBP trading volume ratio. Banks refusal to deal with Bitcoin companies is at the heart of the problem.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6b176c644f544f6c41e04875054a36d48917e0c.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/uk-banks-obsoleteness-at-root-of-small-btcgbp-trading-volume</link>
-            <guid isPermaLink="false">50c580df-b0ea-436a-9b08-71315688c3ac</guid>
-            <pubDate>Mon, 23 May 2016 22:02:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
