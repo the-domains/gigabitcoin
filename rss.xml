@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 22:04:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 22:04:40 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Hash Rate]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Hash Rate</h1></article>]]></description>
+            <link>https://blockchain.info/charts/hash-rate?timespan=1year&amp;amp;showDataPoints=false&amp;amp;daysAverageString=1&amp;amp;show_header=true&amp;amp;scale=0&amp;amp;address=</link>
+            <guid isPermaLink="false">9b7c1894-aebf-4993-ac17-9eb11e8a1412</guid>
+            <pubDate>Mon, 23 May 2016 22:02:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DASH Technical Analysis for 05/23/2016 - Market Trading Above 0.0175 Pivot Zone]]></title>
             <description><![CDATA[<article><h1>DASH Technical Analysis for 05/23/2016 - Market Trading Above 0.0175 Pivot Zone</h1><p>DASH has been in bullish mode since the beginning of the month and the market has overcome a number of significant pivot zones so far. The 0.0175 area - which acted as resistance towards the end of March and early April - is now acting as support.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/46dce5c47f9ccd8aa9a395772b3160782d53271b.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.quora.com/How-do-you-speculate-with-bitcoin</link>
             <guid isPermaLink="false">8becdd2f-fe26-4ec8-aa42-ef6dce87a660</guid>
             <pubDate>Mon, 23 May 2016 22:02:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How can bitcoin be spent?]]></title>
-            <description><![CDATA[<article><h1>How can bitcoin be spent?</h1><p>Mr. Detail, Mr. Schedule, and Mr. People are planning a party. The guests are supposed to arrive at 7pm, which is in five minutes, and Mr. Detail is still hanging decorations. He keeps putting them up and taking them down. They're never perfect enough for him.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/unanswered/How-can-bitcoin-be-spent</link>
-            <guid isPermaLink="false">fe88cb7f-0c9a-4216-a90d-52de183d0a60</guid>
-            <pubDate>Mon, 23 May 2016 22:02:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
