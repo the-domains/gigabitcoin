@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 14:03:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 14:03:40 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Altcoins Price Analysis (Week of May 22th): Ethereum, Litecoin and DASH]]></title>
-            <description><![CDATA[<article><h1>Altcoins Price Analysis (Week of May 22th): Ethereum, Litecoin and DASH</h1><p>Altcoin prices have stopped at their respective key levels, after moving along upward trends. Such stops could provoke prolonged downward corrections. Ethereum has continued its upward trend. A turn at a key level of $9.7 did not happen. Thus, Ethereum's price has formed a powerful upward momentum, reaching the maximum of March.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/826da9ed492c54edc920228056ae0fe63d4cf1c7.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/altcoins-price-analysis-week-of-may-22th-ethereum-litecoin-and-dash</link>
-            <guid isPermaLink="false">f8b7af0c-e459-4daa-b1c3-1a9627bb9436</guid>
-            <pubDate>Mon, 23 May 2016 14:02:49 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[What role will Bitcoin play in the evolution of stock markets?]]></title>
             <description><![CDATA[<article><h1>What role will Bitcoin play in the evolution of stock markets?</h1><p>Some commentators are predicting a Bitcoin price surge during the year, mainly due to a slower rate of growth in the money supply. Compared with academic research carried out in previous years you may have noticed that many scholarly papers in 2016 have so far focused on analyzing Bitcoin's potential future role, and in some cases examined user experiences of Bitcoin security and privacy [See: Krombholz, Judmayer, Gusenbauer and Weippl (2016); SBA Research, Vienna, Austria].</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4478f20d9ce2da6a1f7695f3526f7040fd7e133.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://www.quora.com/Can-Bitcoin-coexist-with-Ethereum-or-are-they-purely-competitive</link>
             <guid isPermaLink="false">00b4029a-be82-4934-868f-50178b7b3d2c</guid>
             <pubDate>Mon, 23 May 2016 06:03:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Catches On With Gold Bugs]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Catches On With Gold Bugs</h1><p>Kanishka Sukumar, a consultant who works in midtown Manhattan, says his parents often stash money in gold for safekeeping. But the 24-year-old thinks there is a better place for his savings. "In times of financial turmoil, I would prefer to see a portfolio full of bitcoin," said Mr. Sukumar, who holds about one-third of his wealth in the...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e09dffde4aeb0672811dbed21b18f66d868f6a36.jpg"></article>]]></description>
+            <link>http://www.wsj.com/articles/bitcoin-catches-on-with-gold-bugs-1463959897</link>
+            <guid isPermaLink="false">c4d669a2-de4f-46f5-a2c3-bfc601cd8681</guid>
+            <pubDate>Mon, 23 May 2016 00:47:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
