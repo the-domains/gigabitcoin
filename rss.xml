@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 06:04:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 06:04:06 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin Price Technical Analysis for 05/23/2016 - Pullback to Broken Support? - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 05/23/2016 - Pullback to Broken Support? - NEWSBTC</h1><p>Bitcoin price is pulling up from its recent dive, offering a better entry point for sellers looking to catch the downtrend. Bitcoin Price Key Highlights Bitcoin price is pulling up from its recent dive, offering a better entry point for sellers looking to catch the downtrend.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07297f94fa3a02e37ee171b0f64d2eb8188c3179.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/23/bitcoin-price-technical-analysis-05232016-pullback-broken-support/</link>
-            <guid isPermaLink="false">dfd4a91a-2f4f-4437-82af-b75d7cf8429c</guid>
-            <pubDate>Mon, 23 May 2016 06:03:27 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Which Bitcoin exchanges publish proof of reserves?]]></title>
             <description><![CDATA[<article><h1>Which Bitcoin exchanges publish proof of reserves?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top I am tired of fractional reserve exchanges continuing to run with account holders eventually holding the bag.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Bitcoin Miner Fees and Micropayment Channels - NEWSBTC</h1><p>The average bitcoin transaction fee currently stands at 10280 satoshis. Micropayment channels can drastically reduce transaction costs for multiple bitcoin transactions across 2 parties. The Bitcoin network is weighed down by increasing number of transactions over the blockchain. Thanks to the smaller block size of 1 MB, which has not been upgraded since the days of Bitcoin's creation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0ff6bf1a2c77c2a61c71baadb967e03b42032fd.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/05/22/bitcoin-miner-fee-and-micropayment-channels/</link>
             <guid isPermaLink="false">1b829221-a93b-4656-8b30-2901aefddf77</guid>
+            <pubDate>Mon, 23 May 2016 00:03:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EP #81: Ned Scott explains Steem.it!]]></title>
+            <description><![CDATA[<article><h1>EP #81: Ned Scott explains Steem.it!</h1><p>On today's show I welcome Ned Scott, the CEO of Steemit. Ned talks to us about the value of Community and the value of reputation - two vitally important concepts that lie at the heart of Steemit. Working with the Larimers, Ned is blazing a trail forward and setting a great example of how we can learn to communicate better in the future.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6799a44512147d7642c5967608f9624a90144481.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/ep-81-ned-scott-explains-steemit</link>
+            <guid isPermaLink="false">e8793be1-33d5-4255-b427-9b475a82da43</guid>
             <pubDate>Mon, 23 May 2016 00:03:03 GMT</pubDate>
         </item>
     </channel>
