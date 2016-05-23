@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 22:03:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 22:04:08 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Crypto Show with Marko Rodin and his Rodin Coil]]></title>
+            <description><![CDATA[<article><h1>The Crypto Show with Marko Rodin and his Rodin Coil</h1><p>Marko Rodin joins us to explain why prime numbers are wrong based on Vortex Based Mathematics. He also discusses his free energy concept The Rodin Coil. I still have no idea what he means by cryptography being wrong and that he can easily break encryption with his math theory.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65e8bd3feb14f356914aa1dcf5f6f37e29725af0.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/the-crypto-show-with-marko-rodin-and-his-rodin-coil</link>
+            <guid isPermaLink="false">aaddb6f0-b2a1-4436-bc9e-cc5930f838bd</guid>
+            <pubDate>Mon, 23 May 2016 22:02:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Can Blockchain succeed without Bitcoin?]]></title>
             <description><![CDATA[<article><h1>Can Blockchain succeed without Bitcoin?</h1><p>1. You have a thing that produces copies of itself. 2. Those copies have small differences. 3. Some of those differences will survive better than others, because of the way they interact with the environment. 4. For the ones that don't interact well, stop. For those that do, return to ste...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Computer Expert Raises New Concerns for Bitcoin Users</h1><p>E-Currency System May Not Be as Safe as It Appears Monday, May 23, 2016 UCSB welcomed world-renowned computer engineer, Dr. Emin Gün Sirer, for a free lecture on electronic currencies this week at the SAGE Center for the Study of the Mind. The best known of these systems, Bitcoin, already has a pretty controversial reputation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b2f74e39a43fa9d8448f4de43f9cb3cc77467f3.jpg"></article>]]></description>
             <link>http://www.independent.com/news/2016/may/23/computer-expert-raises-new-concerns-bitcoin-users/</link>
             <guid isPermaLink="false">3d3ab87a-8647-465f-8df2-8fd5cf8fbedc</guid>
-            <pubDate>Mon, 23 May 2016 22:02:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rai stones]]></title>
-            <description><![CDATA[<article><h1>Rai stones</h1><p>Rai , or stone money ( Yapese: raay), are large, circular stone disks carved out of limestone formed from aragonite and calcite crystals. Rai stones were quarried on several of the Micronesian islands, mainly Palau, but briefly on Guam as well, and transported for use as money to the island of Yap.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/31036e9cd78d69ca9b24c229570298d0c9263e5b.jpg"></article>]]></description>
-            <link>https://en.wikipedia.org/wiki/Rai_stones</link>
-            <guid isPermaLink="false">40e8ae4a-b1f7-4efa-9436-a8bf8138305e</guid>
             <pubDate>Mon, 23 May 2016 22:02:48 GMT</pubDate>
         </item>
     </channel>
