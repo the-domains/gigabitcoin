@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 14:03:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 14:03:44 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Temenos T24 Core Banking Solution Integrates Ripple Technology]]></title>
-            <description><![CDATA[<article><h1>Temenos T24 Core Banking Solution Integrates Ripple Technology</h1><p>Integrating the Ripple protocol into Temenos T24 lets financial institutions send payments in real-time without requiring intermediary banking relationships. Ripple has always been an initiative to bridge the gap between blockchain technology and traditional banking. Now that this protocol has been showcased as an integration into Temenos T24, the future is looking for bright for Ripple and its partners.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b34691f34d86ff4eb72b226c20387e7bb83dd349.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/23/temenos-t24-core-banking-solution-integrates-ripple-technology/</link>
-            <guid isPermaLink="false">03330d14-8806-423c-8ed0-2ac7c14d448e</guid>
-            <pubDate>Mon, 23 May 2016 14:02:49 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Banks Look To Blockchain To Reduce Fraud In $4 Trillion Trade Finance Field]]></title>
             <description><![CDATA[<article><h1>Banks Look To Blockchain To Reduce Fraud In $4 Trillion Trade Finance Field</h1><p>Banks are exploring blockchain or distributed ledger technology as a way to prevent fraud risk in the $4 trillion trade financing industry. Standard Chartered Plc, having lost nearly $200 million in fraud at Qingdao port two years ago, has partnered with DBS Group Holdings Ltd. to establish an electronic invoice ledger using a blockchain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1aaaa3c1f5196a6e427e049b1a733629f57829ba.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://www.cryptocoinsnews.com/autonomous-ethereum-project-grants-blockchain-developers/</link>
             <guid isPermaLink="false">bb3368aa-dbdc-4090-93c4-48868def64c1</guid>
             <pubDate>Mon, 23 May 2016 14:02:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Technical Analysis for 05/23/2016 - Pullback to Broken Support? - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 05/23/2016 - Pullback to Broken Support? - NEWSBTC</h1><p>Bitcoin price is pulling up from its recent dive, offering a better entry point for sellers looking to catch the downtrend. Bitcoin Price Key Highlights Bitcoin price is pulling up from its recent dive, offering a better entry point for sellers looking to catch the downtrend.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07297f94fa3a02e37ee171b0f64d2eb8188c3179.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/23/bitcoin-price-technical-analysis-05232016-pullback-broken-support/</link>
+            <guid isPermaLink="false">dfd4a91a-2f4f-4437-82af-b75d7cf8429c</guid>
+            <pubDate>Mon, 23 May 2016 06:03:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
