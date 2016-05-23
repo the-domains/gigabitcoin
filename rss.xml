@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 22:05:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 22:05:28 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[India's 'Unregulated' Bitcoin Industry is Thriving]]></title>
-            <description><![CDATA[<article><h1>India's 'Unregulated' Bitcoin Industry is Thriving</h1><p>The popularity of Bitcoin in India has seen an exponential rise, according to the Hindustantimes . The report details that more users in the region are using the cryptocurrency to pay mobile bills and vouchers for online shopping.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/134af2b6f3cd646bdacb626457f3fc4e27fb2f23.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/india-unregulated-bitcoin-thriving/</link>
-            <guid isPermaLink="false">1714cae0-93cc-487c-a05b-cdc18c32ad21</guid>
-            <pubDate>Mon, 23 May 2016 22:02:51 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Copyright Infringement Disputes? Blockchain Can Provide Solutions]]></title>
             <description><![CDATA[<article><h1>Copyright Infringement Disputes? Blockchain Can Provide Solutions</h1><p>Fox uses an existing Youtube video in an episode of Family Guy, then complains about copyright infringement and takes down the video. This is just one of the many cases where large media organizations have unfairly used the provisions of the Digital Millennium Copyright Act (DMCA).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61364258598fc0ee329d2110ad0050e0556d5ec2.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Peter Todd Voices Concerns Over Bitcoin Foundation Politics</h1><p>A new email has been sent out by the Bitcoin Foundation, which has caused a lot of confusion and disgruntlement among Bitcoin experts. Peter Todd responded on Twitter stressing how he's not a Bitcoin Foundation member and doesn't wish to be represented by them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1de51628981fbf039d4b725603bd6b5c4801e42.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/peter-todd-voices-concerns-bitcoin-foundation-politics/</link>
             <guid isPermaLink="false">1400fbba-9ca9-445c-b912-3f4644cb75aa</guid>
+            <pubDate>Mon, 23 May 2016 22:02:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Hash Rate]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Hash Rate</h1></article>]]></description>
+            <link>https://blockchain.info/charts/hash-rate?timespan=1year&amp;amp;showDataPoints=false&amp;amp;daysAverageString=1&amp;amp;show_header=true&amp;amp;scale=0&amp;amp;address=</link>
+            <guid isPermaLink="false">9b7c1894-aebf-4993-ac17-9eb11e8a1412</guid>
             <pubDate>Mon, 23 May 2016 22:02:50 GMT</pubDate>
         </item>
     </channel>
