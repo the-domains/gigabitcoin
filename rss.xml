@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 22:06:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 22:06:07 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Distributed: Trade Blockchain Hackathon Offers $25k in Prizes for Supply Chain and Finance Use Cases]]></title>
-            <description><![CDATA[<article><h1>Distributed: Trade Blockchain Hackathon Offers $25k in Prizes for Supply Chain and Finance Use Cases</h1><p>BTC Media, the parent company of Bitcoin Magazine, and SixThirty recently announced a 24-hour blockchain hackathon with $25,000 in prize money will take place on June 12-13, 2016, a day before their Distributed: Trade conference, in St. Louis.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8151684a8f1cfcc6a7e8bd8282e56df79101216b.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/distributed-trade-blockchain-hackathon-offers-k-in-prizes-for-supply-chain-and-finance-use-cases-1464018607</link>
-            <guid isPermaLink="false">53a77813-c5d3-4b7d-b464-d8f05854b1a3</guid>
-            <pubDate>Mon, 23 May 2016 22:02:51 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Ouch * /r/ethtrader]]></title>
             <description><![CDATA[<article><h1>Ouch * /r/ethtrader</h1><p>Actually, I never planned to build on the bitcoin chain. Even back when I was planning on doing a metacoin for simplicity, the parent chain was...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>European Union Takes Data Privacy More Seriously</h1><p>Data privacy is becoming more important to consumers all over the world, and there are different ways to balance technology with security. Over in Europe, policymakers seem to be on the right track by the look of things, although it is still early to say so for sure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d45f83206ef9fa0e03dbcaad43c03f6a29e2a91.jpg"></article>]]></description>
             <link>http://themerkle.com/european-union-takes-data-privacy-more-seriously/</link>
             <guid isPermaLink="false">c35422b8-fd47-4cfb-951a-3466cae91b5c</guid>
+            <pubDate>Mon, 23 May 2016 22:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dubai Government to Sponsor Upcoming Digital Currency Conference - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Dubai Government to Sponsor Upcoming Digital Currency Conference - CoinDesk</h1><p>Dubai is set to play host to a conference on digital currencies later this month, an event that comes several months after a government-backed blockchain effort was first unveiled.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/701e4e622832ad14c49c1c1842d4ba69f6706af0.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/dubai-host-digital-currency-conference-later-month/</link>
+            <guid isPermaLink="false">6a08af6d-1d08-4494-a324-b5581b1f005f</guid>
             <pubDate>Mon, 23 May 2016 22:02:51 GMT</pubDate>
         </item>
     </channel>
