@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 22:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2016 22:11:35 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Consumers Prefer Biometrics Over Logins and Passwords]]></title>
-            <description><![CDATA[<article><h1>Consumers Prefer Biometrics Over Logins and Passwords</h1><p>The way we use passwords for authentication and security purposes is changing, and biometrics are becoming more prominent every year. That is only normal, as biometrics are the easiest solution, whereas coming up with unique and strong passwords can be quite difficult.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ec18c35b5417864f6882dcadbf087e4e7119219.jpg"></article>]]></description>
-            <link>http://themerkle.com/consumers-prefer-biometrics-over-logins-and-passwords/</link>
-            <guid isPermaLink="false">832ed345-3859-47d1-916e-8c5ef9b70385</guid>
-            <pubDate>Tue, 24 May 2016 22:10:37 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Life.SREDA is proud to announce a venture fund meant for blockchain startup investments]]></title>
             <description><![CDATA[<article><h1>Life.SREDA is proud to announce a venture fund meant for blockchain startup investments</h1><p>According to recent reports, a Singapore-based venture known by the name of Life.SREDA will launch a fund meant to encourage banks from all around the world to invest into blockchain startups. In return, Life.SREDA hopes that early-state blockchain companies will get access to start-up capital, needed to establish their services on the market, thus further promoting the possibilities of blockchain technology.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/179fc0a11d134337d3b5171c6e9f61f69130f549.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://www.newsbtc.com/2016/05/24/ping-an-becomes-the-first-chinese-institution-to-join-r3-consotrium/</link>
             <guid isPermaLink="false">d97df95b-27bd-41d3-a7c1-829cbecfa797</guid>
             <pubDate>Tue, 24 May 2016 22:10:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coinbase Co-Founder: Ethereum Could 'Blow Past' Bitcoin - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Coinbase Co-Founder: Ethereum Could 'Blow Past' Bitcoin - CoinDesk</h1><p>In a sweeping, 2,500-word blog post today, Fred Ehrsam, the co-founder of one of the best funded blockchain startups, Coinbase, took aim at what he called a "stagnant" bitcoin community that he characterized as being outperformed by innovators working on the Ethereum network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/59c7f4e7ef76ef8cbb81a6f4c105c678c9108154.png"></article>]]></description>
+            <link>http://www.coindesk.com/coinbase-co-founder-ethereum-blow-past-bitcoin/</link>
+            <guid isPermaLink="false">2308ded3-41be-4443-94eb-16ba3746752f</guid>
+            <pubDate>Tue, 24 May 2016 22:10:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
