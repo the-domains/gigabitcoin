@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 18:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2016 18:08:56 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Confidential Transactions on main chain]]></title>
-            <description><![CDATA[<article><h1>Confidential Transactions on main chain</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top I have seen discussion of CT being used on the a side chain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/44313/confidential-transactions-on-main-chain</link>
-            <guid isPermaLink="false">1d7ef840-50ca-4360-a506-1774b9e477fc</guid>
-            <pubDate>Tue, 24 May 2016 18:08:23 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[US Postal Service to create its Digital Currency | HolyTransaction]]></title>
             <description><![CDATA[<article><h1>US Postal Service to create its Digital Currency | HolyTransaction</h1><p>Recently the US Postal Service (USPS) published a new document about how the company could create its own digital currency. This press release written by the Postal Service's Office of the Inspector General said that the postal company have to consider to use the blockchain for its own purpouses, creating a network where devices can be connected together.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61c8ff52f4c5bb43f19c4692199ca088224e1c89.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://themerkle.com/g7-lobbies-for-better-cybersecurity-solutions-by-october-2016/</link>
             <guid isPermaLink="false">c2aeb4de-76e5-463c-8d0a-7198128f35ae</guid>
             <pubDate>Tue, 24 May 2016 18:08:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tim Cook: "Coding Needs To Be A Part Of Education"]]></title>
+            <description><![CDATA[<article><h1>Tim Cook: "Coding Needs To Be A Part Of Education"</h1><p>The topic of coding has been kicked around several times, as there is no dedicated educational program in place which teaches codes how to code. Apple CEO Tim Cook feels there is a growing need for such a platform, as it is equally as important as learning a secondary language.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/368a24afddfad76e8dab9a976a23f7d03ab913bd.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/tim-cook-coding-needs-to-be-a-part-of-education/</link>
+            <guid isPermaLink="false">53a51eba-cbfc-4645-8b29-6db4a3703bf7</guid>
+            <pubDate>Tue, 24 May 2016 14:42:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
