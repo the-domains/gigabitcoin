@@ -1,32 +1,29 @@
 ---
-author:
-  - name: View all posts by JP Buntinx
-    url: 'http://www.newsbtc.com/author/jp-buntinx/'
-    avatar: {}
+author: []
 related: []
 publisher:
-  url: 'http://www.newsbtc.com'
-  name: NEWSBTC
-  favicon: 'https://s3.amazonaws.com/common-newsbtc/images/favicon.ico'
-  domain: www.newsbtc.com
+  url: 'http://www.prnewswire.com'
+  name: Prnewswire
+  favicon: 'http://content.prnewswire.com/designimages/favicon_PRN.ico'
+  domain: www.prnewswire.com
 keywords:
-  - bitcoin
   - cryptocurrency
-  - value
-  - growth
   - market
-  - ecosystem
+  - bitcoin
   - atm
-  - '481'
-  - fruition
-  - currency
-description: 'Bitcoin remains the clear market leader in the world of cryptocurrency, although several competitors have come to fruition in the past few years When looking at the cryptocurrency market as a whole, this movement is becoming quite popular and keeps increasing in value.'
+  - rnrmarketresearch
+  - litecoin
+  - ethereum
+  - global
+  - growth
+  - ripple
+description: 'The report titled "Global Cryptocurrency Market (Bitcoin, Ripple, Litecoin, Ethereum)- Insights and Analysis: Technology, Sizing, Growth and Potential - (By Value, By Transaction Volume, Bitcoin ATMs, Company Analysis)" suggests that the cryptocurrencies have a huge potential in disrupting the Financial Technologies space and bring about revolution in the way currencies and payment systems will work out in the coming years.'
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.newsbtc.com/2016/05/24/cryptocurrency-market-bitcoin-worth-19-48-billion-2016/'
+isBasedOnUrl: 'http://www.prnewswire.com/news-releases/cryptocurrency-market-for-bitcoin-worth-1948-billion-in-2016-580603251.html'
 title: Cryptocurrency Market for Bitcoin Worth $19.48 Billion in 2016
-datePublished: '2016-05-24T13:53:24.825Z'
-dateModified: '2016-05-24T10:09:52.682Z'
+datePublished: '2016-05-24T13:53:25.825Z'
+dateModified: '2016-05-24T07:09:30.949Z'
 starred: false
 sourcePath: _posts/2016-05-24-cryptocurrency-market-for-bitcoin-worth-dollar1948-billion-in-20.md
 inFeed: true
@@ -36,4 +33,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Cryptocurrency Market for Bitcoin Worth $19.48 Billion in 2016</h1><p>Bitcoin remains the clear market leader in the world of cryptocurrency, although several competitors have come to fruition in the past few years When looking at the cryptocurrency market as a whole, this movement is becoming quite popular and keeps increasing in value.</p><img src="http://s3.amazonaws.com/main-newsbtc-images/2016/05/24082648/shutterstock_274470068.jpg" /></article>
+<article style=""><h1>Cryptocurrency Market for Bitcoin Worth $19.48 Billion in 2016</h1><p>The report titled "Global Cryptocurrency Market (Bitcoin, Ripple, Litecoin, Ethereum)- Insights and Analysis: Technology, Sizing, Growth and Potential - (By Value, By Transaction Volume, Bitcoin ATMs, Company Analysis)" suggests that the cryptocurrencies have a huge potential in disrupting the Financial Technologies space and bring about revolution in the way currencies and payment systems will work out in the coming years.</p><img src="http://content.prnewswire.com/images/prn_facebook_sharing_logo.jpg" /></article>
