@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 18:08:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2016 18:08:56 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Overstock: Bitcoin's in Our DNA, Rumors 'Erroneous']]></title>
+            <description><![CDATA[<article><h1>Overstock: Bitcoin's in Our DNA, Rumors 'Erroneous'</h1><p>Brief panic set in Monday after reports on social media that pioneering Bitcoin merchant Overstock had stopped accepting the virtual currency. Also read: Overstock.com to Take the Bitcoin Blockchain Public in 'Matter of Weeks' A screenshot of an alleged conversation with an Overstock service representative called "Hilton" showed him stating to a customer that Bitcoin was no longer an option "due to the exchange rate [...]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a862fa676532aba49a687d53c49ab9747bf66eeb.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/overstock-bitcoin-rumors-erroneous/</link>
+            <guid isPermaLink="false">59f738dc-e24d-4ef4-8265-e6200bb31036</guid>
+            <pubDate>Tue, 24 May 2016 18:08:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[UAE's First Bitcoin Startup Shuts Down - CoinDesk]]></title>
             <description><![CDATA[<article><h1>UAE's First Bitcoin Startup Shuts Down - CoinDesk</h1><p>Bitcoin payments firm YellowPay, by some accounts the first industry startup in the Middle East, has shut down for undisclosed reasons according to a member of its founding team. Forming in 2014, YellowPay had sought to promote bitcoin as an e-commerce solution in the Middle East, enlisting a former managing director for PayPal as a senior advisor.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1122479f8cd2dbdc0cc96cd429eda35f8ef744e3.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Watch Out: Suspicious Exchanges Can Alter Bitcoin Index</h1><p>The Bitcoin Index may change significantly if exchanges which have been left out before are now considered, according to plans by BitcoinAverage. Technical market analysis usually involves mathematical calculations of certain averages and is usually influenced by the volume of trades over a given period of time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85211099c05b1a5d7f690fac899cd5610351041f.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/watch-out-suspicious-exchanges-can-alter-bitcoin-index</link>
             <guid isPermaLink="false">e2fbbe27-7415-41b6-9d8f-67137015554d</guid>
-            <pubDate>Tue, 24 May 2016 14:42:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum, explained: why Bitcoin's stranger cousin is now worth $1 billion]]></title>
-            <description><![CDATA[<article><h1>Ethereum, explained: why Bitcoin's stranger cousin is now worth $1 billion</h1><p>Bitcoin has struggled to live up to the hype that surrounded its emergence into the mainstream three years ago. Despite more than a billion dollars of venture capital funding, Bitcoin startups have failed to develop applications that appeal to mainstream customers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d40fa560ae70c908c45acf6e6590547ae7b67986.jpg"></article>]]></description>
-            <link>http://www.vox.com/2016/5/24/11718436/ethereum-the-dao-bitcoin</link>
-            <guid isPermaLink="false">6f89f71b-7e59-4d1e-8ab2-46a3fe1cd0a2</guid>
             <pubDate>Tue, 24 May 2016 14:42:32 GMT</pubDate>
         </item>
     </channel>
