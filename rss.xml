@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 14:43:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2016 14:43:26 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Watch Out: Suspicious Exchanges Can Alter Bitcoin Index]]></title>
-            <description><![CDATA[<article><h1>Watch Out: Suspicious Exchanges Can Alter Bitcoin Index</h1><p>The Bitcoin Index may change significantly if exchanges which have been left out before are now considered, according to plans by BitcoinAverage. Technical market analysis usually involves mathematical calculations of certain averages and is usually influenced by the volume of trades over a given period of time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85211099c05b1a5d7f690fac899cd5610351041f.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/watch-out-suspicious-exchanges-can-alter-bitcoin-index</link>
-            <guid isPermaLink="false">e2fbbe27-7415-41b6-9d8f-67137015554d</guid>
-            <pubDate>Tue, 24 May 2016 14:42:32 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Ethereum, explained: why Bitcoin's stranger cousin is now worth $1 billion]]></title>
             <description><![CDATA[<article><h1>Ethereum, explained: why Bitcoin's stranger cousin is now worth $1 billion</h1><p>Bitcoin has struggled to live up to the hype that surrounded its emergence into the mainstream three years ago. Despite more than a billion dollars of venture capital funding, Bitcoin startups have failed to develop applications that appeal to mainstream customers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d40fa560ae70c908c45acf6e6590547ae7b67986.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Can Blockchain succeed without Bitcoin?</h1><p>Answer: No. The problem is that bitcoin is *EEEEVVVVEEEEELLL*. It's used by all of these people that are doing bad things like selling drugs, shooting kittens, and having sex with vacuum cleaners. The fact that people use cash to sell drugs, shoot kittens, and have sex with vacuum cleaners is so...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
             <link>https://www.quora.com/Can-Blockchain-succeed-without-Bitcoin</link>
             <guid isPermaLink="false">4c9faa7d-b96a-44b3-b7de-768b00246dab</guid>
+            <pubDate>Tue, 24 May 2016 13:53:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In plain English, what is a killer app for the blockchain?]]></title>
+            <description><![CDATA[<article><h1>In plain English, what is a killer app for the blockchain?</h1><p>Answer: "A killer application (commonly shortened to killer app) is any computer program that is so necessary or desirable that it proves the core value of some larger technology". In your question, the technology is the BlockChain, and I would say that that the killer apps for BlockChain would ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/In-plain-English-what-is-a-killer-app-for-the-blockchain</link>
+            <guid isPermaLink="false">18301ddd-95f9-4005-9599-3b56c9c9f90e</guid>
             <pubDate>Tue, 24 May 2016 13:53:26 GMT</pubDate>
         </item>
     </channel>
