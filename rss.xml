@@ -7,20 +7,6 @@
         <lastBuildDate>Wed, 25 May 2016 13:46:32 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Devices Infected With New Ransomware Versions Will Execute DDoS Attacks]]></title>
-            <description><![CDATA[<article><h1>Devices Infected With New Ransomware Versions Will Execute DDoS Attacks</h1><p>A combination of Ransomware and DDoS attacks is heralding a new wave of cyber attacks against consumers and enterprises around the world. Security experts are concerned this may become a standard practice going forward; this is not good news by any means. Over the past few years, ransomware attacks have become the norm rather than an exception.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/abc8a0d5a4f015d2cec0683aa45f51301832069b.jpg"></article>]]></description>
-            <link>http://themerkle.com/devices-infected-with-new-ransomware-versions-will-execute-ddos-attacks/</link>
-            <guid isPermaLink="false">0e721cc5-eded-4411-80ec-d9f2ca50542e</guid>
-            <pubDate>Wed, 25 May 2016 13:45:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US Postal Service investigates four different ways to use Blockchain technology to improve services]]></title>
-            <description><![CDATA[<article><h1>US Postal Service investigates four different ways to use Blockchain technology to improve services</h1><p>The United States Postal Service (USPS) released a report on Monday, outlining four different ways it could use a public blockchain to improve efficiency and save money.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83867ee008592f72719ef98af3645141069e4ba7.png"></article>]]></description>
-            <link>http://bravenewcoin.com/news/us-postal-service-investigates-four-different-ways-to-use-blockchain-technology-to-improve-services/</link>
-            <guid isPermaLink="false">fddf7796-13aa-404a-80dc-bbb8ceb7e459</guid>
-            <pubDate>Wed, 25 May 2016 13:45:38 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Coinbase Co-Founder Fred Ehrsam Endorses Ethereum]]></title>
             <description><![CDATA[<article><h1>Coinbase Co-Founder Fred Ehrsam Endorses Ethereum</h1><p>In an extensive blog post, Fred Ehrsam the Co-Founder of Coinbase described the company's motivations for adding Ethereum into their platform. The article features strong words against Bitcoin's core developers and praises Ethereum's vibrant development community. Fred Ehrsam present an extensive overview of the current state of things, along with some reasoning behind Coinbase's decision to incorporate Ethereum into its platform.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2cb7ae19c044f4d0ae3d02ed9e4b9f2a2a6b58d.png"></article>]]></description>
             <link>http://themerkle.com/coinbase-co-founder-fred-ehrsam-endorses-ethereum/</link>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>The Arrival of Quantum Computing - Threat to Bitcoin?</h1><p>IBM has recently announced that it has opened up its 5-qubit quantum computer to the general public. Has quantum computing finally arrived and what impact will it have on Bitcoin? Quantum computers represent a new paradigm in computing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/238f14768162d166268a1acc80c6d069628644f6.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/the-arrival-of-quantum-computing-threat-to-bitcoin</link>
             <guid isPermaLink="false">6c4b2c23-1365-4d97-a06a-d23a42e4a568</guid>
+            <pubDate>Wed, 25 May 2016 13:45:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Apple Banning Ethereum Wallets on iOS?]]></title>
+            <description><![CDATA[<article><h1>Is Apple Banning Ethereum Wallets on iOS?</h1><p>Ethereum and its native currency ether have received the lion's share of hype and media attention these days. But could Apple iOS policy be a stumbling block to mass acceptance?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5bbc9b2d2cdcb8cf73bbaadda1ff13b1f1381551.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/apple-ban-ethereum-ios/</link>
+            <guid isPermaLink="false">e6c14266-4740-46ad-a289-e98f7a6b6c71</guid>
+            <pubDate>Wed, 25 May 2016 13:45:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blockchain Startup Develops Identity App with Major Airline IT Firm - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Blockchain Startup Develops Identity App with Major Airline IT Firm - CoinDesk</h1><p>Blockchain startup ShoCard has developed a proof-of-concept focused on digital identity in partnership with a major IT firm that works with the airline industry. SITA, founded in the late 1940s, provides IT and communication services to the global airline industry, and is owned by a broad network of major air travel service providers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/efc915f7f1f23934f5f2caefc7ad383af5891bf2.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/blockchain-identity-airline-it-provider/</link>
+            <guid isPermaLink="false">9d75a7dc-0202-4a36-a14b-2f1534203bf0</guid>
             <pubDate>Wed, 25 May 2016 13:45:37 GMT</pubDate>
         </item>
     </channel>
