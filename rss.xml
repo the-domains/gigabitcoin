@@ -7,13 +7,6 @@
         <lastBuildDate>Wed, 25 May 2016 13:46:22 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Apple Re-hires Encryption Specialist Jon Callas]]></title>
-            <description><![CDATA[<article><h1>Apple Re-hires Encryption Specialist Jon Callas</h1><p>Apple seems to be banking on one of their former employees to bring additional security and encryption to their ecosystem. Jon Callas, who worked for the company twice in the past, was recently rehired, although it remains unclear as to what role at Apple will be going forward.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/977be513ecb514f4fbceec669cbd24fdf1a16efb.jpg"></article>]]></description>
-            <link>http://themerkle.com/apple-re-hires-encryption-specialist-jon-callas/</link>
-            <guid isPermaLink="false">5725b3df-f848-4c7e-9a8c-5d0ebaaf8f89</guid>
-            <pubDate>Wed, 25 May 2016 13:45:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Japan Enacts Regulation for Digital Currency Exchanges - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Japan Enacts Regulation for Digital Currency Exchanges - CoinDesk</h1><p>The upper house of Japan's national legislature approved a bill on Wednesday to regulate domestic digital currency exchanges, a move that comes nearly two years after discussions about how to regulate the technology first began.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1835545edf823c2b00bab0d7f66d60f2ff6fc0e6.png"></article>]]></description>
             <link>http://www.coindesk.com/japan-enacts-regulation-digital-currency-exchanges/</link>
@@ -75,6 +68,13 @@
             <link>http://themerkle.com/hermicity-releases-technical-rainbow-paper/</link>
             <guid isPermaLink="false">a4feac91-ad9a-44f7-8c42-b6799b073662</guid>
             <pubDate>Wed, 25 May 2016 05:08:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Getting Smarter Smart Contracts Than Ethereum By Year's End | Bitconnect]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Getting Smarter Smart Contracts Than Ethereum By Year's End | Bitconnect</h1><p>Bitcoin Getting Smarter Smart Contracts Than Ethereum By Year's End You could make the argument that Bitcoin has slipped to the third wheel position in the world of digital currency and technological advancement so far in 2016. Ethereum has been the hottest altcoin, really the hottest digital currency, of the year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8de2b8042c6de8d305ba741969c0fbcf5010263b.png"></article>]]></description>
+            <link>https://bitconnect.co/bitcoin-news/172/bitcoin-getting-smarter-smart-contracts-than-ethereum/</link>
+            <guid isPermaLink="false">a6afa52a-5d6a-4bad-b375-b950bea6b21a</guid>
+            <pubDate>Wed, 25 May 2016 01:11:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
