@@ -4,8 +4,36 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 15:04:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 18:43:32 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Russia's National Settlement Depository Successfully Tests Blockchain-Based E-Voting System]]></title>
+            <description><![CDATA[<article><h1>Russia's National Settlement Depository Successfully Tests Blockchain-Based E-Voting System</h1><p>The National Settlement Depository (NSD), Russia's central securities depository, has developed and successfully tested an e-proxy voting system running on a distributed ledger built with the NXT distributed cryptographic platform. The project's open-source code is available on GitHub. The NSD, a member of the Moscow Exchange, is a Russian nonbanking credit organization, Russia's central depository and a professional securities market player.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/251502f24f86f20a9f30f66f0f36e266d0b75f3d.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/russia-s-national-settlement-depository-successfully-tests-blockchain-based-e-voting-system-1464198071</link>
+            <guid isPermaLink="false">76cc97b2-82ab-4c46-acb4-3c3b9dd7b1cf</guid>
+            <pubDate>Wed, 25 May 2016 18:42:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deloitte Building Irish Blockchain Lab with 50 Developers - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Deloitte Building Irish Blockchain Lab with 50 Developers - CoinDesk</h1><p>Deloitte is set to rapidly scale its global plans for blockchain services by setting up a new development hub in Ireland. Announced today, Deloitte has created a financial services blockchain lab in Dublin, and will seek to grow that team to 50 people over the next 18 months.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/31dfb2d72e80575fe56261d727217919e4991147.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/deloitte-building-team-50-blockchain-developers-new-fintech-lab/</link>
+            <guid isPermaLink="false">cadd785f-877a-4123-9466-aaaa4b61f39d</guid>
+            <pubDate>Wed, 25 May 2016 18:42:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I just single-handedly increased Bitcoin network capacity by 0.05% today. * /r/Bitcoin]]></title>
+            <description><![CDATA[<article><h1>I just single-handedly increased Bitcoin network capacity by 0.05% today. * /r/Bitcoin</h1><p>Bitcoin is the currency of the Internet: a distributed, worldwide, decentralized digital money. Unlike traditional currencies such as dollars, bitcoins are issued and managed without any central authority whatsoever: there is no government, company, or bank in charge of Bitcoin. As such, it is more resistant to wild inflation and corrupt banks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
+            <link>https://www.reddit.com/r/Bitcoin/comments/4kxxvj/i_just_singlehandedly_increased_bitcoin_network/</link>
+            <guid isPermaLink="false">ee8dd3bb-ae7c-45b2-93a0-2577434e7f81</guid>
+            <pubDate>Wed, 25 May 2016 15:04:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spain arrests 30 suspected of laundering money in bitcoin centers]]></title>
+            <description><![CDATA[<article><h1>Spain arrests 30 suspected of laundering money in bitcoin centers</h1><p>MADRID Spanish police said on Wednesday they had arrested 30 people suspected of illegally distributing pay television content and of laundering the proceeds by investing in bitcoin "mining" centers for processing transactions in the digital currency, which use intensive computing power to generate more bitcoins.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1894f6a054fce403b8f8c16ed0204e696d9ddad9.jpg"></article>]]></description>
+            <link>http://www.reuters.com/article/us-spain-bitcoin-arrests-idUSKCN0YG1YQ</link>
+            <guid isPermaLink="false">235c6519-704d-4a01-8132-9db75dbfdebb</guid>
+            <pubDate>Wed, 25 May 2016 15:04:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[KeepKey LLC Acquires Bitcoin Wallet Provider MultiBit]]></title>
             <description><![CDATA[<article><h1>KeepKey LLC Acquires Bitcoin Wallet Provider MultiBit</h1><p>MultiBit has been one of the longest running Bitcoin wallet solutions in existence, yet it seems the company has been acquired. KeepKey LLC, the company behind the popular hardware bitcoin wallet solution, has bought MultiBit. It is quite a significant move to see a hardware Bitcoin wallet manufacturer purchase a software-based solution.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51baf967677ac3facabab9a1ee2cb884faec8d00.png"></article>]]></description>
@@ -46,34 +74,6 @@
             <description><![CDATA[<article><h1>Lisk Releases First Modular Cryptocurrency with Sidechains</h1><p>Lisk deploys first truly scalable cryptocurrency, with JavaScript compatibility and infinite ability to add new features via sidechains.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5a8fb66b001325194e5b9d86f3a638a0f046b49.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/05/25/lisk-releases-first-modular-cryptocurrency-sidechains/</link>
             <guid isPermaLink="false">4b5c40d0-e760-438b-bcf5-6fcdf7e3c76d</guid>
-            <pubDate>Wed, 25 May 2016 13:45:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Initial Coin Offering OpenLedger 'ICOO' Extends Support to Future ICOs in Order to Empower the Community]]></title>
-            <description><![CDATA[<article><h1>The Initial Coin Offering OpenLedger 'ICOO' Extends Support to Future ICOs in Order to Empower the Community</h1><p>Bitcoin Press Release: Danish CCEDK supports OpenLedger's crowdsale 'Initial Coin Offering OpenLedger' (ICOO). The project aims to gather ICOs on the OpenLedger platform in order to benefit both startups and investors. May 24 2016, Blokhus, Denmark - As a part of the new offering, the Danish cryptocurrency platform, CCEDK, and OpenLedger have announced the crowdsale of its Initial Coin Offering OpenLedger (ICOO) crowdsale, starting May 20, 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0a1f79d061144cb3b584c3a4a274474f5bbea26.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/25/initial-coin-offering-openledger-icoo/</link>
-            <guid isPermaLink="false">88f96dbb-f17b-4f76-acfb-b4290db3b4d1</guid>
-            <pubDate>Wed, 25 May 2016 13:45:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deloitte Blockchain Lab in Dublin Will Create Fifty Jobs]]></title>
-            <description><![CDATA[<article><h1>Deloitte Blockchain Lab in Dublin Will Create Fifty Jobs</h1><p>Blockchain technology is captivating audiences all over the world, and Deloitte wants to bring even more attention to this industry. The company unveiled its plans to create a new European blockchain lab in Dublin, which brings fifty new jobs the region as well.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b5954ca1ff341cb1bbac13d85190a14c6af1a83.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/deloitte-blockchain-lab-in-dublin-will-create-fifty-jobs/</link>
-            <guid isPermaLink="false">454f998f-c8fc-4fc1-9af7-fe4bf6735576</guid>
-            <pubDate>Wed, 25 May 2016 13:45:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Spanish Payment Platform Bitnovo Allows Customers to Access Funds Directly from Their Bitcoin Wallet Using Debit Card]]></title>
-            <description><![CDATA[<article><h1>New Spanish Payment Platform Bitnovo Allows Customers to Access Funds Directly from Their Bitcoin Wallet Using Debit Card</h1><p>Bitcoin Press Release: Spanish Bitcoin payment platform Bitnovo is now offering multiple payment options including Bitcoin charged debit cards that can be used at all retailers and ATMs that accepts MasterCard. May 24, 2016 Valencia, Spain - The Spanish Bitcoin payment platform Bitnovo continues to exhibit impressive growth since the launch 6 months ago.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4af0cb64d2a6395c047ce28cf58314418a4bce30.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/25/new-spanish-payment-platform-bitnovo-allows-customers-access-funds-directly-bitcoin-wallet-using-debit-card/</link>
-            <guid isPermaLink="false">069f970b-7c53-45b2-a489-3704f076b7c7</guid>
-            <pubDate>Wed, 25 May 2016 13:45:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How can bitcoin be spent?]]></title>
-            <description><![CDATA[<article><h1>How can bitcoin be spent?</h1><p>Between Sanders and Trump - if it came to that - Sanders would win. That is because Sanders has the largest grass roots number of contributors ever seen in US politics. This also means that he has a HUGE army of activists - mainly young and very likely to actually vote.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/How-can-bitcoin-be-spent</link>
-            <guid isPermaLink="false">08cb39f2-3af0-446d-8ed4-69b1deffc0e0</guid>
             <pubDate>Wed, 25 May 2016 13:45:38 GMT</pubDate>
         </item>
     </channel>
