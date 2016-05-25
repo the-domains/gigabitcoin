@@ -4,29 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 13:46:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 13:46:31 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[What's the intrinsic value of Ethereum?]]></title>
-            <description><![CDATA[<article><h1>What's the intrinsic value of Ethereum?</h1><p>Answer: Ethereum is a platform which allows you to write smart contract easily. Smart contract is essentially an autonomous agent living on the blockchain. Once your write a smart contract and deploy it, the correctness of the contract execution is guaranteed by the consensus protocol between tho...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/Whats-the-intrinsic-value-of-Ethereum</link>
-            <guid isPermaLink="false">d7dedbdb-356d-4769-ae13-c0ad59d6cd89</guid>
-            <pubDate>Wed, 25 May 2016 13:45:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Which will be more important in the long run and why - Bitcoin or Blockchain?]]></title>
-            <description><![CDATA[<article><h1>Which will be more important in the long run and why - Bitcoin or Blockchain?</h1><p>You can't have Bitcoin without blockchain, but you can have blockchain without Bitcoin. That being said, most people talking about "blockchain technology" want centralized, private, permissioned, limited, weak tea versions of Bitcoin so they can control it. They want this because they fear the openness of Bitcoin and because they're late to the party.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/Which-will-be-more-important-in-the-long-run-and-why-Bitcoin-or-Blockchain</link>
-            <guid isPermaLink="false">8f7609af-2d1a-4e4b-a3e7-163705aee0f3</guid>
-            <pubDate>Wed, 25 May 2016 13:45:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Devices Infected With New Ransomware Versions Will Execute DDoS Attacks]]></title>
-            <description><![CDATA[<article><h1>Devices Infected With New Ransomware Versions Will Execute DDoS Attacks</h1><p>A combination of Ransomware and DDoS attacks is heralding a new wave of cyber attacks against consumers and enterprises around the world. Security experts are concerned this may become a standard practice going forward; this is not good news by any means. Over the past few years, ransomware attacks have become the norm rather than an exception.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/abc8a0d5a4f015d2cec0683aa45f51301832069b.jpg"></article>]]></description>
-            <link>http://themerkle.com/devices-infected-with-new-ransomware-versions-will-execute-ddos-attacks/</link>
-            <guid isPermaLink="false">0e721cc5-eded-4411-80ec-d9f2ca50542e</guid>
-            <pubDate>Wed, 25 May 2016 13:45:38 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[US Postal Service investigates four different ways to use Blockchain technology to improve services]]></title>
             <description><![CDATA[<article><h1>US Postal Service investigates four different ways to use Blockchain technology to improve services</h1><p>The United States Postal Service (USPS) released a report on Monday, outlining four different ways it could use a public blockchain to improve efficiency and save money.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83867ee008592f72719ef98af3645141069e4ba7.png"></article>]]></description>
@@ -74,6 +53,27 @@
             <description><![CDATA[<article><h1>New Ethminer 0.9.41-genoil-1.1 pre-release Windows Binary</h1><p>Genoil is working on a new release of his ethminer 0.9.41 fork version 1.1 pre-release ( source) and here is a Windows binary of the latest version that you can try. Genoil's fork of ethminer is targeted at Nvidia CUDA miners, but it also works on AMD OpenCL for mining of Ethereum (ETH).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f26ae47b923f05bed3561e496c26508294c8be99.jpg"></article>]]></description>
             <link>http://cryptomining-blog.com/7871-new-ethminer-0-9-41-genoil-1-1-pre-release-windows-binary/</link>
             <guid isPermaLink="false">629ff769-3c6f-4e28-8f19-30394aa540d8</guid>
+            <pubDate>Wed, 25 May 2016 13:45:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Enabled as an Investment Option for Retirement Accounts]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Enabled as an Investment Option for Retirement Accounts</h1><p>Edmund Moy, former Director of the U.S. Mint, serves as the group's Chief Strategist...and possibly Chief Marketing Ploy. Many aspects of BitcoinIRA.com's website lean heavily on Mr. Moy's deep experience within the retirement savings space. The space and play are interesting within the context of the larger adoption of bitcoin as a serious and accessible digital currency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06639cee44aa6ada2abcea4ac90d106a36c67d2c.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-investment-retirement/</link>
+            <guid isPermaLink="false">d6be266f-0a20-4d54-b754-2baad05c0ebf</guid>
+            <pubDate>Wed, 25 May 2016 13:45:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Arrival of Quantum Computing - Threat to Bitcoin?]]></title>
+            <description><![CDATA[<article><h1>The Arrival of Quantum Computing - Threat to Bitcoin?</h1><p>IBM has recently announced that it has opened up its 5-qubit quantum computer to the general public. Has quantum computing finally arrived and what impact will it have on Bitcoin? Quantum computers represent a new paradigm in computing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/238f14768162d166268a1acc80c6d069628644f6.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/the-arrival-of-quantum-computing-threat-to-bitcoin</link>
+            <guid isPermaLink="false">6c4b2c23-1365-4d97-a06a-d23a42e4a568</guid>
+            <pubDate>Wed, 25 May 2016 13:45:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Apple Banning Ethereum Wallets on iOS?]]></title>
+            <description><![CDATA[<article><h1>Is Apple Banning Ethereum Wallets on iOS?</h1><p>Ethereum and its native currency ether have received the lion's share of hype and media attention these days. But could Apple iOS policy be a stumbling block to mass acceptance?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5bbc9b2d2cdcb8cf73bbaadda1ff13b1f1381551.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/apple-ban-ethereum-ios/</link>
+            <guid isPermaLink="false">e6c14266-4740-46ad-a289-e98f7a6b6c71</guid>
             <pubDate>Wed, 25 May 2016 13:45:37 GMT</pubDate>
         </item>
     </channel>
