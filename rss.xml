@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 05:08:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 05:08:49 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Custom receive payments method?]]></title>
+            <description><![CDATA[<article><h1>Custom receive payments method?</h1><p>So it's a known problem that blockchain.info's api only allows a gap of 20 unpaid addresses, which sucks and makes their api almost completely worthless. But I was thinking how could I make my own</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/44296/custom-receive-payments-method</link>
+            <guid isPermaLink="false">f3fbbf55-53ba-4880-a25f-873c81c7ea30</guid>
+            <pubDate>Wed, 25 May 2016 05:08:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[HERMICITY Releases Technical 'Rainbow' Paper]]></title>
             <description><![CDATA[<article><h1>HERMICITY Releases Technical 'Rainbow' Paper</h1><p>Hermicity is a new project under Ethereum ecosystem that will allow people to pay for the delivery of supplies to homes in remote areas using Blockchain technology and drones. The project is being developed by an 18 years old Australian programmer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/076ca4e34136f6684aef112ea532e994d8f0a65e.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>What's the intrinsic value of Ethereum?</h1><p>Currently, to the best of my knowledge, all Republican candidates want to keep marijuana as a Schedule 1 drug, meaning with no economic or medical value. (EDIT: I was mistaken. Rand Paul wants it off Schedule 1) On the Democratic side, Hillary Clinton seems grudgingly willing to move it to Schedule 2, meaning it might have medical use.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
             <link>https://www.quora.com/unanswered/Whats-the-intrinsic-value-of-Ethereum</link>
             <guid isPermaLink="false">960175d9-b1ad-4855-89a8-60997ff0b244</guid>
-            <pubDate>Tue, 24 May 2016 22:10:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Intra-Day Reaction]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Intra-Day Reaction</h1><p>Bitcoin price has made a tentative push higher in a densely packed curved price wave. The market is approaching a reaction zone and the negotiation should determine the next phase of trend. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6fca1bf8f0ebe60d5a26300a6c4a0da6b1cb3aaf.png"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-price-intra-day-reaction/</link>
-            <guid isPermaLink="false">fa349f44-ded0-4c17-9787-25df54f1bca2</guid>
             <pubDate>Tue, 24 May 2016 22:10:36 GMT</pubDate>
         </item>
     </channel>
