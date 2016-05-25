@@ -2,28 +2,32 @@
 author: []
 related: []
 publisher:
-  url: 'http://www.reuters.com'
-  name: Reuters
-  favicon: 'http://s3.reutersmedia.net/resources_v2/images/favicon/favicon.ico'
-  domain: www.reuters.com
+  url: 'http://www.cnbc.com'
+  name: CNBC
+  favicon: 'http://www.cnbc.com/favicon.ico'
+  domain: www.cnbc.com
 keywords:
   - bitcoin
   - laundered
   - mining
-  - madrid
+  - centres
   - luxury
   - police
-  - currency
   - pay-tv
+  - currency
   - seized
-  - '8973'
-description: 'MADRID Spanish police said on Wednesday they had arrested 30 people suspected of illegally distributing pay television content and of laundering the proceeds by investing in bitcoin "mining" centers for processing transactions in the digital currency, which use intensive computing power to generate more bitcoins.'
+  - spain
+description: 'Spanish police said on Wednesday they had arrested 30 people suspected of illegally distributing pay television content and of laundering the proceeds by investing in bitcoin "mining" centres for processing transactions in the digital currency, which use intensive computing power to generate more bitcoins.'
 inLanguage: en
-app_links: []
-isBasedOnUrl: 'http://www.reuters.com/article/us-spain-bitcoin-arrests-idUSKCN0YG1YQ'
-title: Spain arrests 30 suspected of laundering money in bitcoin centers
-datePublished: '2016-05-25T15:04:54.095Z'
-dateModified: '2016-05-25T14:39:47.980Z'
+app_links:
+  - type: ios
+    namespace: ai
+    app_name: CNBC Business News and Finance
+    app_store_id: '398018310'
+isBasedOnUrl: 'http://www.cnbc.com/2016/05/25/spain-arrests-30-suspected-of-laundering-money-in-bitcoin-centres.html'
+title: Spain arrests 30 suspected of laundering money in bitcoin centres
+datePublished: '2016-05-25T18:42:58.638Z'
+dateModified: '2016-05-25T15:39:46.789Z'
 starred: false
 sourcePath: _posts/2016-05-25-spain-arrests-30-suspected-of-laundering-money-in-bitcoin-ce.md
 inFeed: true
@@ -33,4 +37,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Spain arrests 30 suspected of laundering money in bitcoin centers</h1><p>MADRID Spanish police said on Wednesday they had arrested 30 people suspected of illegally distributing pay television content and of laundering the proceeds by investing in bitcoin "mining" centers for processing transactions in the digital currency, which use intensive computing power to generate more bitcoins.</p><img src="http://s4.reutersmedia.net/resources/r/?m=02&amp;d=20160525&amp;t=2&amp;i=1138672231&amp;w=&amp;fh=545px&amp;fw=&amp;ll=&amp;pl=&amp;sq=&amp;r=LYNXNPEC4O179" /></article>
+<article style=""><h1>Spain arrests 30 suspected of laundering money in bitcoin centres</h1><p>Spanish police said on Wednesday they had arrested 30 people suspected of illegally distributing pay television content and of laundering the proceeds by investing in bitcoin "mining" centres for processing transactions in the digital currency, which use intensive computing power to generate more bitcoins.</p><img src="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/06/03/102730336-RTX1EWQK.1910x1000.jpg" /></article>
