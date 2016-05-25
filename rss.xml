@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 18:43:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 18:43:35 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is Bitcoin a public blockchain versus Ethereum being a private blockchain?]]></title>
+            <description><![CDATA[<article><h1>Is Bitcoin a public blockchain versus Ethereum being a private blockchain?</h1><p>Answer: No. A blockchain is a decentral database that stores transactions in the sense of a public ledger. That means everybody is invited to download and work with that information to proove that any transaction on it is mathematically valid. Bitcoin and Etherum are most well known services, tha...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/Is-Bitcoin-a-public-blockchain-versus-Ethereum-being-a-private-blockchain</link>
+            <guid isPermaLink="false">dd808102-2f5d-4aa9-a5a2-98704016bb47</guid>
+            <pubDate>Wed, 25 May 2016 18:42:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Can blockchain technology be used in securing digital voting?]]></title>
             <description><![CDATA[<article><h1>Can blockchain technology be used in securing digital voting?</h1><p>Answer (1 of 2): Interesting question. I would be cautiously optimistic about doing it for a public voting system, and cautiously pessimistic for a secret voting system. (By "public voting system", I mean an election where everyone know who voted what, while by "secret voting system" I mean an ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://themerkle.com/keepkey-llc-acquires-bitcoin-wallet-provider-multibit/</link>
             <guid isPermaLink="false">ac0b3401-03dc-4222-86d6-627eff7d3b0b</guid>
             <pubDate>Wed, 25 May 2016 15:04:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum (ETH) Price Trends: 5/25/2016]]></title>
-            <description><![CDATA[<article><h1>Ethereum (ETH) Price Trends: 5/25/2016</h1><p>Ethereum's price is forming a correction toward the upward trend, which has started at $7. The downward trend is very likely to continue, until the structure of this movement is not disrupted. After exiting the medium-term flat, Ethereum's price has formed a short-term downward impulse.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2233800bf52e8d8463ab6d3229fcba19387d5cf.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/ethereum-eth-price-trends-5252016</link>
-            <guid isPermaLink="false">bab197ae-8ae1-4d5d-82d2-683b512d2834</guid>
-            <pubDate>Wed, 25 May 2016 15:04:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
