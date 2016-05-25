@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 05:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 05:09:32 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ethereum is the Forefront of Digital Currency - Stories From Coinbase]]></title>
+            <description><![CDATA[<article><h1>Ethereum is the Forefront of Digital Currency - Stories From Coinbase</h1><p>We have sat here for the last 3 years seeing only infrastructure apps like wallets and exchanges emerge on top of Bitcoin. Why is that? My theory has been that the scripting language in Bitcoin - the piece of every Bitcoin transaction that lets you run a little software program along with it - is too restrictive.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/663ee36af43bad1452a4260b5b6b18b7be12da84.png"></article>]]></description>
+            <link>http://gigabitcoin.xyz/ethereum-is-the-forefront-of-digital-currency-stories-from/index.html</link>
+            <guid isPermaLink="false">169ceca2-306f-43c0-b128-11238a07978c</guid>
+            <pubDate>Wed, 25 May 2016 05:08:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Are there any Blockchain-as-a-Service platform providing immutable data storage for people who do not want to build their own blockchains?]]></title>
             <description><![CDATA[<article><h1>Are there any Blockchain-as-a-Service platform providing immutable data storage for people who do not want to build their own blockchains?</h1><p>I don't think there is much doubt about who is the Greatest.No one else could float like a butterfly and sting like a bee.He beat everyone, including some people who would have outstanding in other eras. He beat Foreman 10years before the guy made grills.He was a Muslim American and was fighting at a time when black people just weren't recognised.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The Future of Commerce: Blockchain Takes It All, Bitcoin Standing Small</h1><p>How do consortiums/private Blockchains affect Bitcoin? Financial institutions are trying different ways of approaching Bitcoin's blockchain. These technologies could be applied to our financial system by 2020. We are witnessing the development of Bitcoin and other cryptocurrencies known as alternatives. The path has certain obstacles, and the banking system tries to eliminate any possible dangers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a64e639b72142fab4e4d8a443444bb449f0e2d63.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/the-future-of-commerce-blockchain-takes-it-all-bitcoin-standing-small</link>
             <guid isPermaLink="false">ffa50947-3a4d-4ca6-9fee-18490091a985</guid>
-            <pubDate>Tue, 24 May 2016 22:10:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Consumers Prefer Biometrics Over Logins and Passwords]]></title>
-            <description><![CDATA[<article><h1>Consumers Prefer Biometrics Over Logins and Passwords</h1><p>The way we use passwords for authentication and security purposes is changing, and biometrics are becoming more prominent every year. That is only normal, as biometrics are the easiest solution, whereas coming up with unique and strong passwords can be quite difficult.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ec18c35b5417864f6882dcadbf087e4e7119219.jpg"></article>]]></description>
-            <link>http://themerkle.com/consumers-prefer-biometrics-over-logins-and-passwords/</link>
-            <guid isPermaLink="false">832ed345-3859-47d1-916e-8c5ef9b70385</guid>
             <pubDate>Tue, 24 May 2016 22:10:37 GMT</pubDate>
         </item>
     </channel>
