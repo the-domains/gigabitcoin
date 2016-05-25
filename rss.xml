@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 13:46:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 13:46:28 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Japan Passes Law to Increase Regulation of Bitcoin Exchanges]]></title>
+            <description><![CDATA[<article><h1>Japan Passes Law to Increase Regulation of Bitcoin Exchanges</h1><p>Operators of "virtual currency" exchanges in Japan will have to register with the country's main financial regulator after the national parliament's upper house passed a new law today. Also read: $12.7 M Stolen From Japanese ATMs With Forged Credit Cards The Japanese Financial Services Agency (FSA) will also have the power to conduct on-site investigations and issue administrative orders, according to a report in the Japan Times.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0fedaf01ef5a5216cba1cef18b602668f58da0f8.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/japan-passes-law-regulation-bitcoin/</link>
+            <guid isPermaLink="false">17014dae-c81c-4c88-95ea-2b16c5e72b53</guid>
+            <pubDate>Wed, 25 May 2016 13:45:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Ethminer 0.9.41-genoil-1.1 pre-release Windows Binary]]></title>
+            <description><![CDATA[<article><h1>New Ethminer 0.9.41-genoil-1.1 pre-release Windows Binary</h1><p>Genoil is working on a new release of his ethminer 0.9.41 fork version 1.1 pre-release ( source) and here is a Windows binary of the latest version that you can try. Genoil's fork of ethminer is targeted at Nvidia CUDA miners, but it also works on AMD OpenCL for mining of Ethereum (ETH).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f26ae47b923f05bed3561e496c26508294c8be99.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7871-new-ethminer-0-9-41-genoil-1-1-pre-release-windows-binary/</link>
+            <guid isPermaLink="false">629ff769-3c6f-4e28-8f19-30394aa540d8</guid>
+            <pubDate>Wed, 25 May 2016 13:45:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Enabled as an Investment Option for Retirement Accounts]]></title>
             <description><![CDATA[<article><h1>Bitcoin Enabled as an Investment Option for Retirement Accounts</h1><p>Edmund Moy, former Director of the U.S. Mint, serves as the group's Chief Strategist...and possibly Chief Marketing Ploy. Many aspects of BitcoinIRA.com's website lean heavily on Mr. Moy's deep experience within the retirement savings space. The space and play are interesting within the context of the larger adoption of bitcoin as a serious and accessible digital currency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06639cee44aa6ada2abcea4ac90d106a36c67d2c.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Japan Introduces Regulations for Bitcoin Exchanges - NEWSBTC</h1><p>Japan will soon have regulations for Bitcoin exchanges, thanks to the new bill passed by the Japanese parliament. Read more... Japan will soon have new regulations governing the Bitcoin industry as the Japanese parliament, Diet approved a bill on regulation of virtual currency exchanges.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61741ea77158569240fe28082b5ad3bc2c4e0d68.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/05/25/japan-exchange-bitcoin-regulations/</link>
             <guid isPermaLink="false">7f647227-b38c-4a70-aadb-287160d8beab</guid>
-            <pubDate>Wed, 25 May 2016 13:45:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US Postal Service Mulls 'Postcoin' to Revive Business]]></title>
-            <description><![CDATA[<article><h1>US Postal Service Mulls 'Postcoin' to Revive Business</h1><p>The U.S. Postal Service has been investigating possible ways to use blockchain technology to provide services to customers more efficiently. Blockchain technology could soon be used to deliver post office financial services, identity services, supply chain management, and device management. A new report examines these applications and proposes a Postcoin platform to deliver them.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/24d4c8b8a54a2a0c011235b3b16530bf/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F05%2Fblockchain_USPS.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/us-postal-service-postcoin-business/</link>
-            <guid isPermaLink="false">4a6da278-8ac1-4d3b-8e9c-769c66e2eac6</guid>
-            <pubDate>Wed, 25 May 2016 13:45:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apple Re-hires Encryption Specialist Jon Callas]]></title>
-            <description><![CDATA[<article><h1>Apple Re-hires Encryption Specialist Jon Callas</h1><p>Apple seems to be banking on one of their former employees to bring additional security and encryption to their ecosystem. Jon Callas, who worked for the company twice in the past, was recently rehired, although it remains unclear as to what role at Apple will be going forward.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/977be513ecb514f4fbceec669cbd24fdf1a16efb.jpg"></article>]]></description>
-            <link>http://themerkle.com/apple-re-hires-encryption-specialist-jon-callas/</link>
-            <guid isPermaLink="false">5725b3df-f848-4c7e-9a8c-5d0ebaaf8f89</guid>
             <pubDate>Wed, 25 May 2016 13:45:36 GMT</pubDate>
         </item>
     </channel>
