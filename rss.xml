@@ -4,8 +4,36 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 13:46:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 13:46:26 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is Apple Banning Ethereum Wallets on iOS?]]></title>
+            <description><![CDATA[<article><h1>Is Apple Banning Ethereum Wallets on iOS?</h1><p>Ethereum and its native currency ether have received the lion's share of hype and media attention these days. But could Apple iOS policy be a stumbling block to mass acceptance?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5bbc9b2d2cdcb8cf73bbaadda1ff13b1f1381551.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/apple-ban-ethereum-ios/</link>
+            <guid isPermaLink="false">e6c14266-4740-46ad-a289-e98f7a6b6c71</guid>
+            <pubDate>Wed, 25 May 2016 13:45:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blockchain Startup Develops Identity App with Major Airline IT Firm - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Blockchain Startup Develops Identity App with Major Airline IT Firm - CoinDesk</h1><p>Blockchain startup ShoCard has developed a proof-of-concept focused on digital identity in partnership with a major IT firm that works with the airline industry. SITA, founded in the late 1940s, provides IT and communication services to the global airline industry, and is owned by a broad network of major air travel service providers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/efc915f7f1f23934f5f2caefc7ad383af5891bf2.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/blockchain-identity-airline-it-provider/</link>
+            <guid isPermaLink="false">9d75a7dc-0202-4a36-a14b-2f1534203bf0</guid>
+            <pubDate>Wed, 25 May 2016 13:45:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blockchain Application Platform Lisk Launched]]></title>
+            <description><![CDATA[<article><h1>Blockchain Application Platform Lisk Launched</h1><p>Blockchain application and sidechain platform Lisk has been officially launched. Version 0.3.0 is publicly available for downloading. The launch anticipated by many, however, experienced some technical difficulties. To developers and users frustration, the platform's server could not withstand the load and went offline for a while.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56abb7f37ca8cc0d59933f53be7939630d166f2d.png"></article>]]></description>
+            <link>http://forklog.net/blockchain-application-platform-lisk-launched/</link>
+            <guid isPermaLink="false">fbab907d-b84b-4f95-8238-1900c9d4549b</guid>
+            <pubDate>Wed, 25 May 2016 13:45:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CryptXXX 3.0 Beats Kaspersky Labs Decryption Tool Again]]></title>
+            <description><![CDATA[<article><h1>CryptXXX 3.0 Beats Kaspersky Labs Decryption Tool Again</h1><p>Just a few days ago, we reported how Kaspersky Labs has been able to crack the CryptXXX decryption code and create a tool which lets users restore file access without paying the Bitcoin ransom. The latest CryptXXX update nullifies this tool entirely, and security researchers are back to square one.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6985d2e211a2d527141e6fa40d8163b14b91c93.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/cryptxxx-3-0-beats-kaspersky-labs/</link>
+            <guid isPermaLink="false">31b3d0a0-0dcc-4550-9b71-dc1562d08563</guid>
+            <pubDate>Wed, 25 May 2016 13:45:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Japan Passes Bill to Regulate Bitcoin Exchanges]]></title>
             <description><![CDATA[<article><h1>Japan Passes Bill to Regulate Bitcoin Exchanges</h1><p>The Diet in Japan (the legislature consisting of the Lower and the Upper Houses) has passed a bill today that mandates the regulation of bitcoin and virtual currency exchanges by the Financial Services Agency (FSA) in Japan. Japan has enacted a bill today that will see the regulation of operators of virtual currency exchanges, a Japan Times report revealed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3b7f6a18546bd7d33c73a164a756993f8ffc9d0.jpg"></article>]]></description>
@@ -47,34 +75,6 @@
             <link>http://www.newsbtc.com/2016/05/25/btcs-expands-ethereum-hosting-business/</link>
             <guid isPermaLink="false">04a5aa64-3a5b-47b9-ab79-1eeba9e17435</guid>
             <pubDate>Wed, 25 May 2016 13:45:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Analysis: 5/25/2016]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Analysis: 5/25/2016</h1><p>Bitcoin's price is moving along at least a medium-term upward wave. That short movement has a chance of growing into a long-term upward trend. The structure of the upward trend remains intact, and the movement has a potential for further growth as a consequence.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/02c764e728771e99c3085803e35e436a5677ebee.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/bitcoin-price-analysis-5252016</link>
-            <guid isPermaLink="false">192712a9-2a32-4c1c-bf9c-44a018ecd1a7</guid>
-            <pubDate>Wed, 25 May 2016 13:45:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain application - where to begin?]]></title>
-            <description><![CDATA[<article><h1>Blockchain application - where to begin?</h1><p>I'm trying to figure out how to create something "applied blockchain" - most examples seem too high-level and hypothetical. Maybe a "bitcoin trading app"? Not sure where to start really. A book? I work with: *Micro/Mini Forex and Automated Trading Systems. *Market data systems, display, and ma...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/unanswered/Blockchain-application-where-to-begin</link>
-            <guid isPermaLink="false">e78b02ac-8b61-43da-9b19-bca616feeaba</guid>
-            <pubDate>Wed, 25 May 2016 05:08:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum is the Forefront of Digital Currency - Stories From Coinbase]]></title>
-            <description><![CDATA[<article><h1>Ethereum is the Forefront of Digital Currency - Stories From Coinbase</h1><p>We have sat here for the last 3 years seeing only infrastructure apps like wallets and exchanges emerge on top of Bitcoin. Why is that? My theory has been that the scripting language in Bitcoin - the piece of every Bitcoin transaction that lets you run a little software program along with it - is too restrictive.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/663ee36af43bad1452a4260b5b6b18b7be12da84.png"></article>]]></description>
-            <link>http://gigabitcoin.xyz/ethereum-is-the-forefront-of-digital-currency-stories-from/index.html</link>
-            <guid isPermaLink="false">169ceca2-306f-43c0-b128-11238a07978c</guid>
-            <pubDate>Wed, 25 May 2016 05:08:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are there any Blockchain-as-a-Service platform providing immutable data storage for people who do not want to build their own blockchains?]]></title>
-            <description><![CDATA[<article><h1>Are there any Blockchain-as-a-Service platform providing immutable data storage for people who do not want to build their own blockchains?</h1><p>I don't think there is much doubt about who is the Greatest.No one else could float like a butterfly and sting like a bee.He beat everyone, including some people who would have outstanding in other eras. He beat Foreman 10years before the guy made grills.He was a Muslim American and was fighting at a time when black people just weren't recognised.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/unanswered/Are-there-any-Blockchain-as-a-Service-platform-providing-immutable-data-storage-for-people-who-do-not-want-to-build-their-own-blockchains</link>
-            <guid isPermaLink="false">17e554d3-40a8-471b-a3a2-37a9f4ed111d</guid>
-            <pubDate>Wed, 25 May 2016 05:08:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
