@@ -4,29 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 13:46:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 13:46:28 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Coinbase Co-Founder Fred Ehrsam Endorses Ethereum]]></title>
-            <description><![CDATA[<article><h1>Coinbase Co-Founder Fred Ehrsam Endorses Ethereum</h1><p>In an extensive blog post, Fred Ehrsam the Co-Founder of Coinbase described the company's motivations for adding Ethereum into their platform. The article features strong words against Bitcoin's core developers and praises Ethereum's vibrant development community. Fred Ehrsam present an extensive overview of the current state of things, along with some reasoning behind Coinbase's decision to incorporate Ethereum into its platform.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2cb7ae19c044f4d0ae3d02ed9e4b9f2a2a6b58d.png"></article>]]></description>
-            <link>http://themerkle.com/coinbase-co-founder-fred-ehrsam-endorses-ethereum/</link>
-            <guid isPermaLink="false">acd1fb67-d0f7-4504-beaa-10b2c0600ea5</guid>
-            <pubDate>Wed, 25 May 2016 13:45:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Replacing Passwords With Google Collecting Data On Users Is Not The Answer]]></title>
-            <description><![CDATA[<article><h1>Replacing Passwords With Google Collecting Data On Users Is Not The Answer</h1><p>The topic of replacing passwords with more secure solutions will continue for the foreseeable future, and new ideas are being proposed around the clock. If Google would collect even more information on its users, would they be able to create a strong and unique authentication protocol than can't be abused?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/02d87a082f84cae3369fd09e02ad7e6e498127c8.jpg"></article>]]></description>
-            <link>http://themerkle.com/replacing-passwords-with-google-collecting-data-on-users-is-not-the-answer/</link>
-            <guid isPermaLink="false">6a2ac6e3-9781-4d6b-9f09-1708432b4c56</guid>
-            <pubDate>Wed, 25 May 2016 13:45:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Blockchain Bring Trust Factor to Digital Identity Concept?]]></title>
-            <description><![CDATA[<article><h1>Can Blockchain Bring Trust Factor to Digital Identity Concept?</h1><p>Regardless of how people want to look at it, creating a digital identity hinges on the trust factor. Digital identity if quickly becoming the new buzzword, as the topic was touched upon during the recent ID2020 conference. However, there are a lot of concerns regarding this initiative, as the big question will be whether we should trust a digital identity or not.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54b42f892b36ceea546daf4bf54770313589554e.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/25/can-blockchain-bring-trust-factor-digital-identity-concept/</link>
-            <guid isPermaLink="false">dd66c6c4-099e-48b8-b3c2-3d32b76097b6</guid>
-            <pubDate>Wed, 25 May 2016 13:45:37 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Price Watch; More Upside to Come?]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Watch; More Upside to Come?</h1><p>Here's what we are looking at this morning for our bitcoin trading session out of Europe It's been a good few weeks since we have had some long-term sustained upside momentum in the bitcoin price. Action this month so far seems to have been relatively choppy, and our breakout strategy - whilst somewhat effective - has given us a bit of a hard time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e65067e10ccb548758e4dea23405828e5d57d034.png"></article>]]></description>
@@ -75,6 +54,27 @@
             <link>http://www.coindesk.com/blockchain-identity-airline-it-provider/</link>
             <guid isPermaLink="false">9d75a7dc-0202-4a36-a14b-2f1534203bf0</guid>
             <pubDate>Wed, 25 May 2016 13:45:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blockchain Application Platform Lisk Launched]]></title>
+            <description><![CDATA[<article><h1>Blockchain Application Platform Lisk Launched</h1><p>Blockchain application and sidechain platform Lisk has been officially launched. Version 0.3.0 is publicly available for downloading. The launch anticipated by many, however, experienced some technical difficulties. To developers and users frustration, the platform's server could not withstand the load and went offline for a while.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56abb7f37ca8cc0d59933f53be7939630d166f2d.png"></article>]]></description>
+            <link>http://forklog.net/blockchain-application-platform-lisk-launched/</link>
+            <guid isPermaLink="false">fbab907d-b84b-4f95-8238-1900c9d4549b</guid>
+            <pubDate>Wed, 25 May 2016 13:45:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CryptXXX 3.0 Beats Kaspersky Labs Decryption Tool Again]]></title>
+            <description><![CDATA[<article><h1>CryptXXX 3.0 Beats Kaspersky Labs Decryption Tool Again</h1><p>Just a few days ago, we reported how Kaspersky Labs has been able to crack the CryptXXX decryption code and create a tool which lets users restore file access without paying the Bitcoin ransom. The latest CryptXXX update nullifies this tool entirely, and security researchers are back to square one.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6985d2e211a2d527141e6fa40d8163b14b91c93.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/cryptxxx-3-0-beats-kaspersky-labs/</link>
+            <guid isPermaLink="false">31b3d0a0-0dcc-4550-9b71-dc1562d08563</guid>
+            <pubDate>Wed, 25 May 2016 13:45:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Japan Passes Bill to Regulate Bitcoin Exchanges]]></title>
+            <description><![CDATA[<article><h1>Japan Passes Bill to Regulate Bitcoin Exchanges</h1><p>The Diet in Japan (the legislature consisting of the Lower and the Upper Houses) has passed a bill today that mandates the regulation of bitcoin and virtual currency exchanges by the Financial Services Agency (FSA) in Japan. Japan has enacted a bill today that will see the regulation of operators of virtual currency exchanges, a Japan Times report revealed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3b7f6a18546bd7d33c73a164a756993f8ffc9d0.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/japan-passes-bill-regulate-bitcoin-exchanges/</link>
+            <guid isPermaLink="false">44edf9af-b666-40a1-b7ed-55010eacb27f</guid>
+            <pubDate>Wed, 25 May 2016 13:45:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
