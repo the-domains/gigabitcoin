@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 13:46:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 13:46:25 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Enabled as an Investment Option for Retirement Accounts]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Enabled as an Investment Option for Retirement Accounts</h1><p>Edmund Moy, former Director of the U.S. Mint, serves as the group's Chief Strategist...and possibly Chief Marketing Ploy. Many aspects of BitcoinIRA.com's website lean heavily on Mr. Moy's deep experience within the retirement savings space. The space and play are interesting within the context of the larger adoption of bitcoin as a serious and accessible digital currency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06639cee44aa6ada2abcea4ac90d106a36c67d2c.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-investment-retirement/</link>
+            <guid isPermaLink="false">d6be266f-0a20-4d54-b754-2baad05c0ebf</guid>
+            <pubDate>Wed, 25 May 2016 13:45:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Arrival of Quantum Computing - Threat to Bitcoin?]]></title>
             <description><![CDATA[<article><h1>The Arrival of Quantum Computing - Threat to Bitcoin?</h1><p>IBM has recently announced that it has opened up its 5-qubit quantum computer to the general public. Has quantum computing finally arrived and what impact will it have on Bitcoin? Quantum computers represent a new paradigm in computing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/238f14768162d166268a1acc80c6d069628644f6.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Apple Re-hires Encryption Specialist Jon Callas</h1><p>Apple seems to be banking on one of their former employees to bring additional security and encryption to their ecosystem. Jon Callas, who worked for the company twice in the past, was recently rehired, although it remains unclear as to what role at Apple will be going forward.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/977be513ecb514f4fbceec669cbd24fdf1a16efb.jpg"></article>]]></description>
             <link>http://themerkle.com/apple-re-hires-encryption-specialist-jon-callas/</link>
             <guid isPermaLink="false">5725b3df-f848-4c7e-9a8c-5d0ebaaf8f89</guid>
-            <pubDate>Wed, 25 May 2016 13:45:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Japan Enacts Regulation for Digital Currency Exchanges - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Japan Enacts Regulation for Digital Currency Exchanges - CoinDesk</h1><p>The upper house of Japan's national legislature approved a bill on Wednesday to regulate domestic digital currency exchanges, a move that comes nearly two years after discussions about how to regulate the technology first began.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1835545edf823c2b00bab0d7f66d60f2ff6fc0e6.png"></article>]]></description>
-            <link>http://www.coindesk.com/japan-enacts-regulation-digital-currency-exchanges/</link>
-            <guid isPermaLink="false">83c2b03f-5265-4a41-a5c8-a36a14db9dab</guid>
             <pubDate>Wed, 25 May 2016 13:45:36 GMT</pubDate>
         </item>
     </channel>
