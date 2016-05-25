@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 05:09:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 13:45:39 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Analysis: 5/25/2016]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Analysis: 5/25/2016</h1><p>Bitcoin's price is moving along at least a medium-term upward wave. That short movement has a chance of growing into a long-term upward trend. The structure of the upward trend remains intact, and the movement has a potential for further growth as a consequence.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/02c764e728771e99c3085803e35e436a5677ebee.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/bitcoin-price-analysis-5252016</link>
+            <guid isPermaLink="false">192712a9-2a32-4c1c-bf9c-44a018ecd1a7</guid>
+            <pubDate>Wed, 25 May 2016 13:45:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blockchain application - where to begin?]]></title>
             <description><![CDATA[<article><h1>Blockchain application - where to begin?</h1><p>I'm trying to figure out how to create something "applied blockchain" - most examples seem too high-level and hypothetical. Maybe a "bitcoin trading app"? Not sure where to start really. A book? I work with: *Micro/Mini Forex and Automated Trading Systems. *Market data systems, display, and ma...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Watch; Gap Up Alert! - NEWSBTC</h1><p>Here's what we are looking at this evening for our bitcoin trading session in the US and Asia We're coming to the end of the day on Tuesday out of Europe and it's time to take a second look at the bitcoin price in an attempt to figure out how best to approach the market this evening, during the US afternoon session and beyond into the Asian open.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27d5d234c19c3de7a11f0db412e2af4b8d4faec4.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/05/24/bitcoin-price-watch-gap-alert/</link>
             <guid isPermaLink="false">f6f88625-0677-4cda-8ef6-e4d82599fe44</guid>
-            <pubDate>Tue, 24 May 2016 22:10:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We Interview David Sønstebø Co-Founder of IOTA]]></title>
-            <description><![CDATA[<article><h1>We Interview David Sønstebø Co-Founder of IOTA</h1><p>IOTA is a Decentralized Internet-of-Things Token, it advertises itself as the fuel for the IoT growing economy, IOTA It's built on top of an innovation called 'Tangle', which replaces the concept of a regular blockchain. Transactions are completely free and the platform is 'Quantum Secure'.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/294817bb2a9df77f5644a31d647697ffe60c9bc7.jpg"></article>]]></description>
-            <link>http://themerkle.com/we-interview-david-sonstebo-co-founder-of-iota/</link>
-            <guid isPermaLink="false">9f1a6061-99a3-43e8-aa32-08cc8ddc4071</guid>
             <pubDate>Tue, 24 May 2016 22:10:37 GMT</pubDate>
         </item>
     </channel>
