@@ -4,13 +4,20 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 01:40:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2016 01:40:45 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>My 1st month on #OpenBazaar: 5 sales to 4 customers for ~.5 btc, Store is online 24/7, Over 50 listings, #zerofees, and one happy ME!</p>]]></description>
             <link>https://twitter.com/flemingfamfarm/status/735303149196443649</link>
             <guid isPermaLink="false">cbe4c983-0614-4b25-a6d7-6ce14f9bfe16</guid>
+            <pubDate>Thu, 26 May 2016 01:40:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why do leading ASICs manufacturers sell their chips?]]></title>
+            <description><![CDATA[<article><h1>Why do leading ASICs manufacturers sell their chips?</h1><p>Some companies have done exactly that, and have come under fire for it. Butterfly Labs was famously outed by US authorities for running customer-purchased hardware to generate profit for themselves, only releasing to the customer after the purchased-hardware was past its peak profit-generating potential.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/44355/why-do-leading-asics-manufacturers-sell-their-chips</link>
+            <guid isPermaLink="false">fe7bc6e3-2ab1-47ae-b57b-d14584e717a8</guid>
             <pubDate>Thu, 26 May 2016 01:40:41 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Cross-border payments experts debate Bitcoin remittances</h1><p>Payments across borders are always touted as an important use case for cryptocurrencies, which can cut through the Gordian Knot of intermediaries, fees and delays. But opinion on the ground varies depending on who you talk to. Indeed, this market - often simply referred to as remittances - is actually a group disparate business-use cases with different characteristics and requirements.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c4cc9c5ed7bb6fa331c7d524920d4901575b6b2.jpg"></article>]]></description>
             <link>http://www.ibtimes.co.uk/cross-border-payments-experts-debate-bitcoin-remittances-1561983</link>
             <guid isPermaLink="false">a738d275-cbd0-4844-ac49-1fcc2b37b207</guid>
-            <pubDate>Wed, 25 May 2016 18:42:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Here's What's on This Evening - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Here's What's on This Evening - NEWSBTC</h1><p>Here's what we are looking at this evening for our bitcoin trading session out of the US The European session is drawing to a close, and the action we have seen today in the bitcoin rice has given us plenty to discuss for this evening's analysis.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e6fd0eebb92046e6ccd01b0ad67cd6cb85d578d.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/25/bitcoin-price-watch-heres-whats-evening-2/</link>
-            <guid isPermaLink="false">3915a1dc-301b-45cb-9406-0d75428ca492</guid>
             <pubDate>Wed, 25 May 2016 18:42:58 GMT</pubDate>
         </item>
     </channel>
