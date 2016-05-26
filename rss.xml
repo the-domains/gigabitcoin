@@ -7,13 +7,6 @@
         <lastBuildDate>Thu, 26 May 2016 01:41:40 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[How Blockchain Technology Is Reinventing Global Trade Efficiency]]></title>
-            <description><![CDATA[<article><h1>How Blockchain Technology Is Reinventing Global Trade Efficiency</h1><p>This article orginally appeared in The Distributed Ledger. The business of moving commercial goods around the planet represents billions of dollars in enterprise revenue-as well as losses and inefficiencies resulting from risk, fraud or anachronistic manual paperwork delays. The good news is that few sectors are poised to so dramatically benefit from the advent of blockchain-based solutions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/82a619d779cf29d91cf26077cebd0c11adc76daf.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/how-blockchain-technology-is-reinventing-global-trade-efficiency-1464206286</link>
-            <guid isPermaLink="false">42c0a303-0454-4f50-8007-d885de90c596</guid>
-            <pubDate>Thu, 26 May 2016 01:40:42 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[ShoCard Collaborates with Airline IT Company on Blockchain ID App]]></title>
             <description><![CDATA[<article><h1>ShoCard Collaborates with Airline IT Company on Blockchain ID App</h1><p>Palo Alto-based ShoCard, a startup looking to leverage the bitcoin blockchain for digital identity management, has announced that a new app is being developed in collaboration with multinational Swiss-based air transport IT company SITA. SITA was founded 1949 and the company's membership is comprised of 417 international airline and aviation companies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/885f194165eb6aa68f304822a2c5fde95be2442c.jpg"></article>]]></description>
             <link>http://themerkle.com/shocard-collaborates-with-airline-it-company-on-blockchain-id-app/</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Deloitte Opens New Blockchain Research Lab in Ireland</h1><p>Financial services giant Deloitte announced today the opening of their new blockchain center in Dublin, Ireland. The EMEA Financial Services Blockchain Lab will be staffed with 50 developers, which the company says will be recruited over the next 18 months.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f947ff011a0594c59e001ff597137dc0f14575b7.jpg"></article>]]></description>
             <link>http://themerkle.com/deloitte-opens-new-blockchain-research-lab-in-ireland/</link>
             <guid isPermaLink="false">a499bdc1-3263-4487-bb1d-d40d7a86cef3</guid>
+            <pubDate>Thu, 26 May 2016 01:40:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Protocol Role Models * Gavin Andresen]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Protocol Role Models * Gavin Andresen</h1><p>A couple of months ago, I was having Yet Another Argument with a Bitcoin Core contributor about the one megabyte block size limit. I had asked: "what other successful Internet protocols impose arbitrary limits on themselves similar to the... | Gavin Andresen | Bitcoin developer. All-around geek.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa391bdc1f798f0bfbcaa4406da36b4e20f155d0.jpg"></article>]]></description>
+            <link>http://gavinandresen.ninja/bitcoin-protocol-role-models</link>
+            <guid isPermaLink="false">539c4cf8-6d0f-40ba-94c6-9849ff649917</guid>
             <pubDate>Thu, 26 May 2016 01:40:41 GMT</pubDate>
         </item>
     </channel>
