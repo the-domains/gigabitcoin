@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 01:41:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2016 01:41:44 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Kraken Details the Latest Mt Gox Creditors Meeting - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>Kraken Details the Latest Mt Gox Creditors Meeting - Bitcoinist.net</h1><p>The leading cryptocurrency exchange Kraken and Tokyo's court-appointed trustee has announced the current status of all Mt Gox claims have been determined. For the first time, thousands of claimants will be able to see if their claim has been accepted and will soon be processed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf2126d50fefeb6aefbe91959265740dc1d3d18d.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/kraken-details-mt-gox-meeting/</link>
-            <guid isPermaLink="false">b0c607ac-3aca-40fd-be87-89b4b4e7b94f</guid>
-            <pubDate>Thu, 26 May 2016 01:40:42 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Wrongfully Accused of Involvement in Spanish Money Laundering Scheme]]></title>
             <description><![CDATA[<article><h1>Bitcoin Wrongfully Accused of Involvement in Spanish Money Laundering Scheme</h1><p>Bitcoin keeps making headlines all over the world these days, albeit not always in a positive manner. Several people in Spain have been arrested for laundering money through cryptocurrency. According to Spanish police sources, 30 people had been arrested earlier today on grounds of money laundering .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e611d44eaea8c98d7baec61a6cd1e4375c06e98.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Can a New Social Operating System Fix The DAO? - CoinDesk</h1><p>An Ethereum startup led by a Harvard researcher and the founder of blockchain ridesharing startup La'Zooz will submit a proposal to fix perceived governance issues with The DAO this week.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f4fd884dd9d703276389a66e832b7230e002e93d.jpg"></article>]]></description>
             <link>http://www.coindesk.com/can-new-social-operating-system-fix-dao/</link>
             <guid isPermaLink="false">9ff6d0e7-3458-4215-bd6f-3df30872ef8d</guid>
+            <pubDate>Thu, 26 May 2016 01:40:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Weekly 2016 May 25: U.S. Postal Service looks into blockchain-technology, Bitcoin smart contracts by end of 2016, SaruTobi Android app]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Weekly 2016 May 25: U.S. Postal Service looks into blockchain-technology, Bitcoin smart contracts by end of 2016, SaruTobi Android app</h1><p>This week the Bitcoin community saw a fairly slow news cycle but there's still some gems to be found. The United States Postal Service released a report on Monday outlining the government's approach to using blockchain-technology to enhance what the post office already does, and add services such as financial services and identity management for citizens.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/279bfc1222a64a4d454d0ca598f02010ff13b316.jpg"></article>]]></description>
+            <link>http://siliconangle.com/blog/2016/05/25/bitcoin-weekly-2016-may-24-u-s-postal-service-looks-into-blockchain-technology-bitcoin-smart-contracts-by-end-of-2016-sarutobi-android-app/</link>
+            <guid isPermaLink="false">54cade6e-a649-4380-95ad-0d961db1d1e0</guid>
             <pubDate>Thu, 26 May 2016 01:40:42 GMT</pubDate>
         </item>
     </channel>
