@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 13:36:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2016 13:36:20 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What security weaknesses result from using off chain solutions?]]></title>
+            <description><![CDATA[<article><h1>What security weaknesses result from using off chain solutions?</h1><p>With the Lightning network specifically, the security of the transactions always depends on being able to take the transaction onto the real blockchain "if needed". When both parties cooperate, the the number of on chain transactions is minimized, but both parties rely on being able to cash out, using the real blockchain, if the other party stops cooperating or goes offline for an extended period of time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/44367/what-security-weaknesses-result-from-using-off-chain-solutions</link>
+            <guid isPermaLink="false">14d3ffc8-a7b0-448d-b2f2-ceb431af3a9b</guid>
+            <pubDate>Thu, 26 May 2016 13:35:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tech Reporter Gets NFC Payment Chip Implant In His Hand]]></title>
+            <description><![CDATA[<article><h1>Tech Reporter Gets NFC Payment Chip Implant In His Hand</h1><p>When a Bitcoin user embedded a payment chip into his hand, people assumed he was crazy. But apparently, he sparked a bright concept, as tech reporter Charlie Warzel did the same with an NFC-enabled payment chip. Also read: Kraken Details the Latest Mt Gox Creditors Meeting It is important for users to keep in mind that this type of body modification carries certain risks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3db58f38ec525f37c21ea2b17866a40b2e38aaf0.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/tech-reporter-gets-nfc-payment-chip-implant-in-his-hand/</link>
+            <guid isPermaLink="false">b7233ec0-95f6-4197-9ed6-bdeda74d8fab</guid>
+            <pubDate>Thu, 26 May 2016 13:35:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Third Key Solution's Decentralized Arbitration and Mediation Network to bridge law and smart contracts]]></title>
             <description><![CDATA[<article><h1>Third Key Solution's Decentralized Arbitration and Mediation Network to bridge law and smart contracts</h1><p>Smart Contracts are among the hottest of all topics in the FinTech world today, but how exactly does a nation's justice system recognize, interface with, and acknowledge the outcomes from smart contracts?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ba532d5f40f2b6d279c9528d7204fb1175a13a6.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>PayPal Killing Apps on Mobile Platforms Is A Bitcoin Opportunity</h1><p>It is not a complete surprise to see PayPal pull their apps from various platforms, albeit it is a brash decision. Popular online payment method PayPal is removing their mobile app from various operating systems. Windows Phone, Amazon, and BlackBerry will no longer be supported as of June 30, 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5bebb02f156786e872fe00138858cfd626acb675.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/05/26/paypal-killing-apps-bitcoin/</link>
             <guid isPermaLink="false">69337f11-aa96-46bc-a659-07dccab110e8</guid>
-            <pubDate>Thu, 26 May 2016 13:35:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Streamlining Travel with Blockchain Identity Verification]]></title>
-            <description><![CDATA[<article><h1>Streamlining Travel with Blockchain Identity Verification</h1><p>Traveling has definitely become a chore. Long lines, tight spaces, overcrowded travel hubs. A measure of patience and a little bit of luck go a long way. The travel tech company SITA has a proposal that can at least help with streamlining traveler identification.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b8d08d021bbcb5be622f4c9471662f032fb9534.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/streamlining-travel-with-blockchain/</link>
-            <guid isPermaLink="false">d4816f8f-cfd5-4f31-8cf4-f7e6907468e4</guid>
-            <pubDate>Thu, 26 May 2016 13:35:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Goldman Sachs Admits Bitcoin is 'Ideal' for Public Transactions]]></title>
-            <description><![CDATA[<article><h1>Goldman Sachs Admits Bitcoin is 'Ideal' for Public Transactions</h1><p>While Goldman Sachs expects private or "permissioned" blockchains to dominate most commercial applications according to its recent research report, the banking giant admitted that Bitcoin is an "ideal vehicle" for public transactions between individuals who don't know each other."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff9d486e8f755dad935e9583798fc409b77493e3.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/goldman-sachs-bitcoin-ideal-public/</link>
-            <guid isPermaLink="false">2f8aa370-7037-447d-954a-07504befd5f9</guid>
             <pubDate>Thu, 26 May 2016 13:35:21 GMT</pubDate>
         </item>
     </channel>
