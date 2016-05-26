@@ -7,6 +7,13 @@
         <lastBuildDate>Thu, 26 May 2016 01:41:35 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Deloitte Opens New Blockchain Research Lab in Ireland]]></title>
+            <description><![CDATA[<article><h1>Deloitte Opens New Blockchain Research Lab in Ireland</h1><p>Financial services giant Deloitte announced today the opening of their new blockchain center in Dublin, Ireland. The EMEA Financial Services Blockchain Lab will be staffed with 50 developers, which the company says will be recruited over the next 18 months.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f947ff011a0594c59e001ff597137dc0f14575b7.jpg"></article>]]></description>
+            <link>http://themerkle.com/deloitte-opens-new-blockchain-research-lab-in-ireland/</link>
+            <guid isPermaLink="false">a499bdc1-3263-4487-bb1d-d40d7a86cef3</guid>
+            <pubDate>Thu, 26 May 2016 01:40:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bitcoin Protocol Role Models * Gavin Andresen]]></title>
             <description><![CDATA[<article><h1>Bitcoin Protocol Role Models * Gavin Andresen</h1><p>A couple of months ago, I was having Yet Another Argument with a Bitcoin Core contributor about the one megabyte block size limit. I had asked: "what other successful Internet protocols impose arbitrary limits on themselves similar to the... | Gavin Andresen | Bitcoin developer. All-around geek.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa391bdc1f798f0bfbcaa4406da36b4e20f155d0.jpg"></article>]]></description>
             <link>http://gavinandresen.ninja/bitcoin-protocol-role-models</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Spain arrests 30 suspected of laundering money in bitcoin centres</h1><p>Spanish police said on Wednesday they had arrested 30 people suspected of illegally distributing pay television content and of laundering the proceeds by investing in bitcoin "mining" centres for processing transactions in the digital currency, which use intensive computing power to generate more bitcoins.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ec530536437c3607db21c8c3401453d3357fe00.jpg"></article>]]></description>
             <link>http://www.cnbc.com/2016/05/25/spain-arrests-30-suspected-of-laundering-money-in-bitcoin-centres.html</link>
             <guid isPermaLink="false">8778361a-ddde-4647-a3f8-c702ce923647</guid>
-            <pubDate>Wed, 25 May 2016 18:42:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KeepKey Prepares for Bitcoin Scaling With Wallet Startup Acquisition - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>KeepKey Prepares for Bitcoin Scaling With Wallet Startup Acquisition - CoinDesk</h1><p>As developers prepare for the launch of Segregated Witness, a proposed scaling method for the bitcoin network, one startup based in the US has purchased an entire firm to help it prepare for the change. Hardware wallet firm KeepKey announced today that it has acquired MultiBit, a desktop-based bitcoin wallet program.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/495d9a2537a9719237652d198397694fd6520153.png"></article>]]></description>
-            <link>http://www.coindesk.com/keepkey-multibit-bitcoin-scaling/</link>
-            <guid isPermaLink="false">fc134168-7b1d-4756-8077-81a358eaa6f3</guid>
             <pubDate>Wed, 25 May 2016 18:42:58 GMT</pubDate>
         </item>
     </channel>
