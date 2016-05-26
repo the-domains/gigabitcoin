@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 14:35:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2016 14:36:00 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Make a Socket Selling Power and Internet Access for Ether]]></title>
+            <description><![CDATA[<article><h1>How to Make a Socket Selling Power and Internet Access for Ether</h1><p>Earlier ForkLog wrote about Valery Litvin , a Belarusian blockchain developer from the Cyber.Fund team, and the smart socket selling power and Wi-Fi access for Ether he had created. The device has been presented and successfully tested at the recent Blockchain Conference Kyiv.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/925678fcc33e648e7c645d6a0c2133fd1766f8a7.jpg"></article>]]></description>
+            <link>http://forklog.net/how-to-make-a-socket-selling-power-and-internet-access-for-ether/</link>
+            <guid isPermaLink="false">27df66f1-0fb7-4a53-913f-23a6b026458e</guid>
+            <pubDate>Thu, 26 May 2016 14:35:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Could Ethereum be sold to another company and the current dev team replaced?]]></title>
             <description><![CDATA[<article><h1>Could Ethereum be sold to another company and the current dev team replaced?</h1><p>Answer: Not really ethereum is not a company but an foundation that produce an open source platform called ethereum. The blockchain is developed by them but the community (user,developers, nodes) own it. In the unlikley event ethereum got sold the blockchain will be forked (copied) and most peo...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Ripple Labs CEO: Partnership With Banking Blockchain Consortium R3 In The Offing</h1><p>The R3CEV banking consortium could be partnering with Ripple Labs, according to a tweet from Ripple Labs CEO Chris Larsen. "The future of fintech is bringing together like-minded companies, like @R3CEV and @Ripple. More details to come soon...," Larsen tweeted. The future of fintech is bringing together like-minded companies, like @R3CEV and @Ripple.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3f9babedb49cf652d8b127ac6adc6074c622452.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/ripple-r3-blockchain-partnership-offing/</link>
             <guid isPermaLink="false">00df81f6-1ee5-470b-b5ed-f17f0510f07b</guid>
-            <pubDate>Thu, 26 May 2016 13:35:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Rises, But What Will Happen in July at the Halving?]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Rises, But What Will Happen in July at the Halving?</h1><p>Bitcoin is back up! Since our last price piece and Ether's rise to the top with arguably the largest crowdsale in history, bitcoin has grown by about $9 in price and is getting people excited once again. Also read: Ether to Blame for Bitcoin's Decline?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/802e755cea1d107b99ddea456397ae5b12d820eb.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/bitcoin-rises-july-halving/</link>
-            <guid isPermaLink="false">8c426585-bb77-4fd9-9d6a-c60546a33b36</guid>
             <pubDate>Thu, 26 May 2016 13:35:21 GMT</pubDate>
         </item>
     </channel>
