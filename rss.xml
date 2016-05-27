@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 16:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 16:16:06 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Hacker Donates $11k of Stolen Bitcoin to Kurdish Fighters Battling ISIS]]></title>
-            <description><![CDATA[<article><h1>Hacker Donates $11k of Stolen Bitcoin to Kurdish Fighters Battling ISIS</h1><p>A hacker has stolen $11,000 worth of Bitcoin and donated them to Kurdish fighters battling ISIS. The hacker, known as Phineas Phisher, donated the large sum to a group of Kurdish fighters in the northern Rojava region of Syria. Phisher later admitted on Reddit that the funds in question were stolen from a bank, though he declined to mention which one.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1869e70f2634f4216889d5c24dc2c00826c8089.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/hacker-donates-11k-of-stolen-bitcoin-to-kurdish-fighters-battling-isis</link>
-            <guid isPermaLink="false">f242f527-fce2-4fa8-8ad9-2c6d4cd05b58</guid>
-            <pubDate>Fri, 27 May 2016 16:16:02 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[How Blockchain & Digital Currency Could Revamp the U.S. Postal Service]]></title>
             <description><![CDATA[<article><h1>How Blockchain & Digital Currency Could Revamp the U.S. Postal Service</h1><p>The U.S. Postal Service has identified a number of ways that blockchain technology can improve its services and make it a more relevant player in global commerce, according to a report, "Blockchain Technology: Possibilities for the U.S. Postal Service."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcca6c64282cc8defac8190c1eba45663314ec1d.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://cointelegraph.com/news/ethereum-mining-made-possible-on-weak-pcs</link>
             <guid isPermaLink="false">ef95b93c-b950-4981-814a-08b64404c03f</guid>
             <pubDate>Fri, 27 May 2016 15:26:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Bitcoin Podcast: TBP61 - Escaping War Zones]]></title>
+            <description><![CDATA[<article><h1>The Bitcoin Podcast: TBP61 - Escaping War Zones</h1><p>Is GDAX just a marketing scheme? That is the focus this week and as CEO &amp; Co-founder of Safello, Frank Schuil is heading the efforts to revolutionize the financial markets by building a crypto currency bank. We stops in to chat a bit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae1438bda64752004b20bc5cb7fdf2a552738236.jpg"></article>]]></description>
+            <link>http://thebitcoinpodcast.libsyn.com/tbp61-escaping-war-zones</link>
+            <guid isPermaLink="false">852b898b-0515-4c8f-b93a-3937b0353174</guid>
+            <pubDate>Fri, 27 May 2016 14:36:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
