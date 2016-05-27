@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 14:36:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 14:36:44 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Bitcoin Podcast: TBP61 - Escaping War Zones]]></title>
+            <description><![CDATA[<article><h1>The Bitcoin Podcast: TBP61 - Escaping War Zones</h1><p>Is GDAX just a marketing scheme? That is the focus this week and as CEO &amp; Co-founder of Safello, Frank Schuil is heading the efforts to revolutionize the financial markets by building a crypto currency bank. We stops in to chat a bit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae1438bda64752004b20bc5cb7fdf2a552738236.jpg"></article>]]></description>
+            <link>http://thebitcoinpodcast.libsyn.com/tbp61-escaping-war-zones</link>
+            <guid isPermaLink="false">852b898b-0515-4c8f-b93a-3937b0353174</guid>
+            <pubDate>Fri, 27 May 2016 14:36:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[PayPal Modular Payment System Will Support Bitcoin]]></title>
             <description><![CDATA[<article><h1>PayPal Modular Payment System Will Support Bitcoin</h1><p>There are some indications pointing towards Paypal finally introducing official support for Bitcoin and other cryptocurrencies. Paypal has filed a patent for a modular payment system. Although it seems to indicate this will be a hardware device of some sort, there is also a mention of using a virtual currency wallet system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35066286c59205165a5584fb970c8ba67bbd9c4f.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.newsbtc.com/2016/05/27/morally-neutral-blockchain/</link>
             <guid isPermaLink="false">b33296aa-0e66-48a0-a1d5-75ad826980c5</guid>
             <pubDate>Fri, 27 May 2016 13:19:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amazon Spear Phishing Campaign Spreads Locky Ransomware]]></title>
-            <description><![CDATA[<article><h1>Amazon Spear Phishing Campaign Spreads Locky Ransomware</h1><p>Locky ransomware has been infecting computers and networks all over the world in the past few months. Amazon customers have been deliberately targeted through malicious Microsoft Word documents to spread this malware. Comodo Threat Research Labs discovered this spear phishing campaign. Security researchers labeled it as one of the largest spam ransomware attacks of 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a3ef7293e23ca4b8c797991220993ac97773e19.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/amazon-locky-ransomware/</link>
-            <guid isPermaLink="false">34ff2cd1-2819-4cc3-81a4-29885d8377c9</guid>
-            <pubDate>Fri, 27 May 2016 13:19:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
