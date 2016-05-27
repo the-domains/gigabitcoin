@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 03:45:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 05:03:02 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Eragmus: Jameson Lopp: Jonas Schnelli: Bitcoin Improvement Proposal 151: Peer-to-Peer Communication Encryption * /r/Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Eragmus: Jameson Lopp: Jonas Schnelli: Bitcoin Improvement Proposal 151: Peer-to-Peer Communication Encryption * /r/Bitcoin</h1><p>Bitcoin is the currency of the Internet: a distributed, worldwide, decentralized digital money. Unlike traditional currencies such as dollars, bitcoins are issued and managed without any central authority whatsoever: there is no government, company, or bank in charge of Bitcoin. As such, it is more resistant to wild inflation and corrupt banks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e77717dded2a526fccf2c46f3890afc86f78d4b.jpg"></article>]]></description>
+            <link>https://www.reddit.com/r/Bitcoin/comments/4l678a/eragmus_jameson_lopp_jonas_schnelli_bitcoin/</link>
+            <guid isPermaLink="false">e9101c58-d492-44ec-9419-e711d2c305f8</guid>
+            <pubDate>Fri, 27 May 2016 05:02:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Crypto Show with Christopher David and The A Team.]]></title>
             <description><![CDATA[<article><h1>The Crypto Show with Christopher David and The A Team.</h1><p>26,313 members in 2 weeks on the Arcade City Austin Facebook group. It's been an amazing display in free market agorism for ride sharing. This is not a live radio episode but an impromptu podcast after a full house meetup for the first meeting in Austin of Arcade drivers complete with local press and city council members.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd99a162e89b3fcb567a6e11842b2e20d219189a.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>EU Parliament Approves Proposal for Digital Currency Task Force - CoinDesk</h1><p>The European Parliament, the legislative branch of the European Union, has approved a proposal for a task force dedicated to digital currencies and blockchain technology. A report drafted by European Parliament member (MEP) Jakob von Weizsäcker first began circulating in late February.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6cae089a980eb32f985b11a2e38fc35f7cc179a.jpg"></article>]]></description>
             <link>http://www.coindesk.com/eu-parliament-digital-currency-task-force/</link>
             <guid isPermaLink="false">15fafe51-b086-41bc-9603-0e9b08b5daae</guid>
-            <pubDate>Fri, 27 May 2016 01:46:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[P2P Exchange Bitsquare Adds Support for Gridcoin and 14 Other Digital Currencies, Raises Trade Limits]]></title>
-            <description><![CDATA[<article><h1>P2P Exchange Bitsquare Adds Support for Gridcoin and 14 Other Digital Currencies, Raises Trade Limits</h1><p>Bitsquare, one of the most promising P2P digital currency exchange projects, has released a new update today that adds support for several new cryptocurrencies: Monero, Maker, DAO, STEEM, BigUp, PlatinumBar, Jumbucks, Pinkcoin, OKCash, Moin, SolarCoin, Shift, Europecoin, PostCoin and GridCoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f6946532d161dafb94ddb3343c75d83fa0e4eb2.jpg"></article>]]></description>
-            <link>http://themerkle.com/p2p-exchange-bitsquare-adds-support-for-gridcoin-and-14-other-digital-currencies-raises-trade-limits/</link>
-            <guid isPermaLink="false">c105f91f-485f-4f3b-9cbf-6f26edf1a886</guid>
             <pubDate>Fri, 27 May 2016 01:46:16 GMT</pubDate>
         </item>
     </channel>
