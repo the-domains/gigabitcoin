@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 23:26:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 23:26:26 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blockchain 2016: Results of Prague Conference - Bitcoinist.net]]></title>
+            <description><![CDATA[<article><h1>Blockchain 2016: Results of Prague Conference - Bitcoinist.net</h1><p>On May 19, 2016 Blockchain & Bitcoin Conference Prague - the second annual conference dedicated to cryptocurrency and blockchain technology took place in the Czech Republic. In 2016 to the conference former name (Bitcoin Conference) the word 'Blockchain' was added, since it is data structure blocks that developers, investors and financial institutions have focused on.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/963e735fa5fba1c5a71c91721ea0f2b83dcad667.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/blockchain-2016-prague-conference/</link>
+            <guid isPermaLink="false">10ab7baf-d1b1-4c0a-be92-b05ccabbeeb2</guid>
+            <pubDate>Fri, 27 May 2016 23:25:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Gambling Review - NitrogenSports]]></title>
             <description><![CDATA[<article><h1>Bitcoin Gambling Review - NitrogenSports</h1><p>NitrogenSports is a name synonymous with Bitcoin and sports betting these days, as the platform has been around for quite some time now. The company has an excellent reputation on the BitcoinTalk forum, and the platform offers some attractive options for gamblers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1f069c072f7896759d27ec3d69d8bee2c5929df.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Kraken Announces Multiple Fiat-based Pairs for DAO traders</h1><p>San Francisco-based digital currency exchange Kraken has announced support for DAO (Decentralized Autonomous Organization) tokens, with seven fiat-based DAO trading pairs: DAO/XBT, DAO/ETH, DAO/EUR, DAO/USD, DAO/CAD, DAO/GBP and DAO/JPY.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd7fbd6d8dfb26b78a30388ed7c497240aa4b5b2.png"></article>]]></description>
             <link>http://themerkle.com/kraken-announces-multiple-fiat-based-pairs-for-dao-traders/</link>
             <guid isPermaLink="false">585633e4-897c-4d84-a342-913cc3e43362</guid>
-            <pubDate>Fri, 27 May 2016 16:16:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hacker Donates $11k of Stolen Bitcoin to Kurdish Fighters Battling ISIS]]></title>
-            <description><![CDATA[<article><h1>Hacker Donates $11k of Stolen Bitcoin to Kurdish Fighters Battling ISIS</h1><p>A hacker has stolen $11,000 worth of Bitcoin and donated them to Kurdish fighters battling ISIS. The hacker, known as Phineas Phisher, donated the large sum to a group of Kurdish fighters in the northern Rojava region of Syria. Phisher later admitted on Reddit that the funds in question were stolen from a bank, though he declined to mention which one.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1869e70f2634f4216889d5c24dc2c00826c8089.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/hacker-donates-11k-of-stolen-bitcoin-to-kurdish-fighters-battling-isis</link>
-            <guid isPermaLink="false">f242f527-fce2-4fa8-8ad9-2c6d4cd05b58</guid>
             <pubDate>Fri, 27 May 2016 16:16:02 GMT</pubDate>
         </item>
     </channel>
