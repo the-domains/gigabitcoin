@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 23:26:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 23:26:31 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OpenLedger Announces 'ICOO' Platform to Increase Startup Funding]]></title>
+            <description><![CDATA[<article><h1>OpenLedger Announces 'ICOO' Platform to Increase Startup Funding</h1><p>OpenLedger, supported by Danish cryptocurrency exchange CCEDK, is extending its "Initial Coin Offering OpenLedger," (ICOO) in an effort to host more ICOs on the platform. Disclaimer: This article was provided by Bitcoin PR Buzz. Bitcoinist is not affiliated with the firms represented by Bitcoin PR Buzz and is not responsible for their products and/or services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34129d482ada4a8d0f1b1b52f89d9d56d2d2cd07.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/openledger-icoo-startup-funding/</link>
+            <guid isPermaLink="false">f7caafde-1168-4cb6-bae5-c2a24da9d143</guid>
+            <pubDate>Fri, 27 May 2016 23:25:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Swedish Bitcoin Mining Firm KnCMiner Files For Bankruptcy]]></title>
             <description><![CDATA[<article><h1>Swedish Bitcoin Mining Firm KnCMiner Files For Bankruptcy</h1><p>Founded in 2013, Swedish bitcoin mining hardware firm KnCMiner has filed for bankruptcy today. Its parent company, KNC Group, along with six other subsidiaries, have been placed into receivership under Nils Åberg, as reported by CoinDesk.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/70c6e953f140e24374c9983b7fc64f1111763fc7.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Kraken to Add DAO Trading as Critics Call for 'Moratorium' - CoinDesk</h1><p>Just over two weeks after Ethereum-powered The DAO sparked global headlines, San Francisco-based digital currency exchange operator Kraken has announced it will offer trading pairs for tokens representing voting rights in the decentralized autonomous organization.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da3f694ce299f6da74f77b0d6d593c0b9e2b9795.png"></article>]]></description>
             <link>http://www.coindesk.com/kraken-dao-trading-critics-moratorium/</link>
             <guid isPermaLink="false">50b01bb8-0b86-461f-941a-2df3b54f7587</guid>
-            <pubDate>Fri, 27 May 2016 23:25:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Was Ether's Loss Bitcoin's Gain? Traders Wonder After Wild Week - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Was Ether's Loss Bitcoin's Gain? Traders Wonder After Wild Week - CoinDesk</h1><p>The price of bitcoin appreciated nearly 4% for the week ending 27th May, but the figure is perhaps not indicative of the wild trading action the market saw during the period. Such movements came as market observers are becoming more interested in the relationship between bitcoin, the token supporting the world's longest-running blockchain, and ether, the token for the ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e84d4c0a09acfa907e870e54f5616428d38e8994.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/was-ethers-loss-bitcoins-gain/</link>
-            <guid isPermaLink="false">441052f8-1d63-4b28-9400-a9a3db1ed6ba</guid>
             <pubDate>Fri, 27 May 2016 23:25:53 GMT</pubDate>
         </item>
     </channel>
