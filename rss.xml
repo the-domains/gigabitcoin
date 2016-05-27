@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 01:48:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 01:48:28 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CryptoSteel Review (Burned it down, ran over it and smashed it to the Ground)]]></title>
+            <description><![CDATA[<article><h1>CryptoSteel Review (Burned it down, ran over it and smashed it to the Ground)</h1><p>Share on Facebook Share on Twitter Share on Google+ Share on LinkedIn+A little over a year ago I was approach by a polish guy named Wojtek who said he was looking to create the most durable cold wallet possible.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef8f94251022e5515474cb902a51491b7de916dc.jpg"></article>]]></description>
+            <link>https://99bitcoins.com/crpytosteel-hands-on-review/</link>
+            <guid isPermaLink="false">c288aca6-fe6f-49ab-b7c4-1de235447c8b</guid>
+            <pubDate>Fri, 27 May 2016 01:46:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Non-IRC meeting summary for 2016-05-20]]></title>
             <description><![CDATA[<article><h1>Non-IRC meeting summary for 2016-05-20</h1><p>(Note this page is still a work-in-progress and may be revised as more details are summarised.) Segregated witness code review Error correcting codes for future address types Encryption for the peer-to-peer network protocol Compact block relay protocol Schnorr signatures and aggregation New networking library This meeting was held in person in Zurich, Switzerland rather than the usual IRC channel.</p></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>BitXatm Adds Ethereum Support To Bitcoin ATMs</h1><p>Ethereum has been making a lot of headlines as of late, which has attracted attention from Bitcoin ATM manufacturers. BitXatm is one of the first companies to officially support Ethereum next to Bitcoin on their devices, although it is unclear a show many devices will enable this feature in the future.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4529b7fd79ef3bfc91dd3c019b3ec95b97dfd7ec.jpg"></article>]]></description>
             <link>http://themerkle.com/bitxatm-adds-ethereum-support-to-bitcoin-atms/</link>
             <guid isPermaLink="false">554d9ccf-94a8-43e2-b542-26c4b1c20b82</guid>
-            <pubDate>Fri, 27 May 2016 01:46:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EU Parliament Approves Formation of Digital Currency Task Force in Europe]]></title>
-            <description><![CDATA[<article><h1>EU Parliament Approves Formation of Digital Currency Task Force in Europe</h1><p>EU Parliament has approved a proposal to launch a digital currency task force to monitor the rapid proliferation of the technology within Europe. Today's vote passed with 542 Members of Parliament voting in favor, 51 voting against, and 11 abstentions, according to a European Parliament News article.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9cc628e51b93804dd70a3a6eca75ebea59813a6c.jpg"></article>]]></description>
-            <link>http://themerkle.com/eu-parliament-approves-formation-of-digital-currency-task-force-in-europe/</link>
-            <guid isPermaLink="false">29d636fa-b816-47d6-a0ae-ea6cd6cb4f97</guid>
             <pubDate>Fri, 27 May 2016 01:46:12 GMT</pubDate>
         </item>
     </channel>
