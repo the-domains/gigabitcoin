@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 01:47:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 01:47:57 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Companies Explore Bitcoin Technology For Travel Authentication]]></title>
+            <description><![CDATA[<article><h1>Companies Explore Bitcoin Technology For Travel Authentication</h1><p>The way this would work is by generating a Single Travel Token containing all of their travel documentation. Scanned documents and sealed with a public and private key, similar to how Bitcoin addresses are protected. Companies are looking at various ways to implement Bitcoin technology these days, and managing traveler identification is one of the potential opportunities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30da6bbf75e6066845a591cda1d622e589e2eb2f.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/26/companies-explore-bitcoin-technology-travel-authentication/</link>
+            <guid isPermaLink="false">f5aaa475-ff5a-4e97-a52e-069032b4b422</guid>
+            <pubDate>Fri, 27 May 2016 01:46:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[21 Unveils Vision for Bitcoin-Powered Weather Data Market - CoinDesk]]></title>
             <description><![CDATA[<article><h1>21 Unveils Vision for Bitcoin-Powered Weather Data Market - CoinDesk</h1><p>Bitcoin's best-funded startup, 21 Inc, unveiled a new proof-of-concept aimed at providing an illustration of how its bitcoin hardware and software can create new ways for data to be collected and monetized. Called Sensor21, the prototype outlines specifically how a precision altimeter can work with a 21 Bitcoin Computer to create a miniaturized weather tracker capable of monitoring data points such as air pressure, altitude and temperature.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b0f21d1115743088a3bb48130fb397c46542545.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://cointelegraph.com/news/safer-faster-cheaper-blockchain-simplifies-receiving-international-wages-</link>
             <guid isPermaLink="false">e66dda11-bbd9-43f0-adf3-e64d6a52cd0d</guid>
             <pubDate>Fri, 27 May 2016 01:46:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin was sent to my address, but I did not realize bitcoin core was synchronizing. Will I get that bitcoin back?]]></title>
-            <description><![CDATA[<article><h1>Bitcoin was sent to my address, but I did not realize bitcoin core was synchronizing. Will I get that bitcoin back?</h1><p>Well, as others have pointed out, Obama is just giving back a small percentage of what has been sent his way, and unlike most of the attacks on him his comments have been sensible and accurate insofar as anything political is ever accurate.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/Bitcoin-was-sent-to-my-address-but-I-did-not-realize-bitcoin-core-was-synchronizing-Will-I-get-that-bitcoin-back</link>
-            <guid isPermaLink="false">78c59faa-3d6a-49fe-a2a6-5bd9fe36c3cb</guid>
-            <pubDate>Fri, 27 May 2016 01:46:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
