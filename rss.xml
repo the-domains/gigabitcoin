@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 01:46:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 01:46:50 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin is a giant, global "Consensus-tron" based on a fundamental meta-rule: "51% Consensus based on Greed / Self-Interest" ("Nakamoto Consensus"). Blockstream/Core is trying change this meta-rule, to make it "95% Consensus" ("Extreme Consensus") - the MOST CONTENTIOUS change conceivable in Bitcoin * /r/btc]]></title>
-            <description><![CDATA[<article><h1>Bitcoin is a giant, global "Consensus-tron" based on a fundamental meta-rule: "51% Consensus based on Greed / Self-Interest" ("Nakamoto Consensus"). Blockstream/Core is trying change this meta-rule, to make it "95% Consensus" ("Extreme Consensus") - the MOST CONTENTIOUS change conceivable in Bitcoin * /r/btc</h1><p>TL;DR:** **The main characteristic of Bitcoin is that it is basically a kind of global "consensus-producing machine" or "Consensus-tron" -...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
-            <link>https://www.reddit.com/r/btc/comments/4l45p1/bitcoin_is_a_giant_global_consensustron_based_on/</link>
-            <guid isPermaLink="false">b030a76e-e783-494c-9a52-b0d931f12c17</guid>
-            <pubDate>Fri, 27 May 2016 01:46:07 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Santander Unveils International Payments App Built on Ripple's Blockchain]]></title>
             <description><![CDATA[<article><h1>Santander Unveils International Payments App Built on Ripple's Blockchain</h1><p>Spanish financial giant Banco Santander has revealed its new blockchain payment app. Santander's mobile app leverages the Ripple payment system as a means of moving funds behind the scenes, while users initiate transfers from an Apple Pay interface with Touch ID. According to the press release, users can send amounts between £10-£10,000.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/537e55ad273f221145b11f4e8dcf195a92f35eea.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://www.wsj.com/articles/bitcoin-is-just-the-beginning-1464302194</link>
             <guid isPermaLink="false">0f5539d6-3138-41b4-86df-caaf78afd62a</guid>
             <pubDate>Fri, 27 May 2016 01:46:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Build trust and reputation in bitcoin ecosystem with Open-source platform.]]></title>
+            <description><![CDATA[<article><h1>Build trust and reputation in bitcoin ecosystem with Open-source platform.</h1><p>Join open-source world bitcoin community to buy, sell and lend bitcoins directly with each other. Bitconnect was not formed to be a company nor financial institution but to function as a collective.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/426e86609cb332f08c0e5562e08b1a8ea32f307c.png"></article>]]></description>
+            <link>https://bitconnect.co/</link>
+            <guid isPermaLink="false">024aac57-f6c3-49b4-bc35-ecb535a08a20</guid>
+            <pubDate>Thu, 26 May 2016 14:35:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
