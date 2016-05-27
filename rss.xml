@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 01:48:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 01:48:52 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kraken Delists Namecoin after Meager Trading Volume]]></title>
+            <description><![CDATA[<article><h1>Kraken Delists Namecoin after Meager Trading Volume</h1><p>Bitcoin and digital asset exchange Kraken has ceased Namecoin trading form the exchange after determining that the currency did not warrant the effort to continue support due to low trading volumes. Kraken has revealed that it will not continue to keep or support Namecoin, following an assessment of supported coins in its exchange prior to making certain technical upgrades.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/241aa3a57875abd15db28dfb174ae864fff40a99.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/kraken-delists-namecoin-meager-trading-volume/</link>
+            <guid isPermaLink="false">9841be70-2aaf-4c66-bf03-80fb0e04678c</guid>
+            <pubDate>Fri, 27 May 2016 01:46:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Watch; Deconstructing Today's Action - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Watch; Deconstructing Today's Action - NEWSBTC</h1><p>Here's what we are looking at in the bitcoin price this evening, and beyond, out of Europe Its that time again - that's right, time for the second of our twice daily bitcoin price watch articles, and for us to take a look at how action during the European session today is going to influence our strategy for this evening's session out of the US.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e00afd1d7f2746caae949c91b30fc77af8032b6.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/26/bitcoin-price-watch-deconstructing-todays-action/</link>
+            <guid isPermaLink="false">992d8c44-c3d0-471f-9c6c-b1336569d458</guid>
+            <pubDate>Fri, 27 May 2016 01:46:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cash Losing Popularity, Banks Losing Trust - The Time is Ripe for Bitcoin?]]></title>
             <description><![CDATA[<article><h1>Cash Losing Popularity, Banks Losing Trust - The Time is Ripe for Bitcoin?</h1><p>Our society is moving faster and faster towards its cashless future, paradoxically at the same time losing trust in traditional banking. Does it mean that we are ready for Bitcoin? Is it time for it to officially enter the financial scene?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e31b760e5f22bd78460d495b29ffa34bc1965400.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://99bitcoins.com/crpytosteel-hands-on-review/</link>
             <guid isPermaLink="false">c288aca6-fe6f-49ab-b7c4-1de235447c8b</guid>
             <pubDate>Fri, 27 May 2016 01:46:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Non-IRC meeting summary for 2016-05-20]]></title>
-            <description><![CDATA[<article><h1>Non-IRC meeting summary for 2016-05-20</h1><p>(Note this page is still a work-in-progress and may be revised as more details are summarised.) Segregated witness code review Error correcting codes for future address types Encryption for the peer-to-peer network protocol Compact block relay protocol Schnorr signatures and aggregation New networking library This meeting was held in person in Zurich, Switzerland rather than the usual IRC channel.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/05/20/</link>
-            <guid isPermaLink="false">58e4e06f-f448-47c2-a46c-798e09162866</guid>
-            <pubDate>Fri, 27 May 2016 01:46:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How bitcoin works? - for programmers]]></title>
-            <description><![CDATA[<article><h1>How bitcoin works? - for programmers</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top I am a senior Python developer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/44322/how-bitcoin-works-for-programmers</link>
-            <guid isPermaLink="false">d2b11ec9-a5df-4f04-8567-102570b1feac</guid>
-            <pubDate>Fri, 27 May 2016 01:46:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
