@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 15:26:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 15:26:56 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Ethereum (ETH) Price Trends: 5/27/2016]]></title>
-            <description><![CDATA[<article><h1>Ethereum (ETH) Price Trends: 5/27/2016</h1><p>Ethereum has reached the minimum target of a medium-term correction. The future structure of its price will hint at the following direction. The structure of the short-term downward trend was not disrupted. Thus, the formation of a medium-term downward rebound has continued. The level of $11 is a key point, where a change of cycles could take place.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ef16ace7748c1224903dd6c4f12f54ebc2a1da1.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/ethereum-eth-price-trends-5272016</link>
-            <guid isPermaLink="false">7211f890-e6a5-4afd-975e-d0b83d534dea</guid>
-            <pubDate>Fri, 27 May 2016 15:26:05 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[BIP151 Introduces Encrypted Communication Between Bitcoin Peers]]></title>
             <description><![CDATA[<article><h1>BIP151 Introduces Encrypted Communication Between Bitcoin Peers</h1><p>A new proposal has been made to ensure the Bitcoin Core client will encrypt communication between peers. This proposal is known as BIP151 and aims to make Bitcoin a slightly more privacy-centric protocol. A lot of cryptocurrency enthusiasts are very pleased with the news, as Bitcoin has lacked privacy-centric traits for quite some time now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91392ee130f13ee0b0b5136704e195182be1339c.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Node40 Financial Reporting Service a Compliance Savior?</h1><p>Node40 has a reputation for establishing a stable hosting environment with ceaseless uptimes, and is becoming well known within the Dash ecosystem due in large part to the company's method of incentivizing the blockchain network. Disclaimer: This article was provided by the Vanbex Group.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/063189136792979e356bc08eccbc5ee84edc0b2a.png"></article>]]></description>
             <link>http://bitcoinist.net/node40-financial-reporting-savior/</link>
             <guid isPermaLink="false">fe1e7090-1749-4ff9-a9db-2e64d1fbf236</guid>
+            <pubDate>Fri, 27 May 2016 14:00:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Swift Investigation Highlights Twelve More Potential Breaches]]></title>
+            <description><![CDATA[<article><h1>Swift Investigation Highlights Twelve More Potential Breaches</h1><p>The Swift payment network breaches have been making media headlines for several weeks now. But it appears more than three banks may have been breached, as researchers are investigating 12 similar incidents. Although nothing has been confirmed yet, this news does not bode well for the financial ecosystem.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eaef9808ccd01b084b8607b724ff9fe5d88c99b1.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/swift-investigation-twelve-more-breaches/</link>
+            <guid isPermaLink="false">5eaa2fff-d39d-44fe-9560-3fc845284af8</guid>
             <pubDate>Fri, 27 May 2016 14:00:38 GMT</pubDate>
         </item>
     </channel>
