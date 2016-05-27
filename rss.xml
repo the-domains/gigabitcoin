@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 13:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 13:19:40 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Can Apple, Microsoft, Amazon or Google Delete Bitcoin From Your Computer?]]></title>
+            <description><![CDATA[<article><h1>Can Apple, Microsoft, Amazon or Google Delete Bitcoin From Your Computer?</h1><p>Is it possible for you to lose a great deal of money if Apple or any other hardware manufacturer or service provider decide to delete files from your computer? How safe are we in this day and age when our hardware is accessible to several different providers of hardware, services and media streaming companies?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be3927a7e95424e3227f54d1a0c1e17f6fe06141.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/can-apple-microsoft-amazon-or-google-delete-bitcoin-from-your-computer</link>
+            <guid isPermaLink="false">b547cb97-3218-4616-8d77-567bac185f9f</guid>
+            <pubDate>Fri, 27 May 2016 13:19:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[European Parliament Approves Bitcoin Regulatory Guidelines]]></title>
             <description><![CDATA[<article><h1>European Parliament Approves Bitcoin Regulatory Guidelines</h1><p>The European Parliament has appointed a regulator for Bitcoin and cryptocurrency. In the end, these efforts will be futile, as the decentralized nature of the Bitcoin protocol is resistant to external influence. Also read: New Europol Powers May Lead to Blockchain Analysis Task Force The European Parliament and ECB are not on the same page regarding Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8475bdc65762d817230e3d35cbecd173eb4b1b22.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://cointelegraph.com/news/ethereum-eth-price-trends-5262016</link>
             <guid isPermaLink="false">168e6e04-ae25-483d-b546-7015ff2b88c9</guid>
             <pubDate>Fri, 27 May 2016 01:46:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kraken Delists Namecoin after Meager Trading Volume]]></title>
-            <description><![CDATA[<article><h1>Kraken Delists Namecoin after Meager Trading Volume</h1><p>Bitcoin and digital asset exchange Kraken has ceased Namecoin trading form the exchange after determining that the currency did not warrant the effort to continue support due to low trading volumes. Kraken has revealed that it will not continue to keep or support Namecoin, following an assessment of supported coins in its exchange prior to making certain technical upgrades.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/241aa3a57875abd15db28dfb174ae864fff40a99.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/kraken-delists-namecoin-meager-trading-volume/</link>
-            <guid isPermaLink="false">9841be70-2aaf-4c66-bf03-80fb0e04678c</guid>
-            <pubDate>Fri, 27 May 2016 01:46:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
