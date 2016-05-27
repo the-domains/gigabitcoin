@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 23:25:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 23:25:59 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Was Ether's Loss Bitcoin's Gain? Traders Wonder After Wild Week - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Was Ether's Loss Bitcoin's Gain? Traders Wonder After Wild Week - CoinDesk</h1><p>The price of bitcoin appreciated nearly 4% for the week ending 27th May, but the figure is perhaps not indicative of the wild trading action the market saw during the period. Such movements came as market observers are becoming more interested in the relationship between bitcoin, the token supporting the world's longest-running blockchain, and ether, the token for the ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e84d4c0a09acfa907e870e54f5616428d38e8994.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/was-ethers-loss-bitcoins-gain/</link>
+            <guid isPermaLink="false">441052f8-1d63-4b28-9400-a9a3db1ed6ba</guid>
+            <pubDate>Fri, 27 May 2016 23:25:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KnC Miner Files For Bankruptcy, Begins Shutting Down Operations]]></title>
+            <description><![CDATA[<article><h1>KnC Miner Files For Bankruptcy, Begins Shutting Down Operations</h1><p>In a surprise announcement, Swedish mining firm KnC Miner said today that it is filing for bankruptcy, citing Bitcoin block reward halving and competition from Chinese hardware companies. Also read: Bitcoin 2016 :  'There Has Been an Awakening...'</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37689ec28b7cfd8bf4980e9016e78c14b00cd5a6.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/knc-miner-bankruptcy-shutting-down/</link>
+            <guid isPermaLink="false">99bd7aa9-c640-42fa-8f69-37e3be49a714</guid>
+            <pubDate>Fri, 27 May 2016 23:25:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Payments Startup Bitwala Finishes in 2nd Place at Pioneers Festival 2016]]></title>
             <description><![CDATA[<article><h1>Bitcoin Payments Startup Bitwala Finishes in 2nd Place at Pioneers Festival 2016</h1><p>On May 12th, Bitwala announced it was included in the Pioneers Festival 2016, along with 70 other European technology & fintech startups. Today, the Netherlands-based bitcoin payment solutions firm announced that it finished in 2nd place at the festival.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10563fbfc1583c6c92e2e9409537c5e31e371f25.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Ethereum (ETH) Price Trends: 5/27/2016</h1><p>Ethereum has reached the minimum target of a medium-term correction. The future structure of its price will hint at the following direction. The structure of the short-term downward trend was not disrupted. Thus, the formation of a medium-term downward rebound has continued. The level of $11 is a key point, where a change of cycles could take place.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ef16ace7748c1224903dd6c4f12f54ebc2a1da1.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/ethereum-eth-price-trends-5272016</link>
             <guid isPermaLink="false">7211f890-e6a5-4afd-975e-d0b83d534dea</guid>
-            <pubDate>Fri, 27 May 2016 15:26:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BIP151 Introduces Encrypted Communication Between Bitcoin Peers]]></title>
-            <description><![CDATA[<article><h1>BIP151 Introduces Encrypted Communication Between Bitcoin Peers</h1><p>A new proposal has been made to ensure the Bitcoin Core client will encrypt communication between peers. This proposal is known as BIP151 and aims to make Bitcoin a slightly more privacy-centric protocol. A lot of cryptocurrency enthusiasts are very pleased with the news, as Bitcoin has lacked privacy-centric traits for quite some time now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91392ee130f13ee0b0b5136704e195182be1339c.jpg"></article>]]></description>
-            <link>http://themerkle.com/bip151-introduces-encrypted-communication-between-bitcoin-peers/</link>
-            <guid isPermaLink="false">4add4086-e402-4bfa-879f-c3fe645782ac</guid>
-            <pubDate>Fri, 27 May 2016 15:26:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Miami man arrested in Bitcoin case challenging prosecution]]></title>
-            <description><![CDATA[<article><h1>Miami man arrested in Bitcoin case challenging prosecution</h1><p>A Miami man accused of dealing illegally in the virtual currency known as Bitcoin is asking a judge Friday to throw out the case. Michell Espinoza's argument: Bitcoin is not actual money under Florida law.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ebf646b9fa0fcc2109ef044af90f643b8d4600c5.jpg"></article>]]></description>
-            <link>http://www.miamiherald.com/news/local/crime/article80277207.html</link>
-            <guid isPermaLink="false">1d49fe8e-9bf4-49fe-9341-025df35b1677</guid>
             <pubDate>Fri, 27 May 2016 15:26:05 GMT</pubDate>
         </item>
     </channel>
