@@ -4,29 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 01:46:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 01:46:08 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Agentic Group Collaborates with Government of Bermuda on Digital Currency Incubator]]></title>
-            <description><![CDATA[<article><h1>Agentic Group Collaborates with Government of Bermuda on Digital Currency Incubator</h1><p>New York-based Agentic Group LLC - a global consortium with members in the blockchain, fintech and digital currency industries - announced a new initiative this week with Bermuda's Government. The initiative will see Agentic Group, which also has offices in Paris and London, working with the Bermuda Monetary Authority (BMA) on raising awareness about the benefits of blockchain technology and digital currencies in the region.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6eba1ebcb1cf0e5a449cd59b52e632a41214dfe9.jpg"></article>]]></description>
-            <link>http://themerkle.com/agentic-group-collaborates-with-government-of-bermuda-on-digital-currency-incubator/</link>
-            <guid isPermaLink="false">86806ada-9219-434b-aab6-5fe4292345e9</guid>
-            <pubDate>Fri, 27 May 2016 01:46:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CFTC Grants Full Registration to Bitcoin Swaps Trading Platform - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>CFTC Grants Full Registration to Bitcoin Swaps Trading Platform - CoinDesk</h1><p>The Commodity Futures Trading Commission (CFTC) has granted formal registration to a trading platform that was an early entrant in the market for bitcoin financial derivatives. TeraExchange, a swaps execution facility based in New Jersey, had been previously operating under a temporary registration order, and today's announcement formally recognizes this designation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2a8ad10de91cdabe83db3ea10af7ccd16f1d0c3.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/us-swap-platform-registration-cftc/</link>
-            <guid isPermaLink="false">330e7af6-a1a0-4b1f-b835-05668e8b1b64</guid>
-            <pubDate>Fri, 27 May 2016 01:46:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Japan regulates virtual currency after Bitcoin scandal]]></title>
-            <description><![CDATA[<article><h1>Japan regulates virtual currency after Bitcoin scandal</h1><p>Japan has passed a law regulating virtual currency, after the country found itself at the epicentre of a multi-million dollar embezzlement scandal following the spectacular collapse of the Tokyo-based MtGox Bitcoin exchange. Once one of the largest, most established exchanges for the cryptocurrency, MtGox collapsed in 2014 after a suspected theft worth nearly half a billion dollars, which hammered the digital currency's reputation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6e1ec6facbd7007a3fbeddfbf5e4a4542b7b88d.jpg"></article>]]></description>
-            <link>http://phys.org/news/2016-05-japan-virtual-currency-bitcoin-scandal.html</link>
-            <guid isPermaLink="false">94df7842-752e-409a-a329-1a062e3feaf0</guid>
-            <pubDate>Fri, 27 May 2016 01:46:05 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Lawyers Be DAMNed: Andreas Antonopoulos Takes Aim at Arbitration With DAO Proposal - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Lawyers Be DAMNed: Andreas Antonopoulos Takes Aim at Arbitration With DAO Proposal - CoinDesk</h1><p>Currently under review by The DAO, the distributed autonomous organization that has raised over $150m in digital assets to date, is a proposal by one of the most recognizable people in bitcoin that would fund a project aimed at encoding a decades-old international legal structure into smart contracts to be released to the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f76beadf99e10e7975bd559b8fd6e5076c0afb7.jpg"></article>]]></description>
@@ -75,6 +54,27 @@
             <link>https://www.quora.com/Could-Ethereum-be-sold-to-another-company-and-the-current-dev-team-replaced</link>
             <guid isPermaLink="false">95280e88-a29b-47ad-90a4-f9035e510237</guid>
             <pubDate>Thu, 26 May 2016 14:35:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kraken Announces Major Update in MtGox Claims Investigation]]></title>
+            <description><![CDATA[<article><h1>Kraken Announces Major Update in MtGox Claims Investigation</h1><p>Global digital asset exchange Kraken shared major news from Tokyo's court-appointed trustee in the investigation of claims from MtGox creditors. During a scheduled and long-awaited Creditor's Meeting in Tokyo, Trustee Nobuaki Kobayashi announced on Wednesday that 24,750 creditors have filed claims to date.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45a65cb50978f00c9e3f799eb8fe912bd8cce8f9.png"></article>]]></description>
+            <link>http://forklog.net/kraken-announces-major-update-in-mtgox-claims-investigation/</link>
+            <guid isPermaLink="false">65f1cb96-0517-46cd-811c-65620547fed8</guid>
+            <pubDate>Thu, 26 May 2016 14:35:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Judge Throws Out PlayPen Evidence As FBI Refuses To Disclose Details]]></title>
+            <description><![CDATA[<article><h1>Judge Throws Out PlayPen Evidence As FBI Refuses To Disclose Details</h1><p>The story regarding the FBI hacking Tor to infect the PlayPen platform is not over just yet. A judge excluded the evidence presented by the law enforcement agency after they refused to detail how they hacked the website in the first place.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db6246bd884935aac5377b7c1a479832713d111a.jpg"></article>]]></description>
+            <link>http://themerkle.com/judge-throws-out-playpen-evidence-as-fbi-refuses-to-disclose-details/</link>
+            <guid isPermaLink="false">5caa6329-a7a3-4d79-9eaa-55c214bd085c</guid>
+            <pubDate>Thu, 26 May 2016 13:35:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What security weaknesses result from using off chain solutions?]]></title>
+            <description><![CDATA[<article><h1>What security weaknesses result from using off chain solutions?</h1><p>With the Lightning network specifically, the security of the transactions always depends on being able to take the transaction onto the real blockchain "if needed". When both parties cooperate, the the number of on chain transactions is minimized, but both parties rely on being able to cash out, using the real blockchain, if the other party stops cooperating or goes offline for an extended period of time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/44367/what-security-weaknesses-result-from-using-off-chain-solutions</link>
+            <guid isPermaLink="false">14d3ffc8-a7b0-448d-b2f2-ceb431af3a9b</guid>
+            <pubDate>Thu, 26 May 2016 13:35:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
