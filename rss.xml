@@ -4,13 +4,41 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 21:29:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2016 21:29:49 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Passes $500, Highest Price in Almost Two Years]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Passes $500, Highest Price in Almost Two Years</h1><p>For the first time since 2014, the price of Bitcoin passed $500 USD early Saturday morning. Laura Shin of Forbes writes: "One of the most fascinating aspects of the Bitcoin narrative is the trajectory of its price.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf6f7b63d7b2bbc057bfd058e128668d9afadc49.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/bitcoin-price-passes-500-highest-price-in-almost-two-years</link>
+            <guid isPermaLink="false">3064e064-1345-4cca-a217-d856ff31e984</guid>
+            <pubDate>Sat, 28 May 2016 21:29:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Updated ccMiner 1.8-dev fork by tpruvot With SM 6.0 and CUDA 8.0]]></title>
+            <description><![CDATA[<article><h1>Updated ccMiner 1.8-dev fork by tpruvot With SM 6.0 and CUDA 8.0</h1><p>Here comes another interesting update of ccMiner from tpruvot with a new Windows binary of the latest ccMiner 1.8-dev ( source) that comes with Compute 6 (SM 6.0) and CUDA 8.0 support in time for the availability of the new Nvidia GeForce GTX 1080 and 1070 GPUs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d082db8028c39747c19c2f27ed3e4d167613a0e.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7880-updated-ccminer-1-8-dev-fork-by-tpruvot-with-sm-6-0-and-cuda-8-0/</link>
+            <guid isPermaLink="false">fa8389e3-7089-4c9d-8207-cc72baafee49</guid>
+            <pubDate>Sat, 28 May 2016 21:29:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Will Help Boost Ecommerce Growth In Europe]]></title>
             <description><![CDATA[<article><h1>Bitcoin Will Help Boost Ecommerce Growth In Europe</h1><p>There are dedicated plans on the table to boost cross-border ecommerce in the European region over the next few years. The European Commission has drafted some new rules which address some of the most common hurdles when dealing with online commerce in Europe. This news can also be beneficial for Bitcoin adoption in the long run.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51b4b18ff2aca282f3882d1abcd1363180e72d84.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/05/28/bitcoin-boost-ecommerce-europe/</link>
             <guid isPermaLink="false">e16d0181-c2d9-43f8-b6c3-a8f26907767e</guid>
+            <pubDate>Sat, 28 May 2016 21:29:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Are People Looking up to Ethereum? - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Why Are People Looking up to Ethereum? - NEWSBTC</h1><p>Ethereum is gradually gaining popularity in the digital currency sector and beyond due to the features and benefits the protocol has to offer. Read more... The demand for Ether, the crypto token of Ethereum platform is increasing. The price of Ether has increased by over 10 times since the beginning of this year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f7442a05471b6f7c972c17eabdb4e861b8a0719.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/28/why-are-people-looking-up-to-ethereum/</link>
+            <guid isPermaLink="false">dd5ac49a-2b97-4697-822f-37a7029b2a5a</guid>
+            <pubDate>Sat, 28 May 2016 21:29:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kraken Announces a List of New Developments regarding Mt Gox, DAO and Namecoin - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Kraken Announces a List of New Developments regarding Mt Gox, DAO and Namecoin - NEWSBTC</h1><p>Kraken has announced some of the major changes in the Cryptocurrency industry, including an update on Mt Gox investigation, Namecoin, and support for DAO. It is good news for the victims of Mt Gox collapse as they might be seeing their long-lost bitcoins once again.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab41f85f29a40a56b2ee791d05f80a5be5db35c1.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/28/kraken-announces-a-list-of-new-developments-regarding-mt-gox-dao-and-namecoin/</link>
+            <guid isPermaLink="false">56ddaaef-c361-4a14-9774-c019aa02ccff</guid>
             <pubDate>Sat, 28 May 2016 21:29:11 GMT</pubDate>
         </item>
         <item>
@@ -47,34 +75,6 @@
             <link>https://www.cryptocoinsnews.com/bitcoin-price-nears-500/</link>
             <guid isPermaLink="false">68d810ba-804c-4f78-8991-bfc688cb9e91</guid>
             <pubDate>Sat, 28 May 2016 16:31:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[D10e to Deliver the First Blockchain Event With Virtual Reality]]></title>
-            <description><![CDATA[<article><h1>D10e to Deliver the First Blockchain Event With Virtual Reality</h1><p>Vancouver, B.C. - The Vanbex Group and d10e are proud to announce a new partnership between the Vancouver-based professional services firm and international conference hosts d10e. Disclaimer: This is a press release. Bitcoinist is not responsible for this firm's products and/or services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b370571ac0df8e6fe4b81ca0eb5be5dfad50529c.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/d10e-blockchain-virtual-reality/</link>
-            <guid isPermaLink="false">7761f87b-0204-46e2-9bca-c6454c1e5443</guid>
-            <pubDate>Sat, 28 May 2016 16:08:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Informational Report On The DAO - Last Day Of The Software Sale]]></title>
-            <description><![CDATA[<article><h1>Informational Report On The DAO - Last Day Of The Software Sale</h1><p>With the end of The DAO software sale approaching in less than an hour, its worth spending some time to look at the project in a level of detail that goes beyond, what is flying around in the media head lines.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3466ce56759bd85d837242f53c59edde1d142965.png"></article>]]></description>
-            <link>http://bravenewcoin.com/news/informational-report-on-the-dao-last-day-of-the-software-sale/</link>
-            <guid isPermaLink="false">00eeace0-fde9-4b1f-bcf5-3024bee99122</guid>
-            <pubDate>Sat, 28 May 2016 16:08:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Una pastelería venezolana acepta Bitcoin como alternativa al control de cambio]]></title>
-            <description><![CDATA[<article><h1>Una pastelería venezolana acepta Bitcoin como alternativa al control de cambio</h1><p>La venta de productos y servicios en bitcoins en Latinoamérica es una tendencia que va en aumento gracias a la facilidad en transacciones, pagos y de ahorro en cualquier tipo de cambio que ofrece la criptomoneda 5 minutos de lectura.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad4a7d76e6535e3b88f3c3b1b3fa7a59db18d8ee.jpg"></article>]]></description>
-            <link>http://www.diariobitcoin.com/index.php/2016/05/27/una-pasteleria-venezolana-acepta-bitcoins-como-alternativa-al-control-de-cambio/</link>
-            <guid isPermaLink="false">b53567c2-08bf-4a23-805a-9adf5deef51a</guid>
-            <pubDate>Sat, 28 May 2016 16:08:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coincheck Lets Users Buy The DAO Tokens With JPY]]></title>
-            <description><![CDATA[<article><h1>Coincheck Lets Users Buy The DAO Tokens With JPY</h1><p>More and more exchange platforms have announced they will add support for trading tokens related to The DAO. Coincheck will be the first Japanese exchange to do so, and users will be able to transfer their funds later today.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/78ae97475ed39771ec9f6295641f451b4e1788e1.png"></article>]]></description>
-            <link>http://themerkle.com/coincheck-lets-users-buy-the-dao-tokens-with-jpy/</link>
-            <guid isPermaLink="false">8bf62994-2710-4376-9ad5-888f899e8640</guid>
-            <pubDate>Sat, 28 May 2016 16:08:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
