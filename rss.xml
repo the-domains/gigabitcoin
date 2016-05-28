@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 04:33:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2016 05:09:40 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[KNC Miner Declares Bankruptcy - Chinese Competition Too Tough - Swedish Startup Space]]></title>
+            <description><![CDATA[<article><h1>KNC Miner Declares Bankruptcy - Chinese Competition Too Tough - Swedish Startup Space</h1><p>In a press release issued late Friday evening Swedish time, the Swedish bitcoin company KNC Miner informs that it has officially filed for bankruptcy. Breakit has previously reported on the company's difficulties with increasing competition from China. In February, the company laid off somewhere around ten full time employees, which constitutes a fifth of it's total workforce, [...]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/291895af4245321f9e8b47d319509dc998743c45.jpg"></article>]]></description>
+            <link>http://swedishstartupspace.com/2016/05/27/knc-miner-declares-bankruptcy-chinese-competition-too-tough/</link>
+            <guid isPermaLink="false">cd24c537-28b6-423b-a6c3-349d51a58dc8</guid>
+            <pubDate>Sat, 28 May 2016 05:09:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Judge Tosses Evidence Gathered by FBI's Tor Exploit]]></title>
             <description><![CDATA[<article><h1>Judge Tosses Evidence Gathered by FBI's Tor Exploit</h1><p>The FBI's refusal to share details about a network investigative technique it used to gather evidence against a Vancouver teacher charged with possession of child pornography has forced a federal judge's hand to exclude the evidence from trial.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae40933c97b9251a1b400d88188cbf88e305b4f0.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Why the Global Economy Needs Open Blockchain Assets to Fight Negative Interest Rates</h1><p>The world economy is in a fascinating period. It is an encouraging time for those hopeful about Bitcoin and other open blockchain-based systems, but many high-level decision-makers still must be persuaded of this technology's global impact. The United States seems to be doing fine in the aftermath of 2008's Great Recession.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e291039e0ee8c2c4d6b583a606cf18fb0582c804.jpg"></article>]]></description>
             <link>https://bitcoinmagazine.com/articles/why-the-global-economy-needs-open-blockchain-assets-to-fight-negative-interest-rates-1464364990</link>
             <guid isPermaLink="false">bedfc065-aaed-4141-bad9-7eb015929639</guid>
-            <pubDate>Fri, 27 May 2016 23:25:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Soars Toward $500 On Back Of Weakening Chinese Yuan]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Soars Toward $500 On Back Of Weakening Chinese Yuan</h1><p>The price of a single bitcoin has surged in the last 24 hours, hitting a 20-month high as a result of stronger demand from China, where a devalued yuan has seen investors looking to overcome currency controls. Since just after 4 a.m.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aeb3e0b12cc37e013fea3ca36192add3f43f6bae.jpg"></article>]]></description>
-            <link>http://www.ibtimes.com/bitcoin-price-soars-toward-500-back-weakening-chinese-yuan-2375110</link>
-            <guid isPermaLink="false">1c716803-5135-4404-94e1-8ae1ab84b6d3</guid>
             <pubDate>Fri, 27 May 2016 23:25:56 GMT</pubDate>
         </item>
     </channel>
