@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 01:09:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2016 04:33:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Slock.it Retracts Its DAO.Security Proposal, Presents A New Thinner Version]]></title>
+            <description><![CDATA[<article><h1>Slock.it Retracts Its DAO.Security Proposal, Presents A New Thinner Version</h1><p>Slock.it has acknowledged the negative feedback that its first proposal received, the German startup has decided to present a new, thinner version. Slock.it will update the DAO general framework for free, and the security team has been reduced to only one member.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9af8db719972f083b3fa9e7731bffb68fede9fea.jpg"></article>]]></description>
+            <link>http://themerkle.com/slock-it-retracts-its-dao-security-proposal-presents-a-new-thinner-version/</link>
+            <guid isPermaLink="false">2abb65e0-8bf5-4687-b841-35da989e30de</guid>
+            <pubDate>Sat, 28 May 2016 04:33:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Miami money-laundering case may define whether Bitcoin is really money]]></title>
             <description><![CDATA[<article><h1>Miami money-laundering case may define whether Bitcoin is really money</h1><p>In a Miami money laundering case that is being closely watched around the world, an economics professor took to the witness stand Friday to offer a tutorial on the widely known, if poorly understood, virtual currency known as Bitcoin. The takeaway: Bitcoin isn't really money, professor Charles Evans said.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/695f11dc50ddcaababaf53e4267fb6514af4ce3b.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Mt.Gox Bankruptcy Trustee Says All Claims Have Been Reviewed</h1><p>In yesterday's highly-anticipated Creditor Meeting in Tokyo, Mt.Gox Bankruptcy Trustee Nobuaki Kobayashi revealed that 24,750 claims have been filed so far. According to Kraken's blog post, one claimant's outlandish attempt to get ¥260,000,000,000,000 ($2,366,218,400,000) was rejected.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d9ca1ba637b64e90e1580fcc046ac24cc5b9df5.png"></article>]]></description>
             <link>http://themerkle.com/mt-gox-bankruptcy-trustee-says-all-claims-have-been-reviewed/</link>
             <guid isPermaLink="false">300a4eb6-08b0-4bdd-b837-5acdbf1ed57e</guid>
-            <pubDate>Fri, 27 May 2016 23:25:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Hits Six-Month High Amid 5% Surge - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Hits Six-Month High Amid 5% Surge - CoinDesk</h1><p>Bitcoin prices surged more than 5% in the early hours of 27th May, to reach a more than six-month high that saw the digital currency breaking out of the relative calm it had experienced in the last several sessions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79b9c0422f2e0664110b2573e5a8da7608540e72.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/bitcoin-price-six-month-high-5-surge/</link>
-            <guid isPermaLink="false">ea9541d5-3b1c-441d-9aba-ce3efdd4e7bf</guid>
             <pubDate>Fri, 27 May 2016 23:25:55 GMT</pubDate>
         </item>
     </channel>
