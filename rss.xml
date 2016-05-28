@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 04:33:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2016 04:33:28 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Russia Considers Banning Bitcoin And Creating A Knockoff]]></title>
+            <description><![CDATA[<article><h1>Russia Considers Banning Bitcoin And Creating A Knockoff</h1><p>The Russian government isn't just considering a move to make bitcoin use illegal. It wants Russia to replace it with its own knockoff digital currency. A report Friday in Russia's Kommersant newspaper, citing Paul Livadniy, deputy director of the Rosfinmonitoring, Russia's federal anti-money laundering agency, said that Russia was moving ahead with a controversial plan to create a government-sponsored and monitored digital currency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7adcf7ed4c1088cd10ae2fd6409362dd1e817ba4.png"></article>]]></description>
+            <link>http://www.vocativ.com/323435/russia-bitcoin-ban/</link>
+            <guid isPermaLink="false">10d9744d-d1ad-4ef0-8b8b-14306fc3eb04</guid>
+            <pubDate>Sat, 28 May 2016 04:33:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Slock.it Retracts Its DAO.Security Proposal, Presents A New Thinner Version]]></title>
             <description><![CDATA[<article><h1>Slock.it Retracts Its DAO.Security Proposal, Presents A New Thinner Version</h1><p>Slock.it has acknowledged the negative feedback that its first proposal received, the German startup has decided to present a new, thinner version. Slock.it will update the DAO general framework for free, and the security team has been reduced to only one member.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9af8db719972f083b3fa9e7731bffb68fede9fea.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://bitcoinist.net/mbit-casino-ledger-giveaway/</link>
             <guid isPermaLink="false">d451b29c-0580-4634-b441-95d40232c239</guid>
             <pubDate>Fri, 27 May 2016 23:25:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mt.Gox Bankruptcy Trustee Says All Claims Have Been Reviewed]]></title>
-            <description><![CDATA[<article><h1>Mt.Gox Bankruptcy Trustee Says All Claims Have Been Reviewed</h1><p>In yesterday's highly-anticipated Creditor Meeting in Tokyo, Mt.Gox Bankruptcy Trustee Nobuaki Kobayashi revealed that 24,750 claims have been filed so far. According to Kraken's blog post, one claimant's outlandish attempt to get ¥260,000,000,000,000 ($2,366,218,400,000) was rejected.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d9ca1ba637b64e90e1580fcc046ac24cc5b9df5.png"></article>]]></description>
-            <link>http://themerkle.com/mt-gox-bankruptcy-trustee-says-all-claims-have-been-reviewed/</link>
-            <guid isPermaLink="false">300a4eb6-08b0-4bdd-b837-5acdbf1ed57e</guid>
-            <pubDate>Fri, 27 May 2016 23:25:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
