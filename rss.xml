@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 21:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2016 21:29:49 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Prescrypt Brings Medical Prescriptions to the Blockchain]]></title>
-            <description><![CDATA[<article><h1>Prescrypt Brings Medical Prescriptions to the Blockchain</h1><p>The Director of the Dutch-based Also read: Bitcoin 2016 : 'There Has Been an Awakening...' REshape Center for Innovation Lucien Engelen recently announced a blockchain-based prototype with SNS Bank N.V. and Deloitte. This proof-of-concept, called is an initiative that makes it easier for people with chronic illnesses to acquire prescriptions that are securely ensured and immutable on a distributed ledger.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/774f719e6e9c2365ab4a00a6e870710f6736c87b.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/prescrypt-blockchain-prescriptions/</link>
-            <guid isPermaLink="false">72b8a204-8d56-475b-b22e-41bc89afc560</guid>
-            <pubDate>Sat, 28 May 2016 21:29:11 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Santander Uses Ripple Blockchain Tech for International Payments]]></title>
             <description><![CDATA[<article><h1>Santander Uses Ripple Blockchain Tech for International Payments</h1><p>Santander has begun using an app for international payments using Ripple Labs' blockchain technology, according to Ripple on its Ripple Insights website. The pilot app makes Santander the first U.K. bank to use Ripple technology for cross-border payments. Santander is introducing the app as a staff pilot, with the intention to expand the technology.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/120b8aeddff9eabf3e6f83e0b7aba1ea79f1375c.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>The DAO Trading Temporarily Halted At Poloniex Due To Delayed Deposits</h1><p>Today has been quite an exciting day for The DAO enthusiasts, as various exchanges have opened their trading markets for this token. Poloniex is the biggest market, albeit they have run into some trouble already. Things were looking quite good for traders of token, as Poloniex was one of the first platforms to open the trading markets.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e00d060643bdd00d7a33058a423159630789048.jpg"></article>]]></description>
             <link>http://themerkle.com/the-dao-trading-temporarily-halted-at-poloniex-due-to-delayed-deposits/</link>
             <guid isPermaLink="false">8c50d81f-7172-4b2c-860b-6177e6c1ff4d</guid>
+            <pubDate>Sat, 28 May 2016 21:29:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The DAO Trading Resumed At Poloniex After Delayed Deposits]]></title>
+            <description><![CDATA[<article><h1>The DAO Trading Resumed At Poloniex After Delayed Deposits</h1><p>UPDATE: Trading has been resumed! Today has been quite an exciting day for The DAO enthusiasts, as various exchanges have opened their trading markets for this token. Poloniex is the biggest market, albeit they have run into some trouble already.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e00d060643bdd00d7a33058a423159630789048.jpg"></article>]]></description>
+            <link>http://themerkle.com/the-dao-trading-resumed-at-poloniex-after-delayed-deposits/</link>
+            <guid isPermaLink="false">f0f21cdc-a3d1-4042-95ec-123ceba578c8</guid>
             <pubDate>Sat, 28 May 2016 21:29:10 GMT</pubDate>
         </item>
     </channel>
