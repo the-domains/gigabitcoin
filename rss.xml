@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 05:27:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 05:27:47 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ernst & Young $16 million Bitcoin auction]]></title>
+            <description><![CDATA[<article><h1>Ernst & Young $16 million Bitcoin auction</h1><p>Around $16 million worth of Bitcoin is up for auction in Sydney next month after they were confiscated as proceeds of crime last year. Ernst & Young will facilitate the first Bitcoin sale process of its kind in Australia and only the second globally.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/778ff6fcf4cfebddd8ca1b5b1b5643eff7852667.jpg"></article>]]></description>
+            <link>http://www.afr.com/technology/ernst--young-16-million-bitcoin-auction-20160527-gp53i0</link>
+            <guid isPermaLink="false">036fa31b-77f2-4a5c-a962-d59a9f673dfe</guid>
+            <pubDate>Sun, 29 May 2016 05:27:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Weekly Analysis - Big Picture For BTC/USD? - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Weekly Analysis - Big Picture For BTC/USD? - NEWSBTC</h1><p>Bitcoin price looks bullish on a higher timeframe chart like the weekly chart, but the BTC bulls must capitalize and take it higher. Bitcoin price looks bullish on a higher timeframe chart like the weekly chart, but the BTC bulls must capitalize and take it higher.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/274c6fa8b2ac817e4eaf9810a9578351f56dc491.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>A Framework for Identity - CoinDesk</h1><p>Dan Elitzer is a member of the IDEO coLAB, a shared platform to discover and act on the potential of new technologies, with current focuses on blockchain, digital identity, and IoT. In this op-ed, Elitzer fleshes out a framework for how a digital identity system should function based on work performed by the IDEO coLAB team.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3cdfb6ba37f4d0910d8b091854b35acae1dcd79.jpg"></article>]]></description>
             <link>http://www.coindesk.com/a-framework-for-identity/</link>
             <guid isPermaLink="false">df9d2aec-0fb8-44c2-974e-1e532d7b18cd</guid>
-            <pubDate>Sat, 28 May 2016 21:29:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Exchange Rate Going Up, Targeting $500+ USD]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Exchange Rate Going Up, Targeting $500+ USD</h1><p>The Bitcoin exchange rate has jumped significantly going all the way up to $500 USD on many EU and US-based exchanges and skyrocketing even higher on some Asian exchanges. The jump seems to be caused mostly the Chinese BTC markets driving the price up as as the national currency apparently suffers another devaluation and people are moving to investing their money in Bitcoins.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a008e58415e772458e44b15580b695b76ed67fa1.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7877-bitcoin-exchange-rate-going-up-targeting-500-usd/</link>
-            <guid isPermaLink="false">fe236dc0-e21c-42d3-bf2f-1d5b87aaae45</guid>
             <pubDate>Sat, 28 May 2016 21:29:12 GMT</pubDate>
         </item>
     </channel>
