@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 00:04:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 00:04:17 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Edward F Butler - Bank Heist Debut]]></title>
+            <description><![CDATA[<article><h1>Edward F Butler - Bank Heist Debut</h1><p>Unofficial Music Video. Music by: Edward F Butler. Sources: -Blockchain Summit 2015 (https://www.youtube.com/watch?v=DqKSCV73Mbo) -Wall Street Lapse (https://www.youtube.com/watch?v=dWGVSo4kOmA) -Venezuela: A nation on the brink (https://www.youtube.com/watch?v=n4zNU6ciJM8)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/712480ee8d9a66237b5d3f8ce4a6db5c6b9d94a0.jpg"></article>]]></description>
+            <link>http://www.youtube.com/watch?v=Q6aDDZgajVY</link>
+            <guid isPermaLink="false">192a448c-0c80-44e9-9908-4f5562e533c2</guid>
+            <pubDate>Sun, 29 May 2016 00:04:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ransomware Developers Offer Support To Help Pay Bitcoin Fee]]></title>
             <description><![CDATA[<article><h1>Ransomware Developers Offer Support To Help Pay Bitcoin Fee</h1><p>Ransomware is a constant threat looking over our shoulders, and it sounds like internet criminals have once again upped the ante. Now that this business has become so very lucrative, cyber crooks have taken it upon themselves to provide a support page to affected victims. The way these support pages works is to guide affected users through the payment protocol.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a426500e0397befc28fbe73376cb57011818fdc.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Updated ccMiner 1.8-dev fork by tpruvot With SM 6.0 and CUDA 8.0</h1><p>Here comes another interesting update of ccMiner from tpruvot with a new Windows binary of the latest ccMiner 1.8-dev ( source) that comes with Compute 6 (SM 6.0) and CUDA 8.0 support in time for the availability of the new Nvidia GeForce GTX 1080 and 1070 GPUs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d082db8028c39747c19c2f27ed3e4d167613a0e.jpg"></article>]]></description>
             <link>http://cryptomining-blog.com/7880-updated-ccminer-1-8-dev-fork-by-tpruvot-with-sm-6-0-and-cuda-8-0/</link>
             <guid isPermaLink="false">fa8389e3-7089-4c9d-8207-cc72baafee49</guid>
-            <pubDate>Sat, 28 May 2016 21:29:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Will Help Boost Ecommerce Growth In Europe]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Will Help Boost Ecommerce Growth In Europe</h1><p>There are dedicated plans on the table to boost cross-border ecommerce in the European region over the next few years. The European Commission has drafted some new rules which address some of the most common hurdles when dealing with online commerce in Europe. This news can also be beneficial for Bitcoin adoption in the long run.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51b4b18ff2aca282f3882d1abcd1363180e72d84.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/28/bitcoin-boost-ecommerce-europe/</link>
-            <guid isPermaLink="false">e16d0181-c2d9-43f8-b6c3-a8f26907767e</guid>
             <pubDate>Sat, 28 May 2016 21:29:11 GMT</pubDate>
         </item>
     </channel>
