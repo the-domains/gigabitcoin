@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 15:51:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 15:51:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA['Guinea Pig' Money Laundering Case May Decide Bitcoin's Legal Status]]></title>
+            <description><![CDATA[<article><h1>'Guinea Pig' Money Laundering Case May Decide Bitcoin's Legal Status</h1><p>Is it possible to be laundering money with Bitcoin if it's not legally considered money? A court case in Florida may be about to give us an answer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/36f4412ad12259bc90e398b72ebcc13753fd2d42.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/laundering-case-bitcoin-legal-status/</link>
+            <guid isPermaLink="false">5f143c39-391c-41a6-b2b0-b23661bf9933</guid>
+            <pubDate>Sun, 29 May 2016 15:51:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NewsBTC Infographics Q1 2016 - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>NewsBTC Infographics Q1 2016 - NEWSBTC</h1><p>Bitcoin is rallying at the moment with a price of $520 USD on Bitstamp , 3786 CNY on Huobi , and €465 via Kraken at the time of this writing. No one knows what's actually causing the surge accept there is heavy buying and strong volume coming from China.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca8953b2dc63f288025f4a55cacd0a21b13c6243.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.quora.com/What-kind-of-SAAS-business-can-be-built-on-blockchain-technologies</link>
             <guid isPermaLink="false">972f7180-e5e4-4b5e-ad92-4ec97fbfeaca</guid>
             <pubDate>Sun, 29 May 2016 02:12:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Edward F Butler - Bank Heist Debut]]></title>
-            <description><![CDATA[<article><h1>Edward F Butler - Bank Heist Debut</h1><p>Unofficial Music Video. Music by: Edward F Butler. Sources: -Blockchain Summit 2015 (https://www.youtube.com/watch?v=DqKSCV73Mbo) -Wall Street Lapse (https://www.youtube.com/watch?v=dWGVSo4kOmA) -Venezuela: A nation on the brink (https://www.youtube.com/watch?v=n4zNU6ciJM8)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/712480ee8d9a66237b5d3f8ce4a6db5c6b9d94a0.jpg"></article>]]></description>
-            <link>http://www.youtube.com/watch?v=Q6aDDZgajVY</link>
-            <guid isPermaLink="false">192a448c-0c80-44e9-9908-4f5562e533c2</guid>
-            <pubDate>Sun, 29 May 2016 00:04:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
