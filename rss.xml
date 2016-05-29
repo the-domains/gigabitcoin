@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 17:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 17:12:23 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BitLicense Has Done More Good Than Bad to the Bitcoin Sector - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>BitLicense Has Done More Good Than Bad to the Bitcoin Sector - NEWSBTC</h1><p>BitLicense, introduced in the New York state did more harm than good to the digital currency technology industry. Other governments intend to avoid making the same mistakes. Read more... When BitLicense was introduced, it was hailed as a defining moment, where the government-less and regulation-less cryptocurrency platforms meet regulatory machinery set up by governments and centralized organizations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe69710b3192efe55d4d1d8c11c47d5f325aea93.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/29/bitlicense-did-good-by-bitcoin-sector/</link>
+            <guid isPermaLink="false">99188004-7ffc-46a2-9bd0-8dedf12ac7a1</guid>
+            <pubDate>Sun, 29 May 2016 17:11:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How do I set up a news publication on Ethereum?]]></title>
             <description><![CDATA[<article><h1>How do I set up a news publication on Ethereum?</h1><p>I was thinking of creating a news outlet and was wondering if anyone knew how to set up a website on Ethereum. I hear it'd be a smart place to set up a publication but I have no clue how to code.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Market Cap Above $8 Billion as Price Crosses $520 | Finance Magnates</h1><p>The world's leading cryptocurrency, Bitcoin, has marked another important milestone today with regard to market valuation. The total capitalization of all bitcoins in existence is now well over $8 billion again, a benchmark not seen since July 2014.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5c645c058a5e804b4b71bac31c8282fdfc248d9.jpg"></article>]]></description>
             <link>http://www.financemagnates.com/cryptocurrency/trading/bitcoin-market-cap-above-8-billion-as-price-crosses-520/</link>
             <guid isPermaLink="false">c25c010d-d09b-47ed-b5cb-c4cb2d7ceccb</guid>
-            <pubDate>Sun, 29 May 2016 15:51:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Revisiting The Bitcloak Bitcoin Mixing Service]]></title>
-            <description><![CDATA[<article><h1>Revisiting The Bitcloak Bitcoin Mixing Service</h1><p>The primary purpose of a Bitcoin mixing service is to provide additional anonymity and privacy to its users. Bitcloak is a new mixing service trying to make a name for itself, and it looks like some things have changed since its initial launch in February of 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b6c37fb398a0500f9b1b6c18fb3635e03536416.jpg"></article>]]></description>
-            <link>http://themerkle.com/revisiting-the-bitcloak-bitcoin-mixing-service/</link>
-            <guid isPermaLink="false">33a7780f-ab0e-46ae-b0b0-261ac5e27c01</guid>
             <pubDate>Sun, 29 May 2016 15:51:19 GMT</pubDate>
         </item>
     </channel>
