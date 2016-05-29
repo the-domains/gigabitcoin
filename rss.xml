@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 17:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 17:12:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[London Workshop Explores Benefits and Challenges of Blockchain for Identity - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>London Workshop Explores Benefits and Challenges of Blockchain for Identity - CoinDesk</h1><p>The Identity & KYC conference in London hosted a workshop on using blockchain technology to improve know-your-customer processes earlier this week. Led by blockchain compliance consultant Siân Jones, the workshop was attended by a group drawn from banks, financial institutions, startups and regulators.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05d9f13134e027876d85ad99ebdefb9cec327516.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/benefits-challenges-blockchain-identity/</link>
+            <guid isPermaLink="false">59246a37-cd08-48b8-a51d-3a16a4172f6e</guid>
+            <pubDate>Sun, 29 May 2016 17:11:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BitLicense Has Done More Good Than Bad to the Bitcoin Sector - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>BitLicense Has Done More Good Than Bad to the Bitcoin Sector - NEWSBTC</h1><p>BitLicense, introduced in the New York state did more harm than good to the digital currency technology industry. Other governments intend to avoid making the same mistakes. Read more... When BitLicense was introduced, it was hailed as a defining moment, where the government-less and regulation-less cryptocurrency platforms meet regulatory machinery set up by governments and centralized organizations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe69710b3192efe55d4d1d8c11c47d5f325aea93.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.newsbtc.com/2016/05/29/bitcoin-coming-online-casinos/</link>
             <guid isPermaLink="false">b26faf71-a149-4bc5-8c6e-1db1ec7fb3de</guid>
             <pubDate>Sun, 29 May 2016 15:51:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Market Cap Above $8 Billion as Price Crosses $520 | Finance Magnates]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Market Cap Above $8 Billion as Price Crosses $520 | Finance Magnates</h1><p>The world's leading cryptocurrency, Bitcoin, has marked another important milestone today with regard to market valuation. The total capitalization of all bitcoins in existence is now well over $8 billion again, a benchmark not seen since July 2014.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5c645c058a5e804b4b71bac31c8282fdfc248d9.jpg"></article>]]></description>
-            <link>http://www.financemagnates.com/cryptocurrency/trading/bitcoin-market-cap-above-8-billion-as-price-crosses-520/</link>
-            <guid isPermaLink="false">c25c010d-d09b-47ed-b5cb-c4cb2d7ceccb</guid>
-            <pubDate>Sun, 29 May 2016 15:51:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
