@@ -4,20 +4,13 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 17:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 17:12:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Google Just Murdered 99Satoshis...(Bitcoin Faucet Update)]]></title>
             <description><![CDATA[<article><h1>Google Just Murdered 99Satoshis...(Bitcoin Faucet Update)</h1><p>Share on Facebook Share on Twitter Share on Google+ Share on LinkedIn+It is with a sad heart that I declare the premature death of 99Satoshis who was only 2 weeks old. 99Satoshis died from a Google Adsense ban on May 13th 2016. May he rest in peace...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3482f465801d2a7a62949724f8092d51a932a34.png"></article>]]></description>
             <link>https://99bitcoins.com/google-just-murdered-99satoshis/</link>
             <guid isPermaLink="false">08bea1ca-5726-4350-8183-eadd1e133c5d</guid>
-            <pubDate>Sun, 29 May 2016 17:11:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New sgminer fork With X11 Evo Algorithm Support]]></title>
-            <description><![CDATA[<article><h1>New sgminer fork With X11 Evo Algorithm Support</h1><p>There is now an sgminer fork for GPU mining Revolvercoin (XRE) that uses a new X11 Evo algorithm ( source) for AMD GPUs. The new X11 Evo algorithm comes as a solution to the already available ASIC miners for the standard X11 algorithm, meaning that X11 Evo is only CPU and GPU mineable for the moment, though CPU mining with a GPU miner available is not very reasonable.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1e7edfbfd49d2dd0d18db431156b7b7589813fc.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7885-new-sgminer-fork-with-x11-evo-algorithm-support/</link>
-            <guid isPermaLink="false">adae0df3-e4c9-4fb1-bc57-7f481c834597</guid>
             <pubDate>Sun, 29 May 2016 17:11:42 GMT</pubDate>
         </item>
         <item>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Surging Bitcoin Price Is Appealing To Chinese Depositors</h1><p>It has been a pretty stellar weekend for Bitcoin enthusiasts all over the world so far, as the price keeps going up and there is no end in sight. Albeit some resistance has been made at an earlier peak, the Chinese market keeps driving the demand for Bitcoin to new heights.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/247da6bfce4f182abd1009f0d385c319c5df41d1.jpg"></article>]]></description>
             <link>http://themerkle.com/surging-bitcoin-price-is-appealing-to-chinese-depositors/</link>
             <guid isPermaLink="false">9d770b04-9c2d-46f7-bd89-1377b1a38160</guid>
+            <pubDate>Sun, 29 May 2016 15:51:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tierion Launches API to Anchor Data in Bitcoin Blockchain - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Tierion Launches API to Anchor Data in Bitcoin Blockchain - NEWSBTC</h1><p>Tierion has announced the launch of its latest API last week. The new high-performance API can be used to anchor data in the blockchain. Read more... The Hartford, Connecticut-based blockchain company, Tierion has announced the launch of its latest API last week.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e05303f335fc11ad6238101f19d75268b845e8fe.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/29/tierion-api-to-anchor-data-on-blockchain/</link>
+            <guid isPermaLink="false">4f7cb80c-9de8-4b49-b66d-1a80fa356beb</guid>
             <pubDate>Sun, 29 May 2016 15:51:20 GMT</pubDate>
         </item>
     </channel>
