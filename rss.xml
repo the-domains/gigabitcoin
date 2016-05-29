@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 20:54:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 20:54:58 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why Dutch Bank ABN Amro Wants to Separate Bitcoin from the Blockchain - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Why Dutch Bank ABN Amro Wants to Separate Bitcoin from the Blockchain - CoinDesk</h1><p>For ABN Amro's director of transaction banking, the company's strategy on blockchain tech can be best described with an analogy to the restaurant industry. If you were looking to enter the business, Karin Kersten argues, you might first invest in a restaurant.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44d9ae9b33a7db7bce293a7ba8aee5d03735fb91.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/dutch-bank-abn-amro-bitcoin-blockchain/</link>
+            <guid isPermaLink="false">8c1533a1-fd0b-4a7b-a328-7e58cf694288</guid>
+            <pubDate>Sun, 29 May 2016 20:54:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Technology Used By The DAO Contains Critical Flaws]]></title>
+            <description><![CDATA[<article><h1>Technology Used By The DAO Contains Critical Flaws</h1><p>All of these vulnerabilities come forth from unintended consequences of the project's underlying mechanism. Albeit The DAO has been attracting a lot of funds from investors during its crowdsale, it appears there are some fundamental issues with the concept which needs to be addressed. According to a recent study, there are multiple reasons for concern.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be83109e5cfe835ffb8dc770311a65fcc25aa6dd.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/29/dao-technology-flaws/</link>
+            <guid isPermaLink="false">71f0f6c9-279c-4f7a-8dca-05f548718925</guid>
+            <pubDate>Sun, 29 May 2016 20:54:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Telegram with Bitcoin integrated by StartChat Tech]]></title>
             <description><![CDATA[<article><h1>Telegram with Bitcoin integrated by StartChat Tech</h1><p>StartChat combines the backend encryption of Telegram with the convenience of 2-click Bitcoin transactions and wallet currencies conversions display such as $USD, EURO, GBP, Ruble, Yen. Apple Touch ID and Pin Code as security feature. No wallet info needed to send bitcoin transactions to contacts. Its user-friendly and automated, just like sending a picture.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44ecfca1fdd83cfb6332cb994b768f8130afc75d.png"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>London Workshop Explores Benefits and Challenges of Blockchain for Identity - CoinDesk</h1><p>The Identity & KYC conference in London hosted a workshop on using blockchain technology to improve know-your-customer processes earlier this week. Led by blockchain compliance consultant Siân Jones, the workshop was attended by a group drawn from banks, financial institutions, startups and regulators.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05d9f13134e027876d85ad99ebdefb9cec327516.jpg"></article>]]></description>
             <link>http://www.coindesk.com/benefits-challenges-blockchain-identity/</link>
             <guid isPermaLink="false">59246a37-cd08-48b8-a51d-3a16a4172f6e</guid>
-            <pubDate>Sun, 29 May 2016 17:11:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BitLicense Has Done More Good Than Bad to the Bitcoin Sector - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>BitLicense Has Done More Good Than Bad to the Bitcoin Sector - NEWSBTC</h1><p>BitLicense, introduced in the New York state did more harm than good to the digital currency technology industry. Other governments intend to avoid making the same mistakes. Read more... When BitLicense was introduced, it was hailed as a defining moment, where the government-less and regulation-less cryptocurrency platforms meet regulatory machinery set up by governments and centralized organizations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe69710b3192efe55d4d1d8c11c47d5f325aea93.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/29/bitlicense-did-good-by-bitcoin-sector/</link>
-            <guid isPermaLink="false">99188004-7ffc-46a2-9bd0-8dedf12ac7a1</guid>
-            <pubDate>Sun, 29 May 2016 17:11:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How do I set up a news publication on Ethereum?]]></title>
-            <description><![CDATA[<article><h1>How do I set up a news publication on Ethereum?</h1><p>I was thinking of creating a news outlet and was wondering if anyone knew how to set up a website on Ethereum. I hear it'd be a smart place to set up a publication but I have no clue how to code.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/unanswered/How-do-I-set-up-a-news-publication-on-Ethereum</link>
-            <guid isPermaLink="false">5f6b2fc7-5986-4303-a200-1cbcb433b92c</guid>
             <pubDate>Sun, 29 May 2016 17:11:42 GMT</pubDate>
         </item>
     </channel>
