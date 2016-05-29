@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 15:51:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 15:51:35 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Cryptospace News Digest, May 22 - 29]]></title>
-            <description><![CDATA[<article><h1>Cryptospace News Digest, May 22 - 29</h1><p>This week's ForkLog overview features new price records of Bitcoin, the launch of Lisk and the completion of The DAO's crowdsale, new announcements from Russian officials as to cryptocurrencies and blockchain technology, and some results of the recent Fintech Week Kyiv. This week, Bitcoin broke 2016 price record surpassing $500 for a short while.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf90ebd1160e12250d261f910421bc7ce226b209.jpg"></article>]]></description>
-            <link>http://forklog.net/cryptospace-news-digest-may-22-29/</link>
-            <guid isPermaLink="false">466fa752-5cee-40a4-a198-3a5e12540058</guid>
-            <pubDate>Sun, 29 May 2016 15:51:19 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[The DAO Mathematics: 1+1 is Actually More Than 2]]></title>
             <description><![CDATA[<article><h1>The DAO Mathematics: 1+1 is Actually More Than 2</h1><p>Backfeed, an open-source startup that develops a social operating system for decentralized organizations, suggests possible solutions for DAO problems. Julian Feder of Backfeed writes: "We felt about DAO's the same way normal people feel about unicorns and UFO's, and at last, contact is established, disclosure may begin."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ccc124ccbbd858982156ab6fce4db6c89e45641.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>'Guinea Pig' Money Laundering Case May Decide Bitcoin's Legal Status</h1><p>Is it possible to be laundering money with Bitcoin if it's not legally considered money? A court case in Florida may be about to give us an answer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/36f4412ad12259bc90e398b72ebcc13753fd2d42.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/laundering-case-bitcoin-legal-status/</link>
             <guid isPermaLink="false">5f143c39-391c-41a6-b2b0-b23661bf9933</guid>
+            <pubDate>Sun, 29 May 2016 15:51:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NewsBTC Infographics Q1 2016 - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>NewsBTC Infographics Q1 2016 - NEWSBTC</h1><p>Bitcoin is rallying at the moment with a price of $520 USD on Bitstamp , 3786 CNY on Huobi , and €465 via Kraken at the time of this writing. No one knows what's actually causing the surge accept there is heavy buying and strong volume coming from China.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca8953b2dc63f288025f4a55cacd0a21b13c6243.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/29/newsbtc-infographics-q1-2016/</link>
+            <guid isPermaLink="false">f0e5c87e-ca28-48d2-9299-c1caeeb1f0c9</guid>
             <pubDate>Sun, 29 May 2016 15:51:18 GMT</pubDate>
         </item>
     </channel>
