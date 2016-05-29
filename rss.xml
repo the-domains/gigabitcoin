@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 20:54:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 20:54:59 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Altcoins Price Analysis (Week of May 29th): Ethereum, Litecoin and DASH]]></title>
+            <description><![CDATA[<article><h1>Altcoins Price Analysis (Week of May 29th): Ethereum, Litecoin and DASH</h1><p>The past week waas a week of altcoin trends. Will the current trends continue, or are they going to turn about? Ethereum has reached the minimal target of the medium-term correction. Trading on that level can provoke a continued fall of Ethereum's price. Ethereum's price is at a key level, where the downward movement can be disrupted.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15fa7a098060b3f6026a561168b02f0722c82ab9.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/altcoins-price-analysis-week-of-may-29th-ethereum-litecoin-and-dash</link>
+            <guid isPermaLink="false">fa2e9e6d-00ce-45a4-939a-fd0e5cc66b98</guid>
+            <pubDate>Sun, 29 May 2016 20:54:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Dutch Bank ABN Amro Wants to Separate Bitcoin from the Blockchain - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Why Dutch Bank ABN Amro Wants to Separate Bitcoin from the Blockchain - CoinDesk</h1><p>For ABN Amro's director of transaction banking, the company's strategy on blockchain tech can be best described with an analogy to the restaurant industry. If you were looking to enter the business, Karin Kersten argues, you might first invest in a restaurant.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44d9ae9b33a7db7bce293a7ba8aee5d03735fb91.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>New sgminer fork With X11 Evo Algorithm Support</h1><p>There is now an sgminer fork for GPU mining Revolvercoin (XRE) that uses a new X11 Evo algorithm ( source) for AMD GPUs. The new X11 Evo algorithm comes as a solution to the already available ASIC miners for the standard X11 algorithm, meaning that X11 Evo is only CPU and GPU mineable for the moment, though CPU mining with a GPU miner available is not very reasonable.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1e7edfbfd49d2dd0d18db431156b7b7589813fc.jpg"></article>]]></description>
             <link>http://cryptomining-blog.com/7885-new-sgminer-fork-with-x11-evo-algorithm-support/</link>
             <guid isPermaLink="false">adae0df3-e4c9-4fb1-bc57-7f481c834597</guid>
-            <pubDate>Sun, 29 May 2016 17:11:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[London Workshop Explores Benefits and Challenges of Blockchain for Identity - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>London Workshop Explores Benefits and Challenges of Blockchain for Identity - CoinDesk</h1><p>The Identity & KYC conference in London hosted a workshop on using blockchain technology to improve know-your-customer processes earlier this week. Led by blockchain compliance consultant Siân Jones, the workshop was attended by a group drawn from banks, financial institutions, startups and regulators.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05d9f13134e027876d85ad99ebdefb9cec327516.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/benefits-challenges-blockchain-identity/</link>
-            <guid isPermaLink="false">59246a37-cd08-48b8-a51d-3a16a4172f6e</guid>
             <pubDate>Sun, 29 May 2016 17:11:42 GMT</pubDate>
         </item>
     </channel>
