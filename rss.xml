@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 22:08:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 22:08:17 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2016 Libertarian Candidate Continues Bitcoin Support]]></title>
+            <description><![CDATA[<article><h1>2016 Libertarian Candidate Continues Bitcoin Support</h1><p>Sunday saw Gary Johnson become the Libertarian Party candidate in the 2016 US presidential election - and Bitcoin is already on board for donations. Also read: New Yorkers Tout Blockchain at Libertarian Party Convention Johnson, who also stood in the 2012 race, is increasingly viewed as a "wild card" in this year's campaign, as voters attempt to sidestep the major party nominees.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/549235d380aec9719829fe128b681a15042b91d6.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/2016-libertarian-candidate-bitcoin/</link>
+            <guid isPermaLink="false">84c5e2eb-7af9-49e2-9460-58bd532ccf9b</guid>
+            <pubDate>Mon, 30 May 2016 22:07:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ernst & Young to auction $11.5M of seized bitcoin in Australia]]></title>
             <description><![CDATA[<article><h1>Ernst & Young to auction $11.5M of seized bitcoin in Australia</h1><p>Approximately $16 million AUD worth of bitcoin (or $11.5 million USD) seized as proceeds of crime last year will go on auction in Sydney in June, reported the Australian Financial Review. Ernst &am...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1007c80b08d61bb552c0a9161b5aeeb6b2218f80.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Nasdaq Financial Framework for Markets Includes Blockchain</h1><p>Nasdaq, a global provider of trading, clearing, exchange technology, listing, information and public company services, will launch a harmonized framework to provide solutions including blockchain to providers of financial infrastructures. Nasdaq will make its Nasdaq Financial Framework available to its 100-plus operator clients worldwide, which include exchanges, clearing houses, central securities depositories, alternative trading venues and interbroker dealers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/abf047ce50a883e8a86aafba966742cba563cfa9.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/nasdaq-financial-framework-for-markets-includes-blockchain/</link>
             <guid isPermaLink="false">c1a6e2a4-b5e5-48bd-a063-0222d5f28b29</guid>
-            <pubDate>Mon, 30 May 2016 19:05:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin exchange CoinCorner sponsors competitor in Isle of Man motorcycle race]]></title>
-            <description><![CDATA[<article><h1>Bitcoin exchange CoinCorner sponsors competitor in Isle of Man motorcycle race</h1><p>CoinCorner, a bitcoin exchange and web wallet provider based in the Isle of Man, is sponsoring New Zealand rider Bruce Anstey in this year's Isle of Man TT (Tourist Trophy) Races. This marks the se...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51ac882c4235863dafbe15b194b34fbc272a3daf.png"></article>]]></description>
-            <link>https://coinreport.net/bitcoin-exchange-coincorner-sponsors-competitor-isle-man-motorcycle-race/</link>
-            <guid isPermaLink="false">7ca9a5bd-adbe-4390-b984-aab7acc12001</guid>
             <pubDate>Mon, 30 May 2016 19:05:18 GMT</pubDate>
         </item>
     </channel>
