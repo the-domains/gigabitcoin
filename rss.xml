@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 19:05:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 19:05:28 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is the largest bitcoin forum?]]></title>
+            <description><![CDATA[<article><h1>What is the largest bitcoin forum?</h1><p>No! its not. We all are born in different families, cultures, financial status,abilities and disabilities,opportunities, lack of opportunities and what not. No two people have the same situation and yet we are pitched to face, survive and live in the same world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/What-is-the-largest-bitcoin-forum</link>
+            <guid isPermaLink="false">357ac4ad-d764-48cd-bc23-6bc6da8d1e14</guid>
+            <pubDate>Mon, 30 May 2016 19:05:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin exchange CoinCorner sponsors competitor in Isle of Man motorcycle race]]></title>
+            <description><![CDATA[<article><h1>Bitcoin exchange CoinCorner sponsors competitor in Isle of Man motorcycle race</h1><p>CoinCorner, a bitcoin exchange and web wallet provider based in the Isle of Man, is sponsoring New Zealand rider Bruce Anstey in this year's Isle of Man TT (Tourist Trophy) Races. This marks the se...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51ac882c4235863dafbe15b194b34fbc272a3daf.png"></article>]]></description>
+            <link>https://coinreport.net/bitcoin-exchange-coincorner-sponsors-competitor-isle-man-motorcycle-race/</link>
+            <guid isPermaLink="false">7ca9a5bd-adbe-4390-b984-aab7acc12001</guid>
+            <pubDate>Mon, 30 May 2016 19:05:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Economics professor Charles Evans says bitcoin isn't real money in Miami money-laundering case]]></title>
             <description><![CDATA[<article><h1>Economics professor Charles Evans says bitcoin isn't real money in Miami money-laundering case</h1><p>Barry University associate economics professor Charles Evans declared that bitcoin isn't real money in the money-laundering case against Michell Espinoza, International Business Times reported. Es...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb1597baa11398e4f87e02938cde86ad0b7ed9f7.png"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.newsbtc.com/2016/05/30/kenya-no-hurry-for-bitcoin/</link>
             <guid isPermaLink="false">1bdfde91-0006-4f4e-85e0-9d754ae8c889</guid>
             <pubDate>Mon, 30 May 2016 17:03:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2016-05-26]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-05-26</h1><p>Developers are working on a soft fork to introduce segregated witness onto Bitcoin mainnet. Segregated witness (segwit) allows transaction signature data to be stored outside of the data hashed to produce transaction identifiers, removing all known forms of third-party malleability, allowing full nodes to compile the current UTXO set without downloading all signatures, and laying the groundwork for fraud proofs that can allow lightweight (SPV) clients to help enforce more of the consensus rules.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/05/26/</link>
-            <guid isPermaLink="false">a925dce3-edbc-495a-b601-8dd1ec05590e</guid>
-            <pubDate>Mon, 30 May 2016 17:03:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Swedbank Creates Digital Banking Conglomerate]]></title>
-            <description><![CDATA[<article><h1>Swedbank Creates Digital Banking Conglomerate</h1><p>After the growing number of blockchain consortiums, some institutions have taken it upon themselves to create a digital banking group. Swedbank is leading the charge in this regard, as they want to try and tackle the mobile sector. It comes as no surprise to find out is looking to partner with other financial institutions and even fintech players in the coming months.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab2fd17bf77120d008b90533f7a84a4ac66c0814.jpg"></article>]]></description>
-            <link>http://themerkle.com/swedbank-creates-digital-banking-conglomerate/</link>
-            <guid isPermaLink="false">34ea7576-43bd-43d7-9d42-f734c72a3207</guid>
-            <pubDate>Mon, 30 May 2016 17:03:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
