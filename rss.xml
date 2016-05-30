@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 17:04:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 17:04:41 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2016-05-26]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-05-26</h1><p>Developers are working on a soft fork to introduce segregated witness onto Bitcoin mainnet. Segregated witness (segwit) allows transaction signature data to be stored outside of the data hashed to produce transaction identifiers, removing all known forms of third-party malleability, allowing full nodes to compile the current UTXO set without downloading all signatures, and laying the groundwork for fraud proofs that can allow lightweight (SPV) clients to help enforce more of the consensus rules.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/05/26/</link>
+            <guid isPermaLink="false">a925dce3-edbc-495a-b601-8dd1ec05590e</guid>
+            <pubDate>Mon, 30 May 2016 17:03:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Swedbank Creates Digital Banking Conglomerate]]></title>
             <description><![CDATA[<article><h1>Swedbank Creates Digital Banking Conglomerate</h1><p>After the growing number of blockchain consortiums, some institutions have taken it upon themselves to create a digital banking group. Swedbank is leading the charge in this regard, as they want to try and tackle the mobile sector. It comes as no surprise to find out is looking to partner with other financial institutions and even fintech players in the coming months.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab2fd17bf77120d008b90533f7a84a4ac66c0814.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>BTCCNY Price Technical Analysis for 05/30/2016 - Bulls Are Back! - NEWSBTC</h1><p>BTCCNY made such a strong climb on Friday that traders might be keen to book profits and spur a correction. BTCCNY Price Key Highlights BTCCNY made such a strong climb on Friday that traders might be keen to book profits and spur a correction.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8bdfc27ce019296496e5e4edc486cc5de9c05a0e.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/05/30/btccny-price-technical-analysis-05302016-bulls-back/</link>
             <guid isPermaLink="false">722cc2f3-0ee5-4585-abe9-4f3b708bafd6</guid>
-            <pubDate>Mon, 30 May 2016 15:18:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin climbs above $500 for first time since August 2014]]></title>
-            <description><![CDATA[<article><h1>Bitcoin climbs above $500 for first time since August 2014</h1><p>Investing.com - Investing.com - Bitcoin prices broke through the key $500-level for the first time in almost two years on Sunday, as investor confidence remained strong amid bullish chart signals. Prices of the virtual currency were supported by indications of strong volume growth in recent sessions due to increased trading activity in China, where a devalued yuan has seen investors search for alternative assets.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e66efd23df7abd8af33454c41df44854688e711.jpg"></article>]]></description>
-            <link>http://www.nasdaq.com/article/bitcoin-climbs-above-500-for-first-time-since-august-2014-cm627961</link>
-            <guid isPermaLink="false">b8dbe673-e8c7-46c2-a2af-ef292cd742b1</guid>
             <pubDate>Mon, 30 May 2016 15:18:21 GMT</pubDate>
         </item>
     </channel>
