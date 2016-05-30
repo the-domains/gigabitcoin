@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 15:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 15:23:08 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ethereum Price Weekly Analysis - Consolidation Or Indecision? - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Ethereum Price Weekly Analysis - Consolidation Or Indecision? - NEWSBTC</h1><p>Ethereum price started a correction after a monster decline. Can the price consolidate before gaining further or is this an indecision? Ethereum price started a correction after a monster decline. Can the price consolidate before gaining further or is this an indecision?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9123da00b00992d3c08306926baf331f78c7faf5.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/17/ethereum-price-weekly-analysis-consolidation-indecision/</link>
+            <guid isPermaLink="false">8699abb9-b18f-4edc-a197-a09098b0b20f</guid>
+            <pubDate>Mon, 30 May 2016 15:18:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BITCOIN NEWS, PRICE & ANALYSIS - NEWSBTC.COM]]></title>
             <description><![CDATA[<article><h1>BITCOIN NEWS, PRICE & ANALYSIS - NEWSBTC.COM</h1><p>NewsBTC is a Bitcoin news service that covers cryptocurrency news, technical analysis and forecasts for bitcoin, litecoin, dash, doge & digital currencies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43cfc6d43a55ea4f964a522ebe2781b17191ab0c.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.newsbtc.com/2016/04/18/ethereum-price-technical-analysis-can-eth-buyers-capitalize/</link>
             <guid isPermaLink="false">90391ce1-c3e0-424a-9bf2-f577e9793d93</guid>
             <pubDate>Mon, 30 May 2016 15:16:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BitPay Issues Coinbitclip Trojan Warning over Suspicious Bitcoin Transactions]]></title>
-            <description><![CDATA[<article><h1>BitPay Issues Coinbitclip Trojan Warning over Suspicious Bitcoin Transactions</h1><p>It is important to note this Trojan Horse has not infected any specific Bitcoin wallet or payment system at the time of writing, as it seems tailored towards affecting individual Windows users only. Bitcoin users always need to be on their toes when accessing their wallet or completing payments.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b26236766b965edceade81658ad76117308824ad.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/18/bitpay-issues-coinbitclip-trojan-warning-suspicious-bitcoin-transactions/</link>
-            <guid isPermaLink="false">19239f51-2d42-423a-804d-33a48815a63e</guid>
-            <pubDate>Mon, 30 May 2016 15:16:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
