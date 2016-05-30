@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 15:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 15:13:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ernst & Young to Sell $12 Million in Bitcoin at Auction - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Ernst & Young to Sell $12 Million in Bitcoin at Auction - CoinDesk</h1><p>Global professional services firm Ernst & Young has announced it will auction 24,518 BTC (worth $12.9m) originally confiscated by a user of defunct online dark market Silk Road. The sale will represent the end of a process that began in late 2014, when law enforcement officials confiscated the bitcoins from Warrandyte native Richard Pollard, who was sentenced to 11 years in prison for commercial drug trafficking.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/36be53cbadacb19166390263168b4a350791979d.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/ernst-young-sell-12-million-bitcoin-auction/</link>
+            <guid isPermaLink="false">9cfd46d1-9a7d-44d6-a027-e021df87aba3</guid>
+            <pubDate>Mon, 30 May 2016 15:10:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How do I set up a news publication on Ethereum?]]></title>
             <description><![CDATA[<article><h1>How do I set up a news publication on Ethereum?</h1><p>Answer (1 of 2): Ethereum is a worldwide distributed computing platform. Anything that runs on it needs "gas". If it was possible to build a website on it, you'll run out of "gas", after 1000 visits. So no. blockchains are not a place for a website.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>$13 Million in Bitcoin to Be Auctioned in Australia</h1><p>An auction in Sydney will put up over $13 million ($18 million AUD) in bitcoin for auction next month. The bitcoins were confiscated as "the proceeds of crime", announced global services firm Ernst & Young, referring to the now-defunct online dark market, Silk Road.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/657f9352d0713c34197d609c29522bdb4f25623d.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/13-million-bitcoin-auctioned-australia/</link>
             <guid isPermaLink="false">ef104a6c-844f-4b54-9077-0bcbadd59e1b</guid>
-            <pubDate>Mon, 30 May 2016 15:10:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ernst & Young to Auction 24,000 Confiscated Bitcoins in Australia]]></title>
-            <description><![CDATA[<article><h1>Ernst & Young to Auction 24,000 Confiscated Bitcoins in Australia</h1><p>One of the Also read: Liberty Reserve Creator Sentenced to 20 Years Jail Time "Big Four" audit firms the multinational financial management service Ernst & Young (EY) is auctioning $16 million worth of bitcoin next month in Sydney, Australia.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b62c510cc56ff5a2ab2e00cd81c5c0efbb6cd46.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/ernst-young-auction-24-thousand-btc/</link>
-            <guid isPermaLink="false">85f2a415-90b9-49e7-8cc8-bc4e12f9ccab</guid>
             <pubDate>Mon, 30 May 2016 15:10:45 GMT</pubDate>
         </item>
     </channel>
