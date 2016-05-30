@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 17:04:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 17:04:43 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kenya Not in a Hurry to Adopt Digital Currency: Governor, Central Bank - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Kenya Not in a Hurry to Adopt Digital Currency: Governor, Central Bank - NEWSBTC</h1><p>According to the Governor of Central Bank of Kenya, the country should not hurry to adopt digital currency. Read more... While everyone is looking forward to adopting the digital currency technology or digital currency itself, Kenya is not in a hurry.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5eb3f80b7212aee1c6551268f179a80b0c24f4c.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/30/kenya-no-hurry-for-bitcoin/</link>
+            <guid isPermaLink="false">1bdfde91-0006-4f4e-85e0-9d754ae8c889</guid>
+            <pubDate>Mon, 30 May 2016 17:03:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IRC meeting summary for 2016-05-26]]></title>
             <description><![CDATA[<article><h1>IRC meeting summary for 2016-05-26</h1><p>Developers are working on a soft fork to introduce segregated witness onto Bitcoin mainnet. Segregated witness (segwit) allows transaction signature data to be stored outside of the data hashed to produce transaction identifiers, removing all known forms of third-party malleability, allowing full nodes to compile the current UTXO set without downloading all signatures, and laying the groundwork for fraud proofs that can allow lightweight (SPV) clients to help enforce more of the consensus rules.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://blog.blockchain.com/2016/05/29/bitcoin-news-for-the-week-of-52316/</link>
             <guid isPermaLink="false">fda588c1-2f86-458f-8d24-05f975c3772a</guid>
             <pubDate>Mon, 30 May 2016 15:18:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BTCCNY Price Technical Analysis for 05/30/2016 - Bulls Are Back! - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>BTCCNY Price Technical Analysis for 05/30/2016 - Bulls Are Back! - NEWSBTC</h1><p>BTCCNY made such a strong climb on Friday that traders might be keen to book profits and spur a correction. BTCCNY Price Key Highlights BTCCNY made such a strong climb on Friday that traders might be keen to book profits and spur a correction.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8bdfc27ce019296496e5e4edc486cc5de9c05a0e.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/30/btccny-price-technical-analysis-05302016-bulls-back/</link>
-            <guid isPermaLink="false">722cc2f3-0ee5-4585-abe9-4f3b708bafd6</guid>
-            <pubDate>Mon, 30 May 2016 15:18:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
