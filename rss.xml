@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 15:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 15:19:35 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ethereum Blockchain Powers Decentralized Registry Platform]]></title>
+            <description><![CDATA[<article><h1>Ethereum Blockchain Powers Decentralized Registry Platform</h1><p>Regis, a Ethereum blockchain based platform makes implementation of maintanence free online registries fast and painless. Read more An Ethereum-powered blockchain project has created a new decentralized registry platform. Regis, as the project is titled, has enabled both authorities and individuals to create, auction, manage, and deploy registries in a decentralized manner.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd0fc2df1c7aac167ea9ee3552dd9e92e2629406.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/21/regis-and-more-ethereum-based-industry-game-changers/</link>
+            <guid isPermaLink="false">45e4751b-c3dc-4c69-92ab-eec80fc16e95</guid>
+            <pubDate>Mon, 30 May 2016 15:16:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Canadian Insurance Giant Manulife to Test Ethereum Blockchain]]></title>
             <description><![CDATA[<article><h1>Canadian Insurance Giant Manulife to Test Ethereum Blockchain</h1><p>Manulife announces its plan to implement blockchain technology at its US arm for wealth management operations. Read more Manulife, a Canadian insurance service provider, has recently announced that it will be exploring the blockchain technology for its wealth management services. The company will be implementing the blockchain technology into its US business arm.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f20d084dc37ae78e815e16eb6a81b0fa24394d5b.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Watch; Here's What's on for the Weekend - NEWSBTC</h1><p>Here's what we are looking at in the bitcoin price as we head into the weekend Earlier on this morning, we published the first about twice daily bitcoin price watch pieces. In the article, we noted that the overnight highs that fell just short of 452 flat would likely serve as some pretty solid medium-term resistance, and that's during today's session, we might see a period of prolonged consolidation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52119b30272aa2930f2c1c84b545e6428c241f72.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/04/22/bitcoin-price-watch-heres-whats-weekend-2-2/</link>
             <guid isPermaLink="false">a61c795b-f006-4ff9-9ace-8a0f6ddcd1cf</guid>
-            <pubDate>Mon, 30 May 2016 15:16:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Litecoin Surpass Ethereum in Terms of Market Cap - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Will Litecoin Surpass Ethereum in Terms of Market Cap - NEWSBTC</h1><p>Will Litecoin ever be able to surpass Ethereum when it comes to market capitalization? Read more... Ethereum is now the second largest cryptocurrency after bitcoin in terms of market cap. It dislodged Litecoin from its previous position to take up the top spot among altcoins.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/218d2e6d0a090c28d417902f00f20b7227677436.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/24/will-litecoin-surpass-ethereum-in-terms-of-market-cap/</link>
-            <guid isPermaLink="false">68c4768e-357d-4828-96b7-7ac7f435c14e</guid>
             <pubDate>Mon, 30 May 2016 15:16:29 GMT</pubDate>
         </item>
     </channel>
