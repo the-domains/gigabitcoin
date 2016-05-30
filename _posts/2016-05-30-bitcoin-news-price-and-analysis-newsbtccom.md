@@ -20,10 +20,10 @@ keywords:
 description: 'NewsBTC is a Bitcoin news service that covers cryptocurrency news, technical analysis and forecasts for bitcoin, litecoin, dash, doge & digital currencies.'
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.newsbtc.com/2016/04/20/bitcoin-price-watch-heres-whats-tonight-2-2/'
+isBasedOnUrl: 'http://www.newsbtc.com/2016/04/17/saudi-arabia-cause-staggering-blow-us-economy/'
 title: 'BITCOIN NEWS, PRICE & ANALYSIS - NEWSBTC.COM'
-datePublished: '2016-05-30T15:16:32.771Z'
-dateModified: '2016-05-30T06:12:08.462Z'
+datePublished: '2016-05-30T15:18:07.303Z'
+dateModified: '2016-05-30T06:11:56.785Z'
 starred: false
 sourcePath: _posts/2016-05-30-bitcoin-news-price-and-analysis-newsbtccom.md
 inFeed: true
