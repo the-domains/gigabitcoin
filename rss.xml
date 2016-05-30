@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 15:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 15:15:34 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Watch; Here's What's on for Today's Session]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Watch; Here's What's on for Today's Session</h1><p>Here's what we are looking at in the bitcoin price for this morning out of Europe. Just as we did last night, let's kick things off with a chart. The chart below shows action in the bitcoin price across the last 48 hours or so, and has the levels that we outlined last night being the ones to watch still overlaid.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0e16b41fc85529f294eb52335a8eb939/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F04%2F28092441%2FScreen-Shot-2016-04-28-at-10.24.01.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/04/28/bitcoin-price-watch-heres-whats-todays-session/</link>
+            <guid isPermaLink="false">480511f3-0789-4e46-8126-44f06ac4d219</guid>
+            <pubDate>Mon, 30 May 2016 15:10:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Watch; Tonight's Asian Session - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Watch; Tonight's Asian Session - NEWSBTC</h1><p>Here's what we are looking at for tonight's session in the bitcoin price out of Asia The European session is drawing to a close, and it's heading into lunch time in the US. As usual, this means it's time for the second of our twice daily bitcoin price watch analysis pieces, so here goes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ddf4a9f4bb7d3702a86b17dfd4a09ecea6f5dc45.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Overview of Coinbase's Security in Brian Armstrong's Words - NEWSBTC</h1><p>Brian Armstrong, the CEO and founder of Coinbase explains about some of the security features enabled by the platform in one of his blogs. Read more... Coinbase is one of the leading bitcoin wallet and exchange platform out there at the moment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/28622e1f4cefca2530a38e973b8b9cc5f1fced09.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/04/29/31515/</link>
             <guid isPermaLink="false">0116ebc5-5098-42ec-b45f-1145a492b474</guid>
-            <pubDate>Mon, 30 May 2016 15:10:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IBM Unveils Cloud-based Blockchain Services For Government And Healthcare]]></title>
-            <description><![CDATA[<article><h1>IBM Unveils Cloud-based Blockchain Services For Government And Healthcare</h1><p>Addressing these security needs is done through a variety of means, as they aim to offer the blockchain to government, healthcare, and financial players over the coming months and years. IBM is venturing into the world of blockchain and distributed ledgers, as they target Government, financial services, and healthcare through IBM Cloud.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6f1df26281f620ed8639e494c89a379592670da.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/04/29/ibm-unveils-cloud-based-blockchain-services-government-healthcare/</link>
-            <guid isPermaLink="false">9587a98b-c481-4ebe-9d08-247e1ee41a00</guid>
             <pubDate>Mon, 30 May 2016 15:10:49 GMT</pubDate>
         </item>
     </channel>
