@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 02:31:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 02:31:48 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin price jumps 21 percent over 4 days, reaching a 21-month high]]></title>
+            <description><![CDATA[<article><h1>Bitcoin price jumps 21 percent over 4 days, reaching a 21-month high</h1><p>Bitcoin is back! Or at least, there are positive signs indicating that bitcoin might not be as dead as everybody thought. Bitcoins are now trading at $547.40 on Bitfinex (the largest USD/bitcoin exchange according to Bitcoinity). And it represents a big 21.4 percent price jump over just 4 days.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a048cff47ee8b7be397e2b16429575280542e4ae.jpg"></article>]]></description>
+            <link>http://techcrunch.com/2016/05/30/bitcoin-price-jumps-21-percent-over-4-days-reaching-a-21-month-high/</link>
+            <guid isPermaLink="false">daf57659-75a1-4720-a03e-7640aac49d08</guid>
+            <pubDate>Tue, 31 May 2016 02:31:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Banks Can't Afford to Ignore Bitcoin's 'BitTorrent Effect']]></title>
             <description><![CDATA[<article><h1>Banks Can't Afford to Ignore Bitcoin's 'BitTorrent Effect'</h1><p>Today, major banks are touting their mobile banking apps as the next best thing. But are these "innovations" or just renovations on the proverbial deck of the Titanic? And similar to how BitTorrent impacted the entertainment industry, would incumbent banks have remained complacent without a prod from Bitcoin?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1775edc843eb435036f3c28a09b2d0f10954d4f7.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>What careers are available involving bitcoin?</h1><p>3 people want answers to this question. Be the first to answer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
             <link>https://www.quora.com/unanswered/What-careers-are-available-involving-bitcoin</link>
             <guid isPermaLink="false">f43c9fbf-8a7f-47f6-aecf-5baa5007699e</guid>
-            <pubDate>Tue, 31 May 2016 00:43:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can we do bitcoin offline?]]></title>
-            <description><![CDATA[<article><h1>Can we do bitcoin offline?</h1><p>Some people believe that you should win a race by running faster, not by tripping your competitors. And that this ought to apply to politics as well: you win by showing that your ability to run the country is better than the other fellow's.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/Can-we-do-bitcoin-offline</link>
-            <guid isPermaLink="false">0fe9e754-758a-4f1e-b7bd-774992c5b23f</guid>
             <pubDate>Tue, 31 May 2016 00:43:13 GMT</pubDate>
         </item>
     </channel>
