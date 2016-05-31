@@ -4,50 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 00:43:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 00:43:26 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[What is the relationship between blockchain and smart contracts?]]></title>
-            <description><![CDATA[<article><h1>What is the relationship between blockchain and smart contracts?</h1><p>Answer: They are part of the same hype, but really they shouldn't be the same thing. I seem to be one of the few people that have actually used smart contracts in a real business setting, and one important business requirement is that the contract be able to function outside of a blockchain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/What-is-the-relationship-between-blockchain-and-smart-contracts</link>
-            <guid isPermaLink="false">a15f6bd2-037d-4ae9-92c1-95fec518fda4</guid>
-            <pubDate>Tue, 31 May 2016 00:43:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can someone use a fable to explain bitcoin, blockchain, tokenisation and other fintech jargons?]]></title>
-            <description><![CDATA[<article><h1>Can someone use a fable to explain bitcoin, blockchain, tokenisation and other fintech jargons?</h1><p>Answer: Being too lazy to invent my own fable, lets use this one: The Byzantine Generals' Problem - dugcampbell.com > Picture the scene. A castle in the Middle Ages is under siege. There's 300 baddies in a Castle surrounded by five armies of 100 men each who've set up camp in the surrounding hi...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/Can-someone-use-a-fable-to-explain-bitcoin-blockchain-tokenisation-and-other-fintech-jargons</link>
-            <guid isPermaLink="false">2213878b-9746-45ac-8f81-a85194ec00b1</guid>
-            <pubDate>Tue, 31 May 2016 00:43:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How would SWIFT using blockchain improve its security and guard against the recent spate of cyber attacks?]]></title>
-            <description><![CDATA[<article><h1>How would SWIFT using blockchain improve its security and guard against the recent spate of cyber attacks?</h1><p>Answer (1 of 2): SWIFT is primarily a private network, the network itself did not get breached. As with any security concern, it's only as strong as it's weakest link. Namely the end points, who sends or receive messages and how this environment is secured. SWIFT as an entity is only responsible...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/How-would-SWIFT-using-blockchain-improve-its-security-and-guard-against-the-recent-spate-of-cyber-attacks</link>
-            <guid isPermaLink="false">c112f1fe-899f-4c69-a205-53576af149d6</guid>
-            <pubDate>Tue, 31 May 2016 00:43:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is a business case for a bank to use a blockchain technology?]]></title>
-            <description><![CDATA[<article><h1>What is a business case for a bank to use a blockchain technology?</h1><p>Answer: In answering this question, we should consider the following: 1) The cost, related to an integration of the Blockchain technology in existing IT infrastructure, possible modification and customization efforts to make a new and the old worlds talk to each other. 2) Banking strategy, when...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/What-is-a-business-case-for-a-bank-to-use-a-blockchain-technology</link>
-            <guid isPermaLink="false">7e8af041-84b1-441e-b14f-442a9fc4a6aa</guid>
-            <pubDate>Tue, 31 May 2016 00:43:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can bitcoin mining decrease a CPU/GPU's lifespan?]]></title>
-            <description><![CDATA[<article><h1>Can bitcoin mining decrease a CPU/GPU's lifespan?</h1><p>Answer (1 of 4): If you're mining bitcoins on a CPU you're going to have a bad time. You want to use a GPU (or lots of GPUs, or I wonder if a TPU is the way to go? [Turns out I'm way behind - thanks Vladislav Zorov, so ignore this]).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/Can-bitcoin-mining-decrease-a-CPU-GPUs-lifespan</link>
-            <guid isPermaLink="false">135d0b81-4ded-4f9e-8ee4-e11534952573</guid>
-            <pubDate>Tue, 31 May 2016 00:43:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How can you build a bitcoin exchange?]]></title>
-            <description><![CDATA[<article><h1>How can you build a bitcoin exchange?</h1><p>Meticulous observation and recording , carefully detailed and controlled experimentation etc. In short YES Darwin was a consummate scientist.150 years ago the sciences were not divided into the parts we see now, no physics no chemistry. They were all subdivisions of natural philosophy. Hence the term naturalis...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/unanswered/How-can-you-build-a-bitcoin-exchange</link>
-            <guid isPermaLink="false">45823c94-e9cb-4f5f-9158-0e16dc9f4cea</guid>
-            <pubDate>Tue, 31 May 2016 00:43:13 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[How do I become a bitcoin seller?]]></title>
             <description><![CDATA[<article><h1>How do I become a bitcoin seller?</h1><p>Answer (1 of 3): In case you want to sell Bitcoins to other people and get profit, you might be interested in finding a secure place to buy Bitcoins at the best conditions. At CEX.IO Bitcoin exchange, you can easily buy BTC using your ordinary Visa/MasterCard.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
@@ -75,6 +33,48 @@
             <link>https://www.quora.com/What-would-be-the-effects-of-quantum-computing-on-Bitcoin-and-its-derivatives</link>
             <guid isPermaLink="false">045c09ed-689a-47e7-aa17-56e052597c8a</guid>
             <pubDate>Tue, 31 May 2016 00:43:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Towards Massive On-Chain Scaling: Presenting Our Block Propagation Results With Xthin]]></title>
+            <description><![CDATA[<article><h1>Towards Massive On-Chain Scaling: Presenting Our Block Propagation Results With Xthin</h1><p>Part 1 of 5: Methodology By Andrew Clifford, Peter R. Rizun, @sickpig, Andrew Stone and Peter Tschipper. With special thanks to Jihan Wu from AntPool for the block source and to @cypherdoc for the funding. The fracturing of Bitcoin development into several competing implementations bore fruit on 16 March 2016 with the release of Bitcoin Unlimited 0.12.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d36eda496c0716a63e3b6655f7556c87a701150.gif"></article>]]></description>
+            <link>http://gigabitcoin.xyz/towards-massive-on-chain-scaling-presenting-our-block-propa/index.html</link>
+            <guid isPermaLink="false">06e4f623-dafa-4dc6-b0a4-790d4638fb95</guid>
+            <pubDate>Tue, 31 May 2016 00:43:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Is Soaring On Unprecedented Burst In Chinese Buying]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Is Soaring On Unprecedented Burst In Chinese Buying</h1><p>Last September (when bitcoin was trading at $230) we said that "As China Scrambles To Enforce Capital Controls, This Is Great News For Bitcoin" and that it is only a matter of time before Chinese buyersfigure out that in a world in which the freeflow of capital out of China is increasingly more suppressed and where physical gold is actively being stored in China but is next to impossible to get it out of the country, it is only a matter of time before bitcoin explodes as China's bubble berserk population scrambles to buy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ea7c0b685403d17b7ace0abad513a994af78153.jpg"></article>]]></description>
+            <link>http://www.zerohedge.com/news/2016-05-28/bitcoin-soaring-unprecedented-burst-chinese-buying</link>
+            <guid isPermaLink="false">dff18103-399a-40c1-9a10-12361a29a569</guid>
+            <pubDate>Tue, 31 May 2016 00:43:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mystery Solved: $6.6 Million Bitcoin Theft That Brought Down Dark Web Site Tied To 2 Florida Men]]></title>
+            <description><![CDATA[<article><h1>Mystery Solved: $6.6 Million Bitcoin Theft That Brought Down Dark Web Site Tied To 2 Florida Men</h1><p>The theft of 5,400 bitcoins in 2013 from illegal online drug site Sheep Marketplace spawned conspiracy theories and Reddit vigilantism, but a recently filed forfeiture agreement alleges two 21-year-olds pulled off the heist.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d39e35f8e7054aeec9390b28083f02cbf08d14fa.jpg"></article>]]></description>
+            <link>http://www.forbes.com/sites/laurashin/2016/05/30/mystery-solved-6-6-million-bitcoin-theft-that-brought-down-dark-web-site-tied-to-2-florida-men/</link>
+            <guid isPermaLink="false">977a1b26-dd6b-499f-8805-b326ee53bcf3</guid>
+            <pubDate>Tue, 31 May 2016 00:43:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin rise driven by Chinese domain | HolyTransaction]]></title>
+            <description><![CDATA[<article><h1>Bitcoin rise driven by Chinese domain | HolyTransaction</h1><p>On September 2015 when the bitcoin price was about $230 China figured out that Bitcoin could increase its popularity specially when the freeflow of capital out of China is growing fast and when gold is stored in China but it is impossible to take it out of the Chinese country.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5d89766c62ccc201886c2b174298d9c63cfa796.png"></article>]]></description>
+            <link>http://blog.holytransaction.com/2016/05/bitcoin-rise-driven-by-chinese-domain.html</link>
+            <guid isPermaLink="false">78393444-240f-49ec-bf5e-ba3df8bf4c1f</guid>
+            <pubDate>Tue, 31 May 2016 00:43:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New 4MLD Directive Could Hurt E-Money Business in Europe]]></title>
+            <description><![CDATA[<article><h1>New 4MLD Directive Could Hurt E-Money Business in Europe</h1><p>Money laundering and terrorist financing remain the top two concerns for financial regulations to this very day. 4MLD, a new regulatory directive, will have significant consequences for virtual currencies in Europe. Also read: 'Guinea Pig' Money Laundering Case May Decide Bitcoin's Legal Status It does not come as a complete surprise to learn companies in Europe will have to adhere to stricter and due diligence obligations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3da63bbc80596182da6ebcb80679e05536829be.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/4mld-directive-hurt-e-money-europe/</link>
+            <guid isPermaLink="false">8f3418d4-f211-43b0-b270-44dd00db4202</guid>
+            <pubDate>Mon, 30 May 2016 22:26:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2016 Libertarian Candidate Continues Bitcoin Support]]></title>
+            <description><![CDATA[<article><h1>2016 Libertarian Candidate Continues Bitcoin Support</h1><p>Sunday saw Gary Johnson become the Libertarian Party candidate in the 2016 US presidential election - and Bitcoin is already on board for donations. Also read: New Yorkers Tout Blockchain at Libertarian Party Convention Johnson, who also stood in the 2012 race, is increasingly viewed as a "wild card" in this year's campaign, as voters attempt to sidestep the major party nominees.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/549235d380aec9719829fe128b681a15042b91d6.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/2016-libertarian-candidate-bitcoin/</link>
+            <guid isPermaLink="false">84c5e2eb-7af9-49e2-9460-58bd532ccf9b</guid>
+            <pubDate>Mon, 30 May 2016 22:07:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
