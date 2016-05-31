@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 13:47:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 13:46:33 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin's Market Cap is Not What You Think it is]]></title>
-            <description><![CDATA[<article><h1>Bitcoin's Market Cap is Not What You Think it is</h1><p>When traders and enthusiasts talk about Bitcoin, the discussion will always turn to the market cap of this cryptocurrency - currently around $8 billion. But at the same time, there seems to be a lot of misconceptions about what this number means.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5937b8b165bffda0fb75b2fd996660329167ba64.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/bitcoins-market-cap-not-think/</link>
-            <guid isPermaLink="false">44d66885-484a-41f7-b4b7-467d0e1193fa</guid>
-            <pubDate>Tue, 31 May 2016 13:46:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How does Lisk compare to Ethereum?]]></title>
-            <description><![CDATA[<article><h1>How does Lisk compare to Ethereum?</h1><p>Answer: Even before the launch, Lisk was in the news for its constant comparison with Ethereum. Ethereum happens to be the largest decentralized application platform right now. So, it was obvious to regard Lisk as a competitor to the Ethereum. But despite of their striking similarity, there are q...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/How-does-Lisk-compare-to-Ethereum</link>
-            <guid isPermaLink="false">c01f3978-4015-4dec-a4ae-05aa303a994f</guid>
-            <pubDate>Tue, 31 May 2016 13:46:29 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Blockchain, Bitcoin and IBM: Developing Cryptotechnologies in Kazakhstan]]></title>
             <description><![CDATA[<article><h1>Blockchain, Bitcoin and IBM: Developing Cryptotechnologies in Kazakhstan</h1><p>Despite the fact that Kazakhstan is among ten largest countries in the world, it was not seen on the bitcoin world map until recently. However, cryptotechnologies have fought their way to an officially recognized level. On May 25 and 26, over the course of Astana Economic Forum 2016, a workshop on blockchain technology's prospects in public management.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed5d05e634a28b06fd541f1e5e324f5ebc4efa4a.png"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>http://techcrunch.com/2016/05/30/bitcoin-price-jumps-21-percent-over-4-days-reaching-a-21-month-high/</link>
             <guid isPermaLink="false">daf57659-75a1-4720-a03e-7640aac49d08</guid>
             <pubDate>Tue, 31 May 2016 02:31:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Banks Can't Afford to Ignore Bitcoin's 'BitTorrent Effect']]></title>
+            <description><![CDATA[<article><h1>Banks Can't Afford to Ignore Bitcoin's 'BitTorrent Effect'</h1><p>Today, major banks are touting their mobile banking apps as the next best thing. But are these "innovations" or just renovations on the proverbial deck of the Titanic? And similar to how BitTorrent impacted the entertainment industry, would incumbent banks have remained complacent without a prod from Bitcoin?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1775edc843eb435036f3c28a09b2d0f10954d4f7.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/banks-cant-ignore-bittorrent-effect/</link>
+            <guid isPermaLink="false">090b9a03-c1cb-45ce-86c7-774f69b00003</guid>
+            <pubDate>Tue, 31 May 2016 02:30:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is the relationship between blockchain and smart contracts?]]></title>
+            <description><![CDATA[<article><h1>What is the relationship between blockchain and smart contracts?</h1><p>Answer: They are part of the same hype, but really they shouldn't be the same thing. I seem to be one of the few people that have actually used smart contracts in a real business setting, and one important business requirement is that the contract be able to function outside of a blockchain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/What-is-the-relationship-between-blockchain-and-smart-contracts</link>
+            <guid isPermaLink="false">a15f6bd2-037d-4ae9-92c1-95fec518fda4</guid>
+            <pubDate>Tue, 31 May 2016 00:43:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
