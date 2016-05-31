@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 14:58:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 14:58:31 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Soars as Chinese Investors Look for Safe Haven From Devaluation and Capital Controls]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Soars as Chinese Investors Look for Safe Haven From Devaluation and Capital Controls</h1><p>Many have speculated that the recent increase in the price of bitcoin ($542 USD on Bitfinex at time of publication) can be traced to China, where Bitcoin trading has doubled on some exchanges in the last four days as Chinese investors respond to a recent currency devaluation, and look for ways to avoid the government's stringent capital controls.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5013ec5ff2ffda460ba9bdb34b47ca0981cef984.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/bitcoin-price-soars-as-chinese-investors-look-for-safe-haven-from-devaluation-and-capital-controls-1464703000</link>
+            <guid isPermaLink="false">fc8a5c21-fb35-4203-a777-4390a9cb4643</guid>
+            <pubDate>Tue, 31 May 2016 14:58:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitmain Just Announced the 14 THS AntMiner S9 ASIC Bitcoin Miner]]></title>
             <description><![CDATA[<article><h1>Bitmain Just Announced the 14 THS AntMiner S9 ASIC Bitcoin Miner</h1><p>One more announcement fro Bitmain, the AntMiner S9 ASIC Bitcoin miner is no official and will start shipping on June 12th for $2100 USD without the shipping cost (power supply is not included). The device uses the company's new 16nm ASIC chips BM1387 and essentially triples the hashrate of the previous generation S7 miners while offering the same level of power usage.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/66357ed86fbae368123fb2e18dc8aed02fab7fed.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>PayPal Halts Service In Turkey Over Licensing Issues</h1><p>PayPal has decided to no longer offer their services in Turkey because the company could not get the necessary license from the local authorities. If even payment giants like PayPal are facing regulatory scrutiny, perhaps it is time for a change.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e3dd95bf2e03161e8edaa4b6217746d1aa142b8.jpg"></article>]]></description>
             <link>http://bitcoinist.net/paypal-halts-service-in-turkey-over-licensing-issues/</link>
             <guid isPermaLink="false">cd2378d5-5799-4b25-99c5-4222b2d2c332</guid>
-            <pubDate>Tue, 31 May 2016 13:46:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jaxx is The First Multi-Platform Ethereum Light Wallet]]></title>
-            <description><![CDATA[<article><h1>Jaxx is The First Multi-Platform Ethereum Light Wallet</h1><p>Decentral, the Canadian consultancy, and software development company, announced today the release of Jaxx wallet version 1.0, the first multi-platform Ethereum/Bitcoin light wallet, Jaxx is available on iOS, Android, PC/Mac/Linux desktops, and as a Chrome/Firefox browser extension.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e35ad52873538156ec917f1b21e3c56afd6862a.jpg"></article>]]></description>
-            <link>http://themerkle.com/jaxx-is-the-first-multi-platform-ethereum-light-wallet/</link>
-            <guid isPermaLink="false">ce787588-6a42-48e5-8c22-c66f9371c412</guid>
             <pubDate>Tue, 31 May 2016 13:46:32 GMT</pubDate>
         </item>
     </channel>
