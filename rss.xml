@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 19:04:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 19:04:00 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Feds Discover Bitcoin Theiving Sheep Marketplace Culprits]]></title>
-            <description><![CDATA[<article><h1>Feds Discover Bitcoin Theiving Sheep Marketplace Culprits</h1><p>One of the oldest, largest thefts in Bitcoin history, the robbery of early Darknet Market (DNM) Sheep Marketplace, may have finally reached its conclusion. Folks newer to Bitcoin may not remember the scandal, which led to the closure of the popular bazaar of mostly illegal drugs, which was later found to be run out of the Czech Republic, as thCCN reported in March of last year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44a99ebfe7230abc1ec863cfcc19aa363b347f6b.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/feds-sheep-marketplace-bitcoin-thieves/</link>
-            <guid isPermaLink="false">b28795aa-3e57-43e5-b73e-f7664a5048fa</guid>
-            <pubDate>Tue, 31 May 2016 19:03:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SatoshiPay Unveils New API And Surpasses 10,000 User Wallets]]></title>
-            <description><![CDATA[<article><h1>SatoshiPay Unveils New API And Surpasses 10,000 User Wallets</h1><p>Bitcoin seems to hold a lot of merit in the world micro- and nano-transactions. SatoshiPay is one of the companies exploring this space, and they have released their new API earlier today. Additionally, the company also announced they reached the milestone of 10,000 user-generated wallets.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45eb0d704acf6043dad80c8800db558bd6762345.png"></article>]]></description>
-            <link>http://bitcoinist.net/satoshipay-api-10000-user-wallets/</link>
-            <guid isPermaLink="false">37c6b847-1ef4-4bc7-8121-b58b2be7453e</guid>
-            <pubDate>Tue, 31 May 2016 19:03:08 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[How to use Watch-only Addresses]]></title>
             <description><![CDATA[<article><h1>How to use Watch-only Addresses</h1><p>Watch-only addresses are a Blockchain Wallet feature you can find in the Imported Addresses section of your wallet. In recent updates, we've made some improvements to how you can use watch-only addresses, and how the balances of these addresses are reflected in your wallet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e51dbcf604b6638e8ded41fea2509a039e7ec408.png"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>The Five Most Useful Properties of Bitcoin</h1><p>Bitcoin has received plenty of hype as the money of the future over the past few years, but what are the properties of this digital asset that set it apart from everything else on the market? What are the features of Bitcoin that get people to use it in the first place?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/323089c65c6ae73bc734437b5ead1f586687890a.jpg"></article>]]></description>
             <link>http://www.nasdaq.com/article/the-five-most-useful-properties-of-bitcoin-cm628531</link>
             <guid isPermaLink="false">eb581c5f-34e3-48f0-bb80-1de4ec905f54</guid>
+            <pubDate>Tue, 31 May 2016 19:03:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Intel to Develop Blockchain Projects at New Innovation Lab in Israel - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Intel to Develop Blockchain Projects at New Innovation Lab in Israel - CoinDesk</h1><p>Tech giant Intel has opened a development lab in Tel Aviv focused on financial technologies like the blockchain. The company is working with The Floor, an Israeli FinTech organization, according to The Jerusalem Post . The Floor, headquartered at the Tel Aviv Stock Exchange, raised $2m earlier this year from Chinese VC firm Pando Group.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d3848783e06c8b84d3a97c9954cebe7905efa09.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/intel-develop-blockchain-solutions-new-innovation-lab-israel/</link>
+            <guid isPermaLink="false">3a0ad954-ffdc-4e32-898a-81fe211e7e27</guid>
+            <pubDate>Tue, 31 May 2016 19:03:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can you suggest some research topics related to blockchain?]]></title>
+            <description><![CDATA[<article><h1>Can you suggest some research topics related to blockchain?</h1><p>Moo Baa La La La which, for the uninitiated, starts, "A cow says 'Moo'. A sheep says 'Baa'. Three singing pigs say 'La La La!'" and ends, "It's quiet now. What do you say?" We riffed on the theme and asked what various people say, eventually reaching "What does a Daddy say?"</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/Can-you-suggest-some-research-topics-related-to-blockchain</link>
+            <guid isPermaLink="false">d2363c43-0e9a-4fc9-8ac4-ee815039bb34</guid>
             <pubDate>Tue, 31 May 2016 19:03:03 GMT</pubDate>
         </item>
     </channel>
