@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 19:03:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 19:03:58 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin Micropayments Platform SatoshiPay Announces New API]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Micropayments Platform SatoshiPay Announces New API</h1><p>London-based bitcoin micropayments firm SatoshiPay has released their new API (Application Programming Interface). SatoshiPay's previous implementation only allowed WordPress integration, however, the new API will allow content authors on any platform to start receiving small digital currency payments for their works.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a07eb1a24f1b274f5c0a5b6a55d4e8f6e02d21fb.gif"></article>]]></description>
-            <link>http://themerkle.com/london-micropayments-platform-satoshipay-announces-new-api/</link>
-            <guid isPermaLink="false">93ce8832-fe42-4d85-ba1f-795f4245488a</guid>
-            <pubDate>Tue, 31 May 2016 19:03:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft Inks Deal to Develop Identity Platform for Multiple Blockchains - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Microsoft Inks Deal to Develop Identity Platform for Multiple Blockchains - CoinDesk</h1><p>Tech giant Microsoft has partnered with startups Blockstack Labs and ConsenSys to build an open-source identity platform aimed to integrating with both the bitcoin and Ethereum blockchains.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/691cde43e65e5016c672ff627944f7724b1991b5.png"></article>]]></description>
-            <link>http://www.coindesk.com/microsoft-identity-platform-multiple-blockchains/</link>
-            <guid isPermaLink="false">85f97728-4b93-4107-95e7-c02798d43b47</guid>
-            <pubDate>Tue, 31 May 2016 19:03:05 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bangladesh Bank Staff Involved In Swift Heist?]]></title>
             <description><![CDATA[<article><h1>Bangladesh Bank Staff Involved In Swift Heist?</h1><p>The recent Swift attack against a Bangladesh bank has left a lot of people wondering how such a heist could take place to begin with. Some experts even pointed at how bank personnel would have to be involved. Albeit the official report has not been released yet, more and more signs are also pointing in that direction.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d7486d5e3150b6cbb7be1964320b9c2f3e8f9c9.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>http://forklog.net/russian-watches-manufacturer-and-national-post-service-to-use-blockchain-technology/</link>
             <guid isPermaLink="false">11f36699-98eb-4d72-9c33-10ed2e22252a</guid>
             <pubDate>Tue, 31 May 2016 19:03:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How do I make profit in Bitcoin?]]></title>
+            <description><![CDATA[<article><h1>How do I make profit in Bitcoin?</h1><p>He brings incredible experience in both higher education and technology and I feel like he understands intimately the value we provide -- both to our students and our partners. His leadership experience, accumulated over 2 decades as Yale's President, is also invaluable as Coursera continues to grow in...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/How-do-I-make-profit-in-Bitcoin</link>
+            <guid isPermaLink="false">43ddf869-be0d-432b-b2dd-e96ae9c01a3c</guid>
+            <pubDate>Tue, 31 May 2016 19:03:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum (ETH) Price Trends: 5/31/2016]]></title>
+            <description><![CDATA[<article><h1>Ethereum (ETH) Price Trends: 5/31/2016</h1><p>Ethereum's price is moving up in a flat-like dynamic. It is now close to a medium-term resistance line, where the upward trend could be switched to a downward one. As long as the structure of the current trend is not disrupted, the current growth will continue right until the medium-term level of $13.7.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3abdd55de33bc37cdebe5f11016498e1452fb56.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/ethereum-eth-price-trends-5312016</link>
+            <guid isPermaLink="false">8361f296-5877-4dc2-b37f-36bd757e428a</guid>
+            <pubDate>Tue, 31 May 2016 19:03:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
