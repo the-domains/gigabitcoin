@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 19:03:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 19:03:54 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The Five Most Useful Properties of Bitcoin]]></title>
-            <description><![CDATA[<article><h1>The Five Most Useful Properties of Bitcoin</h1><p>Bitcoin has received plenty of hype as the money of the future over the past few years, but what are the properties of this digital asset that set it apart from everything else on the market? What are the features of Bitcoin that get people to use it in the first place?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/323089c65c6ae73bc734437b5ead1f586687890a.jpg"></article>]]></description>
-            <link>http://www.nasdaq.com/article/the-five-most-useful-properties-of-bitcoin-cm628531</link>
-            <guid isPermaLink="false">eb581c5f-34e3-48f0-bb80-1de4ec905f54</guid>
-            <pubDate>Tue, 31 May 2016 19:03:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Intel to Develop Blockchain Projects at New Innovation Lab in Israel - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Intel to Develop Blockchain Projects at New Innovation Lab in Israel - CoinDesk</h1><p>Tech giant Intel has opened a development lab in Tel Aviv focused on financial technologies like the blockchain. The company is working with The Floor, an Israeli FinTech organization, according to The Jerusalem Post . The Floor, headquartered at the Tel Aviv Stock Exchange, raised $2m earlier this year from Chinese VC firm Pando Group.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d3848783e06c8b84d3a97c9954cebe7905efa09.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/intel-develop-blockchain-solutions-new-innovation-lab-israel/</link>
-            <guid isPermaLink="false">3a0ad954-ffdc-4e32-898a-81fe211e7e27</guid>
-            <pubDate>Tue, 31 May 2016 19:03:03 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Can you suggest some research topics related to blockchain?]]></title>
             <description><![CDATA[<article><h1>Can you suggest some research topics related to blockchain?</h1><p>Moo Baa La La La which, for the uninitiated, starts, "A cow says 'Moo'. A sheep says 'Baa'. Three singing pigs say 'La La La!'" and ends, "It's quiet now. What do you say?" We riffed on the theme and asked what various people say, eventually reaching "What does a Daddy say?"</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>https://bitcoinmagazine.com/articles/bitcoin-price-soars-as-chinese-investors-look-for-safe-haven-from-devaluation-and-capital-controls-1464703000</link>
             <guid isPermaLink="false">fc8a5c21-fb35-4203-a777-4390a9cb4643</guid>
             <pubDate>Tue, 31 May 2016 14:58:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitmain Just Announced the 14 THS AntMiner S9 ASIC Bitcoin Miner]]></title>
+            <description><![CDATA[<article><h1>Bitmain Just Announced the 14 THS AntMiner S9 ASIC Bitcoin Miner</h1><p>One more announcement fro Bitmain, the AntMiner S9 ASIC Bitcoin miner is no official and will start shipping on June 12th for $2100 USD without the shipping cost (power supply is not included). The device uses the company's new 16nm ASIC chips BM1387 and essentially triples the hashrate of the previous generation S7 miners while offering the same level of power usage.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/66357ed86fbae368123fb2e18dc8aed02fab7fed.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7893-bitmain-just-announced-the-14-ths-antminer-s9-asic-bitcoin-miner/</link>
+            <guid isPermaLink="false">e8004d5d-c082-4532-b698-cfb1ceef5a72</guid>
+            <pubDate>Tue, 31 May 2016 14:58:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft Separates VC Arm From Startup Accelerator]]></title>
+            <description><![CDATA[<article><h1>Microsoft Separates VC Arm From Startup Accelerator</h1><p>Microsoft is actively pursuing a role in the world of venture capitalism, as the company recently confirmed the launch of the Microsoft Venture VC arm. Their previous Microsoft Ventures project will be rebranded to Microsoft Accelerator. It looks like is planning to innovate in a significant way these days, as they want to put more focus on the startups the acquired and support.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab52f1d632420e7cc7c01904d1f85d53347616c3.jpg"></article>]]></description>
+            <link>http://themerkle.com/microsoft-separates-vc-arm-from-startup-accelerator/</link>
+            <guid isPermaLink="false">c47b69d2-f0bb-4f74-803d-49a95510c01c</guid>
+            <pubDate>Tue, 31 May 2016 14:58:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
