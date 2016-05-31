@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 19:03:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 19:03:52 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Ethereum Micropayments: better than the Bitcoin ones? | HolyTransaction]]></title>
-            <description><![CDATA[<article><h1>Ethereum Micropayments: better than the Bitcoin ones? | HolyTransaction</h1><p>Micropayments are one the most useful and important use-cases for bitcoin, but a similar system could arrive from Ethereum, a decentralized mining network and cryptocurrency created by Vitalik Buterin back in 2013. Since the creation of Internet, micropayments have been impossible due to high fee costs and a lack of payment systems that could allow payments in decimals.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a07a5f36d3b589b5a8bcf568746933386bcb30e4.png"></article>]]></description>
-            <link>http://blog.holytransaction.com/2016/05/ethereum-micropayments-better-than.html</link>
-            <guid isPermaLink="false">94abbf3b-8101-4011-ab95-7a1630d3f498</guid>
-            <pubDate>Tue, 31 May 2016 19:03:02 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitstamp tackles the foreign exchange market, launches EUR/USD trading pair]]></title>
             <description><![CDATA[<article><h1>Bitstamp tackles the foreign exchange market, launches EUR/USD trading pair</h1><p>As of today, Bitstamp clients are now able to trade Euros for Dollars on the Luxembourg-based bitcoin exchange. "We are excited to announce that our clients can now use our new EUR/USD trading pair," the company said in a statement on Monday. "The new trading pair allows for better mobility of funds and new arbitrage opportunities."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90c31beb383f600b71217b4193204c7e509ec97b.png"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Bitcoin Payments Enabled by Indonesian E-Marketplace</h1><p>A prominent e-commerce and digital payment platform in Indonesia, KinerjaPay Corp., has enabled bitcoin payments for transactions on its platform. This will be the first time that an e-commerce portal in Indonesia allows for bitcoin transactions on its platform. Users of KinjeraPay Corp., an Indonesian e-commerce platform will now be able to settle transactions on the marketplace with bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfa94b2447a77eaff50e66776139804774b7c952.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/bitcoin-payments-enabled-indonesian-e-marketplace/</link>
             <guid isPermaLink="false">3cdd04b5-015a-4151-9167-c70205429583</guid>
+            <pubDate>Tue, 31 May 2016 14:58:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australia to Auction $11.49 Million Worth of Bitcoins Confiscated After the Closure of Silk Road]]></title>
+            <description><![CDATA[<article><h1>Australia to Auction $11.49 Million Worth of Bitcoins Confiscated After the Closure of Silk Road</h1><p>Global assurance, tax and advisory services firm, Ernst & Young, will facilitate a first-of-its-kind Bitcoin sale process in Australia on June 20. Going by its current rate (1 BTC = $526), the 24,518 Bitcoins up for grabs, split into 11 lots of 2,000 coins and one lot of approximately 2,518, are worth about $13 million.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c6a72fc79f46a9282a87243198546289dfaca20.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/australia-to-auction-1149-million-worth-of-bitcoins-confiscated-after-the-closure-of-silk-road</link>
+            <guid isPermaLink="false">e925fd98-ebb2-4d86-a552-9b7742546886</guid>
             <pubDate>Tue, 31 May 2016 14:58:09 GMT</pubDate>
         </item>
     </channel>
