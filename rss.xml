@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 19:04:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 19:03:59 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[How to use Watch-only Addresses]]></title>
-            <description><![CDATA[<article><h1>How to use Watch-only Addresses</h1><p>Watch-only addresses are a Blockchain Wallet feature you can find in the Imported Addresses section of your wallet. In recent updates, we've made some improvements to how you can use watch-only addresses, and how the balances of these addresses are reflected in your wallet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e51dbcf604b6638e8ded41fea2509a039e7ec408.png"></article>]]></description>
-            <link>https://blog.blockchain.com/2016/05/31/how-to-use-watch-only-addresses/</link>
-            <guid isPermaLink="false">98de792f-4373-4c73-a08a-95abf19ff1b2</guid>
-            <pubDate>Tue, 31 May 2016 19:03:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australian police to auction $13m in confiscated bitcoins]]></title>
-            <description><![CDATA[<article><h1>Australian police to auction $13m in confiscated bitcoins</h1><p>About $13m in bitcoins will be auctioned in Sydney in June after Victorian police confiscated the digital currency as proceeds of crime. Ernst & Young is running the process, which is only the second such bitcoin auction in the world after the US Marshals Service sold 144,000 bitcoins over a two-year period that had been confiscated from Ross Ulbricht, who founded the online drug bazaar Silk Road, the accountancy firm's transaction partner, Adam Nikitins, said.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4250953177ed738fe1ec2fedac8ba428debfded.jpg"></article>]]></description>
-            <link>https://www.theguardian.com/technology/2016/may/31/australian-police-to-auction-13m-in-confiscated-bitcoins</link>
-            <guid isPermaLink="false">532e59bd-276f-4da4-9106-d3486f6f328e</guid>
-            <pubDate>Tue, 31 May 2016 19:03:07 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[UK Residents Can Now Pre-order the micro:bit Programmable Board]]></title>
             <description><![CDATA[<article><h1>UK Residents Can Now Pre-order the micro:bit Programmable Board</h1><p>Learning to code is an important part of education, or so it should be, at least. Over in the United Kingdom, a new programmable board has been made available to the public. Albeit this device was originally intended for educational purposes only, there was an overwhelming demand for the micro:bit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b51e09f00627dfbce8e0e017a8ba72241256ea6d.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>https://www.quora.com/unanswered/Can-you-suggest-some-research-topics-related-to-blockchain</link>
             <guid isPermaLink="false">d2363c43-0e9a-4fc9-8ac4-ee815039bb34</guid>
             <pubDate>Tue, 31 May 2016 19:03:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can BlockChain lead to Big Brother?]]></title>
+            <description><![CDATA[<article><h1>Can BlockChain lead to Big Brother?</h1><p>Universal Background Check: CheckAssault Weapon Ban: CheckHandgun Registration: CheckState Approved Handgun List: CheckMagazine Capacity Restrictions: CheckBullet Buttons: CheckWaiting Periods: CheckFirearms Safety Certificate: CheckCarry Restrictions: Check Practically the only thin...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/Can-BlockChain-lead-to-Big-Brother</link>
+            <guid isPermaLink="false">96ab1c38-70d8-46d2-a249-6b2534017494</guid>
+            <pubDate>Tue, 31 May 2016 19:03:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum Micropayments: better than the Bitcoin ones? | HolyTransaction]]></title>
+            <description><![CDATA[<article><h1>Ethereum Micropayments: better than the Bitcoin ones? | HolyTransaction</h1><p>Micropayments are one the most useful and important use-cases for bitcoin, but a similar system could arrive from Ethereum, a decentralized mining network and cryptocurrency created by Vitalik Buterin back in 2013. Since the creation of Internet, micropayments have been impossible due to high fee costs and a lack of payment systems that could allow payments in decimals.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a07a5f36d3b589b5a8bcf568746933386bcb30e4.png"></article>]]></description>
+            <link>http://blog.holytransaction.com/2016/05/ethereum-micropayments-better-than.html</link>
+            <guid isPermaLink="false">94abbf3b-8101-4011-ab95-7a1630d3f498</guid>
+            <pubDate>Tue, 31 May 2016 19:03:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
