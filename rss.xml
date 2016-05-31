@@ -4,13 +4,27 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 13:47:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 13:48:07 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Litecoin Is Far More Popular Among CNY Traders Than Ethereum]]></title>
+            <description><![CDATA[<article><h1>Litecoin Is Far More Popular Among CNY Traders Than Ethereum</h1><p>Cryptocurrency trading is booming in China, and the rest of the world is following suit. Bitcoin is the top cryptocurrency in just about every country. But the competition between Litecoin and Ethereum is still in full effect for CNY traders, whereas things look very different in the USD market.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2814a42edd8d6c381d8dcd2982fff58aa826885d.jpg"></article>]]></description>
+            <link>http://themerkle.com/litecoin-is-far-more-popular-among-cny-traders-than-ethereum/</link>
+            <guid isPermaLink="false">16737d68-8b97-4462-9c19-e3cd5b394721</guid>
+            <pubDate>Tue, 31 May 2016 13:46:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin ATMs Are Popular With the Unbanked, But the Regulatory Future Is Unclear]]></title>
             <description><![CDATA[<article><h1>Bitcoin ATMs Are Popular With the Unbanked, But the Regulatory Future Is Unclear</h1><p>A trend is emerging in the Bitcoin ATM industry. Demand for the services among the underbanked and unbanked has seen steady growth in the two years since the industry's first Bitcoin ATMs-often referred to as Bitcoin Transaction Machines, or BTMs-were installed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df49cfb38e016d55d02038d4e72a6a6da2b27d7f.jpg"></article>]]></description>
             <link>http://motherboard.vice.com/read/bitcoin-atms-unbanked-regulation</link>
             <guid isPermaLink="false">281699c8-cbbf-452c-835e-8119943e467a</guid>
+            <pubDate>Tue, 31 May 2016 13:46:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who came up with the ideas for Ethereum and why?]]></title>
+            <description><![CDATA[<article><h1>Who came up with the ideas for Ethereum and why?</h1><p>Answer: Vitalik Buterin, is the original inventor of Ethereum, he understood that Bitcoin has a fundamental limit as, while it's scriptable, it can not hold state in its transactions. Having this additional feature would make it easy for a blockchain to have smart contracts. A programming langua...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/Who-came-up-with-the-ideas-for-Ethereum-and-why</link>
+            <guid isPermaLink="false">dbdd0d65-8f1f-46f5-9616-997f9cd889f1</guid>
             <pubDate>Tue, 31 May 2016 13:46:31 GMT</pubDate>
         </item>
         <item>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Rally: 'Hot Money in China Has to Go Somewhere'</h1><p>Chinese Bitcoin exchanges such as Huobi and BTCC have been showing unprecedented volume as the price of bitcoin in China has been roughly $50 USD or higher than most U.S. and European exchanges. The question is: why are the Chinese buying so much of the cryptocurrency, and why now?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4638b7d8854bb08fa33985c4044dc575ebdc5901.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/hot-money-china-go-somewhere/</link>
             <guid isPermaLink="false">ae1123aa-f4f3-41ba-bded-cb1c403f5155</guid>
-            <pubDate>Tue, 31 May 2016 13:46:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Antminer S9 is The Most Power Efficient 16nm Bitcoin Miner]]></title>
-            <description><![CDATA[<article><h1>The Antminer S9 is The Most Power Efficient 16nm Bitcoin Miner</h1><p>There will only be a limited quantity available for every batch of Antminer S9 miners, and interested parties are advised to place their order as soon as possible. Bitmain remains one of the market leaders in the Bitcoin mining hardware manufacturer space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43cfc6d43a55ea4f964a522ebe2781b17191ab0c.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/31/antminer-s9-power-efficient-16nm-bitcoin-miner/</link>
-            <guid isPermaLink="false">4005f443-64cc-48a9-a7f5-39840e701ec7</guid>
-            <pubDate>Tue, 31 May 2016 13:46:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitmain's Antminer S9 Announced at 14 th/s Using 16nm ASICs]]></title>
-            <description><![CDATA[<article><h1>Bitmain's Antminer S9 Announced at 14 th/s Using 16nm ASICs</h1><p>Bitmain has just released the specifications and a rough shipping time frame of the long-awaited Antminer S9 using the new 16nm process for the ASIC. Also Read: Bitmain Adds Ethereum Mining Support To Antpool The new S9 uses 189 chips to achieve this speed across 3 boards.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83edfe1dcf7066bf7b3e3ba3bbbadcd0c1ec56bf.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/bitmain-antminer-s9-announced/</link>
-            <guid isPermaLink="false">e0bb6708-6e20-4e1f-9be1-0492e397def2</guid>
             <pubDate>Tue, 31 May 2016 13:46:30 GMT</pubDate>
         </item>
     </channel>
