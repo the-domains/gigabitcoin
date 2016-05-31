@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 13:47:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 13:47:43 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Watch; 575 A Realistic Target]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Watch; 575 A Realistic Target</h1><p>Here's what we are focusing on for this morning's session in the bitcoin price. We are about to head into a Fresh European session this morning in the bitcoin price, and there's plenty to talk about.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7c7af2a6ec16ad924de0e78b21e116a7b30d8db.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/05/31/bitcoin-price-watch-575-a-realistic-target/</link>
+            <guid isPermaLink="false">dc6b7a52-266a-446f-82f6-e070f6aac128</guid>
+            <pubDate>Tue, 31 May 2016 13:46:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lead Tor Developer Keeps Getting Harassed By FBI]]></title>
             <description><![CDATA[<article><h1>Lead Tor Developer Keeps Getting Harassed By FBI</h1><p>The FBI seems to have taken an unusual interest in Tor lead developer Isis Agora Lovecruft. In fact, she has accused the law enforcement agency of harassment For the time being, it remains unclear as to why the FBI wants to talk to her so desperately, but there is no legal obligation for Lovecruft to do so.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df570a06c1d3c68af64e00f6144a148f2eabe1ec.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>As Bitcoin Mining Stabilizes, Bitmain Announces the Release of its New S9 ASIC Miner</h1><p>Today, Bitmain, the Beijing-based Bitcoin mining giant, is releasing its new S9 ASIC miner. It is the first commercially available mining unit to use a cluster of 189 16nm ASICs and deliver a mining power of 14TH/s per single unit. The S9 compares favorably to both Bitmain's earlier models of miners and products of other companies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27644bcdd4a3f09e0678aeeb83c70c7f00f76541.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/as-bitcoin-mining-stabilizes-bitmain-announces-the-release-of-its-new-s9-asic-miner</link>
             <guid isPermaLink="false">eb564a60-41e9-4c3f-991f-2ea353ad888f</guid>
-            <pubDate>Tue, 31 May 2016 13:46:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Support Coming? PayPal Files Patent for Payment Device That Accepts Cryptocurrencies]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Support Coming? PayPal Files Patent for Payment Device That Accepts Cryptocurrencies</h1><p>The application, filed with the U.S. Patent & Trademark Office, includes a lengthy description of how it manages virtual currencies and it specifically names bitcoin, Litecoin and Dogecoin. The application also describes physical characteristics of the device, and it includes an image of the device. The application's abstract describes a modular payment module.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03f9842e2ccff7c6d6c53c7230368e0e36623aa0.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-support-paypal-patent-device/</link>
-            <guid isPermaLink="false">f77650f7-49f4-4034-be30-abeb7f5e035b</guid>
             <pubDate>Tue, 31 May 2016 13:46:30 GMT</pubDate>
         </item>
     </channel>
