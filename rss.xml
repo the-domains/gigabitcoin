@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 19:04:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 19:04:05 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Economist Argues Bitcoin Isn't Money in Closely Watched Court Case]]></title>
+            <description><![CDATA[<article><h1>Economist Argues Bitcoin Isn't Money in Closely Watched Court Case</h1><p>In a court proceeding watched closely in tech and financial circles across the United States and the world, an economist last week that bitcoin isn't really money and thus not subject to money-laundering laws. The judge's decision-not expected for several weeks-could have a major impact on the future of the cryptocurrency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/48f291b4f9a90e6e4fc37f6640fc33e4aade8728.jpg"></article>]]></description>
+            <link>http://time.com/money/4352225/bitcoin-money-laundering-case/</link>
+            <guid isPermaLink="false">5162617e-b226-4e97-a38b-5e5e393137c4</guid>
+            <pubDate>Tue, 31 May 2016 19:03:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Watch; The Evening Ahead - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Watch; The Evening Ahead - NEWSBTC</h1><p>Here's what we are focusing on for this evening's session in the bitcoin price. The European session is about to draw to a close, and it has been another eventful day in the bitcoin price.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0ab067658131a688d01946aa6a369cdb19aa48d.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://themerkle.com/uk-residents-can-now-pre-order-the-microbit-programmable-board/</link>
             <guid isPermaLink="false">431c46b6-03d8-44e7-84b4-3041aa77b99f</guid>
             <pubDate>Tue, 31 May 2016 19:03:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Hits $550, Pullback.]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Hits $550, Pullback.</h1><p>Bitcoin price achieved $550 in the Bitstamp chart, today. With Bitfinex already having spiked to $570, it looks like price will now correct the wave of advance before pushing higher. Technical analysis looks for confirmation of the move, as well as its potential targets. This analysis is provided by xbt.social with a 3-hour delay.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/adef6a0b0f944c3ba6b58a214c8a440a6b8c21d9.png"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-price-hits-550-pullback/</link>
-            <guid isPermaLink="false">408571e6-9248-4ffc-9936-e9f9a6ffa3e7</guid>
-            <pubDate>Tue, 31 May 2016 19:03:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
