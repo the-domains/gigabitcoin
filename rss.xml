@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 02:07:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 02:07:21 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="http://imgur.com/gADXwR7.jpg"></article>]]></description>
-            <link>http://i.imgur.com/gADXwR7.jpg</link>
-            <guid isPermaLink="false">d29243d9-7137-4b61-bd68-d9e2c739ce8d</guid>
-            <pubDate>Wed, 01 Jun 2016 02:07:16 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Allwinner Technologies Leaves Dev Tool that Allows Root on linux]]></title>
             <description><![CDATA[<article><h1>Allwinner Technologies Leaves Dev Tool that Allows Root on linux</h1><p>Running a Bitcoin node on your ARM single board computer? Fan of cheap Chinese tablets and smartphones? Maybe you contributed to the recent CHIP computer Kickstarter, or host a wallet on one of these devices.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b4b1fb5418b37f5eb3c1a2ed99c32e005ae5694.png"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>SatoshiPay Unveils New API And Surpasses 10,000 User Wallets</h1><p>Bitcoin seems to hold a lot of merit in the world micro- and nano-transactions. SatoshiPay is one of the companies exploring this space, and they have released their new API earlier today. Additionally, the company also announced they reached the milestone of 10,000 user-generated wallets.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45eb0d704acf6043dad80c8800db558bd6762345.png"></article>]]></description>
             <link>http://bitcoinist.net/satoshipay-api-10000-user-wallets/</link>
             <guid isPermaLink="false">37c6b847-1ef4-4bc7-8121-b58b2be7453e</guid>
+            <pubDate>Tue, 31 May 2016 19:03:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to use Watch-only Addresses]]></title>
+            <description><![CDATA[<article><h1>How to use Watch-only Addresses</h1><p>Watch-only addresses are a Blockchain Wallet feature you can find in the Imported Addresses section of your wallet. In recent updates, we've made some improvements to how you can use watch-only addresses, and how the balances of these addresses are reflected in your wallet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e51dbcf604b6638e8ded41fea2509a039e7ec408.png"></article>]]></description>
+            <link>https://blog.blockchain.com/2016/05/31/how-to-use-watch-only-addresses/</link>
+            <guid isPermaLink="false">98de792f-4373-4c73-a08a-95abf19ff1b2</guid>
             <pubDate>Tue, 31 May 2016 19:03:08 GMT</pubDate>
         </item>
     </channel>
