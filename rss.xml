@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 02:08:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 02:08:01 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Intel to Collaborate with The Floor to Nurture Fintech Ideas]]></title>
-            <description><![CDATA[<article><h1>Intel to Collaborate with The Floor to Nurture Fintech Ideas</h1><p>Israel may soon become one of the important fintech hubs in the world, thanks to the collaboration between the Floor and Intel. Read more... Intel Corporation ( NASDAQ: INTC), the semiconductor giant has joined hands with The Floor, a fintech hub located at the Tel Aviv Stock Exchange to start its own fintech innovation hub in Israel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0fb3832fc81e314e44a4caa0f35cd84f7c9a5eed.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/05/31/intel-collaborate-floor-nurture-fintech-ideas/</link>
-            <guid isPermaLink="false">e979992b-938d-4f67-b793-1f5ec879b999</guid>
-            <pubDate>Wed, 01 Jun 2016 02:07:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cameron Winklevoss on Bitcoin's Price Volatility: No Reward Without Risk]]></title>
-            <description><![CDATA[<article><h1>Cameron Winklevoss on Bitcoin's Price Volatility: No Reward Without Risk</h1><p>One of the main criticisms of Bitcoin as a currency has been price volatility. While most people are attracted to the low costs and quick settlement.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e625a6e004cc945dd54d74e9cf82255025bb901a.jpg"></article>]]></description>
-            <link>http://www.nasdaq.com/article/cameron-winklevoss-on-bitcoins-price-volatility-no-reward-without-risk-cm628534</link>
-            <guid isPermaLink="false">7db31434-f405-487e-8c91-870c4fd3173b</guid>
-            <pubDate>Wed, 01 Jun 2016 02:07:17 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Startups Can Explore A Different Form of Venture Capital]]></title>
             <description><![CDATA[<article><h1>Bitcoin Startups Can Explore A Different Form of Venture Capital</h1><p>Venture capital is often seen as a milestone for startups and entrepreneurs in any industry. Bitcoin companies welcome VC funds as well, although Indie.vc is displaying an attractive alternative. Also read: Bitcoin's Market Cap is Not What You Think it is Getting a venture capitalist on board is a big deal for any startup, as they bring much-needed funding to the table.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71fbc18f563110bf190efc3f4bebde290ef9c36a.jpg"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>Intel Launches New Fintech Lab In Israel</h1><p>Semiconductor giant Intel has launched its new FinTech lab in Israel. The new venture will focus on various technologies like blockchains, IoT, cloud computing and biometrics. Intel's new innovation lab is being formed in collaboration with The Floor, an Israeli FinTech hub situated at the Tel Aviv Stock Exchange, which recently raised $2 million from Pando Group, a $250 million Chinese-Israeli VC firm.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/493ac42e052008fe62da6c6eff62696ac83e628b.jpg"></article>]]></description>
             <link>http://themerkle.com/intel-launches-new-fintech-lab-in-israel/</link>
             <guid isPermaLink="false">f92211dd-d7e2-4aa3-85f5-d0eb314a3678</guid>
+            <pubDate>Wed, 01 Jun 2016 02:07:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://imgur.com/gADXwR7.jpg"></article>]]></description>
+            <link>http://i.imgur.com/gADXwR7.jpg</link>
+            <guid isPermaLink="false">d29243d9-7137-4b61-bd68-d9e2c739ce8d</guid>
+            <pubDate>Wed, 01 Jun 2016 02:07:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Allwinner Technologies Leaves Dev Tool that Allows Root on linux]]></title>
+            <description><![CDATA[<article><h1>Allwinner Technologies Leaves Dev Tool that Allows Root on linux</h1><p>Running a Bitcoin node on your ARM single board computer? Fan of cheap Chinese tablets and smartphones? Maybe you contributed to the recent CHIP computer Kickstarter, or host a wallet on one of these devices.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b4b1fb5418b37f5eb3c1a2ed99c32e005ae5694.png"></article>]]></description>
+            <link>http://bitcoinist.net/allwinner-leaves-root-exploit-in-linux-kernel-putting-arm-devices-at-risk/</link>
+            <guid isPermaLink="false">ce19b202-a017-404c-97a4-0398c678c8c5</guid>
             <pubDate>Wed, 01 Jun 2016 02:07:16 GMT</pubDate>
         </item>
     </channel>
