@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 14:42:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 14:42:09 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Waves Raise Nearly $16 Million in a Crowdsale]]></title>
+            <description><![CDATA[<article><h1>Waves Raise Nearly $16 Million in a Crowdsale</h1><p>Blockchain platform Waves has finalized its pre-sale of tokens, having raised 29,445 BTC over the course of the crowdsale. At current exchange rate, this amount equals to $15,754,793. As soon as the official ICO was over, the platform's site read 29,445 BTC. That is the amount of sold Waves' tokens.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/31e42784a5ad42b81b5bf7b5d45755ce5639ee83.png"></article>]]></description>
+            <link>http://forklog.net/waves-raise-nearly-16-million-in-a-crowdsale/</link>
+            <guid isPermaLink="false">15bc2a31-0de9-43b6-a6b7-8df76aef3db0</guid>
+            <pubDate>Wed, 01 Jun 2016 14:41:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[PSA: Bitcoin newbies will be flooding in, play nice and don't be know it alls. I know it's tempting but please be inclusive. * /r/Bitcoin]]></title>
             <description><![CDATA[<article><h1>PSA: Bitcoin newbies will be flooding in, play nice and don't be know it alls. I know it's tempting but please be inclusive. * /r/Bitcoin</h1><p>57 points and 15 comments so far on reddit</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Sandjacking iOS Exploit Threatens Bitcoin and Ethereum Wallets</h1><p>Albeit Bitcoin and Ethereum wallets have only recently started appearing on the iOS App Store; cryptocurrency users will need to be extra vigilant. A new hack allows attackers to switch legitimate applications with malicious versions. This also means we may very well see fake bitcoin and Ethereum wallet releases in the future.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53e2fdef8b95c1ff0722dd555cbdc22c5f980002.jpg"></article>]]></description>
             <link>http://bitcoinist.net/sandjacking-ios-bitcoin-ethereum/</link>
             <guid isPermaLink="false">c7434a23-a7d1-4f1f-956d-736756431f51</guid>
-            <pubDate>Wed, 01 Jun 2016 13:20:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What can be done to slow/prevent mining centralization?]]></title>
-            <description><![CDATA[<article><h1>What can be done to slow/prevent mining centralization?</h1><p>Asking how to prevent the mining industry from being centralized into places with low electricity costs is like asking how to prevent the shipping industry from being centralized into cities that are on the coast. Both industries will tend to thrive in places where the profit margins are highest...and there's no profit margin in building a port in a land-locked city.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/44543/what-can-be-done-to-slow-prevent-mining-centralization</link>
-            <guid isPermaLink="false">a0ea0d75-9457-44ba-9988-e13ea75942d8</guid>
             <pubDate>Wed, 01 Jun 2016 13:20:06 GMT</pubDate>
         </item>
     </channel>
