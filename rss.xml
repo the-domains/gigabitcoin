@@ -4,8 +4,57 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 19:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 02:07:58 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[R3 Meets Obama Advisors at Washington Blockchain Event - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>R3 Meets Obama Advisors at Washington Blockchain Event - CoinDesk</h1><p>Advisors to US President Barack Obama hosted distributed ledger banking consortium R3CEV and three other bitcoin and blockchain industry representatives at the National Academy of Sciences in Washington, DC earlier this month.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9bab5d1635ff6bc9f588e38e394a4b77298f1c5c.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/r3-obama-advisors-white-house-blockchain/</link>
+            <guid isPermaLink="false">837d37ca-8e10-419d-a849-c619a0b3eefb</guid>
+            <pubDate>Wed, 01 Jun 2016 02:07:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Windows Binaries for the cpuminer-opt 3.3 CPU Miner]]></title>
+            <description><![CDATA[<article><h1>Windows Binaries for the cpuminer-opt 3.3 CPU Miner</h1><p>The cpuminer-opt miner ( source) is a fork from cpuminer-multi by tpruvot that adds optimizations for many algorithms for more recent CPUs with support for the AES-NI instruction set, though the miner also works on older SSE2 capable CPUs with lower performance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/46b129f14fc325dd1fe6b9f50c143b3fa0244e21.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7900-windows-binaries-for-the-cpuminer-opt-3-3-cpu-miner/</link>
+            <guid isPermaLink="false">8824316a-9812-4b58-938b-e307beaa6249</guid>
+            <pubDate>Wed, 01 Jun 2016 02:07:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Difficulty in obtaining vanity Bitcoin addresses]]></title>
+            <description><![CDATA[<article><h1>Difficulty in obtaining vanity Bitcoin addresses</h1><p>What is the formula I can use to estimate the difficulty in generating vanity Bitcoin addresses?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/44534/difficulty-in-obtaining-vanity-bitcoin-addresses</link>
+            <guid isPermaLink="false">e8fd433b-4bcb-4ecb-bd17-4d70bb52db27</guid>
+            <pubDate>Wed, 01 Jun 2016 02:07:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Intel Launches New Fintech Lab In Israel]]></title>
+            <description><![CDATA[<article><h1>Intel Launches New Fintech Lab In Israel</h1><p>Semiconductor giant Intel has launched its new FinTech lab in Israel. The new venture will focus on various technologies like blockchains, IoT, cloud computing and biometrics. Intel's new innovation lab is being formed in collaboration with The Floor, an Israeli FinTech hub situated at the Tel Aviv Stock Exchange, which recently raised $2 million from Pando Group, a $250 million Chinese-Israeli VC firm.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/493ac42e052008fe62da6c6eff62696ac83e628b.jpg"></article>]]></description>
+            <link>http://themerkle.com/intel-launches-new-fintech-lab-in-israel/</link>
+            <guid isPermaLink="false">f92211dd-d7e2-4aa3-85f5-d0eb314a3678</guid>
+            <pubDate>Wed, 01 Jun 2016 02:07:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://imgur.com/gADXwR7.jpg"></article>]]></description>
+            <link>http://i.imgur.com/gADXwR7.jpg</link>
+            <guid isPermaLink="false">d29243d9-7137-4b61-bd68-d9e2c739ce8d</guid>
+            <pubDate>Wed, 01 Jun 2016 02:07:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Allwinner Technologies Leaves Dev Tool that Allows Root on linux]]></title>
+            <description><![CDATA[<article><h1>Allwinner Technologies Leaves Dev Tool that Allows Root on linux</h1><p>Running a Bitcoin node on your ARM single board computer? Fan of cheap Chinese tablets and smartphones? Maybe you contributed to the recent CHIP computer Kickstarter, or host a wallet on one of these devices.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b4b1fb5418b37f5eb3c1a2ed99c32e005ae5694.png"></article>]]></description>
+            <link>http://bitcoinist.net/allwinner-leaves-root-exploit-in-linux-kernel-putting-arm-devices-at-risk/</link>
+            <guid isPermaLink="false">ce19b202-a017-404c-97a4-0398c678c8c5</guid>
+            <pubDate>Wed, 01 Jun 2016 02:07:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Analysis: 5/31/2016]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Analysis: 5/31/2016</h1><p>The movement of Bitcoin's price continues within the limits of the weekly flat. A new upward surge could be a false one, and the price will return back inside the flat. The movement, which is forming at the level of $518, could turn out to be a wave of the flat.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/947ad15504bb86578154ffe25e7cc291351d571e.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/bitcoin-price-analysis-5312016</link>
+            <guid isPermaLink="false">20764542-c0a8-4803-83d6-bf7b7e4e9ceb</guid>
+            <pubDate>Tue, 31 May 2016 19:03:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Economist Argues Bitcoin Isn't Money in Closely Watched Court Case]]></title>
             <description><![CDATA[<article><h1>Economist Argues Bitcoin Isn't Money in Closely Watched Court Case</h1><p>In a court proceeding watched closely in tech and financial circles across the United States and the world, an economist last week that bitcoin isn't really money and thus not subject to money-laundering laws. The judge's decision-not expected for several weeks-could have a major impact on the future of the cryptocurrency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/48f291b4f9a90e6e4fc37f6640fc33e4aade8728.jpg"></article>]]></description>
@@ -26,55 +75,6 @@
             <link>http://themerkle.com/ologies-unveils-first-commercially-available-16nm-bitcoin-miner/</link>
             <guid isPermaLink="false">2f50da0e-4810-43dc-868d-71c8858e57c1</guid>
             <pubDate>Tue, 31 May 2016 19:03:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3 Reasons Bitcoin is Booming Again, Price Nears $550]]></title>
-            <description><![CDATA[<article><h1>3 Reasons Bitcoin is Booming Again, Price Nears $550</h1><p>Here we go again. After a long stretch in which the price of bitcoin held stable, the world's most famous digital currency is on the move again-and this time it's heading straight up. On Tuesday, bitcoin was nosing towards $550 per unit, which is even higher than August 2014, when bitcoin prices reached almost $533.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/48da8488c50ccc31b881544b716fb6301790b87a.jpg"></article>]]></description>
-            <link>http://fortune.com/2016/05/31/3-reasons-bitcoin-is-booming-again-price-nears-550/</link>
-            <guid isPermaLink="false">d16660b7-218b-4816-bdcc-e2a2bdfd4a3b</guid>
-            <pubDate>Tue, 31 May 2016 19:03:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Japan's Trade Ministry: Government Should Promote Blockchain Use Cases - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Japan's Trade Ministry: Government Should Promote Blockchain Use Cases - CoinDesk</h1><p>Japan's Ministry of Economy, Trade and Industry (METI) has released the results of a new survey on blockchain technology, recommending that government groups play a leading role in "verifying the validity" of its use cases.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ee4a580a0dcbaec7c551bda656ac28db24bb805.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/japans-government-blockchain-use-cases/</link>
-            <guid isPermaLink="false">5c81afb7-76f2-48be-9b16-268e871f298e</guid>
-            <pubDate>Tue, 31 May 2016 19:03:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Feds Discover Bitcoin Theiving Sheep Marketplace Culprits]]></title>
-            <description><![CDATA[<article><h1>Feds Discover Bitcoin Theiving Sheep Marketplace Culprits</h1><p>One of the oldest, largest thefts in Bitcoin history, the robbery of early Darknet Market (DNM) Sheep Marketplace, may have finally reached its conclusion. Folks newer to Bitcoin may not remember the scandal, which led to the closure of the popular bazaar of mostly illegal drugs, which was later found to be run out of the Czech Republic, as thCCN reported in March of last year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44a99ebfe7230abc1ec863cfcc19aa363b347f6b.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/feds-sheep-marketplace-bitcoin-thieves/</link>
-            <guid isPermaLink="false">b28795aa-3e57-43e5-b73e-f7664a5048fa</guid>
-            <pubDate>Tue, 31 May 2016 19:03:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SatoshiPay Unveils New API And Surpasses 10,000 User Wallets]]></title>
-            <description><![CDATA[<article><h1>SatoshiPay Unveils New API And Surpasses 10,000 User Wallets</h1><p>Bitcoin seems to hold a lot of merit in the world micro- and nano-transactions. SatoshiPay is one of the companies exploring this space, and they have released their new API earlier today. Additionally, the company also announced they reached the milestone of 10,000 user-generated wallets.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45eb0d704acf6043dad80c8800db558bd6762345.png"></article>]]></description>
-            <link>http://bitcoinist.net/satoshipay-api-10000-user-wallets/</link>
-            <guid isPermaLink="false">37c6b847-1ef4-4bc7-8121-b58b2be7453e</guid>
-            <pubDate>Tue, 31 May 2016 19:03:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to use Watch-only Addresses]]></title>
-            <description><![CDATA[<article><h1>How to use Watch-only Addresses</h1><p>Watch-only addresses are a Blockchain Wallet feature you can find in the Imported Addresses section of your wallet. In recent updates, we've made some improvements to how you can use watch-only addresses, and how the balances of these addresses are reflected in your wallet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e51dbcf604b6638e8ded41fea2509a039e7ec408.png"></article>]]></description>
-            <link>https://blog.blockchain.com/2016/05/31/how-to-use-watch-only-addresses/</link>
-            <guid isPermaLink="false">98de792f-4373-4c73-a08a-95abf19ff1b2</guid>
-            <pubDate>Tue, 31 May 2016 19:03:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australian police to auction $13m in confiscated bitcoins]]></title>
-            <description><![CDATA[<article><h1>Australian police to auction $13m in confiscated bitcoins</h1><p>About $13m in bitcoins will be auctioned in Sydney in June after Victorian police confiscated the digital currency as proceeds of crime. Ernst & Young is running the process, which is only the second such bitcoin auction in the world after the US Marshals Service sold 144,000 bitcoins over a two-year period that had been confiscated from Ross Ulbricht, who founded the online drug bazaar Silk Road, the accountancy firm's transaction partner, Adam Nikitins, said.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4250953177ed738fe1ec2fedac8ba428debfded.jpg"></article>]]></description>
-            <link>https://www.theguardian.com/technology/2016/may/31/australian-police-to-auction-13m-in-confiscated-bitcoins</link>
-            <guid isPermaLink="false">532e59bd-276f-4da4-9106-d3486f6f328e</guid>
-            <pubDate>Tue, 31 May 2016 19:03:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK Residents Can Now Pre-order the micro:bit Programmable Board]]></title>
-            <description><![CDATA[<article><h1>UK Residents Can Now Pre-order the micro:bit Programmable Board</h1><p>Learning to code is an important part of education, or so it should be, at least. Over in the United Kingdom, a new programmable board has been made available to the public. Albeit this device was originally intended for educational purposes only, there was an overwhelming demand for the micro:bit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b51e09f00627dfbce8e0e017a8ba72241256ea6d.jpg"></article>]]></description>
-            <link>http://themerkle.com/uk-residents-can-now-pre-order-the-microbit-programmable-board/</link>
-            <guid isPermaLink="false">431c46b6-03d8-44e7-84b4-3041aa77b99f</guid>
-            <pubDate>Tue, 31 May 2016 19:03:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
