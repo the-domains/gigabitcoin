@@ -4,13 +4,20 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 02:07:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 02:07:58 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Difficulty in obtaining vanity Bitcoin addresses]]></title>
             <description><![CDATA[<article><h1>Difficulty in obtaining vanity Bitcoin addresses</h1><p>What is the formula I can use to estimate the difficulty in generating vanity Bitcoin addresses?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/44534/difficulty-in-obtaining-vanity-bitcoin-addresses</link>
             <guid isPermaLink="false">e8fd433b-4bcb-4ecb-bd17-4d70bb52db27</guid>
+            <pubDate>Wed, 01 Jun 2016 02:07:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Intel Launches New Fintech Lab In Israel]]></title>
+            <description><![CDATA[<article><h1>Intel Launches New Fintech Lab In Israel</h1><p>Semiconductor giant Intel has launched its new FinTech lab in Israel. The new venture will focus on various technologies like blockchains, IoT, cloud computing and biometrics. Intel's new innovation lab is being formed in collaboration with The Floor, an Israeli FinTech hub situated at the Tel Aviv Stock Exchange, which recently raised $2 million from Pando Group, a $250 million Chinese-Israeli VC firm.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/493ac42e052008fe62da6c6eff62696ac83e628b.jpg"></article>]]></description>
+            <link>http://themerkle.com/intel-launches-new-fintech-lab-in-israel/</link>
+            <guid isPermaLink="false">f92211dd-d7e2-4aa3-85f5-d0eb314a3678</guid>
             <pubDate>Wed, 01 Jun 2016 02:07:16 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Japan's Trade Ministry: Government Should Promote Blockchain Use Cases - CoinDesk</h1><p>Japan's Ministry of Economy, Trade and Industry (METI) has released the results of a new survey on blockchain technology, recommending that government groups play a leading role in "verifying the validity" of its use cases.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ee4a580a0dcbaec7c551bda656ac28db24bb805.jpg"></article>]]></description>
             <link>http://www.coindesk.com/japans-government-blockchain-use-cases/</link>
             <guid isPermaLink="false">5c81afb7-76f2-48be-9b16-268e871f298e</guid>
-            <pubDate>Tue, 31 May 2016 19:03:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Feds Discover Bitcoin Theiving Sheep Marketplace Culprits]]></title>
-            <description><![CDATA[<article><h1>Feds Discover Bitcoin Theiving Sheep Marketplace Culprits</h1><p>One of the oldest, largest thefts in Bitcoin history, the robbery of early Darknet Market (DNM) Sheep Marketplace, may have finally reached its conclusion. Folks newer to Bitcoin may not remember the scandal, which led to the closure of the popular bazaar of mostly illegal drugs, which was later found to be run out of the Czech Republic, as thCCN reported in March of last year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44a99ebfe7230abc1ec863cfcc19aa363b347f6b.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/feds-sheep-marketplace-bitcoin-thieves/</link>
-            <guid isPermaLink="false">b28795aa-3e57-43e5-b73e-f7664a5048fa</guid>
             <pubDate>Tue, 31 May 2016 19:03:10 GMT</pubDate>
         </item>
     </channel>
