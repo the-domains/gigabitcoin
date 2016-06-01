@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 04:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 13:20:07 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Antonopoulos: 'The Open Blockchain Will Change This World']]></title>
+            <description><![CDATA[<article><h1>Antonopoulos: 'The Open Blockchain Will Change This World'</h1><p>Bitcoin expert Andreas Antonopoulos recently told an audience of executives and regulators that private "intranet" blockchains will need to interoperate with "the internet of money" i.e. Bitcoin, whose open blockchain "will change this world." Also read: Jaxx Ice Cube Offers 'Deeper' Cold Storage for Your Bits & Ether Bitcoin expert Andreas Antonopoulos recently gave a talk - titled What is the Blockchain?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03c22dd5d37ef27f97ac7526f2176abda0759d6a.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/antonopoulos-open-blockchain/</link>
+            <guid isPermaLink="false">597e8395-50a4-4ca7-8d04-61b423e32ac7</guid>
+            <pubDate>Wed, 01 Jun 2016 13:20:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin's Rise To A Major Currency]]></title>
             <description><![CDATA[<article><h1>Bitcoin's Rise To A Major Currency</h1><p>Until around 2012, the benefits of bitcoin were largely theoretical. You could pay anyone in the world almost instantly and almost free. The recipient, however, would have limited uses for the bitcoin he received apart from holding it speculatively or converting it to local currency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92beabe9d4066b7c84a3bdc21a61268cd42265c7.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://cryptomining-blog.com/7900-windows-binaries-for-the-cpuminer-opt-3-3-cpu-miner/</link>
             <guid isPermaLink="false">8824316a-9812-4b58-938b-e307beaa6249</guid>
             <pubDate>Wed, 01 Jun 2016 02:07:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Difficulty in obtaining vanity Bitcoin addresses]]></title>
-            <description><![CDATA[<article><h1>Difficulty in obtaining vanity Bitcoin addresses</h1><p>What is the formula I can use to estimate the difficulty in generating vanity Bitcoin addresses?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/44534/difficulty-in-obtaining-vanity-bitcoin-addresses</link>
-            <guid isPermaLink="false">e8fd433b-4bcb-4ecb-bd17-4d70bb52db27</guid>
-            <pubDate>Wed, 01 Jun 2016 02:07:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
