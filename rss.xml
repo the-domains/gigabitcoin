@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 13:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 13:20:08 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DAMN, Research Proposal that Aims to Make Smart Contracts Work for All]]></title>
+            <description><![CDATA[<article><h1>DAMN, Research Proposal that Aims to Make Smart Contracts Work for All</h1><p>DAMN, a research proposal seeking to provide arbitration for smart contracts, has been presented to the public. Its creators seek feedback to determine its necessity in a growing digital currency ecosystem.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0154cfcc226d14bb0b4f8e7c4a7e69a1d6c06451.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/damn-research-proposal-that-aims-to-make-smart-contracts-work-for-all</link>
+            <guid isPermaLink="false">dd46713f-f5a0-4770-9068-171513f8bca4</guid>
+            <pubDate>Wed, 01 Jun 2016 13:20:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Antonopoulos: 'The Open Blockchain Will Change This World']]></title>
             <description><![CDATA[<article><h1>Antonopoulos: 'The Open Blockchain Will Change This World'</h1><p>Bitcoin expert Andreas Antonopoulos recently told an audience of executives and regulators that private "intranet" blockchains will need to interoperate with "the internet of money" i.e. Bitcoin, whose open blockchain "will change this world." Also read: Jaxx Ice Cube Offers 'Deeper' Cold Storage for Your Bits & Ether Bitcoin expert Andreas Antonopoulos recently gave a talk - titled What is the Blockchain?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03c22dd5d37ef27f97ac7526f2176abda0759d6a.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>R3 Meets Obama Advisors at Washington Blockchain Event - CoinDesk</h1><p>Advisors to US President Barack Obama hosted distributed ledger banking consortium R3CEV and three other bitcoin and blockchain industry representatives at the National Academy of Sciences in Washington, DC earlier this month.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9bab5d1635ff6bc9f588e38e394a4b77298f1c5c.jpg"></article>]]></description>
             <link>http://www.coindesk.com/r3-obama-advisors-white-house-blockchain/</link>
             <guid isPermaLink="false">837d37ca-8e10-419d-a849-c619a0b3eefb</guid>
-            <pubDate>Wed, 01 Jun 2016 02:07:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Windows Binaries for the cpuminer-opt 3.3 CPU Miner]]></title>
-            <description><![CDATA[<article><h1>Windows Binaries for the cpuminer-opt 3.3 CPU Miner</h1><p>The cpuminer-opt miner ( source) is a fork from cpuminer-multi by tpruvot that adds optimizations for many algorithms for more recent CPUs with support for the AES-NI instruction set, though the miner also works on older SSE2 capable CPUs with lower performance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/46b129f14fc325dd1fe6b9f50c143b3fa0244e21.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7900-windows-binaries-for-the-cpuminer-opt-3-3-cpu-miner/</link>
-            <guid isPermaLink="false">8824316a-9812-4b58-938b-e307beaa6249</guid>
             <pubDate>Wed, 01 Jun 2016 02:07:17 GMT</pubDate>
         </item>
     </channel>
