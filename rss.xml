@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 13:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 13:21:23 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Watch; Tightening Things Up]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Watch; Tightening Things Up</h1><p>Here's what we are focusing on for this morning's session in the bitcoin price. It has been a pretty interesting week so far in the bitcoin price. Having carved out fresh highs over the weekend, price has spent the first three days of this week in decline, and overnight, reached fresh lows just ahead of 534, before correcting into today's European open.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88ff6661493aabd226c87c772202de7e70493fc7.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/01/bitcoin-price-watch-tightening-things-2/</link>
+            <guid isPermaLink="false">cdf1391e-79b0-4b03-955d-5a7c22db2bfa</guid>
+            <pubDate>Wed, 01 Jun 2016 13:20:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sandjacking iOS Exploit Threatens Bitcoin and Ethereum Wallets]]></title>
             <description><![CDATA[<article><h1>Sandjacking iOS Exploit Threatens Bitcoin and Ethereum Wallets</h1><p>Albeit Bitcoin and Ethereum wallets have only recently started appearing on the iOS App Store; cryptocurrency users will need to be extra vigilant. A new hack allows attackers to switch legitimate applications with malicious versions. This also means we may very well see fake bitcoin and Ethereum wallet releases in the future.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53e2fdef8b95c1ff0722dd555cbdc22c5f980002.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Sberbank of Russia to Develop a Blockchain-based IT Platform</h1><p>Speaking to Russian TV channel Russia 24, head of Sberbank German Gref stated that the country's largest state-owned bank intends to complete the development of its blockchain-based IT platform by the end of 2018. According to Gref, currently some elements of the platform are undergoing testing, with industry-wide operation to commence the next year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/073b2a0c6faf10b5ed4649c213d848491832dae7.png"></article>]]></description>
             <link>http://forklog.net/sberbank-of-russia-to-develop-a-blockchain-based-it-platform/</link>
             <guid isPermaLink="false">ad2b4fd8-14b5-4261-92a2-5d22c745684a</guid>
-            <pubDate>Wed, 01 Jun 2016 13:20:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VTB Top Manager: Cryptocurrencies Will Become a Real Means of Settlement and Money Saving]]></title>
-            <description><![CDATA[<article><h1>VTB Top Manager: Cryptocurrencies Will Become a Real Means of Settlement and Money Saving</h1><p>Senior VP of VTB bank Dmitry Breitenbikher told Business FM that cryptocurrencies may become a very real means of settlement and money saving in 10 or 20 years' time. According to Breitenbikher, cryptocurrencies may look like a regular e-payments system, but their internal arrangement is completely different.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4be02759fcf3730940d73ce9ce364b78a9f620f7.jpg"></article>]]></description>
-            <link>http://forklog.net/vtb-top-manager-cryptocurrencies-will-become-a-real-means-of-settlement-and-money-saving/</link>
-            <guid isPermaLink="false">08a73fda-1802-4730-8b83-26cb79c14312</guid>
             <pubDate>Wed, 01 Jun 2016 13:20:05 GMT</pubDate>
         </item>
     </channel>
