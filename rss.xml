@@ -4,29 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 01:54:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2016 01:54:19 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Blockchain Expert Leaves Barclays for FinTech-Focused VC Fund]]></title>
-            <description><![CDATA[<article><h1>Blockchain Expert Leaves Barclays for FinTech-Focused VC Fund</h1><p>Barclays executive Simon Taylor will be leaving his position at the bank to join 11:FS, a new FinTech-focused venture capital fund, as a co-founder. According to a Business Insider report, Taylor served as a VP of Entrepreneurial Partnerships at Barclays for the past three years, where he lead the bank's R&D efforts into the applications of blockchains in the financial industry.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67ceb05025253b81825100c578e9c8f9cecab25f.jpg"></article>]]></description>
-            <link>http://themerkle.com/blockchain-expert-leaves-barclays-for-fintech-focused-vc-fund/</link>
-            <guid isPermaLink="false">99a99ff8-0de1-4aaa-bad1-4a4d9e69459c</guid>
-            <pubDate>Thu, 02 Jun 2016 01:51:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Santander Becomes First U.K. Bank to Introduce Blockchain Technology for International Payments]]></title>
-            <description><![CDATA[<article><h1>Santander Becomes First U.K. Bank to Introduce Blockchain Technology for International Payments</h1><p>Santander U.K. has announced its introduction of blockchain technology for international payments through a new app that is currently being rolled out as a staff pilot. The bank plans to make the application, which is only available on Apple's iOS, available to consumers after it completes the pilot program.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71057622e5468851232dfbfbedee9327ad0b624d.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/santander-becomes-first-u-k-bank-to-introduce-blockchain-technology-for-international-payments-1464795902</link>
-            <guid isPermaLink="false">5a0b4ab4-5c13-4ef4-90e5-08180196b3d7</guid>
-            <pubDate>Thu, 02 Jun 2016 01:51:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockstack to Help Microsoft Develop a Global ID Platform]]></title>
-            <description><![CDATA[<article><h1>Blockstack to Help Microsoft Develop a Global ID Platform</h1><p>The blockchain-based domain name service (DNS) Also read: Banks Can't Afford to Ignore Bitcoin's 'BitTorrent Effect' Blockstack, formally known as has announced a partnership with the Microsoft Azure platform. Developers will work with Microsoft to provide identity solutions, authentication, and storage services without the need for third-party arbitration.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df83fd3dfd8d5da3430170b7a9aefe964c8d1d52.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/blockstack-help-microsoft-global-id/</link>
-            <guid isPermaLink="false">30f883e0-61a7-4f66-8b8f-f0120e41a71a</guid>
-            <pubDate>Thu, 02 Jun 2016 01:51:40 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Price Analysis: Short-Term Bearish]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Analysis: Short-Term Bearish</h1><p>Bitcoin price holds a sideways course since the $550 high, and a brief advancing wave has paused at the time of writing. Some bearish technical indications are evident in the chart, but be cautious of selling just yet. This analysis is provided by xbt.social with a 3-hour delay.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6feaabcd998862fbba544bb464ae49e1f0cd8f82.png"></article>]]></description>
@@ -74,6 +53,27 @@
             <description><![CDATA[<article><h1>Updated ccMiner 1.8-dev fork by tpruvot With X11 Evo Support</h1><p>Here comes another interesting update of the ccMiner fork by tpruvot with a new Windows binary we have compiled from the latest ccMiner 1.8-dev ( source) that comes with support for the new X11 Evo algorithm. The Windows binary is built from the Linux branch and is a 32-bit one compiled with CUDA 6.5 and with support for Compute 2.0 or newer Nvidia GPUs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/925c4014d5a0aaa42dece5f6919eb802726b7d0f.jpg"></article>]]></description>
             <link>http://cryptomining-blog.com/7907-updated-ccminer-1-8-dev-fork-by-tpruvot-with-x11-evo-support/</link>
             <guid isPermaLink="false">7d24f4fb-a8f7-4110-bc3b-13c5ee4cf153</guid>
+            <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMD Radeon RX 480 (Polaris) is Now Official and Looks Promising]]></title>
+            <description><![CDATA[<article><h1>AMD Radeon RX 480 (Polaris) is Now Official and Looks Promising</h1><p>AMD today unveiled the first of its upcoming Polaris architecture-based Radeon RX series graphics cards - the Radeon RX 480 at a surprising price point, surprising at is it quite affordable compared to what you will have to pay for the latest generation of Nvidia Pascal GPUs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c335622479e4eca2b122088af24bff06ef4ff83c.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7911-amd-radeon-rx-480-polaris-is-now-official-and-looks-promising/</link>
+            <guid isPermaLink="false">597c2d1f-e459-473f-9941-0a6ff831e67e</guid>
+            <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Abu Dhabi Regulators Seek Blockchain Startups for FinTech Sandbox - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Abu Dhabi Regulators Seek Blockchain Startups for FinTech Sandbox - CoinDesk</h1><p>The independent regulatory authority of Abu Dhabi's newest financial free zone is seeking to promote the development of blockchain startups as part of a drive to create new efficiencies in the regional financial sector.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ee81e06dfab78984e3f56d928015a7638b125fe.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/abu-dhabi-blockchain-fintech-sandbox/</link>
+            <guid isPermaLink="false">b394fd95-9a18-4225-8149-550483de81f6</guid>
+            <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Per the original Bitcoin white paper, I signed up for a P2P Electronic Cash System, not a settlement layer.pic.twitter.com/Fe63u0EAjj" src="https://pbs.twimg.com/media/Cjy2rOLUgAANTua.jpg:large">]]></description>
+            <link>https://twitter.com/rogerkver/status/737665373219213312</link>
+            <guid isPermaLink="false">3853c410-bc32-420d-a7fa-8b5d2f589778</guid>
             <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
         </item>
     </channel>
