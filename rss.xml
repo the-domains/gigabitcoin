@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 01:53:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2016 01:53:57 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why Industry Observers Say Coinbase's Embrace of Ethereum Was a 'No Brainer' - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Why Industry Observers Say Coinbase's Embrace of Ethereum Was a 'No Brainer' - CoinDesk</h1><p>For some market observers, the embrace of Ethereum by Coinbase was a long time coming. Last month, the co-founder of one of the most heavily funded bitcoin startups, Coinbase, announced that its digital currency exchange would start trading ethers, the native cryptocurrency of the Ethereum network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b3866b3514168c843caa338e3d1a96925bf7bfc.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/coinbase-ethereum-industry-observers/</link>
+            <guid isPermaLink="false">4db686dd-03cb-4ffa-898b-dc918726634e</guid>
+            <pubDate>Thu, 02 Jun 2016 01:51:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft Partners Blockchain Firms to Develop Legal-ID System]]></title>
+            <description><![CDATA[<article><h1>Microsoft Partners Blockchain Firms to Develop Legal-ID System</h1><p>Microsoft is partnering with blockchain firms ConsenSys, an Ethereum-coder collective, and Blockstack Labs, an application stack for decentralized, server-less apps secured by the blockchain, in trying to improve the state of the millions of people - mostly children - who face severe challenges from having no legal identity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc6a0528f500707ab10ad678a484fe0c491ea6de.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/microsoft-partners-blockchain-firms-to-develop-legal-id-system/</link>
+            <guid isPermaLink="false">0ee21641-cb32-4b9f-a666-305a7b0f2753</guid>
+            <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Updated ccMiner 1.8-dev fork by tpruvot With X11 Evo Support]]></title>
             <description><![CDATA[<article><h1>Updated ccMiner 1.8-dev fork by tpruvot With X11 Evo Support</h1><p>Here comes another interesting update of the ccMiner fork by tpruvot with a new Windows binary we have compiled from the latest ccMiner 1.8-dev ( source) that comes with support for the new X11 Evo algorithm. The Windows binary is built from the Linux branch and is a 32-bit one compiled with CUDA 6.5 and with support for Compute 2.0 or newer Nvidia GPUs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/925c4014d5a0aaa42dece5f6919eb802726b7d0f.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin is The Killer App For Mobile Wallets, Not Rewards</h1><p>Mobile wallets are the hot trend these days, but there is still no killer app for this type of digital innovation. Reward schemes may not be the way to go, as they are far too expensive and may not be worth the effort.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3fabe206a6450955be2e9a2085c1451cee696948.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/bitcoin-killer-app-mobile-wallets/</link>
             <guid isPermaLink="false">315c0083-00a1-417b-b671-2803cf97aa05</guid>
-            <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How is Fintech addressing the throughput issue with regard to blockchain?]]></title>
-            <description><![CDATA[<article><h1>How is Fintech addressing the throughput issue with regard to blockchain?</h1><p>Former Exchange CEO Says New Blockchain Startup Ready to Debut</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/unanswered/How-is-Fintech-addressing-the-throughput-issue-with-regard-to-blockchain</link>
-            <guid isPermaLink="false">2e3200ca-7d9b-4050-8105-7e0b74386dba</guid>
-            <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Media Lab with Bitcoin and Blockchain?]]></title>
-            <description><![CDATA[<article><h1>Media Lab with Bitcoin and Blockchain?</h1><p>1 person wants answers to this question. Be the first to answer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/unanswered/Media-Lab-with-Bitcoin-and-Blockchain</link>
-            <guid isPermaLink="false">69ababc7-aeb3-4748-ba5c-ebc26b41247e</guid>
             <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
         </item>
     </channel>
