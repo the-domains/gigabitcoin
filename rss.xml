@@ -7,13 +7,6 @@
         <lastBuildDate>Thu, 02 Jun 2016 01:54:17 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA["Blockchain" or Bitcoin: Understanding the differences]]></title>
-            <description><![CDATA[<article><h1>"Blockchain" or Bitcoin: Understanding the differences</h1><p>In this talk, Andreas explores the rise of the term "blockchain" as a counterweight to bitcoin. The term blockchain does not provide a definition, as it has been diluted to be meaningless. Saying "blockchain" simply invites questions, such as "what is the consensus algorithm". Meanwhile, bitcoin continues to offer an alternative to the traditional financial system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d17f0267d3066192e5ab780760355ea1659b07fa.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=mRQs9Y6CUSU</link>
-            <guid isPermaLink="false">a3292986-48dc-45ba-89d8-76603db2e572</guid>
-            <pubDate>Thu, 02 Jun 2016 01:51:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Andreas Antonopoulos Explains Why Blockchain is Nothing without Bitcoin]]></title>
             <description><![CDATA[<article><h1>Andreas Antonopoulos Explains Why Blockchain is Nothing without Bitcoin</h1><p>Bitcoin never asked for permission to exist, and some experts still feel the concept should not be allowed to exist in the first place. Andreas Antonopoulos recently held a presentation about the relationship between Bitcoin and blockchain. To some people, it is possible to separate the two entirely, but in reality, things are different.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0c27452ec3b22cc50a1c9ab138f0bbee7617064.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/06/01/andreas-antonopoulos-explains-blockchain-nothing-without-bitcoin/</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Dash: The Original DAO - Bitcoinist.net</h1><p>The rise of Ethereum's The DAO is certainly cause for excitement. However, for Dash, the prospect of successfully operating a decentralized autonomous organization is already old news. Disclaimer: This article was provided by the Vanbex Group. Bitcoinist is not affiliated with the firms represented by the Vanbex Group and is not responsible for their products and/or services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1742bb2f366c34b8e416b47565e01fa1416f90c7.jpg"></article>]]></description>
             <link>http://bitcoinist.net/dash-original-dao/</link>
             <guid isPermaLink="false">39b9a6f8-e9a2-4337-9b82-acb3140b78c6</guid>
+            <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Swedish Bitcoin Exchange Safello Looking to Raise €263K Via Crowdfunding]]></title>
+            <description><![CDATA[<article><h1>Swedish Bitcoin Exchange Safello Looking to Raise €263K Via Crowdfunding</h1><p>Swedish bitcoin exchange Safello has started a €263,000 crowdfunding campaign to expand the company into a blockchain-based "bank of the future". While Safello is currently in the business of facilitating digital currency trades, the company is looking for additional funds to expand its offering into lending, crowdfunding and remittance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8db2e431fd9d5c8a16182ee60bd513bd1bd26d7b.png"></article>]]></description>
+            <link>http://themerkle.com/swedish-bitcoin-exchange-safello-looking-to-raise-e263k-via-crowdfunding/</link>
+            <guid isPermaLink="false">63979f00-6c25-4294-86d1-f6f1558c3238</guid>
             <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
         </item>
     </channel>
