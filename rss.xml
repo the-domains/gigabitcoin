@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 13:59:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2016 13:59:34 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Usage In Canada Doubled in 2015]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Usage In Canada Doubled in 2015</h1><p>This is quite surprising news, considering how several Bitcoin exchanges in the country have shut down in 2015. Consumers in Canada are looking for alternative payment options, as they seem to grow tired of cash payments. Contactless payments are doing quite well so far, and online payments are booming.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51a334b1c95c7148cb2c9db0194fd4f7a9a5c955.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/02/bitcoin-usage-canada-doubled-2015/</link>
+            <guid isPermaLink="false">135fb7a7-5f16-4fad-9169-36efd7071d82</guid>
+            <pubDate>Thu, 02 Jun 2016 13:58:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Anomali Labs Evidence Hints At Lazarus Involvement In Swift Breach]]></title>
             <description><![CDATA[<article><h1>Anomali Labs Evidence Hints At Lazarus Involvement In Swift Breach</h1><p>It appears there is new evidence linking the recent Swift attacks to a North Korean hacker collective. Several pieces of malware have been identified by Anomali, making them the third security institution to confirm these suspicions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce5720863c6d9716bccb50327c2034c0216bbc99.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Analysis: 6/02/2016</h1><p>Bitcoin has formed a flat above a key level. The probability of the movement continuing is increasing. The current upward trend has not been disrupted yet. Bitcoin's price has formed a flat above the $518 resistance line. The resistance, which we have found earlier, has been confirmed several times already.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/faefeedeb5695e08b93e648f8f72402ad00fce9b.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/bitcoin-price-analysis-6022016</link>
             <guid isPermaLink="false">2b351221-2901-4045-a63d-8d8f079a2afe</guid>
-            <pubDate>Thu, 02 Jun 2016 13:58:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lisk Becomes Second Most Popular Cryptocurrency Traded Against Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Lisk Becomes Second Most Popular Cryptocurrency Traded Against Bitcoin</h1><p>Looking at the overall cryptocurrency landscape, it is becoming clear Lisk is gaining a lot of momentum in the Bitcoin trading markets. So much even that this new currency has claimed the second spot in the overall rankings. However, The DAO and MaidSafe are on its heels.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f6336a0be0ec5720715af4b4209ee6400f6c95f.jpg"></article>]]></description>
-            <link>http://themerkle.com/lisk-becomes-second-most-popular-cryptocurrency-traded-against-bitcoin/</link>
-            <guid isPermaLink="false">4c3be981-1ac3-449d-9e95-b08c8d79df57</guid>
             <pubDate>Thu, 02 Jun 2016 13:58:37 GMT</pubDate>
         </item>
     </channel>
