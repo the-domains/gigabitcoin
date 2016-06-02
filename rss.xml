@@ -4,20 +4,13 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 02:58:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2016 02:58:12 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Blockchain.info Commercial Ad]]></title>
             <description><![CDATA[<article><h1>Blockchain.info Commercial Ad</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3f54c89bd74ce07feb352a7cf56c1c300d95f21.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=1_W-7hd4T2I</link>
             <guid isPermaLink="false">9910c8f2-60f6-476f-81c1-e0ef5cdcc23a</guid>
-            <pubDate>Thu, 02 Jun 2016 02:57:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Blockchain" or Bitcoin: Understanding the differences]]></title>
-            <description><![CDATA[<article><h1>"Blockchain" or Bitcoin: Understanding the differences</h1><p>In this talk, Andreas explores the rise of the term "blockchain" as a counterweight to bitcoin. The term blockchain does not provide a definition, as it has been diluted to be meaningless. Saying "blockchain" simply invites questions, such as "what is the consensus algorithm". Meanwhile, bitcoin continues to offer an alternative to the traditional financial system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d17f0267d3066192e5ab780760355ea1659b07fa.jpg"></article>]]></description>
-            <link>http://www.youtube.com/watch?v=mRQs9Y6CUSU</link>
-            <guid isPermaLink="false">5637b311-58f2-4522-9c3d-cda2b2efa0b1</guid>
             <pubDate>Thu, 02 Jun 2016 02:57:15 GMT</pubDate>
         </item>
         <item>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Santander Becomes First U.K. Bank to Introduce Blockchain Technology for International Payments</h1><p>Santander U.K. has announced its introduction of blockchain technology for international payments through a new app that is currently being rolled out as a staff pilot. The bank plans to make the application, which is only available on Apple's iOS, available to consumers after it completes the pilot program.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71057622e5468851232dfbfbedee9327ad0b624d.jpg"></article>]]></description>
             <link>https://bitcoinmagazine.com/articles/santander-becomes-first-u-k-bank-to-introduce-blockchain-technology-for-international-payments-1464795902</link>
             <guid isPermaLink="false">5a0b4ab4-5c13-4ef4-90e5-08180196b3d7</guid>
+            <pubDate>Thu, 02 Jun 2016 01:51:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blockstack to Help Microsoft Develop a Global ID Platform]]></title>
+            <description><![CDATA[<article><h1>Blockstack to Help Microsoft Develop a Global ID Platform</h1><p>The blockchain-based domain name service (DNS) Also read: Banks Can't Afford to Ignore Bitcoin's 'BitTorrent Effect' Blockstack, formally known as has announced a partnership with the Microsoft Azure platform. Developers will work with Microsoft to provide identity solutions, authentication, and storage services without the need for third-party arbitration.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df83fd3dfd8d5da3430170b7a9aefe964c8d1d52.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/blockstack-help-microsoft-global-id/</link>
+            <guid isPermaLink="false">30f883e0-61a7-4f66-8b8f-f0120e41a71a</guid>
             <pubDate>Thu, 02 Jun 2016 01:51:40 GMT</pubDate>
         </item>
     </channel>
