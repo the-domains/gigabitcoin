@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 14:00:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2016 14:00:03 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin.com Presents 'Birds': Promote Your Tweets With Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Bitcoin.com Presents 'Birds': Promote Your Tweets With Bitcoin</h1><p>Bitcoin.com has announced the launch of its new Tweet boosting service called "Birds" enabling Twitter users to earn bitcoin for simply retweeting. Also read: Bitcoin Startups Can Now Try A Different Form of Venture Capital The new service is a Twitter application tied to bitcoin payments, which is intended to help people market messages by attracting other people with profit opportunities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e993b1796467550a6bd1181b996df9520045144.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/birds-promote-tweet-bitcoin/</link>
-            <guid isPermaLink="false">05aa1330-dcf9-485a-bae5-0290d69f8934</guid>
-            <pubDate>Thu, 02 Jun 2016 13:58:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin to be sold in Australian newsagencies over the counter]]></title>
-            <description><![CDATA[<article><h1>Bitcoin to be sold in Australian newsagencies over the counter</h1><p>Australians will soon be able to buy some Bitcoin along with the newspaper and a pack of gum. Launching Thursday, a new initiative will help people buy Bitcoin with cash at around 1,200 newsagents nationally, Fairfax Media reported. The project is being rolled out as a partnership between the retail network Blueshyft and Australian Bitcoin exchange, Bitcoin.com.au.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9bfdea314612343021b18925d9ff682f704791f0.jpg"></article>]]></description>
-            <link>http://mashable.com/2016/06/02/bitcoin-newsagency-australia/</link>
-            <guid isPermaLink="false">d1f882e0-ccc6-47a5-9d77-09bdabd8bf9d</guid>
-            <pubDate>Thu, 02 Jun 2016 13:58:41 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Portfolio Manager High On Cash, Suggests Bitcoin For Diversification]]></title>
             <description><![CDATA[<article><h1>Portfolio Manager High On Cash, Suggests Bitcoin For Diversification</h1><p>Chris DeMuth Jr., a portfolio manager at Rangeley Capital, writing in prominent investor portal Seeking Alpha, suggests investors optimize their cash holdings and put 10% of it in bitcoin. DeMuth began his explanation with an overview of the current investing environment. He noted the stock market is very pricey.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a401c8e68106fb51949fb79b6fac74464c42686.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>http://www.newsbtc.com/2016/06/02/bitcoin-usage-canada-doubled-2015/</link>
             <guid isPermaLink="false">135fb7a7-5f16-4fad-9169-36efd7071d82</guid>
             <pubDate>Thu, 02 Jun 2016 13:58:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anomali Labs Evidence Hints At Lazarus Involvement In Swift Breach]]></title>
+            <description><![CDATA[<article><h1>Anomali Labs Evidence Hints At Lazarus Involvement In Swift Breach</h1><p>It appears there is new evidence linking the recent Swift attacks to a North Korean hacker collective. Several pieces of malware have been identified by Anomali, making them the third security institution to confirm these suspicions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce5720863c6d9716bccb50327c2034c0216bbc99.jpg"></article>]]></description>
+            <link>http://themerkle.com/anomali-labs-evidence-hints-at-lazarus-involvement-in-swift-breach/</link>
+            <guid isPermaLink="false">d3ab9d14-7779-48db-b236-3ddfb8c95baf</guid>
+            <pubDate>Thu, 02 Jun 2016 13:58:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How can blockchain be used for art works?]]></title>
+            <description><![CDATA[<article><h1>How can blockchain be used for art works?</h1><p>Answer: The blockchain distributed ledger can trace the itinary of artworks. When this technology is used in the art market, all events in the life cycle of an artwork are recorded and traceable. The application addresses one of the main concerns in the art market today, namely the fragile docum...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/How-can-blockchain-be-used-for-art-works</link>
+            <guid isPermaLink="false">9beda173-02b5-430e-8bf9-928f869a6ae2</guid>
+            <pubDate>Thu, 02 Jun 2016 13:58:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
