@@ -4,8 +4,50 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 01:53:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2016 01:54:17 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA["Blockchain" or Bitcoin: Understanding the differences]]></title>
+            <description><![CDATA[<article><h1>"Blockchain" or Bitcoin: Understanding the differences</h1><p>In this talk, Andreas explores the rise of the term "blockchain" as a counterweight to bitcoin. The term blockchain does not provide a definition, as it has been diluted to be meaningless. Saying "blockchain" simply invites questions, such as "what is the consensus algorithm". Meanwhile, bitcoin continues to offer an alternative to the traditional financial system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d17f0267d3066192e5ab780760355ea1659b07fa.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=mRQs9Y6CUSU</link>
+            <guid isPermaLink="false">a3292986-48dc-45ba-89d8-76603db2e572</guid>
+            <pubDate>Thu, 02 Jun 2016 01:51:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andreas Antonopoulos Explains Why Blockchain is Nothing without Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Andreas Antonopoulos Explains Why Blockchain is Nothing without Bitcoin</h1><p>Bitcoin never asked for permission to exist, and some experts still feel the concept should not be allowed to exist in the first place. Andreas Antonopoulos recently held a presentation about the relationship between Bitcoin and blockchain. To some people, it is possible to separate the two entirely, but in reality, things are different.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0c27452ec3b22cc50a1c9ab138f0bbee7617064.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/01/andreas-antonopoulos-explains-blockchain-nothing-without-bitcoin/</link>
+            <guid isPermaLink="false">bc211acf-6018-46ee-9004-67097770ea0c</guid>
+            <pubDate>Thu, 02 Jun 2016 01:51:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DAO Makes Its Way Into Japan]]></title>
+            <description><![CDATA[<article><h1>DAO Makes Its Way Into Japan</h1><p>Coincheck launches support for DAO tokens in Japan. CoinTelegraph spoke with Kagayaki Kawabata, Business Development Lead at Coincheck.jp, to find out how high DAO could rise in the Land of the Rising Sun. Decentralized Autonomous Organization or DAO, is a project of Stock.It, a German company that has been developing smart-locks based on Ethereum.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8773d4e2c79e5211dd5232375fb5aca84c654d11.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/dao-makes-its-way-into-japan</link>
+            <guid isPermaLink="false">c2ec9329-bf2c-4139-aca1-569f0b17e5f3</guid>
+            <pubDate>Thu, 02 Jun 2016 01:51:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Industry Observers Say Coinbase's Embrace of Ethereum Was a 'No Brainer' - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Why Industry Observers Say Coinbase's Embrace of Ethereum Was a 'No Brainer' - CoinDesk</h1><p>For some market observers, the embrace of Ethereum by Coinbase was a long time coming. Last month, the co-founder of one of the most heavily funded bitcoin startups, Coinbase, announced that its digital currency exchange would start trading ethers, the native cryptocurrency of the Ethereum network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b3866b3514168c843caa338e3d1a96925bf7bfc.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/coinbase-ethereum-industry-observers/</link>
+            <guid isPermaLink="false">4db686dd-03cb-4ffa-898b-dc918726634e</guid>
+            <pubDate>Thu, 02 Jun 2016 01:51:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft Partners Blockchain Firms to Develop Legal-ID System]]></title>
+            <description><![CDATA[<article><h1>Microsoft Partners Blockchain Firms to Develop Legal-ID System</h1><p>Microsoft is partnering with blockchain firms ConsenSys, an Ethereum-coder collective, and Blockstack Labs, an application stack for decentralized, server-less apps secured by the blockchain, in trying to improve the state of the millions of people - mostly children - who face severe challenges from having no legal identity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc6a0528f500707ab10ad678a484fe0c491ea6de.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/microsoft-partners-blockchain-firms-to-develop-legal-id-system/</link>
+            <guid isPermaLink="false">0ee21641-cb32-4b9f-a666-305a7b0f2753</guid>
+            <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Updated ccMiner 1.8-dev fork by tpruvot With X11 Evo Support]]></title>
+            <description><![CDATA[<article><h1>Updated ccMiner 1.8-dev fork by tpruvot With X11 Evo Support</h1><p>Here comes another interesting update of the ccMiner fork by tpruvot with a new Windows binary we have compiled from the latest ccMiner 1.8-dev ( source) that comes with support for the new X11 Evo algorithm. The Windows binary is built from the Linux branch and is a 32-bit one compiled with CUDA 6.5 and with support for Compute 2.0 or newer Nvidia GPUs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/925c4014d5a0aaa42dece5f6919eb802726b7d0f.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7907-updated-ccminer-1-8-dev-fork-by-tpruvot-with-x11-evo-support/</link>
+            <guid isPermaLink="false">7d24f4fb-a8f7-4110-bc3b-13c5ee4cf153</guid>
+            <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AMD Radeon RX 480 (Polaris) is Now Official and Looks Promising]]></title>
             <description><![CDATA[<article><h1>AMD Radeon RX 480 (Polaris) is Now Official and Looks Promising</h1><p>AMD today unveiled the first of its upcoming Polaris architecture-based Radeon RX series graphics cards - the Radeon RX 480 at a surprising price point, surprising at is it quite affordable compared to what you will have to pay for the latest generation of Nvidia Pascal GPUs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c335622479e4eca2b122088af24bff06ef4ff83c.jpg"></article>]]></description>
@@ -32,48 +74,6 @@
             <description><![CDATA[<article><h1>Dash: The Original DAO - Bitcoinist.net</h1><p>The rise of Ethereum's The DAO is certainly cause for excitement. However, for Dash, the prospect of successfully operating a decentralized autonomous organization is already old news. Disclaimer: This article was provided by the Vanbex Group. Bitcoinist is not affiliated with the firms represented by the Vanbex Group and is not responsible for their products and/or services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1742bb2f366c34b8e416b47565e01fa1416f90c7.jpg"></article>]]></description>
             <link>http://bitcoinist.net/dash-original-dao/</link>
             <guid isPermaLink="false">39b9a6f8-e9a2-4337-9b82-acb3140b78c6</guid>
-            <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Swedish Bitcoin Exchange Safello Looking to Raise €263K Via Crowdfunding]]></title>
-            <description><![CDATA[<article><h1>Swedish Bitcoin Exchange Safello Looking to Raise €263K Via Crowdfunding</h1><p>Swedish bitcoin exchange Safello has started a €263,000 crowdfunding campaign to expand the company into a blockchain-based "bank of the future". While Safello is currently in the business of facilitating digital currency trades, the company is looking for additional funds to expand its offering into lending, crowdfunding and remittance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8db2e431fd9d5c8a16182ee60bd513bd1bd26d7b.png"></article>]]></description>
-            <link>http://themerkle.com/swedish-bitcoin-exchange-safello-looking-to-raise-e263k-via-crowdfunding/</link>
-            <guid isPermaLink="false">63979f00-6c25-4294-86d1-f6f1558c3238</guid>
-            <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Virus and Ransomware Hybrid Zcrypt Is No Real Threat Just Yet]]></title>
-            <description><![CDATA[<article><h1>Virus and Ransomware Hybrid Zcrypt Is No Real Threat Just Yet</h1><p>In case anyone was wondering when the new Bitcoin ransomware collection would be presented, look no further. Zcrypt has arrived, and it is unfortunately much more than just ransomware. Unlike most other types of malware, this particular type is also a virus.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c903a5e68395d9616c56f69a97b6e4fc6f0132e0.jpg"></article>]]></description>
-            <link>http://themerkle.com/virus-and-ransomware-hybrid-zcrypt-is-no-real-threat-just-yet/</link>
-            <guid isPermaLink="false">8801b5e3-50ae-427f-be52-aeb8d2409bbf</guid>
-            <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin is The Killer App For Mobile Wallets, Not Rewards]]></title>
-            <description><![CDATA[<article><h1>Bitcoin is The Killer App For Mobile Wallets, Not Rewards</h1><p>Mobile wallets are the hot trend these days, but there is still no killer app for this type of digital innovation. Reward schemes may not be the way to go, as they are far too expensive and may not be worth the effort.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3fabe206a6450955be2e9a2085c1451cee696948.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/bitcoin-killer-app-mobile-wallets/</link>
-            <guid isPermaLink="false">315c0083-00a1-417b-b671-2803cf97aa05</guid>
-            <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How is Fintech addressing the throughput issue with regard to blockchain?]]></title>
-            <description><![CDATA[<article><h1>How is Fintech addressing the throughput issue with regard to blockchain?</h1><p>Former Exchange CEO Says New Blockchain Startup Ready to Debut</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/unanswered/How-is-Fintech-addressing-the-throughput-issue-with-regard-to-blockchain</link>
-            <guid isPermaLink="false">2e3200ca-7d9b-4050-8105-7e0b74386dba</guid>
-            <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Media Lab with Bitcoin and Blockchain?]]></title>
-            <description><![CDATA[<article><h1>Media Lab with Bitcoin and Blockchain?</h1><p>1 person wants answers to this question. Be the first to answer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/unanswered/Media-Lab-with-Bitcoin-and-Blockchain</link>
-            <guid isPermaLink="false">69ababc7-aeb3-4748-ba5c-ebc26b41247e</guid>
-            <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russian Internet Ombudsman Calls Bitcoin Banning Attempts 'Downright Ludicrous']]></title>
-            <description><![CDATA[<article><h1>Russian Internet Ombudsman Calls Bitcoin Banning Attempts 'Downright Ludicrous'</h1><p>According to Dmitry Marinichev, Russia's Internet ombudsman, the government's attempts to interfere in the development of blockchain technology, and to ban bitcoins, are totally meaningless. Speaking at the roundtable on Perspectives of Implementation and Development of Blockchain Technology in Russia, he said: "Determining the very technology and banning bitcoin on the government level, as it's done in Russia, is downright ludicrous.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7cea7619f332faec9dfb2c54190d8f720ee97a2b.png"></article>]]></description>
-            <link>http://forklog.net/russian-internet-ombudsman-calls-bitcoin-banning-attempts-downright-ludicrous/</link>
-            <guid isPermaLink="false">2bd3f861-4678-4a4a-976b-41dcd6642236</guid>
             <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
         </item>
     </channel>
