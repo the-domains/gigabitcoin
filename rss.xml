@@ -4,43 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 01:53:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2016 01:52:59 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Abu Dhabi Regulators Seek Blockchain Startups for FinTech Sandbox - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Abu Dhabi Regulators Seek Blockchain Startups for FinTech Sandbox - CoinDesk</h1><p>The independent regulatory authority of Abu Dhabi's newest financial free zone is seeking to promote the development of blockchain startups as part of a drive to create new efficiencies in the regional financial sector.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ee81e06dfab78984e3f56d928015a7638b125fe.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/abu-dhabi-blockchain-fintech-sandbox/</link>
-            <guid isPermaLink="false">b394fd95-9a18-4225-8149-550483de81f6</guid>
-            <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Per the original Bitcoin white paper, I signed up for a P2P Electronic Cash System, not a settlement layer.pic.twitter.com/Fe63u0EAjj" src="https://pbs.twimg.com/media/Cjy2rOLUgAANTua.jpg:large">]]></description>
-            <link>https://twitter.com/rogerkver/status/737665373219213312</link>
-            <guid isPermaLink="false">3853c410-bc32-420d-a7fa-8b5d2f589778</guid>
-            <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dash: The Original DAO - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>Dash: The Original DAO - Bitcoinist.net</h1><p>The rise of Ethereum's The DAO is certainly cause for excitement. However, for Dash, the prospect of successfully operating a decentralized autonomous organization is already old news. Disclaimer: This article was provided by the Vanbex Group. Bitcoinist is not affiliated with the firms represented by the Vanbex Group and is not responsible for their products and/or services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1742bb2f366c34b8e416b47565e01fa1416f90c7.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/dash-original-dao/</link>
-            <guid isPermaLink="false">39b9a6f8-e9a2-4337-9b82-acb3140b78c6</guid>
-            <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Swedish Bitcoin Exchange Safello Looking to Raise €263K Via Crowdfunding]]></title>
-            <description><![CDATA[<article><h1>Swedish Bitcoin Exchange Safello Looking to Raise €263K Via Crowdfunding</h1><p>Swedish bitcoin exchange Safello has started a €263,000 crowdfunding campaign to expand the company into a blockchain-based "bank of the future". While Safello is currently in the business of facilitating digital currency trades, the company is looking for additional funds to expand its offering into lending, crowdfunding and remittance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8db2e431fd9d5c8a16182ee60bd513bd1bd26d7b.png"></article>]]></description>
-            <link>http://themerkle.com/swedish-bitcoin-exchange-safello-looking-to-raise-e263k-via-crowdfunding/</link>
-            <guid isPermaLink="false">63979f00-6c25-4294-86d1-f6f1558c3238</guid>
-            <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Virus and Ransomware Hybrid Zcrypt Is No Real Threat Just Yet]]></title>
-            <description><![CDATA[<article><h1>Virus and Ransomware Hybrid Zcrypt Is No Real Threat Just Yet</h1><p>In case anyone was wondering when the new Bitcoin ransomware collection would be presented, look no further. Zcrypt has arrived, and it is unfortunately much more than just ransomware. Unlike most other types of malware, this particular type is also a virus.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c903a5e68395d9616c56f69a97b6e4fc6f0132e0.jpg"></article>]]></description>
-            <link>http://themerkle.com/virus-and-ransomware-hybrid-zcrypt-is-no-real-threat-just-yet/</link>
-            <guid isPermaLink="false">8801b5e3-50ae-427f-be52-aeb8d2409bbf</guid>
-            <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin is The Killer App For Mobile Wallets, Not Rewards]]></title>
             <description><![CDATA[<article><h1>Bitcoin is The Killer App For Mobile Wallets, Not Rewards</h1><p>Mobile wallets are the hot trend these days, but there is still no killer app for this type of digital innovation. Reward schemes may not be the way to go, as they are far too expensive and may not be worth the effort.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3fabe206a6450955be2e9a2085c1451cee696948.jpg"></article>]]></description>
@@ -74,6 +39,41 @@
             <description><![CDATA[<article><h1>Microsoft to launch an identity platform through the blockchain | HolyTransaction</h1><p>The well-known tech giant Microsoft recently started a partnership with Blockstack Labs and ConsenSys to create an open-source platform to integrate both the Bitcoin and Ethereum blockchains. In today's blog post published by Microsoft blockchain business strategist Yorke Rhodes III, in fact, he explained that the company will create an open source framework on Azure, where developers can build their own identity applications.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d1d259495cd7e806232b796ed03fbd519c8a957.jpg"></article>]]></description>
             <link>http://blog.holytransaction.com/2016/06/microsoft-to-launch-identity-platform.html</link>
             <guid isPermaLink="false">a9840eed-c488-4ccb-a285-e0bbb2fdc0d5</guid>
+            <pubDate>Thu, 02 Jun 2016 01:51:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitwage to Partner Up With Uphold to Offer Ether Payrolls]]></title>
+            <description><![CDATA[<article><h1>Bitwage to Partner Up With Uphold to Offer Ether Payrolls</h1><p>Both companies have decided to form an alliance to allow businesses to pay their workers in ether, the new popular Cryptocurrency. Bitwage announced the new feature on their corporate blog, the company states the importance of Ethereum's platform, as it is 'The new , hot Cryptocurrency that has taken the spotlight for enterprises, entrepreneurs, and speculators all over the world'.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a07eb1a24f1b274f5c0a5b6a55d4e8f6e02d21fb.gif"></article>]]></description>
+            <link>http://themerkle.com/bitwage-to-partner-up-with-uphold-to-offer-ether-payrolls/</link>
+            <guid isPermaLink="false">bbe87555-1d7a-4123-98ec-05aa3ef89ff6</guid>
+            <pubDate>Thu, 02 Jun 2016 01:51:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Censorship-Free Social Network AKASHA Aims to Tackle Internet Censorship With Blockchain Technology]]></title>
+            <description><![CDATA[<article><h1>Censorship-Free Social Network AKASHA Aims to Tackle Internet Censorship With Blockchain Technology</h1><p>A few weeks ago Bitcoin Magazine published a report on the launch of AKASHA, a blockchain-based social network built on top of Ethereum and IPFS (the InterPlanetary File System).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e51e2ad617c851ce2dfe8838826e0b79cda3d66.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/censorship-free-social-network-akasha-aims-to-tackle-internet-censorship-with-blockchain-technology-1464810249</link>
+            <guid isPermaLink="false">fde1c27b-b6ac-4c44-b3a8-0fbfe2bfed2a</guid>
+            <pubDate>Thu, 02 Jun 2016 01:51:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin values up on Chinese yuan concerns]]></title>
+            <description><![CDATA[<article><h1>Bitcoin values up on Chinese yuan concerns</h1><p>Bitcoin prices have hit their highest values in nearly two years, driven by demand in China. The digital currency hit $546.80 on CoinDesk 's Bitcoin Price Index Tuesday, its highest mark since August 2014. The price remained at $540.81 Wednesday on the index, a 21% increase over the last month.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37fc2eea67e0f2188cb51c6b869b5911ab47e9d6.jpg"></article>]]></description>
+            <link>http://www.usatoday.com/story/tech/news/2016/06/01/bitcoin-values-up-chinese-yuan-concerns/85235740/</link>
+            <guid isPermaLink="false">e1a7d8f2-ce5d-4a31-9d60-42f73e30979d</guid>
+            <pubDate>Thu, 02 Jun 2016 01:51:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prenup Built in Ethereum Smart Contract Rethinks Marriage Obligations - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Prenup Built in Ethereum Smart Contract Rethinks Marriage Obligations - CoinDesk</h1><p>Thanks to a new prenuptial agreement uploaded to the Ethereum blockchain, your insistence on watching Walking Dead could be a violable offense. So, too, could the frequency at which you shop, the number of chores you do, and your preference to your mother's spaghetti recipe over your spouse's.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa7f9b03521493b1f431341ca9a4d58ea5a26aa4.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/prenup-ethereum-marriage-obligations/</link>
+            <guid isPermaLink="false">e700273a-4225-49d3-91d7-adde4b91671c</guid>
+            <pubDate>Thu, 02 Jun 2016 01:51:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mediachain Labs Receives $1.5 Million in Seed Funding from Union Square Ventures]]></title>
+            <description><![CDATA[<article><h1>Mediachain Labs Receives $1.5 Million in Seed Funding from Union Square Ventures</h1><p>Mediachain, a open source platform using blockchain technology to track media ownership, has received $1.5 million in seed funding from Union Square Ventures and Andreessen Horowitz - two of the biggest VC investors in the blockchain and digital currency space. The funding round also saw participation from RRE Ventures, Alexis Ohanian, William Mougayar and Digital Currency Group, among others.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9dda13965744afbd45dde4fbfeea707f22486d81.png"></article>]]></description>
+            <link>http://themerkle.com/mediachain-labs-receives-1-5-million-in-seed-funding-from-union-square-ventures/</link>
+            <guid isPermaLink="false">5855d492-5132-4c45-a40e-a0be8e355561</guid>
             <pubDate>Thu, 02 Jun 2016 01:51:38 GMT</pubDate>
         </item>
     </channel>
