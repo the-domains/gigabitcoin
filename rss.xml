@@ -4,55 +4,13 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 01:54:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2016 01:54:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[ID2020: How Blockchain Could Be Used To Solve Global Identity Crisis]]></title>
-            <description><![CDATA[<article><h1>ID2020: How Blockchain Could Be Used To Solve Global Identity Crisis</h1><p>ConsenSys, Microsoft, and Blockstack Labs collaborate to create an open-source, self-sovereign, blockchain-based identity system while ex-trader starts a non-profit ID2020 to address the problem at UN-level, through public-private partnership. According to the United Nations, there are around 1.5bn people across the world who have no way of proving who they are.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/296e941cb1fd860166f8f7ba758e3dc686e03d59.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/id2020-how-blockchain-could-be-used-to-solve-global-identity-crisis</link>
-            <guid isPermaLink="false">f84be954-43f2-4a6f-9446-726eebc5a409</guid>
-            <pubDate>Thu, 02 Jun 2016 01:51:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[R3 Publishes Vitalik Buterin Report on Ethereum for Banks - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>R3 Publishes Vitalik Buterin Report on Ethereum for Banks - CoinDesk</h1><p>R3CEV has released a new report evaluating how the alternative blockchain platform Ethereum could be used by banks engaged in consortium and private blockchain initiatives. Penned by Ethereum inventor Vitalik Buterin, the more than 40-page report provides a technical overview of Ethereum's architecture and applications in finance, as well as an analytical look at how financial institutions can seek to build private blockchains using the technology and the issues they may face in doing so.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1978b7d4e21fcb5cbf6f8358e50fff95ae13512d.png"></article>]]></description>
-            <link>http://www.coindesk.com/r3-ethereum-report-banks/</link>
-            <guid isPermaLink="false">59d7aebb-f6bd-418f-91ee-9aefd8b9c9e3</guid>
-            <pubDate>Thu, 02 Jun 2016 01:51:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Chopped Out But Moving Forward - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Chopped Out But Moving Forward - NEWSBTC</h1><p>Here's what we are focusing on for this evening's session in the bitcoin price. In this morning's article, the primary focus was the widening out of our bitcoin price range, and how we would use this wide range to trade an intrarange strategy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/819a998b9d267cecc284817dab0bdbd387c8f9d6.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/01/bitcoin-price-watch-chopped-moving-forward/</link>
-            <guid isPermaLink="false">c78ca89c-fce8-425d-8411-93a2899db1ba</guid>
-            <pubDate>Thu, 02 Jun 2016 01:51:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Understanding the Lightning Network, Part 1: Building a Bidirectional Bitcoin Payment Channel]]></title>
-            <description><![CDATA[<article><h1>Understanding the Lightning Network, Part 1: Building a Bidirectional Bitcoin Payment Channel</h1><p>The Lightning Network is probably the most highly anticipated technological innovation to be deployed on top of Bitcoin. The payment layer, first proposed by Joseph Poon and Tadge Dryja about a year ago, promises to support a virtually unlimited number of off-chain transactions among users, at nearly no cost - while leveraging the security offered by Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bff43fff7a429aa654d2d7abc23053e1c448e05c.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/understanding-the-lightning-network-part-building-a-bidirectional-payment-channel-1464710791</link>
-            <guid isPermaLink="false">51804739-59a3-45d1-ba4d-5b960419ad98</guid>
-            <pubDate>Thu, 02 Jun 2016 01:51:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain Expert Leaves Barclays for FinTech-Focused VC Fund]]></title>
-            <description><![CDATA[<article><h1>Blockchain Expert Leaves Barclays for FinTech-Focused VC Fund</h1><p>Barclays executive Simon Taylor will be leaving his position at the bank to join 11:FS, a new FinTech-focused venture capital fund, as a co-founder. According to a Business Insider report, Taylor served as a VP of Entrepreneurial Partnerships at Barclays for the past three years, where he lead the bank's R&D efforts into the applications of blockchains in the financial industry.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67ceb05025253b81825100c578e9c8f9cecab25f.jpg"></article>]]></description>
-            <link>http://themerkle.com/blockchain-expert-leaves-barclays-for-fintech-focused-vc-fund/</link>
-            <guid isPermaLink="false">99a99ff8-0de1-4aaa-bad1-4a4d9e69459c</guid>
-            <pubDate>Thu, 02 Jun 2016 01:51:40 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Santander Becomes First U.K. Bank to Introduce Blockchain Technology for International Payments]]></title>
             <description><![CDATA[<article><h1>Santander Becomes First U.K. Bank to Introduce Blockchain Technology for International Payments</h1><p>Santander U.K. has announced its introduction of blockchain technology for international payments through a new app that is currently being rolled out as a staff pilot. The bank plans to make the application, which is only available on Apple's iOS, available to consumers after it completes the pilot program.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71057622e5468851232dfbfbedee9327ad0b624d.jpg"></article>]]></description>
             <link>https://bitcoinmagazine.com/articles/santander-becomes-first-u-k-bank-to-introduce-blockchain-technology-for-international-payments-1464795902</link>
             <guid isPermaLink="false">5a0b4ab4-5c13-4ef4-90e5-08180196b3d7</guid>
-            <pubDate>Thu, 02 Jun 2016 01:51:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockstack to Help Microsoft Develop a Global ID Platform]]></title>
-            <description><![CDATA[<article><h1>Blockstack to Help Microsoft Develop a Global ID Platform</h1><p>The blockchain-based domain name service (DNS) Also read: Banks Can't Afford to Ignore Bitcoin's 'BitTorrent Effect' Blockstack, formally known as has announced a partnership with the Microsoft Azure platform. Developers will work with Microsoft to provide identity solutions, authentication, and storage services without the need for third-party arbitration.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df83fd3dfd8d5da3430170b7a9aefe964c8d1d52.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/blockstack-help-microsoft-global-id/</link>
-            <guid isPermaLink="false">30f883e0-61a7-4f66-8b8f-f0120e41a71a</guid>
             <pubDate>Thu, 02 Jun 2016 01:51:40 GMT</pubDate>
         </item>
         <item>
@@ -75,6 +33,48 @@
             <link>http://www.newsbtc.com/2016/06/01/andreas-antonopoulos-explains-blockchain-nothing-without-bitcoin/</link>
             <guid isPermaLink="false">bc211acf-6018-46ee-9004-67097770ea0c</guid>
             <pubDate>Thu, 02 Jun 2016 01:51:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DAO Makes Its Way Into Japan]]></title>
+            <description><![CDATA[<article><h1>DAO Makes Its Way Into Japan</h1><p>Coincheck launches support for DAO tokens in Japan. CoinTelegraph spoke with Kagayaki Kawabata, Business Development Lead at Coincheck.jp, to find out how high DAO could rise in the Land of the Rising Sun. Decentralized Autonomous Organization or DAO, is a project of Stock.It, a German company that has been developing smart-locks based on Ethereum.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8773d4e2c79e5211dd5232375fb5aca84c654d11.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/dao-makes-its-way-into-japan</link>
+            <guid isPermaLink="false">c2ec9329-bf2c-4139-aca1-569f0b17e5f3</guid>
+            <pubDate>Thu, 02 Jun 2016 01:51:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Industry Observers Say Coinbase's Embrace of Ethereum Was a 'No Brainer' - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Why Industry Observers Say Coinbase's Embrace of Ethereum Was a 'No Brainer' - CoinDesk</h1><p>For some market observers, the embrace of Ethereum by Coinbase was a long time coming. Last month, the co-founder of one of the most heavily funded bitcoin startups, Coinbase, announced that its digital currency exchange would start trading ethers, the native cryptocurrency of the Ethereum network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b3866b3514168c843caa338e3d1a96925bf7bfc.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/coinbase-ethereum-industry-observers/</link>
+            <guid isPermaLink="false">4db686dd-03cb-4ffa-898b-dc918726634e</guid>
+            <pubDate>Thu, 02 Jun 2016 01:51:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft Partners Blockchain Firms to Develop Legal-ID System]]></title>
+            <description><![CDATA[<article><h1>Microsoft Partners Blockchain Firms to Develop Legal-ID System</h1><p>Microsoft is partnering with blockchain firms ConsenSys, an Ethereum-coder collective, and Blockstack Labs, an application stack for decentralized, server-less apps secured by the blockchain, in trying to improve the state of the millions of people - mostly children - who face severe challenges from having no legal identity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc6a0528f500707ab10ad678a484fe0c491ea6de.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/microsoft-partners-blockchain-firms-to-develop-legal-id-system/</link>
+            <guid isPermaLink="false">0ee21641-cb32-4b9f-a666-305a7b0f2753</guid>
+            <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Updated ccMiner 1.8-dev fork by tpruvot With X11 Evo Support]]></title>
+            <description><![CDATA[<article><h1>Updated ccMiner 1.8-dev fork by tpruvot With X11 Evo Support</h1><p>Here comes another interesting update of the ccMiner fork by tpruvot with a new Windows binary we have compiled from the latest ccMiner 1.8-dev ( source) that comes with support for the new X11 Evo algorithm. The Windows binary is built from the Linux branch and is a 32-bit one compiled with CUDA 6.5 and with support for Compute 2.0 or newer Nvidia GPUs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/925c4014d5a0aaa42dece5f6919eb802726b7d0f.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7907-updated-ccminer-1-8-dev-fork-by-tpruvot-with-x11-evo-support/</link>
+            <guid isPermaLink="false">7d24f4fb-a8f7-4110-bc3b-13c5ee4cf153</guid>
+            <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMD Radeon RX 480 (Polaris) is Now Official and Looks Promising]]></title>
+            <description><![CDATA[<article><h1>AMD Radeon RX 480 (Polaris) is Now Official and Looks Promising</h1><p>AMD today unveiled the first of its upcoming Polaris architecture-based Radeon RX series graphics cards - the Radeon RX 480 at a surprising price point, surprising at is it quite affordable compared to what you will have to pay for the latest generation of Nvidia Pascal GPUs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c335622479e4eca2b122088af24bff06ef4ff83c.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7911-amd-radeon-rx-480-polaris-is-now-official-and-looks-promising/</link>
+            <guid isPermaLink="false">597c2d1f-e459-473f-9941-0a6ff831e67e</guid>
+            <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Abu Dhabi Regulators Seek Blockchain Startups for FinTech Sandbox - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Abu Dhabi Regulators Seek Blockchain Startups for FinTech Sandbox - CoinDesk</h1><p>The independent regulatory authority of Abu Dhabi's newest financial free zone is seeking to promote the development of blockchain startups as part of a drive to create new efficiencies in the regional financial sector.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ee81e06dfab78984e3f56d928015a7638b125fe.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/abu-dhabi-blockchain-fintech-sandbox/</link>
+            <guid isPermaLink="false">b394fd95-9a18-4225-8149-550483de81f6</guid>
+            <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
