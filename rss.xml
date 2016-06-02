@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 01:54:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2016 01:54:53 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ID2020: How Blockchain Could Be Used To Solve Global Identity Crisis]]></title>
+            <description><![CDATA[<article><h1>ID2020: How Blockchain Could Be Used To Solve Global Identity Crisis</h1><p>ConsenSys, Microsoft, and Blockstack Labs collaborate to create an open-source, self-sovereign, blockchain-based identity system while ex-trader starts a non-profit ID2020 to address the problem at UN-level, through public-private partnership. According to the United Nations, there are around 1.5bn people across the world who have no way of proving who they are.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/296e941cb1fd860166f8f7ba758e3dc686e03d59.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/id2020-how-blockchain-could-be-used-to-solve-global-identity-crisis</link>
+            <guid isPermaLink="false">f84be954-43f2-4a6f-9446-726eebc5a409</guid>
+            <pubDate>Thu, 02 Jun 2016 01:51:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[R3 Publishes Vitalik Buterin Report on Ethereum for Banks - CoinDesk]]></title>
             <description><![CDATA[<article><h1>R3 Publishes Vitalik Buterin Report on Ethereum for Banks - CoinDesk</h1><p>R3CEV has released a new report evaluating how the alternative blockchain platform Ethereum could be used by banks engaged in consortium and private blockchain initiatives. Penned by Ethereum inventor Vitalik Buterin, the more than 40-page report provides a technical overview of Ethereum's architecture and applications in finance, as well as an analytical look at how financial institutions can seek to build private blockchains using the technology and the issues they may face in doing so.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1978b7d4e21fcb5cbf6f8358e50fff95ae13512d.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Andreas Antonopoulos Explains Why Blockchain is Nothing without Bitcoin</h1><p>Bitcoin never asked for permission to exist, and some experts still feel the concept should not be allowed to exist in the first place. Andreas Antonopoulos recently held a presentation about the relationship between Bitcoin and blockchain. To some people, it is possible to separate the two entirely, but in reality, things are different.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0c27452ec3b22cc50a1c9ab138f0bbee7617064.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/06/01/andreas-antonopoulos-explains-blockchain-nothing-without-bitcoin/</link>
             <guid isPermaLink="false">bc211acf-6018-46ee-9004-67097770ea0c</guid>
-            <pubDate>Thu, 02 Jun 2016 01:51:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DAO Makes Its Way Into Japan]]></title>
-            <description><![CDATA[<article><h1>DAO Makes Its Way Into Japan</h1><p>Coincheck launches support for DAO tokens in Japan. CoinTelegraph spoke with Kagayaki Kawabata, Business Development Lead at Coincheck.jp, to find out how high DAO could rise in the Land of the Rising Sun. Decentralized Autonomous Organization or DAO, is a project of Stock.It, a German company that has been developing smart-locks based on Ethereum.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8773d4e2c79e5211dd5232375fb5aca84c654d11.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/dao-makes-its-way-into-japan</link>
-            <guid isPermaLink="false">c2ec9329-bf2c-4139-aca1-569f0b17e5f3</guid>
             <pubDate>Thu, 02 Jun 2016 01:51:40 GMT</pubDate>
         </item>
     </channel>
