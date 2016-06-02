@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 01:54:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2016 01:54:27 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Understanding the Lightning Network, Part 1: Building a Bidirectional Bitcoin Payment Channel]]></title>
-            <description><![CDATA[<article><h1>Understanding the Lightning Network, Part 1: Building a Bidirectional Bitcoin Payment Channel</h1><p>The Lightning Network is probably the most highly anticipated technological innovation to be deployed on top of Bitcoin. The payment layer, first proposed by Joseph Poon and Tadge Dryja about a year ago, promises to support a virtually unlimited number of off-chain transactions among users, at nearly no cost - while leveraging the security offered by Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bff43fff7a429aa654d2d7abc23053e1c448e05c.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/understanding-the-lightning-network-part-building-a-bidirectional-payment-channel-1464710791</link>
-            <guid isPermaLink="false">51804739-59a3-45d1-ba4d-5b960419ad98</guid>
-            <pubDate>Thu, 02 Jun 2016 01:51:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain Expert Leaves Barclays for FinTech-Focused VC Fund]]></title>
-            <description><![CDATA[<article><h1>Blockchain Expert Leaves Barclays for FinTech-Focused VC Fund</h1><p>Barclays executive Simon Taylor will be leaving his position at the bank to join 11:FS, a new FinTech-focused venture capital fund, as a co-founder. According to a Business Insider report, Taylor served as a VP of Entrepreneurial Partnerships at Barclays for the past three years, where he lead the bank's R&D efforts into the applications of blockchains in the financial industry.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67ceb05025253b81825100c578e9c8f9cecab25f.jpg"></article>]]></description>
-            <link>http://themerkle.com/blockchain-expert-leaves-barclays-for-fintech-focused-vc-fund/</link>
-            <guid isPermaLink="false">99a99ff8-0de1-4aaa-bad1-4a4d9e69459c</guid>
-            <pubDate>Thu, 02 Jun 2016 01:51:40 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Santander Becomes First U.K. Bank to Introduce Blockchain Technology for International Payments]]></title>
             <description><![CDATA[<article><h1>Santander Becomes First U.K. Bank to Introduce Blockchain Technology for International Payments</h1><p>Santander U.K. has announced its introduction of blockchain technology for international payments through a new app that is currently being rolled out as a staff pilot. The bank plans to make the application, which is only available on Apple's iOS, available to consumers after it completes the pilot program.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71057622e5468851232dfbfbedee9327ad0b624d.jpg"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>Microsoft Partners Blockchain Firms to Develop Legal-ID System</h1><p>Microsoft is partnering with blockchain firms ConsenSys, an Ethereum-coder collective, and Blockstack Labs, an application stack for decentralized, server-less apps secured by the blockchain, in trying to improve the state of the millions of people - mostly children - who face severe challenges from having no legal identity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc6a0528f500707ab10ad678a484fe0c491ea6de.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/microsoft-partners-blockchain-firms-to-develop-legal-id-system/</link>
             <guid isPermaLink="false">0ee21641-cb32-4b9f-a666-305a7b0f2753</guid>
+            <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Updated ccMiner 1.8-dev fork by tpruvot With X11 Evo Support]]></title>
+            <description><![CDATA[<article><h1>Updated ccMiner 1.8-dev fork by tpruvot With X11 Evo Support</h1><p>Here comes another interesting update of the ccMiner fork by tpruvot with a new Windows binary we have compiled from the latest ccMiner 1.8-dev ( source) that comes with support for the new X11 Evo algorithm. The Windows binary is built from the Linux branch and is a 32-bit one compiled with CUDA 6.5 and with support for Compute 2.0 or newer Nvidia GPUs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/925c4014d5a0aaa42dece5f6919eb802726b7d0f.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7907-updated-ccminer-1-8-dev-fork-by-tpruvot-with-x11-evo-support/</link>
+            <guid isPermaLink="false">7d24f4fb-a8f7-4110-bc3b-13c5ee4cf153</guid>
+            <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMD Radeon RX 480 (Polaris) is Now Official and Looks Promising]]></title>
+            <description><![CDATA[<article><h1>AMD Radeon RX 480 (Polaris) is Now Official and Looks Promising</h1><p>AMD today unveiled the first of its upcoming Polaris architecture-based Radeon RX series graphics cards - the Radeon RX 480 at a surprising price point, surprising at is it quite affordable compared to what you will have to pay for the latest generation of Nvidia Pascal GPUs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c335622479e4eca2b122088af24bff06ef4ff83c.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7911-amd-radeon-rx-480-polaris-is-now-official-and-looks-promising/</link>
+            <guid isPermaLink="false">597c2d1f-e459-473f-9941-0a6ff831e67e</guid>
             <pubDate>Thu, 02 Jun 2016 01:51:39 GMT</pubDate>
         </item>
     </channel>
