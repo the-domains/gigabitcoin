@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 06:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2016 06:18:17 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How can blockchain be used for art works?]]></title>
+            <description><![CDATA[<article><h1>How can blockchain be used for art works?</h1><p>The US presidential podium, or "The Blue Goose" has always been an iconic part of each presidency. A fun fact is that a special agent is given the job of attaching the presidential seal to the podium every time the president speaks from it. Why?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/How-can-blockchain-be-used-for-art-works</link>
+            <guid isPermaLink="false">14db05ce-27b6-4503-a46e-0dada14709a7</guid>
+            <pubDate>Thu, 02 Jun 2016 06:18:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How would one go about making a social network using blockchain?]]></title>
             <description><![CDATA[<article><h1>How would one go about making a social network using blockchain?</h1><p>Answer: This is an impossible question to answer. Short answer is you don't. Long answer is any number of the concepts around blockchain could be used is the making of a social network. Just a login system is part of Facebook but just a part. Have you more context to share?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Understanding the Lightning Network, Part 1: Building a Bidirectional Bitcoin Payment Channel</h1><p>The Lightning Network is probably the most highly anticipated technological innovation to be deployed on top of Bitcoin. The payment layer, first proposed by Joseph Poon and Tadge Dryja about a year ago, promises to support a virtually unlimited number of off-chain transactions among users, at nearly no cost - while leveraging the security offered by Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bff43fff7a429aa654d2d7abc23053e1c448e05c.jpg"></article>]]></description>
             <link>https://bitcoinmagazine.com/articles/understanding-the-lightning-network-part-building-a-bidirectional-payment-channel-1464710791</link>
             <guid isPermaLink="false">51804739-59a3-45d1-ba4d-5b960419ad98</guid>
-            <pubDate>Thu, 02 Jun 2016 01:51:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain Expert Leaves Barclays for FinTech-Focused VC Fund]]></title>
-            <description><![CDATA[<article><h1>Blockchain Expert Leaves Barclays for FinTech-Focused VC Fund</h1><p>Barclays executive Simon Taylor will be leaving his position at the bank to join 11:FS, a new FinTech-focused venture capital fund, as a co-founder. According to a Business Insider report, Taylor served as a VP of Entrepreneurial Partnerships at Barclays for the past three years, where he lead the bank's R&D efforts into the applications of blockchains in the financial industry.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67ceb05025253b81825100c578e9c8f9cecab25f.jpg"></article>]]></description>
-            <link>http://themerkle.com/blockchain-expert-leaves-barclays-for-fintech-focused-vc-fund/</link>
-            <guid isPermaLink="false">99a99ff8-0de1-4aaa-bad1-4a4d9e69459c</guid>
             <pubDate>Thu, 02 Jun 2016 01:51:40 GMT</pubDate>
         </item>
     </channel>
