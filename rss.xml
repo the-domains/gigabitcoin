@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 01:51:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2016 01:51:47 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Here's Why Your House is 'Much More Valuable' on the Blockchain]]></title>
+            <description><![CDATA[<article><h1>Here's Why Your House is 'Much More Valuable' on the Blockchain</h1><p>Ubitquity is a blockchain-based real estate platform that provides secure recording, tracking, and transferring of property deeds. Bitcoin.com spoke with its founder and CEO, Nathan Wosnack, on how it will not only revolutionize land registry and prevent fraud, but also increase the value of your house, and why his company picked the Bitcoin blockchain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3cb66693be2a814e84c9d49d86193dbcd7f054dd.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/house-property-value-blockchain/</link>
+            <guid isPermaLink="false">120803be-3e6a-4977-acf9-2a25599c5259</guid>
+            <pubDate>Thu, 02 Jun 2016 01:51:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What is the largest number of blocks that have ever occurred in 1 hour?]]></title>
             <description><![CDATA[<article><h1>What is the largest number of blocks that have ever occurred in 1 hour?</h1><p>I have see questions about the longest delay between blocks and am aware of some blocks that occur in short succession. However I rarely see many blocks occurring very close to each other (which I</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How do I make profit in Bitcoin?</h1><p>Answer: Looking to earn some extra cash or build up your wealth portfolio? Bitcoin is a great option for doing so. When most people think of earning money through bitcoin exchange platform, they think about mining and investing in the all-digital currency, but these days there are numerous other ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
             <link>https://www.quora.com/How-do-I-make-profit-in-Bitcoin</link>
             <guid isPermaLink="false">0e9c7c3e-6d96-4cc9-8007-b275384b08be</guid>
-            <pubDate>Wed, 01 Jun 2016 14:41:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BB Fund to Start Investing in Blockchain Projects as of Autumn 2016]]></title>
-            <description><![CDATA[<article><h1>BB Fund to Start Investing in Blockchain Projects as of Autumn 2016</h1><p>Venture fund Life.Sreda has recently launched a project dubbed Banking on Blockchain Fund (BB Find) to attract investments to blockchain-related startups. According to BB Fund's managers, the fund will give grants to blockchain projects focused on banking.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/764e029a0cb9a0150b42850e985e0551674f2efb.png"></article>]]></description>
-            <link>http://forklog.net/bb-fund-to-start-investing-in-blockchain-projects-as-of-autumn-2016/</link>
-            <guid isPermaLink="false">00166ff6-2a92-4c78-8593-dc2dc4513dc2</guid>
             <pubDate>Wed, 01 Jun 2016 14:41:19 GMT</pubDate>
         </item>
     </channel>
