@@ -7,6 +7,13 @@
         <lastBuildDate>Fri, 03 Jun 2016 01:59:57 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[CTFC Levels 75,000 Dollar Fine at Bitfinex - Bitcoinist.net]]></title>
+            <description><![CDATA[<article><h1>CTFC Levels 75,000 Dollar Fine at Bitfinex - Bitcoinist.net</h1><p>The Commodity Futures Trading Commission Fined Bitfinex $75,000 today for "offering illegal off-exchange financed retail commodity transactions in bitcoin and other cryptocurrencies," citing the Commodity Exchange Act and Dodd-Frank for the action. This development may be the first of many to come if similar services, that host proxy wallets for the user, are found to be in violation of the same regulations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a37c8c1025b4ebbaf571ae8dafeea71d38e6f2a0.png"></article>]]></description>
+            <link>http://bitcoinist.net/ctfc-levels-75000-dollar-fine-at-bitfinex/</link>
+            <guid isPermaLink="false">cc697666-1231-4b07-bf7e-4195c442df0e</guid>
+            <pubDate>Fri, 03 Jun 2016 01:59:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A Visit to the Oracle]]></title>
             <description><![CDATA[<article><h1>A Visit to the Oracle</h1><p>Smart contracts are poised to revolutionize the ways that humans, machines, and organizations create and enforce contractual relationships. Everything from property ownership to financial instruments to family arrangements can now be implemented as a piece of code on a publicly verifiable shared ledger known as a blockchain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08148f90c240ff5b2f616f16d7a866d035502973.jpg"></article>]]></description>
             <link>http://bravenewcoin.com/news/a-visit-to-the-oracle/</link>
@@ -68,13 +75,6 @@
             <link>https://letstalkbitcoin.com/blog/post/the-crypto-show-with-coinvaults-sheldon-wiesfield-and-james-perloff-with-rachael-mcintosh</link>
             <guid isPermaLink="false">f1771754-c199-4801-8b77-14d0dac4b6dd</guid>
             <pubDate>Thu, 02 Jun 2016 13:58:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase to Power Bitcoin Microtransactions in Games, Videos and More | Finance Magnates]]></title>
-            <description><![CDATA[<article><h1>Coinbase to Power Bitcoin Microtransactions in Games, Videos and More | Finance Magnates</h1><p>Bitcoin exchange Coinbase has developed a new feature, called a Buy Widget, allowing for faster conversion of funds to cryptocurrency via debit cards. The new feature seems to be targeted at developers looking for a simple solution to add bitcoin micro-payments support to their projects.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2cfadbd0621fc46a90e270145d7cc4ac62f0eddd.jpg"></article>]]></description>
-            <link>http://www.financemagnates.com/cryptocurrency/news/coinbase-to-power-bitcoin-microtransactions-in-games-videos-and-more/</link>
-            <guid isPermaLink="false">9aa3df60-f817-4e79-a4db-4638e4cc8851</guid>
-            <pubDate>Thu, 02 Jun 2016 13:58:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
