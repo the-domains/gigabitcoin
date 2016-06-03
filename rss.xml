@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 14:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 14:24:56 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BitGive: Charity 2.0 Platform Will 'Revolutionize Philanthropy']]></title>
+            <description><![CDATA[<article><h1>BitGive: Charity 2.0 Platform Will 'Revolutionize Philanthropy'</h1><p>Established in 2013 by Connie Gallippi, the recognized 501c3 nonprofit BitGive is known for its work with projects such as Save the Children, The Water Project, and Medic Mobile. The group is also in building a Donation Transparency Platform for nonprofits as a "Charity 2.0" project that aims to revolutionize philanthropy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/66ef8a879722a6fd6672288e62d54d857464e9d5.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/bitgive-revolutionize-philanthropy/</link>
+            <guid isPermaLink="false">c228f4e3-1b0f-4998-90a0-f8f31aef72f2</guid>
+            <pubDate>Fri, 03 Jun 2016 14:24:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Colbitex to Launch First Bitcoin Exchange in Colombia]]></title>
             <description><![CDATA[<article><h1>Colbitex to Launch First Bitcoin Exchange in Colombia</h1><p>Colbitex, Colombia's first Bitcoin exchange has launched its platform in testnet mode on June 3, 2016 Colbitex, Colombia's first Bitcoin exchange has launched its platform in testnet mode on June 3, 2016, to provide Colombians a simple and efficient method of exchanging Bitcoin to local pesos.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b949f10d175571119bf44aafe16fc58b68fad07f.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin.com Podcast: Eddy Travia of Coinsilium - Bitcoin News</h1><p>On the latest episode of the Bitcoin.com Podcast, our host Zach Doty sat down with Eddy Travia of Coinsilium to discuss his firm's portfolio of companies, including Rootstock and Magnr. Also read: The Bitcoin.com Podcast: Voorhees on the ShapeShift Hack Self-described as "a fintech company, vertically integrated in the blockchain/decentralised network technology space," Coinsilium invests in Bitcoin and blockchain startups that they think offer valuable services to the fintech space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d55f534821967fdd14b834ef7866ab911357381.png"></article>]]></description>
             <link>https://news.bitcoin.com/podcast-eddy-travia-coinsilium/</link>
             <guid isPermaLink="false">c1daa8c9-f539-473c-814e-a4b75b47381d</guid>
-            <pubDate>Fri, 03 Jun 2016 04:04:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TeamViewer Credential Breach, Bitcoiner Computers at Risk]]></title>
-            <description><![CDATA[<article><h1>TeamViewer Credential Breach, Bitcoiner Computers at Risk</h1><p>User beware if you're a TeamViewer! According to recent reports across Reddit and elsewhere, we have come to determine that the remote viewing service has had a data breach recently, rendering account usernames, password, and 2-factor authentication details compromised.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/924d19c08655ea23d87a000309ba48814fb0fceb.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/teamviewer-breach-bitcoin-risk/</link>
-            <guid isPermaLink="false">8ea5149b-3a8c-4889-90b6-95f34dd71ba0</guid>
             <pubDate>Fri, 03 Jun 2016 04:04:10 GMT</pubDate>
         </item>
     </channel>
