@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 18:58:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 18:58:32 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin Price Passes $570 for First Time Since August 2014 - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Passes $570 for First Time Since August 2014 - CoinDesk</h1><p>The price of bitcoin is up more than 6% today, according to the CoinDesk Bitcoin USD Price Index (BPI), reaching a level not seen in nearly two years. Today's market movements, which have pushed the price to a press time high of $574.43, follow a period of elevated bitcoin trading activity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c4674330a2e332b6b2f029bc9911b972a2e01de.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/bitcoin-prices-august-2014/</link>
-            <guid isPermaLink="false">a3d90a11-5a09-4695-8c7f-d3d1f4cf7e00</guid>
-            <pubDate>Fri, 03 Jun 2016 18:57:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bank of Russia Official Optimistic About Blockchains]]></title>
-            <description><![CDATA[<article><h1>Bank of Russia Official Optimistic About Blockchains</h1><p>Vadim Kalukhov, who currently heads the Department of Financial Technologies at the Bank of Russia, has said that blockchain technology has been received very well by financial regulators across the globe, "If to speak of the technology, the regulators around the world relate to blockchains very favorably.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de074ab6db6dcf0fe57250470d24ed1175672267.jpg"></article>]]></description>
-            <link>http://themerkle.com/bank-of-russia-official-optimistic-about-blockchains/</link>
-            <guid isPermaLink="false">62c3c4b0-84d7-44f1-9b04-2691e20fce61</guid>
-            <pubDate>Fri, 03 Jun 2016 18:57:17 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Coin Gaming Launches Bitcoin-Only Sportsbook Ahead Of Euro 2016]]></title>
             <description><![CDATA[<article><h1>Coin Gaming Launches Bitcoin-Only Sportsbook Ahead Of Euro 2016</h1><p>Coin Gaming, which operates Bitcasino.io, a top bitcoin casino, has introduced a bitcoin-only sportsbook in anticipation of the Euro 2016 soccer tournament. Sportsbet.io will provide thousands of betting opportunities. The sportsbook provides users the option of betting on an event that is expected to draw at least 1.5 million BTC in bets.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc93b74b2599cd951b976e7f4743933cde36600e.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>http://www.bloomberg.com/news/videos/2016-06-03/quicktake-impact-of-bitcoin-and-blockchain</link>
             <guid isPermaLink="false">dbf6bdaf-647c-43f1-86c8-d5cb9871b34d</guid>
             <pubDate>Fri, 03 Jun 2016 18:57:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft Building Open Blockchain-Based Identity System With Blockstack, ConsenSys]]></title>
+            <description><![CDATA[<article><h1>Microsoft Building Open Blockchain-Based Identity System With Blockstack, ConsenSys</h1><p>Microsoft has announced that it is collaborating with Blockstack Labs, ConsenSys and developers across the globe on an open source, self-sovereign, blockchain-based identity system that allows people, products, apps and services to interoperate across blockchains, cloud providers and organizations. The United Nation's Sustainable Development Goals include giving everyone a legal identity by 2030.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b79cb6e261b255b54662cde62e1c3dd3ef4c46e9.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/microsoft-building-open-blockchain-based-identity-system-with-blockstack-consensys-1464968713</link>
+            <guid isPermaLink="false">e94759aa-b676-4ed1-b84a-6070e8b7a368</guid>
+            <pubDate>Fri, 03 Jun 2016 16:37:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenBazaar Developers Fix Man-in-the-middle Attack Vector]]></title>
+            <description><![CDATA[<article><h1>OpenBazaar Developers Fix Man-in-the-middle Attack Vector</h1><p>It also does not matter what hardware is used to run OpenBazaar, as this is a software-side exploit that works in the same manner for every device. OpenBazaar is one of those Bitcoin-based projects which has gained a tremendous following right off the bat.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00a3e784336c6a6492ed9aa71d808ff95307db6a.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/03/openbazaar-man-middle-attack-vector/</link>
+            <guid isPermaLink="false">68a451d2-8b0e-4648-9ef8-4277bd307e3b</guid>
+            <pubDate>Fri, 03 Jun 2016 16:37:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
