@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 02:01:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 02:01:45 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[4 Reasons Why Bitcoin Represents A New Asset Class]]></title>
+            <description><![CDATA[<article><h1>4 Reasons Why Bitcoin Represents A New Asset Class</h1><p>Looking to diversify your investment portfolio? A new white paper argues persuasively that bitcoin represents the emergence of a new asset class, showing that it is uncorrelated to any other.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/255b74f22eba702f0f95b4cdec26a7c22f723704.png"></article>]]></description>
+            <link>http://www.forbes.com/sites/laurashin/2016/06/02/4-reasons-why-bitcoin-represents-a-new-asset-class/</link>
+            <guid isPermaLink="false">7bf3fba6-9035-4829-bc1f-1cc4dc0d56cc</guid>
+            <pubDate>Fri, 03 Jun 2016 01:59:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Coinbase Launches $5 Buy Widget for Developers and Bitcoin Newbies]]></title>
             <description><![CDATA[<article><h1>Coinbase Launches $5 Buy Widget for Developers and Bitcoin Newbies</h1><p>San Francisco-based bitcoin platform Coinbase has launched a new Buy Widget that allows newcomers to digital currencies to purchase up to $5 worth of bitcoin using a debit card, without actually opening a full account. Only US-based customers are able to use the widget at this time with "limited KYC" checks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a07eb1a24f1b274f5c0a5b6a55d4e8f6e02d21fb.gif"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Mediachain uses Bitcoin Technology For Universal Media Library</h1><p>So far, there are over two million images and metadata records in the Mediachain content library. Mediachain is a new company looking to revolutionize the way we think about registering and tracking creative works. By using blockchain technology, the Brooklyn-based company wants to create a new type of universal media library.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/005498bdf53cff3df1104e3f9c76cfc5aa49f9ac.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/06/02/mediachain-uses-bitcoin-technology-universal-media-library/</link>
             <guid isPermaLink="false">0713594b-6472-424a-823f-0ef607820e5f</guid>
-            <pubDate>Fri, 03 Jun 2016 01:59:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Decentralization - The Next Big Step for the Gambling Industry - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Decentralization - The Next Big Step for the Gambling Industry - NEWSBTC</h1><p>Online gambling is still a legal gray area in several parts of the world. However, it is an industry that has a large demand and an ever increasing audience. With the entry of bitcoin in the online world, we have seen many new and innovative online casinos take form.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ffdf833cdfe39e20c917e627a29859336c8e081c.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/02/decentralization-next-big-step-gambling-industry/</link>
-            <guid isPermaLink="false">7bd29925-1cd1-4fb5-a663-e41afd2de0d5</guid>
             <pubDate>Fri, 03 Jun 2016 01:59:05 GMT</pubDate>
         </item>
     </channel>
