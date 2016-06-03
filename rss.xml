@@ -4,20 +4,13 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 01:59:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 01:59:55 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bitfinex Fined US$75,000 for Illegal Off-Exchange Transactions - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitfinex Fined US$75,000 for Illegal Off-Exchange Transactions - NEWSBTC</h1><p>Bitfinex, one of the world's largest Bitcoin and cryptocurrency exchanges, has been fined by the U.S. Commodity Futures Trading Commision (CFTC) for offering illegal off-exchange financed retail commodity transactions in Bitcoin and also failing to register as a Futures Commission Merchant (FCM).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/624e044d138de3e89ff446c06b55e39653156355.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/06/03/bitfinex-fined-us75000-illegal-off-exchange-transactions/</link>
             <guid isPermaLink="false">51f99446-ddb2-4674-9714-5d2b1472360f</guid>
-            <pubDate>Fri, 03 Jun 2016 01:59:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How do you write a smart contract on Ethereum?]]></title>
-            <description><![CDATA[<article><h1>How do you write a smart contract on Ethereum?</h1><p>Answer: If you are able to run Mist it is pretty easy 1. You get Mist running on testnet, this can take long because currently the blockchain syncronization is not optimized. Protip: run your own private testnet: Ethereum Tutorials and Tips by Hudson 2. You get some Ether: by mining or by askin...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/How-do-you-write-a-smart-contract-on-Ethereum</link>
-            <guid isPermaLink="false">87979f7e-b07a-47a8-a7c5-b09d6d1e6d2e</guid>
             <pubDate>Fri, 03 Jun 2016 01:59:02 GMT</pubDate>
         </item>
         <item>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Spoofed Kraken Email Is A Mt.Gox Victims Phishing Attempt</h1><p>It appears as if there is a phishing email making the rounds regarding the ongoing Mt. Gox investigation. These emails are allegedly coming from the Kraken exchange, and contain a link to a Google Drive file. Also read: Six Russian Banks Lose US$25.7m To Hacker Collective That file supposedly holds the list of all accepted and rejected Mt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39a334aed9f7e9284a280f991b4fbc366b4eacf4.jpg"></article>]]></description>
             <link>http://bitcoinist.net/spoofed-kraken-email-is-a-mt-gox-victims-phishing-attempt/</link>
             <guid isPermaLink="false">e74d1357-d5f2-46a8-a17b-ba18db36787c</guid>
+            <pubDate>Thu, 02 Jun 2016 13:58:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Watch; Patience...]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Watch; Patience...</h1><p>Here's what we are focusing on for this morning's session in the bitcoin price. As a result of the pretty lackluster bitcoin price action we have seen across the bitcoin markets over the last few days, these analyses are probably getting pretty tedious for some.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9c79cc16d7729584b9ff6ab13472333eb61029c.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/02/bitcoin-price-watch-patience/</link>
+            <guid isPermaLink="false">0a5e6ecc-deae-47d4-9ab4-cbb34afe4310</guid>
             <pubDate>Thu, 02 Jun 2016 13:58:40 GMT</pubDate>
         </item>
     </channel>
