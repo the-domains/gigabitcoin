@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 16:38:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 16:38:09 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deutsche Bank Customers Debited Twice In As Many Days]]></title>
+            <description><![CDATA[<article><h1>Deutsche Bank Customers Debited Twice In As Many Days</h1><p>A German report mentions how customers of Deutsche Bank have been a victim of a double-debit. Several thousand customers have been charged twice on June 1st and 2nd. Although there is no official explanation for this debacle, a lot of clients are outraged regarding this situation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4dbc13307882e71b9ad8a2a7749b5fc2af8b865b.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/deutsche-bank-customers-debited-twice/</link>
+            <guid isPermaLink="false">583d7924-61fc-44e2-a7b9-8093d86600bf</guid>
+            <pubDate>Fri, 03 Jun 2016 16:37:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Sneaker Designers Are Busting Knockoffs With Bitcoin Tech]]></title>
             <description><![CDATA[<article><h1>How Sneaker Designers Are Busting Knockoffs With Bitcoin Tech</h1><p>Every year, as much as $100 million in counterfeit sneakers is seized by U.S. customs alone. And that's just scratching the surface: worldwide, counterfeit fashion is estimated to be a $600 billion industry, and if U.S. customs figures are accurate, about 40% of all counterfeit goods are sneakers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/675ecedf99c663a57daea888e975d91078469ad0.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitfinex: 'Business as Usual' Following $75k US Fine</h1><p>Hong Kong exchange Bitfinex has said it will be "business as usual" after being fined $75,000 by the US Commodity Futures Trading Commission (CFTC).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37544bff8259afd5b332ff703adf39eb623d3f3c.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/bitfinex-75k-us-fine/</link>
             <guid isPermaLink="false">55e9b1a6-c141-49d6-8c57-97799291d8e7</guid>
-            <pubDate>Fri, 03 Jun 2016 16:37:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[If there a formula to decide when more decimal places will be added to Bitcoin?]]></title>
-            <description><![CDATA[<article><h1>If there a formula to decide when more decimal places will be added to Bitcoin?</h1><p>I know it is possible to allow for more than 8 decimal places in Bitcoin. We all hope that Bitcoin will become extremely valuable one day and increments smaller than 0.00000001 BTC will be helpful....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/44442/if-there-a-formula-to-decide-when-more-decimal-places-will-be-added-to-bitcoin</link>
-            <guid isPermaLink="false">a60b7a7e-f69d-452a-8432-9e777cc26c26</guid>
             <pubDate>Fri, 03 Jun 2016 16:37:07 GMT</pubDate>
         </item>
     </channel>
