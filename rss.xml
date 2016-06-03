@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 02:02:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 02:02:44 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DAO Power: Bitwage Now Lets Employers Pay Workers with Ether]]></title>
+            <description><![CDATA[<article><h1>DAO Power: Bitwage Now Lets Employers Pay Workers with Ether</h1><p>Uphold has recently unveiled a new partnership with the payroll payment service Bitwage, which will allow its users to receive their wages in Ether from now on. CoinTelegraph talked to Jonathan Chester, Bitwage President, about this move. Ether, the new, hot cryptocurrency which has taken the spotlight for entrepreneurs and speculators all over the world is in hot demand.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9bf5b7cf2e77a11539c13c0928f1729d092c0202.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/dao-power-bitwage-now-lets-employers-pay-workers-with-ether</link>
+            <guid isPermaLink="false">de1dfe86-6055-4a4f-af3a-da1a0d8e4dc3</guid>
+            <pubDate>Fri, 03 Jun 2016 01:59:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Watch; Intrarange in Play - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Watch; Intrarange in Play - NEWSBTC</h1><p>Here's what we are focusing on for this evening's session in the bitcoin price. In this morning's analysis, we discussed the pretty flat action that we had seen in the bitcoin price across the last few days.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52cadfaab9cf75c69c20773e752a02aab5ea0d22.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://bitcoinmagazine.com/articles/from-bench-to-bedside-enabling-reproducible-commercial-science-via-blockchain-1464881141</link>
             <guid isPermaLink="false">eb62544d-4241-4c13-b921-73c4fb05613f</guid>
             <pubDate>Fri, 03 Jun 2016 01:59:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Decentralized Crowdfunder Waves Launches Following $16m ICO]]></title>
-            <description><![CDATA[<article><h1>Decentralized Crowdfunder Waves Launches Following $16m ICO</h1><p>Blockchain crowdfunding and finance platform Waves launched Wednesday following a $16 million ICO, the sixth-largest crowdfunded project in history.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88fbd3d15771fbf982e711a9d66dfce22e37d518.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/decentralized-crowdfunder-waves-16m-ico/</link>
-            <guid isPermaLink="false">f4006b45-6d6f-4116-b75d-8ef899d3f79f</guid>
-            <pubDate>Fri, 03 Jun 2016 01:59:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
