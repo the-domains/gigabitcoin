@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 02:01:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 02:02:02 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin price surges on SA-linked exchange]]></title>
+            <description><![CDATA[<article><h1>Bitcoin price surges on SA-linked exchange</h1><p>Demand for cryptocurrency Bitcoin has soared in the last week with prices surging just over 20% on South African-linked exchange BitX. The price of a Bitcoin on BitX has risen from R7 443 at 14:00 on May 26 to R8 998 at 10:00 on Thursday June 2.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2d543015591485b16776a03d3681dd23299af4b.png"></article>]]></description>
+            <link>http://businesstech.co.za/news/finance/125473/bitcoin-price-surges-on-sa-linked-exchange/</link>
+            <guid isPermaLink="false">c9dd4429-dc8f-4a03-8bf7-712ecf3eb3c7</guid>
+            <pubDate>Fri, 03 Jun 2016 01:59:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Etherised]]></title>
+            <description><![CDATA[<article><h1>Etherised</h1><p>BITCOIN is back. Fans (and holders) of the crypto-currency were celebrating after its price jumped more than 20% in the five days to May 31st, to nearly $550-a level it last reached in August 2014. They should contain their elation: the factors driving the rally are not unalloyed positives, and the competition is doing even better (see chart).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/545deabeb96f87d1947d48495bfe0b3c18328946.png"></article>]]></description>
+            <link>http://www.economist.com/news/finance-and-economics/21699932-bitcoins-resurgence-may-be-short-lived-etherised</link>
+            <guid isPermaLink="false">d09d01a5-0a4b-48ca-b7b3-5eeaa9d4f2f1</guid>
+            <pubDate>Fri, 03 Jun 2016 01:59:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article><img src="http://imgur.com/6AOnqpN.png"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Coinbase Releases 'Buy Widget' To Simplify Buying Bitcoin</h1><p>Coinbase has introduced Coinbase Buy Widget to make it easier for users to buy bitcoin, the company announced in a blog. The hosted widget can be embedded and is configurable. The widget enables us...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a14b6079511035af94b8057454b29cf86c2ea87b.png"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/coinbase-releases-buy-widget-to-simply-buying-bitcoin/</link>
             <guid isPermaLink="false">00fd13d9-4651-4da1-b4a5-7998e6c376c2</guid>
-            <pubDate>Fri, 03 Jun 2016 01:59:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Does PayPal's Shutdown in Turkey Mean for Bitcoin?]]></title>
-            <description><![CDATA[<article><h1>What Does PayPal's Shutdown in Turkey Mean for Bitcoin?</h1><p>PayPal has been forced to cease operations in Turkey. The shutdown will go into effect on June 6. Turkey recently denied PayPal of a new license, which is required to operate within the country. According to TechCrunch , the reason for the denial was that PayPal does not localize all of their IT infrastructure inside of Turkey.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7282ac400067c3a6b911314046cb24fd2caa4c95.jpg"></article>]]></description>
-            <link>http://www.nasdaq.com/article/what-does-paypals-shutdown-in-turkey-mean-for-bitcoin-cm629678</link>
-            <guid isPermaLink="false">00de7fbf-9c27-47d0-80c4-086711914385</guid>
-            <pubDate>Fri, 03 Jun 2016 01:59:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gavin Andresen: Recent Rise in Ethereum Should Be a Warning to Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Gavin Andresen: Recent Rise in Ethereum Should Be a Warning to Bitcoin</h1><p>May 31, 2016 - Posted by Kyle Torpey on Coverage For at least half a year, Bitcoin Foundation Chief Scientist and former Bitcoin Core lead maintainer Gavin Andresen has espoused that the Bitcoin development process has become too slow.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5d74dad0721381b51e68e8326b41ba33b6abeb6.jpg"></article>]]></description>
-            <link>https://www.coingecko.com/buzz/gavin-andresen-ethereum-rise-warning-to-bitcoin?locale=en</link>
-            <guid isPermaLink="false">376951d9-3901-4921-98b6-3a788c9a048d</guid>
             <pubDate>Fri, 03 Jun 2016 01:59:05 GMT</pubDate>
         </item>
     </channel>
