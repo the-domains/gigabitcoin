@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 04:04:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 04:04:39 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://imgur.com/DgZGTXd.jpg"></article>]]></description>
+            <link>http://imgur.com/DgZGTXd</link>
+            <guid isPermaLink="false">6fa98251-4567-4652-90f2-eedb50da24b0</guid>
+            <pubDate>Fri, 03 Jun 2016 04:04:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin.com Podcast: Eddy Travia of Coinsilium - Bitcoin News]]></title>
             <description><![CDATA[<article><h1>Bitcoin.com Podcast: Eddy Travia of Coinsilium - Bitcoin News</h1><p>On the latest episode of the Bitcoin.com Podcast, our host Zach Doty sat down with Eddy Travia of Coinsilium to discuss his firm's portfolio of companies, including Rootstock and Magnr. Also read: The Bitcoin.com Podcast: Voorhees on the ShapeShift Hack Self-described as "a fintech company, vertically integrated in the blockchain/decentralised network technology space," Coinsilium invests in Bitcoin and blockchain startups that they think offer valuable services to the fintech space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d55f534821967fdd14b834ef7866ab911357381.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://cointelegraph.com/news/dao-power-bitwage-now-lets-employers-pay-workers-with-ether</link>
             <guid isPermaLink="false">de1dfe86-6055-4a4f-af3a-da1a0d8e4dc3</guid>
             <pubDate>Fri, 03 Jun 2016 01:59:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Intrarange in Play - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Intrarange in Play - NEWSBTC</h1><p>Here's what we are focusing on for this evening's session in the bitcoin price. In this morning's analysis, we discussed the pretty flat action that we had seen in the bitcoin price across the last few days.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52cadfaab9cf75c69c20773e752a02aab5ea0d22.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/02/bitcoin-price-watch-intrarange-play/</link>
-            <guid isPermaLink="false">f49eb1fc-7bad-4e7a-849b-45d9ea7532a5</guid>
-            <pubDate>Fri, 03 Jun 2016 01:59:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
