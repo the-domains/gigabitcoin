@@ -4,20 +4,13 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 18:58:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 18:58:28 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Donation]]></title>
             <description><![CDATA[<article><h1>Donation</h1><p>To make a donation by check, please download themail-in donation form and send your check along with the form to: Gary Johnson 2016 PO Box 4422 Salt Lake City, UT 84110-4422 Federal law requires all online contributors to confirm that the following statements are true and accurate.</p></article>]]></description>
             <link>https://garyjohnson2016.com/donation/</link>
             <guid isPermaLink="false">888b2433-6877-40a2-935e-620779dec366</guid>
-            <pubDate>Fri, 03 Jun 2016 18:57:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EU Parliament Votes for Light-Handed Regulation of Blockchain Technology]]></title>
-            <description><![CDATA[<article><h1>EU Parliament Votes for Light-Handed Regulation of Blockchain Technology</h1><p>European Parliament members (MEPs) voted to take a hands-off approach to regulating blockchain technology, Ars Technica reports. Following the vote, unnamed sources told Ars Technica that European Commission staffers are working hard to understand the distributed ledger technology behind virtual currencies ‒ seven years after the launch of Bitcoin, with venture capital investments now totalling more than €1 billion.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a61cec94d85528315152cb1674f70170f4d4f655.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/eu-parliament-votes-for-light-handed-regulation-of-blockchain-technology-1464971927</link>
-            <guid isPermaLink="false">476040ef-05dc-4762-b707-800a11c33359</guid>
             <pubDate>Fri, 03 Jun 2016 18:57:16 GMT</pubDate>
         </item>
         <item>
@@ -75,6 +68,13 @@
             <link>http://www.coindesk.com/russias-central-bank-theres-cautious-optimism-blockchain/</link>
             <guid isPermaLink="false">72dcf8d9-7bf0-4a48-9ce6-4e9f193c981e</guid>
             <pubDate>Fri, 03 Jun 2016 16:37:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Uphold Added Ethereum and Teamed with Bitwage]]></title>
+            <description><![CDATA[<article><h1>Why Uphold Added Ethereum and Teamed with Bitwage</h1><p>Uphold's recent decision to enable Ether trading on its platform marks another sign of recognition by both the financial and the open source developer communities' of Ethereum's unique potential. CCN on Wednesday reported that Uphold users can now buy or convert fiat currencies (USD, EUR, and GBP) or other digital currencies, including bitcoin, to Ether, the token value of the Ethereum blockchain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f3c26a2356b5f47a5f6be10f5bad91310cc0dc4.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/why-uphold-added-etherum-and-teamed-with-bitwage/</link>
+            <guid isPermaLink="false">2317fad0-41a0-4fa6-83de-1daf9f53de07</guid>
+            <pubDate>Fri, 03 Jun 2016 16:37:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
