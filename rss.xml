@@ -4,77 +4,77 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 01:59:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 02:00:28 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Bitfinex Fined US$75,000 for Illegal Off-Exchange Transactions - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitfinex Fined US$75,000 for Illegal Off-Exchange Transactions - NEWSBTC</h1><p>Bitfinex, one of the world's largest Bitcoin and cryptocurrency exchanges, has been fined by the U.S. Commodity Futures Trading Commision (CFTC) for offering illegal off-exchange financed retail commodity transactions in Bitcoin and also failing to register as a Futures Commission Merchant (FCM).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/624e044d138de3e89ff446c06b55e39653156355.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/03/bitfinex-fined-us75000-illegal-off-exchange-transactions/</link>
-            <guid isPermaLink="false">51f99446-ddb2-4674-9714-5d2b1472360f</guid>
-            <pubDate>Fri, 03 Jun 2016 01:59:02 GMT</pubDate>
+            <title><![CDATA[Confidential Transactions: How Hiding Transaction Amounts Increases Bitcoin Privacy]]></title>
+            <description><![CDATA[<article><h1>Confidential Transactions: How Hiding Transaction Amounts Increases Bitcoin Privacy</h1><p>Bitcoin right now is not really anonymous. While Bitcoin addresses aren't necessarily linked to real-world identities, they can be. Monitoring the unencrypted peer-to-peer network, analysis of the public blockchain, and Know Your Customer (KYC) policy or Anti-Money Laundering (AML) regulation can reveal a lot about who's using Bitcoin, and for what.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24b5ae519e94944763b02ef739a092ca01e507ef.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/confidential-transactions-how-hiding-transaction-amounts-increases-bitcoin-privacy-1464892525</link>
+            <guid isPermaLink="false">4b11bf31-6fe1-489e-87f1-3ed9fd55c8c4</guid>
+            <pubDate>Fri, 03 Jun 2016 01:59:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How do bypass bitcoin faucet timer?]]></title>
-            <description><![CDATA[<article><h1>How do bypass bitcoin faucet timer?</h1><p>Answer (1 of 2): Faucets are working really really hard now a days to combat fraud. They're getting pretty good at it too. My recommendation: these websites can't function if you rip them off. They're doing a service by providing free Bitcoin, please don't abuse it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/How-do-bypass-bitcoin-faucet-timer</link>
-            <guid isPermaLink="false">c7b00ed1-8c67-4a42-89f1-5ba3745763c0</guid>
-            <pubDate>Fri, 03 Jun 2016 01:59:02 GMT</pubDate>
+            <title><![CDATA[The newest Richard Branson's Blockchain Event | HolyTransaction]]></title>
+            <description><![CDATA[<article><h1>The newest Richard Branson's Blockchain Event | HolyTransaction</h1><p>The well-known founder of Virgin Group, Richard Branson has organized a new blockchain-related event on his private island in the Carribbean. Among his about 40 guests there are: Beth Moses, engineer for the Virgin Galactic; Laurent Lamothe, former prime minister of Haiti; Jim Newsome, former chairman at the US Commodity Futures Trading Commission; and Elizabeth Rossiello, CEO at BitPesa.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/981001b08ecaf6fe5f2979b059601b828badb0e9.jpg"></article>]]></description>
+            <link>http://blog.holytransaction.com/2016/06/the-newest-richard-bransons-blockchain.html</link>
+            <guid isPermaLink="false">1ed3bb43-285d-42c2-bfa1-d757727c7dc0</guid>
+            <pubDate>Fri, 03 Jun 2016 01:59:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Huobi Overtakes Bitfinex Again As Primary USD/BTC Exchange]]></title>
-            <description><![CDATA[<article><h1>Huobi Overtakes Bitfinex Again As Primary USD/BTC Exchange</h1><p>There is never a dull day in the world of Bitcoin trading, as every time people look at more detailed market charts, they learn something new. Up until yesterday, Bitfinex was the market leader when it came to USD trading volume. But overnight, it appears as if Huobi has snuck in and taken the lead by quite a margin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98c33d2ff1348670d94719f2d59bbb3541d044b4.jpg"></article>]]></description>
-            <link>http://themerkle.com/huobi-overtakes-bitfinex-again-as-primary-usdbtc-exchange/</link>
-            <guid isPermaLink="false">59e58589-4c15-43e3-be63-4b3f9a1e26c8</guid>
-            <pubDate>Thu, 02 Jun 2016 13:58:41 GMT</pubDate>
+            <title><![CDATA[How is a blockchain implemented in code?]]></title>
+            <description><![CDATA[<article><h1>How is a blockchain implemented in code?</h1><p>Answer: It's a complex data structure in which you can add blocks at the top, switch to a different top block (in case of forks), and get some information relative to any blocks in it. There are a bunch of function to find and extract bloc or specific elements of a bloc in the Blockchain that ar...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/How-is-a-blockchain-implemented-in-code</link>
+            <guid isPermaLink="false">f88ede88-3644-4ed8-bc27-a68e5dccb94b</guid>
+            <pubDate>Fri, 03 Jun 2016 01:59:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bitcoin.com Presents 'Birds': Promote Your Tweets With Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Bitcoin.com Presents 'Birds': Promote Your Tweets With Bitcoin</h1><p>Bitcoin.com has announced the launch of its new Tweet boosting service called "Birds" enabling Twitter users to earn bitcoin for simply retweeting. Also read: Bitcoin Startups Can Now Try A Different Form of Venture Capital The new service is a Twitter application tied to bitcoin payments, which is intended to help people market messages by attracting other people with profit opportunities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e993b1796467550a6bd1181b996df9520045144.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/birds-promote-tweet-bitcoin/</link>
-            <guid isPermaLink="false">05aa1330-dcf9-485a-bae5-0290d69f8934</guid>
-            <pubDate>Thu, 02 Jun 2016 13:58:41 GMT</pubDate>
+            <title><![CDATA[Bitgold denied my first withdrawal and froze my account for no reason with 10,000USD in it!!!!! * /r/Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Bitgold denied my first withdrawal and froze my account for no reason with 10,000USD in it!!!!! * /r/Bitcoin</h1><p>I deposited bitcoins with this company months ago, roughly 10,000USD, with the price of gold tanking I decide to withdraw and these are the emails...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
+            <link>https://www.reddit.com/r/Bitcoin/comments/4m7pmf/bitgold_denied_my_first_withdrawal_and_froze_my/</link>
+            <guid isPermaLink="false">33e8a7b9-c13b-4dc2-acf4-e570082b1afd</guid>
+            <pubDate>Fri, 03 Jun 2016 01:59:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bitcoin to be sold in Australian newsagencies over the counter]]></title>
-            <description><![CDATA[<article><h1>Bitcoin to be sold in Australian newsagencies over the counter</h1><p>Australians will soon be able to buy some Bitcoin along with the newspaper and a pack of gum. Launching Thursday, a new initiative will help people buy Bitcoin with cash at around 1,200 newsagents nationally, Fairfax Media reported. The project is being rolled out as a partnership between the retail network Blueshyft and Australian Bitcoin exchange, Bitcoin.com.au.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9bfdea314612343021b18925d9ff682f704791f0.jpg"></article>]]></description>
-            <link>http://mashable.com/2016/06/02/bitcoin-newsagency-australia/</link>
-            <guid isPermaLink="false">d1f882e0-ccc6-47a5-9d77-09bdabd8bf9d</guid>
-            <pubDate>Thu, 02 Jun 2016 13:58:41 GMT</pubDate>
+            <title><![CDATA[The DAO, a List of Exchanges Where You Can Trade Tokens]]></title>
+            <description><![CDATA[<article><h1>The DAO, a List of Exchanges Where You Can Trade Tokens</h1><p>The DAO, a decentralized autonomous organization, is an interesting project in the form of an Ethereum smart contract that is essentially a form of investor-directed venture capital fund. The project was started with what can be described as the largest crowdfunding campaign to date where over twenty thousand people invested over 12 million Ether coins and now have the right to control the direction of the DAO.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47f9a4e40624c99239205a3ca3449ac027316f90.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7923-the-dao-a-list-of-exchanges-where-you-can-trade-tokens/</link>
+            <guid isPermaLink="false">44da9241-85e9-4d5b-b531-77f8db67d41c</guid>
+            <pubDate>Fri, 03 Jun 2016 01:59:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Portfolio Manager High On Cash, Suggests Bitcoin For Diversification]]></title>
-            <description><![CDATA[<article><h1>Portfolio Manager High On Cash, Suggests Bitcoin For Diversification</h1><p>Chris DeMuth Jr., a portfolio manager at Rangeley Capital, writing in prominent investor portal Seeking Alpha, suggests investors optimize their cash holdings and put 10% of it in bitcoin. DeMuth began his explanation with an overview of the current investing environment. He noted the stock market is very pricey.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a401c8e68106fb51949fb79b6fac74464c42686.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/portfolio-manager-high-cash-suggests-bitcoin-diversification/</link>
-            <guid isPermaLink="false">54b2deb8-d900-4009-a671-e6363ae0e8fb</guid>
-            <pubDate>Thu, 02 Jun 2016 13:58:41 GMT</pubDate>
+            <title><![CDATA[CFTC Fines Bitcoin Exchange Bitfinex $75,000 Over Trading Violations - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>CFTC Fines Bitcoin Exchange Bitfinex $75,000 Over Trading Violations - CoinDesk</h1><p>Hong Kong-based bitcoin exchange Bitfinex has settled with the US Commodity Futures Trading Commission (CFTC) following an investigation into its financed trading activities. Bitfinex settled charges that it offered illegal off-exchange financed retail commodities trading, as well as not registering as a futures commission merchant.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/443f608726f4521d3ab31cb58f8d0288e0e96271.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/cftc-bitcoin-exchange-bitfinex-trading-violations/</link>
+            <guid isPermaLink="false">3444dbde-9e26-40ea-9389-6a5fe44492fc</guid>
+            <pubDate>Fri, 03 Jun 2016 01:59:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Crypto Show with CoinVault's Sheldon Wiesfield and James Perloff with Rachael McIntosh]]></title>
-            <description><![CDATA[<article><h1>The Crypto Show with CoinVault's Sheldon Wiesfield and James Perloff with Rachael McIntosh</h1><p>We start off talking with Sheldon Wiesfield about bringing the CoinVault ATMs back online and its new features. Then James Perloff and Rachael McIntosh discuss their books and the parallels between past elections and current elections. Original air date 6/1/16 on LogosRadioNetwork. Sponsored by Bitcoin.com & CryptoCompare.com Links: http://TheCryptoShow.com http://FreeRoss.org http://CoinVaultATM.com http://Bitcoin.com http://CryptoCompare.com http://Facebook.com/thecry...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9388f5038d6cb7305b69b647278313eb7d84dbfe.jpg"></article>]]></description>
-            <link>https://letstalkbitcoin.com/blog/post/the-crypto-show-with-coinvaults-sheldon-wiesfield-and-james-perloff-with-rachael-mcintosh</link>
-            <guid isPermaLink="false">f1771754-c199-4801-8b77-14d0dac4b6dd</guid>
-            <pubDate>Thu, 02 Jun 2016 13:58:41 GMT</pubDate>
+            <title><![CDATA[Egyptian Dentist Apprehended in Bitcoin Sting Operation in Cairo]]></title>
+            <description><![CDATA[<article><h1>Egyptian Dentist Apprehended in Bitcoin Sting Operation in Cairo</h1><p>A 30-year-old dentist has been apprehended by Egyptian authorities for conducting bitcoin-to-dollar transactions on LocalBitcoins.com, a popular digital currency trading portal. Mr. Ahmed. A. H., who was trading digital currencies on the site under the nickname btc2okpay, was captured in a sting operation setup by investigators in New Cairo, a municipality on the outskirts of the Cairo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20d190049f9d6c65a9097af954e7d63f0057e735.jpg"></article>]]></description>
+            <link>http://themerkle.com/egyptian-dentist-apprehended-in-bitcoin-sting-operation-in-cairo/</link>
+            <guid isPermaLink="false">a601d96e-e8b0-4690-9243-f2c5c8d024c0</guid>
+            <pubDate>Fri, 03 Jun 2016 01:59:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coinbase to Power Bitcoin Microtransactions in Games, Videos and More | Finance Magnates]]></title>
-            <description><![CDATA[<article><h1>Coinbase to Power Bitcoin Microtransactions in Games, Videos and More | Finance Magnates</h1><p>Bitcoin exchange Coinbase has developed a new feature, called a Buy Widget, allowing for faster conversion of funds to cryptocurrency via debit cards. The new feature seems to be targeted at developers looking for a simple solution to add bitcoin micro-payments support to their projects.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2cfadbd0621fc46a90e270145d7cc4ac62f0eddd.jpg"></article>]]></description>
-            <link>http://www.financemagnates.com/cryptocurrency/news/coinbase-to-power-bitcoin-microtransactions-in-games-videos-and-more/</link>
-            <guid isPermaLink="false">9aa3df60-f817-4e79-a4db-4638e4cc8851</guid>
-            <pubDate>Thu, 02 Jun 2016 13:58:40 GMT</pubDate>
+            <title><![CDATA[PayPal Ban in Turkey May Open Doors for Bitcoin Businesses - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>PayPal Ban in Turkey May Open Doors for Bitcoin Businesses - NEWSBTC</h1><p>The exit of PayPal from the Turkey may pave way for new blockchain based digital payments systems Turkey might prove to be a gold mine for digital currencies companies in the coming days. Thanks to issues being faced by PayPal due to the Turkish government's refusal to renew their license to operate in the country.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3103834b5e76805bbe75d95359a46d71201fc348.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/02/paypal-ban-in-turkey-may-open-doors-for-bitcoin-businesses/</link>
+            <guid isPermaLink="false">fcc4dce0-f199-467e-856d-9e8ee85eeaa6</guid>
+            <pubDate>Fri, 03 Jun 2016 01:59:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Spoofed Kraken Email Is A Mt.Gox Victims Phishing Attempt]]></title>
-            <description><![CDATA[<article><h1>Spoofed Kraken Email Is A Mt.Gox Victims Phishing Attempt</h1><p>It appears as if there is a phishing email making the rounds regarding the ongoing Mt. Gox investigation. These emails are allegedly coming from the Kraken exchange, and contain a link to a Google Drive file. Also read: Six Russian Banks Lose US$25.7m To Hacker Collective That file supposedly holds the list of all accepted and rejected Mt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39a334aed9f7e9284a280f991b4fbc366b4eacf4.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/spoofed-kraken-email-is-a-mt-gox-victims-phishing-attempt/</link>
-            <guid isPermaLink="false">e74d1357-d5f2-46a8-a17b-ba18db36787c</guid>
-            <pubDate>Thu, 02 Jun 2016 13:58:40 GMT</pubDate>
+            <title><![CDATA[Digital Currency Exchange Bitfinex to PAy 75k Fine to CFTC]]></title>
+            <description><![CDATA[<article><h1>Digital Currency Exchange Bitfinex to PAy 75k Fine to CFTC</h1><p>Hong Kong-based digital currency exchange Bitfinex (BFXNA Inc.) will be paying a $75,000 fine to the United States Commodity Futures Trading Commission (CFTC). According to the order, Bitfinex fully cooperated with CFTC investigators and submitted the 75k Offer of Settlement, which the CFTC has accepted.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a07eb1a24f1b274f5c0a5b6a55d4e8f6e02d21fb.gif"></article>]]></description>
+            <link>http://themerkle.com/cftc-hits-digital-currency-exchange-bitfinex-with-75k-fine/</link>
+            <guid isPermaLink="false">91fbbe0c-847a-4336-a69e-c6a76bb1e4b1</guid>
+            <pubDate>Fri, 03 Jun 2016 01:59:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bitcoin Price Watch; Patience...]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Patience...</h1><p>Here's what we are focusing on for this morning's session in the bitcoin price. As a result of the pretty lackluster bitcoin price action we have seen across the bitcoin markets over the last few days, these analyses are probably getting pretty tedious for some.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9c79cc16d7729584b9ff6ab13472333eb61029c.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/02/bitcoin-price-watch-patience/</link>
-            <guid isPermaLink="false">0a5e6ecc-deae-47d4-9ab4-cbb34afe4310</guid>
-            <pubDate>Thu, 02 Jun 2016 13:58:40 GMT</pubDate>
+            <title><![CDATA[Like water access, Bitcoin can make finance a public utility]]></title>
+            <description><![CDATA[<article><h1>Like water access, Bitcoin can make finance a public utility</h1><p>Developing nations are waking up to the opportunities that Bitcoin and open blockchain technology can provide to the world's poorest and financially excluded citizens, while banks appear to stifle their efforts and simultaneously develop their own privatized blockchain ledgers. Is it fair to explain private ledgers as another way to profit at the expense of a public utility?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/86e9cd7fbe240d94a95f5d729a61e65a0d83bd70.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/banks-bitcoin-public-utility-money/</link>
+            <guid isPermaLink="false">70718456-a601-4233-98fe-47dd24faccfd</guid>
+            <pubDate>Fri, 03 Jun 2016 01:59:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
