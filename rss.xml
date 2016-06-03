@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 14:26:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 14:26:46 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Flashpoint Study Shows Spreading Ransomware Is No Cash Cow]]></title>
+            <description><![CDATA[<article><h1>Flashpoint Study Shows Spreading Ransomware Is No Cash Cow</h1><p>For the longest time, people have assumed the profits made from ransomware attacks is very lucrative. But a recent study by Flashpoint paints an entirely different picture. While there is still money to be made, the numbers are far lower than most people think they are.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/971b78a7fab28098e7bce16771149bbc6bdbaa20.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/flashpoint-study-spreading-ransomware/</link>
+            <guid isPermaLink="false">c292ada4-5a8d-40e3-bd83-ddeaea62692b</guid>
+            <pubDate>Fri, 03 Jun 2016 14:24:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Watch; Close of the Week Targets]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Watch; Close of the Week Targets</h1><p>Here's what we are focusing on for this morning's session in the bitcoin price. It's Friday morning, and that means we've come to the penultimate of our twice-daily be quite bitcoin price watch pieces for the week.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6e7a0d604422e34f94b5c6a216329f2f4a5b35e.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.coindesk.com/debate-factom-land-title-honduras/</link>
             <guid isPermaLink="false">6083a2ab-0b30-471c-95f6-d51e65dfd8dd</guid>
             <pubDate>Fri, 03 Jun 2016 14:24:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2016 Could Be Bitcoin's Best Year Yet]]></title>
-            <description><![CDATA[<article><h1>2016 Could Be Bitcoin's Best Year Yet</h1><p>Tuur Demeester is an independent investor, newsletter writer and editor in chief at Adamant Research. Launched in 2015, Adamant Research provides a monthly newsletter service. The inaugural report, 'How to Position for the Rally in Bitcoin' can be found here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b0bc20aea2e2d787b1df6796e2b78a368db56fc.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/2016-bitcoin-best-year/</link>
-            <guid isPermaLink="false">aa0a5de4-8d55-4c83-bc39-6a72bb8bc381</guid>
-            <pubDate>Fri, 03 Jun 2016 14:24:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
