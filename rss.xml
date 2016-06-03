@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 02:01:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 02:01:26 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coinbase and ARK Invest Report Argues Bitcoin is a New Kind of Asset Class - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Coinbase and ARK Invest Report Argues Bitcoin is a New Kind of Asset Class - CoinDesk</h1><p>A new report argues that bitcoin should be considered the first in an entirely new kind of asset class. The paper was produced by digital currency exchange and wallet startup Coinbase and ARK Invest, an investment management firm that specializes in disruptive technologies and offers financial products tied to bitcoin markets.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9092baecec91edeefa8aa9e36c5b0e4b0fb081cc.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/coinbase-ark-invest-bitcoin-new-asset-class/</link>
+            <guid isPermaLink="false">2dd5c1a7-e4c5-401f-aa62-cd406f313900</guid>
+            <pubDate>Fri, 03 Jun 2016 01:59:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lost in Interpretation: Landmark Case in Florida May Decide Future of Bitcoin]]></title>
             <description><![CDATA[<article><h1>Lost in Interpretation: Landmark Case in Florida May Decide Future of Bitcoin</h1><p>A money-laundering case in Miami is expected to determine what the future of Bitcoin in the U.S. will be. A 32-year-old Florida man is charged with attempted money-laundering after illegally selling $1,500 in Bitcoins. The essential question is: was it really money he was laundering?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/762b57e77ab251d755a202cd65e0ec2427cfc2e0.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Can Russia dodge sanctions using Bitcoin?</h1><p>Russian businesses could harness the power of technology developed for cryptocurrency bitcoin to avoid being subject to Western sanctions, a prominent Russian lawmaker claimed. Blockchain is the ledger behind Bitcoin and it effectively allows for the transfer of information online, ensuring that two copies of it were not made.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/567fe7f154a10bf2feaeb64cde876a2753ce467c.jpg"></article>]]></description>
             <link>http://www.newsweek.com/bitcoin-technology-can-help-russia-dodge-sanctions-mp-465901</link>
             <guid isPermaLink="false">66ba0909-dd96-4495-8771-6b6ed05d8372</guid>
-            <pubDate>Fri, 03 Jun 2016 01:59:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BlockFin Asia 2016: FinTech Meets 'Entrepreneurial' Vietnam]]></title>
-            <description><![CDATA[<article><h1>BlockFin Asia 2016: FinTech Meets 'Entrepreneurial' Vietnam</h1><p>Bitcoin.com wanted to get an inside look into the upcoming BlockFin Asia 2016 event in Ho Chi Minh City through the eyes of one of its organizers Dominik Weil of the broker exchange Bitcoin Vietnam. Weil explains how the event was conceived and how things are going within the Vietnam borders concerning financial technology and blockchain solutions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f5b48c2ffce8f915bf9e5ca68494263465e7bca.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/blockfin-asia-fintech-vietnam/</link>
-            <guid isPermaLink="false">d66a236a-2b2d-459a-8c8f-9d19a15d02e3</guid>
             <pubDate>Fri, 03 Jun 2016 01:59:04 GMT</pubDate>
         </item>
     </channel>
