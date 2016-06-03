@@ -4,13 +4,27 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 16:37:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 16:37:59 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitfinex: 'Business as Usual' Following $75k US Fine]]></title>
+            <description><![CDATA[<article><h1>Bitfinex: 'Business as Usual' Following $75k US Fine</h1><p>Hong Kong exchange Bitfinex has said it will be "business as usual" after being fined $75,000 by the US Commodity Futures Trading Commission (CFTC).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37544bff8259afd5b332ff703adf39eb623d3f3c.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/bitfinex-75k-us-fine/</link>
+            <guid isPermaLink="false">55e9b1a6-c141-49d6-8c57-97799291d8e7</guid>
+            <pubDate>Fri, 03 Jun 2016 16:37:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[If there a formula to decide when more decimal places will be added to Bitcoin?]]></title>
             <description><![CDATA[<article><h1>If there a formula to decide when more decimal places will be added to Bitcoin?</h1><p>I know it is possible to allow for more than 8 decimal places in Bitcoin. We all hope that Bitcoin will become extremely valuable one day and increments smaller than 0.00000001 BTC will be helpful....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/44442/if-there-a-formula-to-decide-when-more-decimal-places-will-be-added-to-bitcoin</link>
             <guid isPermaLink="false">a60b7a7e-f69d-452a-8432-9e777cc26c26</guid>
+            <pubDate>Fri, 03 Jun 2016 16:37:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin distribution]]></title>
+            <description><![CDATA[<article><h1>Bitcoin distribution</h1><p>Economies of scale are powerful and Bitcoin growth has been substantial over the past few years. Unfortunately much of the world including those in the 3rd world (many unbanked) who may need it mos...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/44556/bitcoin-distribution</link>
+            <guid isPermaLink="false">ab7895e5-4dca-4859-b19e-a52820cfcecd</guid>
             <pubDate>Fri, 03 Jun 2016 16:37:07 GMT</pubDate>
         </item>
         <item>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Finds Stability After Massive Bull Rally</h1><p>Perhaps last week gave us so much excitement that we needed some time off. In our previous price piece, bitcoin shocked its fans by jumping to the $530 range within a matter of days. Now, we look at bitcoin, and it hasn't moved. In fact, several days later, Bitcoin is exactly where it was before.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/015fb63bd28ffa9907815cdfa9b8146a04553762.jpg"></article>]]></description>
             <link>http://bitcoinist.net/bitcoin-price-stability-rally/</link>
             <guid isPermaLink="false">9aa30f5c-a2d2-4283-9257-a0cd296676a0</guid>
-            <pubDate>Fri, 03 Jun 2016 14:24:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Law in China Delays Launch of Mobile Games By A Month or More]]></title>
-            <description><![CDATA[<article><h1>New Law in China Delays Launch of Mobile Games By A Month or More</h1><p>Mobile game developers may want to think twice about submitting their creations to the Chinese market in the future. As of July 1, all mobile games must be approved by the government before they will be released to the public.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/afed9d243261a3605af53d244fa7322b0b8391ed.jpg"></article>]]></description>
-            <link>http://themerkle.com/new-law-in-china-delays-launch-of-mobile-games-by-a-month-or-more/</link>
-            <guid isPermaLink="false">6672a3ae-8e9a-4700-a927-98fc84ce0f05</guid>
-            <pubDate>Fri, 03 Jun 2016 14:24:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Syscoin is like eBay": Interview with Developer of Decentralized Marketplace Cryptocurrency]]></title>
-            <description><![CDATA[<article><h1>"Syscoin is like eBay": Interview with Developer of Decentralized Marketplace Cryptocurrency</h1><p>How can you explain Syscoin to someone who has, for example, only ever used eBay, and is not familiar with cryptocurrencies? CoinTelegraph spoke to Dan Wasyluk, Developer at Syscoin, about their innovation. " Syscoin is like eBay stores or "Buy it Now" listings, except with a payment and escrow system built-in", explains Dan Wasyluk.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e75f3b5edee6f186056517c835af80e4e29d07eb.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/syscoin-is-like-ebay-interview-with-developer-of-decentralized-marketplace-cryptocurrency</link>
-            <guid isPermaLink="false">df977cf7-0dc7-4925-9947-16309d2f09e7</guid>
             <pubDate>Fri, 03 Jun 2016 14:24:06 GMT</pubDate>
         </item>
     </channel>
