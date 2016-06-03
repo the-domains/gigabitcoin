@@ -4,8 +4,43 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 16:38:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 18:57:19 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[QuickTake: Impact of Bitcoin and Blockchain]]></title>
+            <description><![CDATA[<article><h1>QuickTake: Impact of Bitcoin and Blockchain</h1><p>Bloomberg's Oliver Renick reports on today's top "QuickTake" news story. He speaks on "Bloomberg Markets." (Source: Bloomberg) The MIT Media Lab's Next Breakthrough 38:07 - Joi Ito, MIT Media Lab director, discusses the new environment for tech startups with Bloomberg's Emily Chang on "Bloomberg West."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf63f5ddc276ad8b78346fab2135ac48336a73b3.jpg"></article>]]></description>
+            <link>http://www.bloomberg.com/news/videos/2016-06-03/quicktake-impact-of-bitcoin-and-blockchain</link>
+            <guid isPermaLink="false">dbf6bdaf-647c-43f1-86c8-d5cb9871b34d</guid>
+            <pubDate>Fri, 03 Jun 2016 18:57:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft Building Open Blockchain-Based Identity System With Blockstack, ConsenSys]]></title>
+            <description><![CDATA[<article><h1>Microsoft Building Open Blockchain-Based Identity System With Blockstack, ConsenSys</h1><p>Microsoft has announced that it is collaborating with Blockstack Labs, ConsenSys and developers across the globe on an open source, self-sovereign, blockchain-based identity system that allows people, products, apps and services to interoperate across blockchains, cloud providers and organizations. The United Nation's Sustainable Development Goals include giving everyone a legal identity by 2030.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b79cb6e261b255b54662cde62e1c3dd3ef4c46e9.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/microsoft-building-open-blockchain-based-identity-system-with-blockstack-consensys-1464968713</link>
+            <guid isPermaLink="false">e94759aa-b676-4ed1-b84a-6070e8b7a368</guid>
+            <pubDate>Fri, 03 Jun 2016 16:37:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenBazaar Developers Fix Man-in-the-middle Attack Vector]]></title>
+            <description><![CDATA[<article><h1>OpenBazaar Developers Fix Man-in-the-middle Attack Vector</h1><p>It also does not matter what hardware is used to run OpenBazaar, as this is a software-side exploit that works in the same manner for every device. OpenBazaar is one of those Bitcoin-based projects which has gained a tremendous following right off the bat.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00a3e784336c6a6492ed9aa71d808ff95307db6a.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/03/openbazaar-man-middle-attack-vector/</link>
+            <guid isPermaLink="false">68a451d2-8b0e-4648-9ef8-4277bd307e3b</guid>
+            <pubDate>Fri, 03 Jun 2016 16:37:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deutsche Bank Customers Debited Twice In As Many Days]]></title>
+            <description><![CDATA[<article><h1>Deutsche Bank Customers Debited Twice In As Many Days</h1><p>A German report mentions how customers of Deutsche Bank have been a victim of a double-debit. Several thousand customers have been charged twice on June 1st and 2nd. Although there is no official explanation for this debacle, a lot of clients are outraged regarding this situation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4dbc13307882e71b9ad8a2a7749b5fc2af8b865b.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/deutsche-bank-customers-debited-twice/</link>
+            <guid isPermaLink="false">583d7924-61fc-44e2-a7b9-8093d86600bf</guid>
+            <pubDate>Fri, 03 Jun 2016 16:37:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Sneaker Designers Are Busting Knockoffs With Bitcoin Tech]]></title>
+            <description><![CDATA[<article><h1>How Sneaker Designers Are Busting Knockoffs With Bitcoin Tech</h1><p>Every year, as much as $100 million in counterfeit sneakers is seized by U.S. customs alone. And that's just scratching the surface: worldwide, counterfeit fashion is estimated to be a $600 billion industry, and if U.S. customs figures are accurate, about 40% of all counterfeit goods are sneakers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/675ecedf99c663a57daea888e975d91078469ad0.jpg"></article>]]></description>
+            <link>http://www.fastcodesign.com/3060459/how-sneaker-designers-are-busting-knockoffs-with-bitcoin-tech</link>
+            <guid isPermaLink="false">b5d68d01-f1dc-4e9d-9e68-6a58509df8f8</guid>
+            <pubDate>Fri, 03 Jun 2016 16:37:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Digital Currency 'Still on the Agenda' at Russian Central Bank - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Digital Currency 'Still on the Agenda' at Russian Central Bank - CoinDesk</h1><p>The head of a recently created unit at the Central Bank of Russia devoted to exploring financial technologies sees a wide-reaching role for blockchain use in finance, according to a recent interview.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/23200ef14b91e9863558d4acaf1a299034296b70.jpg"></article>]]></description>
@@ -40,41 +75,6 @@
             <link>http://www.newsbtc.com/2016/06/03/bitcoin-price-watch-price-soars-550-upside-come/</link>
             <guid isPermaLink="false">dd2401fa-7906-4b6e-b024-358e4096490b</guid>
             <pubDate>Fri, 03 Jun 2016 16:37:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chinese Digital Currency Exchange BTCC Launches Titanium Physical Bitcoins]]></title>
-            <description><![CDATA[<article><h1>Chinese Digital Currency Exchange BTCC Launches Titanium Physical Bitcoins</h1><p>Shanghai-based digital currency exchange BTCC recently launched their new titanium physical Bitcoins. The 2016 V Series physical Bitcoin contains 1 BTC mined from BTCC's own mining operation. BTCC chief executive Bobby Lee, who also founded the Litecoin digital currency, explained that the physical coins are "unique collectibles aimed at exciting public interest in bitcoin."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/684065731e72f2dce4d46889224e79f114504034.jpg"></article>]]></description>
-            <link>http://themerkle.com/chinese-digital-currency-exchange-btcc-launches-titanium-physical-bitcoins/</link>
-            <guid isPermaLink="false">7700a78e-d841-4fd3-91fb-9df146be52f0</guid>
-            <pubDate>Fri, 03 Jun 2016 16:37:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Surges But Remains Cautious]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Surges But Remains Cautious</h1><p>Bitcoin price surges higher but remains within the area of the recent correction. Technical analysis looks at levels and confirmation of advance. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member? Join now and receive a $29 discount using the code CCN29.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da409fbef04e27b7ec07fc4b1c560c73391bf446.png"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-price-surge-remain-cautious/</link>
-            <guid isPermaLink="false">ccdda7f5-4b28-42fd-9ea6-6b9931dc12d1</guid>
-            <pubDate>Fri, 03 Jun 2016 16:37:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitfinex: 'Business as Usual' Following $75k US Fine]]></title>
-            <description><![CDATA[<article><h1>Bitfinex: 'Business as Usual' Following $75k US Fine</h1><p>Hong Kong exchange Bitfinex has said it will be "business as usual" after being fined $75,000 by the US Commodity Futures Trading Commission (CFTC).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37544bff8259afd5b332ff703adf39eb623d3f3c.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/bitfinex-75k-us-fine/</link>
-            <guid isPermaLink="false">55e9b1a6-c141-49d6-8c57-97799291d8e7</guid>
-            <pubDate>Fri, 03 Jun 2016 16:37:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[If there a formula to decide when more decimal places will be added to Bitcoin?]]></title>
-            <description><![CDATA[<article><h1>If there a formula to decide when more decimal places will be added to Bitcoin?</h1><p>I know it is possible to allow for more than 8 decimal places in Bitcoin. We all hope that Bitcoin will become extremely valuable one day and increments smaller than 0.00000001 BTC will be helpful....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/44442/if-there-a-formula-to-decide-when-more-decimal-places-will-be-added-to-bitcoin</link>
-            <guid isPermaLink="false">a60b7a7e-f69d-452a-8432-9e777cc26c26</guid>
-            <pubDate>Fri, 03 Jun 2016 16:37:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin distribution]]></title>
-            <description><![CDATA[<article><h1>Bitcoin distribution</h1><p>Economies of scale are powerful and Bitcoin growth has been substantial over the past few years. Unfortunately much of the world including those in the 3rd world (many unbanked) who may need it mos...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/44556/bitcoin-distribution</link>
-            <guid isPermaLink="false">ab7895e5-4dca-4859-b19e-a52820cfcecd</guid>
-            <pubDate>Fri, 03 Jun 2016 16:37:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
