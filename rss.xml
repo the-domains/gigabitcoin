@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 18:58:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 18:58:34 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bank of Russia Official Optimistic About Blockchains]]></title>
+            <description><![CDATA[<article><h1>Bank of Russia Official Optimistic About Blockchains</h1><p>Vadim Kalukhov, who currently heads the Department of Financial Technologies at the Bank of Russia, has said that blockchain technology has been received very well by financial regulators across the globe, "If to speak of the technology, the regulators around the world relate to blockchains very favorably.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de074ab6db6dcf0fe57250470d24ed1175672267.jpg"></article>]]></description>
+            <link>http://themerkle.com/bank-of-russia-official-optimistic-about-blockchains/</link>
+            <guid isPermaLink="false">62c3c4b0-84d7-44f1-9b04-2691e20fce61</guid>
+            <pubDate>Fri, 03 Jun 2016 18:57:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Coin Gaming Launches Bitcoin-Only Sportsbook Ahead Of Euro 2016]]></title>
             <description><![CDATA[<article><h1>Coin Gaming Launches Bitcoin-Only Sportsbook Ahead Of Euro 2016</h1><p>Coin Gaming, which operates Bitcasino.io, a top bitcoin casino, has introduced a bitcoin-only sportsbook in anticipation of the Euro 2016 soccer tournament. Sportsbet.io will provide thousands of betting opportunities. The sportsbook provides users the option of betting on an event that is expected to draw at least 1.5 million BTC in bets.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc93b74b2599cd951b976e7f4743933cde36600e.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://bitcoinmagazine.com/articles/microsoft-building-open-blockchain-based-identity-system-with-blockstack-consensys-1464968713</link>
             <guid isPermaLink="false">e94759aa-b676-4ed1-b84a-6070e8b7a368</guid>
             <pubDate>Fri, 03 Jun 2016 16:37:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenBazaar Developers Fix Man-in-the-middle Attack Vector]]></title>
-            <description><![CDATA[<article><h1>OpenBazaar Developers Fix Man-in-the-middle Attack Vector</h1><p>It also does not matter what hardware is used to run OpenBazaar, as this is a software-side exploit that works in the same manner for every device. OpenBazaar is one of those Bitcoin-based projects which has gained a tremendous following right off the bat.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00a3e784336c6a6492ed9aa71d808ff95307db6a.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/03/openbazaar-man-middle-attack-vector/</link>
-            <guid isPermaLink="false">68a451d2-8b0e-4648-9ef8-4277bd307e3b</guid>
-            <pubDate>Fri, 03 Jun 2016 16:37:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
