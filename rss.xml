@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 18:46:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 18:46:44 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Users Accuse Coinbase of Lying to Investors, The Platform Denies Accusations]]></title>
+            <description><![CDATA[<article><h1>Users Accuse Coinbase of Lying to Investors, The Platform Denies Accusations</h1><p>Claims on a Reddit thread that Coinbase may have lied that it stores 97% of user funds in multisig addresses has been refuted by the platform. Founded in June of 2012, the wallet and platform where merchants and consumers transact Bitcoin prides itself as the world's most popular way to buy, sell, and use Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8fabd0b1943716c8c630da9dddadcbdccb4b638.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/users-accuse-coinbase-of-lying-to-investors-the-platform-denies-accusations</link>
+            <guid isPermaLink="false">04dce1fb-23ce-45c8-811a-b88350b555e8</guid>
+            <pubDate>Sat, 04 Jun 2016 18:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DDoS Attacks Target BitGo and Other Bitcoin Wallet Services]]></title>
+            <description><![CDATA[<article><h1>DDoS Attacks Target BitGo and Other Bitcoin Wallet Services</h1><p>Whether or not this is a coordinated attack against Bitcoin wallets, is difficult to say. Users should always move their funds to a wallet under their full control, rather than relying on third-party services. BitGo, the world's most secure Bitcoin wallet solution in existence today, is facing a strong DDoS attack.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/481c08e4bd5ba85215d10b0d67c497ffdc1e984d.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/04/ddos-attacks-target-bitgo-bitcoin-wallet-services/</link>
+            <guid isPermaLink="false">a03e309d-ebf6-4a85-a351-be3c5e75092e</guid>
+            <pubDate>Sat, 04 Jun 2016 18:45:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Let's Talk Bitcoin! #295 Where Are We?]]></title>
             <description><![CDATA[<article><h1>Let's Talk Bitcoin! #295 Where Are We?</h1><p>On today's show, Andreas Antonopoulos and Stephanie Murphy sit down to discuss the evolving bitcoin narrative, as we enter year 4 of the Let's Talk Bitcoin! show. Image Credit: www.flickr.com/photos/katerha/8435321969 Modified with LTB Logo Content for today's episode was provided by Andreas Antonopoulos and Stephanie Murphy This episode was edited by Adam B.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06ff9755f118367a7e17e3366ba3bf9b95ecf5a9.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Did China Drive Bitcoin's Price to 2016 Highs? - CoinDesk</h1><p>The price of bitcoin surged nearly 20% during the week ending 3rd June, rising to its highest point in 20 months. But what was the cause of the increase? Mainstream media sources have largely attributed this sharp increase to demand from the Chinese market, prompted by yuan devaluation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac81b2340f2cc6cde9c319654e9f3d7360856956.jpg"></article>]]></description>
             <link>http://www.coindesk.com/china-drive-bitcoins-price-2016-highs/</link>
             <guid isPermaLink="false">0602e52c-84f1-437a-9240-4dd9696253fb</guid>
-            <pubDate>Sat, 04 Jun 2016 01:39:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitfinex pays $75,000 to settle with CFTC for offering illegal bitcoin transactions and failing to register]]></title>
-            <description><![CDATA[<article><h1>Bitfinex pays $75,000 to settle with CFTC for offering illegal bitcoin transactions and failing to register</h1><p>The U.S. Commodity Futures Trading Commission (CFTC) has ordered Bitfinex to pay $75,000 for offering illegal off-exchange financed retail commodity transactions, and failing to register as a futures commission merchant. Formed under the laws of the British Virgin Islands, with their official headquarters in Hong Kong, Bitfinex operates one of Bitcoin's most popular platforms for exchanging and trading bitcoins, litecoins, and ether.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ad78ecbe3317ae50e76139cdd15fa5b63b60cd6.jpg"></article>]]></description>
-            <link>http://bravenewcoin.com/news/bitfinex-pays-75000-to-settle-with-cftc-for-offering-illegal-bitcoin-transactions-and-failing-to-register/</link>
-            <guid isPermaLink="false">4d4dc995-9971-4c43-82f6-63583234a22b</guid>
-            <pubDate>Sat, 04 Jun 2016 01:39:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Cryptocurrency Roundtable in the Russian Parliament: Results and Possible Consequences]]></title>
-            <description><![CDATA[<article><h1>The Cryptocurrency Roundtable in the Russian Parliament: Results and Possible Consequences</h1><p>On June 2, the Russian parliament held a roundtable, or a conference, titled Perspectives of Implementation and Development of Blockchain Technology in Russia. Official stance towards cryptocurrencies in Russia has a long history of controversies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c2d36d4447254ef142738093faa019d3c1041ee.png"></article>]]></description>
-            <link>http://forklog.net/the-cryptocurrency-roundtable-in-the-russian-parliament-results-and-possible-consequences/</link>
-            <guid isPermaLink="false">add43886-9995-4ffc-9902-dbb09e4168d2</guid>
             <pubDate>Sat, 04 Jun 2016 01:39:44 GMT</pubDate>
         </item>
     </channel>
