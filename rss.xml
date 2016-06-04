@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 01:42:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 05:02:30 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coinbase still hasn't returned my $10k USD from May 18 * /r/Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Coinbase still hasn't returned my $10k USD from May 18 * /r/Bitcoin</h1><p>Coinbase is such a self righteous scam of a company. They took $10k usd from me that I put in to buy BTC at $455 each and today they are at $555....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
+            <link>https://www.reddit.com/r/Bitcoin/comments/4mcrvx/coinbase_still_hasnt_returned_my_10k_usd_from_may/</link>
+            <guid isPermaLink="false">9a1291cd-1594-470d-b899-f7d1f67b42a1</guid>
+            <pubDate>Sat, 04 Jun 2016 05:02:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin on Real Vision]]></title>
             <description><![CDATA[<article><h1>Bitcoin on Real Vision</h1><p>The world's smartest investors, in one place. Real Vision is the world's only video-on-demand channel for finance. No sales, no bias, no bullshit. Start your free trial at www.realvisiontv.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03ad07f7a69c52f66a945f954582152f178443a8.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://blog.holytransaction.com/2016/06/bitcoin-price-future-it-is-alive-and.html</link>
             <guid isPermaLink="false">220511db-0f85-4aea-ba21-d7137fabb340</guid>
             <pubDate>Sat, 04 Jun 2016 01:39:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SatoshiLabs Launches TREZOR Password Manager: The Ultimately Secure "No Master Password" Cloud...]]></title>
-            <description><![CDATA[<article><h1>SatoshiLabs Launches TREZOR Password Manager: The Ultimately Secure "No Master Password" Cloud...</h1><p>June 03, 2016 - Today, SatoshiLabs announced TREZOR Password Manager, a new lightweight application designed to store and manage passwords with ultimate security. The Chrome extension is available now for public beta testing for all TREZOR hardware wallet owners. TREZOR Password Manager brings advanced cryptography into the hands of computer users regardless of their skill level.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57f42503476c8d3658ac46161cc2878bedaa9dfd.png"></article>]]></description>
-            <link>http://gigabitcoin.xyz/satoshilabs-launches-trezor-password-manager-the-ultimately/index.html</link>
-            <guid isPermaLink="false">84bc0be6-9e43-4201-9519-3975bb2acc39</guid>
-            <pubDate>Sat, 04 Jun 2016 01:39:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
