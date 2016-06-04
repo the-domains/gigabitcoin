@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 01:39:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 01:40:37 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[At what number does the bitcoin full node count become worrisome?]]></title>
+            <description><![CDATA[<article><h1>At what number does the bitcoin full node count become worrisome?</h1><p>Answer (1 of 2): It is important for a decentralized system to have many nodes. This increases security and stability. Minimum of two nodes are needed because one node only, can rebuild the blockchain, if he wants as pleased, and there will be an 51% network attack.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/At-what-number-does-the-bitcoin-full-node-count-become-worrisome</link>
+            <guid isPermaLink="false">33667af1-c36b-4c9e-ac2e-e76443a8b919</guid>
+            <pubDate>Sat, 04 Jun 2016 01:39:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin price future: it is alive and well | HolyTransaction]]></title>
+            <description><![CDATA[<article><h1>Bitcoin price future: it is alive and well | HolyTransaction</h1><p>Well, according to us, Bitcoin seems to be alive and well, and there are lots of positive signs that indicate that this cryptocurrency is not dead as everybody thought. The Bitcoin price, in fact, is now $549 (according to Bitstamp, or one of the most used exchanges in the world).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d9b2d5cd53e4a0bb4bcd8bb2d502c73ace7c9be.jpg"></article>]]></description>
+            <link>http://blog.holytransaction.com/2016/06/bitcoin-price-future-it-is-alive-and.html</link>
+            <guid isPermaLink="false">220511db-0f85-4aea-ba21-d7137fabb340</guid>
+            <pubDate>Sat, 04 Jun 2016 01:39:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SatoshiLabs Launches TREZOR Password Manager: The Ultimately Secure "No Master Password" Cloud...]]></title>
             <description><![CDATA[<article><h1>SatoshiLabs Launches TREZOR Password Manager: The Ultimately Secure "No Master Password" Cloud...</h1><p>June 03, 2016 - Today, SatoshiLabs announced TREZOR Password Manager, a new lightweight application designed to store and manage passwords with ultimate security. The Chrome extension is available now for public beta testing for all TREZOR hardware wallet owners. TREZOR Password Manager brings advanced cryptography into the hands of computer users regardless of their skill level.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57f42503476c8d3658ac46161cc2878bedaa9dfd.png"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>OXBTC: A Cryptocurrency Investment Service Platform</h1><p>OXBTC is a cryptocurrency "investment service platform" that offers many different options for profiting from the growing digital currency market. Just recently, the company added Ether cloud mining to its list of services. Disclaimer: This is a sponsored story. Bitcoinist is not responsible for this company's products and/or services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5f5794cafda4a8b1003e59a541f09ec1a685a1e.png"></article>]]></description>
             <link>http://bitcoinist.net/oxbtc-cryptocurrency-investment/</link>
             <guid isPermaLink="false">ecd45a72-1df0-441e-8981-43a806b9fcc1</guid>
-            <pubDate>Fri, 03 Jun 2016 18:57:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Passes $570 for First Time Since August 2014 - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Passes $570 for First Time Since August 2014 - CoinDesk</h1><p>The price of bitcoin is up more than 6% today, according to the CoinDesk Bitcoin USD Price Index (BPI), reaching a level not seen in nearly two years. Today's market movements, which have pushed the price to a press time high of $574.43, follow a period of elevated bitcoin trading activity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c4674330a2e332b6b2f029bc9911b972a2e01de.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/bitcoin-prices-august-2014/</link>
-            <guid isPermaLink="false">a3d90a11-5a09-4695-8c7f-d3d1f4cf7e00</guid>
-            <pubDate>Fri, 03 Jun 2016 18:57:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bank of Russia Official Optimistic About Blockchains]]></title>
-            <description><![CDATA[<article><h1>Bank of Russia Official Optimistic About Blockchains</h1><p>Vadim Kalukhov, who currently heads the Department of Financial Technologies at the Bank of Russia, has said that blockchain technology has been received very well by financial regulators across the globe, "If to speak of the technology, the regulators around the world relate to blockchains very favorably.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de074ab6db6dcf0fe57250470d24ed1175672267.jpg"></article>]]></description>
-            <link>http://themerkle.com/bank-of-russia-official-optimistic-about-blockchains/</link>
-            <guid isPermaLink="false">62c3c4b0-84d7-44f1-9b04-2691e20fce61</guid>
             <pubDate>Fri, 03 Jun 2016 18:57:17 GMT</pubDate>
         </item>
     </channel>
