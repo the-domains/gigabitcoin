@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 01:40:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 01:40:46 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Newsflash: Bitcoin Price Scales Beyond $570]]></title>
+            <description><![CDATA[<article><h1>Newsflash: Bitcoin Price Scales Beyond $570</h1><p>In keeping up with its recent bullish run, bitcoin price soared to break beyond $570, scaling a near two-year high. The Bitstamp Price Index (BPI) shoved through the $570 mark today to ring in a high of $574.85. The number represents a price high of nearly two years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c43c3f37d6a7fa53eb81b18654ca6f97f49c6d70.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/newsflash-bitcoin-price-scales-beyond-570/</link>
+            <guid isPermaLink="false">88c82724-f412-4ab2-a250-9f89afbb8bf9</guid>
+            <pubDate>Sat, 04 Jun 2016 01:39:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Slock.it Releases First Version of The DAO's Proposal Framework - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Slock.it Releases First Version of The DAO's Proposal Framework - NEWSBTC</h1><p>The DAO is an amazing experiment that has raised the equivalent of $164 million at the time of this publication, the decentralized autonomous organization is holding 12 million ETH, representing near 15% of all the ether in circulation, and has already received a few proposals, therefore, the security of its operations is paramount.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8cad64e7c4bad52eb5b849360cf1574b4ccb347f.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/03/slock-releases-first-version-dao-proposal-framework/</link>
+            <guid isPermaLink="false">a658d5b9-4ea1-481f-b6aa-cea161d7ff6b</guid>
+            <pubDate>Sat, 04 Jun 2016 01:39:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[European Securities and Markets Authority Releases Blockchain Discussion Paper]]></title>
             <description><![CDATA[<article><h1>European Securities and Markets Authority Releases Blockchain Discussion Paper</h1><p>The European Securities and Markets Authority (ESMA) has released a 34-page discussion paper on distributed ledgers that goes over the numerous implications of implementing the technology in securities markets. The paper is aimed mainly at academics and industry experts with an understand of the technology.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a07eb1a24f1b274f5c0a5b6a55d4e8f6e02d21fb.gif"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>How to track Segregated Witness adoption rates</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top There is nothing to track until 0.12.2 is released.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/44583/how-to-track-segregated-witness-adoption-rates</link>
             <guid isPermaLink="false">dc2eb1ab-e951-4df6-9a85-cfa12671aa08</guid>
-            <pubDate>Sat, 04 Jun 2016 01:39:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ping An is a Gateway to China for R3's Blockchain Consortium - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Ping An is a Gateway to China for R3's Blockchain Consortium - CoinDesk</h1><p>When Chinese financial giant Ping An joined the blockchain consortium led by R3CEV last week, the group added more than just a new member - it effectively integrated with a gateway to the world's second-largest economy. With a $90b market cap, the company has 27 subsidiaries across a wide range of industries, including life insurance, banking, and securities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b321228cfff1b1b8517519c2cf63346d7db8f74.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/ping-r3cevs-gateway-china/</link>
-            <guid isPermaLink="false">6cd099de-645c-4af2-ad97-c509b5add837</guid>
-            <pubDate>Sat, 04 Jun 2016 01:39:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Industry Heads Convene to Talk Public Blockchains on a Private Island]]></title>
-            <description><![CDATA[<article><h1>Industry Heads Convene to Talk Public Blockchains on a Private Island</h1><p>Blockchain Summit 2016 is here. From June 4th through June 7th many thought leaders of blockchain tech will converge on Sir Richard Branson's Necker Island. No doubt idea exchange will be flowing. So too will the irony that the future of blockchain, a tech that is defined by enabling trustless exchange, is being discussed on a private island.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1051e22facfe91b995a0b3b584ca2931480ee184.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/industry-convenes-to-talk-public-blockchain-on-a-private-island/</link>
-            <guid isPermaLink="false">77409047-8c53-47f8-9420-69d629fab281</guid>
             <pubDate>Sat, 04 Jun 2016 01:39:43 GMT</pubDate>
         </item>
     </channel>
