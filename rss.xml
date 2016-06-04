@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 05:02:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 18:46:00 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Let's Talk Bitcoin! #295 Where Are We?]]></title>
+            <description><![CDATA[<article><h1>Let's Talk Bitcoin! #295 Where Are We?</h1><p>On today's show, Andreas Antonopoulos and Stephanie Murphy sit down to discuss the evolving bitcoin narrative, as we enter year 4 of the Let's Talk Bitcoin! show. Image Credit: www.flickr.com/photos/katerha/8435321969 Modified with LTB Logo Content for today's episode was provided by Andreas Antonopoulos and Stephanie Murphy This episode was edited by Adam B.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06ff9755f118367a7e17e3366ba3bf9b95ecf5a9.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/lets-talk-bitcoin-295-where-are-we</link>
+            <guid isPermaLink="false">d646e320-75a1-4644-a96b-34ca166992d2</guid>
+            <pubDate>Sat, 04 Jun 2016 18:45:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kenneth Ameduri of Crush The Street Interviews Trace Mayer]]></title>
             <description><![CDATA[<article><h1>Kenneth Ameduri of Crush The Street Interviews Trace Mayer</h1><p>Podcast: Play in new window | Download (Duration: 32:06 - 26.0MB) | EmbedSubscribe: iTunes | Android | RSSCrush the Street host Kenneth Ameduri interviews Trace Mayer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2649ad683c2b077f7b76a911d43b72f3c6f395e3.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The Cryptocurrency Roundtable in the Russian Parliament: Results and Possible Consequences</h1><p>On June 2, the Russian parliament held a roundtable, or a conference, titled Perspectives of Implementation and Development of Blockchain Technology in Russia. Official stance towards cryptocurrencies in Russia has a long history of controversies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c2d36d4447254ef142738093faa019d3c1041ee.png"></article>]]></description>
             <link>http://forklog.net/the-cryptocurrency-roundtable-in-the-russian-parliament-results-and-possible-consequences/</link>
             <guid isPermaLink="false">add43886-9995-4ffc-9902-dbb09e4168d2</guid>
-            <pubDate>Sat, 04 Jun 2016 01:39:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[At what number does the bitcoin full node count become worrisome?]]></title>
-            <description><![CDATA[<article><h1>At what number does the bitcoin full node count become worrisome?</h1><p>Answer (1 of 2): It is important for a decentralized system to have many nodes. This increases security and stability. Minimum of two nodes are needed because one node only, can rebuild the blockchain, if he wants as pleased, and there will be an 51% network attack.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/At-what-number-does-the-bitcoin-full-node-count-become-worrisome</link>
-            <guid isPermaLink="false">33667af1-c36b-4c9e-ac2e-e76443a8b919</guid>
             <pubDate>Sat, 04 Jun 2016 01:39:44 GMT</pubDate>
         </item>
     </channel>
