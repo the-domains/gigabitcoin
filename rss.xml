@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 05:02:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 05:02:31 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kenneth Ameduri of Crush The Street Interviews Trace Mayer]]></title>
+            <description><![CDATA[<article><h1>Kenneth Ameduri of Crush The Street Interviews Trace Mayer</h1><p>Podcast: Play in new window | Download (Duration: 32:06 - 26.0MB) | EmbedSubscribe: iTunes | Android | RSSCrush the Street host Kenneth Ameduri interviews Trace Mayer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2649ad683c2b077f7b76a911d43b72f3c6f395e3.jpg"></article>]]></description>
+            <link>http://www.bitcoin.kn/2016/06/kenneth-ameduri-crush-street/</link>
+            <guid isPermaLink="false">e7411ffa-20fc-4d43-a83f-386801d16a92</guid>
+            <pubDate>Sat, 04 Jun 2016 05:02:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Coinbase still hasn't returned my $10k USD from May 18 * /r/Bitcoin]]></title>
             <description><![CDATA[<article><h1>Coinbase still hasn't returned my $10k USD from May 18 * /r/Bitcoin</h1><p>Coinbase is such a self righteous scam of a company. They took $10k usd from me that I put in to buy BTC at $455 each and today they are at $555....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>At what number does the bitcoin full node count become worrisome?</h1><p>Answer (1 of 2): It is important for a decentralized system to have many nodes. This increases security and stability. Minimum of two nodes are needed because one node only, can rebuild the blockchain, if he wants as pleased, and there will be an 51% network attack.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
             <link>https://www.quora.com/At-what-number-does-the-bitcoin-full-node-count-become-worrisome</link>
             <guid isPermaLink="false">33667af1-c36b-4c9e-ac2e-e76443a8b919</guid>
-            <pubDate>Sat, 04 Jun 2016 01:39:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin price future: it is alive and well | HolyTransaction]]></title>
-            <description><![CDATA[<article><h1>Bitcoin price future: it is alive and well | HolyTransaction</h1><p>Well, according to us, Bitcoin seems to be alive and well, and there are lots of positive signs that indicate that this cryptocurrency is not dead as everybody thought. The Bitcoin price, in fact, is now $549 (according to Bitstamp, or one of the most used exchanges in the world).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d9b2d5cd53e4a0bb4bcd8bb2d502c73ace7c9be.jpg"></article>]]></description>
-            <link>http://blog.holytransaction.com/2016/06/bitcoin-price-future-it-is-alive-and.html</link>
-            <guid isPermaLink="false">220511db-0f85-4aea-ba21-d7137fabb340</guid>
             <pubDate>Sat, 04 Jun 2016 01:39:44 GMT</pubDate>
         </item>
     </channel>
