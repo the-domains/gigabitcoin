@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 18:47:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 18:47:06 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New FinTech Australia CEO Pursues Future of Blockchain]]></title>
+            <description><![CDATA[<article><h1>New FinTech Australia CEO Pursues Future of Blockchain</h1><p>FinTech Australia, the country's national financial technology association, has appointed Danielle Szetho as CEO. This is exciting news for blockchain enthusiasts. Also read: Bitfinex: 'Business as Usual' Following $75k US Fine FinTech and blockchain technology adoption hand-in-hand. The distributed and decentralized ledger is often seen as a valuable ally for the future of financial technology.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/939b667b9b016f3ebdf0d555250ae5d607baeafe.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/fintech-australia-ceo-pursues-blockchain/</link>
+            <guid isPermaLink="false">8e8a498b-60df-4768-b062-bfd864854b8d</guid>
+            <pubDate>Sat, 04 Jun 2016 18:45:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Pullback, Should Achieve $600]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Pullback, Should Achieve $600</h1><p>Bitcoin price retraced all of the advance since yesterday's post, but a 1-hour chart RSI divergence combination implies another wave to $600 (Bitstamp). This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member? Join now and receive a $29 discount using the code CCN29.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19c4db7591f010979e323c5d57e7553ec4a27621.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Users Accuse Coinbase of Lying to Investors, The Platform Denies Accusations</h1><p>Claims on a Reddit thread that Coinbase may have lied that it stores 97% of user funds in multisig addresses has been refuted by the platform. Founded in June of 2012, the wallet and platform where merchants and consumers transact Bitcoin prides itself as the world's most popular way to buy, sell, and use Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8fabd0b1943716c8c630da9dddadcbdccb4b638.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/users-accuse-coinbase-of-lying-to-investors-the-platform-denies-accusations</link>
             <guid isPermaLink="false">04dce1fb-23ce-45c8-811a-b88350b555e8</guid>
-            <pubDate>Sat, 04 Jun 2016 18:45:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DDoS Attacks Target BitGo and Other Bitcoin Wallet Services]]></title>
-            <description><![CDATA[<article><h1>DDoS Attacks Target BitGo and Other Bitcoin Wallet Services</h1><p>Whether or not this is a coordinated attack against Bitcoin wallets, is difficult to say. Users should always move their funds to a wallet under their full control, rather than relying on third-party services. BitGo, the world's most secure Bitcoin wallet solution in existence today, is facing a strong DDoS attack.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/481c08e4bd5ba85215d10b0d67c497ffdc1e984d.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/04/ddos-attacks-target-bitgo-bitcoin-wallet-services/</link>
-            <guid isPermaLink="false">a03e309d-ebf6-4a85-a351-be3c5e75092e</guid>
             <pubDate>Sat, 04 Jun 2016 18:45:54 GMT</pubDate>
         </item>
     </channel>
