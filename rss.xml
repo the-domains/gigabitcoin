@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Jun 2016 01:39:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2016 01:39:54 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SatoshiLabs Launches TREZOR Password Manager: The Ultimately Secure "No Master Password" Cloud...]]></title>
+            <description><![CDATA[<article><h1>SatoshiLabs Launches TREZOR Password Manager: The Ultimately Secure "No Master Password" Cloud...</h1><p>June 03, 2016 - Today, SatoshiLabs announced TREZOR Password Manager, a new lightweight application designed to store and manage passwords with ultimate security. The Chrome extension is available now for public beta testing for all TREZOR hardware wallet owners. TREZOR Password Manager brings advanced cryptography into the hands of computer users regardless of their skill level.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57f42503476c8d3658ac46161cc2878bedaa9dfd.png"></article>]]></description>
+            <link>http://gigabitcoin.xyz/satoshilabs-launches-trezor-password-manager-the-ultimately/index.html</link>
+            <guid isPermaLink="false">84bc0be6-9e43-4201-9519-3975bb2acc39</guid>
+            <pubDate>Sat, 04 Jun 2016 01:39:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to track Segregated Witness adoption rates]]></title>
             <description><![CDATA[<article><h1>How to track Segregated Witness adoption rates</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top There is nothing to track until 0.12.2 is released.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bank of Russia Official Optimistic About Blockchains</h1><p>Vadim Kalukhov, who currently heads the Department of Financial Technologies at the Bank of Russia, has said that blockchain technology has been received very well by financial regulators across the globe, "If to speak of the technology, the regulators around the world relate to blockchains very favorably.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de074ab6db6dcf0fe57250470d24ed1175672267.jpg"></article>]]></description>
             <link>http://themerkle.com/bank-of-russia-official-optimistic-about-blockchains/</link>
             <guid isPermaLink="false">62c3c4b0-84d7-44f1-9b04-2691e20fce61</guid>
-            <pubDate>Fri, 03 Jun 2016 18:57:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coin Gaming Launches Bitcoin-Only Sportsbook Ahead Of Euro 2016]]></title>
-            <description><![CDATA[<article><h1>Coin Gaming Launches Bitcoin-Only Sportsbook Ahead Of Euro 2016</h1><p>Coin Gaming, which operates Bitcasino.io, a top bitcoin casino, has introduced a bitcoin-only sportsbook in anticipation of the Euro 2016 soccer tournament. Sportsbet.io will provide thousands of betting opportunities. The sportsbook provides users the option of betting on an event that is expected to draw at least 1.5 million BTC in bets.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc93b74b2599cd951b976e7f4743933cde36600e.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/coin-gaming-launches-bitcoin-only-sportsbook-ahead-of-euro-2016/</link>
-            <guid isPermaLink="false">5070246e-86b7-4e1e-926f-ed07bf5ac117</guid>
             <pubDate>Fri, 03 Jun 2016 18:57:17 GMT</pubDate>
         </item>
     </channel>
