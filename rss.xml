@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 17:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 17:23:16 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin Price Closer Than Ever to $600 as Bull Run Continues]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Closer Than Ever to $600 as Bull Run Continues</h1><p>Bitcoin has done it again. In just a matter of days, the world's favorite virtual currency has shot up in price by another $40 USD and is now hovering at around the $579 USD range at press time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27f6cc98e5a6fce632b7c731a96fda01bde0b450.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/bitcoin-price-600-bull-run/</link>
-            <guid isPermaLink="false">2389f4a8-88dc-4ac9-9317-48d0ccb47bcf</guid>
-            <pubDate>Sun, 05 Jun 2016 17:05:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KeePass Developer Prefers Money over Security]]></title>
-            <description><![CDATA[<article><h1>KeePass Developer Prefers Money over Security</h1><p>Password managers are a convenient way to create unique passwords for every site, and remember them without too much trouble. KeePass 2 is one of the prominent players in this market, but the developer is getting into contested waters. As it turns out, he refused to patch a security flaw as he would lose ad revenue otherwise.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b951521b2d350e946e65e1318a27b52b3f7d80fb.jpg"></article>]]></description>
-            <link>http://themerkle.com/keepass-developer-prefers-money-over-security/</link>
-            <guid isPermaLink="false">51a1334d-6be7-402a-8acb-8688cb436258</guid>
-            <pubDate>Sun, 05 Jun 2016 17:05:09 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Tor Developer Jacob Applebaum Steps Down After New Mistreatment Allegations]]></title>
             <description><![CDATA[<article><h1>Tor Developer Jacob Applebaum Steps Down After New Mistreatment Allegations</h1><p>Things are starting to look even more dire for Tor, as one of their prominent developers has stepped down after facing public allegations of sexual mistreatment. The company acknowledged the departure of Jacob Appelbaum earlier this week in a very brief statement, but they went into further details to address some of the rumors surrounding his departure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/654493231bc3f6dcb2fb8c46bdae77f3c4c458d7.png"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>Cryptospace News Digest, May 22 - June 4</h1><p>While crypto-kickstarter Waves becomes the sixth most successfully crowdfunded project ever, and Russian authorities go mad about blockchain technology, Bitcoin keeps on breaking records. That's what this week was about. Bitcoin price is upwards.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/040cf23e3a289bedccbd2d4eb9cf28dcf4798064.png"></article>]]></description>
             <link>http://forklog.net/cryptospace-news-digest-may-22-june-4/</link>
             <guid isPermaLink="false">ab15b2fc-63e0-4ba8-9ea0-9a988b9c2b83</guid>
+            <pubDate>Sun, 05 Jun 2016 17:05:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Bonus Program Gets Ukrainians Interested in Crypto]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Bonus Program Gets Ukrainians Interested in Crypto</h1><p>Despite Bitcoin's amorphous status in Ukraine, local activists are not afraid to bring Bitcoin to the public's attention. In fact, the "Bitcoin Bonus Program" simply gives bitcoin away to people in the country's capital of Kiev.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eed35b83928e18d8712abbfb166f91064c6a4d04.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/bitcoin-bonus-ukraine-crypto/</link>
+            <guid isPermaLink="false">223aa0cd-b961-42b8-8f89-48cfe70c0583</guid>
+            <pubDate>Sun, 05 Jun 2016 17:05:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What would be my next step if I want to get a smart contract done up on Ethereum? Do I have to hire a programmer?]]></title>
+            <description><![CDATA[<article><h1>What would be my next step if I want to get a smart contract done up on Ethereum? Do I have to hire a programmer?</h1><p>In fact it may be many smart contracts. Do I need to set up an organisation to handle the transactions as these are investment monies? Do I need to get licences?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/What-would-be-my-next-step-if-I-want-to-get-a-smart-contract-done-up-on-Ethereum-Do-I-have-to-hire-a-programmer</link>
+            <guid isPermaLink="false">666501c7-9e69-47ec-a6a0-288f09106c9d</guid>
             <pubDate>Sun, 05 Jun 2016 17:05:08 GMT</pubDate>
         </item>
     </channel>
