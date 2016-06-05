@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 17:31:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 17:31:48 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Looming Bitcoin Halving Has Not Driven The Price Down Yet]]></title>
+            <description><![CDATA[<article><h1>Looming Bitcoin Halving Has Not Driven The Price Down Yet</h1><p>So far, the doomsayers are proven wrong, yet that situation could change at any given moment. The Bitcoin halving is almost upon us, and many people believe the Bitcoin price will be affected by this milestone. A lot of people seem to think the price will go down, and some of them even expected it to go down before the halving itself.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f00567b38bf3eb482fc69e64ae524723c96c4f3b.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/04/looming-bitcoin-halving-not-driven-price-yet/</link>
+            <guid isPermaLink="false">76aa01c0-a825-41ab-9f1b-920e26d8cec8</guid>
+            <pubDate>Sun, 05 Jun 2016 17:05:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How do you get rich using bitcoins?]]></title>
+            <description><![CDATA[<article><h1>How do you get rich using bitcoins?</h1><p>Answer (1 of 7): You have probably been hearing a lot about bitcoins, but largely clueless about what it is. Knowledge about "digital gold", as bitcoins are often referred to, is still at a rudimentary stage in India. Towards that end, let's find out what bitcoins are and their relevance to ou...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/How-do-you-get-rich-using-bitcoins</link>
+            <guid isPermaLink="false">f566199b-4df3-4abf-bc38-4eadebbb680f</guid>
+            <pubDate>Sun, 05 Jun 2016 17:05:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Towards Massive On-Chain Scaling: Block Propagation Results With Xthin]]></title>
+            <description><![CDATA[<article><h1>Towards Massive On-Chain Scaling: Block Propagation Results With Xthin</h1><p>Part 3 of 5: Xthin blocks are less affected by the Great Firewall of China than standard blocks By Andrew Clifford, Peter R. Rizun, @sickpig, Andrew Stone and Peter Tschipper. With special thanks to Jihan Wu from AntPool for the block source and to @cypherdoc and our other generous donors for the funds to pay for our nodes in Mainland China.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14b667c29b2714b35327c7e408bfc83c45ed40cc.gif"></article>]]></description>
+            <link>http://gigabitcoin.xyz/towards-massive-on-chain-scaling-block-propagation-results/index.html</link>
+            <guid isPermaLink="false">18769b51-d073-47ab-92e4-a06f731ee4a1</guid>
+            <pubDate>Sun, 05 Jun 2016 17:05:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What are the differences (and value adds) among all the different Crypto Currencies?]]></title>
             <description><![CDATA[<article><h1>What are the differences (and value adds) among all the different Crypto Currencies?</h1><p>This website lists hundreds of crypto currencies. Some whimsical, others with a unique value. Is there a catalog, or diff between all the implementations that highlights innovation, or a unique use</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -18,6 +39,13 @@
             <description><![CDATA[<article><h1>Ethereum Price Weekly Analysis - Can ETH Overcome BTC Pressure? - NEWSBTC</h1><p>Ethereum price managed to stay positive despite a lot of pressure from BTC. Can the current trend in ETH/USD continue moving ahead? Ethereum price managed to stay positive despite a lot of pressure from BTC. Can the current trend in ETH/USD continue moving ahead?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/753e86da6db10ca5569e5606adf0cb5ff91f0637.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/06/05/ethereum-price-weekly-analysis-can-eth-overcome-btc-pressure/</link>
             <guid isPermaLink="false">05fef705-b764-4089-9283-dcafcaf60a74</guid>
+            <pubDate>Sun, 05 Jun 2016 17:05:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What hardware configuration would I need for bitcoin mining?]]></title>
+            <description><![CDATA[<article><h1>What hardware configuration would I need for bitcoin mining?</h1><p>Answer (1 of 2): If you check out the Mhash per Joule of energy column on Non-specialized hardware comparison, it only goes up to around 2 for some AMD GPUs (Nvidia does much worse, due to certain unsupported instructions; for CPU the numbers are laughable, not even worth discussing) - while on M...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/What-hardware-configuration-would-I-need-for-bitcoin-mining</link>
+            <guid isPermaLink="false">228b9647-be8b-4883-8574-f7a281d47ec6</guid>
             <pubDate>Sun, 05 Jun 2016 17:05:10 GMT</pubDate>
         </item>
         <item>
@@ -46,34 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Vs Federal Reserve, Which is Safer? - NEWSBTC</h1><p>There have been concerns about the security vulnerabilities faced by Bitcoin exchanges and how people may end up losing money by investing in digital currencies. The governments and central banks across the world have also issued circulars en masse couple of years ago declaring Bitcoin and other digital currencies as high-risk investments and also warning ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c2ea55cd72f0eed4658f1fe8343d3d3960d4a5dd.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/06/05/bitcoin-vs-federal-reserve-safer/</link>
             <guid isPermaLink="false">66d213ca-4b8a-48e3-b330-a3bc26c0c32c</guid>
-            <pubDate>Sun, 05 Jun 2016 17:05:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chinese 24-hour Trading Volume Nears 1m Bitcoin As Price Recovers]]></title>
-            <description><![CDATA[<article><h1>Chinese 24-hour Trading Volume Nears 1m Bitcoin As Price Recovers</h1><p>Bitcoin went through a bit of a slump yesterday, as the price briefly crashed by as much as US$30 all of a sudden. Albeit a lot of people assumed this would lead to a further Bitcoin price retrace, the value has been climbing back up ever since.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef20f010c6bd1e29f70c376136bb065bf3e155a3.jpg"></article>]]></description>
-            <link>http://themerkle.com/chinese-24-hour-trading-volume-nears-1m-bitcoin-as-price-recovers/</link>
-            <guid isPermaLink="false">9fde94ca-9661-4854-ae9d-75e7001c96d4</guid>
-            <pubDate>Sun, 05 Jun 2016 17:05:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Closer Than Ever to $600 as Bull Run Continues]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Closer Than Ever to $600 as Bull Run Continues</h1><p>Bitcoin has done it again. In just a matter of days, the world's favorite virtual currency has shot up in price by another $40 USD and is now hovering at around the $579 USD range at press time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27f6cc98e5a6fce632b7c731a96fda01bde0b450.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/bitcoin-price-600-bull-run/</link>
-            <guid isPermaLink="false">2389f4a8-88dc-4ac9-9317-48d0ccb47bcf</guid>
-            <pubDate>Sun, 05 Jun 2016 17:05:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KeePass Developer Prefers Money over Security]]></title>
-            <description><![CDATA[<article><h1>KeePass Developer Prefers Money over Security</h1><p>Password managers are a convenient way to create unique passwords for every site, and remember them without too much trouble. KeePass 2 is one of the prominent players in this market, but the developer is getting into contested waters. As it turns out, he refused to patch a security flaw as he would lose ad revenue otherwise.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b951521b2d350e946e65e1318a27b52b3f7d80fb.jpg"></article>]]></description>
-            <link>http://themerkle.com/keepass-developer-prefers-money-over-security/</link>
-            <guid isPermaLink="false">51a1334d-6be7-402a-8acb-8688cb436258</guid>
-            <pubDate>Sun, 05 Jun 2016 17:05:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tor Developer Jacob Applebaum Steps Down After New Mistreatment Allegations]]></title>
-            <description><![CDATA[<article><h1>Tor Developer Jacob Applebaum Steps Down After New Mistreatment Allegations</h1><p>Things are starting to look even more dire for Tor, as one of their prominent developers has stepped down after facing public allegations of sexual mistreatment. The company acknowledged the departure of Jacob Appelbaum earlier this week in a very brief statement, but they went into further details to address some of the rumors surrounding his departure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/654493231bc3f6dcb2fb8c46bdae77f3c4c458d7.png"></article>]]></description>
-            <link>http://themerkle.com/tor-developer-jacob-applebaum-steps-down-after-new-mistreatment-allegations/</link>
-            <guid isPermaLink="false">377f55af-20be-4758-b479-fa3f723978b7</guid>
             <pubDate>Sun, 05 Jun 2016 17:05:09 GMT</pubDate>
         </item>
     </channel>
