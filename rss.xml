@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 17:57:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 17:57:36 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The FBI's New Privacy Invasion Plan Involves Tattoo Tracking]]></title>
+            <description><![CDATA[<article><h1>The FBI's New Privacy Invasion Plan Involves Tattoo Tracking</h1><p>The FBI has no plans to halt their efforts in trying to break consumer privacy down brick by brick. A new proposal would let the law enforcement agency track tattoos by compiling a database of images. Doing so would let the agency develop recognition algorithms. Tattoos are becoming more popular than ever before, as people want to express themselves in a creative way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7764561edf7b5c0a55916970badde80315b25ddd.jpg"></article>]]></description>
+            <link>http://themerkle.com/the-fbis-new-privacy-invasion-plan-involves-tattoo-tracking/</link>
+            <guid isPermaLink="false">e6e1cd86-3dd9-4a83-9855-e1832afd8f2c</guid>
+            <pubDate>Sun, 05 Jun 2016 17:57:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Advance Pauses]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Advance Pauses</h1><p>Bitcoin price corrected downward earlier today as an apparent attempt at advance was slammed down by strong selling across the exchanges. Profit taking or is it reversal? This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c103b4c1a0641f333c4dd17f96cfad2b49525a9a.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>What hardware configuration would I need for bitcoin mining?</h1><p>Answer (1 of 2): If you check out the Mhash per Joule of energy column on Non-specialized hardware comparison, it only goes up to around 2 for some AMD GPUs (Nvidia does much worse, due to certain unsupported instructions; for CPU the numbers are laughable, not even worth discussing) - while on M...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
             <link>https://www.quora.com/What-hardware-configuration-would-I-need-for-bitcoin-mining</link>
             <guid isPermaLink="false">228b9647-be8b-4883-8574-f7a281d47ec6</guid>
-            <pubDate>Sun, 05 Jun 2016 17:05:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="http://imgur.com/MMMWoUL.jpg"></article>]]></description>
-            <link>http://imgur.com/MMMWoUL</link>
-            <guid isPermaLink="false">c24a2e0a-54be-4bbe-9a2f-a8a63cf98297</guid>
             <pubDate>Sun, 05 Jun 2016 17:05:10 GMT</pubDate>
         </item>
     </channel>
