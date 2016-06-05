@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 00:22:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 00:22:13 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin in the News - Episode 2]]></title>
+            <description><![CDATA[<article><h1>Bitcoin in the News - Episode 2</h1><p>Follow up to the original video: Bitcoin in the News - A Video Compilation. Like my work? Buy me a beer! Bitcoin Address: 1FthyX1q6X45zq1v3q4zGU5t8Ju7RyG8vK This video a montage of bitcoin related video clips arranged in a way that tells a story and help people get a sense of what is happening in the bitcoin space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6485e0791e8e15b6e930350272ec4f8f5fc82bcb.jpg"></article>]]></description>
+            <link>http://www.youtube.com/watch?v=5j69EwG8R8I</link>
+            <guid isPermaLink="false">d8bae8bd-d37f-4c6e-8c81-0216c7d8c10b</guid>
+            <pubDate>Sun, 05 Jun 2016 00:22:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Briefly Breaks $9 Billion Market Capitalization - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitcoin Briefly Breaks $9 Billion Market Capitalization - NEWSBTC</h1><p>The total market capitalization of Bitcoin rose to $9 billion earlier today as the price increased beyond $576 per bitcoin. Read more... The Bitcoin network crossed another milestone earlier today. Thanks to the strong bitcoin trading in the past few weeks, the value of the digital currency has almost reached $600 mark.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae59508727458f369d0a9b21d2e417faffe37ab5.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://news.bitcoin.com/trezor-unveils-password-manager/</link>
             <guid isPermaLink="false">84954b86-6510-4911-9394-b0b652b41b94</guid>
             <pubDate>Sat, 04 Jun 2016 18:45:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SatoshiLabs' TREZOR Bitcoin Vault Adds Cloud-Based Password Manager]]></title>
-            <description><![CDATA[<article><h1>SatoshiLabs' TREZOR Bitcoin Vault Adds Cloud-Based Password Manager</h1><p>SatoshiLabs newly-announced TREZOR Password Manager will store and manage passwords securely and is available for public beta testing for all TREZOR hardware owners, the company announced on Medium. A Chrome extension is available. The new password manager uses advanced cryptography. A user can encrypt each password entry using their personal TREZOR device.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7ac55fc4a74b2ebd3f6cfc488686b6ab810b1c4.png"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/satoshilabs-trezor-bitcoin-vault-adds-cloud-based-password-manager/</link>
-            <guid isPermaLink="false">c5aec883-5ac5-45be-aa26-7bcaf23c75a6</guid>
-            <pubDate>Sat, 04 Jun 2016 18:45:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
