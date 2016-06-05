@@ -4,27 +4,13 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 17:31:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 17:31:45 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What are the differences (and value adds) among all the different Crypto Currencies?]]></title>
             <description><![CDATA[<article><h1>What are the differences (and value adds) among all the different Crypto Currencies?</h1><p>This website lists hundreds of crypto currencies. Some whimsical, others with a unique value. Is there a catalog, or diff between all the implementations that highlights innovation, or a unique use</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/44606/what-are-the-differences-and-value-adds-among-all-the-different-crypto-currenc</link>
             <guid isPermaLink="false">1bb0bc4a-77c5-485a-868e-08abecf80265</guid>
-            <pubDate>Sun, 05 Jun 2016 17:05:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum Price Weekly Analysis - Can ETH Overcome BTC Pressure? - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Ethereum Price Weekly Analysis - Can ETH Overcome BTC Pressure? - NEWSBTC</h1><p>Ethereum price managed to stay positive despite a lot of pressure from BTC. Can the current trend in ETH/USD continue moving ahead? Ethereum price managed to stay positive despite a lot of pressure from BTC. Can the current trend in ETH/USD continue moving ahead?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/753e86da6db10ca5569e5606adf0cb5ff91f0637.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/05/ethereum-price-weekly-analysis-can-eth-overcome-btc-pressure/</link>
-            <guid isPermaLink="false">05fef705-b764-4089-9283-dcafcaf60a74</guid>
-            <pubDate>Sun, 05 Jun 2016 17:05:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What hardware configuration would I need for bitcoin mining?]]></title>
-            <description><![CDATA[<article><h1>What hardware configuration would I need for bitcoin mining?</h1><p>Answer (1 of 2): If you check out the Mhash per Joule of energy column on Non-specialized hardware comparison, it only goes up to around 2 for some AMD GPUs (Nvidia does much worse, due to certain unsupported instructions; for CPU the numbers are laughable, not even worth discussing) - while on M...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/What-hardware-configuration-would-I-need-for-bitcoin-mining</link>
-            <guid isPermaLink="false">228b9647-be8b-4883-8574-f7a281d47ec6</guid>
             <pubDate>Sun, 05 Jun 2016 17:05:10 GMT</pubDate>
         </item>
         <item>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>KeePass Developer Prefers Money over Security</h1><p>Password managers are a convenient way to create unique passwords for every site, and remember them without too much trouble. KeePass 2 is one of the prominent players in this market, but the developer is getting into contested waters. As it turns out, he refused to patch a security flaw as he would lose ad revenue otherwise.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b951521b2d350e946e65e1318a27b52b3f7d80fb.jpg"></article>]]></description>
             <link>http://themerkle.com/keepass-developer-prefers-money-over-security/</link>
             <guid isPermaLink="false">51a1334d-6be7-402a-8acb-8688cb436258</guid>
+            <pubDate>Sun, 05 Jun 2016 17:05:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tor Developer Jacob Applebaum Steps Down After New Mistreatment Allegations]]></title>
+            <description><![CDATA[<article><h1>Tor Developer Jacob Applebaum Steps Down After New Mistreatment Allegations</h1><p>Things are starting to look even more dire for Tor, as one of their prominent developers has stepped down after facing public allegations of sexual mistreatment. The company acknowledged the departure of Jacob Appelbaum earlier this week in a very brief statement, but they went into further details to address some of the rumors surrounding his departure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/654493231bc3f6dcb2fb8c46bdae77f3c4c458d7.png"></article>]]></description>
+            <link>http://themerkle.com/tor-developer-jacob-applebaum-steps-down-after-new-mistreatment-allegations/</link>
+            <guid isPermaLink="false">377f55af-20be-4758-b479-fa3f723978b7</guid>
+            <pubDate>Sun, 05 Jun 2016 17:05:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Capital Control Starvation Scheme]]></title>
+            <description><![CDATA[<article><h1>The Capital Control Starvation Scheme</h1><p>The deadly combination of tight capital controls and inflation slowly starve the people's life savings. Luckily, Bitcoin can help escape from capital destruction. Capital controls are a structure used by governments to restrict, or prevent, the flow of capital out of the country.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e90c57bde9fde4696899c3f857ca4df2fe9a6db.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/the-capital-control-starvation-scheme</link>
+            <guid isPermaLink="false">aca4b8f6-7873-4110-9288-8192a274e59a</guid>
             <pubDate>Sun, 05 Jun 2016 17:05:09 GMT</pubDate>
         </item>
     </channel>
