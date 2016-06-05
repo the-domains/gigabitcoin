@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 17:57:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 17:58:13 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Peerplays - First Startup To Get Support from $150 Million DAO Fund?]]></title>
+            <description><![CDATA[<article><h1>Peerplays - First Startup To Get Support from $150 Million DAO Fund?</h1><p>The online gaming and wagering platform, Peerplays, is the first startup to be vying for funding. DAO is to begin reviewing and voting on proposals this week. Peerplays is an online gaming and wagering platform that uses open-source blockchain technology to prove fair fair play at casino card game.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e64f48f70dbbf80d9ff3a9783beedacfc312bad3.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/peerplays-first-startup-to-get-support-from-150-million-dao-fund</link>
+            <guid isPermaLink="false">a338ed07-81d4-4362-88dd-5bc4eae8417c</guid>
+            <pubDate>Sun, 05 Jun 2016 17:57:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The FBI's New Privacy Invasion Plan Involves Tattoo Tracking]]></title>
             <description><![CDATA[<article><h1>The FBI's New Privacy Invasion Plan Involves Tattoo Tracking</h1><p>The FBI has no plans to halt their efforts in trying to break consumer privacy down brick by brick. A new proposal would let the law enforcement agency track tattoos by compiling a database of images. Doing so would let the agency develop recognition algorithms. Tattoos are becoming more popular than ever before, as people want to express themselves in a creative way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7764561edf7b5c0a55916970badde80315b25ddd.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Ethereum Price Weekly Analysis - Can ETH Overcome BTC Pressure? - NEWSBTC</h1><p>Ethereum price managed to stay positive despite a lot of pressure from BTC. Can the current trend in ETH/USD continue moving ahead? Ethereum price managed to stay positive despite a lot of pressure from BTC. Can the current trend in ETH/USD continue moving ahead?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/753e86da6db10ca5569e5606adf0cb5ff91f0637.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/06/05/ethereum-price-weekly-analysis-can-eth-overcome-btc-pressure/</link>
             <guid isPermaLink="false">05fef705-b764-4089-9283-dcafcaf60a74</guid>
-            <pubDate>Sun, 05 Jun 2016 17:05:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What hardware configuration would I need for bitcoin mining?]]></title>
-            <description><![CDATA[<article><h1>What hardware configuration would I need for bitcoin mining?</h1><p>Answer (1 of 2): If you check out the Mhash per Joule of energy column on Non-specialized hardware comparison, it only goes up to around 2 for some AMD GPUs (Nvidia does much worse, due to certain unsupported instructions; for CPU the numbers are laughable, not even worth discussing) - while on M...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/What-hardware-configuration-would-I-need-for-bitcoin-mining</link>
-            <guid isPermaLink="false">228b9647-be8b-4883-8574-f7a281d47ec6</guid>
             <pubDate>Sun, 05 Jun 2016 17:05:10 GMT</pubDate>
         </item>
     </channel>
