@@ -4,29 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 00:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 00:22:12 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[How to Convert Fiat Currencies Into Bitcoins]]></title>
-            <description><![CDATA[<article><h1>How to Convert Fiat Currencies Into Bitcoins</h1><p>BTCC has discovered a revolutionary new way to instantly convert fiat currencies into bitcoins. View our instructional video to learn more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9daf9b72d24496459d1a630b3235246f9b66befc.jpg"></article>]]></description>
-            <link>http://www.youtube.com/watch?v=a5eEV1h5pg4</link>
-            <guid isPermaLink="false">973f988e-457e-4b0d-ae3e-16d1b3136854</guid>
-            <pubDate>Sun, 05 Jun 2016 00:22:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="http://imgur.com/lAidcz4.png"></article>]]></description>
-            <link>http://i.imgur.com/lAidcz4.png</link>
-            <guid isPermaLink="false">d3979565-66e3-46a2-8575-e9b916b4820e</guid>
-            <pubDate>Sun, 05 Jun 2016 00:22:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin in the News - Episode 2]]></title>
-            <description><![CDATA[<article><h1>Bitcoin in the News - Episode 2</h1><p>Follow up to the original video: Bitcoin in the News - A Video Compilation. Like my work? Buy me a beer! Bitcoin Address: 1FthyX1q6X45zq1v3q4zGU5t8Ju7RyG8vK This video a montage of bitcoin related video clips arranged in a way that tells a story and help people get a sense of what is happening in the bitcoin space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6485e0791e8e15b6e930350272ec4f8f5fc82bcb.jpg"></article>]]></description>
-            <link>http://www.youtube.com/watch?v=5j69EwG8R8I</link>
-            <guid isPermaLink="false">d8bae8bd-d37f-4c6e-8c81-0216c7d8c10b</guid>
-            <pubDate>Sun, 05 Jun 2016 00:22:07 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Briefly Breaks $9 Billion Market Capitalization - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitcoin Briefly Breaks $9 Billion Market Capitalization - NEWSBTC</h1><p>The total market capitalization of Bitcoin rose to $9 billion earlier today as the price increased beyond $576 per bitcoin. Read more... The Bitcoin network crossed another milestone earlier today. Thanks to the strong bitcoin trading in the past few weeks, the value of the digital currency has almost reached $600 mark.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae59508727458f369d0a9b21d2e417faffe37ab5.png"></article>]]></description>
@@ -75,6 +54,27 @@
             <link>http://themerkle.com/consumers-feel-less-than-10-of-iot-devices-are-secure/</link>
             <guid isPermaLink="false">a2448502-ca8a-4306-8627-9cfa72927f76</guid>
             <pubDate>Sat, 04 Jun 2016 18:45:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The DAO Considers Peerplays Investment In Exchange For 5% Stake]]></title>
+            <description><![CDATA[<article><h1>The DAO Considers Peerplays Investment In Exchange For 5% Stake</h1><p>The world of blockchain technology and cryptocurrency is spawning many new projects which deserve some attention. The DAO, which is now the largest crowdfunding campaign in history, is looking to invest in some of these projects. Peerplays is one of the projects under consideration Using open-source blockchain technology to ensure casino card games are provably fair is an attractive business model.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79464fa5b947f0d658bf4879e3e6bcd713f55d0b.jpg"></article>]]></description>
+            <link>http://themerkle.com/the-dao-considers-peerplays-investment-in-exchange-for-5-stake/</link>
+            <guid isPermaLink="false">bedf16e6-4055-4c84-ba88-138c408d7d6c</guid>
+            <pubDate>Sat, 04 Jun 2016 18:45:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trezor Unveils 'Ultimately Secure' Bitcoin Password Manager]]></title>
+            <description><![CDATA[<article><h1>Trezor Unveils 'Ultimately Secure' Bitcoin Password Manager</h1><p>Czech Republic-based SatoshiLabs has announced the Trezor Password Manager, calling it the "ultimately secure 'no master password' cloud solution." Also read: Banks Want to Turn Off Bitcoin as a 'Public Utility' for Money The new service enables users to store and manage their password in a secure fashion.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e0c82e692835c8958c2e61e5ad1356cba8f1dd2.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/trezor-unveils-password-manager/</link>
+            <guid isPermaLink="false">84954b86-6510-4911-9394-b0b652b41b94</guid>
+            <pubDate>Sat, 04 Jun 2016 18:45:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SatoshiLabs' TREZOR Bitcoin Vault Adds Cloud-Based Password Manager]]></title>
+            <description><![CDATA[<article><h1>SatoshiLabs' TREZOR Bitcoin Vault Adds Cloud-Based Password Manager</h1><p>SatoshiLabs newly-announced TREZOR Password Manager will store and manage passwords securely and is available for public beta testing for all TREZOR hardware owners, the company announced on Medium. A Chrome extension is available. The new password manager uses advanced cryptography. A user can encrypt each password entry using their personal TREZOR device.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7ac55fc4a74b2ebd3f6cfc488686b6ab810b1c4.png"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/satoshilabs-trezor-bitcoin-vault-adds-cloud-based-password-manager/</link>
+            <guid isPermaLink="false">c5aec883-5ac5-45be-aa26-7bcaf23c75a6</guid>
+            <pubDate>Sat, 04 Jun 2016 18:45:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
