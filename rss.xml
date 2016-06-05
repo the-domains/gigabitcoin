@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 17:58:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 21:28:02 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Continues to Stay Strong, $600 Mark in the Crosshairs - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Continues to Stay Strong, $600 Mark in the Crosshairs - NEWSBTC</h1><p>The bitcoin price has been showing a positive trend in the past couple of weeks. The digital currency is currently positioned with its sights set on the $600 mark, achievable in the coming week(s). Last month, the price of one bitcoin was about $447 per unit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc3b9321f692d0eedba4e218ca1b0e2586ac330f.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/05/bitcoin-price-strong-600-mark-crosshairs/</link>
+            <guid isPermaLink="false">5de21105-4a08-475a-a9c3-aef2d5217e3f</guid>
+            <pubDate>Sun, 05 Jun 2016 21:27:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Philippines will Tighten Regulations for Bitcoin Operators and Exchanges]]></title>
             <description><![CDATA[<article><h1>Philippines will Tighten Regulations for Bitcoin Operators and Exchanges</h1><p>The Philippine central bank has announced their plans to regulate "bitcoin operators" on Saturday morning, as a part of their ongoing program to improve the cyber security systems of banks and alternative financial institutions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae9c74409d950bda88d63376de40d733f0565ba0.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Towards Massive On-Chain Scaling: Block Propagation Results With Xthin</h1><p>Part 3 of 5: Xthin blocks are less affected by the Great Firewall of China than standard blocks By Andrew Clifford, Peter R. Rizun, @sickpig, Andrew Stone and Peter Tschipper. With special thanks to Jihan Wu from AntPool for the block source and to @cypherdoc and our other generous donors for the funds to pay for our nodes in Mainland China.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14b667c29b2714b35327c7e408bfc83c45ed40cc.gif"></article>]]></description>
             <link>http://gigabitcoin.xyz/towards-massive-on-chain-scaling-block-propagation-results/index.html</link>
             <guid isPermaLink="false">18769b51-d073-47ab-92e4-a06f731ee4a1</guid>
-            <pubDate>Sun, 05 Jun 2016 17:05:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What are the differences (and value adds) among all the different Crypto Currencies?]]></title>
-            <description><![CDATA[<article><h1>What are the differences (and value adds) among all the different Crypto Currencies?</h1><p>This website lists hundreds of crypto currencies. Some whimsical, others with a unique value. Is there a catalog, or diff between all the implementations that highlights innovation, or a unique use</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/44606/what-are-the-differences-and-value-adds-among-all-the-different-crypto-currenc</link>
-            <guid isPermaLink="false">1bb0bc4a-77c5-485a-868e-08abecf80265</guid>
             <pubDate>Sun, 05 Jun 2016 17:05:10 GMT</pubDate>
         </item>
     </channel>
