@@ -4,36 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 17:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 17:17:45 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Best Ways to Secure Your Bitcoin Wallet: CT Tips]]></title>
-            <description><![CDATA[<article><h1>Best Ways to Secure Your Bitcoin Wallet: CT Tips</h1><p>As the risk of having your password leaked is rather high nowadays and millions of reported cases are not resolved yet, every Bitcoin and other digital currency users should remember to improve his or her account's security. CoinTelegraph has looked into the best of ways to secure your Bitcoin Wallet and made a list of tips to follow.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ca1c77bd7d313bb68cfd14a9129ae2447487504.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/best-ways-to-secure-your-bitcoin-wallet-ct-tips</link>
-            <guid isPermaLink="false">151ba5ca-bca2-40ba-afb2-d5381b455ef6</guid>
-            <pubDate>Sun, 05 Jun 2016 17:05:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MIT Media Lab Uses the Bitcoin Blockchain for Digital Certificates - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>MIT Media Lab Uses the Bitcoin Blockchain for Digital Certificates - NEWSBTC</h1><p>MIT Media Labs digital certification project has been going on for a year now and the students learned a great deal about blockchain technology. MIT Media Lab blog has published a new paper called "What we learned from designing an academic certificates system on the blockchain" which researches the attributes of using distributed ledger technology with digital certification.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8fd0da53eed5c4bead542209f88c4a8c3df4c05.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/05/mit-uses-bitcoin-blockchain-certificates/</link>
-            <guid isPermaLink="false">32e5ffba-2287-4b35-a29b-257e9103f2a1</guid>
-            <pubDate>Sun, 05 Jun 2016 17:05:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Windows Binaries for the cpuminer-opt 3.3.5 CPU Miner]]></title>
-            <description><![CDATA[<article><h1>Windows Binaries for the cpuminer-opt 3.3.5 CPU Miner</h1><p>The cpuminer-opt is an optimized CPU miner ( source) forked from cpuminer-multi, but with added optimizations for many algorithms for use with the more recent CPUs supporting the AES-NI instruction set, though the miner also works on older SSE2 capable CPUs with lower performance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd7f349f768879ede3b8100c4d1a1b5ea53e3926.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7930-windows-binaries-for-the-cpuminer-opt-3-3-5-cpu-miner/</link>
-            <guid isPermaLink="false">aba8d209-5cc0-4427-aa35-7d690e80e786</guid>
-            <pubDate>Sun, 05 Jun 2016 17:05:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can Bitcoin ATMs Solve Payments Woes in the Gray Areas of Commerce? - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Can Bitcoin ATMs Solve Payments Woes in the Gray Areas of Commerce? - CoinDesk</h1><p>It's no secret that, in an effort to ease the concerns of global regulators and secure lucrative partnerships in the IT and banking sectors, the "bitcoin industry" has over the last year been on a steady campaign to rebrand as the "blockchain" or "digital asset" industry.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/12d86f8433cdc429527cf00ea3713bba45cd134e.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/bitcoin-atms-gray-areas/</link>
-            <guid isPermaLink="false">29fa92cd-f994-4dd8-b6d7-eb11c3e0f681</guid>
-            <pubDate>Sun, 05 Jun 2016 17:05:06 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Gaming Giant Steam Disables Bitcoin in Russia]]></title>
             <description><![CDATA[<article><h1>Gaming Giant Steam Disables Bitcoin in Russia</h1><p>Steam, a platform that offers instant access to games globally, is no longer accepting bitcoin in Russia, according to customers in the country. There was nothing about the change in policy for Russia on the company's website at the time of this report. Steam's acceptance of bitcoin in April garnered major attention at the time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfb0776416e50bd3438c5845a716bef6b39fb2e0.jpg"></article>]]></description>
@@ -75,6 +47,34 @@
             <link>http://www.youtube.com/watch?v=5j69EwG8R8I</link>
             <guid isPermaLink="false">d8bae8bd-d37f-4c6e-8c81-0216c7d8c10b</guid>
             <pubDate>Sun, 05 Jun 2016 00:22:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Briefly Breaks $9 Billion Market Capitalization - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Briefly Breaks $9 Billion Market Capitalization - NEWSBTC</h1><p>The total market capitalization of Bitcoin rose to $9 billion earlier today as the price increased beyond $576 per bitcoin. Read more... The Bitcoin network crossed another milestone earlier today. Thanks to the strong bitcoin trading in the past few weeks, the value of the digital currency has almost reached $600 mark.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae59508727458f369d0a9b21d2e417faffe37ab5.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/04/bitcoin-briefly-breaks-9-billion-market-capitalization/</link>
+            <guid isPermaLink="false">c911dacb-d679-410a-b223-0ef536bc12bc</guid>
+            <pubDate>Sun, 05 Jun 2016 00:22:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Node40 Announces New Price Points For Dash Masternode Hosting]]></title>
+            <description><![CDATA[<article><h1>Node40 Announces New Price Points For Dash Masternode Hosting</h1><p>Albany, NY Disclaimer: This is a press release. Bitcoinist is not responsible for this firm's products and/or services. - Node40, the innovative masternode service provider, is announcing the addition of new price breaks for its users. "We're constantly looking for ways we can save our customers money and remain competitive in this ecosystem," says Node40 co-founder Perry Woodin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7e04ff9a666dc4bcc38ff61dabc3daae/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F06%2Fabstract-art-technology.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/node40-new-prices-masternode-hosting/</link>
+            <guid isPermaLink="false">a1a90d47-6bd4-400c-bbc7-f055ee3f5e9b</guid>
+            <pubDate>Sat, 04 Jun 2016 19:46:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Making Sense of Blockchain Smart Contracts - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Making Sense of Blockchain Smart Contracts - CoinDesk</h1><p>Josh Stark is a lawyer and head of operations and legal at In this op-ed, Ledger Labs head of operations Josh Stark takes a deep dive into the concept of smart contracts. Ledger Labs , a blockchain consulting firm and development group. The term "smart contract" has no clear and settled definition.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/caeb5166323a6ba3b333cf8d1f31b35adb19b3bd.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/making-sense-smart-contracts/</link>
+            <guid isPermaLink="false">78525038-e451-474c-9509-1e33204af795</guid>
+            <pubDate>Sat, 04 Jun 2016 18:46:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GBTC Trades 60% Over Current Bitcoin Price - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>GBTC Trades 60% Over Current Bitcoin Price - NEWSBTC</h1><p>GBTC, the Bitcoin linked traditional security is currently being traded at 60 percent over the actual bitcoin price on OTC Markets, showing the demand for digital currency linked shares. Read more... The Bitcoin community across the world is currently witnessing the rise of Bitcoin for the second consecutive week now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/80ae4ca0c2ee0c7283af8d7ea703d3791f913869.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/04/gbtc-trades-60-over-current-bitcoin-price/</link>
+            <guid isPermaLink="false">ea69e5bb-4c4b-403a-ad65-e6203de6bed6</guid>
+            <pubDate>Sat, 04 Jun 2016 18:46:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
