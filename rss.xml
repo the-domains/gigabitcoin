@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 21:28:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 21:28:03 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Greg Maxwell used to have intelligent, nuanced opinions about "max blocksize", until he started getting paid by AXA, whose CEO is head of the Bilderberg Group - the legacy financial elite which Bitcoin aims to disintermediate. Greg always refuses to address this massive conflict of interest. Why? * /r/btc]]></title>
+            <description><![CDATA[<article><h1>Greg Maxwell used to have intelligent, nuanced opinions about "max blocksize", until he started getting paid by AXA, whose CEO is head of the Bilderberg Group - the legacy financial elite which Bitcoin aims to disintermediate. Greg always refuses to address this massive conflict of interest. Why? * /r/btc</h1><p>Two other important threads discussing this strange and disturbing phenomenon: > So nice of /u/nullc to engage /r/BTC lately - until, that is,...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
+            <link>https://www.reddit.com/r/btc/comments/4mlo0z/greg_maxwell_used_to_have_intelligent_nuanced/</link>
+            <guid isPermaLink="false">3a5bba69-45df-4010-8d2c-0f04d57b0a01</guid>
+            <pubDate>Sun, 05 Jun 2016 21:27:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Continues to Stay Strong, $600 Mark in the Crosshairs - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Continues to Stay Strong, $600 Mark in the Crosshairs - NEWSBTC</h1><p>The bitcoin price has been showing a positive trend in the past couple of weeks. The digital currency is currently positioned with its sights set on the $600 mark, achievable in the coming week(s). Last month, the price of one bitcoin was about $447 per unit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc3b9321f692d0eedba4e218ca1b0e2586ac330f.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How do you get rich using bitcoins?</h1><p>Answer (1 of 7): You have probably been hearing a lot about bitcoins, but largely clueless about what it is. Knowledge about "digital gold", as bitcoins are often referred to, is still at a rudimentary stage in India. Towards that end, let's find out what bitcoins are and their relevance to ou...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
             <link>https://www.quora.com/How-do-you-get-rich-using-bitcoins</link>
             <guid isPermaLink="false">f566199b-4df3-4abf-bc38-4eadebbb680f</guid>
-            <pubDate>Sun, 05 Jun 2016 17:05:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Towards Massive On-Chain Scaling: Block Propagation Results With Xthin]]></title>
-            <description><![CDATA[<article><h1>Towards Massive On-Chain Scaling: Block Propagation Results With Xthin</h1><p>Part 3 of 5: Xthin blocks are less affected by the Great Firewall of China than standard blocks By Andrew Clifford, Peter R. Rizun, @sickpig, Andrew Stone and Peter Tschipper. With special thanks to Jihan Wu from AntPool for the block source and to @cypherdoc and our other generous donors for the funds to pay for our nodes in Mainland China.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14b667c29b2714b35327c7e408bfc83c45ed40cc.gif"></article>]]></description>
-            <link>http://gigabitcoin.xyz/towards-massive-on-chain-scaling-block-propagation-results/index.html</link>
-            <guid isPermaLink="false">18769b51-d073-47ab-92e4-a06f731ee4a1</guid>
             <pubDate>Sun, 05 Jun 2016 17:05:10 GMT</pubDate>
         </item>
     </channel>
