@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 23:47:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 23:47:50 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How is bitcoin being used to launder money?]]></title>
+            <description><![CDATA[<article><h1>How is bitcoin being used to launder money?</h1><p>Answer: To add more to the story: The scam they were running was from debit cards and credit cards. I did a digging myself as I was fascinated myself but it seems way too secure for anyone to just use it like that.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/How-is-bitcoin-being-used-to-launder-money</link>
+            <guid isPermaLink="false">6c4142d1-5492-49d8-8eac-b3a083b6423d</guid>
+            <pubDate>Sun, 05 Jun 2016 23:47:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What do blockchains offer over legacy systems?]]></title>
             <description><![CDATA[<article><h1>What do blockchains offer over legacy systems?</h1><p>"Will the US ever pay off it's debts?" - No. While it is concievably possible for the US to pay off all it's debts, doing so would not make any sense. Revolving debt is how the US is able to fund all of it's programs, invest in infrastructure, etc.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Peerplays - First Startup To Get Support from $150 Million DAO Fund?</h1><p>The online gaming and wagering platform, Peerplays, is the first startup to be vying for funding. DAO is to begin reviewing and voting on proposals this week. Peerplays is an online gaming and wagering platform that uses open-source blockchain technology to prove fair fair play at casino card game.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e64f48f70dbbf80d9ff3a9783beedacfc312bad3.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/peerplays-first-startup-to-get-support-from-150-million-dao-fund</link>
             <guid isPermaLink="false">a338ed07-81d4-4362-88dd-5bc4eae8417c</guid>
-            <pubDate>Sun, 05 Jun 2016 17:57:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The FBI's New Privacy Invasion Plan Involves Tattoo Tracking]]></title>
-            <description><![CDATA[<article><h1>The FBI's New Privacy Invasion Plan Involves Tattoo Tracking</h1><p>The FBI has no plans to halt their efforts in trying to break consumer privacy down brick by brick. A new proposal would let the law enforcement agency track tattoos by compiling a database of images. Doing so would let the agency develop recognition algorithms. Tattoos are becoming more popular than ever before, as people want to express themselves in a creative way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7764561edf7b5c0a55916970badde80315b25ddd.jpg"></article>]]></description>
-            <link>http://themerkle.com/the-fbis-new-privacy-invasion-plan-involves-tattoo-tracking/</link>
-            <guid isPermaLink="false">e6e1cd86-3dd9-4a83-9855-e1832afd8f2c</guid>
             <pubDate>Sun, 05 Jun 2016 17:57:16 GMT</pubDate>
         </item>
     </channel>
