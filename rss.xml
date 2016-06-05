@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 17:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 17:19:48 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BitGo Under DDoS Attack; Wirex Advises Customers Not To Use Platform]]></title>
+            <description><![CDATA[<article><h1>BitGo Under DDoS Attack; Wirex Advises Customers Not To Use Platform</h1><p>Wirex, a bitcoin debit card provider, sent an email to customers today advising them to avoid making transactions on the Wirex platform until it could confirm from that BitGo services have been resumed. The message included a BitGo tweet advising users it was under a distributed denial of service (DDoS) attack.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/acff929122a9314704f6e6b9dc56df96e7f631cb.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitgo-ddos-wirex-advisory/</link>
+            <guid isPermaLink="false">072e612f-03a6-463f-9cc0-b0ddbe88ce56</guid>
+            <pubDate>Sun, 05 Jun 2016 17:05:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Philippine central bank bolsters cyber security, may regulate bitcoin operators]]></title>
+            <description><![CDATA[<article><h1>Philippine central bank bolsters cyber security, may regulate bitcoin operators</h1><p>More banks around the world have fallen victim to cyber attacks that involved the use of fraudulent Swift messages, the same technique at the heart of February's massive theft from the Bangladesh central bank</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/385c3c9786e532b6457f8025293876a03ac3d7da.jpg"></article>]]></description>
+            <link>http://www.scmp.com/news/asia/southeast-asia/article/1966122/philippine-central-bank-bolsters-cyber-security-may</link>
+            <guid isPermaLink="false">852b7136-8875-4e38-b936-17ad623df212</guid>
+            <pubDate>Sun, 05 Jun 2016 17:05:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Waves CEO Talks Raising $16m, Open-Blockchain Platform Potential]]></title>
             <description><![CDATA[<article><h1>Waves CEO Talks Raising $16m, Open-Blockchain Platform Potential</h1><p>This week, we covered the news on the asset and custom token blockchain platform Also read: Bitfinex: 'Business as Usual' Following $75k US Fine Waves raising $16 million with its ICO. The crowdfund made history by becoming the sixth-largest right behind the cryptocurrency project Ethereum according to Bitcoin.com (BC): Can you explain to our readers in simple terms just what the Waves platform is?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0d5fb0e2a98f321051e7b5b398b5c162336dbf4.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://www.quora.com/What-factors-will-determine-the-value-of-ether-and-ethereum</link>
             <guid isPermaLink="false">299403e5-905d-406f-8159-2932ef280e8a</guid>
             <pubDate>Sun, 05 Jun 2016 17:05:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fed Initially Blocked Bank of Bangladesh Swift Transfers]]></title>
-            <description><![CDATA[<article><h1>Fed Initially Blocked Bank of Bangladesh Swift Transfers</h1><p>It will take several months, if not years, before all of the details regarding this Swift heist see the light of day. The story regarding the Bangladesh bank heist as part of an attack on the Swift payment network is far from over.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76b36e353b6e36567e57f7adc7bfb3bab834b427.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/05/fed-initially-blocked-swift-transfers/</link>
-            <guid isPermaLink="false">bf84b535-6a89-4707-8680-d2c13d26c282</guid>
-            <pubDate>Sun, 05 Jun 2016 17:05:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OneCoin Affiliates Temporarily Prohibited From Editing Wikipedia Entry]]></title>
-            <description><![CDATA[<article><h1>OneCoin Affiliates Temporarily Prohibited From Editing Wikipedia Entry</h1><p>Albeit most people are well aware of how OneCoin is a complete scam, the movement keeps attracting new members around the clock. Moreover, their Wikipedia page is attracting a lot of people looking to edit information. As a result, a Wikipedia administrator applied a 30-day protection status to block future editing attempts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5de80671b391b8ea9d518367016f0eab464df9ea.jpg"></article>]]></description>
-            <link>http://themerkle.com/onecoin-affiliates-temporarily-prohibited-from-editing-wikipedia-entry/</link>
-            <guid isPermaLink="false">659b8b8b-cccf-4c78-a02b-b6497000b229</guid>
-            <pubDate>Sun, 05 Jun 2016 17:05:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
