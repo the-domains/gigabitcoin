@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 17:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 17:18:02 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Regulations, Innovations, Sandboxes and #RegTech]]></title>
+            <description><![CDATA[<article><h1>Regulations, Innovations, Sandboxes and #RegTech</h1><p>So I just attended a really interesting two day meeting that covered all things blockchain, regulations, innovation and more. I'll blog about the bits I can in the next few days, and thought I'd start with an overview of the Financial Conduct Authority's (FCA) Regulatory Sandbox and Project Innovate.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/23d6aff811aff998c636e1e5d943c67959e51440.png"></article>]]></description>
+            <link>http://bravenewcoin.com/news/regulations-innovations-sandboxes-and-regtech/</link>
+            <guid isPermaLink="false">cc21a610-aad5-4c0a-b3f4-92df39bcc0f8</guid>
+            <pubDate>Sun, 05 Jun 2016 17:05:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Best Ways to Secure Your Bitcoin Wallet: CT Tips]]></title>
+            <description><![CDATA[<article><h1>Best Ways to Secure Your Bitcoin Wallet: CT Tips</h1><p>As the risk of having your password leaked is rather high nowadays and millions of reported cases are not resolved yet, every Bitcoin and other digital currency users should remember to improve his or her account's security. CoinTelegraph has looked into the best of ways to secure your Bitcoin Wallet and made a list of tips to follow.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ca1c77bd7d313bb68cfd14a9129ae2447487504.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/best-ways-to-secure-your-bitcoin-wallet-ct-tips</link>
+            <guid isPermaLink="false">151ba5ca-bca2-40ba-afb2-d5381b455ef6</guid>
+            <pubDate>Sun, 05 Jun 2016 17:05:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MIT Media Lab Uses the Bitcoin Blockchain for Digital Certificates - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>MIT Media Lab Uses the Bitcoin Blockchain for Digital Certificates - NEWSBTC</h1><p>MIT Media Labs digital certification project has been going on for a year now and the students learned a great deal about blockchain technology. MIT Media Lab blog has published a new paper called "What we learned from designing an academic certificates system on the blockchain" which researches the attributes of using distributed ledger technology with digital certification.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8fd0da53eed5c4bead542209f88c4a8c3df4c05.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><img src="http://imgur.com/lAidcz4.png"></article>]]></description>
             <link>http://i.imgur.com/lAidcz4.png</link>
             <guid isPermaLink="false">d3979565-66e3-46a2-8575-e9b916b4820e</guid>
-            <pubDate>Sun, 05 Jun 2016 00:22:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin in the News - Episode 2]]></title>
-            <description><![CDATA[<article><h1>Bitcoin in the News - Episode 2</h1><p>Follow up to the original video: Bitcoin in the News - A Video Compilation. Like my work? Buy me a beer! Bitcoin Address: 1FthyX1q6X45zq1v3q4zGU5t8Ju7RyG8vK This video a montage of bitcoin related video clips arranged in a way that tells a story and help people get a sense of what is happening in the bitcoin space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6485e0791e8e15b6e930350272ec4f8f5fc82bcb.jpg"></article>]]></description>
-            <link>http://www.youtube.com/watch?v=5j69EwG8R8I</link>
-            <guid isPermaLink="false">d8bae8bd-d37f-4c6e-8c81-0216c7d8c10b</guid>
-            <pubDate>Sun, 05 Jun 2016 00:22:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Briefly Breaks $9 Billion Market Capitalization - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Briefly Breaks $9 Billion Market Capitalization - NEWSBTC</h1><p>The total market capitalization of Bitcoin rose to $9 billion earlier today as the price increased beyond $576 per bitcoin. Read more... The Bitcoin network crossed another milestone earlier today. Thanks to the strong bitcoin trading in the past few weeks, the value of the digital currency has almost reached $600 mark.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae59508727458f369d0a9b21d2e417faffe37ab5.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/04/bitcoin-briefly-breaks-9-billion-market-capitalization/</link>
-            <guid isPermaLink="false">c911dacb-d679-410a-b223-0ef536bc12bc</guid>
             <pubDate>Sun, 05 Jun 2016 00:22:07 GMT</pubDate>
         </item>
     </channel>
