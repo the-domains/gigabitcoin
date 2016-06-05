@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 00:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 00:22:17 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Convert Fiat Currencies Into Bitcoins]]></title>
+            <description><![CDATA[<article><h1>How to Convert Fiat Currencies Into Bitcoins</h1><p>BTCC has discovered a revolutionary new way to instantly convert fiat currencies into bitcoins. View our instructional video to learn more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9daf9b72d24496459d1a630b3235246f9b66befc.jpg"></article>]]></description>
+            <link>http://www.youtube.com/watch?v=a5eEV1h5pg4</link>
+            <guid isPermaLink="false">973f988e-457e-4b0d-ae3e-16d1b3136854</guid>
+            <pubDate>Sun, 05 Jun 2016 00:22:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article><img src="http://imgur.com/lAidcz4.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Consumers Feel Less Than 10% of IoT Devices Are Secure</h1><p>The Internet of Things will connect even more devices to the Internet than many thought possible. But without proper security measures, this initiative will go nowhere anytime soon. As it turns out, consumers are not all that confident in the security of IoT products.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb94906cc615ace8bdb8df3ed8a543b5139fb371.jpg"></article>]]></description>
             <link>http://themerkle.com/consumers-feel-less-than-10-of-iot-devices-are-secure/</link>
             <guid isPermaLink="false">a2448502-ca8a-4306-8627-9cfa72927f76</guid>
-            <pubDate>Sat, 04 Jun 2016 18:45:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The DAO Considers Peerplays Investment In Exchange For 5% Stake]]></title>
-            <description><![CDATA[<article><h1>The DAO Considers Peerplays Investment In Exchange For 5% Stake</h1><p>The world of blockchain technology and cryptocurrency is spawning many new projects which deserve some attention. The DAO, which is now the largest crowdfunding campaign in history, is looking to invest in some of these projects. Peerplays is one of the projects under consideration Using open-source blockchain technology to ensure casino card games are provably fair is an attractive business model.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79464fa5b947f0d658bf4879e3e6bcd713f55d0b.jpg"></article>]]></description>
-            <link>http://themerkle.com/the-dao-considers-peerplays-investment-in-exchange-for-5-stake/</link>
-            <guid isPermaLink="false">bedf16e6-4055-4c84-ba88-138c408d7d6c</guid>
             <pubDate>Sat, 04 Jun 2016 18:45:57 GMT</pubDate>
         </item>
     </channel>
