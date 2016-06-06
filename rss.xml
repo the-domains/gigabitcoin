@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 13:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 13:17:00 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Russian Central Bank to Use Blockchain for a Register of Depositors]]></title>
+            <description><![CDATA[<article><h1>Russian Central Bank to Use Blockchain for a Register of Depositors</h1><p>Russia's Central Bank intends to use blockchain technology in creating a unified register of bank depositors. According to the Central Bank's experts, the technology may solve the so-called problem of off-balance depositors. The thing is that following revocation of a banking license, it turns out that not all depositors had been registered by the credit institutions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/553dfc4fd82fb2e5c5c4c444ca299395/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F03%2F11.png"></article>]]></description>
+            <link>http://forklog.net/russian-central-bank-to-use-blockchain-for-a-register-of-depositors/</link>
+            <guid isPermaLink="false">e32e0da9-195c-484f-b61e-b7aa10c6d71b</guid>
+            <pubDate>Mon, 06 Jun 2016 13:16:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PYMNTS Data Dive: Bitcoin, BoA and Apple Pay | PYMNTS.com]]></title>
+            <description><![CDATA[<article><h1>PYMNTS Data Dive: Bitcoin, BoA and Apple Pay | PYMNTS.com</h1><p>Last week was short on work days due to the Monday holiday - but what the work week lacked in hours it made up for in action. The Visa acquisition of Visa Europe was approved by regulators, Amazon set Alexa free echo's web browser, Lending Club flipped the script and went looking for a loan and Walmart ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/035fc8cc545772b65b46000332662bf945a13295.jpg"></article>]]></description>
+            <link>http://www.pymnts.com/news/bitcoin-tracker/2016/pymnts-data-dive-boa-bitcoin-apple-pay/</link>
+            <guid isPermaLink="false">55ce315c-8f91-4b95-8381-c701879e1625</guid>
+            <pubDate>Mon, 06 Jun 2016 13:16:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[VK.com Database Up For Sale on Dark Web For One Bitcoin]]></title>
             <description><![CDATA[<article><h1>VK.com Database Up For Sale on Dark Web For One Bitcoin</h1><p>Speaking of passwords, one of the people responsible for this breach mentions how the information was not encrypted by VK.com. The Russian Facebook, often referred to as VK.com, was hacked by unknown assailants. LeakedSource broke the news, as they have obtained a copy of the leaked database belonging to this platform.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83e54c1588e0f4bd4d79711814528ffd0b897e52.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 06/06/2016 - Ready to Break Past $600? - NEWSBTC</h1><p>Bitcoin price is gearing up for a strong break of the $600 level, determining if longer-term gains are in the cards. Bitcoin Price Key Highlights Bitcoin price is gearing up for a strong break of the $600 level, determining if longer-term gains are in the cards.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7fa46cc35446169784aefd98c9b9a6385d4dd3b9.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/06/06/bitcoin-price-technical-analysis-06062016-ready-break-past-600/</link>
             <guid isPermaLink="false">1afee2de-5980-4c63-a6d1-f4a67467d498</guid>
-            <pubDate>Mon, 06 Jun 2016 06:50:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DDoS Attack on BitGo Bitcoin Wallet Sends Shockwaves Through the Industry]]></title>
-            <description><![CDATA[<article><h1>DDoS Attack on BitGo Bitcoin Wallet Sends Shockwaves Through the Industry</h1><p>On Saturday afternoon, a massive DDoS attack hit BitGo, a service that describes itself as the most secure Bitcoin wallet solution available today. The attack lasted between four and five hours and brought down the company's servers completely. BitGo didn't react to the incident except an hour later, tweeting out apologies to its clients.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1a106fd5f1e0bee39d9307ec9d8f39dbe7e567c.png"></article>]]></description>
-            <link>http://news.softpedia.com/news/ddos-attack-on-bitgo-bitcoin-wallet-sends-shockwaves-through-the-industry-504887.shtml</link>
-            <guid isPermaLink="false">f17b4247-1151-43a4-9c83-ee0075ae95ac</guid>
-            <pubDate>Mon, 06 Jun 2016 06:50:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Letter To A New Product Manager - Stories From Coinbase]]></title>
-            <description><![CDATA[<article><h1>A Letter To A New Product Manager - Stories From Coinbase</h1><p>My goal is to set you up for success as a new product manager. First, you're going to have to dedicate yourself to the art of product management, it is one of those things, like people management, that seems simple but can take years to really master and the only way to do it is to actually try it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/484fca0684d9ec30ad3061f7d2d3a38e221d96b5.png"></article>]]></description>
-            <link>http://gigabitcoin.xyz/a-letter-to-a-new-product-manager-stories-from-coinbase/index.html</link>
-            <guid isPermaLink="false">2cadd730-4906-42fe-885f-754a499ab629</guid>
             <pubDate>Mon, 06 Jun 2016 06:50:37 GMT</pubDate>
         </item>
     </channel>
