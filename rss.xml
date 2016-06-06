@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 06:53:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 06:53:43 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Blockchain technology requires a lot of power to reach consensus for every transaction. How's it energy efficient?]]></title>
-            <description><![CDATA[<article><h1>Blockchain technology requires a lot of power to reach consensus for every transaction. How's it energy efficient?</h1><p>I don't think energy efficiency is a major problem. A bigger problem is that many blockchain systems (Bitcoin, Ethereum, Litecoin, etc.) are inefficient from a computation and storage perspective. This isn't a huge problem for Bitcoin because it has been intentionally designed for transactions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/Blockchain-technology-requires-a-lot-of-power-to-reach-consensus-for-every-transaction-Hows-it-energy-efficient</link>
-            <guid isPermaLink="false">a9e8616a-b915-4458-ba15-eb232ca6a6a3</guid>
-            <pubDate>Mon, 06 Jun 2016 06:50:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin News for the week of 5/30/16]]></title>
-            <description><![CDATA[<article><h1>Bitcoin News for the week of 5/30/16</h1><p>Welcome to our weekly bitcoin news recap, where we cover top headlines and stories in the world of bitcoin each week. This week we saw another run-up in the price of bitcoin, causing more headlines and speculation on why bitcoin is in such demand recently. In addition, investors are flocking to bitcoin, including millennials.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88ec0548954d454647e7dc58fdcbe3edda7c25a4.png"></article>]]></description>
-            <link>https://blog.blockchain.com/2016/06/05/bitcoin-news-for-the-week-of-53016/</link>
-            <guid isPermaLink="false">c2a31e49-7745-4207-b778-1faabf44ac7f</guid>
-            <pubDate>Mon, 06 Jun 2016 06:50:37 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Ethereum Price Technical Analysis - ETH Consolidating Gains - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Ethereum Price Technical Analysis - ETH Consolidating Gains - NEWSBTC</h1><p>Ethereum price is consolidating, and may be setting up for the next move. Will it move higher or break down vs the US dollar? Ethereum price is consolidating, and may be setting up for the next move. Will it move higher or break down vs the US dollar?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1542276e672ec78b3b2fae437355a53958d347e1.png"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>https://www.quora.com/How-will-Bitcoin-block-chains-be-updated-and-maintained-once-mining-becomes-unprofitable</link>
             <guid isPermaLink="false">78805521-8f5d-4c94-8a61-0a161e081e77</guid>
             <pubDate>Sun, 05 Jun 2016 23:47:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What do blockchains offer over legacy systems?]]></title>
+            <description><![CDATA[<article><h1>What do blockchains offer over legacy systems?</h1><p>"Will the US ever pay off it's debts?" - No. While it is concievably possible for the US to pay off all it's debts, doing so would not make any sense. Revolving debt is how the US is able to fund all of it's programs, invest in infrastructure, etc.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/What-do-blockchains-offer-over-legacy-systems-1</link>
+            <guid isPermaLink="false">9df2d270-464c-4e1d-b83b-0c995494bbf9</guid>
+            <pubDate>Sun, 05 Jun 2016 23:47:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Swift Will Cut Off Banks With Weak Cyber Security]]></title>
+            <description><![CDATA[<article><h1>Swift Will Cut Off Banks With Weak Cyber Security</h1><p>The entire Swift debacle has a lot of entities in the financial world on edge. Especially Swift, the payment network connecting a lot of banks around the world, is starting to take harsher action. Their latest plan involves the expulsion of banks with security standards that are not up to par.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e90d60f95ff41d8ed3c5997c58a42520c7483e19.jpg"></article>]]></description>
+            <link>http://themerkle.com/swift-will-cut-off-banks-with-weak-cyber-security/</link>
+            <guid isPermaLink="false">d3d31bf9-77dc-4774-a2bd-336db5280d33</guid>
+            <pubDate>Sun, 05 Jun 2016 21:27:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
