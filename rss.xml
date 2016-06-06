@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 16:44:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 16:44:02 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Social Kapital Goes Further Than DAO in Security Concerns]]></title>
+            <description><![CDATA[<article><h1>Social Kapital Goes Further Than DAO in Security Concerns</h1><p>June 20th, Social Kapital, a decentralized VC fund and business idea marketplace, is to launch its crowdsale campaign. The news comes after the immense success of The DAO, a similar company, that has just closed the largest recorded crowdfunding campaign in history.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/817ee9eefbbe8af609306421adaef0a966ed66cd.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/social-kapital-goes-further-than-dao-in-security-concerns</link>
+            <guid isPermaLink="false">cbe3292d-77b6-453f-9237-48362fcdf94d</guid>
+            <pubDate>Mon, 06 Jun 2016 16:43:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Richard Stallman's GNU Releases 'Unlike Bitcoin' Electronic Payments]]></title>
             <description><![CDATA[<article><h1>Richard Stallman's GNU Releases 'Unlike Bitcoin' Electronic Payments</h1><p>Richard Stallman's GNU (gnunet.org) and French computing institute Inria have released the initial code for an "electronic payment system," which is "unlike BitCoin or cash." Also read: Russia's National Cryptocurrency Would Ban Rivals The project, dubbed Taler (for Taxable Anonymous Libre Electronic Reserve), is designed "for the mainstream economy, and not the black market," its website explains.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7704bf1fde2afc2add869bc82cc7fd4f8eda102a.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Is Google/Apple interested in Blockchain? Is there some reason that they seem to be silent on this front at least in public?</h1><p>8 people want answers to this question. Be the first to answer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
             <link>https://www.quora.com/unanswered/Is-Google-Apple-interested-in-Blockchain-Is-there-some-reason-that-they-seem-to-be-silent-on-this-front-at-least-in-public</link>
             <guid isPermaLink="false">c2c5dc20-d76f-4b37-a23e-f9ea80981a0a</guid>
-            <pubDate>Mon, 06 Jun 2016 14:46:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How easy was mining bitcoin in the early stages?]]></title>
-            <description><![CDATA[<article><h1>How easy was mining bitcoin in the early stages?</h1><p>Answer (1 of 3): In the very beginning, Satoshi Nakamoto was mining alone, so he got the block reward (50 BTC) every 10 minutes (the block interval). So 7200 BTC per day. For every miner that joined, they'd split that reward n-way (since the supply of Bitcoin per day is fixed, no matter how many...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/How-easy-was-mining-bitcoin-in-the-early-stages</link>
-            <guid isPermaLink="false">23f8afb3-a68f-4358-bcdd-b5c440c0c459</guid>
             <pubDate>Mon, 06 Jun 2016 14:46:41 GMT</pubDate>
         </item>
     </channel>
