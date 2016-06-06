@@ -4,29 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 06:53:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 06:53:45 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[A Letter To A New Product Manager - Stories From Coinbase]]></title>
-            <description><![CDATA[<article><h1>A Letter To A New Product Manager - Stories From Coinbase</h1><p>My goal is to set you up for success as a new product manager. First, you're going to have to dedicate yourself to the art of product management, it is one of those things, like people management, that seems simple but can take years to really master and the only way to do it is to actually try it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/484fca0684d9ec30ad3061f7d2d3a38e221d96b5.png"></article>]]></description>
-            <link>http://gigabitcoin.xyz/a-letter-to-a-new-product-manager-stories-from-coinbase/index.html</link>
-            <guid isPermaLink="false">2cadd730-4906-42fe-885f-754a499ab629</guid>
-            <pubDate>Mon, 06 Jun 2016 06:50:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are bitcoins traceable?]]></title>
-            <description><![CDATA[<article><h1>Are bitcoins traceable?</h1><p>Answer: It's the nature of the blockchain that every Bitcoin is traceable as it moves from address to address. While Bitcoin is not inherently anonymous; Bitcoin transactions are completely unregulated and there's no native way to figure out who exactly owns an address. This allows for third-par...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/Are-bitcoins-traceable</link>
-            <guid isPermaLink="false">dcfb3c65-2a2b-4891-9b46-e4e2fc1d2a7d</guid>
-            <pubDate>Mon, 06 Jun 2016 06:50:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain technology requires a lot of power to reach consensus for every transaction. How's it energy efficient?]]></title>
-            <description><![CDATA[<article><h1>Blockchain technology requires a lot of power to reach consensus for every transaction. How's it energy efficient?</h1><p>I don't think energy efficiency is a major problem. A bigger problem is that many blockchain systems (Bitcoin, Ethereum, Litecoin, etc.) are inefficient from a computation and storage perspective. This isn't a huge problem for Bitcoin because it has been intentionally designed for transactions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/Blockchain-technology-requires-a-lot-of-power-to-reach-consensus-for-every-transaction-Hows-it-energy-efficient</link>
-            <guid isPermaLink="false">a9e8616a-b915-4458-ba15-eb232ca6a6a3</guid>
-            <pubDate>Mon, 06 Jun 2016 06:50:37 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin News for the week of 5/30/16]]></title>
             <description><![CDATA[<article><h1>Bitcoin News for the week of 5/30/16</h1><p>Welcome to our weekly bitcoin news recap, where we cover top headlines and stories in the world of bitcoin each week. This week we saw another run-up in the price of bitcoin, causing more headlines and speculation on why bitcoin is in such demand recently. In addition, investors are flocking to bitcoin, including millennials.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88ec0548954d454647e7dc58fdcbe3edda7c25a4.png"></article>]]></description>
@@ -74,6 +53,27 @@
             <description><![CDATA[<article><h1>Bitcoin, meet China. May you have many happy days together.</h1><p>Bitcoin, Meet China. May You Have Many Happy Days Together.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/01df343a3b88999e16e411d44382a5d0199297ac.jpg"></article>]]></description>
             <link>http://www.motherjones.com/kevin-drum/2016/06/bitcoin-meet-china-may-you-have-many-happy-days-together</link>
             <guid isPermaLink="false">c6892e83-2b1c-4a21-bfeb-7bae9f8ee708</guid>
+            <pubDate>Sun, 05 Jun 2016 23:47:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How is bitcoin being used to launder money?]]></title>
+            <description><![CDATA[<article><h1>How is bitcoin being used to launder money?</h1><p>Answer: To add more to the story: The scam they were running was from debit cards and credit cards. I did a digging myself as I was fascinated myself but it seems way too secure for anyone to just use it like that.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/How-is-bitcoin-being-used-to-launder-money</link>
+            <guid isPermaLink="false">6c4142d1-5492-49d8-8eac-b3a083b6423d</guid>
+            <pubDate>Sun, 05 Jun 2016 23:47:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How will Bitcoin block chains be updated and maintained once mining becomes unprofitable?]]></title>
+            <description><![CDATA[<article><h1>How will Bitcoin block chains be updated and maintained once mining becomes unprofitable?</h1><p>Answer (1 of 2): This is a multiple factor issue, truth be told. Miners receive compensation in two forms: block reward and transaction fees. As the block reward reduces, ultimately fees are supposed to take over to support the miners and their work. But it very well could be that one day there a...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/How-will-Bitcoin-block-chains-be-updated-and-maintained-once-mining-becomes-unprofitable</link>
+            <guid isPermaLink="false">78805521-8f5d-4c94-8a61-0a161e081e77</guid>
+            <pubDate>Sun, 05 Jun 2016 23:47:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What do blockchains offer over legacy systems?]]></title>
+            <description><![CDATA[<article><h1>What do blockchains offer over legacy systems?</h1><p>"Will the US ever pay off it's debts?" - No. While it is concievably possible for the US to pay off all it's debts, doing so would not make any sense. Revolving debt is how the US is able to fund all of it's programs, invest in infrastructure, etc.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/What-do-blockchains-offer-over-legacy-systems-1</link>
+            <guid isPermaLink="false">9df2d270-464c-4e1d-b83b-0c995494bbf9</guid>
             <pubDate>Sun, 05 Jun 2016 23:47:44 GMT</pubDate>
         </item>
     </channel>
