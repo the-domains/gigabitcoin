@@ -7,20 +7,6 @@
         <lastBuildDate>Mon, 06 Jun 2016 13:16:58 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Philippine Central Bank to Place 'Hard Regulations' on Bitcoiners]]></title>
-            <description><![CDATA[<article><h1>Philippine Central Bank to Place 'Hard Regulations' on Bitcoiners</h1><p>Reuters has Also read: New FinTech Australia CEO Pursues Future of Blockchain reported that the Philippine central bank is becoming a big proponent for cyber security and may soon regulate Bitcoin operators located within the region. A senior official told press that banks need better defenses after the wake of the recent SWIFT and Federal Reserve breaches.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54e5c89b65ee486e771b07d2269bc5e1d38dd982.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/philippine-impose-regulations-bitcoin/</link>
-            <guid isPermaLink="false">64b47a56-3265-44c5-806f-3af8ccd3c033</guid>
-            <pubDate>Mon, 06 Jun 2016 13:16:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AirBitz Edge Security Makes Ethereum-based Augur More Accessible]]></title>
-            <description><![CDATA[<article><h1>AirBitz Edge Security Makes Ethereum-based Augur More Accessible</h1><p>There is even more positive news for Augur, as the team will be attending the CNBC & Singularity U's Exponential Finance Innovation Lab on June 7-8. Airbitz and Augur are partnering up to deploy the Airbitz Edge Security Platform. What makes this new service so valuable is how it offers a secure account creation process for end-users.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4de9a0056b28a987d76dd4acd61d7e574551b15.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/06/airbitz-edge-security-makes-ethereum-based-augur-accessible/</link>
-            <guid isPermaLink="false">52d4a6ed-6d20-4394-b135-e5f29954f779</guid>
-            <pubDate>Mon, 06 Jun 2016 13:16:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Prediction Market Augur Deploys Airbitz Edge Security]]></title>
             <description><![CDATA[<article><h1>Prediction Market Augur Deploys Airbitz Edge Security</h1><p>The prediction market Also read: 11FS Blockchain Consultancy Seeks $100 million Augur that runs on top of the Ethereum blockchain has just announced a partnership with the security and wallet service Airbitz . Augur will utilize the Airbitz Edge Security Platform making the prediction market more accessible to the mainstream with user-friendly encryption that protects private keys.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bdc3506969d11239388ef240517623e4a6c3deb.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/augur-deploys-airbitz-edge-security/</link>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>Are bitcoins traceable?</h1><p>Answer: It's the nature of the blockchain that every Bitcoin is traceable as it moves from address to address. While Bitcoin is not inherently anonymous; Bitcoin transactions are completely unregulated and there's no native way to figure out who exactly owns an address. This allows for third-par...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
             <link>https://www.quora.com/Are-bitcoins-traceable</link>
             <guid isPermaLink="false">dcfb3c65-2a2b-4891-9b46-e4e2fc1d2a7d</guid>
+            <pubDate>Mon, 06 Jun 2016 06:50:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blockchain technology requires a lot of power to reach consensus for every transaction. How's it energy efficient?]]></title>
+            <description><![CDATA[<article><h1>Blockchain technology requires a lot of power to reach consensus for every transaction. How's it energy efficient?</h1><p>I don't think energy efficiency is a major problem. A bigger problem is that many blockchain systems (Bitcoin, Ethereum, Litecoin, etc.) are inefficient from a computation and storage perspective. This isn't a huge problem for Bitcoin because it has been intentionally designed for transactions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/Blockchain-technology-requires-a-lot-of-power-to-reach-consensus-for-every-transaction-Hows-it-energy-efficient</link>
+            <guid isPermaLink="false">a9e8616a-b915-4458-ba15-eb232ca6a6a3</guid>
+            <pubDate>Mon, 06 Jun 2016 06:50:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin News for the week of 5/30/16]]></title>
+            <description><![CDATA[<article><h1>Bitcoin News for the week of 5/30/16</h1><p>Welcome to our weekly bitcoin news recap, where we cover top headlines and stories in the world of bitcoin each week. This week we saw another run-up in the price of bitcoin, causing more headlines and speculation on why bitcoin is in such demand recently. In addition, investors are flocking to bitcoin, including millennials.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88ec0548954d454647e7dc58fdcbe3edda7c25a4.png"></article>]]></description>
+            <link>https://blog.blockchain.com/2016/06/05/bitcoin-news-for-the-week-of-53016/</link>
+            <guid isPermaLink="false">c2a31e49-7745-4207-b778-1faabf44ac7f</guid>
             <pubDate>Mon, 06 Jun 2016 06:50:37 GMT</pubDate>
         </item>
     </channel>
