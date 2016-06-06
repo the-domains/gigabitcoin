@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 06:53:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 06:53:52 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Letter To A New Product Manager - Stories From Coinbase]]></title>
+            <description><![CDATA[<article><h1>A Letter To A New Product Manager - Stories From Coinbase</h1><p>My goal is to set you up for success as a new product manager. First, you're going to have to dedicate yourself to the art of product management, it is one of those things, like people management, that seems simple but can take years to really master and the only way to do it is to actually try it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/484fca0684d9ec30ad3061f7d2d3a38e221d96b5.png"></article>]]></description>
+            <link>http://gigabitcoin.xyz/a-letter-to-a-new-product-manager-stories-from-coinbase/index.html</link>
+            <guid isPermaLink="false">2cadd730-4906-42fe-885f-754a499ab629</guid>
+            <pubDate>Mon, 06 Jun 2016 06:50:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Are bitcoins traceable?]]></title>
             <description><![CDATA[<article><h1>Are bitcoins traceable?</h1><p>Answer: It's the nature of the blockchain that every Bitcoin is traceable as it moves from address to address. While Bitcoin is not inherently anonymous; Bitcoin transactions are completely unregulated and there's no native way to figure out who exactly owns an address. This allows for third-par...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin, meet China. May you have many happy days together.</h1><p>Bitcoin, Meet China. May You Have Many Happy Days Together.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/01df343a3b88999e16e411d44382a5d0199297ac.jpg"></article>]]></description>
             <link>http://www.motherjones.com/kevin-drum/2016/06/bitcoin-meet-china-may-you-have-many-happy-days-together</link>
             <guid isPermaLink="false">c6892e83-2b1c-4a21-bfeb-7bae9f8ee708</guid>
-            <pubDate>Sun, 05 Jun 2016 23:47:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How is bitcoin being used to launder money?]]></title>
-            <description><![CDATA[<article><h1>How is bitcoin being used to launder money?</h1><p>Answer: To add more to the story: The scam they were running was from debit cards and credit cards. I did a digging myself as I was fascinated myself but it seems way too secure for anyone to just use it like that.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/How-is-bitcoin-being-used-to-launder-money</link>
-            <guid isPermaLink="false">6c4142d1-5492-49d8-8eac-b3a083b6423d</guid>
             <pubDate>Sun, 05 Jun 2016 23:47:44 GMT</pubDate>
         </item>
     </channel>
