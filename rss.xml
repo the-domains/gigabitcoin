@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 16:44:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 16:44:02 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Putting A Backdoor In Computer Chips During Manufacturing]]></title>
+            <description><![CDATA[<article><h1>Putting A Backdoor In Computer Chips During Manufacturing</h1><p>Researchers have provided the world with some very worrying finding, as it is possible to build a backdoor in computer chips. To make matters even worse, it would be nearly impossible to detect such a backdoor. Albeit this is only a proof-of-concept for the time being, it goes to show the technology we use can be tampered with in many different ways.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4005cca432c4a74201271d487b27ae2254c4c5a1.jpg"></article>]]></description>
+            <link>http://themerkle.com/putting-a-backdoor-in-computer-chips-during-manufacturing/</link>
+            <guid isPermaLink="false">91e40e0b-9703-4b7e-96d9-a8d11806fe72</guid>
+            <pubDate>Mon, 06 Jun 2016 16:43:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Social Kapital Goes Further Than DAO in Security Concerns]]></title>
+            <description><![CDATA[<article><h1>Social Kapital Goes Further Than DAO in Security Concerns</h1><p>June 20th, Social Kapital, a decentralized VC fund and business idea marketplace, is to launch its crowdsale campaign. The news comes after the immense success of The DAO, a similar company, that has just closed the largest recorded crowdfunding campaign in history.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/817ee9eefbbe8af609306421adaef0a966ed66cd.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/social-kapital-goes-further-than-dao-in-security-concerns</link>
+            <guid isPermaLink="false">cbe3292d-77b6-453f-9237-48362fcdf94d</guid>
+            <pubDate>Mon, 06 Jun 2016 16:43:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Richard Stallman's GNU Releases 'Unlike Bitcoin' Electronic Payments]]></title>
+            <description><![CDATA[<article><h1>Richard Stallman's GNU Releases 'Unlike Bitcoin' Electronic Payments</h1><p>Richard Stallman's GNU (gnunet.org) and French computing institute Inria have released the initial code for an "electronic payment system," which is "unlike BitCoin or cash." Also read: Russia's National Cryptocurrency Would Ban Rivals The project, dubbed Taler (for Taxable Anonymous Libre Electronic Reserve), is designed "for the mainstream economy, and not the black market," its website explains.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7704bf1fde2afc2add869bc82cc7fd4f8eda102a.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/richard-stallman-gnu-unlike-bitcoin/</link>
+            <guid isPermaLink="false">9937c2af-163b-4900-af61-95c6df4713dd</guid>
+            <pubDate>Mon, 06 Jun 2016 16:43:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Class Action Lawsuit Resumes Against Bankrupt Bitcoin Miner KnC - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Class Action Lawsuit Resumes Against Bankrupt Bitcoin Miner KnC - CoinDesk</h1><p>A class action lawsuit filed against troubled bitcoin startup KnCMiner is proceeding in spite of a recent legal setback and a sudden bankruptcy filing by the firm. According to emails provided to CoinDesk, lawyers representing the most prominent of several class action lawsuits filed against KnC have entered a claim against its bankruptcy estate in Sweden.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d992c899642288b5a0f417a1e515067e8667dec1.jpg"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>http://themerkle.com/swiss-citizens-reject-universal-basic-income-idea/</link>
             <guid isPermaLink="false">888ffd80-2e0c-42e2-a1a5-13f95c76a413</guid>
             <pubDate>Mon, 06 Jun 2016 14:46:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Google/Apple interested in Blockchain? Is there some reason that they seem to be silent on this front at least in public?]]></title>
-            <description><![CDATA[<article><h1>Is Google/Apple interested in Blockchain? Is there some reason that they seem to be silent on this front at least in public?</h1><p>8 people want answers to this question. Be the first to answer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/unanswered/Is-Google-Apple-interested-in-Blockchain-Is-there-some-reason-that-they-seem-to-be-silent-on-this-front-at-least-in-public</link>
-            <guid isPermaLink="false">c2c5dc20-d76f-4b37-a23e-f9ea80981a0a</guid>
-            <pubDate>Mon, 06 Jun 2016 14:46:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How easy was mining bitcoin in the early stages?]]></title>
-            <description><![CDATA[<article><h1>How easy was mining bitcoin in the early stages?</h1><p>Answer (1 of 3): In the very beginning, Satoshi Nakamoto was mining alone, so he got the block reward (50 BTC) every 10 minutes (the block interval). So 7200 BTC per day. For every miner that joined, they'd split that reward n-way (since the supply of Bitcoin per day is fixed, no matter how many...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/How-easy-was-mining-bitcoin-in-the-early-stages</link>
-            <guid isPermaLink="false">23f8afb3-a68f-4358-bcdd-b5c440c0c459</guid>
-            <pubDate>Mon, 06 Jun 2016 14:46:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mediachain adds integrity layer to online content]]></title>
-            <description><![CDATA[<article><h1>Mediachain adds integrity layer to online content</h1><p>We live in an age where online content often has no attribution attached, from songs to cat gifs and HD movies. Sharing content has become so ubiquitous and easy that ownership information can be quickly lost and hard to track. It then becomes effortless to replace that information, compounding the problem further.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f1b867fdd319f01329bc9e7f5a6e7a4ad64fe75.jpg"></article>]]></description>
-            <link>http://bravenewcoin.com/news/mediachain-adds-integrity-layer-to-online-content/</link>
-            <guid isPermaLink="false">1fa18c96-516c-4b45-8ef1-f6ab5d58e98a</guid>
-            <pubDate>Mon, 06 Jun 2016 14:46:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
