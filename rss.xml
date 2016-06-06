@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 16:44:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 16:44:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Who is Satoshi? - The Hal Finney-Dorian Nakamoto Connection]]></title>
+            <description><![CDATA[<article><h1>Who is Satoshi? - The Hal Finney-Dorian Nakamoto Connection</h1><p>A connection between the late computer scientist, Hal Finney, and Dorian Nakamoto could hold the answer to the creator of Bitcoin's identity. The identity of Bitcoin's pseudonymous creator, Satoshi Nakamoto, has been the cause of much speculation since the cryptocurrency was created.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb28c3f0df0d18116d2d910b6929a127dd6ff14f.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/who-is-satoshi-the-hal-finney-dorian-nakamoto-connection</link>
+            <guid isPermaLink="false">d2612fe4-cd64-4c08-882a-60bd322e2e49</guid>
+            <pubDate>Mon, 06 Jun 2016 16:43:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Putting A Backdoor In Computer Chips During Manufacturing]]></title>
+            <description><![CDATA[<article><h1>Putting A Backdoor In Computer Chips During Manufacturing</h1><p>Researchers have provided the world with some very worrying finding, as it is possible to build a backdoor in computer chips. To make matters even worse, it would be nearly impossible to detect such a backdoor. Albeit this is only a proof-of-concept for the time being, it goes to show the technology we use can be tampered with in many different ways.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4005cca432c4a74201271d487b27ae2254c4c5a1.jpg"></article>]]></description>
+            <link>http://themerkle.com/putting-a-backdoor-in-computer-chips-during-manufacturing/</link>
+            <guid isPermaLink="false">91e40e0b-9703-4b7e-96d9-a8d11806fe72</guid>
+            <pubDate>Mon, 06 Jun 2016 16:43:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Social Kapital Goes Further Than DAO in Security Concerns]]></title>
             <description><![CDATA[<article><h1>Social Kapital Goes Further Than DAO in Security Concerns</h1><p>June 20th, Social Kapital, a decentralized VC fund and business idea marketplace, is to launch its crowdsale campaign. The news comes after the immense success of The DAO, a similar company, that has just closed the largest recorded crowdfunding campaign in history.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/817ee9eefbbe8af609306421adaef0a966ed66cd.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://gigabitcoin.xyz/theres-just-5000-blocks-left-until-a-major-economic-shift/index.html</link>
             <guid isPermaLink="false">33740c1b-35fc-4230-914d-8348eeb64907</guid>
             <pubDate>Mon, 06 Jun 2016 14:46:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Swiss Citizens Reject Universal Basic Income Idea]]></title>
-            <description><![CDATA[<article><h1>Swiss Citizens Reject Universal Basic Income Idea</h1><p>Contrary to what most people had expected, the Swiss population is not for establishing a universal basic income to every citizen. As it turns out, only 23% of votes was for this solution. Quite a disappointing result, but also a valuable lesson about free money.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8dbf8965370284057a73b495e6ae3f4b91ee30dc.jpg"></article>]]></description>
-            <link>http://themerkle.com/swiss-citizens-reject-universal-basic-income-idea/</link>
-            <guid isPermaLink="false">888ffd80-2e0c-42e2-a1a5-13f95c76a413</guid>
-            <pubDate>Mon, 06 Jun 2016 14:46:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Google/Apple interested in Blockchain? Is there some reason that they seem to be silent on this front at least in public?]]></title>
-            <description><![CDATA[<article><h1>Is Google/Apple interested in Blockchain? Is there some reason that they seem to be silent on this front at least in public?</h1><p>8 people want answers to this question. Be the first to answer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/unanswered/Is-Google-Apple-interested-in-Blockchain-Is-there-some-reason-that-they-seem-to-be-silent-on-this-front-at-least-in-public</link>
-            <guid isPermaLink="false">c2c5dc20-d76f-4b37-a23e-f9ea80981a0a</guid>
-            <pubDate>Mon, 06 Jun 2016 14:46:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
