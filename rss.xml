@@ -4,36 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 16:44:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 16:44:00 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Review Consensus 2016 - Bankers vs Developers]]></title>
-            <description><![CDATA[<article><h1>Review Consensus 2016 - Bankers vs Developers</h1><p>This week in The Bitcoin Report we interviewed Henk van Cann, our reporter who attended consensus 2016 in New York. We talk about the atmosphere of the event, Craig Wright, Ethereum and the view of bankers on private Blockchains.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33501c54b9d5d77b12c5ffe4c2ad8aa827947c3d.jpg"></article>]]></description>
-            <link>http://www.youtube.com/watch?v=uBQ67Pgbvm0</link>
-            <guid isPermaLink="false">397df7dc-9738-49ce-873f-e0f3de2bd465</guid>
-            <pubDate>Mon, 06 Jun 2016 16:43:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who is Satoshi? - The Hal Finney-Dorian Nakamoto Connection]]></title>
-            <description><![CDATA[<article><h1>Who is Satoshi? - The Hal Finney-Dorian Nakamoto Connection</h1><p>A connection between the late computer scientist, Hal Finney, and Dorian Nakamoto could hold the answer to the creator of Bitcoin's identity. The identity of Bitcoin's pseudonymous creator, Satoshi Nakamoto, has been the cause of much speculation since the cryptocurrency was created.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb28c3f0df0d18116d2d910b6929a127dd6ff14f.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/who-is-satoshi-the-hal-finney-dorian-nakamoto-connection</link>
-            <guid isPermaLink="false">d2612fe4-cd64-4c08-882a-60bd322e2e49</guid>
-            <pubDate>Mon, 06 Jun 2016 16:43:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Putting A Backdoor In Computer Chips During Manufacturing]]></title>
-            <description><![CDATA[<article><h1>Putting A Backdoor In Computer Chips During Manufacturing</h1><p>Researchers have provided the world with some very worrying finding, as it is possible to build a backdoor in computer chips. To make matters even worse, it would be nearly impossible to detect such a backdoor. Albeit this is only a proof-of-concept for the time being, it goes to show the technology we use can be tampered with in many different ways.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4005cca432c4a74201271d487b27ae2254c4c5a1.jpg"></article>]]></description>
-            <link>http://themerkle.com/putting-a-backdoor-in-computer-chips-during-manufacturing/</link>
-            <guid isPermaLink="false">91e40e0b-9703-4b7e-96d9-a8d11806fe72</guid>
-            <pubDate>Mon, 06 Jun 2016 16:43:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Social Kapital Goes Further Than DAO in Security Concerns]]></title>
-            <description><![CDATA[<article><h1>Social Kapital Goes Further Than DAO in Security Concerns</h1><p>June 20th, Social Kapital, a decentralized VC fund and business idea marketplace, is to launch its crowdsale campaign. The news comes after the immense success of The DAO, a similar company, that has just closed the largest recorded crowdfunding campaign in history.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/817ee9eefbbe8af609306421adaef0a966ed66cd.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/social-kapital-goes-further-than-dao-in-security-concerns</link>
-            <guid isPermaLink="false">cbe3292d-77b6-453f-9237-48362fcdf94d</guid>
-            <pubDate>Mon, 06 Jun 2016 16:43:24 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Richard Stallman's GNU Releases 'Unlike Bitcoin' Electronic Payments]]></title>
             <description><![CDATA[<article><h1>Richard Stallman's GNU Releases 'Unlike Bitcoin' Electronic Payments</h1><p>Richard Stallman's GNU (gnunet.org) and French computing institute Inria have released the initial code for an "electronic payment system," which is "unlike BitCoin or cash." Also read: Russia's National Cryptocurrency Would Ban Rivals The project, dubbed Taler (for Taxable Anonymous Libre Electronic Reserve), is designed "for the mainstream economy, and not the black market," its website explains.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7704bf1fde2afc2add869bc82cc7fd4f8eda102a.jpg"></article>]]></description>
@@ -75,6 +47,34 @@
             <link>http://forklog.net/well-known-lawyer-to-head-russian-blockchain-community/</link>
             <guid isPermaLink="false">fb6e46ad-1b0e-48a2-a220-c615e54e3d74</guid>
             <pubDate>Mon, 06 Jun 2016 14:46:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[There's just 5,000 blocks left until a major economic shift in bitcoin - the 2nd "Halvening" - Tales of a Lawnmower]]></title>
+            <description><![CDATA[<article><h1>There's just 5,000 blocks left until a major economic shift in bitcoin - the 2nd "Halvening" - Tales of a Lawnmower</h1><p>Bitcoin block #415,000 was just mined, marking just 5,000 blocks left until block #420,000 - the point at which the mining reward will drop from it's current bounty of 25 brand new bitcoin immediately down to 12.5. The first bitcoin block, the so called "Genesis Block", was mined on January 3, 2009, marking the beginning of the bitcoin "blockchain".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/258bd4cfd872c1504524970a76051e63d00d16f9.png"></article>]]></description>
+            <link>http://gigabitcoin.xyz/theres-just-5000-blocks-left-until-a-major-economic-shift/index.html</link>
+            <guid isPermaLink="false">33740c1b-35fc-4230-914d-8348eeb64907</guid>
+            <pubDate>Mon, 06 Jun 2016 14:46:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Swiss Citizens Reject Universal Basic Income Idea]]></title>
+            <description><![CDATA[<article><h1>Swiss Citizens Reject Universal Basic Income Idea</h1><p>Contrary to what most people had expected, the Swiss population is not for establishing a universal basic income to every citizen. As it turns out, only 23% of votes was for this solution. Quite a disappointing result, but also a valuable lesson about free money.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8dbf8965370284057a73b495e6ae3f4b91ee30dc.jpg"></article>]]></description>
+            <link>http://themerkle.com/swiss-citizens-reject-universal-basic-income-idea/</link>
+            <guid isPermaLink="false">888ffd80-2e0c-42e2-a1a5-13f95c76a413</guid>
+            <pubDate>Mon, 06 Jun 2016 14:46:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Google/Apple interested in Blockchain? Is there some reason that they seem to be silent on this front at least in public?]]></title>
+            <description><![CDATA[<article><h1>Is Google/Apple interested in Blockchain? Is there some reason that they seem to be silent on this front at least in public?</h1><p>8 people want answers to this question. Be the first to answer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/Is-Google-Apple-interested-in-Blockchain-Is-there-some-reason-that-they-seem-to-be-silent-on-this-front-at-least-in-public</link>
+            <guid isPermaLink="false">c2c5dc20-d76f-4b37-a23e-f9ea80981a0a</guid>
+            <pubDate>Mon, 06 Jun 2016 14:46:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How easy was mining bitcoin in the early stages?]]></title>
+            <description><![CDATA[<article><h1>How easy was mining bitcoin in the early stages?</h1><p>Answer (1 of 3): In the very beginning, Satoshi Nakamoto was mining alone, so he got the block reward (50 BTC) every 10 minutes (the block interval). So 7200 BTC per day. For every miner that joined, they'd split that reward n-way (since the supply of Bitcoin per day is fixed, no matter how many...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/How-easy-was-mining-bitcoin-in-the-early-stages</link>
+            <guid isPermaLink="false">23f8afb3-a68f-4358-bcdd-b5c440c0c459</guid>
+            <pubDate>Mon, 06 Jun 2016 14:46:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
