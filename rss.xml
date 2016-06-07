@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 02:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 02:19:14 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[EB134 - Emin Gün Sirer And Vlad Zamfir: On A Rocky DAO]]></title>
-            <description><![CDATA[<article><h1>EB134 - Emin Gün Sirer And Vlad Zamfir: On A Rocky DAO</h1><p>Support the show, consider donating: 18TfUL2WcAy3dvMqD8tW9SFLHps3sALP3z (http://bit.ly/28eIqvc) Raising $150m+ through its toke sale, 'The DAO' has become the most notable decentralized application to date. The ambitious goal of the project is to form an decentralized organizations that efficiently makes investment decisions and generates a return for the token holders.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc70acc27663e5424cf66d7b244d25aa768f9d3b.jpg"></article>]]></description>
-            <link>http://www.youtube.com/watch?v=ON5GhIQdFU8</link>
-            <guid isPermaLink="false">013d85cc-30a4-4084-a882-6f513acc22a5</guid>
-            <pubDate>Tue, 07 Jun 2016 02:19:08 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Q&A: Why we should worry about optimization, not scaling]]></title>
             <description><![CDATA[<article><h1>Bitcoin Q&A: Why we should worry about optimization, not scaling</h1><p>Talk recorded on January 27th 2015, at the O'Reilly Radar Summit "Bitcoin and the Blockchain" in San Francisco, CA. A talk about bitcoin, network architecture, decentralization, innovation, and the economics of open systems. Video is licensed CC-BY Keywords/phrases: What do you think of the argument that Bitcoin can only have either secure or cheap transactions?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f5fde5354d2be7a71e475bf8505c25e483c6167.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>90 Central Banks Seek Blockchain Answers at Federal Reserve Event - CoinDesk</h1><p>Major central banks worldwide have spent the past year organizing their own working groups dedicated to exploring blockchain technology and digital currencies. During a three-day event last week in Washington, DC, hosted by the World Bank, the Intentional Monetary Fund, and the US Federal Reserve, representatives from a range of central banks worldwide offered private details about the ongoing work at their respective institutions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ef765f43e3c1098147603ecf9898b0a7fe3327d.png"></article>]]></description>
             <link>http://www.coindesk.com/central-banks-blockchain-federal-reserve/</link>
             <guid isPermaLink="false">7b22375a-46fb-4a0d-abf2-18972817ecd5</guid>
+            <pubDate>Tue, 07 Jun 2016 01:05:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andreas Antonopoulos to Speak at D10e, First Blockchain Conference With Live Streaming]]></title>
+            <description><![CDATA[<article><h1>Andreas Antonopoulos to Speak at D10e, First Blockchain Conference With Live Streaming</h1><p>The fifth installment of d10e returns to San Francisco for a two-day event, July 19-20, which will feature a star-studded cast of keynote speakers, including Andreas Antonopoulos. Andreas Antonopoulos is a computer security and Bitcoin expert who has advised hundreds of organizations on emerging technologies and trends for over two decades.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29a8add720bd7339f2452026fc2e6cecb93b8022.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/andreas-antonopoulos-to-speak-at-d10e-first-blockchain-conference-with-live-streaming</link>
+            <guid isPermaLink="false">46c3547a-e2a1-4e07-bdb4-dc117e556ba0</guid>
             <pubDate>Tue, 07 Jun 2016 01:05:37 GMT</pubDate>
         </item>
     </channel>
