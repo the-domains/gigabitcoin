@@ -3,7 +3,20 @@ author:
   - name: Iyke Aru
     url: null
     avatar: {}
-related: []
+related:
+  - score: 0.6845552325
+    description: >-
+      The ways in which blockchain technology can be used to support social good
+      were discussed at an event hosted by Microsoft's Civic Innovation team in
+      New York last night. Taking place at the LMHQ venue in Lower Manhattan,
+      the event was kicked off by John Paul Farmer, director of technology and
+      civic innovation at Microsoft.
+    title: Microsoft Explores Blockchain Tech's Use for Social Good
+    url: >-
+      http://www.coindesk.com/microsoft-event-explores-use-of-blockchain-tech-for-social-good-2/
+    thumbnail_height: 808
+    thumbnail_url: 'http://media.coindesk.com/2015/07/LMHQ-Microsoft-blockchain-discussion.png'
+    thumbnail_width: 1440
 publisher:
   url: 'http://cointelegraph.com'
   name: CoinTelegraph
@@ -29,12 +42,12 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  http://cointelegraph.com/news/andreas-antonopoulos-to-speak-at-d10e-first-blockchain-conference-with-live-streaming
+  https://cointelegraph.com/news/andreas-antonopoulos-to-speak-at-d10e-first-blockchain-conference-with-live-streaming
 title: >-
   Andreas Antonopoulos to Speak at D10e, First Blockchain Conference With Live
   Streaming
-datePublished: '2016-06-07T01:05:37.039Z'
-dateModified: '2016-06-06T17:40:54.721Z'
+datePublished: '2016-06-07T04:04:39.546Z'
+dateModified: '2016-06-07T02:42:13.467Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-07-andreas-antonopoulos-to-speak-at-d10e-first-blockchain-conf.md
