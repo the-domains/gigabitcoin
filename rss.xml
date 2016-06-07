@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 02:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 02:19:15 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EB134 - Emin Gün Sirer And Vlad Zamfir: On A Rocky DAO]]></title>
+            <description><![CDATA[<article><h1>EB134 - Emin Gün Sirer And Vlad Zamfir: On A Rocky DAO</h1><p>Support the show, consider donating: 18TfUL2WcAy3dvMqD8tW9SFLHps3sALP3z (http://bit.ly/28eIqvc) Raising $150m+ through its toke sale, 'The DAO' has become the most notable decentralized application to date. The ambitious goal of the project is to form an decentralized organizations that efficiently makes investment decisions and generates a return for the token holders.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc70acc27663e5424cf66d7b244d25aa768f9d3b.jpg"></article>]]></description>
+            <link>http://www.youtube.com/watch?v=ON5GhIQdFU8</link>
+            <guid isPermaLink="false">013d85cc-30a4-4084-a882-6f513acc22a5</guid>
+            <pubDate>Tue, 07 Jun 2016 02:19:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Q&A: Why we should worry about optimization, not scaling]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Q&A: Why we should worry about optimization, not scaling</h1><p>Talk recorded on January 27th 2015, at the O'Reilly Radar Summit "Bitcoin and the Blockchain" in San Francisco, CA. A talk about bitcoin, network architecture, decentralization, innovation, and the economics of open systems. Video is licensed CC-BY Keywords/phrases: What do you think of the argument that Bitcoin can only have either secure or cheap transactions?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f5fde5354d2be7a71e475bf8505c25e483c6167.jpg"></article>]]></description>
+            <link>http://www.youtube.com/watch?v=J3sEcuCc9fg</link>
+            <guid isPermaLink="false">e5120d19-e4d9-47c4-8aae-c029bcad9ff4</guid>
+            <pubDate>Tue, 07 Jun 2016 02:19:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Block Reward Halving to Bring $3,000 Per Bitcoin?! - Trace Mayer Interview]]></title>
             <description><![CDATA[<article><h1>Block Reward Halving to Bring $3,000 Per Bitcoin?! - Trace Mayer Interview</h1><p>New Silver Miner Led by Man who Found the Largest Silver Deposit: http://FutureMoneyTrends.com/Silver1000 GUEST: http://Bitcoin.kn TOPICS IN THIS INTERVIEW: 02:30 Bitcoin Up Over $100 & 25% in 1 month 05:30 China's Role in Bitcoin: Are they Taking Over?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9197b3d2ae61b56751baa7edae42b44c86987e0.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.coindesk.com/central-banks-blockchain-federal-reserve/</link>
             <guid isPermaLink="false">7b22375a-46fb-4a0d-abf2-18972817ecd5</guid>
             <pubDate>Tue, 07 Jun 2016 01:05:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andreas Antonopoulos to Speak at D10e, First Blockchain Conference With Live Streaming]]></title>
-            <description><![CDATA[<article><h1>Andreas Antonopoulos to Speak at D10e, First Blockchain Conference With Live Streaming</h1><p>The fifth installment of d10e returns to San Francisco for a two-day event, July 19-20, which will feature a star-studded cast of keynote speakers, including Andreas Antonopoulos. Andreas Antonopoulos is a computer security and Bitcoin expert who has advised hundreds of organizations on emerging technologies and trends for over two decades.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29a8add720bd7339f2452026fc2e6cecb93b8022.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/andreas-antonopoulos-to-speak-at-d10e-first-blockchain-conference-with-live-streaming</link>
-            <guid isPermaLink="false">46c3547a-e2a1-4e07-bdb4-dc117e556ba0</guid>
-            <pubDate>Tue, 07 Jun 2016 01:05:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CoinJoin: Combining Bitcoin Transactions to Obfuscate Trails and Increase Privacy]]></title>
-            <description><![CDATA[<article><h1>CoinJoin: Combining Bitcoin Transactions to Obfuscate Trails and Increase Privacy</h1><p>Bitcoin right now is not really anonymous. While Bitcoin addresses aren't necessarily linked to real-world identities, they can be. Monitoring the unencrypted peer-to-peer network, analysis of the public blockchain, and Know Your Customer (KYC) policy or Anti-Money Laundering (AML) regulation can reveal a lot about who's using Bitcoin, and for what.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/edb9bd8bb8d271fb45ed0d12d296ffff26a1a574.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/coinjoin-combining-bitcoin-transactions-to-obfuscate-trails-and-increase-privacy-1465235087</link>
-            <guid isPermaLink="false">c7e09323-09d9-47dc-ab15-2d8adbdd2c2d</guid>
-            <pubDate>Tue, 07 Jun 2016 01:05:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
