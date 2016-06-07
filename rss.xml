@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 04:05:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 04:05:45 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Crack of Thunder: Blockchain.com Announces Alpha Release of Lightning Network]]></title>
+            <description><![CDATA[<article><h1>The Crack of Thunder: Blockchain.com Announces Alpha Release of Lightning Network</h1><p>Blockchain, the world's leading provider of Blockchain tools and software, has announced that the first usable implementation of the Lightning network, Thunder, has been released as an alpha. Lightning networks, as explained on the Lightning Network webpage, are dependent upon the underlying technology of the blockchain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6c295ba45876acfe8127fd09d55ceed74bb6100.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/the-crack-of-thunder-blockchaincom-announces-alpha-release-of-lightning-network</link>
+            <guid isPermaLink="false">fc1b7359-b3f9-4598-9a6a-adbf9cf43faf</guid>
+            <pubDate>Tue, 07 Jun 2016 04:04:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum (ETH) Price Trends: 6/02/2016]]></title>
+            <description><![CDATA[<article><h1>Ethereum (ETH) Price Trends: 6/02/2016</h1><p>Ethereum's price is fortifying above a key resistance line. A short-term flat, which is also a rebound, is coming to its conclusion. The movement which has started at $10, could become a wave of a medium-term flat. As long as that probability is there, there is a chance for a downward turn towards $10.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3c9d2ac7ac9c62f7c449d89a7fa4d7a414fdcd3.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/ethereum-eth-price-trends-6022016</link>
+            <guid isPermaLink="false">8f7bcc84-f714-427d-87f7-57e489bdad18</guid>
+            <pubDate>Tue, 07 Jun 2016 04:04:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Analysis: 6/03/2016]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Analysis: 6/03/2016</h1><p>Bitcoin is continuing its upward movement. The short-term upward structure can turn out to be a wave of a flat, which will be followed by a downward rebound. The minimal correction targets have been reached, so the movement is about to be decided.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff3b4f1907cde1277d1b4d721233d7e55ab79110.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Users Accuse Coinbase of Lying to Investors, The Platform Denies Accusations</h1><p>Claims on a Reddit thread that Coinbase may have lied that it stores 97% of user funds in multisig addresses has been refuted by the platform. Founded in June of 2012, the wallet and platform where merchants and consumers transact Bitcoin prides itself as the world's most popular way to buy, sell, and use Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8fabd0b1943716c8c630da9dddadcbdccb4b638.jpg"></article>]]></description>
             <link>https://cointelegraph.com/news/users-accuse-coinbase-of-lying-to-investors-the-platform-denies-accusations</link>
             <guid isPermaLink="false">6065c570-1f4c-40c9-b269-f8232c07b0dc</guid>
-            <pubDate>Tue, 07 Jun 2016 04:04:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Capital Control Starvation Scheme]]></title>
-            <description><![CDATA[<article><h1>The Capital Control Starvation Scheme</h1><p>The deadly combination of tight capital controls and inflation slowly starve the people's life savings. Luckily, Bitcoin can help escape from capital destruction. Capital controls are a structure used by governments to restrict, or prevent, the flow of capital out of the country.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e90c57bde9fde4696899c3f857ca4df2fe9a6db.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/the-capital-control-starvation-scheme</link>
-            <guid isPermaLink="false">0e9e9452-61f0-4c77-b912-aa5261337425</guid>
-            <pubDate>Tue, 07 Jun 2016 04:04:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Analysis (Week of June 5th)]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Analysis (Week of June 5th)</h1><p>Bitcoin's price is continuing its upward trend. This confident growth could be persistent on the long-term scale. Will the price reach $600? The upward structure remained intact, as there was no turn at the key resistance line of $512.7. That has caused a new upward surge.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/320fe48446d9bd39d72c1c89603886223583ed5c.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/bitcoin-price-analysis-week-of-june-5th</link>
-            <guid isPermaLink="false">cc4c7b9a-c200-4ce5-99d6-2cf3315da97f</guid>
             <pubDate>Tue, 07 Jun 2016 04:04:40 GMT</pubDate>
         </item>
     </channel>
