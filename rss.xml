@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 01:07:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 01:07:30 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin ATM Network Acqui-Hires Exchange Startup - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Bitcoin ATM Network Acqui-Hires Exchange Startup - CoinDesk</h1><p>Bitcoin exchange startup BitQuick is being acqui-hired by a US-based digital currency ATM network, a move that comes months after it temporarily shut down following a cyberattack. Athena Bitcoin, which operates in the midwestern and eastern US, is buying the exchange outright as well as bringing in team members Jad Mubaslat and Chad Davis.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24c8f83fbce33baaa0c6336bb85bd1eefca75dcb.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/us-bitcoin-atm-network-acqui-hires-exchange-startup-bitquick/</link>
+            <guid isPermaLink="false">ab5b9009-8586-4a81-bf75-82e6ab45369d</guid>
+            <pubDate>Tue, 07 Jun 2016 01:05:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Philippines Hurries with Cyber Security, May Regulate Bitcoin As Well. - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Philippines Hurries with Cyber Security, May Regulate Bitcoin As Well. - NEWSBTC</h1><p>The Central Bank of Philippine is in the process of making few regulatory changes to combat money laundering and cyber attacks. Read more... The Philippines may soon introduce bitcoin regulations as the country's central bank decides to tighten its screws around money laundering. The bank is also focused on improving the security of the cyber infrastructure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c2b8565fe0d527c43abae70ca4134205a2e87aa3.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Philippine central bank considers regulating bitcoin operations</h1><p>The Philippine central bank is looking at regulating bitcoin operators in order to crack down on money laundering, said a deputy governor in a speech on Saturday. As reported by Reuters, Nestor Esp...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56f6fdee1def58292678446b0ae944bf9dcbea54.png"></article>]]></description>
             <link>https://coinreport.net/philippine-central-bank-considers-regulating-bitcoin-operations/</link>
             <guid isPermaLink="false">bb1e9f2d-7864-4918-b8a1-7edb7d7d70ae</guid>
-            <pubDate>Tue, 07 Jun 2016 01:05:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Colbitex, Colombia's First Bitcoin Exchange Released In Testnet]]></title>
-            <description><![CDATA[<article><h1>Colbitex, Colombia's First Bitcoin Exchange Released In Testnet</h1><p>On June 3, 2016, Colombia's first Bitcoin exchange, Colbitex, launched in testnet. The Colombian market seems to have all the right characteristics for increased adoption and the embrace of exchanges. Time will tell. The project was founded by Roman Parra, an industrial production engineer and marketing specialist, and Carlos Mesa, a computer systems engineer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34da08f97257acc842b9393796a294e1be6155ba.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/colbitex-colombias-first-bitcoin-exchange-released-in-testnet/</link>
-            <guid isPermaLink="false">5704df07-7612-48f6-a3a2-ec4f5dc39509</guid>
             <pubDate>Tue, 07 Jun 2016 01:05:36 GMT</pubDate>
         </item>
     </channel>
