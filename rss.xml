@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 04:06:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 04:05:57 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[ID2020: How Blockchain Could Be Used To Solve Global Identity Crisis]]></title>
-            <description><![CDATA[<article><h1>ID2020: How Blockchain Could Be Used To Solve Global Identity Crisis</h1><p>ConsenSys, Microsoft, and Blockstack Labs collaborate to create an open-source, self-sovereign, blockchain-based identity system while ex-trader starts a non-profit ID2020 to address the problem at UN-level, through public-private partnership. According to the United Nations, there are around 1.5bn people across the world who have no way of proving who they are.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/296e941cb1fd860166f8f7ba758e3dc686e03d59.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/id2020-how-blockchain-could-be-used-to-solve-global-identity-crisis</link>
-            <guid isPermaLink="false">ad585a11-c7fc-42b8-b1c6-539795afa892</guid>
-            <pubDate>Tue, 07 Jun 2016 04:04:41 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[I Love You, I Hate You: Russia Never Gets Bored With Blockchain]]></title>
             <description><![CDATA[<article><h1>I Love You, I Hate You: Russia Never Gets Bored With Blockchain</h1><p>Despite the fact that top-managers of Russian financial institutions have spoken out in favour of Bitcoin and Blockchain, state authorities keep banning the use of all cryptocurrencies, at the same time planning to introduce the country's own digital currency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7a056ff940a63f397e38334dc396e5faa41fe0f.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>"Syscoin is like eBay": Interview with Developer of Decentralized Marketplace Cryptocurrency</h1><p>How can you explain Syscoin to someone who has, for example, only ever used eBay, and is not familiar with cryptocurrencies? CoinTelegraph spoke to Dan Wasyluk, Developer at Syscoin, about their innovation. " Syscoin is like eBay stores or "Buy it Now" listings, except with a payment and escrow system built-in", explains Dan Wasyluk.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e75f3b5edee6f186056517c835af80e4e29d07eb.jpg"></article>]]></description>
             <link>https://cointelegraph.com/news/syscoin-is-like-ebay-interview-with-developer-of-decentralized-marketplace-cryptocurrency</link>
             <guid isPermaLink="false">ecdc6c3a-7582-489f-a3f4-a4df1257d9d8</guid>
+            <pubDate>Tue, 07 Jun 2016 04:04:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Online Marketplace in Need of Decentralized Arbitration, Or May Be Not]]></title>
+            <description><![CDATA[<article><h1>Online Marketplace in Need of Decentralized Arbitration, Or May Be Not</h1><p>Where the online marketplace industry is going now? And does it need decentralisation at all? CoinTelegraph spoke about the issues with Brian Hoffman, project lead at the fully decentralized marketplace, OpenBazaar, and Tone Vays, head of research at BraveNewCoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a00180627b70677c6eedf32b21cd3cdd2eb14b79.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/online-marketplace-in-need-of-decentralized-arbitration-or-may-be-not</link>
+            <guid isPermaLink="false">ec4b7fcb-eb1e-40df-96bd-976398df4aaa</guid>
             <pubDate>Tue, 07 Jun 2016 04:04:41 GMT</pubDate>
         </item>
     </channel>
