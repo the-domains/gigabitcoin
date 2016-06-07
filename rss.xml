@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 01:06:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 01:06:38 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Exchanges Could Face New Regulations in the Philippines - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Exchanges Could Face New Regulations in the Philippines - CoinDesk</h1><p>The central bank of the Philippines is looking to expand oversight of the country's financial system following an embarrassing hack on the SWIFT international transfer system - a move that may ultimately result in new rules for domestic bitcoin services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e703bdd3af4489f56e8108fcfd8ddfe59216b70.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/bitcoin-exchanges-regulations-philippines/</link>
+            <guid isPermaLink="false">d7732366-4670-4ee1-8dcf-b35f5c58856c</guid>
+            <pubDate>Tue, 07 Jun 2016 01:05:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Just convinced my dog to accept Bitcoin instead of treats! * /r/Bitcoin]]></title>
             <description><![CDATA[<article><h1>Just convinced my dog to accept Bitcoin instead of treats! * /r/Bitcoin</h1><p>Bitcoin is the currency of the Internet: a distributed, worldwide, decentralized digital money. Unlike traditional currencies such as dollars, bitcoins are issued and managed without any central authority whatsoever: there is no government, company, or bank in charge of Bitcoin. As such, it is more resistant to wild inflation and corrupt banks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://themerkle.com/jaxx-wallet-adds-support-to-the-dao-tokens/</link>
             <guid isPermaLink="false">9617373c-542a-45ce-b832-3b09d102c293</guid>
             <pubDate>Tue, 07 Jun 2016 01:05:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Review Consensus 2016 - Bankers vs Developers]]></title>
-            <description><![CDATA[<article><h1>Review Consensus 2016 - Bankers vs Developers</h1><p>This week in The Bitcoin Report we interviewed Henk van Cann, our reporter who attended consensus 2016 in New York. We talk about the atmosphere of the event, Craig Wright, Ethereum and the view of bankers on private Blockchains.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33501c54b9d5d77b12c5ffe4c2ad8aa827947c3d.jpg"></article>]]></description>
-            <link>http://www.youtube.com/watch?v=uBQ67Pgbvm0</link>
-            <guid isPermaLink="false">397df7dc-9738-49ce-873f-e0f3de2bd465</guid>
-            <pubDate>Mon, 06 Jun 2016 16:43:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
