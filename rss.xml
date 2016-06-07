@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 19:26:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 19:27:01 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Swirlds Addresses Blockchain Limitations With Hashgraph]]></title>
+            <description><![CDATA[<article><h1>Swirlds Addresses Blockchain Limitations With Hashgraph</h1><p>Swirlds is a startup claiming to solve the limitations of blockchain technology, while harnessing the power of the cloud without servers. Ping Identity has announced their seed investment in this company, to leverage the power of blockchain without limits. Also read: Industry Report: Is Security in the Finance Sector Too Weak?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c6a922b7972875176a82f261e1af85b2c6536a2.png"></article>]]></description>
+            <link>http://bitcoinist.net/swirlds-blockchain-limitations-hashgraph/</link>
+            <guid isPermaLink="false">291f4f65-d11e-449d-a8d2-afeee688aab6</guid>
+            <pubDate>Tue, 07 Jun 2016 19:25:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mt Gox Users Beware, Else Lose your Bitcoins Again to a new Malware - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Mt Gox Users Beware, Else Lose your Bitcoins Again to a new Malware - NEWSBTC</h1><p>Investors in Mt Gox have now become targets of an elaborate phishing scam where they are sent malware-laden emails which can empty their offline bitcoin wallets. There is no end to the woes of Mt Gox victims. At the time when things are looking a bit promising to a handful of those who lost their bitcoins with the collapse of Mt Gox, there is a new problem facing them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6bbfefc7e629d2db3518a73709872505a8123de.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price $600 Pullback</h1><p>Bitcoin price has made little progress during the past week and the market is falling away from $600 (Bitstamp). The depth of the downward correction is uncertain and we look for potential support levels. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1735fdb1a084fef6c26af8181f62524f3cf382bb.png"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/bitcoin-price-600-pullback/</link>
             <guid isPermaLink="false">fe0760ff-380a-483a-9dfb-73cbc9c35cd6</guid>
-            <pubDate>Tue, 07 Jun 2016 19:25:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[French Presidential Hopeful Calls for Bitcoin Ban - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>French Presidential Hopeful Calls for Bitcoin Ban - CoinDesk</h1><p>The head of a major far-right political party in France has called for ending the use of bitcoin and other digital currencies in the European country.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ec13bfbcb714b7a6b93fd353a49695e9d390815.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/french-presidential-hopeful-bitcoin-ban/</link>
-            <guid isPermaLink="false">aea53bc3-0796-4456-aa32-6e5340b980e4</guid>
             <pubDate>Tue, 07 Jun 2016 19:25:20 GMT</pubDate>
         </item>
     </channel>
