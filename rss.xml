@@ -7,6 +7,13 @@
         <lastBuildDate>Tue, 07 Jun 2016 19:25:43 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Bitcoin Foundation Has a Few Months Left, Recent Gift Not Enough]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Foundation Has a Few Months Left, Recent Gift Not Enough</h1><p>A recent Bitcoin Foundation Board of Directors meeting revealed that the organization is on the ropes, with only a few months worth of funding left Also read: Russia's National Cryptocurrency Would Ban Rivals . This news comes after a $55-65 thousand dollar donation Brock Pierce secured from the BitClub mining organization.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd07977aa6506ccbd94be9877be8786ca3e2f833.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/bitcoin-foundation-gift-still-not-enough/</link>
+            <guid isPermaLink="false">eb6958a1-357e-49ad-9d3b-e875627ef701</guid>
+            <pubDate>Tue, 07 Jun 2016 19:25:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Compact Blocks FAQ]]></title>
             <description><![CDATA[<article><h1>Compact Blocks FAQ</h1><p>Compact block relay, BIP152, is a method of reducing the amount of bandwidth used to propagate new blocks to full nodes. Using simple techniques it is possible to reduce the amount of bandwidth necessary to propagate new blocks to full nodes when they already share much of the same mempool contents.</p></article>]]></description>
             <link>https://bitcoincore.org/en/2016/06/07/compact-blocks-faq/</link>
@@ -68,13 +75,6 @@
             <link>http://bravenewcoin.com/news/airbitz-and-augur-partner-in-virtual-trading-predictions/</link>
             <guid isPermaLink="false">a5f40e79-4be8-4f65-acf0-8ebe578a6214</guid>
             <pubDate>Tue, 07 Jun 2016 19:25:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Companies Are Stockpiling Bitcoin to Pay Off Cybercriminals]]></title>
-            <description><![CDATA[<article><h1>Companies Are Stockpiling Bitcoin to Pay Off Cybercriminals</h1><p>The rise of malware that holds data hostage has led companies to buy Bitcoin to use as ransom in case of an attack. Digital currency Bitcoin is variously promoted as an alternative to gold, a good way to make international transfers or the future of e-commerce.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/647465d79a4960a3ab994fc8dc3179a888656f5e.png"></article>]]></description>
-            <link>https://www.technologyreview.com/s/601643/companies-are-stockpiling-bitcoin-to-pay-off-cybercriminals/</link>
-            <guid isPermaLink="false">e7847bc3-1375-4718-8571-7bfe652d1ff0</guid>
-            <pubDate>Tue, 07 Jun 2016 19:25:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
