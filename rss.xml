@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 01:06:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 01:06:47 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[More New Pools for Mining Ethereum (ETH) Now Available]]></title>
-            <description><![CDATA[<article><h1>More New Pools for Mining Ethereum (ETH) Now Available</h1><p>There have been quite a few new mining pools for Ethereum mining appearing in the last few weeks since we have last updated our list of Ether (ETH) mining pools, so now it is time to refresh things a bit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8160472a183d86afcee90ac5808f0ed0ae2ba1f.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7933-more-new-pools-for-mining-ethereum-eth-now-available/</link>
-            <guid isPermaLink="false">42849278-4aa3-4225-ba7b-a2555d5fc441</guid>
-            <pubDate>Tue, 07 Jun 2016 01:05:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Philippine central bank considers regulating bitcoin operations]]></title>
-            <description><![CDATA[<article><h1>Philippine central bank considers regulating bitcoin operations</h1><p>The Philippine central bank is looking at regulating bitcoin operators in order to crack down on money laundering, said a deputy governor in a speech on Saturday. As reported by Reuters, Nestor Esp...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56f6fdee1def58292678446b0ae944bf9dcbea54.png"></article>]]></description>
-            <link>https://coinreport.net/philippine-central-bank-considers-regulating-bitcoin-operations/</link>
-            <guid isPermaLink="false">bb1e9f2d-7864-4918-b8a1-7edb7d7d70ae</guid>
-            <pubDate>Tue, 07 Jun 2016 01:05:36 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Colbitex, Colombia's First Bitcoin Exchange Released In Testnet]]></title>
             <description><![CDATA[<article><h1>Colbitex, Colombia's First Bitcoin Exchange Released In Testnet</h1><p>On June 3, 2016, Colombia's first Bitcoin exchange, Colbitex, launched in testnet. The Colombian market seems to have all the right characteristics for increased adoption and the embrace of exchanges. Time will tell. The project was founded by Roman Parra, an industrial production engineer and marketing specialist, and Carlos Mesa, a computer systems engineer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34da08f97257acc842b9393796a294e1be6155ba.jpg"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>Is Google/Apple interested in Blockchain? Is there some reason that they seem to be silent on this front at least in public?</h1><p>The greatest evidence for that hypothesis is likely Microsoft's BaaS. They may be silent because much of the public associates Bitcoin and cryptocurrency with crime, money laundering etc. A news title like "Google provides Bitcoin Wallet" can just as easily and more profitably become "Google facilitates the laundering of milllions."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
             <link>https://www.quora.com/Is-Google-Apple-interested-in-Blockchain-Is-there-some-reason-that-they-seem-to-be-silent-on-this-front-at-least-in-public</link>
             <guid isPermaLink="false">53370156-7b51-4548-935e-89f77678b711</guid>
+            <pubDate>Tue, 07 Jun 2016 01:05:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blockchain Allows Sneaker Manufacturer To Prevent Counterfeiting]]></title>
+            <description><![CDATA[<article><h1>Blockchain Allows Sneaker Manufacturer To Prevent Counterfeiting</h1><p>A sneaker manufacturer has used blockchain technology to create smart tags that can track their sneakers to the factory, so they are impossible to counterfeit, according to fastcodedesign.com. The manufacturer, Greats, tapped the services of a software authentication system and a 3-D printer to design the smart tags.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eea6421a36330537e20441f2e0c4ba0b9967584e.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/blockchain-allows-sneaker-manufacturer-prevent-counterfeiting/</link>
+            <guid isPermaLink="false">338158a7-553d-438e-a7dc-6dba188f0b34</guid>
+            <pubDate>Tue, 07 Jun 2016 01:05:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Exchanges Could Face New Regulations in the Philippines - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Exchanges Could Face New Regulations in the Philippines - CoinDesk</h1><p>The central bank of the Philippines is looking to expand oversight of the country's financial system following an embarrassing hack on the SWIFT international transfer system - a move that may ultimately result in new rules for domestic bitcoin services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e703bdd3af4489f56e8108fcfd8ddfe59216b70.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/bitcoin-exchanges-regulations-philippines/</link>
+            <guid isPermaLink="false">d7732366-4670-4ee1-8dcf-b35f5c58856c</guid>
             <pubDate>Tue, 07 Jun 2016 01:05:35 GMT</pubDate>
         </item>
     </channel>
