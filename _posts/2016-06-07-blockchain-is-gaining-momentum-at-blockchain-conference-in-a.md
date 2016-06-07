@@ -3,7 +3,20 @@ author:
   - name: Charlie McCombie
     url: null
     avatar: {}
-related: []
+related:
+  - score: 0.803581357
+    description: >-
+      The ways in which blockchain technology can be used to support social good
+      were discussed at an event hosted by Microsoft's Civic Innovation team in
+      New York last night. Taking place at the LMHQ venue in Lower Manhattan,
+      the event was kicked off by John Paul Farmer, director of technology and
+      civic innovation at Microsoft.
+    title: Microsoft Explores Blockchain Tech's Use for Social Good
+    url: >-
+      http://www.coindesk.com/microsoft-event-explores-use-of-blockchain-tech-for-social-good-2/
+    thumbnail_height: 808
+    thumbnail_url: 'http://media.coindesk.com/2015/07/LMHQ-Microsoft-blockchain-discussion.png'
+    thumbnail_width: 1440
 publisher:
   url: 'http://cointelegraph.com'
   name: CoinTelegraph
@@ -29,10 +42,10 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  http://cointelegraph.com/news/blockchain-is-gaining-momentum-at-blockchain-conference-in-amsterdam-june-9th
+  https://cointelegraph.com/news/blockchain-is-gaining-momentum-at-blockchain-conference-in-amsterdam-june-9th
 title: 'Blockchain Is Gaining Momentum At Blockchain Conference in Amsterdam, June 9th'
-datePublished: '2016-06-07T01:05:36.490Z'
-dateModified: '2016-06-06T18:40:52.938Z'
+datePublished: '2016-06-07T04:04:39.588Z'
+dateModified: '2016-06-07T02:42:14.602Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-07-blockchain-is-gaining-momentum-at-blockchain-conference-in-a.md
