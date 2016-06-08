@@ -4,36 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 01:02:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2016 01:01:58 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Stellar Co-Founder Resigns As Executive Director - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Stellar Co-Founder Resigns As Executive Director - CoinDesk</h1><p>One of the co-founder of Stellar announced their resignation today. In a statement published to her personal blog, Joyce Kim said that she would be "passing on the torch" of executive director to her co-founder, Jed McCaleb, who co-founded Ripple and was the original owner of Tokyo-based bitcoin exchange Mt Gox.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72bff8910fc999459f40106a3cafdbb54d9f3dd5.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/stellar-co-founder-resigns-executive-director/</link>
-            <guid isPermaLink="false">48062dbe-511d-4fe2-a354-7f45bde6acb4</guid>
-            <pubDate>Wed, 08 Jun 2016 01:01:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin's Compact Block Relay is an Upgrade to Reduce Block's Propagation Times - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin's Compact Block Relay is an Upgrade to Reduce Block's Propagation Times - NEWSBTC</h1><p>Bitcoin Core has published an FAQ section regarding the most recent Bitcoin Improvement Proposal (BIP), we are talking about the BIP 152 named Compact Block Relay, the upgrade is poised to reduce the bandwidth and the time it takes for a block to propagate through the nodes across Bitcoin's network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d655c96160893ea1455b74ba693881277c7a0a8.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/07/compact-block-relay-technique-improve-propagation-times-bitcoins-network/</link>
-            <guid isPermaLink="false">e8937e97-4199-4047-8044-27164c937909</guid>
-            <pubDate>Wed, 08 Jun 2016 01:01:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wall Street Blockchain Alliance Launches Educational Platform for Financial Markets]]></title>
-            <description><![CDATA[<article><h1>Wall Street Blockchain Alliance Launches Educational Platform for Financial Markets</h1><p>New York-based blockchain advocacy group the Wall Street Blockchain Alliance (WSBA) recently announced the unveiling of the WSBA Certification Framework (WCF) in partnership with Positrust LLC, a blockchain technology company. Speaking to Bitcoin Magazine, WSBA Chairman Ron Quaranta said that the WCF will serve as a platform to educate and increase the availability of distributed ledger technology (DLT) or blockchain expertise and talent in financial markets.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b89acc4e79801e7ea9250d4b41a3b7622b01f6f.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/wall-street-blockchain-alliance-launches-educational-platform-for-financial-markets-1465326363</link>
-            <guid isPermaLink="false">f68eeccb-5331-4bf9-8339-b00fb81faf68</guid>
-            <pubDate>Wed, 08 Jun 2016 01:01:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin now available at Australian newsstands]]></title>
-            <description><![CDATA[<article><h1>Bitcoin now available at Australian newsstands</h1><p>Australians are now able to buy bitcoin at their local newsstands with cash, according to media reports. The technology was deployed last Thursday to approximately 1,200 newsagents across the count...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db2c849df92247f56c5393cf83dd4e0e85f529ff.png"></article>]]></description>
-            <link>https://coinreport.net/bitcoin-now-available-australian-newsstands/</link>
-            <guid isPermaLink="false">4335b230-d220-4067-ba8c-5f64845626bf</guid>
-            <pubDate>Wed, 08 Jun 2016 01:01:17 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Understanding the Lightning Network, Part 2: Creating the Network]]></title>
             <description><![CDATA[<article><h1>Understanding the Lightning Network, Part 2: Creating the Network</h1><p>The Lightning Network is the probably most highly anticipated technological innovation to be deployed on top of Bitcoin. The payment layer, first proposed by Joseph Poon and Tadge Dryja about a year ago, promises to support a virtually unlimited number of off-chain transactions among users, at nearly no cost - while leveraging the security offered by Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57000ad2f6667bbca83b3bca0e186aca3ce721ee.jpg"></article>]]></description>
@@ -75,6 +47,34 @@
             <link>http://www.coindesk.com/russia-csd-blockchain-opportunity/</link>
             <guid isPermaLink="false">80cad111-26d3-43ff-88ba-f1a7ae3d006d</guid>
             <pubDate>Wed, 08 Jun 2016 01:01:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Monetary Authority of Singapore Proposes a Regulatory Sandbox for FinTech]]></title>
+            <description><![CDATA[<article><h1>Monetary Authority of Singapore Proposes a Regulatory Sandbox for FinTech</h1><p>The Monetary Authority of Singapore (MAS) released a consultation paper discussing several FinTech regulatory guidelines that will enable financial institutions (FIs) as well as non-financial players to experiment with financial technology (FinTech).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/424306a20286d5c8a6d699bd08b4dc239fe15af0.jpg"></article>]]></description>
+            <link>http://themerkle.com/monetary-authority-of-singapore-proposes-a-regulatory-sandbox-for-fintech/</link>
+            <guid isPermaLink="false">4356942d-1be6-4aea-bcf8-086f3d95ee52</guid>
+            <pubDate>Wed, 08 Jun 2016 01:01:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to get the Public Keys of a bitcoin User]]></title>
+            <description><![CDATA[<article><h1>How to get the Public Keys of a bitcoin User</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top You cannot compute the public key of an address (that is not yours), because the address is computed from the hash of the public key.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/44644/how-to-get-the-public-keys-of-a-bitcoin-user</link>
+            <guid isPermaLink="false">1f150a05-5560-4d56-84ba-a87aa2ae0e4b</guid>
+            <pubDate>Wed, 08 Jun 2016 01:01:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Revolution Banking 2016 Talks About the Blockchain Revolution - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Revolution Banking 2016 Talks About the Blockchain Revolution - NEWSBTC</h1><p>Many participants at the Revolution Banking 2016 event in Spain were interested in the Blockchain technology, which resulted in a lively discussion during the event Where is the blockchain heading? Whether the distributed ledger technology really has the potential to solve the issues currently faced by the banking and financial sector?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5680ba680df230b945f61e03fcc7c047b991f42.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/07/revolution-banking-2016-talks-blockchain-revolution/</link>
+            <guid isPermaLink="false">5b4bf3ba-9af4-4067-8e06-522946b8f911</guid>
+            <pubDate>Wed, 08 Jun 2016 01:01:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Foundaction for Economic Education Launches OpenBazaar Store]]></title>
+            <description><![CDATA[<article><h1>Foundaction for Economic Education Launches OpenBazaar Store</h1><p>The Foundation for Economic Education (FEE), a popular free-market think tank, announced on Facebook that it has set-up an Also read: Snowden: Anonymous 'Zcash' Could Solve Bitcoin Surveillance Risks OpenBazaar extension to its traditional online store.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bf917cf0c091c51899fa5d6029c4204c0c8f22f.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/fee-launches-new-openbazaar-store/</link>
+            <guid isPermaLink="false">d8552a04-34de-4759-8c1b-441b7edbc6b9</guid>
+            <pubDate>Wed, 08 Jun 2016 01:01:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
