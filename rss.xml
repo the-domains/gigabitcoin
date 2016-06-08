@@ -4,8 +4,36 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 20:56:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2016 20:56:50 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Team Captures RSA Keys With AM Radio and Cell Phone - Bitcoinist.net]]></title>
+            <description><![CDATA[<article><h1>Team Captures RSA Keys With AM Radio and Cell Phone - Bitcoinist.net</h1><p>Coil whine: it's not just a problem for PC gaming enthusiasts anymore. A recent paper outlines an attack vector for capturing RSA keys by analyzing the noises, RF variations, or electromagnetic changes produced from computers as they do intense computational tasks. Of particular note is their work capturing RSA keys with sound.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41b30e5871387ad7b242afb8fdcf2382f4d33236.png"></article>]]></description>
+            <link>http://bitcoinist.net/team-captures-rsa-keys-with-am-radio-and-cell-phone/</link>
+            <guid isPermaLink="false">c72d8404-1483-40ef-8267-ff9263b89d3b</guid>
+            <pubDate>Wed, 08 Jun 2016 20:56:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is the most expensive Bitcoin purchase ever made?]]></title>
+            <description><![CDATA[<article><h1>What is the most expensive Bitcoin purchase ever made?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Relying only on publicly disclosed data, what is the most expensive Bitcoin purchase that has ever occurred?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/45703/what-is-the-most-expensive-bitcoin-purchase-ever-made</link>
+            <guid isPermaLink="false">b28194ce-34e5-43c5-8c30-8b3d9a8e3128</guid>
+            <pubDate>Wed, 08 Jun 2016 20:56:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Future of Bitcoin: Early Pioneers of Bitcoin Erik Voorheers and Roger Ver in Liberty Entrepreneurs Podcast]]></title>
+            <description><![CDATA[<article><h1>The Future of Bitcoin: Early Pioneers of Bitcoin Erik Voorheers and Roger Ver in Liberty Entrepreneurs Podcast</h1><p>Two of the very early pioneers of Bitcoin who have founded and funded a lot of startups within the cryptocurrency ecosystem, Erik Voorhees and Roger Ver, sit side by side to discuss the problems of Bitcoin and what the future holds for the cryptocurrency. Among the problems of Bitcoin, scaling and recognition seems to be prominent.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b04139e178e9771d105c7ee6e196c000893d4815.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/the-future-of-bitcoin-early-pioneers-of-bitcoin-erik-voorheers-and-roger-ver-in-liberty-entrepreneurs-podcast</link>
+            <guid isPermaLink="false">3f990320-73ed-45b1-86c0-cce72ad58d13</guid>
+            <pubDate>Wed, 08 Jun 2016 20:56:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Reattempting $600?]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Reattempting $600?</h1><p>Bitcoin price has pulled out of its downward correction but is now in a twilight zone between the advance high and a potential trend breakdown. How now? Let the market show the way. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c84a10a68cc506a0b47d2ba0781a58801f39656.png"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-price-reattempting-600/</link>
+            <guid isPermaLink="false">2c0876ae-07f6-4b04-b2b4-66a6891997cb</guid>
+            <pubDate>Wed, 08 Jun 2016 20:56:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What is the average income of bitcoin miner?]]></title>
             <description><![CDATA[<article><h1>What is the average income of bitcoin miner?</h1><p>Answer: "A miner" is not a very detailed notion. Assuming you are talking about a bunch of servers, your "universal" unit would be bitcoins earned per number of hashes computed per second (your hash rate). The number of hashes is currently counted in Peta (so Petahashes which is over 10^15) and ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
@@ -47,34 +75,6 @@
             <link>https://news.bitcoin.com/bitcoin-markets-black-gray-white-red/</link>
             <guid isPermaLink="false">e29a8280-3d1c-49d5-8f10-43ca8903f2e9</guid>
             <pubDate>Wed, 08 Jun 2016 20:56:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Compact Block Relay Improve Propagation Times Bitcoin Network]]></title>
-            <description><![CDATA[<article><h1>Compact Block Relay Improve Propagation Times Bitcoin Network</h1><p>Bitcoin Core, the open source project which maintains and releases Bitcoin client software, has fully embraced BIP152, a new upgrade that will reduce the amount of bandwidth used to propagate new blocks to full nodes. This will decrease the amount of time it takes for a block to propagate across the entire Bitcoin network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d655c96160893ea1455b74ba693881277c7a0a8.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/07/compact-block-relay-technique-improve-propagation-times-bitcoin-network/</link>
-            <guid isPermaLink="false">0b7ec160-c891-4809-b6f9-f17db7ade5da</guid>
-            <pubDate>Wed, 08 Jun 2016 14:14:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[White Hat Hacker Saved Uber From Login Bypass Exploit]]></title>
-            <description><![CDATA[<article><h1>White Hat Hacker Saved Uber From Login Bypass Exploit</h1><p>As it turns out, no company is safe from exploits or vulnerabilities. Not even Uber, who paid a researcher US$10,000, to not reveal his login bypass exploit. Such a vulnerability could effectively cripple the service if the information got into the wrong hands. The security vulnerability would have had some nasty effects on the network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5b0d9e3e2bbdaf65147d7c23649ba4925e4bbba.jpg"></article>]]></description>
-            <link>http://themerkle.com/white-hat-hacker-saved-uber-from-login-bypass-exploit/</link>
-            <guid isPermaLink="false">4c12ab9b-2206-4c0e-9f5a-3749bbf1530b</guid>
-            <pubDate>Wed, 08 Jun 2016 14:14:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Straddling The Trade - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Straddling The Trade - NEWSBTC</h1><p>Here's what we are focusing on for this morning's session in the bitcoin price. We're heading into the middle of the week, and action so far has given us plenty to go at.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34f092b33b918abef6a2ee3c03228aafe4627e3d.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/08/bitcoin-price-watch-straddling-trade/</link>
-            <guid isPermaLink="false">afb12725-ab0f-4232-8ea5-c1a097871f49</guid>
-            <pubDate>Wed, 08 Jun 2016 14:14:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Further Economic Woes In Turkey Create Bitcoin Opportunities]]></title>
-            <description><![CDATA[<article><h1>Further Economic Woes In Turkey Create Bitcoin Opportunities</h1><p>Financial trouble continues to brew in Turkey, as the economy minister was not overly confident when discussing the situation in the country. The central bank is expected to continue cutting its lending rate. Now that PayPal has also left the scene in Turkey, Bitcoin can start gaining popularity in the region.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4dfd5f79fa27ac389aea7b9f1279350afc64aed1.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/further-economic-woes-turkey-bitcoin/</link>
-            <guid isPermaLink="false">e77436f0-25da-42b1-b8f2-732446116fba</guid>
-            <pubDate>Wed, 08 Jun 2016 14:14:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
