@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 07:27:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2016 07:27:34 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why do compiled binaries still require libdb, BerkeleyDB, and others?]]></title>
+            <description><![CDATA[<article><h1>Why do compiled binaries still require libdb, BerkeleyDB, and others?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top I compiled Bitcoin Core on one Raspberry Pi from source after installing all the necessary dependencies including all the libboost's and BerkeleyDB.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/44634/why-do-compiled-binaries-still-require-libdb-berkeleydb-and-others</link>
+            <guid isPermaLink="false">0189730d-49f2-4c7b-ab8b-c47b35504dbe</guid>
+            <pubDate>Wed, 08 Jun 2016 07:26:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gatecoin Is Still Securing Funding To Reimburse Clients]]></title>
             <description><![CDATA[<article><h1>Gatecoin Is Still Securing Funding To Reimburse Clients</h1><p>Gatecoin, the regulated digital asset exchange, issued an email statement to all their customers, in the message, the company disclosed the latest news regarding their attempt to secure funding to cover the losses the company and its users suffered after a hack.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a07eb1a24f1b274f5c0a5b6a55d4e8f6e02d21fb.gif"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin now available at Australian newsstands</h1><p>Australians are now able to buy bitcoin at their local newsstands with cash, according to media reports. The technology was deployed last Thursday to approximately 1,200 newsagents across the count...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db2c849df92247f56c5393cf83dd4e0e85f529ff.png"></article>]]></description>
             <link>https://coinreport.net/bitcoin-now-available-australian-newsstands/</link>
             <guid isPermaLink="false">4335b230-d220-4067-ba8c-5f64845626bf</guid>
-            <pubDate>Wed, 08 Jun 2016 01:01:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Understanding the Lightning Network, Part 2: Creating the Network]]></title>
-            <description><![CDATA[<article><h1>Understanding the Lightning Network, Part 2: Creating the Network</h1><p>The Lightning Network is the probably most highly anticipated technological innovation to be deployed on top of Bitcoin. The payment layer, first proposed by Joseph Poon and Tadge Dryja about a year ago, promises to support a virtually unlimited number of off-chain transactions among users, at nearly no cost - while leveraging the security offered by Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57000ad2f6667bbca83b3bca0e186aca3ce721ee.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/understanding-the-lightning-network-part-creating-the-network-1465326903</link>
-            <guid isPermaLink="false">13a36dca-56d5-4132-90f5-f9695c12f9be</guid>
             <pubDate>Wed, 08 Jun 2016 01:01:17 GMT</pubDate>
         </item>
     </channel>
