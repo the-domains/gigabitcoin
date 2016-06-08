@@ -4,8 +4,43 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 01:01:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2016 01:01:59 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin now available at Australian newsstands]]></title>
+            <description><![CDATA[<article><h1>Bitcoin now available at Australian newsstands</h1><p>Australians are now able to buy bitcoin at their local newsstands with cash, according to media reports. The technology was deployed last Thursday to approximately 1,200 newsagents across the count...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db2c849df92247f56c5393cf83dd4e0e85f529ff.png"></article>]]></description>
+            <link>https://coinreport.net/bitcoin-now-available-australian-newsstands/</link>
+            <guid isPermaLink="false">4335b230-d220-4067-ba8c-5f64845626bf</guid>
+            <pubDate>Wed, 08 Jun 2016 01:01:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Understanding the Lightning Network, Part 2: Creating the Network]]></title>
+            <description><![CDATA[<article><h1>Understanding the Lightning Network, Part 2: Creating the Network</h1><p>The Lightning Network is the probably most highly anticipated technological innovation to be deployed on top of Bitcoin. The payment layer, first proposed by Joseph Poon and Tadge Dryja about a year ago, promises to support a virtually unlimited number of off-chain transactions among users, at nearly no cost - while leveraging the security offered by Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57000ad2f6667bbca83b3bca0e186aca3ce721ee.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/understanding-the-lightning-network-part-creating-the-network-1465326903</link>
+            <guid isPermaLink="false">13a36dca-56d5-4132-90f5-f9695c12f9be</guid>
+            <pubDate>Wed, 08 Jun 2016 01:01:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the characteristics of Litecoin, Dogecoin, Goldcoin and Ethereum. They are deflactionary or inflationary? Which of them is faster?]]></title>
+            <description><![CDATA[<article><h1>What are the characteristics of Litecoin, Dogecoin, Goldcoin and Ethereum. They are deflactionary or inflationary? Which of them is faster?</h1><p>2 people want answers to this question. Be the first to answer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/What-are-the-characteristics-of-Litecoin-Dogecoin-Goldcoin-and-Ethereum-They-are-deflactionary-or-inflationary-Which-of-them-is-faster</link>
+            <guid isPermaLink="false">df37104e-4610-4152-bb62-80bf6298ad58</guid>
+            <pubDate>Wed, 08 Jun 2016 01:01:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can confirmation time of bitcoin be reduced?]]></title>
+            <description><![CDATA[<article><h1>Can confirmation time of bitcoin be reduced?</h1><p>Answer (1 of 3): Theoretically it could be reduced to a few seconds, practically though it should stay at 10 minutes for now. Blockchain is a P2P technology. It takes time to propagate new blocks and sync existing versions of the blockchain. Taking into account that most of the mining power comes...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/Can-confirmation-time-of-bitcoin-be-reduced</link>
+            <guid isPermaLink="false">02e51c8a-2238-46a2-94fe-2eb4a38bde45</guid>
+            <pubDate>Wed, 08 Jun 2016 01:01:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is it worth buying a bitcoin?]]></title>
+            <description><![CDATA[<article><h1>Is it worth buying a bitcoin?</h1><p>Answer (1 of 2): It is the safest way to buy things on the web IF, the seller will accept them at a fair exchange rate. Much safer than giving your credit card number to an unknown seller. Much safer than giving your credit card number to PayPal, in case of a draw on your account that requires be...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/Is-it-worth-buying-a-bitcoin</link>
+            <guid isPermaLink="false">5284e973-8372-4ff0-ac3a-a31776b3f368</guid>
+            <pubDate>Wed, 08 Jun 2016 01:01:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Capgemini and Ascribe Build Blockchain Project for Banking Loyalty Rewards]]></title>
             <description><![CDATA[<article><h1>Capgemini and Ascribe Build Blockchain Project for Banking Loyalty Rewards</h1><p>Capgemini has partnered with Ascribe to create a blockchain database solution built on BigchainDB. The consulting, technology and outsourcing services provider operates in more than 40 countries and employes around 180,000 people worldwide In a bid to continually improve its consulting services, it seems as though Capgemini has caught the blockchain bug.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ecb59131563f7aaeb13b612933606311e38cc34.jpg"></article>]]></description>
@@ -40,41 +75,6 @@
             <link>http://www.newsbtc.com/2016/06/07/revolution-banking-2016-talks-blockchain-revolution/</link>
             <guid isPermaLink="false">5b4bf3ba-9af4-4067-8e06-522946b8f911</guid>
             <pubDate>Wed, 08 Jun 2016 01:01:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Foundaction for Economic Education Launches OpenBazaar Store]]></title>
-            <description><![CDATA[<article><h1>Foundaction for Economic Education Launches OpenBazaar Store</h1><p>The Foundation for Economic Education (FEE), a popular free-market think tank, announced on Facebook that it has set-up an Also read: Snowden: Anonymous 'Zcash' Could Solve Bitcoin Surveillance Risks OpenBazaar extension to its traditional online store.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bf917cf0c091c51899fa5d6029c4204c0c8f22f.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/fee-launches-new-openbazaar-store/</link>
-            <guid isPermaLink="false">d8552a04-34de-4759-8c1b-441b7edbc6b9</guid>
-            <pubDate>Wed, 08 Jun 2016 01:01:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cryptocurrency exchange Gemini going international with launch in Canada]]></title>
-            <description><![CDATA[<article><h1>Cryptocurrency exchange Gemini going international with launch in Canada</h1><p>Gemini, the New York-based cryptocurrency exchange run by entrepreneurial brothers Cameron and Tyler Winklevoss, has opened for business in Canada. The expansion is just the start of Gemini's globa...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0909f4fb9d065f895da14b634ee06d6b90d8192.png"></article>]]></description>
-            <link>https://coinreport.net/cryptocurrency-exchange-gemini-going-international-launch-canada/</link>
-            <guid isPermaLink="false">f947cfbb-5d6a-4e31-b6ad-20e0f4f9cf5a</guid>
-            <pubDate>Wed, 08 Jun 2016 01:01:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Silk Road 2.0 Admin Gets an 8-Year Prison Sentence]]></title>
-            <description><![CDATA[<article><h1>Silk Road 2.0 Admin Gets an 8-Year Prison Sentence</h1><p>28-year-old Brian Farrell aka "DoctorClu", a senior admin and second-in-command on Silk Road 2.0, the copycat clone of the original underground darknet website Silk Road was sentenced to eight years in prison.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b44d72d148a506519f2a9e644f6cd46a4d56c159.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/silk-road-2-0-admin-gets-8-year-prison-sentence/</link>
-            <guid isPermaLink="false">0044b41c-7b31-454d-a5b8-bfdb126a80b4</guid>
-            <pubDate>Tue, 07 Jun 2016 19:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Swirlds Addresses Blockchain Limitations With Hashgraph]]></title>
-            <description><![CDATA[<article><h1>Swirlds Addresses Blockchain Limitations With Hashgraph</h1><p>Swirlds is a startup claiming to solve the limitations of blockchain technology, while harnessing the power of the cloud without servers. Ping Identity has announced their seed investment in this company, to leverage the power of blockchain without limits. Also read: Industry Report: Is Security in the Finance Sector Too Weak?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c6a922b7972875176a82f261e1af85b2c6536a2.png"></article>]]></description>
-            <link>http://bitcoinist.net/swirlds-blockchain-limitations-hashgraph/</link>
-            <guid isPermaLink="false">291f4f65-d11e-449d-a8d2-afeee688aab6</guid>
-            <pubDate>Tue, 07 Jun 2016 19:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mt Gox Users Beware, Else Lose your Bitcoins Again to a new Malware - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Mt Gox Users Beware, Else Lose your Bitcoins Again to a new Malware - NEWSBTC</h1><p>Investors in Mt Gox have now become targets of an elaborate phishing scam where they are sent malware-laden emails which can empty their offline bitcoin wallets. There is no end to the woes of Mt Gox victims. At the time when things are looking a bit promising to a handful of those who lost their bitcoins with the collapse of Mt Gox, there is a new problem facing them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6bbfefc7e629d2db3518a73709872505a8123de.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/07/mt-gox-users-beware-else-lose-bitcoins-new-malware/</link>
-            <guid isPermaLink="false">3b341283-e91c-4caf-81c9-51126ce49734</guid>
-            <pubDate>Tue, 07 Jun 2016 19:25:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
