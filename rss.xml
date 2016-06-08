@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 01:01:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2016 01:01:27 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[How to get the Public Keys of a bitcoin User]]></title>
-            <description><![CDATA[<article><h1>How to get the Public Keys of a bitcoin User</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top You cannot compute the public key of an address (that is not yours), because the address is computed from the hash of the public key.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/44644/how-to-get-the-public-keys-of-a-bitcoin-user</link>
-            <guid isPermaLink="false">1f150a05-5560-4d56-84ba-a87aa2ae0e4b</guid>
-            <pubDate>Wed, 08 Jun 2016 01:01:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Revolution Banking 2016 Talks About the Blockchain Revolution - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Revolution Banking 2016 Talks About the Blockchain Revolution - NEWSBTC</h1><p>Many participants at the Revolution Banking 2016 event in Spain were interested in the Blockchain technology, which resulted in a lively discussion during the event Where is the blockchain heading? Whether the distributed ledger technology really has the potential to solve the issues currently faced by the banking and financial sector?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5680ba680df230b945f61e03fcc7c047b991f42.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/07/revolution-banking-2016-talks-blockchain-revolution/</link>
-            <guid isPermaLink="false">5b4bf3ba-9af4-4067-8e06-522946b8f911</guid>
-            <pubDate>Wed, 08 Jun 2016 01:01:15 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Foundaction for Economic Education Launches OpenBazaar Store]]></title>
             <description><![CDATA[<article><h1>Foundaction for Economic Education Launches OpenBazaar Store</h1><p>The Foundation for Economic Education (FEE), a popular free-market think tank, announced on Facebook that it has set-up an Also read: Snowden: Anonymous 'Zcash' Could Solve Bitcoin Surveillance Risks OpenBazaar extension to its traditional online store.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bf917cf0c091c51899fa5d6029c4204c0c8f22f.jpg"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>Bitcoin Price Watch; Downside Break!</h1><p>Here's what we are focusing on for this evening's session in the bitcoin price. Markets are about to draw to a close in Europe for this Tuesday session, and it is time to conduct the second of our twice daily bitcoin price market analyses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2fb066d3880228007a92b3c1e32db01c6449850.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/06/07/bitcoin-price-watch-downside-break/</link>
             <guid isPermaLink="false">c9d08763-426a-44d9-b26b-3273dfda961a</guid>
+            <pubDate>Tue, 07 Jun 2016 19:25:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Better at Being Gold Than Gold, Winklevoss Twins Say]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Better at Being Gold Than Gold, Winklevoss Twins Say</h1><p>The Winklevoss Twins have described Bitcoin as better than gold because it experiences 'a lot less volatility' and is a better store of value at the moment. They cited a Wall Street Journal story in May which described how the virtual currency has been more stable than gold over the last 28 days.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f4b2546a93f2bc95c43e151f7d14d83c150b482.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/bitcoin-better-at-being-gold-than-gold-winklevoss-twins-say</link>
+            <guid isPermaLink="false">77c64c4e-3b40-46dd-8f1c-0b27a85aef43</guid>
+            <pubDate>Tue, 07 Jun 2016 19:25:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UAE Telecom Giant Du Sees 'Infinite' Potential for Blockchain - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>UAE Telecom Giant Du Sees 'Infinite' Potential for Blockchain - CoinDesk</h1><p>If the Technicolor lobby at Du's Dubai headquarters is a showcase of the latest and greatest in mobile tech, the registration desk for visitors provides a starkly different experience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/256cff4a170ae16ea2fa263780458d6d8be12357.png"></article>]]></description>
+            <link>http://www.coindesk.com/dubai-uae-teleco-blockchain-healthcare/</link>
+            <guid isPermaLink="false">6208bdb3-bde4-4046-8e78-16c7dab93584</guid>
             <pubDate>Tue, 07 Jun 2016 19:25:21 GMT</pubDate>
         </item>
     </channel>
