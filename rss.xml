@@ -4,8 +4,43 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 01:01:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2016 01:01:59 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin's Compact Block Relay is an Upgrade to Reduce Block's Propagation Times - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin's Compact Block Relay is an Upgrade to Reduce Block's Propagation Times - NEWSBTC</h1><p>Bitcoin Core has published an FAQ section regarding the most recent Bitcoin Improvement Proposal (BIP), we are talking about the BIP 152 named Compact Block Relay, the upgrade is poised to reduce the bandwidth and the time it takes for a block to propagate through the nodes across Bitcoin's network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d655c96160893ea1455b74ba693881277c7a0a8.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/07/compact-block-relay-technique-improve-propagation-times-bitcoins-network/</link>
+            <guid isPermaLink="false">e8937e97-4199-4047-8044-27164c937909</guid>
+            <pubDate>Wed, 08 Jun 2016 01:01:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wall Street Blockchain Alliance Launches Educational Platform for Financial Markets]]></title>
+            <description><![CDATA[<article><h1>Wall Street Blockchain Alliance Launches Educational Platform for Financial Markets</h1><p>New York-based blockchain advocacy group the Wall Street Blockchain Alliance (WSBA) recently announced the unveiling of the WSBA Certification Framework (WCF) in partnership with Positrust LLC, a blockchain technology company. Speaking to Bitcoin Magazine, WSBA Chairman Ron Quaranta said that the WCF will serve as a platform to educate and increase the availability of distributed ledger technology (DLT) or blockchain expertise and talent in financial markets.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b89acc4e79801e7ea9250d4b41a3b7622b01f6f.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/wall-street-blockchain-alliance-launches-educational-platform-for-financial-markets-1465326363</link>
+            <guid isPermaLink="false">f68eeccb-5331-4bf9-8339-b00fb81faf68</guid>
+            <pubDate>Wed, 08 Jun 2016 01:01:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin now available at Australian newsstands]]></title>
+            <description><![CDATA[<article><h1>Bitcoin now available at Australian newsstands</h1><p>Australians are now able to buy bitcoin at their local newsstands with cash, according to media reports. The technology was deployed last Thursday to approximately 1,200 newsagents across the count...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db2c849df92247f56c5393cf83dd4e0e85f529ff.png"></article>]]></description>
+            <link>https://coinreport.net/bitcoin-now-available-australian-newsstands/</link>
+            <guid isPermaLink="false">4335b230-d220-4067-ba8c-5f64845626bf</guid>
+            <pubDate>Wed, 08 Jun 2016 01:01:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Understanding the Lightning Network, Part 2: Creating the Network]]></title>
+            <description><![CDATA[<article><h1>Understanding the Lightning Network, Part 2: Creating the Network</h1><p>The Lightning Network is the probably most highly anticipated technological innovation to be deployed on top of Bitcoin. The payment layer, first proposed by Joseph Poon and Tadge Dryja about a year ago, promises to support a virtually unlimited number of off-chain transactions among users, at nearly no cost - while leveraging the security offered by Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57000ad2f6667bbca83b3bca0e186aca3ce721ee.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/understanding-the-lightning-network-part-creating-the-network-1465326903</link>
+            <guid isPermaLink="false">13a36dca-56d5-4132-90f5-f9695c12f9be</guid>
+            <pubDate>Wed, 08 Jun 2016 01:01:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the characteristics of Litecoin, Dogecoin, Goldcoin and Ethereum. They are deflactionary or inflationary? Which of them is faster?]]></title>
+            <description><![CDATA[<article><h1>What are the characteristics of Litecoin, Dogecoin, Goldcoin and Ethereum. They are deflactionary or inflationary? Which of them is faster?</h1><p>2 people want answers to this question. Be the first to answer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/What-are-the-characteristics-of-Litecoin-Dogecoin-Goldcoin-and-Ethereum-They-are-deflactionary-or-inflationary-Which-of-them-is-faster</link>
+            <guid isPermaLink="false">df37104e-4610-4152-bb62-80bf6298ad58</guid>
+            <pubDate>Wed, 08 Jun 2016 01:01:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Can confirmation time of bitcoin be reduced?]]></title>
             <description><![CDATA[<article><h1>Can confirmation time of bitcoin be reduced?</h1><p>Answer (1 of 3): Theoretically it could be reduced to a few seconds, practically though it should stay at 10 minutes for now. Blockchain is a P2P technology. It takes time to propagate new blocks and sync existing versions of the blockchain. Taking into account that most of the mining power comes...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
@@ -40,41 +75,6 @@
             <link>http://themerkle.com/monetary-authority-of-singapore-proposes-a-regulatory-sandbox-for-fintech/</link>
             <guid isPermaLink="false">4356942d-1be6-4aea-bcf8-086f3d95ee52</guid>
             <pubDate>Wed, 08 Jun 2016 01:01:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to get the Public Keys of a bitcoin User]]></title>
-            <description><![CDATA[<article><h1>How to get the Public Keys of a bitcoin User</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top You cannot compute the public key of an address (that is not yours), because the address is computed from the hash of the public key.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/44644/how-to-get-the-public-keys-of-a-bitcoin-user</link>
-            <guid isPermaLink="false">1f150a05-5560-4d56-84ba-a87aa2ae0e4b</guid>
-            <pubDate>Wed, 08 Jun 2016 01:01:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Revolution Banking 2016 Talks About the Blockchain Revolution - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Revolution Banking 2016 Talks About the Blockchain Revolution - NEWSBTC</h1><p>Many participants at the Revolution Banking 2016 event in Spain were interested in the Blockchain technology, which resulted in a lively discussion during the event Where is the blockchain heading? Whether the distributed ledger technology really has the potential to solve the issues currently faced by the banking and financial sector?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5680ba680df230b945f61e03fcc7c047b991f42.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/07/revolution-banking-2016-talks-blockchain-revolution/</link>
-            <guid isPermaLink="false">5b4bf3ba-9af4-4067-8e06-522946b8f911</guid>
-            <pubDate>Wed, 08 Jun 2016 01:01:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Foundaction for Economic Education Launches OpenBazaar Store]]></title>
-            <description><![CDATA[<article><h1>Foundaction for Economic Education Launches OpenBazaar Store</h1><p>The Foundation for Economic Education (FEE), a popular free-market think tank, announced on Facebook that it has set-up an Also read: Snowden: Anonymous 'Zcash' Could Solve Bitcoin Surveillance Risks OpenBazaar extension to its traditional online store.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bf917cf0c091c51899fa5d6029c4204c0c8f22f.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/fee-launches-new-openbazaar-store/</link>
-            <guid isPermaLink="false">d8552a04-34de-4759-8c1b-441b7edbc6b9</guid>
-            <pubDate>Wed, 08 Jun 2016 01:01:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cryptocurrency exchange Gemini going international with launch in Canada]]></title>
-            <description><![CDATA[<article><h1>Cryptocurrency exchange Gemini going international with launch in Canada</h1><p>Gemini, the New York-based cryptocurrency exchange run by entrepreneurial brothers Cameron and Tyler Winklevoss, has opened for business in Canada. The expansion is just the start of Gemini's globa...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0909f4fb9d065f895da14b634ee06d6b90d8192.png"></article>]]></description>
-            <link>https://coinreport.net/cryptocurrency-exchange-gemini-going-international-launch-canada/</link>
-            <guid isPermaLink="false">f947cfbb-5d6a-4e31-b6ad-20e0f4f9cf5a</guid>
-            <pubDate>Wed, 08 Jun 2016 01:01:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Silk Road 2.0 Admin Gets an 8-Year Prison Sentence]]></title>
-            <description><![CDATA[<article><h1>Silk Road 2.0 Admin Gets an 8-Year Prison Sentence</h1><p>28-year-old Brian Farrell aka "DoctorClu", a senior admin and second-in-command on Silk Road 2.0, the copycat clone of the original underground darknet website Silk Road was sentenced to eight years in prison.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b44d72d148a506519f2a9e644f6cd46a4d56c159.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/silk-road-2-0-admin-gets-8-year-prison-sentence/</link>
-            <guid isPermaLink="false">0044b41c-7b31-454d-a5b8-bfdb126a80b4</guid>
-            <pubDate>Tue, 07 Jun 2016 19:25:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
