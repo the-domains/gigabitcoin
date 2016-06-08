@@ -4,77 +4,77 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 14:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2016 20:56:18 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[National Front calls for ban on Bitcoin]]></title>
-            <description><![CDATA[<article><h1>National Front calls for ban on Bitcoin</h1><p>The National Front wants to preserve cash and ban Bitcoin, which it sees as an unsafe form of payment. The EU has yet to legislate on the subject. EurActiv France reports. In its economic policy, the extreme-right National Front (NF) is often radical and unconventional.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c49eabb9ffb7436f235406181b8a764d80dc4dc7.jpg"></article>]]></description>
-            <link>http://www.euractiv.com/section/euro-finance/news/national-front-calls-for-ban-on-bitcoin/</link>
-            <guid isPermaLink="false">8b45b133-178f-4371-80c8-aea121ba36d4</guid>
+            <title><![CDATA[PayPal Stops Operating in Turkey, Online Payment Sector Turns to Bitcoin]]></title>
+            <description><![CDATA[<article><h1>PayPal Stops Operating in Turkey, Online Payment Sector Turns to Bitcoin</h1><p>With Turkey residents losing a convenient option for sending and receiving payments online, the country's online payment sector is gradually yielding to a free control market with the uptake in Bitcoin use. PayPal no longer operates in Turkey after June 6 following the non-approval of its license by the Banking Regulation and Supervision Agency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fbb844bed5c967687c09855c924cd0d03786f0f.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/paypal-stops-operating-in-turkey-online-payment-sector-turns-to-bitcoin</link>
+            <guid isPermaLink="false">2890e2e0-c042-468b-82ad-d404fc33a2e4</guid>
+            <pubDate>Wed, 08 Jun 2016 20:56:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Realtor-Backed Incubator Invests in Ethereum Identity Startup - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Realtor-Backed Incubator Invests in Ethereum Identity Startup - CoinDesk</h1><p>A startup seeking to use the Ethereum blockchain and artificial intelligence to create an identity authentication system has been accepted into REach, an incubator backed by the investment arm of the National Association of Realtors (NAR).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc6182f3a062723ec906702e4b8e8d2c24546167.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/realtor-incubator-ethereum-startup/</link>
+            <guid isPermaLink="false">b76f3822-7934-4875-9de6-20b4174f8349</guid>
+            <pubDate>Wed, 08 Jun 2016 20:56:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Markets: Black and Gray, White and Red]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Markets: Black and Gray, White and Red</h1><p>The markets context of cryptocurrencies is changing in what may seem like a subtle manner but has real political consequences. One question is the pivot point. Should Bitcoin maintain the pseudonymity that offers privacy or should government identify users through such measures as imposing Know Your Customer (KYC) requirements on exchanges?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c4e085dafeb1a18f5863280dbe3a73f978fa25f.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/bitcoin-markets-black-gray-white-red/</link>
+            <guid isPermaLink="false">e29a8280-3d1c-49d5-8f10-43ca8903f2e9</guid>
+            <pubDate>Wed, 08 Jun 2016 20:56:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Compact Block Relay Improve Propagation Times Bitcoin Network]]></title>
+            <description><![CDATA[<article><h1>Compact Block Relay Improve Propagation Times Bitcoin Network</h1><p>Bitcoin Core, the open source project which maintains and releases Bitcoin client software, has fully embraced BIP152, a new upgrade that will reduce the amount of bandwidth used to propagate new blocks to full nodes. This will decrease the amount of time it takes for a block to propagate across the entire Bitcoin network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d655c96160893ea1455b74ba693881277c7a0a8.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/07/compact-block-relay-technique-improve-propagation-times-bitcoin-network/</link>
+            <guid isPermaLink="false">0b7ec160-c891-4809-b6f9-f17db7ade5da</guid>
             <pubDate>Wed, 08 Jun 2016 14:14:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA["Blockchain Watch": Manufactures Start Using Blockchain To Confirm Authenticity of Luxury Goods]]></title>
-            <description><![CDATA[<article><h1>"Blockchain Watch": Manufactures Start Using Blockchain To Confirm Authenticity of Luxury Goods</h1><p>A partnership that introduces the Blockchain technology into the manufacturing process of Raketa watches, making Raketa one of the the first companies in the world to record the production of physical goods in the Blockchain, has been instituted.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/077d4ff1eb65391facb99b11262056623dea6097.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/blockchain-watch-manufactures-start-using-blockchain-to-confirm-authenticity-of-luxury-goods</link>
-            <guid isPermaLink="false">8d6a401a-8272-403d-862b-9f8021d38747</guid>
+            <title><![CDATA[White Hat Hacker Saved Uber From Login Bypass Exploit]]></title>
+            <description><![CDATA[<article><h1>White Hat Hacker Saved Uber From Login Bypass Exploit</h1><p>As it turns out, no company is safe from exploits or vulnerabilities. Not even Uber, who paid a researcher US$10,000, to not reveal his login bypass exploit. Such a vulnerability could effectively cripple the service if the information got into the wrong hands. The security vulnerability would have had some nasty effects on the network.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5b0d9e3e2bbdaf65147d7c23649ba4925e4bbba.jpg"></article>]]></description>
+            <link>http://themerkle.com/white-hat-hacker-saved-uber-from-login-bypass-exploit/</link>
+            <guid isPermaLink="false">4c12ab9b-2206-4c0e-9f5a-3749bbf1530b</guid>
             <pubDate>Wed, 08 Jun 2016 14:14:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gemini exchange announces expansion to Canada]]></title>
-            <description><![CDATA[<article><h1>Gemini exchange announces expansion to Canada</h1><p>Since it has launched as an exchange, the Gemini platform has been constantly gaining more popularity alongside with a bigger community. Recent reports indicate that the exchange will soon expand its services over to Canada, hence marking the beginning of their international expansion goal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9dabb8b0a0cfcedc9418412b515cad48c437d255.jpg"></article>]]></description>
-            <link>http://themerkle.com/gemini-exchange-announces-expansion-to-canada/</link>
-            <guid isPermaLink="false">31f7fa6d-9620-4136-bd57-8de2d7079bf7</guid>
-            <pubDate>Wed, 08 Jun 2016 14:14:56 GMT</pubDate>
+            <title><![CDATA[Bitcoin Price Watch; Straddling The Trade - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Watch; Straddling The Trade - NEWSBTC</h1><p>Here's what we are focusing on for this morning's session in the bitcoin price. We're heading into the middle of the week, and action so far has given us plenty to go at.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34f092b33b918abef6a2ee3c03228aafe4627e3d.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/08/bitcoin-price-watch-straddling-trade/</link>
+            <guid isPermaLink="false">afb12725-ab0f-4232-8ea5-c1a097871f49</guid>
+            <pubDate>Wed, 08 Jun 2016 14:14:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bitcoin and Crime]]></title>
-            <description><![CDATA[<article><h1>Bitcoin and Crime</h1><p>If you follow the cryptocurrency news, you would hardly feel any surprise when you read yet another statement that bitcoin regulation is mostly reasoned by the fact that it is prone to money laundering and terrorism financing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e3099d47c28d3ebe2d46db4577aec2d04bacd4f.png"></article>]]></description>
-            <link>http://forklog.net/bitcoin-and-crime/</link>
-            <guid isPermaLink="false">2ee5bc7c-1e29-444b-a971-7c467e823b03</guid>
-            <pubDate>Wed, 08 Jun 2016 14:14:56 GMT</pubDate>
+            <title><![CDATA[Further Economic Woes In Turkey Create Bitcoin Opportunities]]></title>
+            <description><![CDATA[<article><h1>Further Economic Woes In Turkey Create Bitcoin Opportunities</h1><p>Financial trouble continues to brew in Turkey, as the economy minister was not overly confident when discussing the situation in the country. The central bank is expected to continue cutting its lending rate. Now that PayPal has also left the scene in Turkey, Bitcoin can start gaining popularity in the region.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4dfd5f79fa27ac389aea7b9f1279350afc64aed1.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/further-economic-woes-turkey-bitcoin/</link>
+            <guid isPermaLink="false">e77436f0-25da-42b1-b8f2-732446116fba</guid>
+            <pubDate>Wed, 08 Jun 2016 14:14:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What actually is Bitcoin and can one encash it?]]></title>
-            <description><![CDATA[<article><h1>What actually is Bitcoin and can one encash it?</h1><p>Answer (1 of 3): Bitcoin is a virtual currency and payment method which was invented by a mysterious figure, Satoshi Nakamoto. Bitcoin is truly decentralized, open-source and uses the concept of Peer-to-Peer exchange. This means that users can exchange bitcoins and make transactions without any c...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/What-actually-is-Bitcoin-and-can-one-encash-it</link>
-            <guid isPermaLink="false">fd65ef4a-5128-41d1-bf29-7dad4161065a</guid>
-            <pubDate>Wed, 08 Jun 2016 14:14:56 GMT</pubDate>
+            <title><![CDATA[Brief Bitcoin Price Dip Followed By Another Upward Trend]]></title>
+            <description><![CDATA[<article><h1>Brief Bitcoin Price Dip Followed By Another Upward Trend</h1><p>The Bitcoin price has started to dip again slightly, although the big crash some people expected has not occurred. It is normal to see some price corrections now and then, and looking back at the charts, things are slowly starting to recover again.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04fc133e1aa2e75396dabffa64f3e0e6ac139f7f.jpg"></article>]]></description>
+            <link>http://themerkle.com/brief-bitcoin-price-dip-followed-by-another-upward-trend/</link>
+            <guid isPermaLink="false">83e42f29-022e-441f-9150-16653675042f</guid>
+            <pubDate>Wed, 08 Jun 2016 14:14:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why write code on Ethereum platform, can't others simply copy it?]]></title>
-            <description><![CDATA[<article><h1>Why write code on Ethereum platform, can't others simply copy it?</h1><p>Answer: Yes they can copy it. Yet, if you don't release it under an open source license you are automatically protected under the copy right laws of most juristictions. Your business model should never presume that your smart contract code will not be copied. For example Slock.it will create an ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/Why-write-code-on-Ethereum-platform-cant-others-simply-copy-it</link>
-            <guid isPermaLink="false">157b40f4-17e6-425f-8c7a-4851cfe4c7e8</guid>
-            <pubDate>Wed, 08 Jun 2016 14:14:56 GMT</pubDate>
+            <title><![CDATA[Major Hong Kong Daily Pins Bitcoin as China's "New Darling"]]></title>
+            <description><![CDATA[<article><h1>Major Hong Kong Daily Pins Bitcoin as China's "New Darling"</h1><p>In an article published today, a writer for the South China Morning Post - Hong Kong's newspaper of record and the leading English-language newspaper in the country - explores why bitcoin is finding favor among investors in China.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b72949e414c736be2cd9f1aeb76896221cf226c1.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/major-hong-kong-daily-pins-bitcoin-chinas-new-darling/</link>
+            <guid isPermaLink="false">0a25766c-1a88-4c63-8f89-c8c1c250816d</guid>
+            <pubDate>Wed, 08 Jun 2016 14:14:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MIT Media Lab Uses the Bitcoin Blockchain to Issue Academic Certificates]]></title>
-            <description><![CDATA[<article><h1>MIT Media Lab Uses the Bitcoin Blockchain to Issue Academic Certificates</h1><p>Members of the MIT Media Lab have related in a Medium post what they have learned from designing a system for issuing academic certificates using bitcoin blockchain technology. The team released version 1 of its code under its open source license to allow others to experiment with similar ideas.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4a690327beb62a6a57092094194b0a0c98998a0.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/mit-media-lab-uses-the-bitcoin-blockchain-to-issue-academic-certificates/</link>
-            <guid isPermaLink="false">88f0a6b5-8b60-4904-89b5-ad8601ec7af5</guid>
-            <pubDate>Wed, 08 Jun 2016 14:14:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Better at Being Gold Than Gold, Winklevoss Twins Say]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Better at Being Gold Than Gold, Winklevoss Twins Say</h1><p>The Winklevoss Twins have described Bitcoin as better than gold because it experiences 'a lot less volatility' and is a better store of value at the moment. They cited a Wall Street Journal story in May which described how the virtual currency has been more stable than gold over the last 28 days.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f4b2546a93f2bc95c43e151f7d14d83c150b482.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/bitcoin-better-at-being-gold-than-gold-winklevoss-twins-say</link>
-            <guid isPermaLink="false">4fc712c8-31b4-476b-ae3f-2d67c4f53dfb</guid>
-            <pubDate>Wed, 08 Jun 2016 14:14:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Decentralized Marketplace Social Kapital Aims At Longest Crowdsale Ever]]></title>
-            <description><![CDATA[<article><h1>Decentralized Marketplace Social Kapital Aims At Longest Crowdsale Ever</h1><p>Cointelegraph spoke with Sirus Knight, one of the experts at the core of Social Kapital, a decentralized VC fund and business idea marketplace similar to The DAO. On June 20th it launches a crowdsale campaign. Whilst The DAO wants to achieve the complete automation of the Blockchain, Social Kapital places more emphasis on using the Ethereum to power its community and governance committees.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf8a41279c12735bd922c5f26cda8494b1a532f3.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/decentralized-marketplace-social-kapital-aims-at-longest-crowdsale-ever</link>
-            <guid isPermaLink="false">b8f3893d-dc1c-4688-aab9-7791bee80d58</guid>
-            <pubDate>Wed, 08 Jun 2016 14:14:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fear and Panic As Online Trading Company Loses Trust of Investors]]></title>
-            <description><![CDATA[<article><h1>Fear and Panic As Online Trading Company Loses Trust of Investors</h1><p>The inability to access funds and a sudden change of contract terms and conditions without notice has thrown investors within the online trading company, OneFxZone into panic mode. Originally known as OneFxZone, 'One International Limited' is a company that claims to trade in Foreign Exchange and welcomed investors with a promise of various attractive returns on investments.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbe8d5f4525faad19c915f175e0bda3cb0e7eb79.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/fear-and-panic-as-online-trading-company-loses-trust-of-investors</link>
-            <guid isPermaLink="false">f48daa7f-9a6a-4887-90fc-86bae0c21d11</guid>
-            <pubDate>Wed, 08 Jun 2016 14:14:56 GMT</pubDate>
+            <title><![CDATA[Bitcoin Featuring FinTech Platform Stripe Lands in France]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Featuring FinTech Platform Stripe Lands in France</h1><p>The expansion of Stripe has not gone by unnoticed, as the service is now available in no less than 25 countries. France is a country of conflicts and odd decisions at times. Albeit the Front National wants to ban Bitcoin altogether, yet Fintech startup Stripe is now available in the country.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4720572a789f1415580e27c68ac7fe6fa652adcf.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/08/bitcoin-fintech-stripe-lands-france/</link>
+            <guid isPermaLink="false">d8ae8656-d676-490b-8958-69851b70a14f</guid>
+            <pubDate>Wed, 08 Jun 2016 14:14:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
