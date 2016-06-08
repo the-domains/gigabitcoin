@@ -41,10 +41,10 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  http://cointelegraph.com/news/a-long-story-short-how-r3-has-become-a-melting-pot-of-blockchain-friendship
+  https://cointelegraph.com/news/a-long-story-short-how-r3-has-become-a-melting-pot-of-blockchain-friendship
 title: 'A Long Story Short: How R3 Has Become a Melting Pot of Blockchain Friendship'
-datePublished: '2016-06-08T14:14:55.265Z'
-dateModified: '2016-06-08T12:41:05.876Z'
+datePublished: '2016-06-08T20:56:57.495Z'
+dateModified: '2016-06-08T17:11:09.705Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-08-a-long-story-short-how-r3-has-become-a-melting-pot-of-block.md
