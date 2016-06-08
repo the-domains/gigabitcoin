@@ -28,12 +28,12 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  https://cointelegraph.com/news/blockchain-watch-manufactures-start-using-blockchain-to-confirm-authenticity-of-luxury-goods
+  http://cointelegraph.com/news/blockchain-watch-manufactures-start-using-blockchain-to-confirm-authenticity-of-luxury-goods
 title: >-
   "Blockchain Watch": Manufactures Start Using Blockchain To Confirm
   Authenticity of Luxury Goods
-datePublished: '2016-06-08T14:14:56.102Z'
-dateModified: '2016-06-08T11:41:11.575Z'
+datePublished: '2016-06-08T14:14:57.092Z'
+dateModified: '2016-06-08T10:10:55.702Z'
 starred: false
 sourcePath: _posts/2016-06-08-blockchain-watch-manufactures-start-using-blockchain-to-c.md
 inFeed: true
