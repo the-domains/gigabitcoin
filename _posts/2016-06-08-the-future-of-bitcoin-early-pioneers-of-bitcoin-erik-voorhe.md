@@ -29,12 +29,12 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  http://cointelegraph.com/news/the-future-of-bitcoin-early-pioneers-of-bitcoin-erik-voorheers-and-roger-ver-in-liberty-entrepreneurs-podcast
+  https://cointelegraph.com/news/the-future-of-bitcoin-early-pioneers-of-bitcoin-erik-voorheers-and-roger-ver-in-liberty-entrepreneurs-podcast
 title: >-
   The Future of Bitcoin: Early Pioneers of Bitcoin Erik Voorheers and Roger Ver
   in Liberty Entrepreneurs Podcast
-datePublished: '2016-06-08T20:56:13.520Z'
-dateModified: '2016-06-08T15:11:39.936Z'
+datePublished: '2016-06-08T20:56:57.522Z'
+dateModified: '2016-06-08T17:11:14.388Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-08-the-future-of-bitcoin-early-pioneers-of-bitcoin-erik-voorhe.md
