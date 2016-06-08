@@ -7,6 +7,13 @@
         <lastBuildDate>Wed, 08 Jun 2016 20:56:50 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Kerv Ring Will Support Different Funding Options But Not Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Kerv Ring Will Support Different Funding Options But Not Bitcoin</h1><p>The Kerv ring has been spurring a lot of debate in the world of contactless payments since it was first announced. Albeit there have been some questions as to whether or not this product will come to consumers, the release seems imminent. A variety of funding methods will be supported, albeit Bitcoin is not on that list, unfortunately.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c97c2ded49cd74272200de8e9e9eb0dcc4aed81.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/kerv-funding-options-bitcoin/</link>
+            <guid isPermaLink="false">35782fc8-890e-4a5f-8c87-5ddb5d10ebf7</guid>
+            <pubDate>Wed, 08 Jun 2016 20:56:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Team Captures RSA Keys With AM Radio and Cell Phone - Bitcoinist.net]]></title>
             <description><![CDATA[<article><h1>Team Captures RSA Keys With AM Radio and Cell Phone - Bitcoinist.net</h1><p>Coil whine: it's not just a problem for PC gaming enthusiasts anymore. A recent paper outlines an attack vector for capturing RSA keys by analyzing the noises, RF variations, or electromagnetic changes produced from computers as they do intense computational tasks. Of particular note is their work capturing RSA keys with sound.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41b30e5871387ad7b242afb8fdcf2382f4d33236.png"></article>]]></description>
             <link>http://bitcoinist.net/team-captures-rsa-keys-with-am-radio-and-cell-phone/</link>
@@ -68,13 +75,6 @@
             <link>http://www.coindesk.com/realtor-incubator-ethereum-startup/</link>
             <guid isPermaLink="false">b76f3822-7934-4875-9de6-20b4174f8349</guid>
             <pubDate>Wed, 08 Jun 2016 20:56:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Markets: Black and Gray, White and Red]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Markets: Black and Gray, White and Red</h1><p>The markets context of cryptocurrencies is changing in what may seem like a subtle manner but has real political consequences. One question is the pivot point. Should Bitcoin maintain the pseudonymity that offers privacy or should government identify users through such measures as imposing Know Your Customer (KYC) requirements on exchanges?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c4e085dafeb1a18f5863280dbe3a73f978fa25f.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/bitcoin-markets-black-gray-white-red/</link>
-            <guid isPermaLink="false">e29a8280-3d1c-49d5-8f10-43ca8903f2e9</guid>
-            <pubDate>Wed, 08 Jun 2016 20:56:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
