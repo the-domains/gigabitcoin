@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 14:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2016 14:15:28 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Prices Soar in May: Analyzing the Market's Second Best Month of 2016 - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Prices Soar in May: Analyzing the Market's Second Best Month of 2016 - CoinDesk</h1><p>With the price of bitcoin appreciating nearly 20% in May and breaking past $500 for the first time since 2014, it's safe to say the digital currency is once again back in the mainstream spotlight as an investment opportunity. However, what may be most notable is that the gains took place amid strong overall sentiment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed9a2c6a00ce3ed82eee6a98f2d9a2384ed1b184.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/bitcoin-price-20-percent-biggest-monthly-gain/</link>
+            <guid isPermaLink="false">0be453ea-f4f0-49a8-aa54-cd2f45079ec4</guid>
+            <pubDate>Wed, 08 Jun 2016 14:14:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Counterparty Gives Bitcoin Ethereum-Style Smart Contracts]]></title>
             <description><![CDATA[<article><h1>Counterparty Gives Bitcoin Ethereum-Style Smart Contracts</h1><p>All the functionality of Ethereum will be available on the Bitcoin blockchain, with a port of the Ethereum Virtual Machine (EVM) announced today by Counterparty. Also read: Bitcoin and Ethereum: The Crypto Experiment Rolls On This will extend Bitcoin's capabilities to include smart contracts - allowing decentralized autonomous organizations, social networks and identity systems, programmatic escrow systems, gambling and prediction markets.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10f680559a80fc4325c334e66aa81b9efe610821.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 06/08/2016 - Rising Channel or Double Top? - NEWSBTC</h1><p>Bitcoin price is at a crossroads, with traders still deciding whether to keep up the uptrend or to start a long-term selloff. Bitcoin Price Key Highlights Bitcoin price is at a crossroads, with traders still deciding whether to keep up the uptrend or to start a long-term selloff.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e19bf5df02e313298fe4d35b719b8c2a6a48450.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/06/08/bitcoin-price-technical-analysis-06082016-rising-channel-double-top/</link>
             <guid isPermaLink="false">874bc357-cdc7-4fda-af80-07b72dd3882f</guid>
-            <pubDate>Wed, 08 Jun 2016 07:26:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[bitcoin-dev] Block size following technological growth]]></title>
-            <description><![CDATA[<article><h1>[bitcoin-dev] Block size following technological growth</h1><p>I agree with Gavin - whilst it's great that a Blockstream employee has finally made a realistic proposal (i.e. not "let's all use Lightning") - this BIP is virtually the same as keeping the 1mb cap. > Well, centralization of mining is already terrible. I see no reason why we > should encourage making it worse.</p></article>]]></description>
-            <link>https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-July/009815.html</link>
-            <guid isPermaLink="false">346a1aab-33f0-417c-897d-337d4e93c5be</guid>
             <pubDate>Wed, 08 Jun 2016 07:26:42 GMT</pubDate>
         </item>
     </channel>
