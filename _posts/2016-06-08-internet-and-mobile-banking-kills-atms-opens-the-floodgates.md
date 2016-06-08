@@ -29,12 +29,12 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  http://cointelegraph.com/news/internet-and-mobile-banking-kills-atms-opens-the-floodgates-to-cryptocurrencies
+  https://cointelegraph.com/news/internet-and-mobile-banking-kills-atms-opens-the-floodgates-to-cryptocurrencies
 title: >-
   Internet and Mobile Banking Kills ATMs, Opens the Floodgates to
   Cryptocurrencies
-datePublished: '2016-06-08T14:14:53.897Z'
-dateModified: '2016-06-08T14:11:26.931Z'
+datePublished: '2016-06-08T20:56:13.109Z'
+dateModified: '2016-06-08T17:11:11.339Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-08-internet-and-mobile-banking-kills-atms-opens-the-floodgates.md
