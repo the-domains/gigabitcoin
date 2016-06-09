@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 14:04:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 14:04:56 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[University of Calgary Systems Still Down After Paying Ransomware Fee]]></title>
+            <description><![CDATA[<article><h1>University of Calgary Systems Still Down After Paying Ransomware Fee</h1><p>Paying the fee associated with a ransomware should always be seen as a last resort. There is no guarantee the decryption keys will restore full system access or revert all data back to its original state. The University of Calgary is the most recent victim of ransomware attacks, and the school paid CND$20,000 in Bitcoin to get rid of the malware.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8016d286974cea911e7d2e23da82d56a4dc9e25b.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/09/university-of-calgary-ransomware-fee/</link>
+            <guid isPermaLink="false">1ab6eaa2-bdda-4468-af66-fb879ad357f7</guid>
+            <pubDate>Thu, 09 Jun 2016 14:04:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How is blockchain related to networking?]]></title>
             <description><![CDATA[<article><h1>How is blockchain related to networking?</h1><p>3 people want answers to this question. Be the first to answer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The Crypto Show with Jason King & Christopher David, Unsung.org meets Arcade City community in Action</h1><p>Back in March Jason King was on the show to talk about Unsung.org which he rolled out at SXSW. Part of what Unsung needs to function is drivers. Enter Arcade City. We knew at The Crypto Show that these two entities can benefit each other.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/481c31802df6fb8ac4f28350e9cc61b42c2a2884.jpg"></article>]]></description>
             <link>https://letstalkbitcoin.com/blog/post/the-crypto-show-with-jason-king-christopher-david-unsungorg-meets-arcade-city-community-in-action</link>
             <guid isPermaLink="false">1ece4dd1-2237-4279-b06b-c4e8b37c520b</guid>
-            <pubDate>Thu, 09 Jun 2016 07:19:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Play over 500 Casino Games at Fortunejack.com]]></title>
-            <description><![CDATA[<article><h1>Play over 500 Casino Games at Fortunejack.com</h1><p>Fortunejack is an online digital currency gambling site offering the best online casino experience. Fortunejack.com is leading the online Bitcoin gambling industry and claiming to lead the way and revolutionize crypto-currency gambling. Fortunejack is an online digital currency gambling site offering the best online casino experience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4fb6e975249a9db7db61433b00de3e5bb7af061.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/09/play-500-casino-games-fortunejack/</link>
-            <guid isPermaLink="false">df547344-9ea2-4573-8ede-f56420b1fe69</guid>
             <pubDate>Thu, 09 Jun 2016 07:19:37 GMT</pubDate>
         </item>
     </channel>
