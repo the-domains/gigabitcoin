@@ -4,8 +4,36 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 14:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 14:05:06 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Survey: UK Companies Buy Bitcoin to Pay off Ransomware Extortionists]]></title>
+            <description><![CDATA[<article><h1>Survey: UK Companies Buy Bitcoin to Pay off Ransomware Extortionists</h1><p>A recent survey by corporate networking firm Citrix has revealed that companies are 'stockpiling' bitcoin to use the cryptocurrency as ransom payment if faced with a ransomware attack. Over the years, cybercriminals have conducted phishing campaigns, hacking endeavors and DDoS attacks as effective means to engage in cybercrime.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4962f136b13abb3d067a5a0487b128e877960976.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/survey-uk-companies-buy-bitcoin-pay-off-ransomware-extortionists/</link>
+            <guid isPermaLink="false">937d488b-61e7-4feb-87a3-d67f0ab5ed60</guid>
+            <pubDate>Thu, 09 Jun 2016 14:04:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Payment Terminal Botnet Collected over 1.2 million Card Details Since April]]></title>
+            <description><![CDATA[<article><h1>Payment Terminal Botnet Collected over 1.2 million Card Details Since April</h1><p>Credit card fraud is still on the rise, despite countermeasures by card issuers and banks. As it turns out, there is a growing point-of-sale botnet in the United States, linking hacked payment terminals together. This allows hackers to monitor credit card information in real-time and abuse any information passing through these terminals.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e93280e92a1e6559fe20a567a2bd43a844d6da8c.jpg"></article>]]></description>
+            <link>http://themerkle.com/payment-terminal-botnet-collected-over-1-2-million-card-details-since-april/</link>
+            <guid isPermaLink="false">4bdd76d4-f28c-4215-a372-739d28aeb674</guid>
+            <pubDate>Thu, 09 Jun 2016 14:04:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hacker Sells Twitter Data Dump On Deep Web For 10 Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Hacker Sells Twitter Data Dump On Deep Web For 10 Bitcoin</h1><p>Data breaches remain a lucrative business for Internet criminals, especially when they want to sell information for Bitcoin. A data dump containing over 33 million hacked Twitter accounts are now up for grabs in exchange for 10 Bitcoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea3fd239946c0fa6822e79fed2d98a03aeece428.png"></article>]]></description>
+            <link>http://bitcoinist.net/hacker-sells-twitter-data-dump-on-deep-web-for-10-bitcoin/</link>
+            <guid isPermaLink="false">2d1a5967-408e-4710-bdb3-f2bb056a0a22</guid>
+            <pubDate>Thu, 09 Jun 2016 14:04:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Counterparty: The Fuel for Bitcoin Price Stability?]]></title>
+            <description><![CDATA[<article><h1>Counterparty: The Fuel for Bitcoin Price Stability?</h1><p>Bitcoin has managed to move one step further up the financial stairway, reaching $581 USD as of press time. While the jump isn't as large as its predecessor, the price of bitcoin hasn't been this strong in well over a year, and many are breathing a long sigh of relief and hoping things continue to stay this way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27f6cc98e5a6fce632b7c731a96fda01bde0b450.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/counterparty-fuel-bitcoin-price/</link>
+            <guid isPermaLink="false">c1e0e435-dea3-4a05-ab7c-bfb5d9793897</guid>
+            <pubDate>Thu, 09 Jun 2016 14:04:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Decentralized social media platform Steemit grows by 1,600% in first month]]></title>
             <description><![CDATA[<article><h1>Decentralized social media platform Steemit grows by 1,600% in first month</h1><p>Within the first month of its launch, Steemit, a decentralized social media site that rewards content creators with cryptocurrency, experienced a 1,600 percent increase in community size. In a pres...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07a52875bff6552a15dab48831bee98d6947b54c.png"></article>]]></description>
@@ -47,34 +75,6 @@
             <link>http://moneyandstate.com/mea-culpa/</link>
             <guid isPermaLink="false">ab7ebf7e-55e0-41c3-888c-71ba2a32eaab</guid>
             <pubDate>Thu, 09 Jun 2016 14:04:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Phishing scammers targeting MtGox clients trying to recoup funds]]></title>
-            <description><![CDATA[<article><h1>Phishing scammers targeting MtGox clients trying to recoup funds</h1><p>Scammers have set their sights on MtGox customers who are hoping to retrieve lost funds from the defunct bitcoin exchange, reported The Register. The publication said researchers at computer securi...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4927a377605a758bd466bb2b6f5947923ad5a960.png"></article>]]></description>
-            <link>https://coinreport.net/phishing-scammers-targeting-mtgox-clients-trying-recoup-funds/</link>
-            <guid isPermaLink="false">09d751a4-6c61-496a-9000-8bfffb61498c</guid>
-            <pubDate>Thu, 09 Jun 2016 14:04:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[High Volume Doesn't Mean Liquidity: New Kaiko BTC Exchange Report]]></title>
-            <description><![CDATA[<article><h1>High Volume Doesn't Mean Liquidity: New Kaiko BTC Exchange Report</h1><p>Comparing data on volumes and liquidity at the world's largest bitcoin exchanges reveals interesting ranking results, according to the soon-to-be released Also read: Bitcoin.com & Kaiko: 'Best Available Data' for All Your Bitcoin Needs Bitcoin and Ethereum Market Report by Kaiko.com.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19ee853aabf3e3927f4b43da1713a2b67f9a88fd.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/new-kaiko-bitcoin-liquidity-report/</link>
-            <guid isPermaLink="false">00dd27f2-3fae-49e5-baf2-9c8cfe7457e0</guid>
-            <pubDate>Thu, 09 Jun 2016 14:04:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Return to the Upside - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Return to the Upside - NEWSBTC</h1><p>Here's what we are focusing on for this morning's session in the bitcoin price. After last week's volatility, we expected that - this week - we might see some level of action in the bitcoin price.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74d4a444e167ebad5921ee3c8f79831975af965c.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/09/bitcoin-price-watch-return-upside-2/</link>
-            <guid isPermaLink="false">5eac90c8-8027-42a6-bf05-67d18d7892e7</guid>
-            <pubDate>Thu, 09 Jun 2016 14:04:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Canadian university pays $20K in bitcoin following ransomware attack]]></title>
-            <description><![CDATA[<article><h1>Canadian university pays $20K in bitcoin following ransomware attack</h1><p>A Canadian university paid $20,000 ransom in "untraceable" bitcoins to hackers who crippled more than 100 campus computers with ransomware, according to local media reports. The University of Calga...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/418af984aa1cf4033524d98291b5d80a5845eb24.jpg"></article>]]></description>
-            <link>https://coinreport.net/canadian-university-pays-20k-bitcoin-following-ransomware-attack/</link>
-            <guid isPermaLink="false">339d5097-76b7-4b62-9eaf-c9af74a1dc7e</guid>
-            <pubDate>Thu, 09 Jun 2016 14:04:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
