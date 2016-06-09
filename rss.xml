@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 07:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 07:20:23 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Building on Ubuntu 16, missing SSL during ./configure]]></title>
-            <description><![CDATA[<article><h1>Building on Ubuntu 16, missing SSL during ./configure</h1><p>I am trying to build bitcoind on Ubuntu 16 64-bit. I have installed the dependencies and have built it fine many times on other machines. During ./configure, I am getting checking whether the Boost::Unit_Test_Framework library is available... yes checking for dynamic linked boost test... yes checking for mismatched boost c++11 scoped enums...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/45741/building-on-ubuntu-16-missing-ssl-during-configure</link>
-            <guid isPermaLink="false">b475bfd9-e7f5-4ed2-9142-f95a2cdbe9db</guid>
-            <pubDate>Thu, 09 Jun 2016 07:19:38 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Ethereum Price Technical Analysis - ETH Heading Towards Support - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Ethereum Price Technical Analysis - ETH Heading Towards Support - NEWSBTC</h1><p>Ethereum price is currently correcting and may continue to move down. However, there is a major support on the downside, which can act as a barrier for sellers. Ethereum price is currently correcting and may continue to move down. However, there is a major support on the downside, which can act as a barrier for sellers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9be409c033ed3d9023fea8d3f9edd15e8bf4c62a.png"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://www.coindesk.com/blockcypher-ethereum-api-toolkit/</link>
             <guid isPermaLink="false">ab9e99c5-2594-4f92-8aa2-4239bd68060c</guid>
             <pubDate>Thu, 09 Jun 2016 01:17:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Union Square Venture's Fred Wilson Calls Out Banks for Ignoring Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Union Square Venture's Fred Wilson Calls Out Banks for Ignoring Bitcoin</h1><p>Fred Wilson of Union Square Ventures has little doubt about his bets on bitcoin. In fact, the legendary investor called out the world's major banks for eschewing the first digital currency today at CB Insight's " The Future of Fintech" conference today in New York.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/78d147e5fd755b60be8a79d40d300ef2b2255956.jpg"></article>]]></description>
+            <link>http://observer.com/2016/06/fred-wilson-bitcoin/</link>
+            <guid isPermaLink="false">0f30b09b-0b76-402e-8f86-46e7f6d44002</guid>
+            <pubDate>Thu, 09 Jun 2016 01:17:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
