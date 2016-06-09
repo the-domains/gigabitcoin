@@ -4,8 +4,36 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 07:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 14:04:14 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Steemit Social Media Platform Pays Its Users, Sees Massive Growth]]></title>
+            <description><![CDATA[<article><h1>Steemit Social Media Platform Pays Its Users, Sees Massive Growth</h1><p>Steemit, the new social media platform that rewards its user base with cryptocurrency, Also read: Antonopoulos Declined 'Opportunity' to Identify Satoshi and Doesn't Care has been growing exponentially since its inception. The company has revealed that over the course of its first month membership has grown by 1,600%, all the while using its blockchain-powered platform to pay users for posting content.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/def86877f13eeab0e77b416a61cbe2661ac9d17c.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/steemit-pays-users-massive-growth/</link>
+            <guid isPermaLink="false">a37c096d-999f-42ff-961c-323c1a126ba2</guid>
+            <pubDate>Thu, 09 Jun 2016 14:04:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Technical Analysis for 06/09/2016 - Hovering Near Channel Support - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 06/09/2016 - Hovering Near Channel Support - NEWSBTC</h1><p>Bitcoin price is on a short-term uptrend and is still deciding whether to make a bounce or a break from support. Bitcoin Price Key Highlights Bitcoin price is on a short-term uptrend and is still deciding whether to make a bounce or a break from support.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7e69d756f11251720ba62aa327f9576a419ceb2.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/09/bitcoin-price-technical-analysis-06092016-hovering-near-channel-support/</link>
+            <guid isPermaLink="false">153b9197-51f7-4633-b48b-58126a9add85</guid>
+            <pubDate>Thu, 09 Jun 2016 07:19:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building on Ubuntu 16, missing SSL during ./configure]]></title>
+            <description><![CDATA[<article><h1>Building on Ubuntu 16, missing SSL during ./configure</h1><p>I am trying to build bitcoind on Ubuntu 16 64-bit. I have installed the dependencies and have built it fine many times on other machines. During ./configure, I am getting checking whether the Boost::Unit_Test_Framework library is available... yes checking for dynamic linked boost test... yes checking for mismatched boost c++11 scoped enums...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/45741/building-on-ubuntu-16-missing-ssl-during-configure</link>
+            <guid isPermaLink="false">b475bfd9-e7f5-4ed2-9142-f95a2cdbe9db</guid>
+            <pubDate>Thu, 09 Jun 2016 07:19:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum Price Technical Analysis - ETH Heading Towards Support - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Ethereum Price Technical Analysis - ETH Heading Towards Support - NEWSBTC</h1><p>Ethereum price is currently correcting and may continue to move down. However, there is a major support on the downside, which can act as a barrier for sellers. Ethereum price is currently correcting and may continue to move down. However, there is a major support on the downside, which can act as a barrier for sellers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9be409c033ed3d9023fea8d3f9edd15e8bf4c62a.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/09/ethereum-price-technical-analysis-eth-heading-towards-support/</link>
+            <guid isPermaLink="false">51c92a6b-5550-46c9-85cc-f84a3327e855</guid>
+            <pubDate>Thu, 09 Jun 2016 07:19:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Q&A: Will compliance with regulation benefit Bitcoin?]]></title>
             <description><![CDATA[<article><h1>Bitcoin Q&A: Will compliance with regulation benefit Bitcoin?</h1><p>Keywords/phrases: The role of regulators and compliance; how could it benefit Bitcoin? Regulators have failed to protect consumers. Bitcoin protects consumers by giving them control. Privacy and user control is consumer protection. Regulators just help banks avoid competition.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0af480c2ba4bc2f769dab10e3a3bd813f1a93d06.jpg"></article>]]></description>
@@ -47,34 +75,6 @@
             <link>http://thenextweb.com/insider/2016/06/08/canadian-university-buckles-pays-20k-bitcoin-hackers/</link>
             <guid isPermaLink="false">50023559-a792-4b7a-bbf3-bbfcd16ca918</guid>
             <pubDate>Thu, 09 Jun 2016 01:17:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Perth Startup Veri.vote Lobbies For Blockchain-based Voting]]></title>
-            <description><![CDATA[<article><h1>Perth Startup Veri.vote Lobbies For Blockchain-based Voting</h1><p>When it comes to the voting process, there is always an aura of not knowing what is going on exactly, and whether or not results should be trusted. One of the possible use cases for blockchain technology is decentralized voting. If it is up to Australian startup Veri.vote, that concept will soon become a reality.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d7506ad523b5c6767f597ac169b9e300c376ea2.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/08/veri-vote-lobbies-blockchain-voting/</link>
-            <guid isPermaLink="false">5df624fb-2227-4e65-a377-ca951775f821</guid>
-            <pubDate>Thu, 09 Jun 2016 01:17:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BlockCypher Releases Ethereum API Toolkit for Developers - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>BlockCypher Releases Ethereum API Toolkit for Developers - CoinDesk</h1><p>Blockchain app development startup BlockCypher has expanded its platform to include support for Ethereum, a move the company says will see professional services firm Deloitte among its first users. BlockCypher CEO and co-founder Catheryne Nicholson says the addition of Ethereum was in response to an increased demand from more than half of the startup's client base, which also counts remittance app startup Abra among those using the new toolset.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db98ab25513f601fd31bb2e26525bdeaec38d281.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/blockcypher-ethereum-api-toolkit/</link>
-            <guid isPermaLink="false">ab9e99c5-2594-4f92-8aa2-4239bd68060c</guid>
-            <pubDate>Thu, 09 Jun 2016 01:17:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Union Square Venture's Fred Wilson Calls Out Banks for Ignoring Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Union Square Venture's Fred Wilson Calls Out Banks for Ignoring Bitcoin</h1><p>Fred Wilson of Union Square Ventures has little doubt about his bets on bitcoin. In fact, the legendary investor called out the world's major banks for eschewing the first digital currency today at CB Insight's " The Future of Fintech" conference today in New York.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/78d147e5fd755b60be8a79d40d300ef2b2255956.jpg"></article>]]></description>
-            <link>http://observer.com/2016/06/fred-wilson-bitcoin/</link>
-            <guid isPermaLink="false">0f30b09b-0b76-402e-8f86-46e7f6d44002</guid>
-            <pubDate>Thu, 09 Jun 2016 01:17:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Antonopoulos: 'Meteor' Bitcoin Doesn't Compete Against 'Dinosaur' Banks]]></title>
-            <description><![CDATA[<article><h1>Antonopoulos: 'Meteor' Bitcoin Doesn't Compete Against 'Dinosaur' Banks</h1><p>Using metaphors from biological evolution at a recent talk in Milan, Bitcoin guru Andreas Antonopoulos dissected the anatomy of today's financial system, explaining that the "new species" of money such as Bitcoin doesn't directly compete with "dinosaur" banks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c95758eb9ac3c47c3349cb2713d065a501094fac.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/bitcoin-meteor-doesnt-compete-banks/</link>
-            <guid isPermaLink="false">92dbb120-395d-4d10-bf13-e5e710839f90</guid>
-            <pubDate>Thu, 09 Jun 2016 01:17:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
