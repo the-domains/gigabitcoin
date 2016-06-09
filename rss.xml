@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 14:04:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 14:04:55 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Study Bitcoin & Blockchain, Federal Reserve Chair Tells Central Banks]]></title>
+            <description><![CDATA[<article><h1>Study Bitcoin & Blockchain, Federal Reserve Chair Tells Central Banks</h1><p>A recent event in Washington attended by representatives from over 90 central banks had Federal Reserve Chairwoman Janet Yellen encourage her counterparts to study emerging technologies, specifically mentioning bitcoin and the blockchain. The Federal Reserve Annual Meeting, a three-day event hosted by the Federal Reserve, World Bank, and the IMF in Washington had a notable attendee this year in the Chamber of Digital Commerce (CDC).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb31b7393581a485fbb289fb7dc0dbb7abbc25fc.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/study-bitcoin-blockchain-federal-reserve-chair-tells-central-banks/</link>
+            <guid isPermaLink="false">171f728b-9a8b-4039-810f-f0a3c9793070</guid>
+            <pubDate>Thu, 09 Jun 2016 14:04:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is it really safe to use vanitygen to generate your unique bitcoin address?]]></title>
+            <description><![CDATA[<article><h1>Is it really safe to use vanitygen to generate your unique bitcoin address?</h1><p>I've been wondering if using vanitygen to create your own bitcoin address with a unique prefix, is safe from being compromise by others? I'm currently using a shared wallet address from a trusted w...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/45743/is-it-really-safe-to-use-vanitygen-to-generate-your-unique-bitcoin-address</link>
+            <guid isPermaLink="false">493378a0-ffc3-4ba0-b2e8-6b25c631dc9a</guid>
+            <pubDate>Thu, 09 Jun 2016 14:04:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Steemit Social Media Platform Pays Its Users, Sees Massive Growth]]></title>
             <description><![CDATA[<article><h1>Steemit Social Media Platform Pays Its Users, Sees Massive Growth</h1><p>Steemit, the new social media platform that rewards its user base with cryptocurrency, Also read: Antonopoulos Declined 'Opportunity' to Identify Satoshi and Doesn't Care has been growing exponentially since its inception. The company has revealed that over the course of its first month membership has grown by 1,600%, all the while using its blockchain-powered platform to pay users for posting content.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/def86877f13eeab0e77b416a61cbe2661ac9d17c.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.youtube.com/watch?v=KBFedmrDTQw</link>
             <guid isPermaLink="false">bee90ada-e093-4fc1-9230-c2e56883bf0f</guid>
             <pubDate>Thu, 09 Jun 2016 07:19:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenBazaar Test: how the Bitcoin Ebay works | HolyTransaction]]></title>
-            <description><![CDATA[<article><h1>OpenBazaar Test: how the Bitcoin Ebay works | HolyTransaction</h1><p>Recently OpenBazaar, the decentralized marketplace where you can buy items for bitcoins, launched its new 1.1.6 version. So we decided to do a OpenBazaar test, to let you deeply understand how it works and what you can buy on this innovative market using your cryptocurrencies. 1.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91d775e204f2e8717e19365f369a8c44108c9510.jpg"></article>]]></description>
-            <link>http://blog.holytransaction.com/2016/06/openbazaar-test-how-bitcoin-ebay-works.html</link>
-            <guid isPermaLink="false">5ab45e05-1ac9-4991-a416-8faaa805006b</guid>
-            <pubDate>Thu, 09 Jun 2016 01:17:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Canadian university buckles and pays $20k in bitcoin to hackers]]></title>
-            <description><![CDATA[<article><h1>Canadian university buckles and pays $20k in bitcoin to hackers</h1><p>The University of Calgary in Canada has paid just over $15,000 (CAD $20,000) to restore access to its computer systems following a ransomware attack. Ransomware typically, as its name would suggest, prevents a victim from acessing their files and other services until demands had been met.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0071324e1cde641a78e7b257f8b7cef602e9ea83.jpg"></article>]]></description>
-            <link>http://thenextweb.com/insider/2016/06/08/canadian-university-buckles-pays-20k-bitcoin-hackers/</link>
-            <guid isPermaLink="false">50023559-a792-4b7a-bbf3-bbfcd16ca918</guid>
-            <pubDate>Thu, 09 Jun 2016 01:17:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
