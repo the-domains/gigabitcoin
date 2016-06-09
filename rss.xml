@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 14:04:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 14:04:57 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fixing DAO Will Take Months, Community's Response Is Crucial]]></title>
+            <description><![CDATA[<article><h1>Fixing DAO Will Take Months, Community's Response Is Crucial</h1><p>One of the greater experiments of the decade finds itself in limbo as the DAO token holders weigh solutions to a number of attack vectors exposed by Emin Gün Sirer, Vlad Zamfir and others. "There are so many attacks against the DAO that some of them cancel each other out," said Sirer in a recent interview.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d88ab259d873be2e76fac564a5a1daee1fcbf082.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/fixing-dao-will-take-months-communitys-response-is-crucial</link>
+            <guid isPermaLink="false">54d60dd8-dd68-4ace-ab14-47f2f9b4b50f</guid>
+            <pubDate>Thu, 09 Jun 2016 14:04:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://imgur.com/GGFMhn1.png"></article>]]></description>
+            <link>http://imgur.com/GGFMhn1</link>
+            <guid isPermaLink="false">cd4760b5-79e6-426b-b4f6-908b84d672a4</guid>
+            <pubDate>Thu, 09 Jun 2016 14:04:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anti-Hunger App Unsung Partners with Arcade City's 30,000 Users]]></title>
+            <description><![CDATA[<article><h1>Anti-Hunger App Unsung Partners with Arcade City's 30,000 Users</h1><p>Unsung Also read: Bitcoin.com & Kaiko: 'Best Available Data' for All Your Bitcoin Needs founder Jason King has revealed a partnership with the new Austin-based ride-sharing organization Arcade City during the Crypto Show last night. The two groups will work together with the help of Arcade City's 30,000 users to lay out the groundwork for Unsung's application.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e2a1d4a3cd4f3dc2cea99265b3ee5bf1663381b.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/unsung-partners-arcade-city-30000-users/</link>
+            <guid isPermaLink="false">392db9bb-11be-4e62-9388-1887340014e9</guid>
+            <pubDate>Thu, 09 Jun 2016 14:04:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[PSD2 to Accelerate Digital Revolution, Blockchain Adoption]]></title>
             <description><![CDATA[<article><h1>PSD2 to Accelerate Digital Revolution, Blockchain Adoption</h1><p>Aiming at accelerating innovation and developing a unified payment services sector, the European Commission has adopted the Payment Services Directive (PSD2), which is expected to bring vital changes. Lately, regulators have been increasingly focussing on ensuring consumer protection, competition, and security in the area of financial services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3718c8a18437a6784a7e4a949b0053521933b110.jpg"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>http://www.newsbtc.com/2016/06/09/bitcoin-price-technical-analysis-06092016-hovering-near-channel-support/</link>
             <guid isPermaLink="false">153b9197-51f7-4633-b48b-58126a9add85</guid>
             <pubDate>Thu, 09 Jun 2016 07:19:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building on Ubuntu 16, missing SSL during ./configure]]></title>
-            <description><![CDATA[<article><h1>Building on Ubuntu 16, missing SSL during ./configure</h1><p>I am trying to build bitcoind on Ubuntu 16 64-bit. I have installed the dependencies and have built it fine many times on other machines. During ./configure, I am getting checking whether the Boost::Unit_Test_Framework library is available... yes checking for dynamic linked boost test... yes checking for mismatched boost c++11 scoped enums...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/45741/building-on-ubuntu-16-missing-ssl-during-configure</link>
-            <guid isPermaLink="false">b475bfd9-e7f5-4ed2-9142-f95a2cdbe9db</guid>
-            <pubDate>Thu, 09 Jun 2016 07:19:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum Price Technical Analysis - ETH Heading Towards Support - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Ethereum Price Technical Analysis - ETH Heading Towards Support - NEWSBTC</h1><p>Ethereum price is currently correcting and may continue to move down. However, there is a major support on the downside, which can act as a barrier for sellers. Ethereum price is currently correcting and may continue to move down. However, there is a major support on the downside, which can act as a barrier for sellers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9be409c033ed3d9023fea8d3f9edd15e8bf4c62a.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/09/ethereum-price-technical-analysis-eth-heading-towards-support/</link>
-            <guid isPermaLink="false">51c92a6b-5550-46c9-85cc-f84a3327e855</guid>
-            <pubDate>Thu, 09 Jun 2016 07:19:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Q&A: Will compliance with regulation benefit Bitcoin?]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Q&A: Will compliance with regulation benefit Bitcoin?</h1><p>Keywords/phrases: The role of regulators and compliance; how could it benefit Bitcoin? Regulators have failed to protect consumers. Bitcoin protects consumers by giving them control. Privacy and user control is consumer protection. Regulators just help banks avoid competition.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0af480c2ba4bc2f769dab10e3a3bd813f1a93d06.jpg"></article>]]></description>
-            <link>http://www.youtube.com/watch?v=QpVmt3ufdrs</link>
-            <guid isPermaLink="false">78b3676e-43e2-444d-a0eb-07ea7565a3fe</guid>
-            <pubDate>Thu, 09 Jun 2016 07:19:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
