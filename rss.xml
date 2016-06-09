@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 14:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 14:04:59 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Mea Culpa - Money and State]]></title>
-            <description><![CDATA[<article><h1>Mea Culpa - Money and State</h1><p>"It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so." -Mark Twain So today a friend of mine posted a link on /r/bitcoin to a Liberty Entrepreneurs podcast with me and Roger Ver. The link never appeared for anyone but the friend who published ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/784e423a826cda5d99b4f378aee8d75cfe241baa.jpg"></article>]]></description>
-            <link>http://moneyandstate.com/mea-culpa/</link>
-            <guid isPermaLink="false">ab7ebf7e-55e0-41c3-888c-71ba2a32eaab</guid>
-            <pubDate>Thu, 09 Jun 2016 14:04:13 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Phishing scammers targeting MtGox clients trying to recoup funds]]></title>
             <description><![CDATA[<article><h1>Phishing scammers targeting MtGox clients trying to recoup funds</h1><p>Scammers have set their sights on MtGox customers who are hoping to retrieve lost funds from the defunct bitcoin exchange, reported The Register. The publication said researchers at computer securi...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4927a377605a758bd466bb2b6f5947923ad5a960.png"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>University of Calgary Systems Still Down After Paying Ransomware Fee</h1><p>Paying the fee associated with a ransomware should always be seen as a last resort. There is no guarantee the decryption keys will restore full system access or revert all data back to its original state. The University of Calgary is the most recent victim of ransomware attacks, and the school paid CND$20,000 in Bitcoin to get rid of the malware.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8016d286974cea911e7d2e23da82d56a4dc9e25b.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/06/09/university-of-calgary-ransomware-fee/</link>
             <guid isPermaLink="false">1ab6eaa2-bdda-4468-af66-fb879ad357f7</guid>
+            <pubDate>Thu, 09 Jun 2016 14:04:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How is blockchain related to networking?]]></title>
+            <description><![CDATA[<article><h1>How is blockchain related to networking?</h1><p>3 people want answers to this question. Be the first to answer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/How-is-blockchain-related-to-networking</link>
+            <guid isPermaLink="false">c0dd269c-843f-46df-8555-883ba18313e5</guid>
             <pubDate>Thu, 09 Jun 2016 14:04:11 GMT</pubDate>
         </item>
     </channel>
