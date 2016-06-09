@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 14:04:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 14:04:57 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Anti-Hunger App Unsung Partners with Arcade City's 30,000 Users]]></title>
+            <description><![CDATA[<article><h1>Anti-Hunger App Unsung Partners with Arcade City's 30,000 Users</h1><p>Unsung Also read: Bitcoin.com & Kaiko: 'Best Available Data' for All Your Bitcoin Needs founder Jason King has revealed a partnership with the new Austin-based ride-sharing organization Arcade City during the Crypto Show last night. The two groups will work together with the help of Arcade City's 30,000 users to lay out the groundwork for Unsung's application.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e2a1d4a3cd4f3dc2cea99265b3ee5bf1663381b.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/unsung-partners-arcade-city-30000-users/</link>
+            <guid isPermaLink="false">392db9bb-11be-4e62-9388-1887340014e9</guid>
+            <pubDate>Thu, 09 Jun 2016 14:04:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PSD2 to Accelerate Digital Revolution, Blockchain Adoption]]></title>
+            <description><![CDATA[<article><h1>PSD2 to Accelerate Digital Revolution, Blockchain Adoption</h1><p>Aiming at accelerating innovation and developing a unified payment services sector, the European Commission has adopted the Payment Services Directive (PSD2), which is expected to bring vital changes. Lately, regulators have been increasingly focussing on ensuring consumer protection, competition, and security in the area of financial services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3718c8a18437a6784a7e4a949b0053521933b110.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/psd2-to-accelerate-digital-revolution</link>
+            <guid isPermaLink="false">90057112-a768-4ae9-94f3-a06b7ff297c3</guid>
+            <pubDate>Thu, 09 Jun 2016 14:04:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[University of Calgary Systems Still Down After Paying Ransomware Fee]]></title>
             <description><![CDATA[<article><h1>University of Calgary Systems Still Down After Paying Ransomware Fee</h1><p>Paying the fee associated with a ransomware should always be seen as a last resort. There is no guarantee the decryption keys will restore full system access or revert all data back to its original state. The University of Calgary is the most recent victim of ransomware attacks, and the school paid CND$20,000 in Bitcoin to get rid of the malware.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8016d286974cea911e7d2e23da82d56a4dc9e25b.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.newsbtc.com/2016/06/09/ethereum-price-technical-analysis-eth-heading-towards-support/</link>
             <guid isPermaLink="false">51c92a6b-5550-46c9-85cc-f84a3327e855</guid>
             <pubDate>Thu, 09 Jun 2016 07:19:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Q&A: Will compliance with regulation benefit Bitcoin?]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Q&A: Will compliance with regulation benefit Bitcoin?</h1><p>Keywords/phrases: The role of regulators and compliance; how could it benefit Bitcoin? Regulators have failed to protect consumers. Bitcoin protects consumers by giving them control. Privacy and user control is consumer protection. Regulators just help banks avoid competition.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0af480c2ba4bc2f769dab10e3a3bd813f1a93d06.jpg"></article>]]></description>
-            <link>http://www.youtube.com/watch?v=QpVmt3ufdrs</link>
-            <guid isPermaLink="false">78b3676e-43e2-444d-a0eb-07ea7565a3fe</guid>
-            <pubDate>Thu, 09 Jun 2016 07:19:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Crypto Show with Jason King & Christopher David, Unsung.org meets Arcade City community in Action]]></title>
-            <description><![CDATA[<article><h1>The Crypto Show with Jason King & Christopher David, Unsung.org meets Arcade City community in Action</h1><p>Back in March Jason King was on the show to talk about Unsung.org which he rolled out at SXSW. Part of what Unsung needs to function is drivers. Enter Arcade City. We knew at The Crypto Show that these two entities can benefit each other.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/481c31802df6fb8ac4f28350e9cc61b42c2a2884.jpg"></article>]]></description>
-            <link>https://letstalkbitcoin.com/blog/post/the-crypto-show-with-jason-king-christopher-david-unsungorg-meets-arcade-city-community-in-action</link>
-            <guid isPermaLink="false">1ece4dd1-2237-4279-b06b-c4e8b37c520b</guid>
-            <pubDate>Thu, 09 Jun 2016 07:19:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
