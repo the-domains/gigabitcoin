@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 13:45:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2016 13:45:07 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is it possible to reduce the current transaction fee in Bitcoin?]]></title>
+            <description><![CDATA[<article><h1>Is it possible to reduce the current transaction fee in Bitcoin?</h1><p>Answer (1 of 2): Nope Because, the money you pay is the money miners get for making that transaction work. Reducing the amount of money will directly impact the miners and mining will become unprofitable. As a result, miners could stop mining and you won't be able to make any transactions furthe...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/Is-it-possible-to-reduce-the-current-transaction-fee-in-Bitcoin</link>
+            <guid isPermaLink="false">475ddca4-e1c4-4502-ad64-ab7b11afd70f</guid>
+            <pubDate>Fri, 10 Jun 2016 13:44:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BlockCypher Offers Ethereum and Bitcoin APIs on One Platform]]></title>
             <description><![CDATA[<article><h1>BlockCypher Offers Ethereum and Bitcoin APIs on One Platform</h1><p>BlockCypher, a provider of web services that supports bitcoin blockchain applications, announced that its web services will now allow companies to build applications using the Ethereum protocol without needing blockchain infrastructure. The company made the announcement at the Exponential Finance conference in New York, N.Y.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee21aee28f0acf2063d9d4e673c347bb08b9ba08.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>"Uber for Knowledge" Augur Teams Up With Blockchain Security Experts</h1><p>It will enable a highly secure and user-friendly account creation process, along with automatic encryption, backup and synchronization that will make Augur feel like a traditional website for the end-user. This solution could be the world's first for interacting with blockchains.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f20731b3d2c5e6d51e37cbd6c08d0ccdac6c5e46.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/uber-for-knowledge-augur-teams-up-with-blockchain-security-experts</link>
             <guid isPermaLink="false">93d8f113-95a1-40e9-a77a-90830ade2442</guid>
-            <pubDate>Fri, 10 Jun 2016 05:44:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Decentral to Add Coinbase Debit Card Buy Widget into Jaxx Wallet - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Decentral to Add Coinbase Debit Card Buy Widget into Jaxx Wallet - NEWSBTC</h1><p>Decentral released yesterday an initial concept design to integrate Jaxx with Coinbase's "Buy Widget", a small piece of software that is easily embeddable into existing websites and programs. This feature will use Coinbase's platform to allow users to instantly purchase and receive small quantities of Bitcoin using debit cards into their Jaxx Bitcoin-Ethereum wallet The company ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1474e51a5b6110e76429046de6c0819eba615fe7.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/09/decentral-add-coinbase-debit-card-buy-widget-jaxx-wallet/</link>
-            <guid isPermaLink="false">93eca9f1-8c96-47fa-890f-099a10875ee8</guid>
             <pubDate>Fri, 10 Jun 2016 05:44:15 GMT</pubDate>
         </item>
     </channel>
