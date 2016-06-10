@@ -7,6 +7,13 @@
         <lastBuildDate>Fri, 10 Jun 2016 05:47:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[University Pays $20,000 in Bitcoin to Hackers]]></title>
+            <description><![CDATA[<article><h1>University Pays $20,000 in Bitcoin to Hackers</h1><p>A Canadian university has paid bitcoin to malicious hackers to restore its computer systems after it became the subject of a cyberattack that denied access to its data. The University of Calgary paid a ransom amounting to $20,000 Canadian dollars worth of bitcoins in order to obtain the keys or methods of decryption to restore its data.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3888cfa6b408520daae30da8d51ecc3049ba0df6.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/university-pays-20000-in-bitcoins-to-hackers/</link>
+            <guid isPermaLink="false">89ba8c34-a85b-4f93-ac7d-1f688cc8e640</guid>
+            <pubDate>Fri, 10 Jun 2016 05:44:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[European Securities and Markets Authority Issues Discussion Paper on Distributed Ledger Technology]]></title>
             <description><![CDATA[<article><h1>European Securities and Markets Authority Issues Discussion Paper on Distributed Ledger Technology</h1><p>The European Securities and Markets Authority (ESMA) has issued a discussion paper titled " The Distributed Ledger Technology Applied to Securities Markets " for a public consultation on distributed ledger technology (DLT). ESMA is seeking feedback on the possible use of DLT in securities markets, including potential benefits and risks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cce9b1a64252e1b79a485b99cdc1c6ce5dc7b279.jpg"></article>]]></description>
             <link>https://bitcoinmagazine.com/articles/european-securities-and-markets-authority-issues-discussion-paper-on-distributed-ledger-technology-1465487015</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Almost 33 Million Twitter Passwords Stolen and Put Up for Sale for Bitcoins</h1><p>Information security website Leaked Source has announced that a database containing upwards of 32.8 million stolen Twitter passwords has popped up on the darkweb. The experts noted that the data had been stolen directly from users, most of whom use Russia-based services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0ef8a8679968ca9c3ce2abfb2e8415668149a97.png"></article>]]></description>
             <link>http://forklog.net/almost-33-million-twitter-passwords-stolen-and-put-up-for-sale-for-bitcoins/</link>
             <guid isPermaLink="false">c96e79a9-50b7-42ed-bbda-1ce10e1472a1</guid>
-            <pubDate>Fri, 10 Jun 2016 05:44:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tendermint Suggested an Alternative Approach for Blockchain Systems Scaling]]></title>
-            <description><![CDATA[<article><h1>Tendermint Suggested an Alternative Approach for Blockchain Systems Scaling</h1><p>Jae Kwon and Ethan Buchman from Tendermint are developing a new architecture to solve the scalability problem found in blockchain systems. The researchers use the practical experience of such systems as thereum, Bitcoin, and Zerocash.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c85e0e6cca7d2f04c7311c7b9b97ddca497c74b.png"></article>]]></description>
-            <link>http://forklog.net/tendermint-suggested-an-alternative-approach-for-blockchain-systems-scaling/</link>
-            <guid isPermaLink="false">15fa3984-985b-4f54-922f-71af52ae525f</guid>
             <pubDate>Fri, 10 Jun 2016 05:44:15 GMT</pubDate>
         </item>
     </channel>
