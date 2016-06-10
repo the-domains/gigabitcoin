@@ -7,6 +7,13 @@
         <lastBuildDate>Fri, 10 Jun 2016 05:46:33 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[What is the safest bitcoin hardware wallet, a Trezor or cold storage a paper wallet and why?]]></title>
+            <description><![CDATA[<article><h1>What is the safest bitcoin hardware wallet, a Trezor or cold storage a paper wallet and why?</h1><p>Answer (1 of 5): They are both quite good. Paper Wallet * Security: A paper wallet (with strong passphrase!) is extremely secure if you manage to create it on an offline computer and secure printer and are 100% certain that no data remains afterwards (check the spool file in the printer?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/What-is-the-safest-bitcoin-hardware-wallet-a-Trezor-or-cold-storage-a-paper-wallet-and-why</link>
+            <guid isPermaLink="false">e693d556-7ef7-4f37-967b-848a0deac477</guid>
+            <pubDate>Fri, 10 Jun 2016 05:44:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How could blockchain make financial crises less damaging?]]></title>
             <description><![CDATA[<article><h1>How could blockchain make financial crises less damaging?</h1><p>Answer: I doubted. The core reason for any economic/financial crisis is mismanagement. People often blame governments, banks, masons, etc., but in many cases, no power and no brain on Earth can manage such a complex system as billions of people trading between each other more or less chaotically....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
             <link>https://www.quora.com/How-could-blockchain-make-financial-crises-less-damaging</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Windows Binaries for the cpuminer-opt 3.3.6 CPU Miner</h1><p>The cpuminer-opt is an optimized CPU miner ( source) with added optimizations for many algorithms using the AES-NI instruction set, though the miner also works on older SSE2 capable CPUs with lower performance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4441baefd8249f2ac41835e7fa1ac1ddeb7c81aa.jpg"></article>]]></description>
             <link>http://cryptomining-blog.com/7947-windows-binaries-for-the-cpuminer-opt-3-3-6-cpu-miner/</link>
             <guid isPermaLink="false">88ffeb7c-b44f-46ad-be30-a85b990618de</guid>
-            <pubDate>Fri, 10 Jun 2016 05:44:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Windows Binary of the ccMiner 1.5.80-git SP Nicehash fork With Faster Lyra2REv2]]></title>
-            <description><![CDATA[<article><h1>Windows Binary of the ccMiner 1.5.80-git SP Nicehash fork With Faster Lyra2REv2</h1><p>Nicehash has forked SP's ccMiner 1.5.80 GPU miner for Nvidia MAxwell GPUs ( source) and has added significantly improved support for the Lyra2REv2 algorithm that can apparently provide up to 100% increase in terms of performance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/568dbc3af1f358de2ef27714dded5d04225bf62b.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7943-windows-binary-of-the-ccminer-1-5-80-git-sp-with-faster-lyra2rev2/</link>
-            <guid isPermaLink="false">98f7e63b-9eab-4b7a-ae0d-9e2f0c8c34f8</guid>
             <pubDate>Fri, 10 Jun 2016 05:44:14 GMT</pubDate>
         </item>
     </channel>
