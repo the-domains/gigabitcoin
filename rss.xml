@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 14:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2016 14:42:25 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin exhibits all the characteristics of a unique and important asset class]]></title>
+            <description><![CDATA[<article><h1>Bitcoin exhibits all the characteristics of a unique and important asset class</h1><p>A recent research paper published by ARK Investment Management LLC (Ark Invest) and Coinbase, Bitcoin: Ringing the Bell for a New Asset Class, makes a strong case that bitcoin is "the first of its kind in a new asset class - cryptocurrency."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a13a5d8c62206844dfc46db0147c3fe7784d47cb.jpg"></article>]]></description>
+            <link>http://bravenewcoin.com/news/bitcoin-exhibits-all-the-characteristics-of-a-unique-and-important-asset-class/</link>
+            <guid isPermaLink="false">787035f9-65cc-450f-90bb-a10f16312cae</guid>
+            <pubDate>Fri, 10 Jun 2016 14:42:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Singapore To Take Government Computers Offline In Response To Cyber Threats]]></title>
             <description><![CDATA[<article><h1>Singapore To Take Government Computers Offline In Response To Cyber Threats</h1><p>Singapore is a country which will not shy away from taking drastic measures. Not even when those steps result in cutting off internet access for government computers. This initiative will start in May 2017, and is an effort to keep sensitive data safe from internet criminals.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ed691805d607e29ac21557a21b25fed3df60bf4.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Watch; Here's What we are Looking at This Morning</h1><p>Here's what we are focusing on for this morning's session in the bitcoin price. Well, we have come to the end of the week in the bitcoin price, and it's time for our penultimate price watch analysis.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef57b799760d75af185f9d4818447f4107c36d0a.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/06/10/bitcoin-price-watch-heres-looking-morning/</link>
             <guid isPermaLink="false">31ba759c-2569-4679-938f-7315a55bab83</guid>
-            <pubDate>Fri, 10 Jun 2016 13:44:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PayPal Files Patent for Bitcoin Payment Device]]></title>
-            <description><![CDATA[<article><h1>PayPal Files Patent for Bitcoin Payment Device</h1><p>The international payments processor PayPal has filed a patent application with the United States Patent and Trademark Office (USPTO) for a payment device that will be able to process cryptocurrencies including Bitcoin, Litecoin, and Dogecoin. All in all, the device will support credit cards, PayPal accounts, and cryptocurrency wallets, with Bitcoin, Litecoin, and Dogecoin already confirmed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da00ca4663eca701b359c9a7ab96f8422300b059.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/paypal-files-patent-for-bitcoin-payment-device</link>
-            <guid isPermaLink="false">38c89240-e79a-4897-895a-e8f890238e21</guid>
             <pubDate>Fri, 10 Jun 2016 13:44:57 GMT</pubDate>
         </item>
     </channel>
