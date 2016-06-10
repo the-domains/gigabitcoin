@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 13:44:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2016 13:45:05 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BlockCypher Offers Ethereum and Bitcoin APIs on One Platform]]></title>
+            <description><![CDATA[<article><h1>BlockCypher Offers Ethereum and Bitcoin APIs on One Platform</h1><p>BlockCypher, a provider of web services that supports bitcoin blockchain applications, announced that its web services will now allow companies to build applications using the Ethereum protocol without needing blockchain infrastructure. The company made the announcement at the Exponential Finance conference in New York, N.Y.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee21aee28f0acf2063d9d4e673c347bb08b9ba08.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/blockcypher-offers-ethereum-and-bitcoin-apis-on-one-platform/</link>
+            <guid isPermaLink="false">2bea6796-3aad-4a4d-b4aa-8181e1c44249</guid>
+            <pubDate>Fri, 10 Jun 2016 13:44:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[EBTM Moves Antwerp's Bitcoin ATM To A New Location]]></title>
             <description><![CDATA[<article><h1>EBTM Moves Antwerp's Bitcoin ATM To A New Location</h1><p>Belgian Bitcoin enthusiasts rejoiced at the news about the first ATM being installed in the country over a year ago. Ever since that time, however, a lot of things have changed. After the Coffeelabs owners had decided to remove the device, EBTM had to provide a new home for the ATM.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e17f45f97e393eb76193962efdc49e10ea96e2b4.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Decentral to Add Coinbase Debit Card Buy Widget into Jaxx Wallet - NEWSBTC</h1><p>Decentral released yesterday an initial concept design to integrate Jaxx with Coinbase's "Buy Widget", a small piece of software that is easily embeddable into existing websites and programs. This feature will use Coinbase's platform to allow users to instantly purchase and receive small quantities of Bitcoin using debit cards into their Jaxx Bitcoin-Ethereum wallet The company ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1474e51a5b6110e76429046de6c0819eba615fe7.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/06/09/decentral-add-coinbase-debit-card-buy-widget-jaxx-wallet/</link>
             <guid isPermaLink="false">93eca9f1-8c96-47fa-890f-099a10875ee8</guid>
-            <pubDate>Fri, 10 Jun 2016 05:44:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.S. Election Puts $1,000 Bitcoin Within Reach]]></title>
-            <description><![CDATA[<article><h1>U.S. Election Puts $1,000 Bitcoin Within Reach</h1><p>In my now bi-weekly look at Bitcoin I tend to focus on the news rather than the price. Bitcoin is a long-term challenge to banking and even money as we know it, and I have felt that progress in terms of recognition and understanding is more important than the vagaries of the market.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fa0d7d268c12e263a943001e4654d06688a4e61.jpg"></article>]]></description>
-            <link>http://www.nasdaq.com/article/us-election-puts-1000-bitcoin-within-reach-cm633058</link>
-            <guid isPermaLink="false">1420fdd2-b53a-4479-8a4c-76b47d999fa3</guid>
             <pubDate>Fri, 10 Jun 2016 05:44:15 GMT</pubDate>
         </item>
     </channel>
