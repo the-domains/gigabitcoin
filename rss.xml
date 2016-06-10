@@ -7,6 +7,13 @@
         <lastBuildDate>Fri, 10 Jun 2016 13:45:36 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[NASDAQ CEO Says Blockchain Technology is Impressive, Not Always Suitable - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>NASDAQ CEO Says Blockchain Technology is Impressive, Not Always Suitable - NEWSBTC</h1><p>The blockchain technology based solution used by Nasdaq to settle trades has very less capacity compared to actual trade volumes handled by the market. Read more... Nasdaq CEO Robert Greifeld, in his recent comment, has mentioned that the bitcoin blockchain may not be the ideal system to be implemented for the automated trade settlement system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6857f2cc5b38a4c7c7ca15a88f7e5d2f281b605.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/10/nasdaq-ceo-says-blockchain-technology-impressive-not-always-suitable/</link>
+            <guid isPermaLink="false">9b4c793d-2704-4dd1-a190-630d059fdabf</guid>
+            <pubDate>Fri, 10 Jun 2016 13:44:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Chinese Bitcoin Mining Firm Canaan Acquired for $422 Million]]></title>
             <description><![CDATA[<article><h1>Chinese Bitcoin Mining Firm Canaan Acquired for $422 Million</h1><p>C hinese bitcoin mining firm Canaan Creative (more commonly known by its brand Avalon), is being acquired for a reportedly princely sum of ¥3.06bn, approximately $466 million. It makes for a notable business deal in the bitcoin mining industry, perhaps the most notable yet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a89381eebd4adff78e608e1d4dfdbfb85db86baf.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/chinese-bitcoin-mining-firm-canaan-acquired-422-million/</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Blockchain Technology: How are transactions verified/ blocks secured?</h1><p>1 person wants answers to this question. Be the first to answer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
             <link>https://www.quora.com/unanswered/Blockchain-Technology-How-are-transactions-verified-blocks-secured</link>
             <guid isPermaLink="false">839610f4-d4ca-439b-8db3-d60ab36af09c</guid>
-            <pubDate>Fri, 10 Jun 2016 13:44:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is it possible to reduce the current transaction fee in Bitcoin?]]></title>
-            <description><![CDATA[<article><h1>Is it possible to reduce the current transaction fee in Bitcoin?</h1><p>Answer (1 of 2): Nope Because, the money you pay is the money miners get for making that transaction work. Reducing the amount of money will directly impact the miners and mining will become unprofitable. As a result, miners could stop mining and you won't be able to make any transactions furthe...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/Is-it-possible-to-reduce-the-current-transaction-fee-in-Bitcoin</link>
-            <guid isPermaLink="false">475ddca4-e1c4-4502-ad64-ab7b11afd70f</guid>
             <pubDate>Fri, 10 Jun 2016 13:44:55 GMT</pubDate>
         </item>
     </channel>
