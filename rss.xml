@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 05:46:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2016 05:46:32 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[What is the safest bitcoin hardware wallet, a Trezor or cold storage a paper wallet and why?]]></title>
-            <description><![CDATA[<article><h1>What is the safest bitcoin hardware wallet, a Trezor or cold storage a paper wallet and why?</h1><p>Answer (1 of 5): They are both quite good. Paper Wallet * Security: A paper wallet (with strong passphrase!) is extremely secure if you manage to create it on an offline computer and secure printer and are 100% certain that no data remains afterwards (check the spool file in the printer?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/What-is-the-safest-bitcoin-hardware-wallet-a-Trezor-or-cold-storage-a-paper-wallet-and-why</link>
-            <guid isPermaLink="false">e693d556-7ef7-4f37-967b-848a0deac477</guid>
-            <pubDate>Fri, 10 Jun 2016 05:44:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How could blockchain make financial crises less damaging?]]></title>
-            <description><![CDATA[<article><h1>How could blockchain make financial crises less damaging?</h1><p>Answer: I doubted. The core reason for any economic/financial crisis is mismanagement. People often blame governments, banks, masons, etc., but in many cases, no power and no brain on Earth can manage such a complex system as billions of people trading between each other more or less chaotically....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/How-could-blockchain-make-financial-crises-less-damaging</link>
-            <guid isPermaLink="false">d45d4360-5cda-469a-a26c-94a1e44a28ab</guid>
-            <pubDate>Fri, 10 Jun 2016 05:44:15 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[What crucial aspects need to have an autonomous company to be successfully? (Implemented in Ethereum similar to TheDAO)]]></title>
             <description><![CDATA[<article><h1>What crucial aspects need to have an autonomous company to be successfully? (Implemented in Ethereum similar to TheDAO)</h1><p>One day, during my (now Ex) husband's 2nd or 3rd deployment to Iraq ( I forget, he did 4 before his medical discharge) one of our children showed me a picture he drew at school. It was a stick figure drawing of our family.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>Windows Binaries for the cpuminer-opt 3.3.6 CPU Miner</h1><p>The cpuminer-opt is an optimized CPU miner ( source) with added optimizations for many algorithms using the AES-NI instruction set, though the miner also works on older SSE2 capable CPUs with lower performance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4441baefd8249f2ac41835e7fa1ac1ddeb7c81aa.jpg"></article>]]></description>
             <link>http://cryptomining-blog.com/7947-windows-binaries-for-the-cpuminer-opt-3-3-6-cpu-miner/</link>
             <guid isPermaLink="false">88ffeb7c-b44f-46ad-be30-a85b990618de</guid>
+            <pubDate>Fri, 10 Jun 2016 05:44:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Windows Binary of the ccMiner 1.5.80-git SP Nicehash fork With Faster Lyra2REv2]]></title>
+            <description><![CDATA[<article><h1>Windows Binary of the ccMiner 1.5.80-git SP Nicehash fork With Faster Lyra2REv2</h1><p>Nicehash has forked SP's ccMiner 1.5.80 GPU miner for Nvidia MAxwell GPUs ( source) and has added significantly improved support for the Lyra2REv2 algorithm that can apparently provide up to 100% increase in terms of performance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/568dbc3af1f358de2ef27714dded5d04225bf62b.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7943-windows-binary-of-the-ccminer-1-5-80-git-sp-with-faster-lyra2rev2/</link>
+            <guid isPermaLink="false">98f7e63b-9eab-4b7a-ae0d-9e2f0c8c34f8</guid>
+            <pubDate>Fri, 10 Jun 2016 05:44:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Sportsbook Operator Sportsbet.io is Ready for the Big Euro 2016 Kick Off - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Sportsbook Operator Sportsbet.io is Ready for the Big Euro 2016 Kick Off - NEWSBTC</h1><p>June 9, 2016 - Bitcoin sportsbook operator Sportsbet.io is inviting lucky punters to pit their wits against one another for the chance to be at this summer's Euro 2016 tournament. The month-long tournament, which kicks off in France tomorrow, is the biggest betting event since the 2014 World Cup.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bc9e75d180ad310cdb614af4a5efdde27c3c315.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/09/bitcoin-sportsbook-operator-sportsbet-io-ready-big-euro-2016-kick-off/</link>
+            <guid isPermaLink="false">1927016f-edaa-4062-81d3-4aaabe982cf0</guid>
             <pubDate>Fri, 10 Jun 2016 05:44:14 GMT</pubDate>
         </item>
     </channel>
