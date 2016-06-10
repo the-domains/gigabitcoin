@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 05:47:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2016 05:46:54 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Verifying that +timblee is my blockchain ID.https://onename.com/timblee</p>]]></description>
-            <link>https://twitter.com/timberners_lee/status/740677355950080001</link>
-            <guid isPermaLink="false">8b576afe-282c-4834-91b8-9a1211c4502b</guid>
-            <pubDate>Fri, 10 Jun 2016 05:44:15 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Price Testing Traders' Patience]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Testing Traders' Patience</h1><p>Bitcoin price keeps simmering below $600. Perhaps ominously so. Direction is uncertain and the advice to traders remains the same: rather than anticipate the move, let the market show the way. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91388ba7a3e2fd83ba91739b9690eb45cb70c379.png"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>What crucial aspects need to have an autonomous company to be successfully? (Implemented in Ethereum similar to TheDAO)</h1><p>One day, during my (now Ex) husband's 2nd or 3rd deployment to Iraq ( I forget, he did 4 before his medical discharge) one of our children showed me a picture he drew at school. It was a stick figure drawing of our family.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
             <link>https://www.quora.com/unanswered/What-crucial-aspects-need-to-have-an-autonomous-company-to-be-successfully-Implemented-in-Ethereum-similar-to-TheDAO</link>
             <guid isPermaLink="false">03e38715-1ee9-4764-aec9-4983c9bd5e82</guid>
+            <pubDate>Fri, 10 Jun 2016 05:44:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Male Contraceptive Project Loses $13,000 Bitcoin Donation Because of Payment Limit]]></title>
+            <description><![CDATA[<article><h1>Male Contraceptive Project Loses $13,000 Bitcoin Donation Because of Payment Limit</h1><p>Experimental male contraceptive project Vasalgel received a Bitcoin donation valued at $13,000 last month. Unfortunately, the donation was declined and sent back by Vasalgel's payment processor. Via a Facebook post, Vasalgel announced the failed donation and pleaded with the would-be donor to repeat the attempt: "OMG, someone just tried to donate $13,000 of Bitcoins to support Vasalgel development, but it was declined because it's over the $10,000 daily limit!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e8a8b6a25bf0094b2c7c8f465aa81badaf982e8.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/male-contraceptive-project-loses-13000-bitcoin-donation-because-of-payment-limit</link>
+            <guid isPermaLink="false">334e368a-f21e-4ba4-9189-5b4103e02dc0</guid>
             <pubDate>Fri, 10 Jun 2016 05:44:15 GMT</pubDate>
         </item>
     </channel>
