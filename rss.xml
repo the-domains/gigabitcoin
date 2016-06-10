@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 13:45:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2016 13:45:35 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blockchain Technology: How are transactions verified/ blocks secured?]]></title>
+            <description><![CDATA[<article><h1>Blockchain Technology: How are transactions verified/ blocks secured?</h1><p>1 person wants answers to this question. Be the first to answer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/Blockchain-Technology-How-are-transactions-verified-blocks-secured</link>
+            <guid isPermaLink="false">839610f4-d4ca-439b-8db3-d60ab36af09c</guid>
+            <pubDate>Fri, 10 Jun 2016 13:44:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is it possible to reduce the current transaction fee in Bitcoin?]]></title>
             <description><![CDATA[<article><h1>Is it possible to reduce the current transaction fee in Bitcoin?</h1><p>Answer (1 of 2): Nope Because, the money you pay is the money miners get for making that transaction work. Reducing the amount of money will directly impact the miners and mining will become unprofitable. As a result, miners could stop mining and you won't be able to make any transactions furthe...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Testing Traders' Patience</h1><p>Bitcoin price keeps simmering below $600. Perhaps ominously so. Direction is uncertain and the advice to traders remains the same: rather than anticipate the move, let the market show the way. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91388ba7a3e2fd83ba91739b9690eb45cb70c379.png"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/bitcoin-price-testing-traders-patience/</link>
             <guid isPermaLink="false">4f04aa40-e104-409c-b9ce-81ec5e6c3174</guid>
-            <pubDate>Fri, 10 Jun 2016 05:44:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Uber for Knowledge" Augur Teams Up With Blockchain Security Experts]]></title>
-            <description><![CDATA[<article><h1>"Uber for Knowledge" Augur Teams Up With Blockchain Security Experts</h1><p>It will enable a highly secure and user-friendly account creation process, along with automatic encryption, backup and synchronization that will make Augur feel like a traditional website for the end-user. This solution could be the world's first for interacting with blockchains.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f20731b3d2c5e6d51e37cbd6c08d0ccdac6c5e46.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/uber-for-knowledge-augur-teams-up-with-blockchain-security-experts</link>
-            <guid isPermaLink="false">93d8f113-95a1-40e9-a77a-90830ade2442</guid>
             <pubDate>Fri, 10 Jun 2016 05:44:15 GMT</pubDate>
         </item>
     </channel>
