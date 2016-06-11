@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 17:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2016 17:16:02 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price In The Balance]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price In The Balance</h1><p>Bitcoin price continues slowly losing altitude below $580 (Bitstamp). The likelihood of decline remains, although we must acknowledge the possibility of a low-liquidity weekend spike to the upside. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f24e8b50099465c360586d207158684764a3ad1.png"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-price-balance/</link>
+            <guid isPermaLink="false">92cfe872-0c13-4e3a-a7bd-9f2092aa53d6</guid>
+            <pubDate>Sat, 11 Jun 2016 17:15:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cisco Ransomware Tool Can Now Decrypt All Versions of TeslaCrypt]]></title>
             <description><![CDATA[<article><h1>Cisco Ransomware Tool Can Now Decrypt All Versions of TeslaCrypt</h1><p>Albeit the Teslacrypt developers released the master decryption key on the Internet a few weeks ago, it has taken security firm Cisco quite some time to develop an anti ransomware tool. Now that their tool is ready, users can freely decrypt files infected by all four versions of TelsaCrypt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/12e7083d3987125a074703af90aee9192b00f6be.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Blockchain to Track Solar Power Production, Ethereum to Utilise The Data</h1><p>A host of companies, nonprofits and consortiums gathered in London to discuss how the blockchain could be used to track solar power production across the globe, while Ethereum smart contracts could utilise the data.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33a3d4cb3a85c76d9a443ef3156623c2d60b6df2.jpg"></article>]]></description>
             <link>https://cointelegraph.com/news/blockchain-to-track-solar-power-production-ethereum-to-utilise-the-data</link>
             <guid isPermaLink="false">a1b9c5e7-67f3-4a7f-aa86-49995237eab3</guid>
-            <pubDate>Sat, 11 Jun 2016 15:27:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin VC Tim Draper: Blockchain is the Perfect Bureaucrat]]></title>
-            <description><![CDATA[<article><h1>Bitcoin VC Tim Draper: Blockchain is the Perfect Bureaucrat</h1><p>CoinTelegraph spoke to Tim Draper at Arctic15 about how Blockchain and Bitcoin are changing everything in our lives, and also what the billionaire VC is actually doing with his thousands of Bitcoin. Tim Draper is known for being the 'Nostradamus' of the markets with an incredible track record of correctly predicting the future.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b11f6bfa0e96fc8be49cc52c243c8387d8d2309d.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/bitcoin-vc-tim-draper-blockchain-is-the-perfect-bureaucrat</link>
-            <guid isPermaLink="false">1f3b8c90-204d-43d0-b3a9-c3d684b41a65</guid>
             <pubDate>Sat, 11 Jun 2016 15:27:40 GMT</pubDate>
         </item>
     </channel>
