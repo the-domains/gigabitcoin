@@ -29,12 +29,12 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  http://cointelegraph.com/news/blockchain-entertainment-singular-to-become-first-tv-series-on-ethereum-adventures
+  https://cointelegraph.com/news/blockchain-entertainment-singular-to-become-first-tv-series-on-ethereum-adventures
 title: >-
   Blockchain Entertainment: 'Singular' To Become First TV Series On Ethereum
   Adventures
-datePublished: '2016-06-11T03:40:38.381Z'
-dateModified: '2016-06-10T18:11:11.339Z'
+datePublished: '2016-06-11T15:27:40.048Z'
+dateModified: '2016-06-11T04:11:53.402Z'
 starred: false
 sourcePath: _posts/2016-06-11-blockchain-entertainment-singular-to-become-first-tv-seri.md
 inFeed: true
