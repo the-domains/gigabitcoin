@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 15:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2016 15:28:25 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Where are bitcoin miners located?]]></title>
+            <description><![CDATA[<article><h1>Where are bitcoin miners located?</h1><p>My Arabic is not good enough to know how accurate this translation is, but here it is in English. Hamas Covenant 1988 Quotes:"The time will not come until Muslims will fight the Jews (and kill them); until the Jews hide behind rocks and trees, which will cry: O Muslim!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/Where-are-bitcoin-miners-located</link>
+            <guid isPermaLink="false">b275c6dd-35df-41a0-bae8-5d889a22b1d9</guid>
+            <pubDate>Sat, 11 Jun 2016 15:27:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Yes @openbazaar will have a full Bitcoin wallet in the next major release. #fact</p>]]></description>
@@ -68,13 +75,6 @@
             <link>http://bitcoin.stackexchange.com/questions/45777/how-can-i-convert-my-bitcoin-to-western-union-urgently</link>
             <guid isPermaLink="false">846c8132-3555-4aeb-a486-3f2a123b537d</guid>
             <pubDate>Sat, 11 Jun 2016 03:40:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Looking Ahead to the Weekend - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Looking Ahead to the Weekend - NEWSBTC</h1><p>Here's what we are focusing on for this evening's session in the bitcoin price. The week has now drawn to a close out of Europe, and it's time to put together our final analysis of the week.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f717e21dbf392191baac75da25334f5697936ccf.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/10/bitcoin-price-watch-looking-ahead-weekend/</link>
-            <guid isPermaLink="false">839b88af-1d9f-44be-bf1f-d15bb94545c7</guid>
-            <pubDate>Sat, 11 Jun 2016 03:40:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
