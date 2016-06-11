@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 21:34:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2016 21:34:35 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The Bitcoin Halving - What Do I Need To Do?]]></title>
-            <description><![CDATA[<article><h1>The Bitcoin Halving - What Do I Need To Do?</h1><p>With the upcoming Bitcoin halving, a lot of people are wondering if they need to undertake concrete action to ensure their software is up-to-date. As long as one is running the latest version of Bitcoin Core - or a mobile client - there is nothing to worry about.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bea60ca6c53927e25a151558cd624349bcfad2a2.jpg"></article>]]></description>
-            <link>http://themerkle.com/the-bitcoin-halving-what-do-i-need-to-do/</link>
-            <guid isPermaLink="false">5d3ac443-8e10-449a-9144-a42643ea69c2</guid>
-            <pubDate>Sat, 11 Jun 2016 21:33:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin on Stossel]]></title>
-            <description><![CDATA[<article><h1>Bitcoin on Stossel</h1><p>John Stossel discusses Bitcoin with a chick who wants to be a musician.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d97d170000c1f8faa263e56c198f1e17f3d79a93.jpg"></article>]]></description>
-            <link>http://www.youtube.com/watch?v=rcjyS1v5jak</link>
-            <guid isPermaLink="false">233ab16c-ca94-4176-8b32-13b6348a63b2</guid>
-            <pubDate>Sat, 11 Jun 2016 21:33:52 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Andreessen Horowitz's Recent $1.5B Round Could Be Big for Bitcoin]]></title>
             <description><![CDATA[<article><h1>Andreessen Horowitz's Recent $1.5B Round Could Be Big for Bitcoin</h1><p>Just recently Andreessen Horowitz has Also read: Jaxx Ice Cube Offers 'Deeper' Cold Storage for Your Bits & Ether raised a whopping 1.5 billion dollars to invest in the next big technological breakthroughs. This injection of capital into Andreessen Horowitz could mean big things for Bitcoin-related and distributed ledger technology startups and projects.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c964632c134a9a17b316f560193d9ca3058bc158.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>https://www.cryptocoinsnews.com/bitcoin-price-balance/</link>
             <guid isPermaLink="false">92cfe872-0c13-4e3a-a7bd-9f2092aa53d6</guid>
             <pubDate>Sat, 11 Jun 2016 17:15:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cisco Ransomware Tool Can Now Decrypt All Versions of TeslaCrypt]]></title>
+            <description><![CDATA[<article><h1>Cisco Ransomware Tool Can Now Decrypt All Versions of TeslaCrypt</h1><p>Albeit the Teslacrypt developers released the master decryption key on the Internet a few weeks ago, it has taken security firm Cisco quite some time to develop an anti ransomware tool. Now that their tool is ready, users can freely decrypt files infected by all four versions of TelsaCrypt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/12e7083d3987125a074703af90aee9192b00f6be.jpg"></article>]]></description>
+            <link>http://themerkle.com/cisco-ransomware-tool-can-now-decrypt-all-versions-of-teslacrypt/</link>
+            <guid isPermaLink="false">425be6da-773c-4de0-b13e-84fb07a92cc0</guid>
+            <pubDate>Sat, 11 Jun 2016 17:15:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PayPal Stops Operating in Turkey, Online Payment Sector Turns to Bitcoin]]></title>
+            <description><![CDATA[<article><h1>PayPal Stops Operating in Turkey, Online Payment Sector Turns to Bitcoin</h1><p>With Turkey residents losing a convenient option for sending and receiving payments online, the country's online payment sector is gradually yielding to a free control market with the uptake in Bitcoin use. PayPal no longer operates in Turkey after June 6 following the non-approval of its license by the Banking Regulation and Supervision Agency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fbb844bed5c967687c09855c924cd0d03786f0f.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/paypal-stops-operating-in-turkey-online-payment-sector-turns-to-bitcoin</link>
+            <guid isPermaLink="false">806dfb8d-faca-45c0-a187-a780822809ac</guid>
+            <pubDate>Sat, 11 Jun 2016 15:27:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
