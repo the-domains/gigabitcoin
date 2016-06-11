@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 15:29:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2016 17:16:01 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cisco Ransomware Tool Can Now Decrypt All Versions of TeslaCrypt]]></title>
+            <description><![CDATA[<article><h1>Cisco Ransomware Tool Can Now Decrypt All Versions of TeslaCrypt</h1><p>Albeit the Teslacrypt developers released the master decryption key on the Internet a few weeks ago, it has taken security firm Cisco quite some time to develop an anti ransomware tool. Now that their tool is ready, users can freely decrypt files infected by all four versions of TelsaCrypt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/12e7083d3987125a074703af90aee9192b00f6be.jpg"></article>]]></description>
+            <link>http://themerkle.com/cisco-ransomware-tool-can-now-decrypt-all-versions-of-teslacrypt/</link>
+            <guid isPermaLink="false">425be6da-773c-4de0-b13e-84fb07a92cc0</guid>
+            <pubDate>Sat, 11 Jun 2016 17:15:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[PayPal Stops Operating in Turkey, Online Payment Sector Turns to Bitcoin]]></title>
             <description><![CDATA[<article><h1>PayPal Stops Operating in Turkey, Online Payment Sector Turns to Bitcoin</h1><p>With Turkey residents losing a convenient option for sending and receiving payments online, the country's online payment sector is gradually yielding to a free control market with the uptake in Bitcoin use. PayPal no longer operates in Turkey after June 6 following the non-approval of its license by the Banking Regulation and Supervision Agency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fbb844bed5c967687c09855c924cd0d03786f0f.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin VC Tim Draper: Blockchain is the Perfect Bureaucrat</h1><p>CoinTelegraph spoke to Tim Draper at Arctic15 about how Blockchain and Bitcoin are changing everything in our lives, and also what the billionaire VC is actually doing with his thousands of Bitcoin. Tim Draper is known for being the 'Nostradamus' of the markets with an incredible track record of correctly predicting the future.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b11f6bfa0e96fc8be49cc52c243c8387d8d2309d.jpg"></article>]]></description>
             <link>https://cointelegraph.com/news/bitcoin-vc-tim-draper-blockchain-is-the-perfect-bureaucrat</link>
             <guid isPermaLink="false">1f3b8c90-204d-43d0-b3a9-c3d684b41a65</guid>
-            <pubDate>Sat, 11 Jun 2016 15:27:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin and Blockchain Foster the Evolution of Commerce in Greece]]></title>
-            <description><![CDATA[<article><h1>Bitcoin and Blockchain Foster the Evolution of Commerce in Greece</h1><p>With all eyes of the financial world on Bitcoin and Blockchain this year, what should be the legal framework of the new technology entering the official fintech zone? Who will be responsible for any financial losses?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f71f042808e697b11c0c774e63a766e4e41b11ac.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/bitcoin-and-blockchain-foster-the-evolution-of-commerce-in-greece</link>
-            <guid isPermaLink="false">2e5ff399-2865-4bf0-b1ba-f24d5c2bd88a</guid>
             <pubDate>Sat, 11 Jun 2016 15:27:40 GMT</pubDate>
         </item>
     </channel>
