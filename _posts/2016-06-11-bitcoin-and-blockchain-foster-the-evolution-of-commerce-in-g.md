@@ -27,10 +27,10 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  http://cointelegraph.com/news/bitcoin-and-blockchain-foster-the-evolution-of-commerce-in-greece
+  https://cointelegraph.com/news/bitcoin-and-blockchain-foster-the-evolution-of-commerce-in-greece
 title: Bitcoin and Blockchain Foster the Evolution of Commerce in Greece
-datePublished: '2016-06-11T03:40:38.782Z'
-dateModified: '2016-06-10T17:11:56.436Z'
+datePublished: '2016-06-11T15:27:40.271Z'
+dateModified: '2016-06-11T04:11:52.679Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-11-bitcoin-and-blockchain-foster-the-evolution-of-commerce-in-g.md
