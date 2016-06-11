@@ -4,8 +4,36 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 03:41:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2016 03:41:20 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Windows Binary of the ccMiner 1.7.6-r5 fork With Faster Lyra2REv2]]></title>
+            <description><![CDATA[<article><h1>Windows Binary of the ccMiner 1.7.6-r5 fork With Faster Lyra2REv2</h1><p>Here comes a new ccMiner 1.7.6-r5 fork from Nanashi Meiyo-Meijin ( source) based on tpruvot's fork of ccMiner, but with even faster Lyra2REv2 performance. The ccMiner 1.5.80-git SP Nicehash fork from yesterday with improved Lyra2REv2 hashrate was apparently based on the code from the same author, but the Windows binary we have compiled from the ccMiner 1.7.6-r5 source seems to be slightly more optimized and thus is a bit faster.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5abb7f18f917b3a7fb5b443879c3847e5593dda4.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7954-windows-binary-of-the-ccminer-1-7-6-r5-fork-with-faster-lyra2rev2/</link>
+            <guid isPermaLink="false">c90ed112-63f0-47c5-bb04-330e54deedbe</guid>
+            <pubDate>Sat, 11 Jun 2016 03:40:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Singularity University's CEO Believes Blockchain Has Gone 'Exponential' - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Why Singularity University's CEO Believes Blockchain Has Gone 'Exponential' - CoinDesk</h1><p>Based in NASA's Research Park, Singularity University has been preparing its students to challenge traditional concepts of technology growth since it was founded by Google's director of engineering eight years ago. A storied Silicon Valley think tank, Singularity University has an established history of tracking growth rates, and its analysis of new technologies carries significant weight with market observers and businesses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b28359574a507481da2ce9e2144505c1d61bcf2.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/singularity-universitys-ceo-say-blockchains-gone-exponential/</link>
+            <guid isPermaLink="false">17ff6b51-0052-43fa-a7de-23915ee20f21</guid>
+            <pubDate>Sat, 11 Jun 2016 03:40:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[One of Japan's Largest Banks is Downplaying its Rumored Digital Currency Plans - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>One of Japan's Largest Banks is Downplaying its Rumored Digital Currency Plans - CoinDesk</h1><p>Is a major Japanese financial institution developing its own digital currency? First asserted in a report by The Asahi Shimbun in February, a number of reports are now speculating that Bank of Tokyo-Mitsubishi UFJ (MUFG), one of Japan's largest banks by total assets, is working on its own digital currency, named MUFG coin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/512e94766d601abfc1c10c09c9b5aab44083527b.png"></article>]]></description>
+            <link>http://www.coindesk.com/japan-bank-digital-currency-rumors/</link>
+            <guid isPermaLink="false">d974fd19-e14e-479b-8642-bd1ac6c4ba30</guid>
+            <pubDate>Sat, 11 Jun 2016 03:40:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Bitcoin Halving - What Will Change?]]></title>
+            <description><![CDATA[<article><h1>The Bitcoin Halving - What Will Change?</h1><p>The upcoming Bitcoin halving has been getting a lot of attention lately. Not only will there be less new bitcoins added to the existing supply on a daily basis, but a lot of people expect there will be a price change as well.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eff56f7f739a96df19d006dd859e3fff5530124e.jpg"></article>]]></description>
+            <link>http://themerkle.com/the-bitcoin-halving-what-will-change/</link>
+            <guid isPermaLink="false">d03c0240-9ca5-467b-acd5-b8bc44540534</guid>
+            <pubDate>Sat, 11 Jun 2016 03:40:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Synechron Survey: Blockchain and AI Will Have Huge Impact on Financial Services Over Next 10 Years]]></title>
             <description><![CDATA[<article><h1>Synechron Survey: Blockchain and AI Will Have Huge Impact on Financial Services Over Next 10 Years</h1><p>Synechron, a global consulting and technology innovator in the financial services industry, has released the results of a survey conducted by the TABB Group for Synechron on the potential of blockchain and artificial intelligence (AI) in financial services, with respondents believing that they will have a major impact over the next 10 years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cef0426f30c5d79e3c028f059123e1a4c678777f.jpg"></article>]]></description>
@@ -47,34 +75,6 @@
             <link>http://imgur.com/zCmRenE</link>
             <guid isPermaLink="false">4f64edcc-8e5c-45c5-a0f5-6931c36279fe</guid>
             <pubDate>Sat, 11 Jun 2016 03:40:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain to Track Solar Power Production, Ethereum to Utilise The Data]]></title>
-            <description><![CDATA[<article><h1>Blockchain to Track Solar Power Production, Ethereum to Utilise The Data</h1><p>A host of companies, nonprofits and consortiums gathered in London to discuss how the blockchain could be used to track solar power production across the globe, while Ethereum smart contracts could utilise the data.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33a3d4cb3a85c76d9a443ef3156623c2d60b6df2.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/blockchain-to-track-solar-power-production-ethereum-to-utilise-the-data</link>
-            <guid isPermaLink="false">ed37003d-0232-4c25-907e-d1bd95b16912</guid>
-            <pubDate>Fri, 10 Jun 2016 14:42:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin exhibits all the characteristics of a unique and important asset class]]></title>
-            <description><![CDATA[<article><h1>Bitcoin exhibits all the characteristics of a unique and important asset class</h1><p>A recent research paper published by ARK Investment Management LLC (Ark Invest) and Coinbase, Bitcoin: Ringing the Bell for a New Asset Class, makes a strong case that bitcoin is "the first of its kind in a new asset class - cryptocurrency."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a13a5d8c62206844dfc46db0147c3fe7784d47cb.jpg"></article>]]></description>
-            <link>http://bravenewcoin.com/news/bitcoin-exhibits-all-the-characteristics-of-a-unique-and-important-asset-class/</link>
-            <guid isPermaLink="false">787035f9-65cc-450f-90bb-a10f16312cae</guid>
-            <pubDate>Fri, 10 Jun 2016 14:42:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mastercard International Chief: Blockchain Is Good for the Future]]></title>
-            <description><![CDATA[<article><h1>Mastercard International Chief: Blockchain Is Good for the Future</h1><p>MasterCard international President Ann Cairns has called blockchain, the technology powering bitcoin, a very promising technology which MasterCard sees as a "good thing for the future." Private banking corporations, investment banks, stock exchanges, and even central banks have taken deliberate, extensive measures to understand the innovation of blockchain technology in an effort to apply it in their own respective realms. Global card payments network MasterCard is among the companies investing in blockchain technology.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8bed360b8988c5eaf187757a5376fc7835ff945f.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/mastercard-international-chief-blockchain-good-future/</link>
-            <guid isPermaLink="false">64064588-cf9d-42d6-ab96-68c6e4ed6737</guid>
-            <pubDate>Fri, 10 Jun 2016 14:42:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[6 investments traders say will rally: bitcoin, solarcity, swiss francs and more]]></title>
-            <description><![CDATA[<article><h1>6 investments traders say will rally: bitcoin, solarcity, swiss francs and more</h1><p>Bitcoin and Manchester United ( MANU) are going to soar, at least according to what traders have been saying at Tradebird, a social trading app. It's important to know what real traders think, because it can provide clues about the future direction of currencies, stocks and commodities.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75831ef2a872853d8c00d9c1f1c438438027eaec.jpg"></article>]]></description>
-            <link>https://www.thestreet.com/story/13601605/1/6-investments-traders-say-will-rally-bitcoin-solarcity-swiss-francs-and-more.html</link>
-            <guid isPermaLink="false">84dc608f-67ee-4a76-964d-d7b07ce79b81</guid>
-            <pubDate>Fri, 10 Jun 2016 14:42:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
