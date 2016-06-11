@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 17:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2016 17:16:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BitTorrent Forum Breach Results In Passwords Being Stolen]]></title>
+            <description><![CDATA[<article><h1>BitTorrent Forum Breach Results In Passwords Being Stolen</h1><p>It is not hard to come by yet another data breach these days, and forums remain a very weak point of the chain. Traditional databases are utterly insufficient when it comes to storing sensitive data. The latest breach comes in the form of a list of uTorrent accounts being stolen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dde75616774e74cfc59181f420ed394be5b774f7.jpg"></article>]]></description>
+            <link>http://themerkle.com/bittorrent-forum-breach-results-in-passwords-being-stolen/</link>
+            <guid isPermaLink="false">a707ec5f-4c54-4f8f-aaa9-399559e225da</guid>
+            <pubDate>Sat, 11 Jun 2016 17:15:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price In The Balance]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price In The Balance</h1><p>Bitcoin price continues slowly losing altitude below $580 (Bitstamp). The likelihood of decline remains, although we must acknowledge the possibility of a low-liquidity weekend spike to the upside. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f24e8b50099465c360586d207158684764a3ad1.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>PayPal Files Patent for Bitcoin Payment Device</h1><p>The international payments processor PayPal has filed a patent application with the United States Patent and Trademark Office (USPTO) for a payment device that will be able to process cryptocurrencies including Bitcoin, Litecoin, and Dogecoin. All in all, the device will support credit cards, PayPal accounts, and cryptocurrency wallets, with Bitcoin, Litecoin, and Dogecoin already confirmed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da00ca4663eca701b359c9a7ab96f8422300b059.jpg"></article>]]></description>
             <link>https://cointelegraph.com/news/paypal-files-patent-for-bitcoin-payment-device</link>
             <guid isPermaLink="false">a42c4082-b6ac-46bb-bba8-40bdc59fa7a7</guid>
-            <pubDate>Sat, 11 Jun 2016 15:27:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain to Track Solar Power Production, Ethereum to Utilise The Data]]></title>
-            <description><![CDATA[<article><h1>Blockchain to Track Solar Power Production, Ethereum to Utilise The Data</h1><p>A host of companies, nonprofits and consortiums gathered in London to discuss how the blockchain could be used to track solar power production across the globe, while Ethereum smart contracts could utilise the data.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33a3d4cb3a85c76d9a443ef3156623c2d60b6df2.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/blockchain-to-track-solar-power-production-ethereum-to-utilise-the-data</link>
-            <guid isPermaLink="false">a1b9c5e7-67f3-4a7f-aa86-49995237eab3</guid>
             <pubDate>Sat, 11 Jun 2016 15:27:40 GMT</pubDate>
         </item>
     </channel>
