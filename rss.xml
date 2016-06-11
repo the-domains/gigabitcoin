@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 17:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2016 21:33:56 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The DAO Undergoes Low Voting Turnout]]></title>
+            <description><![CDATA[<article><h1>The DAO Undergoes Low Voting Turnout</h1><p>The great experiment called The DAO (the first decentralized internet company) began receiving its first proposals, and two weeks later, not a single one has met the quorum. Exactly two weeks ago The DAO started to receive its first proposals.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79464fa5b947f0d658bf4879e3e6bcd713f55d0b.jpg"></article>]]></description>
+            <link>http://themerkle.com/the-dao-undergoes-low-voting-turnout/</link>
+            <guid isPermaLink="false">33652e29-ab92-44f7-b516-a3f00d5df812</guid>
+            <pubDate>Sat, 11 Jun 2016 21:33:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How The FBI Crossed The Gap Between Surveillance and Hacking Civilians]]></title>
+            <description><![CDATA[<article><h1>How The FBI Crossed The Gap Between Surveillance and Hacking Civilians</h1><p>Ever since Edward Snowden revealed the intricate inner workings of the NSA, there has never been more scrutiny against law enforcement agencies trying to spy on citizens. Especially the FBI is under a lot of fire these days, but as it turns out, they have been hacking civilian computers for nearly 20 years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d117be14a645e05a703720dfacf05c48d02d738.jpg"></article>]]></description>
+            <link>http://themerkle.com/how-the-fbi-crossed-the-gap-between-surveillance-and-hacking-civilians/</link>
+            <guid isPermaLink="false">12ae71da-aff7-4591-9e87-22c4dfc79c67</guid>
+            <pubDate>Sat, 11 Jun 2016 21:33:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BitTorrent Forum Breach Results In Passwords Being Stolen]]></title>
             <description><![CDATA[<article><h1>BitTorrent Forum Breach Results In Passwords Being Stolen</h1><p>It is not hard to come by yet another data breach these days, and forums remain a very weak point of the chain. Traditional databases are utterly insufficient when it comes to storing sensitive data. The latest breach comes in the form of a list of uTorrent accounts being stolen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dde75616774e74cfc59181f420ed394be5b774f7.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>"Uber for Knowledge" Augur Teams Up With Blockchain Security Experts</h1><p>It will enable a highly secure and user-friendly account creation process, along with automatic encryption, backup and synchronization that will make Augur feel like a traditional website for the end-user. This solution could be the world's first for interacting with blockchains.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f20731b3d2c5e6d51e37cbd6c08d0ccdac6c5e46.jpg"></article>]]></description>
             <link>https://cointelegraph.com/news/uber-for-knowledge-augur-teams-up-with-blockchain-security-experts</link>
             <guid isPermaLink="false">9eafaaa3-69f3-4ded-9a95-f37f831db499</guid>
-            <pubDate>Sat, 11 Jun 2016 15:27:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PSD2 to Accelerate Digital Revolution, Blockchain Adoption]]></title>
-            <description><![CDATA[<article><h1>PSD2 to Accelerate Digital Revolution, Blockchain Adoption</h1><p>Aiming at accelerating innovation and developing a unified payment services sector, the European Commission has adopted the Payment Services Directive (PSD2), which is expected to bring vital changes. Lately, regulators have been increasingly focussing on ensuring consumer protection, competition, and security in the area of financial services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3718c8a18437a6784a7e4a949b0053521933b110.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/psd2-to-accelerate-digital-revolution</link>
-            <guid isPermaLink="false">e16be0c8-2c30-49e7-8190-da308c03c141</guid>
-            <pubDate>Sat, 11 Jun 2016 15:27:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PayPal Files Patent for Bitcoin Payment Device]]></title>
-            <description><![CDATA[<article><h1>PayPal Files Patent for Bitcoin Payment Device</h1><p>The international payments processor PayPal has filed a patent application with the United States Patent and Trademark Office (USPTO) for a payment device that will be able to process cryptocurrencies including Bitcoin, Litecoin, and Dogecoin. All in all, the device will support credit cards, PayPal accounts, and cryptocurrency wallets, with Bitcoin, Litecoin, and Dogecoin already confirmed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da00ca4663eca701b359c9a7ab96f8422300b059.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/paypal-files-patent-for-bitcoin-payment-device</link>
-            <guid isPermaLink="false">a42c4082-b6ac-46bb-bba8-40bdc59fa7a7</guid>
             <pubDate>Sat, 11 Jun 2016 15:27:40 GMT</pubDate>
         </item>
     </channel>
