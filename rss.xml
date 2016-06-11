@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 03:41:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2016 03:41:25 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ethereum Announces "Unlimited" Scalability Roadmap]]></title>
+            <description><![CDATA[<article><h1>Ethereum Announces "Unlimited" Scalability Roadmap</h1><p>Vitalik Buterin, founder of Ethereum, has laid out an incredibly ambitious roadmap with "unlimited" scalability within two years in a 43-page analysis of blockchain technology and its strength and weaknesses in a public or private setting.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ab442d5f03c0de21dcc172b92ff2ab634e1e70c.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/ethereum-announces-unlimited-scalability-roadmap/</link>
+            <guid isPermaLink="false">a6d1ab08-7f9a-4767-a6f6-41fbf2aadd25</guid>
+            <pubDate>Sat, 11 Jun 2016 03:40:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blockchain Entertainment: 'Singular' To Become First TV Series On Ethereum Adventures]]></title>
             <description><![CDATA[<article><h1>Blockchain Entertainment: 'Singular' To Become First TV Series On Ethereum Adventures</h1><p>Production of 'Singular', the first sci-fi TV series on the Ethereum Blockchain that targets sci-fi and cyberpunk enthusiasts as well as people from all other walks of life, cultures and countries, will start on October 3. This was announced by newly launched blockchain entertainment studio, Singular DTV - or S-DTV.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/23d3b501f4e66545e8c4ecbf5c3697d1f9d953a3.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.coindesk.com/japan-bank-digital-currency-rumors/</link>
             <guid isPermaLink="false">d974fd19-e14e-479b-8642-bd1ac6c4ba30</guid>
             <pubDate>Sat, 11 Jun 2016 03:40:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Bitcoin Halving - What Will Change?]]></title>
-            <description><![CDATA[<article><h1>The Bitcoin Halving - What Will Change?</h1><p>The upcoming Bitcoin halving has been getting a lot of attention lately. Not only will there be less new bitcoins added to the existing supply on a daily basis, but a lot of people expect there will be a price change as well.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eff56f7f739a96df19d006dd859e3fff5530124e.jpg"></article>]]></description>
-            <link>http://themerkle.com/the-bitcoin-halving-what-will-change/</link>
-            <guid isPermaLink="false">d03c0240-9ca5-467b-acd5-b8bc44540534</guid>
-            <pubDate>Sat, 11 Jun 2016 03:40:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
