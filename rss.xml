@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 03:41:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2016 03:41:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Decentralized Web Initiative Aims to Reinvent Web With Peer-To-Peer And Blockchain Technology]]></title>
+            <description><![CDATA[<article><h1>Decentralized Web Initiative Aims to Reinvent Web With Peer-To-Peer And Blockchain Technology</h1><p>The first Decentralized Web Summit, a gathering of developers striving to make the web open, secure and free of censorship by distributing data, processing and hosting across millions of computers around the world, with no centralized control, was held in San Francisco on June 8 and 9.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6be8fdfeb4fb3db431cf788e44177ccf082831a.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/decentralized-web-initiative-aims-to-reinvent-web-with-peer-to-peer-and-blockchain-technology-1465574954</link>
+            <guid isPermaLink="false">8c8a317e-903b-46e6-9cdf-df780ac6e3ad</guid>
+            <pubDate>Sat, 11 Jun 2016 03:40:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ethereum Announces "Unlimited" Scalability Roadmap]]></title>
             <description><![CDATA[<article><h1>Ethereum Announces "Unlimited" Scalability Roadmap</h1><p>Vitalik Buterin, founder of Ethereum, has laid out an incredibly ambitious roadmap with "unlimited" scalability within two years in a 43-page analysis of blockchain technology and its strength and weaknesses in a public or private setting.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ab442d5f03c0de21dcc172b92ff2ab634e1e70c.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Why Singularity University's CEO Believes Blockchain Has Gone 'Exponential' - CoinDesk</h1><p>Based in NASA's Research Park, Singularity University has been preparing its students to challenge traditional concepts of technology growth since it was founded by Google's director of engineering eight years ago. A storied Silicon Valley think tank, Singularity University has an established history of tracking growth rates, and its analysis of new technologies carries significant weight with market observers and businesses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b28359574a507481da2ce9e2144505c1d61bcf2.jpg"></article>]]></description>
             <link>http://www.coindesk.com/singularity-universitys-ceo-say-blockchains-gone-exponential/</link>
             <guid isPermaLink="false">17ff6b51-0052-43fa-a7de-23915ee20f21</guid>
-            <pubDate>Sat, 11 Jun 2016 03:40:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[One of Japan's Largest Banks is Downplaying its Rumored Digital Currency Plans - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>One of Japan's Largest Banks is Downplaying its Rumored Digital Currency Plans - CoinDesk</h1><p>Is a major Japanese financial institution developing its own digital currency? First asserted in a report by The Asahi Shimbun in February, a number of reports are now speculating that Bank of Tokyo-Mitsubishi UFJ (MUFG), one of Japan's largest banks by total assets, is working on its own digital currency, named MUFG coin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/512e94766d601abfc1c10c09c9b5aab44083527b.png"></article>]]></description>
-            <link>http://www.coindesk.com/japan-bank-digital-currency-rumors/</link>
-            <guid isPermaLink="false">d974fd19-e14e-479b-8642-bd1ac6c4ba30</guid>
             <pubDate>Sat, 11 Jun 2016 03:40:37 GMT</pubDate>
         </item>
     </channel>
