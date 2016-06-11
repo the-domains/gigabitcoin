@@ -7,13 +7,6 @@
         <lastBuildDate>Sat, 11 Jun 2016 21:34:34 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Where are bitcoin miners located?]]></title>
-            <description><![CDATA[<article><h1>Where are bitcoin miners located?</h1><p>Most of these specialized computers are located in centralized warehouses known as mining farms. Many of them are located in China. It's also possible for individuals to mine bitcoin using computer graphic cards or ASIC devices. However, due to the high difficulty level bitcoin is generally not profitable to mine for individuals.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/Where-are-bitcoin-miners-located</link>
-            <guid isPermaLink="false">05b25412-bc6e-4b9c-8d70-0c85c8d1623d</guid>
-            <pubDate>Sat, 11 Jun 2016 21:33:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Payment Fraud Can Reach New Heights In The Next Three years]]></title>
             <description><![CDATA[<article><h1>Payment Fraud Can Reach New Heights In The Next Three years</h1><p>Fraud remains one of the key hurdles to overcome in the financial sector. Although card issuers and banks are doing what they can to reimburse customers, proactive action is direly needed. But how can we anticipate increases in payment fraud? That seems to be the most pressing matter for most financial services professionals today.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5281601959bbf5dd9d895c95bfc97d3bad1052d.jpg"></article>]]></description>
             <link>http://themerkle.com/payment-fraud-can-reach-new-heights-in-the-next-three-years/</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Vitalik Buterin Sets Milestones On Ethereum's Route to Be The 'World Computer'</h1><p>Vitalik Buterin has set the next Ethereum's milestones for 2017 and 2018. According to his paper 'Opportunities and Challenges for Private and Consortium Blockchains', Ethereum 3.0 with 'unlimited' scalability will be released in late 2018.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26c29e8a850de4dd44933c9c6b942fca50abbe59.jpg"></article>]]></description>
             <link>https://cointelegraph.com/news/vitalik-buterin-sets-milestones-on-ethereums-route-to-be-the-world-computer</link>
             <guid isPermaLink="false">d51d7ae1-8c1c-4459-84f8-bb26b0e73936</guid>
+            <pubDate>Sat, 11 Jun 2016 15:27:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fixing DAO Will Take Months, Community's Response Is Crucial]]></title>
+            <description><![CDATA[<article><h1>Fixing DAO Will Take Months, Community's Response Is Crucial</h1><p>One of the greater experiments of the decade finds itself in limbo as the DAO token holders weigh solutions to a number of attack vectors exposed by Emin Gün Sirer, Vlad Zamfir and others. "There are so many attacks against the DAO that some of them cancel each other out," said Sirer in a recent interview.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d88ab259d873be2e76fac564a5a1daee1fcbf082.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/fixing-dao-will-take-months-communitys-response-is-crucial</link>
+            <guid isPermaLink="false">2ab644d9-ea92-460a-b0f1-af9f06a5e69f</guid>
             <pubDate>Sat, 11 Jun 2016 15:27:40 GMT</pubDate>
         </item>
     </channel>
