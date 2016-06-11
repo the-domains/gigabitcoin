@@ -4,29 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 15:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2016 15:28:36 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Vitalik Buterin Sets Milestones On Ethereum's Route to Be The 'World Computer']]></title>
-            <description><![CDATA[<article><h1>Vitalik Buterin Sets Milestones On Ethereum's Route to Be The 'World Computer'</h1><p>Vitalik Buterin has set the next Ethereum's milestones for 2017 and 2018. According to his paper 'Opportunities and Challenges for Private and Consortium Blockchains', Ethereum 3.0 with 'unlimited' scalability will be released in late 2018.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26c29e8a850de4dd44933c9c6b942fca50abbe59.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/vitalik-buterin-sets-milestones-on-ethereums-route-to-be-the-world-computer</link>
-            <guid isPermaLink="false">d51d7ae1-8c1c-4459-84f8-bb26b0e73936</guid>
-            <pubDate>Sat, 11 Jun 2016 15:27:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fixing DAO Will Take Months, Community's Response Is Crucial]]></title>
-            <description><![CDATA[<article><h1>Fixing DAO Will Take Months, Community's Response Is Crucial</h1><p>One of the greater experiments of the decade finds itself in limbo as the DAO token holders weigh solutions to a number of attack vectors exposed by Emin Gün Sirer, Vlad Zamfir and others. "There are so many attacks against the DAO that some of them cancel each other out," said Sirer in a recent interview.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d88ab259d873be2e76fac564a5a1daee1fcbf082.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/fixing-dao-will-take-months-communitys-response-is-crucial</link>
-            <guid isPermaLink="false">2ab644d9-ea92-460a-b0f1-af9f06a5e69f</guid>
-            <pubDate>Sat, 11 Jun 2016 15:27:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Uber for Knowledge" Augur Teams Up With Blockchain Security Experts]]></title>
-            <description><![CDATA[<article><h1>"Uber for Knowledge" Augur Teams Up With Blockchain Security Experts</h1><p>It will enable a highly secure and user-friendly account creation process, along with automatic encryption, backup and synchronization that will make Augur feel like a traditional website for the end-user. This solution could be the world's first for interacting with blockchains.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f20731b3d2c5e6d51e37cbd6c08d0ccdac6c5e46.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/uber-for-knowledge-augur-teams-up-with-blockchain-security-experts</link>
-            <guid isPermaLink="false">9eafaaa3-69f3-4ded-9a95-f37f831db499</guid>
-            <pubDate>Sat, 11 Jun 2016 15:27:40 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[PSD2 to Accelerate Digital Revolution, Blockchain Adoption]]></title>
             <description><![CDATA[<article><h1>PSD2 to Accelerate Digital Revolution, Blockchain Adoption</h1><p>Aiming at accelerating innovation and developing a unified payment services sector, the European Commission has adopted the Payment Services Directive (PSD2), which is expected to bring vital changes. Lately, regulators have been increasingly focussing on ensuring consumer protection, competition, and security in the area of financial services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3718c8a18437a6784a7e4a949b0053521933b110.jpg"></article>]]></description>
@@ -74,6 +53,27 @@
             <description><![CDATA[<article><h1>21 is an Open Source Library for the Machine-Payable Web</h1><p>by John Granata, Ali Fathalian, Matthew Storus, Jian Li, and Balaji S. Srinivasan Today we are open sourcing 21, a software package that makes it extremely easy to work with Bitcoin over HTTP.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06ad15e91712e6b58782c8fbef5103161fb178a4.jpg"></article>]]></description>
             <link>http://gigabitcoin.xyz/21-is-an-open-source-library-for-the-machine-payable-web/index.html</link>
             <guid isPermaLink="false">8d70b6e6-7837-45de-87f2-ba3681898894</guid>
+            <pubDate>Sat, 11 Jun 2016 15:27:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Version bits FAQ for miners]]></title>
+            <description><![CDATA[<article><h1>Version bits FAQ for miners</h1><p>The version bits BIP9 system is a way to introduce backward compatible rule changes to the Bitcoin consensus rules, known as a soft fork. version bits allows miners to signal that they can validate the soft fork rules. It also allows for up to 29 soft forks to be proposed concurrently.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/2016/06/08/version-bits-miners-faq/</link>
+            <guid isPermaLink="false">2c60abd1-826e-4d14-8faf-7c458300de27</guid>
+            <pubDate>Sat, 11 Jun 2016 15:27:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When did you first find out about Bitcoin?]]></title>
+            <description><![CDATA[<article><h1>When did you first find out about Bitcoin?</h1><p>Answer (1 of 3): 11 July 2010 - Slashdot - Bitcoin Releases Version 0.3 > "How's this for a disruptive technology? Bitcoin is a peer-to-peer, network-based digital currency with no central bank, and no transaction fees. Using a proof-of-work concept, nodes burn CPU cycles searching for bundles ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/When-did-you-first-find-out-about-Bitcoin</link>
+            <guid isPermaLink="false">66df0b61-951d-4693-a1df-4b2f95a00962</guid>
+            <pubDate>Sat, 11 Jun 2016 15:27:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jaxx Wallet Integrates Shapeshift Conversion Option]]></title>
+            <description><![CDATA[<article><h1>Jaxx Wallet Integrates Shapeshift Conversion Option</h1><p>The Jaxx wallet solution continues to take the cryptocurrency world by storm. Not only has the wallet added support for The DAO tokens, but the team also interacted ShapeShift. This will allow users to convert between all three wallet-supported currencies within the app itself. Adding more functionality to a cryptocurrency wallet is always a positive thing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2a394938e00fca0251b1ae77c4122d8dfabe314.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/jaxx-wallet-integrates-shapeshift-conversion-option/</link>
+            <guid isPermaLink="false">5d09123a-0e9d-4c61-bb2f-78d9ef6ea06d</guid>
             <pubDate>Sat, 11 Jun 2016 15:27:39 GMT</pubDate>
         </item>
     </channel>
