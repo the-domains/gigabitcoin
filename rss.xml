@@ -7,6 +7,20 @@
         <lastBuildDate>Sat, 11 Jun 2016 15:28:28 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[21 is an Open Source Library for the Machine-Payable Web]]></title>
+            <description><![CDATA[<article><h1>21 is an Open Source Library for the Machine-Payable Web</h1><p>by John Granata, Ali Fathalian, Matthew Storus, Jian Li, and Balaji S. Srinivasan Today we are open sourcing 21, a software package that makes it extremely easy to work with Bitcoin over HTTP.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06ad15e91712e6b58782c8fbef5103161fb178a4.jpg"></article>]]></description>
+            <link>http://gigabitcoin.xyz/21-is-an-open-source-library-for-the-machine-payable-web/index.html</link>
+            <guid isPermaLink="false">8d70b6e6-7837-45de-87f2-ba3681898894</guid>
+            <pubDate>Sat, 11 Jun 2016 15:27:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Version bits FAQ for miners]]></title>
+            <description><![CDATA[<article><h1>Version bits FAQ for miners</h1><p>The version bits BIP9 system is a way to introduce backward compatible rule changes to the Bitcoin consensus rules, known as a soft fork. version bits allows miners to signal that they can validate the soft fork rules. It also allows for up to 29 soft forks to be proposed concurrently.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/2016/06/08/version-bits-miners-faq/</link>
+            <guid isPermaLink="false">2c60abd1-826e-4d14-8faf-7c458300de27</guid>
+            <pubDate>Sat, 11 Jun 2016 15:27:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[When did you first find out about Bitcoin?]]></title>
             <description><![CDATA[<article><h1>When did you first find out about Bitcoin?</h1><p>Answer (1 of 3): 11 July 2010 - Slashdot - Bitcoin Releases Version 0.3 > "How's this for a disruptive technology? Bitcoin is a peer-to-peer, network-based digital currency with no central bank, and no transaction fees. Using a proof-of-work concept, nodes burn CPU cycles searching for bundles ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
             <link>https://www.quora.com/When-did-you-first-find-out-about-Bitcoin</link>
@@ -61,20 +75,6 @@
             <link>https://www.cryptocoinsnews.com/disabled-men-bitcoin-finance/</link>
             <guid isPermaLink="false">77e7a361-a0b4-42ef-a1f1-889af0918c70</guid>
             <pubDate>Sat, 11 Jun 2016 15:27:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Minimalism: Counterparty to Talk with Bitcoin in Ethereish]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Minimalism: Counterparty to Talk with Bitcoin in Ethereish</h1><p>June 8, Ruben De Vries, one of developers of decentralized finance tools platform Counterparty has announced that testing the company's new protocol for smart contracts, EVMParty, has successfully kicked off. In case the testing finishes as successfully as it kicks off, blockchain developers will be able to create smart contracts within Counterparty.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fa290ffae34e077d1d64f436e12594569bed111.png"></article>]]></description>
-            <link>http://forklog.net/bitcoin-minimalism-counterparty-to-talk-with-bitcoin-in-ethereish/</link>
-            <guid isPermaLink="false">6d8dffc5-b5de-4334-ba59-6b8ec240ef55</guid>
-            <pubDate>Sat, 11 Jun 2016 15:27:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can I earn money using bitcoins?]]></title>
-            <description><![CDATA[<article><h1>Can I earn money using bitcoins?</h1><p>Answer: Yes, anybody can earn money using bitcoins. I will tell you how? Step 1: Get a wallet, there are many wallets available in India like ZebPay, UnoCoin etc. I prefer ZebPay, they are also an exchange, that means you can buy the coins or bits (smaller part of coin) through them in rupees.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/Can-I-earn-money-using-bitcoins</link>
-            <guid isPermaLink="false">7cedf167-9dde-4351-8e88-34efb8c71314</guid>
-            <pubDate>Sat, 11 Jun 2016 15:27:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
