@@ -4,13 +4,20 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 03:41:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2016 03:41:23 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Decentralized Web Initiative Aims to Reinvent Web With Peer-To-Peer And Blockchain Technology]]></title>
             <description><![CDATA[<article><h1>Decentralized Web Initiative Aims to Reinvent Web With Peer-To-Peer And Blockchain Technology</h1><p>The first Decentralized Web Summit, a gathering of developers striving to make the web open, secure and free of censorship by distributing data, processing and hosting across millions of computers around the world, with no centralized control, was held in San Francisco on June 8 and 9.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6be8fdfeb4fb3db431cf788e44177ccf082831a.jpg"></article>]]></description>
             <link>https://bitcoinmagazine.com/articles/decentralized-web-initiative-aims-to-reinvent-web-with-peer-to-peer-and-blockchain-technology-1465574954</link>
             <guid isPermaLink="false">8c8a317e-903b-46e6-9cdf-df780ac6e3ad</guid>
+            <pubDate>Sat, 11 Jun 2016 03:40:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin and Blockchain Foster the Evolution of Commerce in Greece]]></title>
+            <description><![CDATA[<article><h1>Bitcoin and Blockchain Foster the Evolution of Commerce in Greece</h1><p>With all eyes of the financial world on Bitcoin and Blockchain this year, what should be the legal framework of the new technology entering the official fintech zone? Who will be responsible for any financial losses?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f71f042808e697b11c0c774e63a766e4e41b11ac.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/bitcoin-and-blockchain-foster-the-evolution-of-commerce-in-greece</link>
+            <guid isPermaLink="false">05b8eceb-9552-496f-a0dc-3fd84a90725b</guid>
             <pubDate>Sat, 11 Jun 2016 03:40:38 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Windows Binary of the ccMiner 1.7.6-r5 fork With Faster Lyra2REv2</h1><p>Here comes a new ccMiner 1.7.6-r5 fork from Nanashi Meiyo-Meijin ( source) based on tpruvot's fork of ccMiner, but with even faster Lyra2REv2 performance. The ccMiner 1.5.80-git SP Nicehash fork from yesterday with improved Lyra2REv2 hashrate was apparently based on the code from the same author, but the Windows binary we have compiled from the ccMiner 1.7.6-r5 source seems to be slightly more optimized and thus is a bit faster.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5abb7f18f917b3a7fb5b443879c3847e5593dda4.jpg"></article>]]></description>
             <link>http://cryptomining-blog.com/7954-windows-binary-of-the-ccminer-1-7-6-r5-fork-with-faster-lyra2rev2/</link>
             <guid isPermaLink="false">c90ed112-63f0-47c5-bb04-330e54deedbe</guid>
-            <pubDate>Sat, 11 Jun 2016 03:40:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Singularity University's CEO Believes Blockchain Has Gone 'Exponential' - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Why Singularity University's CEO Believes Blockchain Has Gone 'Exponential' - CoinDesk</h1><p>Based in NASA's Research Park, Singularity University has been preparing its students to challenge traditional concepts of technology growth since it was founded by Google's director of engineering eight years ago. A storied Silicon Valley think tank, Singularity University has an established history of tracking growth rates, and its analysis of new technologies carries significant weight with market observers and businesses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b28359574a507481da2ce9e2144505c1d61bcf2.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/singularity-universitys-ceo-say-blockchains-gone-exponential/</link>
-            <guid isPermaLink="false">17ff6b51-0052-43fa-a7de-23915ee20f21</guid>
             <pubDate>Sat, 11 Jun 2016 03:40:37 GMT</pubDate>
         </item>
     </channel>
