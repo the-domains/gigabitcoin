@@ -4,8 +4,50 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 03:41:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2016 03:41:22 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IBM Watson uses the Blockchain in Singapore | HolyTransaction]]></title>
+            <description><![CDATA[<article><h1>IBM Watson uses the Blockchain in Singapore | HolyTransaction</h1><p>IBM Watson project and the Bitcoin blockchain are two new technologies that might change the way we live and work in the near future. Today tech giant IBM opened a new incubator with 5,000 computer technicians that aim at creating several prototypes by using the IBM Watson AI tools and the Bitcoin Blockchain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c7abebdc447597a5459f8d07492f71c44fc91c6.jpg"></article>]]></description>
+            <link>http://blog.holytransaction.com/2016/06/ibm-watson-uses-blockchain-in-singapore.html</link>
+            <guid isPermaLink="false">9b080a33-29cc-476b-aecd-f1a20d4ce813</guid>
+            <pubDate>Sat, 11 Jun 2016 03:40:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Tatiana Show - Erik Voorhees of ShapeShift | Lets Talk Bitcoin]]></title>
+            <description><![CDATA[<article><h1>The Tatiana Show - Erik Voorhees of ShapeShift | Lets Talk Bitcoin</h1><p>Tatiana was out sick today, but Josh filled in with an interview with Erik Voorhees of ShapeShift. Topics include currency regulation, dollars vs money, blind patriotism, and the Venezuelan crisis. Erik, CEO of leading digital asset exchange ShapeShift.io, is among the top-recognized serial Bitcoin advocates and entrepreneurs, understanding Bitcoin as one of the most important inventions ever created by humanity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0c33a8eb69a801df7eb671cfda4e5308fcd2df8.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/the-tatiana-show-erik-voorhees-of-shapeshift</link>
+            <guid isPermaLink="false">98da6d07-6613-4f38-8b9f-3a9af840e882</guid>
+            <pubDate>Sat, 11 Jun 2016 03:40:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="https://socioecohistory.files.wordpress.com/2014/07/theeconomist-phoenix_get_ready_for_world_currency_by_2018.jpg?w=420&amp;h=579"></article>]]></description>
+            <link>https://socioecohistory.files.wordpress.com/2014/07/theeconomist-phoenix_get_ready_for_world_currency_by_2018.jpg?w=420&amp;amp;h=579</link>
+            <guid isPermaLink="false">fc1612b0-d1fb-4137-8d17-9ce19a814cd9</guid>
+            <pubDate>Sat, 11 Jun 2016 03:40:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jaxx Wallet's ShapeShift Integration Live, Coinbase to Follow]]></title>
+            <description><![CDATA[<article><h1>Jaxx Wallet's ShapeShift Integration Live, Coinbase to Follow</h1><p>Kryptokit's Jaxx wallet has announced the launch of its ShapeShift integration to allow conversion between its three supported currencies: BTC, ETH and DAO. Also read: Jaxx Ice Cube Offers 'Deeper' Cold Storage for Your Bits & Ether The Jaxx announcement came today as part of the Many Days of Jaxx event, during which multiple updates and new services are being revealed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/757494c3011cfa332008e6b7e2f6e00d8f28341e.png"></article>]]></description>
+            <link>https://news.bitcoin.com/jaxx-wallet-shapeshift-integration/</link>
+            <guid isPermaLink="false">d9c50173-91d2-451f-9ace-19b415d9574e</guid>
+            <pubDate>Sat, 11 Jun 2016 03:40:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Marco Streng of Genesis Mining on Ethereum and DASH Mining]]></title>
+            <description><![CDATA[<article><h1>Marco Streng of Genesis Mining on Ethereum and DASH Mining</h1><p>Genesis Mining is one of the few cloud mining organizations to actually fulfill their obligations to their customers as well as a huge advocate for the Bitcoin and Cryptopcurrency industry. Since the beginning of 2016 the mining industry has seen a lot of shifts, as well as new coins to mine that are wildly popular like Ethereum.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1978f05ae44e5f679c96d602b8166b1b47951eba.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/genesis-mining-ethereum-dash-mining/</link>
+            <guid isPermaLink="false">a368c3cd-d7f9-4004-a5fa-b88793e2bdc1</guid>
+            <pubDate>Sat, 11 Jun 2016 03:40:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Windows Binary of the ccMiner 1.7.6-r5 fork With Faster Lyra2REv2]]></title>
+            <description><![CDATA[<article><h1>Windows Binary of the ccMiner 1.7.6-r5 fork With Faster Lyra2REv2</h1><p>Here comes a new ccMiner 1.7.6-r5 fork from Nanashi Meiyo-Meijin ( source) based on tpruvot's fork of ccMiner, but with even faster Lyra2REv2 performance. The ccMiner 1.5.80-git SP Nicehash fork from yesterday with improved Lyra2REv2 hashrate was apparently based on the code from the same author, but the Windows binary we have compiled from the ccMiner 1.7.6-r5 source seems to be slightly more optimized and thus is a bit faster.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5abb7f18f917b3a7fb5b443879c3847e5593dda4.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7954-windows-binary-of-the-ccminer-1-7-6-r5-fork-with-faster-lyra2rev2/</link>
+            <guid isPermaLink="false">c90ed112-63f0-47c5-bb04-330e54deedbe</guid>
+            <pubDate>Sat, 11 Jun 2016 03:40:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Singularity University's CEO Believes Blockchain Has Gone 'Exponential' - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Why Singularity University's CEO Believes Blockchain Has Gone 'Exponential' - CoinDesk</h1><p>Based in NASA's Research Park, Singularity University has been preparing its students to challenge traditional concepts of technology growth since it was founded by Google's director of engineering eight years ago. A storied Silicon Valley think tank, Singularity University has an established history of tracking growth rates, and its analysis of new technologies carries significant weight with market observers and businesses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b28359574a507481da2ce9e2144505c1d61bcf2.jpg"></article>]]></description>
@@ -33,48 +75,6 @@
             <link>https://bitcoinmagazine.com/articles/synechron-survey-blockchain-and-ai-will-have-huge-impact-on-financial-services-over-next-years-1465589352</link>
             <guid isPermaLink="false">1d6c99b5-2146-48ca-9b03-8f4a32a1730d</guid>
             <pubDate>Sat, 11 Jun 2016 03:40:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US Government Awards $600k in Grants for Blockchain Projects - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>US Government Awards $600k in Grants for Blockchain Projects - CoinDesk</h1><p>The US Department of Homeland Security (DHS) has awarded as much as $600,000 in grants to six companies working on blockchain applications for the government. According to a press release from earlier this week, the department's Science and Technology Directorate has parceled out $3.1m in grants to 29 small businesses based in the US in areas focused on data analytics, connected devices and blockchain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65172a7593c7c6aa74d02892344a55ec75039bca.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/us-government-awards-grants-to-6-companies-for-blockchain-projects/</link>
-            <guid isPermaLink="false">d499f947-5d2b-47b5-be2f-8a9b1182bfee</guid>
-            <pubDate>Sat, 11 Jun 2016 03:40:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jaxx Wallet Integrates Shapeshift for In-Wallet Conversion Between Bitcoin, Ether and DAO Tokens]]></title>
-            <description><![CDATA[<article><h1>Jaxx Wallet Integrates Shapeshift for In-Wallet Conversion Between Bitcoin, Ether and DAO Tokens</h1><p>Toronto-based Bitcoin consultancy and software development company Decentral has announced the integration of its Jaxx line of blockchain wallets with digital currency exchange platform ShapeShift.io. The integration of ShapeShift with Jaxx wallets will enable users to convert between bitcoin, ether and DAO tokens directly within the Jaxx wallet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf2011c161aff1b090809cb68ef03ea1c599a64b.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/jaxx-wallet-integrates-shapeshift-for-in-wallet-conversion-between-bitcoin-ether-and-dao-tokens-1465587726</link>
-            <guid isPermaLink="false">0fd7f5ad-703b-4d72-87ee-3fc12a5ef47b</guid>
-            <pubDate>Sat, 11 Jun 2016 03:40:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Digix Redesigns Website, Will Launch an Updated Client Version - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Digix Redesigns Website, Will Launch an Updated Client Version - NEWSBTC</h1><p>Digix has released a new "company update", a series of blog posts to keep its customers and the general community informed of any new developments regarding DigixGlobal and DigixDAO. The main announcement is the release of a new front-end design for the company's website. The goal is to consolidate and simplify all the information regarding ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ed0ca2bde41bb0bf8cc1745f820a5d4ccd88d55.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/10/digix-redesigns-website-will-launch-updated-client-version/</link>
-            <guid isPermaLink="false">eae0c084-6e99-480d-a668-54bcece02a96</guid>
-            <pubDate>Sat, 11 Jun 2016 03:40:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cloud Malware Numbers Nearly Triple During Q1 of 2016]]></title>
-            <description><![CDATA[<article><h1>Cloud Malware Numbers Nearly Triple During Q1 of 2016</h1><p>The threat of malware is far bigger and more omnipresent than most people give it credit for. A recent study by Netskope revealed how more than one in ten enterprises use cloud-based solutions containing malware. There seems to be no escaping the malware threat in the corporate world, but it is not too late to take action yet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4a2258d1e2f08e31a0e62870ff85dce213d7df0.jpg"></article>]]></description>
-            <link>http://themerkle.com/cloud-malware-numbers-nearly-triple-during-q1-of-2016/</link>
-            <guid isPermaLink="false">964c6ce8-729c-4bc5-ac97-8cb084f1a627</guid>
-            <pubDate>Sat, 11 Jun 2016 03:40:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="http://imgur.com/zCmRenE.png"></article>]]></description>
-            <link>http://imgur.com/zCmRenE</link>
-            <guid isPermaLink="false">4f64edcc-8e5c-45c5-a0f5-6931c36279fe</guid>
-            <pubDate>Sat, 11 Jun 2016 03:40:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain to Track Solar Power Production, Ethereum to Utilise The Data]]></title>
-            <description><![CDATA[<article><h1>Blockchain to Track Solar Power Production, Ethereum to Utilise The Data</h1><p>A host of companies, nonprofits and consortiums gathered in London to discuss how the blockchain could be used to track solar power production across the globe, while Ethereum smart contracts could utilise the data.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33a3d4cb3a85c76d9a443ef3156623c2d60b6df2.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/blockchain-to-track-solar-power-production-ethereum-to-utilise-the-data</link>
-            <guid isPermaLink="false">ed37003d-0232-4c25-907e-d1bd95b16912</guid>
-            <pubDate>Fri, 10 Jun 2016 14:42:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
