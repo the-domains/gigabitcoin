@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 03:41:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2016 03:41:23 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="https://socioecohistory.files.wordpress.com/2014/07/theeconomist-phoenix_get_ready_for_world_currency_by_2018.jpg?w=420&amp;h=579"></article>]]></description>
-            <link>https://socioecohistory.files.wordpress.com/2014/07/theeconomist-phoenix_get_ready_for_world_currency_by_2018.jpg?w=420&amp;amp;h=579</link>
-            <guid isPermaLink="false">fc1612b0-d1fb-4137-8d17-9ce19a814cd9</guid>
-            <pubDate>Sat, 11 Jun 2016 03:40:37 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Jaxx Wallet's ShapeShift Integration Live, Coinbase to Follow]]></title>
             <description><![CDATA[<article><h1>Jaxx Wallet's ShapeShift Integration Live, Coinbase to Follow</h1><p>Kryptokit's Jaxx wallet has announced the launch of its ShapeShift integration to allow conversion between its three supported currencies: BTC, ETH and DAO. Also read: Jaxx Ice Cube Offers 'Deeper' Cold Storage for Your Bits & Ether The Jaxx announcement came today as part of the Many Days of Jaxx event, during which multiple updates and new services are being revealed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/757494c3011cfa332008e6b7e2f6e00d8f28341e.png"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Jaxx Wallet Integrates Shapeshift for In-Wallet Conversion Between Bitcoin, Ether and DAO Tokens</h1><p>Toronto-based Bitcoin consultancy and software development company Decentral has announced the integration of its Jaxx line of blockchain wallets with digital currency exchange platform ShapeShift.io. The integration of ShapeShift with Jaxx wallets will enable users to convert between bitcoin, ether and DAO tokens directly within the Jaxx wallet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf2011c161aff1b090809cb68ef03ea1c599a64b.jpg"></article>]]></description>
             <link>https://bitcoinmagazine.com/articles/jaxx-wallet-integrates-shapeshift-for-in-wallet-conversion-between-bitcoin-ether-and-dao-tokens-1465587726</link>
             <guid isPermaLink="false">0fd7f5ad-703b-4d72-87ee-3fc12a5ef47b</guid>
+            <pubDate>Sat, 11 Jun 2016 03:40:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Digix Redesigns Website, Will Launch an Updated Client Version - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Digix Redesigns Website, Will Launch an Updated Client Version - NEWSBTC</h1><p>Digix has released a new "company update", a series of blog posts to keep its customers and the general community informed of any new developments regarding DigixGlobal and DigixDAO. The main announcement is the release of a new front-end design for the company's website. The goal is to consolidate and simplify all the information regarding ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ed0ca2bde41bb0bf8cc1745f820a5d4ccd88d55.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/10/digix-redesigns-website-will-launch-updated-client-version/</link>
+            <guid isPermaLink="false">eae0c084-6e99-480d-a668-54bcece02a96</guid>
             <pubDate>Sat, 11 Jun 2016 03:40:36 GMT</pubDate>
         </item>
     </channel>
