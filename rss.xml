@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 19:52:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 19:52:06 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin News for the week of 6/06/16]]></title>
-            <description><![CDATA[<article><h1>Bitcoin News for the week of 6/06/16</h1><p>Welcome to our weekly bitcoin news recap, where we cover top headlines and stories in the world of bitcoin each week. The price of bitcoin continues to be of interest in mainstream media, with many speculating on the rise.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87c0585911a6377248d77e44dc3dcb078dc89a65.png"></article>]]></description>
-            <link>https://blog.blockchain.com/2016/06/12/bitcoin-news-for-the-week-of-60616/</link>
-            <guid isPermaLink="false">76ec8984-a6b0-4543-9507-040cddb38163</guid>
-            <pubDate>Sun, 12 Jun 2016 19:51:39 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article><img src="http://imgur.com/LrvT1Ib.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://themerkle.com/nsa-thinks-of-pacemakers-as-a-matter-of-national-security/</link>
             <guid isPermaLink="false">3c3fb9f3-b7f5-460d-a957-ae6c562996cc</guid>
             <pubDate>Sun, 12 Jun 2016 15:57:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[USD Trading Volume Driving The Bitcoin Price Above $650?]]></title>
+            <description><![CDATA[<article><h1>USD Trading Volume Driving The Bitcoin Price Above $650?</h1><p>Every time the Bitcoin price starts going up, people will automatically look for a reason as to why this trend is taking place at that given time. However, it has turned out to be very difficult when it comes to identifying the root causes of Bitcoin price swings as of late.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d9c1d81b298d56f99ba2e1d9a8e073fd9391a94.jpg"></article>]]></description>
+            <link>http://themerkle.com/usd-trading-volume-driving-the-bitcoin-price-above-650/</link>
+            <guid isPermaLink="false">fa8c7027-4333-495f-b866-be1322abb002</guid>
+            <pubDate>Sun, 12 Jun 2016 15:57:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
