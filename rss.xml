@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 19:52:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 19:52:34 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="http://imgur.com/gE8hDnY.jpg"></article>]]></description>
-            <link>http://i.imgur.com/gE8hDnY.jpg</link>
-            <guid isPermaLink="false">df7211cb-ac07-4320-b7c0-9f0bb3eb2ae7</guid>
-            <pubDate>Sun, 12 Jun 2016 19:51:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Upcoming Bitcoin Halving Is An Opportune Moment For Portfolio Diversification]]></title>
-            <description><![CDATA[<article><h1>Upcoming Bitcoin Halving Is An Opportune Moment For Portfolio Diversification</h1><p>There is no denying the number of Bitcoin investors around the world is growing at an accelerated pace. A recent study by the Huobi exchange shows how a lot of their users recently made the switch to Bitcoin to diversify their existing portfolios. Quite an interesting development to say the least.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/794b54176b2f43cacc443ea266bf5a0d65908ee8.jpg"></article>]]></description>
-            <link>http://themerkle.com/upcoming-bitcoin-halving-is-an-opportune-moment-for-portfolio-diversification/</link>
-            <guid isPermaLink="false">7f645c8f-cd04-44a5-99fe-56bf59244b02</guid>
-            <pubDate>Sun, 12 Jun 2016 19:51:56 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[The King of Swamp Castle - CoinDesk]]></title>
             <description><![CDATA[<article><h1>The King of Swamp Castle - CoinDesk</h1><p>John Biggs is CEO of stealth bitcoin startup Freemit and a former editor at TechCrunch. His work has appeared in publications such as The New York Times, Gizmodo and Men's Health. In this opinion piece, Freemit CEO John Biggs casts a critical eye on the current state of the FinTech industry today.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ae83a4bcd04109f902b3191ea6d3c9604a1190d.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>http://bitcoin.stackexchange.com/questions/45688/bitcoin-safe-if-ecdsa-is-broken</link>
             <guid isPermaLink="false">ef043f08-b14b-4341-ac86-d15a758f84b9</guid>
             <pubDate>Sun, 12 Jun 2016 19:51:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price, Market Cap Reach 2 Year High - Bitcoinist.net]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price, Market Cap Reach 2 Year High - Bitcoinist.net</h1><p>Bitcoin's price has surged up nearly 11%, past the 600$ mark since last night's round of trading, coming to rest near the $640 level at the time of writing. The market cap has reached 10 Billion US Dollars coming into the morning.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f078c09b6b43e009f271b53cc0bb7c25b4cc6fe.png"></article>]]></description>
+            <link>http://bitcoinist.net/bitcoin-price-market-cap-reach-2-year-high/</link>
+            <guid isPermaLink="false">7316c764-263f-41c2-937b-5cb4264b989c</guid>
+            <pubDate>Sun, 12 Jun 2016 15:57:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Imgur: The most awesome images on the Internet]]></title>
+            <description><![CDATA[<article><h1>Imgur: The most awesome images on the Internet</h1><p>Imgur: The most awesome images on the Internet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99df71212136a1b553f2c955bbb5d58452cb6099.jpg"></article>]]></description>
+            <link>https://imgur.com/JLrDPPo</link>
+            <guid isPermaLink="false">adf4eae4-c563-4b85-ad97-2152732e441d</guid>
+            <pubDate>Sun, 12 Jun 2016 15:57:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
