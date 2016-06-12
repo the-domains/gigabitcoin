@@ -4,8 +4,43 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 15:58:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 19:52:02 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin safe if ECDSA is broken?]]></title>
+            <description><![CDATA[<article><h1>Bitcoin safe if ECDSA is broken?</h1><p>I've read that one reason to use a new address for each transaction is because it hides the pubkey behind a hash, so that even if ECDSA is broken and someone is able to derive my privkey from my pu...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/45688/bitcoin-safe-if-ecdsa-is-broken</link>
+            <guid isPermaLink="false">ef043f08-b14b-4341-ac86-d15a758f84b9</guid>
+            <pubDate>Sun, 12 Jun 2016 19:51:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price, Market Cap Reach 2 Year High - Bitcoinist.net]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price, Market Cap Reach 2 Year High - Bitcoinist.net</h1><p>Bitcoin's price has surged up nearly 11%, past the 600$ mark since last night's round of trading, coming to rest near the $640 level at the time of writing. The market cap has reached 10 Billion US Dollars coming into the morning.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f078c09b6b43e009f271b53cc0bb7c25b4cc6fe.png"></article>]]></description>
+            <link>http://bitcoinist.net/bitcoin-price-market-cap-reach-2-year-high/</link>
+            <guid isPermaLink="false">7316c764-263f-41c2-937b-5cb4264b989c</guid>
+            <pubDate>Sun, 12 Jun 2016 15:57:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Imgur: The most awesome images on the Internet]]></title>
+            <description><![CDATA[<article><h1>Imgur: The most awesome images on the Internet</h1><p>Imgur: The most awesome images on the Internet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99df71212136a1b553f2c955bbb5d58452cb6099.jpg"></article>]]></description>
+            <link>https://imgur.com/JLrDPPo</link>
+            <guid isPermaLink="false">adf4eae4-c563-4b85-ad97-2152732e441d</guid>
+            <pubDate>Sun, 12 Jun 2016 15:57:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Exceeds $600, Highest in Almost Two Years]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Exceeds $600, Highest in Almost Two Years</h1><p>Bitcoin reaches a new high of over $600 as trading in China, faced once more by a devaluing yuan, spikes. CoinTelegraph spoke to experts to investigate the reasons for such a price increase and learn their forecast for the future of Bitcoin value. The price of Bitcoin has passed $600.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a6a381a0321f208a775e5a6a26871f499b0a398.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/bitcoin-price-exceeds-600-highest-in-almost-two-years</link>
+            <guid isPermaLink="false">fcaf5bc5-e95f-43cd-9b98-8b4eab351ed4</guid>
+            <pubDate>Sun, 12 Jun 2016 15:57:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Are The DAO Curators Masters or Janitors?]]></title>
+            <description><![CDATA[<article><h1>Are The DAO Curators Masters or Janitors?</h1><p>The DAO is considered to be a decentralized, autonomous, organization, but some say it is neither. It certainly is not an organization in the traditional sense of the word. In its foundations the DAO is literally code. It is not autonomous as the DAO cannot quite operate by itself and its decentralized aspect is now being questioned.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29533e2fb95a25a174239799c5aac08f21ac3ae6.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/are-the-dao-curators-masters-or-janitors</link>
+            <guid isPermaLink="false">d87196dd-382c-438a-88e4-5f3f4b3ad37d</guid>
+            <pubDate>Sun, 12 Jun 2016 15:57:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NSA Thinks of Pacemakers As A Matter of National Security]]></title>
             <description><![CDATA[<article><h1>NSA Thinks of Pacemakers As A Matter of National Security</h1><p>The NSA would like nothing more than to know every little detail about individual citizens. But it appears as of hacking computers is not enough, as they now want to monitor the Internet of Things. This would include pacemakers and other medical devices as well.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/63c6ac63f3c69a8248616f8cbe31a2ed69eb0dbe.jpg"></article>]]></description>
@@ -40,41 +75,6 @@
             <link>https://cointelegraph.com/news/uk-companies-buy-up-bitcoins-as-ransom-money-while-canada-university-pays-up</link>
             <guid isPermaLink="false">85c8ed88-2074-4047-bd87-28bacd1282ac</guid>
             <pubDate>Sun, 12 Jun 2016 15:57:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Let's Talk Bitcoin! #296 Ethereum Now and a Moshfunding DAO]]></title>
-            <description><![CDATA[<article><h1>Let's Talk Bitcoin! #296 Ethereum Now and a Moshfunding DAO</h1><p>On today's episode of Let's Talk Bitcoin, we join Andreas and Stephanie for the second half of a recent hour long conversation about the current state of bitcoin along with Ethereum and the recently funded TheDAO Content for today's episode was provided by Andreas Antonopoulos and Stephanie Murphy This episode was edited by Adam B.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/051d85243403584e8739db8f2a7c991ec324599b.jpg"></article>]]></description>
-            <link>https://letstalkbitcoin.com/blog/post/lets-talk-bitcoin-296-ethereum-now-and-a-moshfunding-dao</link>
-            <guid isPermaLink="false">ebddd6a6-9023-41af-9065-70c6a6d06a36</guid>
-            <pubDate>Sun, 12 Jun 2016 15:57:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BTCC Issues Five Bitcoin Titanium Coin Celebrating Anniversary]]></title>
-            <description><![CDATA[<article><h1>BTCC Issues Five Bitcoin Titanium Coin Celebrating Anniversary</h1><p>BTCC, one of the longest-running Bitcoin exchanges in China, celebrates its fifth anniversary. CoinTelegraph spoke with the company's CEO Bobby Lee about their current projects and his vision of the company's future. BTCC was originally founded in China in 2011.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a00de4af68bb1a761311662ae79c36eeb8e70df0.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/btcc-issues-five-bitcoin-titanium-coin-celebrating-anniversary</link>
-            <guid isPermaLink="false">53dac077-ee17-41bd-9517-c02c0ec0e514</guid>
-            <pubDate>Sun, 12 Jun 2016 15:57:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[21 CEO, Balaji Srinivasan presents: How To Get Bitcoin (Without Mining or Buying Bitcoin)]]></title>
-            <description><![CDATA[<article><h1>21 CEO, Balaji Srinivasan presents: How To Get Bitcoin (Without Mining or Buying Bitcoin)</h1><p>In the early days of bitcoin, you used to be able to just turn on your computer, run some software, and get some bitcoin. Wouldn't it be great if that day could come again?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a544316fa80141c6d97bbd4b8eac1fec49cab250.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=uxcNtQ_slLo</link>
-            <guid isPermaLink="false">eabced20-d38b-45e9-9099-f421ebc40fcb</guid>
-            <pubDate>Sun, 12 Jun 2016 15:57:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Proposal Framework is Complete, First Draft of DAO 1.1 Available]]></title>
-            <description><![CDATA[<article><h1>The Proposal Framework is Complete, First Draft of DAO 1.1 Available</h1><p>The DAO community received some good news today, the proposal framework is finished, meaning, that interested parties wanting to submit a proposal to The DAO Token holders have now a guideline to do so.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/467349017c94b366240bd182330301301718b328.jpg"></article>]]></description>
-            <link>http://themerkle.com/the-proposal-framework-is-complete-first-draft-of-dao-1-1-available/</link>
-            <guid isPermaLink="false">2e937f67-4582-410f-9d5d-85844039ba9f</guid>
-            <pubDate>Sun, 12 Jun 2016 15:57:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We just broke $600 per BTC gentlemen * /r/Bitcoin]]></title>
-            <description><![CDATA[<article><h1>We just broke $600 per BTC gentlemen * /r/Bitcoin</h1><p>Celebrate](https://www.youtube.com/watch?v=B0mstGBP37c)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/012ddb67188ae37714fed3dbdd89f20c97d85c7a.jpg"></article>]]></description>
-            <link>https://www.reddit.com/r/Bitcoin/comments/4nnuy8/we_just_broke_600_per_btc_gentlemen/</link>
-            <guid isPermaLink="false">b9ad6e2f-cb21-4ec4-9bb2-225b5f2a60d6</guid>
-            <pubDate>Sun, 12 Jun 2016 15:57:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
