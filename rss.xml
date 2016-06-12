@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 22:53:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 22:53:36 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OpenBazaar growing fast, with major upgrades on the horizon]]></title>
+            <description><![CDATA[<article><h1>OpenBazaar growing fast, with major upgrades on the horizon</h1><p>Since its launch on April 5th, the first truly decentralized marketplace, OpenBazaar, has been growing steadily, both in popularity and in features. Due to the peer-to-peer nature of the platform, it is difficult to quantify how popular it is, but there are various secondary indicators.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ebaa3ad7f98bb1c8be2d6d504ffbf6567f912cdd.png"></article>]]></description>
+            <link>http://bravenewcoin.com/news/openbazaar-growing-fast-with-major-upgrades-on-the-horizon/</link>
+            <guid isPermaLink="false">d371a23c-1cf3-4fe9-ba98-5462810f6de7</guid>
+            <pubDate>Sun, 12 Jun 2016 22:53:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mainstream Media Utterly Ignores Positive Bitcoin Trend Once Again]]></title>
             <description><![CDATA[<article><h1>Mainstream Media Utterly Ignores Positive Bitcoin Trend Once Again</h1><p>Now that the Bitcoin price is rising again, mainstream media outlets remain tightlipped on this significant change. For some reason, they refuse to report on Bitcoin price increases until the value goes down once again. The lack of education and unwillingness to learn by mainstream media outlets shines through once again.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/63f7a12c5fdd29809c17c36043d57d1731fe9760.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.coindesk.com/making-sense-bitcoins-halving/</link>
             <guid isPermaLink="false">2319e006-ad95-48e9-9f82-790894b5b9e3</guid>
             <pubDate>Sun, 12 Jun 2016 19:51:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Valued at More Than Twitter Inc, Crosses $10Bn in Market Capitalization]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Valued at More Than Twitter Inc, Crosses $10Bn in Market Capitalization</h1><p>Heavy demand in China has propelled bitcoin's price to $643 and the total value of all bitcoins in circulation to $10 Bn, which is higher than Twitter Inc's market capitalization ($9.5 Bn). Heavy selling of the Chinese Yuan in exchange for Bitcoin has been the prime driver of the rapid increase in Bitcoin's price.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a8180728a4aa273dbce87244c55d89b36c2b5e7.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/bitcoin-valued-at-more-than-twitter-inc-crosses-10bn-in-market-capitalization</link>
-            <guid isPermaLink="false">18209013-79b0-49fb-b7b3-dc2524d8f601</guid>
-            <pubDate>Sun, 12 Jun 2016 19:51:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
