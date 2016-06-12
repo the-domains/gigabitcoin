@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 21:36:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 15:57:06 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Newsflash: Bitcoin Price Bulldozes toward $650, Already at 2-Year High]]></title>
+            <description><![CDATA[<article><h1>Newsflash: Bitcoin Price Bulldozes toward $650, Already at 2-Year High</h1><p>Bitcoin price has gained plenty of ground in an explosion of demand due to Chinese buyers, easily spiking over 10% of its trading value in USD in a 13-hour period that began late Saturday night leading into Sunday noon (UCT).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9aebf31fead13ff91956bf0fb6a9771f4fe349bd.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/newsflash-bitcoin-price-bulldozes-toward-650-already-2-year-high/</link>
+            <guid isPermaLink="false">540397ce-a11f-443d-912e-a0568c633040</guid>
+            <pubDate>Sun, 12 Jun 2016 15:57:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Bitcoin Halving - What Do I Need To Do?]]></title>
+            <description><![CDATA[<article><h1>The Bitcoin Halving - What Do I Need To Do?</h1><p>With the upcoming Bitcoin halving, a lot of people are wondering if they need to undertake concrete action to ensure their software is up-to-date. As long as one is running the latest version of Bitcoin Core - or a mobile client - there is nothing to worry about.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bea60ca6c53927e25a151558cd624349bcfad2a2.jpg"></article>]]></description>
+            <link>http://themerkle.com/the-bitcoin-halving-what-do-i-need-to-do/</link>
+            <guid isPermaLink="false">5d3ac443-8e10-449a-9144-a42643ea69c2</guid>
+            <pubDate>Sat, 11 Jun 2016 21:33:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin on Stossel]]></title>
             <description><![CDATA[<article><h1>Bitcoin on Stossel</h1><p>John Stossel discusses Bitcoin with a chick who wants to be a musician.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d97d170000c1f8faa263e56c198f1e17f3d79a93.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>BitTorrent Forum Breach Results In Passwords Being Stolen</h1><p>It is not hard to come by yet another data breach these days, and forums remain a very weak point of the chain. Traditional databases are utterly insufficient when it comes to storing sensitive data. The latest breach comes in the form of a list of uTorrent accounts being stolen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dde75616774e74cfc59181f420ed394be5b774f7.jpg"></article>]]></description>
             <link>http://themerkle.com/bittorrent-forum-breach-results-in-passwords-being-stolen/</link>
             <guid isPermaLink="false">a707ec5f-4c54-4f8f-aaa9-399559e225da</guid>
-            <pubDate>Sat, 11 Jun 2016 17:15:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price In The Balance]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price In The Balance</h1><p>Bitcoin price continues slowly losing altitude below $580 (Bitstamp). The likelihood of decline remains, although we must acknowledge the possibility of a low-liquidity weekend spike to the upside. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f24e8b50099465c360586d207158684764a3ad1.png"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-price-balance/</link>
-            <guid isPermaLink="false">92cfe872-0c13-4e3a-a7bd-9f2092aa53d6</guid>
-            <pubDate>Sat, 11 Jun 2016 17:15:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cisco Ransomware Tool Can Now Decrypt All Versions of TeslaCrypt]]></title>
-            <description><![CDATA[<article><h1>Cisco Ransomware Tool Can Now Decrypt All Versions of TeslaCrypt</h1><p>Albeit the Teslacrypt developers released the master decryption key on the Internet a few weeks ago, it has taken security firm Cisco quite some time to develop an anti ransomware tool. Now that their tool is ready, users can freely decrypt files infected by all four versions of TelsaCrypt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/12e7083d3987125a074703af90aee9192b00f6be.jpg"></article>]]></description>
-            <link>http://themerkle.com/cisco-ransomware-tool-can-now-decrypt-all-versions-of-teslacrypt/</link>
-            <guid isPermaLink="false">425be6da-773c-4de0-b13e-84fb07a92cc0</guid>
             <pubDate>Sat, 11 Jun 2016 17:15:58 GMT</pubDate>
         </item>
     </channel>
