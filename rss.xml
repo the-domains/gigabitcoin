@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 15:57:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 15:57:56 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Lets Encrypt Email Leak Shows Flaws in Centralized Trust - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>Lets Encrypt Email Leak Shows Flaws in Centralized Trust - Bitcoinist.net</h1><p>Let's Encrypt, a Free, Open source Certificate Authority, announced that they have unintentionally leaked thousands of emails in their subscriber mailing list yesterday, to those same subscribers. The organization disclosed that 7,618 emails were compromised and that the same number of users were given said emails in varying quantities as the automated email chain grew in size.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/078c65c163224d95f724fc377f54094e9b153193.png"></article>]]></description>
-            <link>http://bitcoinist.net/lets-encrypt-leak-shows-flaws-in-centralized-trust/</link>
-            <guid isPermaLink="false">112c320d-ec57-4079-b20a-1fca84d287e3</guid>
-            <pubDate>Sun, 12 Jun 2016 15:57:03 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[How Banks Learned To Stop Worrying And Love The Blockchain, Bitcoin's Underlying Tech]]></title>
             <description><![CDATA[<article><h1>How Banks Learned To Stop Worrying And Love The Blockchain, Bitcoin's Underlying Tech</h1><p>When bitcoin first appeared a little over eight years ago, early adopters saw the potential to disrupt the big banks of the world. It's all there in the very first line of the abstract to the paper that introduced the cryptographically powered currency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42e7437b70380a9424ed102999a860220004b647.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Bitcoin on Stossel</h1><p>John Stossel discusses Bitcoin with a chick who wants to be a musician.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d97d170000c1f8faa263e56c198f1e17f3d79a93.jpg"></article>]]></description>
             <link>http://www.youtube.com/watch?v=rcjyS1v5jak</link>
             <guid isPermaLink="false">233ab16c-ca94-4176-8b32-13b6348a63b2</guid>
+            <pubDate>Sat, 11 Jun 2016 21:33:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andreessen Horowitz's Recent $1.5B Round Could Be Big for Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Andreessen Horowitz's Recent $1.5B Round Could Be Big for Bitcoin</h1><p>Just recently Andreessen Horowitz has Also read: Jaxx Ice Cube Offers 'Deeper' Cold Storage for Your Bits & Ether raised a whopping 1.5 billion dollars to invest in the next big technological breakthroughs. This injection of capital into Andreessen Horowitz could mean big things for Bitcoin-related and distributed ledger technology startups and projects.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c964632c134a9a17b316f560193d9ca3058bc158.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/horowitz-capital-big-things-bitcoin/</link>
+            <guid isPermaLink="false">a9739708-1734-4000-8731-4b6017de1c45</guid>
             <pubDate>Sat, 11 Jun 2016 21:33:52 GMT</pubDate>
         </item>
     </channel>
