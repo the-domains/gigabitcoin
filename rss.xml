@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 19:52:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 19:52:35 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin Blockchain Startup Challenges: Case of Wirex]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Blockchain Startup Challenges: Case of Wirex</h1><p>Wirex is a 1.5-year old company that has weathered many challenges to get to where we are today: a hybrid personal finance platform combining cryptocurrency and fiat currencies with hundreds of thousands of users. Navigating yourself in uncharted territories is not easy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c1de058cd9a6de66d06db4a42fdc5d01fd09eb7.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/bitcoin-blockchain-startup-challenges-case-of-wirex</link>
-            <guid isPermaLink="false">5697c3f1-b58b-41a9-9a32-1497e7caf732</guid>
-            <pubDate>Sun, 12 Jun 2016 19:51:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Walmart Drops Visa, Proving the Potential of Bitcoin's Low Fees]]></title>
-            <description><![CDATA[<article><h1>Walmart Drops Visa, Proving the Potential of Bitcoin's Low Fees</h1><p>When Bitcoin supporters praise their favorite currency, one of the great attributes everyone discusses is the network's low fees, paling in comparison to the major credit card companies such as Mastercard and Visa. Now, with Walmart dropping support for Visa in Canadian stores due to high fees, bitcoin could have a chance to shine Also read: Circle Favors More Regulation For Bitcoin & Fintech .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ad7be812d5a27562b5929e9f66623139702df1a.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/walmart-drops-visa-bitcoin/</link>
-            <guid isPermaLink="false">f13f2fe9-c4f6-48cf-869c-64e2c5fa472d</guid>
-            <pubDate>Sun, 12 Jun 2016 19:51:57 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article><img src="http://imgur.com/gE8hDnY.jpg"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>Mobile P2P Payment Solution Tapp Commerce Raises US$9m In Funding</h1><p>Peer-to-peer mobile payments are becoming the new hype all of a sudden, and startups are attracting a lot of funding in the process. Tapp Commerce, a startup based in Finland, secured US$9m in funding to expand their operations in Southeast Asia.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d4c3503e2bee334d13424574a4bbf766172e299.jpg"></article>]]></description>
             <link>http://themerkle.com/mobile-p2p-payment-solution-tapp-commerce-raises-us9m-in-funding/</link>
             <guid isPermaLink="false">7892f657-2e04-41ff-9256-acadfe06e5d1</guid>
+            <pubDate>Sun, 12 Jun 2016 19:51:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Weekend Rally!]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Weekend Rally!</h1><p>Bitcoin price is surging higher during a weekend rally. $600 has been scaled and we watch the $680 support and resistance level for a potentially large price reaction. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc1b00cbea27c0ef06ca86fd02fec967df6d3c89.png"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-price-weekend-rally/</link>
+            <guid isPermaLink="false">8bf1eb04-f8f5-4f54-9c95-54d41389b1fb</guid>
+            <pubDate>Sun, 12 Jun 2016 19:51:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin safe if ECDSA is broken?]]></title>
+            <description><![CDATA[<article><h1>Bitcoin safe if ECDSA is broken?</h1><p>I've read that one reason to use a new address for each transaction is because it hides the pubkey behind a hash, so that even if ECDSA is broken and someone is able to derive my privkey from my pu...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/45688/bitcoin-safe-if-ecdsa-is-broken</link>
+            <guid isPermaLink="false">ef043f08-b14b-4341-ac86-d15a758f84b9</guid>
             <pubDate>Sun, 12 Jun 2016 19:51:39 GMT</pubDate>
         </item>
     </channel>
