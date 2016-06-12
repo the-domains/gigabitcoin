@@ -7,20 +7,6 @@
         <lastBuildDate>Sun, 12 Jun 2016 19:52:35 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Bitcoin Blockchain Startup Challenges: Case of Wirex]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Blockchain Startup Challenges: Case of Wirex</h1><p>Wirex is a 1.5-year old company that has weathered many challenges to get to where we are today: a hybrid personal finance platform combining cryptocurrency and fiat currencies with hundreds of thousands of users. Navigating yourself in uncharted territories is not easy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c1de058cd9a6de66d06db4a42fdc5d01fd09eb7.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/bitcoin-blockchain-startup-challenges-case-of-wirex</link>
-            <guid isPermaLink="false">5697c3f1-b58b-41a9-9a32-1497e7caf732</guid>
-            <pubDate>Sun, 12 Jun 2016 19:51:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="http://imgur.com/gE8hDnY.jpg"></article>]]></description>
-            <link>http://i.imgur.com/gE8hDnY.jpg</link>
-            <guid isPermaLink="false">df7211cb-ac07-4320-b7c0-9f0bb3eb2ae7</guid>
-            <pubDate>Sun, 12 Jun 2016 19:51:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Upcoming Bitcoin Halving Is An Opportune Moment For Portfolio Diversification]]></title>
             <description><![CDATA[<article><h1>Upcoming Bitcoin Halving Is An Opportune Moment For Portfolio Diversification</h1><p>There is no denying the number of Bitcoin investors around the world is growing at an accelerated pace. A recent study by the Huobi exchange shows how a lot of their users recently made the switch to Bitcoin to diversify their existing portfolios. Quite an interesting development to say the least.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/794b54176b2f43cacc443ea266bf5a0d65908ee8.jpg"></article>]]></description>
             <link>http://themerkle.com/upcoming-bitcoin-halving-is-an-opportune-moment-for-portfolio-diversification/</link>
@@ -75,6 +61,20 @@
             <link>https://www.cryptocoinsnews.com/bitcoin-price-weekend-rally/</link>
             <guid isPermaLink="false">8bf1eb04-f8f5-4f54-9c95-54d41389b1fb</guid>
             <pubDate>Sun, 12 Jun 2016 19:51:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin safe if ECDSA is broken?]]></title>
+            <description><![CDATA[<article><h1>Bitcoin safe if ECDSA is broken?</h1><p>I've read that one reason to use a new address for each transaction is because it hides the pubkey behind a hash, so that even if ECDSA is broken and someone is able to derive my privkey from my pu...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/45688/bitcoin-safe-if-ecdsa-is-broken</link>
+            <guid isPermaLink="false">ef043f08-b14b-4341-ac86-d15a758f84b9</guid>
+            <pubDate>Sun, 12 Jun 2016 19:51:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price, Market Cap Reach 2 Year High - Bitcoinist.net]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price, Market Cap Reach 2 Year High - Bitcoinist.net</h1><p>Bitcoin's price has surged up nearly 11%, past the 600$ mark since last night's round of trading, coming to rest near the $640 level at the time of writing. The market cap has reached 10 Billion US Dollars coming into the morning.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f078c09b6b43e009f271b53cc0bb7c25b4cc6fe.png"></article>]]></description>
+            <link>http://bitcoinist.net/bitcoin-price-market-cap-reach-2-year-high/</link>
+            <guid isPermaLink="false">7316c764-263f-41c2-937b-5cb4264b989c</guid>
+            <pubDate>Sun, 12 Jun 2016 15:57:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
