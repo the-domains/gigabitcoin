@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 13:44:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 13:44:10 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="http://imgur.com/i9zAr4R.png"></article>]]></description>
-            <link>http://i.imgur.com/i9zAr4R.png</link>
-            <guid isPermaLink="false">894abe16-9faf-447b-b077-4d2dd4d750aa</guid>
-            <pubDate>Mon, 13 Jun 2016 13:44:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price $700 Coming Up!]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price $700 Coming Up!</h1><p>The bitcoin price chart surged higher over the weekend as bullish trade easily scaled the order books during low liquidity. The $100 distance from $580 to $680 (Bitstamp) was easily achieved within 48 hours. Technical analysis shows more advance is in store. This analysis is provided by xbt.social with a 3-hour delay.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f916318a7ae5d1fb35c6be80ab66bd36156e832e.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-price-700-coming/</link>
-            <guid isPermaLink="false">1d2eece4-4003-4f0b-b32d-10e6823cd922</guid>
-            <pubDate>Mon, 13 Jun 2016 13:44:03 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bankers Lie About Disruption, Don't Understand Technology]]></title>
             <description><![CDATA[<article><h1>Bankers Lie About Disruption, Don't Understand Technology</h1><p>A lot of people have lost confidence in bankers throughout the years. It seems those concerns are more than valid, as banks have no interest in being a serious brand, and they remain blind to the coming changes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b64894b75bd74e0170ff920cf3f8dbd9ee27dcf6.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>https://letstalkbitcoin.com/blog/post/the-crypto-show-andrew-wegner-of-huntercoin-and-atty-jamie-balagia-with-justin-arman-on-asset-forfeiture</link>
             <guid isPermaLink="false">e5ef0a04-5dee-46ca-9dfc-d74cc5f7a52e</guid>
             <pubDate>Mon, 13 Jun 2016 05:56:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cryptospace News Digest, June 5 - 12]]></title>
+            <description><![CDATA[<article><h1>Cryptospace News Digest, June 5 - 12</h1><p>Bitcoin heading to the Moon, raging bitcoin extortionists, good news from Russia and Ethereum expansion - all main events of the cryptoindustry in the week's overview. For the first time in two years, bitcoin price has surpassed the $600 mark. Last Saturday, bitcoin's market cap has reached $9 billion, and Sunday the exchange rate leaped to $590 from $576.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90638004125cd7a890e0b0c243c32173ee1600ec.png"></article>]]></description>
+            <link>http://forklog.net/cryptospace-news-digest-june-5-12/</link>
+            <guid isPermaLink="false">594e8305-f683-4f38-8a4a-78d13cc218f7</guid>
+            <pubDate>Mon, 13 Jun 2016 02:38:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does there exist a MOOC to learn about blockchain?]]></title>
+            <description><![CDATA[<article><h1>Does there exist a MOOC to learn about blockchain?</h1><p>There is rural, suburban and urban America. There is educated America and uneducated America. There is connected America and disconnected America. It's unfair to make a blanket statement about any group. But to label as dumb a group of people that have been at the forefront of innovative, out of the box thinking in technology, medicine, entertainment and general societ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/Does-there-exist-a-MOOC-to-learn-about-blockchain</link>
+            <guid isPermaLink="false">10aff2a5-1aa3-40c7-b02c-70a1d102de2c</guid>
+            <pubDate>Mon, 13 Jun 2016 02:38:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
