@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 16:47:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 16:47:17 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why Are My Gridseed Blades Exploding? What Components Are Exploding?]]></title>
+            <description><![CDATA[<article><h1>Why Are My Gridseed Blades Exploding? What Components Are Exploding?</h1><p>I'm wanting to get into mining not so much for the mining reward but because I support the idea of decentralised currency and the power of peer to peer transactions. However I have a problem with getting some Gridseed Blades up and running. Something on them is exploding.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bbfb84d5d4e3b3d0da5e335c27cb5f5daa4a9dd4.jpg"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/45760/why-are-my-gridseed-blades-exploding-what-components-are-exploding</link>
+            <guid isPermaLink="false">79aa42d2-2c5e-4d5e-a286-f42b12f08f46</guid>
+            <pubDate>Mon, 13 Jun 2016 16:46:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Has Passed the $700 USD Mark]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Has Passed the $700 USD Mark</h1><p>There is still a month before the second Bitcoin block reward halving occurs, but the last two weeks or so the exchange rate of Bitcoin has been steadily increasing from a little over $400 USD to over $700 already.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2ea9e209ba7de7b11e305fcc46ae6a94b76fee4.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>27 Days to Halving: Bitcoin Crosses $700 Mark, Drags Ethereum Along</h1><p>Bitcoin has risen to a two-year high as at press time to $686. So has the Ethereum moved to $16.50 particularly over the weekend. This is likely to be a continuous trend with the look of things.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bad8165d97a354ee15bf0afd88c2d9a4f4daf9ca.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/27-days-to-halving-bitcoin-price-reaches-2-year-high-drags-ethereum-along</link>
             <guid isPermaLink="false">47c6ade2-7051-4e48-a4fe-58ab901d2172</guid>
-            <pubDate>Mon, 13 Jun 2016 16:46:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gaming Payment Platform 'Breakout Coin' Launches Coin Sale]]></title>
-            <description><![CDATA[<article><h1>Gaming Payment Platform 'Breakout Coin' Launches Coin Sale</h1><p>Breakout Coin, an in-game staking mechanism, cryptocurrency payment and loyalty platform on the Breakout Chain blockchain, will launch a public coin sale at 10 a.m. PDT on Monday, June 13, 2016. The Bittrex cryptocurrency exchange will host the coin sale. A total of 6,627,494 Breakout Coins (BRK) will be offered.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e90a847187cba6d3462e83a7d05f19fbdfe9591.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/gaming-payment-platform-breakout-coin-launches-coin-sale/</link>
-            <guid isPermaLink="false">f4b3ca0f-6b0c-48ef-8415-07d9633e3071</guid>
             <pubDate>Mon, 13 Jun 2016 16:46:27 GMT</pubDate>
         </item>
     </channel>
