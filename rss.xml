@@ -4,7 +4,7 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 21:32:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 21:32:06 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[John McAfee's MGT Investments Adds Roger Ver to the Team - NEWSBTC]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.newsbtc.com/2016/06/13/mcafees-mgt-adds-roger-ver-to-the-team/</link>
             <guid isPermaLink="false">ed4c9e9a-c4f4-4127-9d0f-28be03de0418</guid>
             <pubDate>Mon, 13 Jun 2016 21:31:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Obama's Economic Policy Advisors Strategizes With Fintech Industry Players]]></title>
-            <description><![CDATA[<article><h1>Obama's Economic Policy Advisors Strategizes With Fintech Industry Players</h1><p>President Barack Obama's economic policy staff recently met with stakeholders across the fintech ecosystem to discuss how fintech can support economic policy, Adrienne Harris, special assistant to the President of economic policy, noted in a White House blog. The attendees included policy makers, fintech startups and investors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eba246f52a447a11cd52eac4775163e3395b5ba3.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/obamas-economic-policy-advisors-strategizes-fintech-industry-players/</link>
-            <guid isPermaLink="false">87bceea2-64db-4574-921a-00071ab41a67</guid>
-            <pubDate>Mon, 13 Jun 2016 21:31:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blockchain Interest Spreads on Capitol Hill - CoinDesk]]></title>
@@ -75,6 +68,13 @@
             <link>http://www.marketwatch.com/story/chinese-buyers-push-bitcoin-price-to-highest-level-since-mt-gox-blowup-2016-06-13</link>
             <guid isPermaLink="false">407101d0-9c1e-40e5-a5f5-a14c8a26a56f</guid>
             <pubDate>Mon, 13 Jun 2016 21:31:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ripple Gains BitLicense in New York]]></title>
+            <description><![CDATA[<article><h1>Ripple Gains BitLicense in New York</h1><p>Ripple Labs Inc., has had its BitLicense application approved today by New York state's financial regulator. The New York State Department of Financial Services (NYDFS) has approved Ripple Labs ' BitLicense application. Granted today, the approval will grant Ripple the license to sell and obtain XRP - the native digital asset of the Ripple Consensus Ledger, a platform used by financial institutions including banks as well as companies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7729413cb58cb636468770aae51e1eb9a18c8c0d.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/ripple-gains-bitlicense-in-new-york/</link>
+            <guid isPermaLink="false">14e96746-8238-4ae2-9832-9bb9717f9cdd</guid>
+            <pubDate>Mon, 13 Jun 2016 21:31:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
