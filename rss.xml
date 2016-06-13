@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 21:31:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 21:31:50 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[ChangeTip Struggles to Sell Assets After $1.25 Million Airbnb Acqui-Hire - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>ChangeTip Struggles to Sell Assets After $1.25 Million Airbnb Acqui-Hire - CoinDesk</h1><p>Bitcoin micropayments startup ChangeTip is reportedly struggling to find a buyer after its engineering team was purchased by travel startup Airbnb in April. According to emails provided to CoinDesk, ChangeTip has so far sought to sell its remaining assets to more than 60 companies, all of whom have passed on the deal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc76ea4539f69cf8854580758d15070d8439f0be.png"></article>]]></description>
-            <link>http://www.coindesk.com/changetip-struggles-sell-assets/</link>
-            <guid isPermaLink="false">88845b1b-2b6d-49f5-8954-77688464e817</guid>
-            <pubDate>Mon, 13 Jun 2016 21:31:16 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Circle Loves Regulations, Others Not So Much! - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Circle Loves Regulations, Others Not So Much! - NEWSBTC</h1><p>Circle, the financial company favors federal regulations as it will open up new opportunities for the sector. Read more... What happens to be the whole ecosystem's pain point can be the pleasure center for few. At least that's the impression Bitcoin Industry has of Circle, the payments company which started off as just another Bitcoin product.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f2c190a2d53d87e8c7ba9a500b4c9f602e4459a.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Microsoft Snatches Up LinkedIn For Over US$26bn</h1><p>Despite LinkedIn dealing with a massive data breach not too long, the company is still attracting a lot of positive attention. So much even that Microsoft will acquire the company for US$26.2bn, all of which is to be paid in cash. The social network for professions will retain its brand and CEO, though.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/527149c1f0e89a536b216d1ab66a66ccb749a28a.jpg"></article>]]></description>
             <link>http://themerkle.com/microsoft-snatches-up-linkedin-for-over-us26bn/</link>
             <guid isPermaLink="false">52dff18f-da0d-4257-a2fa-dcca69f4d404</guid>
+            <pubDate>Mon, 13 Jun 2016 16:46:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[21 Inc Open-Sources Bitcoin Software for Machine Payments - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>21 Inc Open-Sources Bitcoin Software for Machine Payments - CoinDesk</h1><p>Bitcoin startup 21 Inc announced it had open-sourced its software this weekend, a move that finds it following through on statements by the firm's co-founder and CEO, Balaji Srinivasan, at CoinDesk's Consensus event last month.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f11362578e0e6ee842efc737efb9eb3f9b49627.png"></article>]]></description>
+            <link>http://www.coindesk.com/21-inc-open-sources-code-to-enable-machine-payable-web/</link>
+            <guid isPermaLink="false">a1007f5b-226c-4ae0-8cc3-dac558ee637d</guid>
             <pubDate>Mon, 13 Jun 2016 16:46:28 GMT</pubDate>
         </item>
     </channel>
