@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 21:31:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 21:31:50 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New York approves Ripple Lab's application for bitcoin license]]></title>
+            <description><![CDATA[<article><h1>New York approves Ripple Lab's application for bitcoin license</h1><p>WASHINGTON New York state's financial regulator on Monday approved a license for bitcoin company Ripple Labs Inc, allowing it to offer digital currency services in the state. The New York State Department of Financial Services said the company had cleared a review of anti-money laundering, capitalization, consumer protection, and cyber-security standards.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca69005b1f1305f932d9b75ca950a55d61d7fc07.jpg"></article>]]></description>
+            <link>http://www.reuters.com/article/us-usa-new-york-digital-idUSKCN0YZ25V</link>
+            <guid isPermaLink="false">5b22c00a-2739-4291-a384-3561ce256964</guid>
+            <pubDate>Mon, 13 Jun 2016 21:31:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chinese buyers push bitcoin price to highest level since Mt. Gox blowup]]></title>
             <description><![CDATA[<article><h1>Chinese buyers push bitcoin price to highest level since Mt. Gox blowup</h1><p>By Anxieties about the unsustainable runup in Chinese corporate debt sparked a massive rally in bitcoin that sent the price of a single virtual coin to its highest level in more than two years. The price of a single bitcoin broke above $700 on Monday for the first time since early February 2014, just before the failure of a prominent bitcoin exchange ignited a years-long selloff.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c88cc3ec9276d4120bd7c02ad6e39221348e62f8.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://cointelegraph.com/news/the-bitcoin-ransomware-fallacy-why-blockchain-criminals-can-be-caught</link>
             <guid isPermaLink="false">f6a3db46-b411-467b-ad4b-db3b854cc50b</guid>
             <pubDate>Mon, 13 Jun 2016 16:46:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Hits Two-Year High Ahead of Key Event]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Hits Two-Year High Ahead of Key Event</h1><p>The price of the digital currency bitcoin hit a two-year high, trading above $700 on Monday morning after it spiked 21% over the weekend as traders raced in front of an unusual event called the "halving," an adjustment to bitcoin's protocol designed to control the creation of new coins.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f00996d71eb841d75a13abb608f5e3a160ed60b.jpg"></article>]]></description>
-            <link>http://blogs.wsj.com/moneybeat/2016/06/13/bitcoin-hits-two-year-high-ahead-of-key-event/</link>
-            <guid isPermaLink="false">bf013287-2421-4d80-9905-d8cda8d9d79d</guid>
-            <pubDate>Mon, 13 Jun 2016 16:46:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
