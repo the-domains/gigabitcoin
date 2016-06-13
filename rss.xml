@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 13:44:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 13:44:13 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://imgur.com/i9zAr4R.png"></article>]]></description>
+            <link>http://i.imgur.com/i9zAr4R.png</link>
+            <guid isPermaLink="false">894abe16-9faf-447b-b077-4d2dd4d750aa</guid>
+            <pubDate>Mon, 13 Jun 2016 13:44:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bankers Lie About Disruption, Don't Understand Technology]]></title>
+            <description><![CDATA[<article><h1>Bankers Lie About Disruption, Don't Understand Technology</h1><p>A lot of people have lost confidence in bankers throughout the years. It seems those concerns are more than valid, as banks have no interest in being a serious brand, and they remain blind to the coming changes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b64894b75bd74e0170ff920cf3f8dbd9ee27dcf6.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/bankers-lie-disruption/</link>
+            <guid isPermaLink="false">3cece8b4-e4e4-470b-8f03-1366a6041d2e</guid>
+            <pubDate>Mon, 13 Jun 2016 13:44:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[India Witness Boom in Bitcoin And Fintech Investments]]></title>
             <description><![CDATA[<article><h1>India Witness Boom in Bitcoin And Fintech Investments</h1><p>Over 180 Fintech startups were analyzed to create this report, most of whom seem to focus on the payment sector in general. Fintech is a booming industry all over the world, and those signs are becoming apparent in India as well.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ebe4ccdb773fc6384dc4acdef2f5e3eacff38664.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://forklog.net/cryptospace-news-digest-june-5-12/</link>
             <guid isPermaLink="false">594e8305-f683-4f38-8a4a-78d13cc218f7</guid>
             <pubDate>Mon, 13 Jun 2016 02:38:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Does there exist a MOOC to learn about blockchain?]]></title>
-            <description><![CDATA[<article><h1>Does there exist a MOOC to learn about blockchain?</h1><p>There is rural, suburban and urban America. There is educated America and uneducated America. There is connected America and disconnected America. It's unfair to make a blanket statement about any group. But to label as dumb a group of people that have been at the forefront of innovative, out of the box thinking in technology, medicine, entertainment and general societ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/Does-there-exist-a-MOOC-to-learn-about-blockchain</link>
-            <guid isPermaLink="false">10aff2a5-1aa3-40c7-b02c-70a1d102de2c</guid>
-            <pubDate>Mon, 13 Jun 2016 02:38:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Surges to the $685 Mark, Ethereum Establishes a New All-Time-High]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Surges to the $685 Mark, Ethereum Establishes a New All-Time-High</h1><p>The bull market continues its frenzy. Today Bitcoin reached a two-year high ($685 in Bitfinex), and the rally rippled waves across the Cryptocurrency market. Ethereum reached a new all-time high (in the ETHUSD FIAT pair).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fbc8049d4eb6c3831df253c419c09f5979716510.jpg"></article>]]></description>
-            <link>http://themerkle.com/bitcoin-price-surges-to-the-685-mark-ethereum-establishes-a-new-all-time-high/</link>
-            <guid isPermaLink="false">358c35df-cbb3-4773-a2f4-39c1a9641e2e</guid>
-            <pubDate>Mon, 13 Jun 2016 02:38:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
