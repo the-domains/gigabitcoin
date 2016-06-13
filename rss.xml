@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 13:45:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 13:45:12 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Cloud Storage Meets Bitcoin Blockchain: SiaCoin Takes on Amazon, Google & Microsoft]]></title>
-            <description><![CDATA[<article><h1>Cloud Storage Meets Bitcoin Blockchain: SiaCoin Takes on Amazon, Google & Microsoft</h1><p>With nearly $8 million in market capitalization, the cryptocurrency attempting to take a slice out of the enterprise cloud storage industry largely dominated by huge firms like Amazon (Amazon S3), Google (Google Cloud Storage), Microsoft (Microsoft Azure) and Dropbox (Dropbox for Business), SiaCoin, has begun to break into the mainstream.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a0fc400eaeb6cd95396fb5001d4f94d5005ef07.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/cloud-storage-meets-bitcoin-blockchain-siacoin-takes-on-amazon-google-microsoft</link>
-            <guid isPermaLink="false">1c444985-230d-40d0-9c88-6bddfbdcc432</guid>
-            <pubDate>Mon, 13 Jun 2016 13:44:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australian bitcoin exchanges announce Ethereum support - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Australian bitcoin exchanges announce Ethereum support - NEWSBTC</h1><p>Two of Australia's leading bitcoin exchanges, CoinTree and CoinLoft, have announced this week new services allowing users to purchase a variety of altcoins including ether, the cryptocurrency that powers the Ethereum network. Alongside their established services which have primarily focused on making bitcoin accessible to the general public, they have now streamlined the process of acquiring ether.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cdc3cf7e43627213ed703a84ad1bde5d49468b3c.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/13/australian-bitcoin-exchanges-announce-ethereum-support/</link>
-            <guid isPermaLink="false">e1b38641-f854-4f04-9edf-0f6ba781cb07</guid>
-            <pubDate>Mon, 13 Jun 2016 13:44:26 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin price smashes $600 barrier and leaps above $650 in one day]]></title>
             <description><![CDATA[<article><h1>Bitcoin price smashes $600 barrier and leaps above $650 in one day</h1><p>The recent bitcoin price rally continued in full force this weekend, as prices smashed through the $600 (£421) mark and rose to trade above $650 in a single day on Sunday. Yesterday the price of a single bitcoin reached highs of $652.54, according to CoinDesk.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4f268649ecdaeedc517f6b7eed8c05e4348713e.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>http://www.newsbtc.com/2016/06/13/bitcoin-price-watch-700-close-careful/</link>
             <guid isPermaLink="false">ca257efc-63c0-4846-b3de-d5050f749abc</guid>
             <pubDate>Mon, 13 Jun 2016 13:44:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FestiPay Brings Cashless Payments To Multiple Romanian Festivals]]></title>
+            <description><![CDATA[<article><h1>FestiPay Brings Cashless Payments To Multiple Romanian Festivals</h1><p>Festivals seem the prime location to experiment with contactless payments. During these events, attendees want nothing more than to complete purchased quickly and in a convenient manner. FestiPay is a startup bringing cashless payments to five festivals in Romania later this year. There is an argument to be made for embracing payments during festivals.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bb1b0cb3e906b1de263b3cd7ce72224e/croprotate.jpg?cropheight=1079&cropwidth=1919&degrees=0&input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2FFestipay.jpg&x=0&y=0"></article>]]></description>
+            <link>http://themerkle.com/festipay-brings-cashless-payments-to-multiple-romanian-festivals/</link>
+            <guid isPermaLink="false">f6606e4b-c07f-428d-a588-997a637acf31</guid>
+            <pubDate>Mon, 13 Jun 2016 13:44:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://imgur.com/i9zAr4R.png"></article>]]></description>
+            <link>http://i.imgur.com/i9zAr4R.png</link>
+            <guid isPermaLink="false">894abe16-9faf-447b-b077-4d2dd4d750aa</guid>
+            <pubDate>Mon, 13 Jun 2016 13:44:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
