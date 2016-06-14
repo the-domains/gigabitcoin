@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 13:00:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2016 13:00:57 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Apple Pay Becomes An Online Payment Solution]]></title>
+            <description><![CDATA[<article><h1>Apple Pay Becomes An Online Payment Solution</h1><p>When payment solutions evolve throughout the years, they usually transition from the web into mobile. But Apple Pay is doing things in a reverse manner, as the payment solution will be coming to the internet. Using this mobile solution on the web still requires ownership of an iPhone, as well as using the Safari browser.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4aa692f71990cdf0db6fa3726f8c842902d716c7.jpg"></article>]]></description>
+            <link>http://themerkle.com/apple-pay-becomes-an-online-payment-solution/</link>
+            <guid isPermaLink="false">ed247caa-5361-4c46-8475-b3d1f8995538</guid>
+            <pubDate>Tue, 14 Jun 2016 12:59:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nearly 8,000 Email Addresses Leaked By Let's Encrypt]]></title>
             <description><![CDATA[<article><h1>Nearly 8,000 Email Addresses Leaked By Let's Encrypt</h1><p>Not a day goes by without a new data leak, by the look of things. Certificate authority Let's Encrypt has been leaking customer details as of late, albeit it only concerns email addresses. So far, no reports indicate passwords or other sensitive user information was leaked as well.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c12b0a32b3107ac063ac3f879b314f277bcb1dc7.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Hong Kong Regulator: "Blockchain Can Prevent Money Laundering"</h1><p>Regulators have not always keen on blockchain technology, but lately they have started to seeing its potential benefits. A Hong Kong regulator has indicated how the blockchain can help financial institutions to overcome money laundering. Also read: Antonopoulos: 'Meteor' Bitcoin Doesn't Compete Against 'Dinosaur' Banks The essential traits of blockchain technology make it a robust solution to fight money laundering.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/490deb0568d7162420a584db1fd5662fec4ce4e1.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/blockchain-prevent-money-laundering/</link>
             <guid isPermaLink="false">e338c63e-fe52-44e8-bb6d-0a37e033ff5d</guid>
-            <pubDate>Tue, 14 Jun 2016 12:59:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What date does halving happen at?]]></title>
-            <description><![CDATA[<article><h1>What date does halving happen at?</h1><p>When does the 2016 halving happen? Is it a predicted date for it or could be when network load is achieved?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/45832/what-date-does-halving-happen-at</link>
-            <guid isPermaLink="false">258557ba-e412-434f-9c80-765e55aa3d27</guid>
             <pubDate>Tue, 14 Jun 2016 12:59:09 GMT</pubDate>
         </item>
     </channel>
