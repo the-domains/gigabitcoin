@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 17:35:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2016 17:35:51 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[John McAfee leads cybersecurity company, signing up Roger Ver and Erik Voorhees]]></title>
+            <description><![CDATA[<article><h1>John McAfee leads cybersecurity company, signing up Roger Ver and Erik Voorhees</h1><p>Cybersecurity expert, libertarian presidential candidate, and founder of McAfee antivirus, John McAfee is taking over as CEO at publicly-traded MGT Capital Investments, Inc., (NYSE MKT: MGT). Fresh at the helm, McAfee is already charting a new course for the company, focusing on the how to secure cryptocurrencies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa0c0ed2bef9f444981a9ae6227c28ba592c2796.jpg"></article>]]></description>
+            <link>http://bravenewcoin.com/news/john-mcafee-leads-cybersecurity-company-signing-up-roger-ver-and-erik-vorhees/</link>
+            <guid isPermaLink="false">53340da3-4ebc-4bc6-b532-d89c7bbb14e4</guid>
+            <pubDate>Tue, 14 Jun 2016 17:35:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[One Bitcoin is Worth 51 Million Hacked iMesh Accounts]]></title>
             <description><![CDATA[<article><h1>One Bitcoin is Worth 51 Million Hacked iMesh Accounts</h1><p>People who have been using the Internet for quite some time now will recall the name iMesh, a once popular peer-to-peer file sharing platform. Although this platform has been defunct for some time, a hacker managed to obtain a database containing 51 million accounts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a614d8ee51e5c91601c2f36db194db0a4b3aec30.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.newsbtc.com/2016/06/14/33031/</link>
             <guid isPermaLink="false">f6f89cf6-061f-45ef-a37c-7ebe6c1f0770</guid>
             <pubDate>Tue, 14 Jun 2016 16:03:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unsung and Arcade City Team Up to #HackHunger, Feed Homeless in Austin]]></title>
-            <description><![CDATA[<article><h1>Unsung and Arcade City Team Up to #HackHunger, Feed Homeless in Austin</h1><p>Food sharing app Unsung has partnered with decentralized ridesharing service Arcade City to feed the homeless in the city of Austin. Unsung is an app designed to solve hunger through a liaison between restaurants, the needy, and volunteers. A restaurant uses the app to indicate that excess food is available for donation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0f8210306d8df526bff0332c247dad7a4db551a.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/unsung-and-arcade-city-team-up-to-hackhunger-feed-homeless-in-austin</link>
-            <guid isPermaLink="false">d28b19e6-0cd1-490b-ac07-9b87a450d0d3</guid>
-            <pubDate>Tue, 14 Jun 2016 16:03:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
