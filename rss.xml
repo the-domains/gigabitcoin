@@ -7,13 +7,6 @@
         <lastBuildDate>Tue, 14 Jun 2016 06:32:57 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Bitcoin Price Analysis (Week of June 12th)]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Analysis (Week of June 12th)</h1><p>Welcome to the all new CoinTelegraph Weekly Market TA Report presented by BullBear Analytics. The timing of this new partnership could not have been any better given that it appears as though bitcoin is on the cusp of challenging price levels not seen in more than two years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3db8cdc48128294e04647635aea524c974ba5ea.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/bitcoin-price-analysis-week-of-june-12th</link>
-            <guid isPermaLink="false">3670dac1-a047-406d-90ed-0cd9c8f4fd15</guid>
-            <pubDate>Tue, 14 Jun 2016 06:31:57 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Bitcoin Ransomware Fallacy: Why Blockchain Criminals Can Be Caught]]></title>
             <description><![CDATA[<article><h1>The Bitcoin Ransomware Fallacy: Why Blockchain Criminals Can Be Caught</h1><p>The criminals responsible for Bitcoin-related crimes can very easily be held accountable provided police forces familiarise themselves with the cryptocurrency. Bitcoin, by its very nature, is inherently trackable. The suggestion that Bitcoin is anonymous is the hallmark of someone who doesn't truly understand the technology.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1dfeb87471deb45188380b8157600b6bcf8bae4.jpg"></article>]]></description>
             <link>https://cointelegraph.com/news/the-bitcoin-ransomware-fallacy-why-blockchain-criminals-can-be-caught</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 06/14/2016 - Potential Uptrend Correction - NEWSBTC</h1><p>Bitcoin price looks ready to make a correction from its recent rally, giving buyers a chance to hop in the uptrend at better levels. Bitcoin Price Key Highlights Bitcoin price looks ready to make a correction from its recent rally, giving buyers a chance to hop in the uptrend at better levels.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f5539ef088c14a92d5edebce818eba304e49d56.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/06/14/bitcoin-price-technical-analysis-06142016-potential-uptrend-correction/</link>
             <guid isPermaLink="false">6ebe4232-69c5-4735-96b1-a0b728db0933</guid>
+            <pubDate>Tue, 14 Jun 2016 06:31:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2016-06-09]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-06-09</h1><p>compile-time / memory usage segwit update Compactblock testing The feature freeze for Bitcoin Core is scheduled next week, all the features that need to be merged should be merged before that time. Cfields has 2 p2p refactor PR's he'd like to get in, which can be done after the freeze as those aren't new features.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/06/09/</link>
+            <guid isPermaLink="false">396a783a-2f50-422a-a7f2-bc5cb01c7979</guid>
             <pubDate>Tue, 14 Jun 2016 06:31:56 GMT</pubDate>
         </item>
     </channel>
