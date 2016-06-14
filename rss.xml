@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 13:00:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2016 13:00:28 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What date does halving happen at?]]></title>
+            <description><![CDATA[<article><h1>What date does halving happen at?</h1><p>When does the 2016 halving happen? Is it a predicted date for it or could be when network load is achieved?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/45832/what-date-does-halving-happen-at</link>
+            <guid isPermaLink="false">258557ba-e412-434f-9c80-765e55aa3d27</guid>
+            <pubDate>Tue, 14 Jun 2016 12:59:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Two Australian Bitcoin Exchanges Add Ether Support]]></title>
             <description><![CDATA[<article><h1>Two Australian Bitcoin Exchanges Add Ether Support</h1><p>Two major Australian bitcoin exchanges - CoinLoft and CoinTree, have announced that ether, the cryptocurrency token of the Ethereum network, will now be available for purchasing on the platforms. In an announcement yesterday via a press release, leading Australian bitcoin exchange CoinTree revealed that users will - effective immediately - be able to swap bitcoin for a number of varying altcoins including ether, litecoin and DAO tokens.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5369f0616ad343d26fb9978147aa896f566993ff.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>What's the best place to buy ethereum for USD?</h1><p>Ummm... let me see if I understand the suggestion. To paraphrase, we should achieve greater action on one of the major issues facing the world today by removing it from the agendas of both political parties in the most powerful country in the world. Yeah, that makes sense.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
             <link>https://www.quora.com/unanswered/Whats-the-best-place-to-buy-ethereum-for-USD</link>
             <guid isPermaLink="false">03865587-fc41-4766-852c-1350e48bdadd</guid>
-            <pubDate>Tue, 14 Jun 2016 12:59:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brazil Trumps US In Fight Against Payment Card Fraud]]></title>
-            <description><![CDATA[<article><h1>Brazil Trumps US In Fight Against Payment Card Fraud</h1><p>When it comes to dealing with payment card transactions, fraud remains one of the key concerns for all retailers. Brazil has adapted to this challenge by introducing EMV payments back in 2011, as well as other fraud prevention tools. This same technology is only now rolling out to customers in the US, five years after the facts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03d4ff5b3e8ec229f761c912e027c20cf3da052a.jpg"></article>]]></description>
-            <link>http://themerkle.com/brazil-trumps-us-in-fight-against-payment-card-fraud/</link>
-            <guid isPermaLink="false">865a3ea4-d564-4037-993b-be95b4901563</guid>
             <pubDate>Tue, 14 Jun 2016 12:59:08 GMT</pubDate>
         </item>
     </channel>
