@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 13:01:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2016 13:01:11 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Australian bitcoin exchanges announce Ethereum support - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>Australian bitcoin exchanges announce Ethereum support - Bitcoinist.net</h1><p>Two of Australia's leading bitcoin exchanges, CoinTree and CoinLoft, have announced this week new services allowing users to purchase a variety of altcoins including ether, the cryptocurrency that powers the Ethereum network. Alongside their established services which have primarily focused on making bitcoin accessible to the general public, they have now streamlined the process of acquiring ether.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2bb09e551e069506b689de9ff0f9fb4903ba2621.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/australian-bitcoin-exchanges-announce-ethereum-support/</link>
-            <guid isPermaLink="false">d8535798-b987-4a75-bf51-cdc645eae20c</guid>
-            <pubDate>Tue, 14 Jun 2016 12:59:11 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin: from the beginning]]></title>
             <description><![CDATA[<article><h1>Bitcoin: from the beginning</h1><p>How did the Bitcoin virtual money system get started? Dr Karl takes a bite out of history. How did the Bitcoin virtual money system get started? Dr Karl takes a bite out of history. Today, all modern societies use some kind of 'money' as a convenient way of exchanging goods and services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d61cd382bd408873d2df00e44ec5c7214c36eb95.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Industry Report: Bitcoin Continues Breaking Boundaries</h1><p>In this week's Bitcoin industry report, we cover bank security, Jaxx's integration with ShapeShift, and Coinfabrik's new Coinbase API.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e11eeb99a98201caf436fce32c9640322e32daa0.png"></article>]]></description>
             <link>http://bitcoinist.net/industry-report-bitcoin-boundaries/</link>
             <guid isPermaLink="false">6a5aa926-40eb-4051-bf01-f011ee74a0f5</guid>
+            <pubDate>Tue, 14 Jun 2016 12:59:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Observation: As Rigid Rules To Prop National Currencies Fail, Bitcoin Gains Favor]]></title>
+            <description><![CDATA[<article><h1>Observation: As Rigid Rules To Prop National Currencies Fail, Bitcoin Gains Favor</h1><p>Daniel Jennings, a contributor to Seeking Alpha, claims that rigid currency rules in some countries, such as China, Egypt and Zimbabwe, are pushing demand for bitcoin, boosting its price. He says national currencies may no longer be viable in some countries.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ffc53711b8f474fe946201c1878ba5f471219a0.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/observation-as-rigid-rules-to-prop-national-currencies-fail-bitcoin-gains-favor/</link>
+            <guid isPermaLink="false">069a3e7e-b677-488e-9c66-2c3e14f90824</guid>
             <pubDate>Tue, 14 Jun 2016 12:59:10 GMT</pubDate>
         </item>
     </channel>
