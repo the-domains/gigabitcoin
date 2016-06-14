@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 13:00:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2016 13:00:29 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Businesses Stockpile Bitcoin For Ransomware | PYMNTS.com]]></title>
+            <description><![CDATA[<article><h1>Businesses Stockpile Bitcoin For Ransomware | PYMNTS.com</h1><p>A U.K. corporate networking firm has found some intriguing patterns emerging among corporations as the risk of cybercrime grows. Researchers at Citrix this month found evidence that businesses are shoring up reserves of bitcoin so they can pay ransoms as quickly as possible should they be hit with ransomware.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0107c1f2bfe4a7ea2bbe482010062301a108c792.jpg"></article>]]></description>
+            <link>http://www.pymnts.com/news/b2b-payments/2016/businesses-bitcoin-stockpile-ransomware-attack/</link>
+            <guid isPermaLink="false">05652b0c-9bb8-483a-9b29-8d45299a27eb</guid>
+            <pubDate>Tue, 14 Jun 2016 12:59:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Watch; Breaking Down Today's Action]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Watch; Breaking Down Today's Action</h1><p>Here's what we are focusing on for this morning's session out of Europe in the bitcoin price. Yesterday evening, we published the second of our twice-daily bitcoin price analyses. Our primary concern in the piece, was that bitcoin had gained so much throughout the day, but that as a result, expected a pretty wide scale correction on these gains.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7636494f639748ad0af8d6c59c095be45b5c0e1.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.newsbtc.com/2016/06/14/bitcoin-above-governments-and-about-humanity/</link>
             <guid isPermaLink="false">64b398f1-ae23-44ef-87fd-c4cf69b1cc55</guid>
             <pubDate>Tue, 14 Jun 2016 12:59:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum Support In USD and EUR Markets Is On The Rise]]></title>
-            <description><![CDATA[<article><h1>Ethereum Support In USD and EUR Markets Is On The Rise</h1><p>Ethereum is wrecking the trading charts over the past few days, and the cryptocurrency seems to hold its own compared to Bitcoin. A few good spikes in trading volume will certainly help, and both USD and EUR markets continue to heat up.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16ae2dd46ddb709ed2ba8e733761242e80799794.jpg"></article>]]></description>
-            <link>http://themerkle.com/ethereum-support-in-usd-and-eur-markets-is-on-the-rise/</link>
-            <guid isPermaLink="false">f592162c-c764-430b-b6a3-f4c9e18c5972</guid>
-            <pubDate>Tue, 14 Jun 2016 12:59:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
