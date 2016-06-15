@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 04:47:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 04:47:40 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What does it mean for Ethereum to be funded largely in its own currency?]]></title>
+            <description><![CDATA[<article><h1>What does it mean for Ethereum to be funded largely in its own currency?</h1><p>Answer: I'm not a 100% sure about this, but I'll take a stab at it. 1. The loftier reason might be that they believe in their idea enough that they are willing to financially bet on it by buying up Ethereum. It's also provides a strong signaling effect in terms of convincing others to adopt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/What-does-it-mean-for-Ethereum-to-be-funded-largely-in-its-own-currency</link>
+            <guid isPermaLink="false">5673db68-32a9-48ab-b368-9332415c8c4b</guid>
+            <pubDate>Wed, 15 Jun 2016 04:01:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[21 Inc. Creates Open Source Library For Machine-Payable Web]]></title>
             <description><![CDATA[<article><h1>21 Inc. Creates Open Source Library For Machine-Payable Web</h1><p>21 Inc. has made its software free, 'turning any computer into a bitcoin computer', the company announced on Medium. Once a computer has installed the software, the user can get bitcoin using any device nearly anywhere without a bank account or credit cards.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e59e5b2158612180d60add14472f20e7b9de6c9.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Traded Certificates Resume Nasdaq Trading Following Acquisition</h1><p>A bitcoin investment vehicle designed to enable European investors with liquid access to returns of bitcoin is now live again on Nasdaq Nordic following its acquisition by a US hedge fund. XBT Provider, a fully hedged bitcoin investment vehicle and the developer of Bitcoin Tracker (COINXBT) and Bitcoin Tracker EUR (COINXBE) has announced its acquisition by Jersey-based hedge fund Global Advisors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98ec40df6d4aa04fa3150bd8f972a59150ceef80.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/bitcoin-certificates-resume-nasdaq-trading-following-acquisition/</link>
             <guid isPermaLink="false">41413b31-c7b5-41f6-83bc-d5e1571a2ca4</guid>
-            <pubDate>Wed, 15 Jun 2016 04:01:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ripple granted BitLicense]]></title>
-            <description><![CDATA[<article><h1>Ripple granted BitLicense</h1><p>On Monday, the New York Department of Financial Services (NYDFS) announced the approval of a BitLicense for Ripple to sell and hold custody of XRP, the Ripple Consensus Ledger's native digital asse...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3ea35c5c193dfa0003fd24ad80c1c2592c6f7fc.png"></article>]]></description>
-            <link>https://coinreport.net/ripple-granted-bitlicense/</link>
-            <guid isPermaLink="false">c91bae07-6ce9-458f-935a-51eb24f97f0f</guid>
             <pubDate>Wed, 15 Jun 2016 04:01:46 GMT</pubDate>
         </item>
     </channel>
