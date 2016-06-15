@@ -28,10 +28,10 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  http://cointelegraph.com/news/walmart-canada-says-no-to-visa-can-bitcoin-step-in
+  https://cointelegraph.com/news/walmart-canada-says-no-to-visa-can-bitcoin-step-in
 title: 'Walmart Canada Says No to Visa, Can Bitcoin Step In?'
-datePublished: '2016-06-15T14:32:53.342Z'
-dateModified: '2016-06-15T13:42:17.958Z'
+datePublished: '2016-06-15T19:19:49.142Z'
+dateModified: '2016-06-15T18:11:54.172Z'
 starred: false
 sourcePath: _posts/2016-06-15-walmart-canada-says-no-to-visa-can-bitcoin-step-in.md
 inFeed: true
