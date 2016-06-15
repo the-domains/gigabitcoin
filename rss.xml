@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 04:45:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 04:45:57 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Testing the Nvidia GeForce GTX 1080 Founders Edition for Crypto Mining]]></title>
+            <description><![CDATA[<article><h1>Testing the Nvidia GeForce GTX 1080 Founders Edition for Crypto Mining</h1><p>We continue our series of tests of the new Nvidia GeForce GTX 1080 Founders Edition (reference design) for crypto currency mining after yesterday we have checked the situation for mining Ethereum with the new Pascal GPUs and have seen the not so great results.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d0a4bb1801f1a31dd132d15ed69dcdae02b208b.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7973-testing-the-nvidia-geforce-gtx-1080-founders-edition-for-crypto-mining/</link>
+            <guid isPermaLink="false">288d527e-06d3-4d8a-82fb-0a45242b1e3a</guid>
+            <pubDate>Wed, 15 Jun 2016 04:01:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HaoBTC Plays Cupid with the One Who Popped the Question on Blockchain - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>HaoBTC Plays Cupid with the One Who Popped the Question on Blockchain - NEWSBTC</h1><p>A couple recently decided to 'immortalize' their love by popping the question on the blockchain. These blocks with the question and the response were mined by HaoBTC, a Chinese Bitcoin company. Imagine etching the marriage proposal to the girl/guy of your dreams permanently on the Bitcoin blockchain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/938c37c219921174329319fd543ccaf0200c1a20.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/14/haobtc-plays-cupid/</link>
+            <guid isPermaLink="false">9c18ab08-5f76-40fd-bf29-22ad064ffd53</guid>
+            <pubDate>Wed, 15 Jun 2016 04:01:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russian Hackers Target Donald Trump For Traditional Espionage]]></title>
+            <description><![CDATA[<article><h1>Russian Hackers Target Donald Trump For Traditional Espionage</h1><p>The US Presidential elections are a great source of information. This is also attracting state-sponsored hackers, such as the Russians who stole research on Donald Trump. Penetrating the computer network of the Democratic National Committee was a lot easier than anticipated apparently.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7302c616c6287162ce7b6b5a7c28eb355d9c9e7c.jpg"></article>]]></description>
+            <link>http://themerkle.com/russian-hackers-target-donald-trump-for-traditional-espionage/</link>
+            <guid isPermaLink="false">594f76af-390c-4f55-833a-ee32ac0ef4fd</guid>
+            <pubDate>Wed, 15 Jun 2016 04:01:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Security Pioneer John McAfee Adds Blockchain Experts to Advisory Board - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Security Pioneer John McAfee Adds Blockchain Experts to Advisory Board - CoinDesk</h1><p>Security pioneer John McAffee has added two bitcoin pioneers to his new company's advisory board as part of an effort to make digital currency businesses more secure. A part of the strategy for MGT Capital Investments, McAffee yesterday launched the Cryptosecurity Advisory Board, naming bitcoin angel investor Roger Ver as board chairman.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/434c1aa4490fb164fbec8248720dff49cdc5c9e2.jpg"></article>]]></description>
@@ -53,27 +74,6 @@
             <description><![CDATA[<article><h1>Microsoft to Attend and Sponsor Ethereum's Developer Conference DEVCON2 - NEWSBTC</h1><p>DEVCON, the first Ethereum's developer conference, received a new sponsor. Microsoft (NASDAQ:MSFT), the multinational IT company, announced its direct involvement in the event. DEVCON2 is the next ethereum developer and community gathering to take place, the event will be held at Shangai from 19 to 21 September.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be2ba5a133426c30858e844ef28a7e9999980f33.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/06/15/microsoft-attend-sponsor-ethereums-developer-conference-devcon2/</link>
             <guid isPermaLink="false">fa67ee34-9479-4054-be15-0a1b78fc7eec</guid>
-            <pubDate>Wed, 15 Jun 2016 04:01:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ether Hits Record Highs as Price Decouples From Bitcoin - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Ether Hits Record Highs as Price Decouples From Bitcoin - CoinDesk</h1><p>The price of ether, the native digital asset on the Ethereum blockchain, neared $20 for the first time ever on 14th June, approaching the milestone as it appeared to break out of its old trading patterns. In recent weeks, market observers asserted that ether had been displaying a negative correlation, with the older, more established ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ec13286a91211e49570ca7a4ff7675007a4c539.png"></article>]]></description>
-            <link>http://www.coindesk.com/ethereum-trends-price-record-highs-18/</link>
-            <guid isPermaLink="false">cf271994-74f7-4a66-a3a2-b48d0cb54fb0</guid>
-            <pubDate>Wed, 15 Jun 2016 04:01:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[R3 Issues Buterin's]]></title>
-            <description><![CDATA[<article><h1>R3 Issues Buterin's</h1><p>Ethereum holds a top position among the promising blockchain platforms being investigated by R3, the financial innovation consortium that includes more than 50 of the world's leading banks. Recently R3 commissioned Ethereum creator Vitalik Buterin to write a report on Ethereum design, upcoming technical developments and applications in private systems. Buterin's report, titled " Ethereum: Platform Review - Opportunities and Challenges for Private and Consortium Blockchains," is online on R3's website.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10e31311a9140245e76804bd6e80e382881fd710.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/r-issues-buterin-s-ethereum-platform-review-papers-opportunities-and-challenges-for-private-and-consortium-blockchains-1465943849</link>
-            <guid isPermaLink="false">64ab08c3-e0a9-4d91-8ede-3d3f8439f9e3</guid>
-            <pubDate>Wed, 15 Jun 2016 04:01:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[America's regulatory issue is too many cooks]]></title>
-            <description><![CDATA[<article><h1>America's regulatory issue is too many cooks</h1><p>I've had a few meetings with folks at the White House over the past eighteen months, which has been an honour and not something I felt I should blog about. The National Economic Council woke up to the FinTech world early last year and have been consulting with many in the FinTech ecosystem.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/890ef72f947b0e7c7c6dae190a1e92d449d58bdf.jpg"></article>]]></description>
-            <link>http://bravenewcoin.com/news/americas-regulatory-issue-is-too-many-cooks/</link>
-            <guid isPermaLink="false">78fafa29-e353-4cae-a7ba-b0af1eaf8460</guid>
             <pubDate>Wed, 15 Jun 2016 04:01:42 GMT</pubDate>
         </item>
     </channel>
