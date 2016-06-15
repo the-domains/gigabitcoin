@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 04:47:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 04:47:23 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin price surges as flow of new coins set to drop by half]]></title>
-            <description><![CDATA[<article><h1>Bitcoin price surges as flow of new coins set to drop by half</h1><p>The value of a bitcoin has risen to its highest level since 2014 as the software code that underpins the cryptocurrency is set to cut the amount of new coins being created by half. The price of a bitcoin hit $719 US at one point on Monday, according to digital currency website Coindesk.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c43cda671462f3bba0a7af9c57b85a7ecee4b503.jpg"></article>]]></description>
-            <link>http://www.cbc.ca/news/business/bitcoin-price-half-1.3634558</link>
-            <guid isPermaLink="false">fc7b1272-1b6e-4428-a9bc-7e063842b996</guid>
-            <pubDate>Wed, 15 Jun 2016 04:01:47 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Peerplays to Complete Ethereum Sidechain by 2017, Revised DAO Proposal Says]]></title>
             <description><![CDATA[<article><h1>Peerplays to Complete Ethereum Sidechain by 2017, Revised DAO Proposal Says</h1><p>Peerplays, an online gaming and wagering platform which uses open-source Blockchain technology, introduced its DAO proposal in May. After receiving feedback from DAO supporters, the platform has also decided to build a sidechain from Peerplays to Ethereum.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ac3244d883f74fb8db6944dd6dc9a066a090aa7.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Hidden Meanings of Ethereum Logo: Love, Compassion, Energy and Self-Reflection</h1><p>A careful look at the Coca Cola logo will reveal a hidden Danish flag. So is the arrow in FedEx which symbolizes forward moving. And the shaving stick hidden somewhere between the first two letters of Gillette. What do you see in the Ethereum logo?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a66bd657a7c60b9bc2f79dfc4559768ddc6bee98.jpg"></article>]]></description>
             <link>https://cointelegraph.com/news/hidden-meanings-of-ethereum-logo-love-compassion-energy-and-self-reflection</link>
             <guid isPermaLink="false">417f0db3-e29a-47b4-93d8-bb3eaa420b49</guid>
+            <pubDate>Wed, 15 Jun 2016 04:01:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From Ethereum Virtual Machine to Bitcoin Blockchain: Questions raised by Counterparty]]></title>
+            <description><![CDATA[<article><h1>From Ethereum Virtual Machine to Bitcoin Blockchain: Questions raised by Counterparty</h1><p>Is this the beginning of the end of Ethereum? That's the question posed in a Bitcoin subreddit devoted to new information and discussion about Bitcoin and its ecosystem. The comment comes after the announcement by Counterparty that it is porting the Ethereum Virtual Machine to the Bitcoin Blockchain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7df41e873bd1cb5356872e804dc707a4e486153.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/from-ethereum-virtual-machine-to-bitcoin-blockchain-questions-raised-by-counterparty</link>
+            <guid isPermaLink="false">0a7a5b4d-3277-44fd-8bc7-caaf145d48be</guid>
             <pubDate>Wed, 15 Jun 2016 04:01:46 GMT</pubDate>
         </item>
     </channel>
