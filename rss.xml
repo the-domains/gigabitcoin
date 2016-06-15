@@ -7,6 +7,13 @@
         <lastBuildDate>Wed, 15 Jun 2016 21:45:38 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Three in Four US Enterprises Will Only Upgrade Cyber Security After An Attack]]></title>
+            <description><![CDATA[<article><h1>Three in Four US Enterprises Will Only Upgrade Cyber Security After An Attack</h1><p>Enterprises mostly still live in the dark ages of cyber security, unfortunately enough. A recent survey by the RSA indicates the majority of companies dealing with cyber attacks have little to no response capabilities. In this day and age of hacking, data breaches, and malware threats, such a lackluster level of security is entirely unacceptable.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e1786683e7b9a9590320f53fa9d447e2/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_373779052.jpg"></article>]]></description>
+            <link>http://themerkle.com/three-in-four-us-enterprises-will-only-upgrade-cyber-security-after-an-attack/</link>
+            <guid isPermaLink="false">be97a0ef-0eda-424a-a3f6-b1af55b51761</guid>
+            <pubDate>Wed, 15 Jun 2016 21:44:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Microsft Presents Project Bletchley, Increasing Blockchain Infrastructure Solutions - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Microsft Presents Project Bletchley, Increasing Blockchain Infrastructure Solutions - NEWSBTC</h1><p>Microsoft (NASDAQ:MSFT) continues to deliver key innovations and solutions for businesses and developers alike. The company claims it has been working side-by-side with businesses and partners to build and deliver blockchain technology to enterprises, governments, and the general population. The company introduced Blockchain as a Service (BaaS) in November of last year.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fd0bb1e4039ad5d583f124dae3118ad5/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F15214809%2FMicrosoft-headquarters.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/06/15/microsft-presents-project-bletchley-increasing-blockchain-infrastructure-solutions/</link>
@@ -68,13 +75,6 @@
             <link>https://news.bitcoin.com/allianz-tests-smart-contracts/</link>
             <guid isPermaLink="false">d04d290a-865a-4dd0-ad95-6dff17bb3477</guid>
             <pubDate>Wed, 15 Jun 2016 19:19:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Receive Payments API Update: Address Gap Limits]]></title>
-            <description><![CDATA[<article><h1>Receive Payments API Update: Address Gap Limits</h1><p>Recently we've encountered interesting edge cases where Receive Payments API V2 users had long runs of unused addresses, which makes funds paid to later addresses not display within the wallet. We're taking a proactive approach to prevent this from happening, and in this post we'll explain these changes and their impact on our API users.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1acca75553a1dca7165ac374057b854c/noop.png?input=https%3A%2F%2Fblog.blockchain.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fapi-update.png"></article>]]></description>
-            <link>https://blog.blockchain.com/2016/06/15/receive-payments-api-update-address-gap-limits/</link>
-            <guid isPermaLink="false">918825a2-611b-4aad-ad98-1e9e09ec7fb6</guid>
-            <pubDate>Wed, 15 Jun 2016 19:19:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
