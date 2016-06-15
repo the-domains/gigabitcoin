@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 13:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 13:22:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[New Advisors Could Push Lisk Beyond Ethereum]]></title>
-            <description><![CDATA[<article><h1>New Advisors Could Push Lisk Beyond Ethereum</h1><p>Lisk is now the 7th coin on CoinMarketCap after its launch on May 24th. Two prominent advisors have been added to the team to help Lisk become the go-to platform for Blockchain applications and provider of decentralized services.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/501f497b995f55d45cecc68a98dfcfd6ddaa4dc4.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/new-advisors-could-push-lisk-beyond-ethereum</link>
-            <guid isPermaLink="false">57c3d63a-91e6-497f-96e4-029ad15ac39a</guid>
-            <pubDate>Wed, 15 Jun 2016 13:21:09 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Fintech Bank Bunq Integrates QR Codes For Mobile Payments]]></title>
             <description><![CDATA[<article><h1>Fintech Bank Bunq Integrates QR Codes For Mobile Payments</h1><p>For the longest time, people have been debating the potential use case of QR codes in the payments industry. As it turns out, this technology can be used for real-time payments, as Bitcoin has been illustrating for quite some time now. Dutch "fintech bank" Bunq has integrated QR codes into their mobile payment solution as well.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4ee450a6c696a04d08799c81768f3e6d/croprotate.jpg?cropheight=562&cropwidth=853&degrees=0&input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2FBunq.jpg&x=75&y=0"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://blog.holytransaction.com/2016/06/white-house-fintech-summit.html</link>
             <guid isPermaLink="false">a1a352a5-6869-49f2-a23b-a0ca88daa65a</guid>
             <pubDate>Wed, 15 Jun 2016 04:01:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What does it mean for Ethereum to be funded largely in its own currency?]]></title>
+            <description><![CDATA[<article><h1>What does it mean for Ethereum to be funded largely in its own currency?</h1><p>Answer: I'm not a 100% sure about this, but I'll take a stab at it. 1. The loftier reason might be that they believe in their idea enough that they are willing to financially bet on it by buying up Ethereum. It's also provides a strong signaling effect in terms of convincing others to adopt.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/What-does-it-mean-for-Ethereum-to-be-funded-largely-in-its-own-currency</link>
+            <guid isPermaLink="false">5673db68-32a9-48ab-b368-9332415c8c4b</guid>
+            <pubDate>Wed, 15 Jun 2016 04:01:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
