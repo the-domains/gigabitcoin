@@ -7,6 +7,13 @@
         <lastBuildDate>Wed, 15 Jun 2016 19:20:36 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[The DAO Eliminates Vulnerability That Allowed Endless Withdrawals from Some Accounts]]></title>
+            <description><![CDATA[<article><h1>The DAO Eliminates Vulnerability That Allowed Endless Withdrawals from Some Accounts</h1><p>A vulnerability in the implementation of Ethereum protocol by some developers has resulted in a need for fixing the DAO. The first decentralized venture foundation owns around $165 million accumulated during the recently closed crowdsale campaign. The very need for amending mistakes in a code isn't a shocker.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/618ae443de8fd639d918099312598f53/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F03%2Finternetofthings-1.png"></article>]]></description>
+            <link>http://forklog.net/the-dao-eliminates-vulnterability-that-allowed-endless-withdrawals-from-some-accounts/</link>
+            <guid isPermaLink="false">cd22d2e6-b4db-4ed4-a8ec-40beb511b0e6</guid>
+            <pubDate>Wed, 15 Jun 2016 19:19:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[MGT Capital Rebrands, Adds Bitcoin Heavyweights to Advisory Board]]></title>
             <description><![CDATA[<article><h1>MGT Capital Rebrands, Adds Bitcoin Heavyweights to Advisory Board</h1><p>MGT Capital Investments, a New York-based firm, is renaming itself to "John McAfee Global Technologies, Inc.," in honor of its incoming CEO and Chairman, the recent Libertarian presidential contender and consumer computer security pioneer, John McAfee. At the same time, the investment company is bringing on at least two of the most recognized names in the Bitcoin world, Erik Voorhees and Roger Ver.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/87064d17fac73c3cdcb58064f9fed27b/croprotate.jpg?cropheight=634&cropwidth=1274&degrees=0&input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F06%2FErik-Voorhees-Roger-Ver.jpg&x=0&y=0"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/mgt-capital-rebrands-adds-bitcoin-heavyweights-advisory-board/</link>
@@ -68,13 +75,6 @@
             <link>http://www.coindesk.com/aicpa-irs-bitcoin-tax-guidance/</link>
             <guid isPermaLink="false">5173f8f2-fe9d-4570-bbb8-dec39a730566</guid>
             <pubDate>Wed, 15 Jun 2016 14:56:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Halving and Yuan Deprecation: Why Bitcoin Price Grows]]></title>
-            <description><![CDATA[<article><h1>Halving and Yuan Deprecation: Why Bitcoin Price Grows</h1><p>Over the course of these two weeks, bitcoin has broken several records having surpassed the $500, $600 and $700 marks in a sequence. ForkLog talked with cryptocurrency trading expert Kir Kelevra to find out the reasons for the upsurge and the perspectives it might provide to traders.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aaf0a025196db643a3971ee54311d514/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F06%2Fbitcoinprice03.png"></article>]]></description>
-            <link>http://forklog.net/halving-and-yuan-deprecation-why-bitcoin-price-grows/</link>
-            <guid isPermaLink="false">05ab56fe-3299-4743-9c5f-f923ce4f4934</guid>
-            <pubDate>Wed, 15 Jun 2016 14:32:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
