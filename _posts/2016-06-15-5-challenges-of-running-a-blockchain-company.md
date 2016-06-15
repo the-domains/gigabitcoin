@@ -28,10 +28,10 @@ description: >-
   challenging aspects of their business since launching in 2015.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://cointelegraph.com/news/5-challenges-of-running-a-blockchain-company'
+isBasedOnUrl: 'https://cointelegraph.com/news/5-challenges-of-running-a-blockchain-company'
 title: 5 Challenges of Running A Blockchain Company
-datePublished: '2016-06-15T14:56:28.818Z'
-dateModified: '2016-06-15T14:42:25.736Z'
+datePublished: '2016-06-15T19:19:48.768Z'
+dateModified: '2016-06-15T18:11:55.414Z'
 starred: false
 sourcePath: _posts/2016-06-15-5-challenges-of-running-a-blockchain-company.md
 inFeed: true
