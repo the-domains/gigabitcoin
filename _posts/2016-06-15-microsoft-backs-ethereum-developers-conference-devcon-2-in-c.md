@@ -28,10 +28,10 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  https://cointelegraph.com/news/microsoft-backs-ethereum-developers-conference-devcon-2-in-china
+  http://cointelegraph.com/news/microsoft-backs-ethereum-developers-conference-devcon-2-in-china
 title: Microsoft backs Ethereum Developers Conference DevCon 2 in China
-datePublished: '2016-06-15T04:01:45.597Z'
-dateModified: '2016-06-14T19:41:31.162Z'
+datePublished: '2016-06-15T04:01:46.801Z'
+dateModified: '2016-06-14T18:42:22.189Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-15-microsoft-backs-ethereum-developers-conference-devcon-2-in-c.md
