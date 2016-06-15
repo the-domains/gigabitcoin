@@ -28,10 +28,10 @@ description: >-
   upward trend.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://cointelegraph.com/news/ethereum-eth-price-trends-6152016'
+isBasedOnUrl: 'http://cointelegraph.com/news/ethereum-eth-price-trends-6152016'
 title: 'Ethereum (ETH) Price Trends: 6/15/2016'
-datePublished: '2016-06-15T19:19:48.364Z'
-dateModified: '2016-06-15T18:11:59.477Z'
+datePublished: '2016-06-15T19:19:49.716Z'
+dateModified: '2016-06-15T17:11:36.072Z'
 starred: false
 sourcePath: _posts/2016-06-15-ethereum-eth-price-trends-6152016.md
 inFeed: true
