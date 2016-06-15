@@ -7,13 +7,6 @@
         <lastBuildDate>Wed, 15 Jun 2016 13:22:05 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Bitcoin Price Watch; Riding the Morning Volatility - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Riding the Morning Volatility - NEWSBTC</h1><p>It's time to put together the first of our twice daily bitcoin price watch pieces, and in what looks to be a stark contrast to the action we saw over the last week or so, things have been pretty flat overnight. Price reached highs of a little over $725 across the major exchanges early this ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0042ce6d580d44e121d00046b30b75add4699485.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/15/bitcoin-price-watch-riding-morning-volatility/</link>
-            <guid isPermaLink="false">3a11739a-0e42-489f-b314-24b29b8ae7b1</guid>
-            <pubDate>Wed, 15 Jun 2016 13:21:10 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Digital Bank WB21 Adds Bitcoin Deposit Option]]></title>
             <description><![CDATA[<article><h1>Digital Bank WB21 Adds Bitcoin Deposit Option</h1><p>WB21 acknowledges the need for various deposit options, and introducing Bitcoin is a smart choice. Bitcoin is starting to make waves in the banking world, albeit not in a traditional sense. Digital bank WB21 is the first of its kind to accept Bitcoin deposits.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e24220e127d531330b9dba34f3d8440645f1262.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/06/15/digital-bank-wb21-adds-bitcoin-deposit-option/</link>
@@ -75,6 +68,13 @@
             <link>http://seekingalpha.com/article/3982134-lowest-risk-way-make-killing-brexit</link>
             <guid isPermaLink="false">fc5fd30c-f6fe-4edb-ab38-7e19c3e22137</guid>
             <pubDate>Wed, 15 Jun 2016 13:21:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Digital Bank WB21 Enables Bitcoin Deposits]]></title>
+            <description><![CDATA[<article><h1>Digital Bank WB21 Enables Bitcoin Deposits</h1><p>WB21 will be the first digital bank to accept deposits in bitcoin from customers looking to transfer and deposit funds into their checking accounts. Customers of digital bank WB21 will now be able to use bitcoin to transfer and deposit funds to their checking accounts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/585c63a4affc25e633568f1521609296/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F06%2FDigital-banking.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/digital-bank-wb21-enables-bitcoin-deposits/</link>
+            <guid isPermaLink="false">120d5233-c3de-49f8-883f-5a2c547461c8</guid>
+            <pubDate>Wed, 15 Jun 2016 13:21:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
