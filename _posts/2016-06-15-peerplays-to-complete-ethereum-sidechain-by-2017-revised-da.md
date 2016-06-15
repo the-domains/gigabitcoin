@@ -28,10 +28,10 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  https://cointelegraph.com/news/peerplays-to-complete-ethereum-sidechain-by-2017-revised-dao-proposal-says
+  http://cointelegraph.com/news/peerplays-to-complete-ethereum-sidechain-by-2017-revised-dao-proposal-says
 title: 'Peerplays to Complete Ethereum Sidechain by 2017, Revised DAO Proposal Says'
-datePublished: '2016-06-15T04:01:45.757Z'
-dateModified: '2016-06-14T19:41:29.195Z'
+datePublished: '2016-06-15T04:01:47.315Z'
+dateModified: '2016-06-14T17:42:15.208Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-15-peerplays-to-complete-ethereum-sidechain-by-2017-revised-da.md
