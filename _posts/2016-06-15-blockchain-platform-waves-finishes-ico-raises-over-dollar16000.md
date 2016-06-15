@@ -29,10 +29,10 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  https://cointelegraph.com/news/blockchain-platform-waves-finishes-ico-raises-over-16000000-usd-in-bitcoin
+  http://cointelegraph.com/news/blockchain-platform-waves-finishes-ico-raises-over-16000000-usd-in-bitcoin
 title: 'Blockchain Platform WAVES Finishes ICO, Raises Over $16.000.000 USD in Bitcoin'
-datePublished: '2016-06-15T19:19:48.672Z'
-dateModified: '2016-06-15T18:11:57.983Z'
+datePublished: '2016-06-15T19:19:50.062Z'
+dateModified: '2016-06-15T16:42:33.986Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-15-blockchain-platform-waves-finishes-ico-raises-over-dollar16000.md
