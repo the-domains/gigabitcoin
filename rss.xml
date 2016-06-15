@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 13:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 13:22:03 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Creator of bitcoin is sitting on $700-million fortune - The Economic Times]]></title>
+            <description><![CDATA[<article><h1>Creator of bitcoin is sitting on $700-million fortune - The Economic Times</h1><p>Bitcoin is soaring. The digital currency is on a powerful upward trajectory, jumping in value by well over 30% in the space of a month. On Monday, the price peaked at $719 far, far above the $200-mark it was languishing at in August 2015.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/072fcb34efd1581e1722941378b79c58/noop.jpg?input=http%3A%2F%2Feconomictimes.indiatimes.com%2Fthumb%2Fmsid-52757852%2Cwidth-600%2Cresizemode-4%2Cimglength-486611%2Ftech%2Finternet%2Fcreator-of-bitcoin-is-sitting-on-700-million-fortune.jpg"></article>]]></description>
+            <link>http://economictimes.indiatimes.com/tech/internet/creator-of-bitcoin-is-sitting-on-700-million-fortune/articleshow/52757837.cms</link>
+            <guid isPermaLink="false">53859a9a-a0ab-4269-9410-77917dc3b605</guid>
+            <pubDate>Wed, 15 Jun 2016 13:21:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Allianz Insurance to Implement Blockchain Tech for Its CAT Bonds - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Allianz Insurance to Implement Blockchain Tech for Its CAT Bonds - NEWSBTC</h1><p>Allianz, the German insurance major has implemented blockchain technology to cater to the CAT Bonds market. Read more... Adoption of Blockchain technology in the Insurance sector has grown beyond the United Kingdom. The decentralized ledger technology, which acts as the backbone of the Bitcoin network will soon be adopted by the German Insurance major, Allianz.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a486a94f2eade033b0cbb36295d17267/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F15115345%2FAllianz.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>21 Inc. Creates Open Source Library For Machine-Payable Web</h1><p>21 Inc. has made its software free, 'turning any computer into a bitcoin computer', the company announced on Medium. Once a computer has installed the software, the user can get bitcoin using any device nearly anywhere without a bank account or credit cards.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e59e5b2158612180d60add14472f20e7b9de6c9.png"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/21-inc-creates-open-source-library-machine-payable-web/</link>
             <guid isPermaLink="false">2aa77025-7ffe-4dc8-a9a8-d3dcdf4d848f</guid>
-            <pubDate>Wed, 15 Jun 2016 04:01:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What's a good and secure online Ethereum wallet you'd advise to a newbie?]]></title>
-            <description><![CDATA[<article><h1>What's a good and secure online Ethereum wallet you'd advise to a newbie?</h1><p>Answer: The generally accepted wallet is MIST by Ethereum organisation which is available in multiple iterations and platforms ethereum/mist However I don't like it. I mine Ethereum and then transfer my Eth straight to a wallet system specially designed for trading I also use Kraken for conve...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/Whats-a-good-and-secure-online-Ethereum-wallet-youd-advise-to-a-newbie</link>
-            <guid isPermaLink="false">b081925c-437a-42aa-a717-ea84e119fce7</guid>
             <pubDate>Wed, 15 Jun 2016 04:01:48 GMT</pubDate>
         </item>
     </channel>
