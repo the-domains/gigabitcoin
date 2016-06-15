@@ -28,12 +28,12 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  https://cointelegraph.com/news/amidst-spike-in-bitcoin-price-japans-largest-bank-tests-blockchain-based-coin
+  http://cointelegraph.com/news/amidst-spike-in-bitcoin-price-japans-largest-bank-tests-blockchain-based-coin
 title: >-
   Amidst Spike in Bitcoin price, Japan's Largest Bank Tests Blockchain-Based
   Coin
-datePublished: '2016-06-15T19:19:48.791Z'
-dateModified: '2016-06-15T18:11:56.549Z'
+datePublished: '2016-06-15T19:19:51.434Z'
+dateModified: '2016-06-15T15:42:30.298Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-15-amidst-spike-in-bitcoin-price-japans-largest-bank-tests-bl.md
