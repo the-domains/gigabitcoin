@@ -26,10 +26,10 @@ description: >-
   platform for Blockchain applications and provider of decentralized services.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://cointelegraph.com/news/new-advisors-could-push-lisk-beyond-ethereum'
+isBasedOnUrl: 'https://cointelegraph.com/news/new-advisors-could-push-lisk-beyond-ethereum'
 title: New Advisors Could Push Lisk Beyond Ethereum
-datePublished: '2016-06-15T13:21:09.726Z'
-dateModified: '2016-06-15T10:11:38.387Z'
+datePublished: '2016-06-15T19:19:49.228Z'
+dateModified: '2016-06-15T18:11:50.237Z'
 starred: false
 sourcePath: _posts/2016-06-15-new-advisors-could-push-lisk-beyond-ethereum.md
 inFeed: true
