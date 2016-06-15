@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 19:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 19:21:11 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[EU's Biggest Insurer Allianz Successfully Tests Smart Contracts]]></title>
-            <description><![CDATA[<article><h1>EU's Biggest Insurer Allianz Successfully Tests Smart Contracts</h1><p>Europe's biggest insurer Allianz has stated it has successfully tested the use of smart contracts to improve natural disaster bond settlements. Also read: PwC to Study Blockchain Technology for Wholesale Insurance The news was announced following a partnership with Bermuda-based investment management firm Nephila Capital, which specializes in reinsurance risk and so-called catastrophe (CAT) bonds.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/73a3071640595a08c078665d60b3e80a/croprotate.jpg?cropheight=999&cropwidth=1910&degrees=0&input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2F100297133-allianz-getty.jpg&x=0&y=0"></article>]]></description>
-            <link>https://news.bitcoin.com/allianz-tests-smart-contracts/</link>
-            <guid isPermaLink="false">d04d290a-865a-4dd0-ad95-6dff17bb3477</guid>
-            <pubDate>Wed, 15 Jun 2016 19:19:51 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Receive Payments API Update: Address Gap Limits]]></title>
             <description><![CDATA[<article><h1>Receive Payments API Update: Address Gap Limits</h1><p>Recently we've encountered interesting edge cases where Receive Payments API V2 users had long runs of unused addresses, which makes funds paid to later addresses not display within the wallet. We're taking a proactive approach to prevent this from happening, and in this post we'll explain these changes and their impact on our API users.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1acca75553a1dca7165ac374057b854c/noop.png?input=https%3A%2F%2Fblog.blockchain.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fapi-update.png"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Microsoft Launches 'Project Bletchley' to Help Build Blockchain Consortiums - CoinDesk</h1><p>Microsoft today unveiled a new project designed to make it easier for businesses across a wide range of industries to build consortiums that better take advantage of blockchain technology. Since a distributed ledger technology like the blockchain is only as powerful as the number people or companies that use them, Microsoft intends this new suite of tools to help build those networks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/74ac62d834cedbe317cca2cdf0673514/croprotate.png?cropheight=849&cropwidth=1500&degrees=0&input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2Fconsortiumrings.png&x=0&y=0"></article>]]></description>
             <link>http://www.coindesk.com/microsoft-unveils-project-bletchley-streamline-consortium-construction/</link>
             <guid isPermaLink="false">1c1e5100-8e95-44c1-aea7-a82b98dc470e</guid>
+            <pubDate>Wed, 15 Jun 2016 19:19:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bank of Tokyo-Mitsubishi confirms testing of own digital currency]]></title>
+            <description><![CDATA[<article><h1>Bank of Tokyo-Mitsubishi confirms testing of own digital currency</h1><p>Bank of Tokyo-Mitsubishi UFJ has confirmed it is testing a digital currency using blockchain technology, reported Reuters. Last week, the Asahi Shimbun newspaper reported the bank would soon issue ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a4c53c90830c2701d2d00f5ea5a4e0a4/noop.jpg?input=https%3A%2F%2Fcoinreport.net%2Fwp-content%2Fuploads%2F2016%2F04%2FMUFG-headquarters-150x150.jpg"></article>]]></description>
+            <link>https://coinreport.net/bank-tokyo-mitsubishi-confirms-testing-digital-currency/</link>
+            <guid isPermaLink="false">01108d13-5821-4064-b908-199b89d04092</guid>
             <pubDate>Wed, 15 Jun 2016 19:19:49 GMT</pubDate>
         </item>
     </channel>
