@@ -7,30 +7,30 @@ publisher:
   favicon: 'https://www.quora.com/favicon.ico'
   domain: www.quora.com
 keywords:
-  - drone
-  - hand-held
-  - pneumatic
-  - 7-lb
-  - loitering
-  - speeds
-  - tube
-  - zooms
-  - '115'
-  - lethal
+  - investopedia
+  - ncerts
+  - topic
+  - lectures
+  - investing
+  - beginner
+  - bitcoins
+  - read
+  - books
+  - stock
 description: >-
-  Hand-held, lethal drones. Precision weapons with a range measured in miles:
-  destroy your enemy from behind cover without him ever knowing you are there.
-  "The tiny drone launches from its pneumatic carrying tube, extends its wings,
-  and zooms at speed up to 115 mph, driven by an electric propeller.
+  Answer: Your question has 3 parts- Bitcoins, Stocks and Foreign Exchange.
+  Before you start searching for the books i would suggest that you clarify- why
+  do you want to know (Purpose) about the above mentioned topics, since the
+  sources for study would vary accordingly. If you just want a general...
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  https://www.quora.com/unanswered/What-books-should-I-read-in-order-to-learn-about-bitcoin-stocks-and-foreign-exchange
+  https://www.quora.com/What-books-should-I-read-in-order-to-learn-about-bitcoin-stocks-and-foreign-exchange
 title: >-
   What books should I read in order to learn about bitcoin, stocks and foreign
   exchange?
-datePublished: '2016-06-15T14:32:53.722Z'
-dateModified: '2016-06-15T13:36:08.574Z'
+datePublished: '2016-06-15T19:19:47.838Z'
+dateModified: '2016-06-15T18:35:57.595Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-15-what-books-should-i-read-in-order-to-learn-about-bitcoin-st.md
@@ -41,4 +41,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>What books should I read in order to learn about bitcoin, stocks and foreign exchange?</h1><p>Hand-held, lethal drones. Precision weapons with a range measured in miles: destroy your enemy from behind cover without him ever knowing you are there. "The tiny drone launches from its pneumatic carrying tube, extends its wings, and zooms at speed up to 115 mph, driven by an electric propeller.</p><img src="https://qsf.is.quoracdn.net/-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png" /></article>
+<article style=""><h1>What books should I read in order to learn about bitcoin, stocks and foreign exchange?</h1><p>Answer: Your question has 3 parts- Bitcoins, Stocks and Foreign Exchange. Before you start searching for the books i would suggest that you clarify- why do you want to know (Purpose) about the above mentioned topics, since the sources for study would vary accordingly. If you just want a general...</p><img src="https://qsf.is.quoracdn.net/-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png" /></article>
