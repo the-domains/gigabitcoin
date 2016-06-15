@@ -34,10 +34,11 @@ description: >-
   the older, more established ...
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.coindesk.com/ethereum-trends-price-record-highs-18/'
+isBasedOnUrl: >-
+  http://www.coindesk.com/ethereum-trends-price-record-highs-18/?utm_campaign=Feed%3A%20CoinDesk%20%28CoinDesk%20-%20The%20Voice%20of%20Digital%20Currency%29&utm_medium=feed&utm_source=feedburner
 title: Ether Hits Record Highs as Price Decouples From Bitcoin - CoinDesk
-datePublished: '2016-06-15T04:01:42.516Z'
-dateModified: '2016-06-14T23:42:05.956Z'
+datePublished: '2016-06-15T04:01:42.879Z'
+dateModified: '2016-06-14T23:12:01.539Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-15-ether-hits-record-highs-as-price-decouples-from-bitcoin-co.md
