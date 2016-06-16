@@ -29,10 +29,10 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  http://cointelegraph.com/news/bitcoin-ethereum-soar-as-crypto-reaches-90-of-record-market-cap
+  https://cointelegraph.com/news/bitcoin-ethereum-soar-as-crypto-reaches-90-of-record-market-cap
 title: 'Bitcoin, Ethereum Soar As Crypto Reaches 90% of Record Market Cap'
-datePublished: '2016-06-16T13:15:56.574Z'
-dateModified: '2016-06-16T11:43:22.838Z'
+datePublished: '2016-06-16T13:15:56.695Z'
+dateModified: '2016-06-16T11:12:27.086Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-16-bitcoin-ethereum-soar-as-crypto-reaches-90-of-record-marke.md
