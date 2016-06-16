@@ -29,10 +29,10 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  https://cointelegraph.com/news/with-more-risks-in-trading-bitcoin-investment-funds-rise
+  http://cointelegraph.com/news/with-more-risks-in-trading-bitcoin-investment-funds-rise
 title: 'With More Risks in Trading, Bitcoin Investment Funds Rise'
-datePublished: '2016-06-16T13:15:56.995Z'
-dateModified: '2016-06-16T11:12:26.719Z'
+datePublished: '2016-06-16T13:15:57.621Z'
+dateModified: '2016-06-16T10:12:13.108Z'
 starred: false
 sourcePath: _posts/2016-06-16-with-more-risks-in-trading-bitcoin-investment-funds-rise.md
 inFeed: true
