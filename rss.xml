@@ -4,8 +4,36 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 16 Jun 2016 13:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2016 13:17:39 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Internet of Trust - Finance & Development, June 2016]]></title>
+            <description><![CDATA[<article><h1>The Internet of Trust - Finance & Development, June 2016</h1><p>Finance & Development, Andreas Adriano and Hunter Monroe PDF version Created to avoid banks, bitcoin's blockchain technology may end up helping them The greatest thing about cash is the simplicity of transactions. You just hand it over and receive something.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cc90c535fad15efa772d5b7f4c0e9c0b/noop.jpg?input=http%3A%2F%2Fwww.imf.org%2Fexternal%2Fpubs%2Fft%2Ffandd%2F2016%2F06%2Fimages%2Fadriano1.jpg"></article>]]></description>
+            <link>http://www.imf.org/external/pubs/ft/fandd/2016/06/adriano.htm</link>
+            <guid isPermaLink="false">d642764b-f8c8-4f8b-b3c3-1fc1fdb0aa18</guid>
+            <pubDate>Thu, 16 Jun 2016 13:16:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mitsubishi UFJ, Japan's largest financial group is experimenting blockchain technology to build its own digital currency]]></title>
+            <description><![CDATA[<article><h1>Mitsubishi UFJ, Japan's largest financial group is experimenting blockchain technology to build its own digital currency</h1><p>One of the world's largest financial groups, Mitsubishi UFJ Financial Group Inc., (MUFG) is working on its own digital currency in Japan, using blockchain technology. An MUFG spokesperson confirmed to BraveNewCoin that the program exists but the details have yet to be finalized.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4b8767c472da834189ad42b82b2013bb/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FResizedImage600272-JRW-381-yakumo-color-cropped.jpg"></article>]]></description>
+            <link>http://bravenewcoin.com/news/mitsubishi-ufj-japans-largest-financial-group-is-experimenting-blockchain-technology-to-build-its-own-digital-currency/</link>
+            <guid isPermaLink="false">6a573be4-f904-47b2-82b8-49901bea1bbc</guid>
+            <pubDate>Thu, 16 Jun 2016 13:16:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft Introduces Project Bletchley, a Modular Cloud-based Blockchain Platform]]></title>
+            <description><![CDATA[<article><h1>Microsoft Introduces Project Bletchley, a Modular Cloud-based Blockchain Platform</h1><p>Since launching its Azure Blockchain as a Service (BaaS) last November, Microsoft has worked with partners to understand core industry scenarios, and to develop the technologies to bring blockchain to enterprises, governments, and individuals. Project Bletchley is Microsoft's vision for an open, modular blockchain powered by Azure, according to Marley Gray, director of blockchain business development and strategy at Microsoft, in an Azure blog.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b003ef02eee188805c86172ee90e7c23/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F03%2FMicrosoft-HQ1.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/microsoft-introduces-project-bletchley-a-modular-cloud-based-blockchain-platform/</link>
+            <guid isPermaLink="false">ed95ee15-fa0f-46fb-858a-7c1e84792b09</guid>
+            <pubDate>Thu, 16 Jun 2016 13:16:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mitsubishi UFJ, Japan's largest financial group is experimenting with blockchain technology to build its own digital currency]]></title>
+            <description><![CDATA[<article><h1>Mitsubishi UFJ, Japan's largest financial group is experimenting with blockchain technology to build its own digital currency</h1><p>One of the world's largest financial groups, Mitsubishi UFJ Financial Group Inc., (MUFG) is working on its own digital currency in Japan, using blockchain technology. An MUFG spokesperson confirmed to BraveNewCoin that the program exists but the details have yet to be finalized.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4b8767c472da834189ad42b82b2013bb/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FResizedImage600272-JRW-381-yakumo-color-cropped.jpg"></article>]]></description>
+            <link>http://bravenewcoin.com/news/mitsubishi-ufj-japans-largest-financial-group-is-experimenting-with-blockchain-technology-to-build-its-own-digital-currency/</link>
+            <guid isPermaLink="false">670adf59-efa0-4342-8615-18e80179172f</guid>
+            <pubDate>Thu, 16 Jun 2016 13:16:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Spending output of a low-fee transaction by following with higher-fee transaction]]></title>
             <description><![CDATA[<article><h1>Spending output of a low-fee transaction by following with higher-fee transaction</h1><p>Suppose I broadcast a transaction A with very low (or zero) fee. Normally, it would take a long time to confirm. Suppose, then I broadcast another transaction B that spends a (yet unconfirmed) outp...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -47,34 +75,6 @@
             <link>https://www.quora.com/How-one-can-earn-money-through-bitcoin</link>
             <guid isPermaLink="false">6c50065e-261f-4e54-a10f-ce0d73b64336</guid>
             <pubDate>Thu, 16 Jun 2016 13:16:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What's the best place to buy ethereum for USD?]]></title>
-            <description><![CDATA[<article><h1>What's the best place to buy ethereum for USD?</h1><p>Answer: "best" is a bit subjective, but kraken.com will probably do what you're looking for, and was one of the first to offer Ether. NB. The crypto coin is called "Ether" , not "Ethereum"</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/Whats-the-best-place-to-buy-ethereum-for-USD</link>
-            <guid isPermaLink="false">d5ed1634-64fd-4e09-a132-ce7c6ec58136</guid>
-            <pubDate>Thu, 16 Jun 2016 13:16:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is the best bitcoin wallet?]]></title>
-            <description><![CDATA[<article><h1>What is the best bitcoin wallet?</h1><p>Answer (1 of 2): The "Best Bitcoin wallet" is a subjective choice based on your geographic location and your trading needs and should not be made by general recommendations. Most people start off with the official wallet system Blockchain Wallet This is the official wallet for Bitcoin and has C...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
-            <link>https://www.quora.com/What-is-the-best-bitcoin-wallet</link>
-            <guid isPermaLink="false">0dba6ace-5164-4374-9b40-5fbed304a532</guid>
-            <pubDate>Thu, 16 Jun 2016 13:16:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Review: Bitmain AntMiner S9 First 16nm ASIC to Market Miner - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>Review: Bitmain AntMiner S9 First 16nm ASIC to Market Miner - Bitcoinist.net</h1><p>Bitmain has long led the industry not only in ASIC development but also in making sure they are available to more than just a few big customers. The other hallmark of Bitmain is they announce a new miner only when they are nearly ready to ship. No pre-ordering and long waits.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/09fea46d5132d7d1875fedf093f8c18f/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F06%2FAntMiner-S9-Logo.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/review-bitmain-antminer-s9-first-16nm-asic-to-market-miner/</link>
-            <guid isPermaLink="false">015e63a7-0fe0-41b8-9eb9-16191b82008e</guid>
-            <pubDate>Thu, 16 Jun 2016 13:16:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[F2Pool Votes on 8MB Blocks To Alleviate Bitcoin Congestion]]></title>
-            <description><![CDATA[<article><h1>F2Pool Votes on 8MB Blocks To Alleviate Bitcoin Congestion</h1><p>Now that the Bitcoin price has been skyrocketing, more transactions are taking place on the network as well. Similar to what happened a few months ago, network congestion is taking place once again. Bitcoin Core developers are being scrutinized once again for their seemingly unwillingness to up the block size anytime soon.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/95bfb04f62f7fc43158122e1245fdf61/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_58591420.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/f2pool-votes-on-8mb-blocks-to-alleviate-bitcoin-congestion/</link>
-            <guid isPermaLink="false">33e159f7-bad5-4d9c-a729-f431cec6ad9b</guid>
-            <pubDate>Thu, 16 Jun 2016 13:16:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
