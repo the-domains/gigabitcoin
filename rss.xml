@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 16 Jun 2016 13:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2016 13:18:25 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bank of Canada Demos Blockchain-Based Digital Dollar - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Bank of Canada Demos Blockchain-Based Digital Dollar - CoinDesk</h1><p>The Central Bank of Canada revealed yesterday it is developing a digital version of the Canadian dollar based on blockchain technology. Called CAD-coin, the project is part of a wider exploration of the emerging technology codenamed Project Jasper that was reportedly unveiled during a private presentation, according to The Financial Times .</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3f9507ab1fdcfef4bf60d27f02f19880/noop.jpg?input=http%3A%2F%2Fmedia.coindesk.com%2F2014%2F11%2Fbank-of-canada-shutterstock_1500px.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/bank-canada-demos-blockchain-based-digital-dollar/</link>
+            <guid isPermaLink="false">aa36cb41-38bf-4f5e-b83a-badb77daac76</guid>
+            <pubDate>Thu, 16 Jun 2016 13:17:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What percentage of my cash allocation should be in bitcoin?]]></title>
             <description><![CDATA[<article><h1>What percentage of my cash allocation should be in bitcoin?</h1><p>Answer (1 of 5): The solution to Merton's portfolio problem provides guidance toward maximizing your return. In this case almost any rational guess as to the volatility of Bitcoin price would suggest allocating only a vanishingly small amount. OTOH, bitcoin's record as a safer haven in troubled n...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Mitsubishi UFJ, Japan's largest financial group is experimenting blockchain technology to build its own digital currency</h1><p>One of the world's largest financial groups, Mitsubishi UFJ Financial Group Inc., (MUFG) is working on its own digital currency in Japan, using blockchain technology. An MUFG spokesperson confirmed to BraveNewCoin that the program exists but the details have yet to be finalized.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4b8767c472da834189ad42b82b2013bb/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FResizedImage600272-JRW-381-yakumo-color-cropped.jpg"></article>]]></description>
             <link>http://bravenewcoin.com/news/mitsubishi-ufj-japans-largest-financial-group-is-experimenting-blockchain-technology-to-build-its-own-digital-currency/</link>
             <guid isPermaLink="false">6a573be4-f904-47b2-82b8-49901bea1bbc</guid>
-            <pubDate>Thu, 16 Jun 2016 13:16:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft Introduces Project Bletchley, a Modular Cloud-based Blockchain Platform]]></title>
-            <description><![CDATA[<article><h1>Microsoft Introduces Project Bletchley, a Modular Cloud-based Blockchain Platform</h1><p>Since launching its Azure Blockchain as a Service (BaaS) last November, Microsoft has worked with partners to understand core industry scenarios, and to develop the technologies to bring blockchain to enterprises, governments, and individuals. Project Bletchley is Microsoft's vision for an open, modular blockchain powered by Azure, according to Marley Gray, director of blockchain business development and strategy at Microsoft, in an Azure blog.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b003ef02eee188805c86172ee90e7c23/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F03%2FMicrosoft-HQ1.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/microsoft-introduces-project-bletchley-a-modular-cloud-based-blockchain-platform/</link>
-            <guid isPermaLink="false">ed95ee15-fa0f-46fb-858a-7c1e84792b09</guid>
             <pubDate>Thu, 16 Jun 2016 13:16:35 GMT</pubDate>
         </item>
     </channel>
