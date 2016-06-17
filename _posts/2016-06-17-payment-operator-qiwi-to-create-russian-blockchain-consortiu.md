@@ -30,12 +30,12 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  http://cointelegraph.com/news/payment-operator-qiwi-to-create-russian-blockchain-consortium-in-the-manner-of-r3
+  https://cointelegraph.com/news/payment-operator-qiwi-to-create-russian-blockchain-consortium-in-the-manner-of-r3
 title: >-
   Payment Operator Qiwi to Create Russian Blockchain Consortium in the Manner of
   R3
-datePublished: '2016-06-17T04:18:29.919Z'
-dateModified: '2016-06-16T16:12:12.239Z'
+datePublished: '2016-06-17T22:52:55.866Z'
+dateModified: '2016-06-17T22:12:46.762Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-17-payment-operator-qiwi-to-create-russian-blockchain-consortiu.md
