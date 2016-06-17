@@ -4,7 +4,7 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 17:29:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 17:30:06 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Understanding the Lightning Network, Part 3: Completing the Puzzle and Closing the Channel]]></title>
@@ -12,6 +12,13 @@
             <link>https://bitcoinmagazine.com/articles/understanding-the-lightning-network-part-completing-the-puzzle-and-closing-the-channel-1466178980</link>
             <guid isPermaLink="false">8a01e0a6-0117-433e-859c-db558734f9e1</guid>
             <pubDate>Fri, 17 Jun 2016 17:29:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blockchain Future Beyond Bitcoin: No Luxury Cars for the Middlemen, WIRED Predicts]]></title>
+            <description><![CDATA[<article><h1>Blockchain Future Beyond Bitcoin: No Luxury Cars for the Middlemen, WIRED Predicts</h1><p>Let's take a look at several big Blockchain trends which are about to change our perspective on the future. Gian Volpicelli from Wired lists some potential purposes of Blockchains. The main feature of all these is decreasing or even the total absence of middlemen.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/43407f5189a9c6ac0f25dd2c07ff049d/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzVhOTAzMGJlNDZjYmE3ZGFkZmY5MTBhOTg3MTI1ODAzLmpwZw%3D%3D.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/blockchain-future-beyond-bitcoin-no-luxury-cars-for-the-middlemen-wired-predicts</link>
+            <guid isPermaLink="false">f68ed633-b096-4e66-b668-6fc8066fb54a</guid>
+            <pubDate>Fri, 17 Jun 2016 17:29:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What is the wallet "word seed" that is commonly used in popular wallets clients and what does it do?]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Why is the ledger public?</h1><p>The ledger has to be public in order for Bitcoin to be decentralized. The designers of Bitcoin didn't want to need anyone to play the role of a "bank" who keeps all the records, and whom everyone else has to trust to do that properly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/45979/why-is-the-ledger-public</link>
             <guid isPermaLink="false">e5dca23d-ecc9-4d1f-b714-2899eb4ef87d</guid>
-            <pubDate>Fri, 17 Jun 2016 13:18:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How much testing is done on each pull request before it is merged?]]></title>
-            <description><![CDATA[<article><h1>How much testing is done on each pull request before it is merged?</h1><p>Frequently after one pull request is merged, multiple other pull requests follow to clean up a problem created by the first PR Recent example: https://github.com/bitcoin/bitcoin/pull/7957</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/45966/how-much-testing-is-done-on-each-pull-request-before-it-is-merged</link>
-            <guid isPermaLink="false">8d4c6b8f-4b98-4f01-9d15-d8c3cb14bd23</guid>
             <pubDate>Fri, 17 Jun 2016 13:18:59 GMT</pubDate>
         </item>
     </channel>
