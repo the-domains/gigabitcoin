@@ -28,12 +28,12 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  http://cointelegraph.com/news/blockchain-future-beyond-bitcoin-no-luxury-cars-for-the-middlemen-wired-predicts
+  https://cointelegraph.com/news/blockchain-future-beyond-bitcoin-no-luxury-cars-for-the-middlemen-wired-predicts
 title: >-
   Blockchain Future Beyond Bitcoin: No Luxury Cars for the Middlemen, WIRED
   Predicts
-datePublished: '2016-06-17T17:29:41.971Z'
-dateModified: '2016-06-17T17:12:46.463Z'
+datePublished: '2016-06-17T22:52:53.312Z'
+dateModified: '2016-06-17T22:12:52.950Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-17-blockchain-future-beyond-bitcoin-no-luxury-cars-for-the-mid.md
