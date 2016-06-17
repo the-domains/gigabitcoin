@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 13:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 14:41:53 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Advocates Weigh in on North Carolina Regulatory Bill]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Advocates Weigh in on North Carolina Regulatory Bill</h1><p>Virtual currency advocates provided input to a North Carolina legislative committee Tuesday on a proposed rule to improve regulation of digital currency and blockchain related businesses. The Chamber of Digital Commerce, a trade association that promotes digital assets and blockchain technology, joined representatives of IBM and the Perkins Coie law firm in meeting with the North Carolina Senate Finance Committee.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1bde60f750dd60fd8a792d609d05da42/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F06%2FNC-Capitol.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/virtual-currency-advocates-weigh-in-on-proposed-north-carolina-regulation/</link>
+            <guid isPermaLink="false">60cf86cf-ab9f-47b4-89bc-f2173cdc882c</guid>
+            <pubDate>Fri, 17 Jun 2016 14:41:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum Price Technical Analysis - All Targets Hit, Play Safe - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Ethereum Price Technical Analysis - All Targets Hit, Play Safe - NEWSBTC</h1><p>Ethereum price finally broke $20.0, which is a sign that the ETH bulls are in control. Can it continue to trade higher or should we trade safe? Ethereum price finally broke $20.0, which is a sign that the ETH bulls are in control. Can it continue to trade higher or should we trade safe?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9cad39d2ba25f0e9d9f2762e8be38202/croprotate.png?cropheight=906&cropwidth=1816&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F17033522%2FEthereum13.png&x=3&y=0"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/17/ethereum-price-technical-analysis-targets-hit-play-safe/</link>
+            <guid isPermaLink="false">38687af1-e34f-48bd-a3ce-85d2b8dc8513</guid>
+            <pubDate>Fri, 17 Jun 2016 13:18:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ether Prices Pass $20 in Network First - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Ether Prices Pass $20 in Network First - CoinDesk</h1><p>The price of ether, the native digital asset powering the ethereum blockchain, surpassed $20 for the first time ever yesterday, reaching a key milestone and continuing a rally is has enjoyed so far this week. Ether hit $20 at 18:30 UTC, before pushing higher to reach a high of $21.10 at 19:15 UTC, data from the market's leading exchange, Poloniex, reveals.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4d41d0d0d945b2d4d79e1e791d8d6ad9/noop.jpg?input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2Ftwenty-dollar-e1466138719392.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/ether-prices-20/</link>
+            <guid isPermaLink="false">49fd1c56-098f-4d30-b5fd-e8bee1fd90c1</guid>
+            <pubDate>Fri, 17 Jun 2016 13:18:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How could a country issue it's currency on the blockchain? How would it work?]]></title>
             <description><![CDATA[<article><h1>How could a country issue it's currency on the blockchain? How would it work?</h1><p>With majorities in the House and Senate, the majority of governorships, control in majority of state legislatures, as well as a conservative-leaning Supreme Court, it appears that the GOP may not be quite persuaded that they are on the wrong track.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
@@ -14,17 +35,17 @@
             <pubDate>Fri, 17 Jun 2016 13:18:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why is the ledger public?]]></title>
-            <description><![CDATA[<article><h1>Why is the ledger public?</h1><p>The ledger has to be public in order for Bitcoin to be decentralized. The designers of Bitcoin didn't want to need anyone to play the role of a "bank" who keeps all the records, and whom everyone else has to trust to do that properly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/45979/why-is-the-ledger-public</link>
-            <guid isPermaLink="false">e5dca23d-ecc9-4d1f-b714-2899eb4ef87d</guid>
-            <pubDate>Fri, 17 Jun 2016 13:18:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How much testing is done on each pull request before it is merged?]]></title>
             <description><![CDATA[<article><h1>How much testing is done on each pull request before it is merged?</h1><p>Frequently after one pull request is merged, multiple other pull requests follow to clean up a problem created by the first PR Recent example: https://github.com/bitcoin/bitcoin/pull/7957</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/45966/how-much-testing-is-done-on-each-pull-request-before-it-is-merged</link>
             <guid isPermaLink="false">8d4c6b8f-4b98-4f01-9d15-d8c3cb14bd23</guid>
+            <pubDate>Fri, 17 Jun 2016 13:18:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why is the ledger public?]]></title>
+            <description><![CDATA[<article><h1>Why is the ledger public?</h1><p>The ledger has to be public in order for Bitcoin to be decentralized. The designers of Bitcoin didn't want to need anyone to play the role of a "bank" who keeps all the records, and whom everyone else has to trust to do that properly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/45979/why-is-the-ledger-public</link>
+            <guid isPermaLink="false">e5dca23d-ecc9-4d1f-b714-2899eb4ef87d</guid>
             <pubDate>Fri, 17 Jun 2016 13:18:59 GMT</pubDate>
         </item>
         <item>
@@ -54,27 +75,6 @@
             <link>http://themerkle.com/litecoin-peaks-at-us6-while-bitcoin-and-ethereum-continue-upward-trend/</link>
             <guid isPermaLink="false">bfb4476b-e146-44ee-9169-cf7b8f9433c9</guid>
             <pubDate>Fri, 17 Jun 2016 13:18:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Weekly Digest: Bitcoin and Ethereum Making New Highs - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Weekly Digest: Bitcoin and Ethereum Making New Highs - NEWSBTC</h1><p>Another week goes past in the Crypto Sphere. Since June 10 Bitcoin and Ethereum have experienced an incredible surge in price. Bitcoin has managed to pull a +28% increase in valuation against the United States Dollar and +29% against the Chinese Yuan. A quick retrace in Bitcoin price some hours ago left the price close ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f47a96901826656e28675b03022e43c7/noop.jpeg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F17092534%2Fbusiness-cash-coin-concept-41301-large.jpeg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/17/weekly-digest-bitcoin-ethereum-making-new-highs/</link>
-            <guid isPermaLink="false">085f45a4-f204-42c4-a8cf-245e7fe9aef5</guid>
-            <pubDate>Fri, 17 Jun 2016 13:18:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Riding Out The Weekly Close - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Riding Out The Weekly Close - NEWSBTC</h1><p>Here's what we are looking to trade in the bitcoin price on Friday morning out of Europe So we've come to the end of the week, and its time to take a look back at how our intraday bitcoin price watch strategy performed against recent action.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2fb013797c731504ab7a16c1455b4142/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F17092320%2FScreen-Shot-2016-06-17-at-10.20.59.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/17/bitcoin-price-watch-riding-weekly-close/</link>
-            <guid isPermaLink="false">749666e5-89f1-45a4-8d13-80ea7a28bf07</guid>
-            <pubDate>Fri, 17 Jun 2016 13:18:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Bitcoin is finally set to realise its potential]]></title>
-            <description><![CDATA[<article><h1>Why Bitcoin is finally set to realise its potential</h1><p>Bitcoin is a resilient and versatile currency, however, and it has once again bounced back to achieve a peak in marketplace For years, Bitcoin has endured something of a roller-coast ride at the hands of regulators, users and investors alike.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a815e7bb9635d6c0f53f738a51011103efbb3cc7.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/17/bitcoin-finally-set-realise-potential/</link>
-            <guid isPermaLink="false">1775fa49-22b5-4bb8-b5ee-ac0c9fea6bb8</guid>
-            <pubDate>Fri, 17 Jun 2016 13:18:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
