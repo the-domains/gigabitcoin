@@ -28,10 +28,10 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  http://cointelegraph.com/news/bitcoin-classic-nodes-dwindle-as-block-size-problems-worsen
+  https://cointelegraph.com/news/bitcoin-classic-nodes-dwindle-as-block-size-problems-worsen
 title: Bitcoin Classic Nodes Dwindle As Block Size Problems Worsen
-datePublished: '2016-06-17T13:18:57.385Z'
-dateModified: '2016-06-17T12:12:07.559Z'
+datePublished: '2016-06-17T22:52:55.926Z'
+dateModified: '2016-06-17T22:12:49.199Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-17-bitcoin-classic-nodes-dwindle-as-block-size-problems-worsen.md
