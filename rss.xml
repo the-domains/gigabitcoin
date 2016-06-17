@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 13:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 13:19:39 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Ethereum to Hardfork, DAO to Be Dismantled]]></title>
-            <description><![CDATA[<article><h1>Ethereum to Hardfork, DAO to Be Dismantled</h1><p>In what some may consider an incredible show of leadership and quick response while others may criticize as a dangerous precedent, Ethereum developers are proposing a soft-fork to be followed by a hard-fork.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c388a629e8aa2414fa692560e7732c040d0ab826.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/ethereum-to-hardfork-dao-to-be-dismantled/</link>
-            <guid isPermaLink="false">961ab75c-55a3-42a9-85e4-b327fa586371</guid>
-            <pubDate>Fri, 17 Jun 2016 13:18:57 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Classic Nodes Dwindle As Block Size Problems Worsen]]></title>
             <description><![CDATA[<article><h1>Bitcoin Classic Nodes Dwindle As Block Size Problems Worsen</h1><p>Once the "little fork that could," Bitcoin Classic has stalled and begun to fall, reducing hope for an increased block size limit anytime soon. In the meantime, Bitcoins problems with overloaded blocks and high transaction fees continue to worsen.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c404e754ab9da48e484f7db6c41f0380/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3L2EyMzY3NTM0NDQ3YzgwOWMwYTkzOGM4N2JiNDQ5Nzk3LmpwZw%3D%3D.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Bitcoin Up 169% With More To Go</h1><p>Welcome to the Crypto Currency issue of M&A Daily XBT Global Advisors bought XBT Provider, the company that started the first bitcoin-backed exchange traded note. XBT's major shareholder, Swedish bitcoin miner KnC, recently went bankrupt. KnC suffered from low-cost Chinese competition. Global Advisors' bitcoin trading portfolio returned 37% in 2015 and is up 21% YTD.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0da77f195449045ef968d9e1971f0aad/noop.jpg?input=https%3A%2F%2Fstaticseekingalpha3.a.ssl.fastly.net%2Fuploads%2F2016%2F6%2F957061_14660133109777_rId8.jpg"></article>]]></description>
             <link>http://seekingalpha.com/article/3982263-bitcoin-169-percent-go</link>
             <guid isPermaLink="false">a4f476a2-2648-4f8f-ab8c-2b3a3ad71147</guid>
+            <pubDate>Fri, 17 Jun 2016 04:18:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sweden Tests Blockchain Smart Contracts for Land Registry - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Sweden Tests Blockchain Smart Contracts for Land Registry - CoinDesk</h1><p>The government of Sweden is testing a system for registering and recording land titles that utilizes blockchain in a bid to digitize real estate processes. Lantmäteriet, or the Swedish National Land Survey, revealed today that it is working with blockchain startup ChromaWay, consulting firm Kairos Future and telephone service provider Telia on a proof-of-concept that investigates how blockchain tech could reduce the risk of manual errors while creating more secure processes for transferring documents.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a2357d630f964018dd13f9c312a2e385/noop.jpg?input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2Fsweden-e1466087780961.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/sweden-blockchain-smart-contracts-land-registry/</link>
+            <guid isPermaLink="false">90dc52dc-8be6-4c46-a3bd-c6396103c20f</guid>
             <pubDate>Fri, 17 Jun 2016 04:18:30 GMT</pubDate>
         </item>
     </channel>
