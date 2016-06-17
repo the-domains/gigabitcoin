@@ -29,10 +29,10 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  http://cointelegraph.com/news/dao-potentially-hacked-millions-of-ether-may-be-stolen-griff-green-says
+  https://cointelegraph.com/news/dao-potentially-hacked-millions-of-ether-may-be-stolen-griff-green-says
 title: 'DAO Potentially Hacked, Millions of Ether May Be Stolen, Griff Green Says'
-datePublished: '2016-06-17T13:18:57.853Z'
-dateModified: '2016-06-17T11:11:49.151Z'
+datePublished: '2016-06-17T22:52:54.710Z'
+dateModified: '2016-06-17T22:12:51.363Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-17-dao-potentially-hacked-millions-of-ether-may-be-stolen-gri.md
