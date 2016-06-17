@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 13:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 13:19:45 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Global Advisors acquired XBT Provider after KnC Miner filed for bankruptcy]]></title>
-            <description><![CDATA[<article><h1>Global Advisors acquired XBT Provider after KnC Miner filed for bankruptcy</h1><p>(GAJL) on Tuesday that it has acquired Swedish financial company issuer of Bitcoin Tracker One (Ticker: and Bitcoin Tracker EUR (Ticker: Global Advisors (Jersey) Limited announced XBT Provider, COINXBT ) COINXBE ), listed on Nasdaq Nordic. GAJL also became XBT Provider's new guarantor, ensuring its loans are paid if they have any financial difficulty in the future.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/60cc6c19e30179cf43f198b213024f85/croprotate.png?cropheight=317&cropwidth=598&degrees=0&input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2FBLX-BTC-30day-Chart-17th-June-2016.png&x=1&y=1"></article>]]></description>
-            <link>http://bravenewcoin.com/news/global-advisors-acquired-xbt-provider-after-knc-miner-filed-for-bankruptcy/</link>
-            <guid isPermaLink="false">8b2bde65-728d-4431-afd3-4bdbd9fd49df</guid>
-            <pubDate>Fri, 17 Jun 2016 13:18:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Litecoin Peaks at US$6 While Bitcoin And Ethereum Continue Upward Trend]]></title>
-            <description><![CDATA[<article><h1>Litecoin Peaks at US$6 While Bitcoin And Ethereum Continue Upward Trend</h1><p>The day has started off with nearly every single cryptocurrency in the red, for the time being. Bitcoin, Litecoin, and Ethereum have all taken a significant hit across the exchanges over the past hour. At the same time, Bitcoin had briefly touched US$775, and Ethereum was well above the US$21.5 mark.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b15c9372b9ed85d4650dcd30f386c740/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_310276496.jpg"></article>]]></description>
-            <link>http://themerkle.com/litecoin-peaks-at-us6-while-bitcoin-and-ethereum-continue-upward-trend/</link>
-            <guid isPermaLink="false">bfb4476b-e146-44ee-9169-cf7b8f9433c9</guid>
-            <pubDate>Fri, 17 Jun 2016 13:18:59 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Weekly Digest: Bitcoin and Ethereum Making New Highs - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Weekly Digest: Bitcoin and Ethereum Making New Highs - NEWSBTC</h1><p>Another week goes past in the Crypto Sphere. Since June 10 Bitcoin and Ethereum have experienced an incredible surge in price. Bitcoin has managed to pull a +28% increase in valuation against the United States Dollar and +29% against the Chinese Yuan. A quick retrace in Bitcoin price some hours ago left the price close ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f47a96901826656e28675b03022e43c7/noop.jpeg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F17092534%2Fbusiness-cash-coin-concept-41301-large.jpeg"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>The DAO Under Attack: $50 Million Stolen</h1><p>Today, the world's first decentralized venture fund The DAO has been attacked. Unknown hackers keep on withdrawing ETH tokens from the fund. Overall amount of stolen assets comprises around $50 million at the time of writing. ETH and DAO exchange rate has dropped almost immediately across all cryptocurrency exchanges.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a47caf80cb46429521734d4c5cdbf859/croprotate.png?cropheight=417&cropwidth=468&degrees=0&input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F06%2F11-1.png&x=18&y=0"></article>]]></description>
             <link>http://forklog.net/the-dao-under-attack-50-million-stolen/</link>
             <guid isPermaLink="false">ff69f835-b744-4afa-9782-ceb33d5dd3e8</guid>
+            <pubDate>Fri, 17 Jun 2016 13:18:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How could a country issue it's currency on the blockchain? How would it work?]]></title>
+            <description><![CDATA[<article><h1>How could a country issue it's currency on the blockchain? How would it work?</h1><p>Answer (1 of 3): 1. No country has moved a bit towards that direction despite about over a dozen announcements during the last 4-5 years. We heard that from different level bureaucrats both in African and Latin American countries whose national currency is/was in trouble and from comparatively st...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/How-could-a-country-issue-its-currency-on-the-blockchain-How-would-it-work</link>
+            <guid isPermaLink="false">b44fbc0d-01be-4523-9391-45b06960b87d</guid>
+            <pubDate>Fri, 17 Jun 2016 13:18:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The DAO is Under Attack, Millions of Ethers Stolen]]></title>
+            <description><![CDATA[<article><h1>The DAO is Under Attack, Millions of Ethers Stolen</h1><p>The DAO is suffering from a major, sophisticated attack. A vulnerability in the SplitDAO() function enabled an attacker to drain ether funds from the smart contract, 3.5 million ETH have been lost at the time of writing this article. Ethereum traded as low as $11.51 today after a market crash.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce5720863c6d9716bccb50327c2034c0216bbc99.jpg"></article>]]></description>
+            <link>http://themerkle.com/the-dao-under-attack-more-millions-of-ethers-stolen/</link>
+            <guid isPermaLink="false">658f132f-7915-4f0b-b46f-ad0c38175dba</guid>
             <pubDate>Fri, 17 Jun 2016 13:18:58 GMT</pubDate>
         </item>
     </channel>
