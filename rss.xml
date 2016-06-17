@@ -7,6 +7,13 @@
         <lastBuildDate>Fri, 17 Jun 2016 13:19:41 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[How could a country issue it's currency on the blockchain? How would it work?]]></title>
+            <description><![CDATA[<article><h1>How could a country issue it's currency on the blockchain? How would it work?</h1><p>Answer (1 of 3): 1. No country has moved a bit towards that direction despite about over a dozen announcements during the last 4-5 years. We heard that from different level bureaucrats both in African and Latin American countries whose national currency is/was in trouble and from comparatively st...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/How-could-a-country-issue-its-currency-on-the-blockchain-How-would-it-work</link>
+            <guid isPermaLink="false">b44fbc0d-01be-4523-9391-45b06960b87d</guid>
+            <pubDate>Fri, 17 Jun 2016 13:18:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The DAO is Under Attack, Millions of Ethers Stolen]]></title>
             <description><![CDATA[<article><h1>The DAO is Under Attack, Millions of Ethers Stolen</h1><p>The DAO is suffering from a major, sophisticated attack. A vulnerability in the SplitDAO() function enabled an attacker to drain ether funds from the smart contract, 3.5 million ETH have been lost at the time of writing this article. Ethereum traded as low as $11.51 today after a market crash.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce5720863c6d9716bccb50327c2034c0216bbc99.jpg"></article>]]></description>
             <link>http://themerkle.com/the-dao-under-attack-more-millions-of-ethers-stolen/</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Classic Nodes Dwindle As Block Size Problems Worsen</h1><p>Once the "little fork that could," Bitcoin Classic has stalled and begun to fall, reducing hope for an increased block size limit anytime soon. In the meantime, Bitcoins problems with overloaded blocks and high transaction fees continue to worsen.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c404e754ab9da48e484f7db6c41f0380/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3L2EyMzY3NTM0NDQ3YzgwOWMwYTkzOGM4N2JiNDQ5Nzk3LmpwZw%3D%3D.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/bitcoin-classic-nodes-dwindle-as-block-size-problems-worsen</link>
             <guid isPermaLink="false">ff3b372b-80f2-4fce-8b0b-1f7ddec8f407</guid>
-            <pubDate>Fri, 17 Jun 2016 13:18:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Merge #7600: Mining: Select transactions using feerate-with-ancestors · bitcoin/bitcoin@66db2d6]]></title>
-            <description><![CDATA[<article><h1>Merge #7600: Mining: Select transactions using feerate-with-ancestors · bitcoin/bitcoin@66db2d6</h1><p>29fac19 Add unit tests for ancestor feerate mining (Suhas Daftuar) c82a4e9 Use ancestor-feerate based transaction selection for mining (Suhas Daftuar)</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/870993e1a2bbc13723d11b4041a1f00a/noop?input=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F548488%3Fv%3D3%26s%3D200"></article>]]></description>
-            <link>https://github.com/bitcoin/bitcoin/commit/66db2d62d59817320c9182fc18e75a93b76828ea</link>
-            <guid isPermaLink="false">380542bd-890a-43ba-a030-152a7e4c131b</guid>
             <pubDate>Fri, 17 Jun 2016 13:18:57 GMT</pubDate>
         </item>
     </channel>
