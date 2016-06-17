@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 13:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 13:19:40 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin Classic Nodes Dwindle As Block Size Problems Worsen]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Classic Nodes Dwindle As Block Size Problems Worsen</h1><p>Once the "little fork that could," Bitcoin Classic has stalled and begun to fall, reducing hope for an increased block size limit anytime soon. In the meantime, Bitcoins problems with overloaded blocks and high transaction fees continue to worsen.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c404e754ab9da48e484f7db6c41f0380/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3L2EyMzY3NTM0NDQ3YzgwOWMwYTkzOGM4N2JiNDQ5Nzk3LmpwZw%3D%3D.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/bitcoin-classic-nodes-dwindle-as-block-size-problems-worsen</link>
-            <guid isPermaLink="false">ff3b372b-80f2-4fce-8b0b-1f7ddec8f407</guid>
-            <pubDate>Fri, 17 Jun 2016 13:18:57 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Merge #7600: Mining: Select transactions using feerate-with-ancestors · bitcoin/bitcoin@66db2d6]]></title>
             <description><![CDATA[<article><h1>Merge #7600: Mining: Select transactions using feerate-with-ancestors · bitcoin/bitcoin@66db2d6</h1><p>29fac19 Add unit tests for ancestor feerate mining (Suhas Daftuar) c82a4e9 Use ancestor-feerate based transaction selection for mining (Suhas Daftuar)</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/870993e1a2bbc13723d11b4041a1f00a/noop?input=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F548488%3Fv%3D3%26s%3D200"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Sweden Tests Blockchain Smart Contracts for Land Registry - CoinDesk</h1><p>The government of Sweden is testing a system for registering and recording land titles that utilizes blockchain in a bid to digitize real estate processes. Lantmäteriet, or the Swedish National Land Survey, revealed today that it is working with blockchain startup ChromaWay, consulting firm Kairos Future and telephone service provider Telia on a proof-of-concept that investigates how blockchain tech could reduce the risk of manual errors while creating more secure processes for transferring documents.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a2357d630f964018dd13f9c312a2e385/noop.jpg?input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2Fsweden-e1466087780961.jpg"></article>]]></description>
             <link>http://www.coindesk.com/sweden-blockchain-smart-contracts-land-registry/</link>
             <guid isPermaLink="false">90dc52dc-8be6-4c46-a3bd-c6396103c20f</guid>
+            <pubDate>Fri, 17 Jun 2016 04:18:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Winning Portfolio In 2016 - Gold, Treasuries and... Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Winning Portfolio In 2016 - Gold, Treasuries and... Bitcoin</h1><p>Few at the start of 2016 were predicting rallies in gold, U.S. Treasury bonds and... bitcoin.And yet, here we are. The SPDR Gold Shares exchange-traded fund (GLD) is up 23% and has pulled in more than $10 billion in new assets this year.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8bdf95257870e5c762b86ba9a1fe486f/noop.jpg?input=http%3A%2F%2Fsi.wsj.net%2Fpublic%2Fresources%2Fimages%2FBN-OM561_0615cm_P_20160615095607.jpg"></article>]]></description>
+            <link>http://blogs.barrons.com/focusonfunds/2016/06/16/winning-portfolio-in-2016-gold-treasuries-and-bitcoin/</link>
+            <guid isPermaLink="false">a1b9be06-c102-428d-99bb-a7421c1f174e</guid>
             <pubDate>Fri, 17 Jun 2016 04:18:30 GMT</pubDate>
         </item>
     </channel>
