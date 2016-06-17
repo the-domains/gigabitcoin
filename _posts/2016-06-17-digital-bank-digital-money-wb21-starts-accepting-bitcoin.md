@@ -27,10 +27,10 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  http://cointelegraph.com/news/digital-bank-digital-money-wb21-starts-accepting-bitcoin
+  https://cointelegraph.com/news/digital-bank-digital-money-wb21-starts-accepting-bitcoin
 title: 'Digital Bank, Digital Money: WB21 Starts Accepting Bitcoin'
-datePublished: '2016-06-17T13:18:58.634Z'
-dateModified: '2016-06-17T10:12:50.069Z'
+datePublished: '2016-06-17T22:52:55.787Z'
+dateModified: '2016-06-17T22:12:49.715Z'
 starred: false
 sourcePath: _posts/2016-06-17-digital-bank-digital-money-wb21-starts-accepting-bitcoin.md
 inFeed: true
