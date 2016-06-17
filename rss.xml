@@ -7,13 +7,6 @@
         <lastBuildDate>Fri, 17 Jun 2016 17:30:35 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[What is blockchain?]]></title>
-            <description><![CDATA[<article><h1>What is blockchain?</h1><p>Answer (1 of 2): Blockchain is a decentralized network that does not require any intermediate system for the exchange of services. It keeps a shared record of all the transactions distributed over a vast network of users. A blockchain is comprised of a series of data blocks wherein each block sto...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
-            <link>https://www.quora.com/What-is-blockchain-1</link>
-            <guid isPermaLink="false">0b6d4808-5a39-4eb0-bfe4-89433b471124</guid>
-            <pubDate>Fri, 17 Jun 2016 17:29:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Could the U.S. ban bitcoin?]]></title>
             <description><![CDATA[<article><h1>Could the U.S. ban bitcoin?</h1><p>Answer (1 of 4): Probably-they don't have an enormous lobby such as the NRA. Dark money doesn't kill people, special interests do. The history of China's ambivalent attitude toward BTC is instructive: > On 5th December 2013, the People's Bank of China and five other related government ministri...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
             <link>https://www.quora.com/Could-the-U-S-ban-bitcoin</link>
@@ -74,6 +67,13 @@
             <link>https://bitcoinmagazine.com/articles/understanding-the-lightning-network-part-completing-the-puzzle-and-closing-the-channel-1466178980</link>
             <guid isPermaLink="false">8a01e0a6-0117-433e-859c-db558734f9e1</guid>
             <pubDate>Fri, 17 Jun 2016 17:29:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blockchain Future Beyond Bitcoin: No Luxury Cars for the Middlemen, WIRED Predicts]]></title>
+            <description><![CDATA[<article><h1>Blockchain Future Beyond Bitcoin: No Luxury Cars for the Middlemen, WIRED Predicts</h1><p>Let's take a look at several big Blockchain trends which are about to change our perspective on the future. Gian Volpicelli from Wired lists some potential purposes of Blockchains. The main feature of all these is decreasing or even the total absence of middlemen.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/43407f5189a9c6ac0f25dd2c07ff049d/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzVhOTAzMGJlNDZjYmE3ZGFkZmY5MTBhOTg3MTI1ODAzLmpwZw%3D%3D.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/blockchain-future-beyond-bitcoin-no-luxury-cars-for-the-middlemen-wired-predicts</link>
+            <guid isPermaLink="false">f68ed633-b096-4e66-b668-6fc8066fb54a</guid>
+            <pubDate>Fri, 17 Jun 2016 17:29:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
