@@ -4,13 +4,27 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 14:42:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 14:42:39 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is the wallet "word seed" that is commonly used in popular wallets clients and what does it do?]]></title>
+            <description><![CDATA[<article><h1>What is the wallet "word seed" that is commonly used in popular wallets clients and what does it do?</h1><p>I've been using a pretty old version of Multibit classic and recently decided to upgrade. I tried out Multibit HD and Electrum and noticed that both have me set up a wallet with a "word seed". It's...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/45978/what-is-the-wallet-word-seed-that-is-commonly-used-in-popular-wallets-clients</link>
+            <guid isPermaLink="false">787e4f91-71e8-4391-96b8-271ae7c31316</guid>
+            <pubDate>Fri, 17 Jun 2016 14:41:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Louisiana DMV Data Can Be Bought For 21 Million Bitcoin]]></title>
             <description><![CDATA[<article><h1>Louisiana DMV Data Can Be Bought For 21 Million Bitcoin</h1><p>With the weekend almost upon us, it was only a matter of time until a new data breach would make headlines. In this case. The Louisiana DMV has been breached, and the data is being sold on the deep web. Sources indicate over 250,000 driver's license records are up for grabs at the time of writing.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/588fbf8a9803715baf4e494df9eb5f16/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2FDMV.jpg"></article>]]></description>
             <link>http://themerkle.com/louisiana-dmv-data-can-be-bought-for-21-million-bitcoin/</link>
             <guid isPermaLink="false">50269187-18dd-4a54-860c-a74dd62eb8df</guid>
+            <pubDate>Fri, 17 Jun 2016 14:41:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hundreds of Millions of Dollars' Worth of Bitcoin Stuck for Days]]></title>
+            <description><![CDATA[<article><h1>Hundreds of Millions of Dollars' Worth of Bitcoin Stuck for Days</h1><p>As Bitcoin sees a stratospheric rise over the last few days, increasing by $100 in just a day, users have noted a corresponding increase in transaction confirmation delays. More than 250,000 bitcoins were waiting to move at one point yesterday, according to tradeblock, currently valued at almost $200 million.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1af5d5eb6465ce60f52612b942504ebf/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzU5YzBjYjg0OTQ5N2ZiYzMyYzYwZTQ1NzYzYWVkMzdmLnBuZw%3D%3D.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/hundreds-of-millions-of-dollars-worth-of-bitcoin-stuck-for-days</link>
+            <guid isPermaLink="false">6b7ad4dd-2ee2-4975-83cb-9ef41b0b0b05</guid>
             <pubDate>Fri, 17 Jun 2016 14:41:51 GMT</pubDate>
         </item>
         <item>
@@ -42,13 +56,6 @@
             <pubDate>Fri, 17 Jun 2016 13:18:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How much testing is done on each pull request before it is merged?]]></title>
-            <description><![CDATA[<article><h1>How much testing is done on each pull request before it is merged?</h1><p>Frequently after one pull request is merged, multiple other pull requests follow to clean up a problem created by the first PR Recent example: https://github.com/bitcoin/bitcoin/pull/7957</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/45966/how-much-testing-is-done-on-each-pull-request-before-it-is-merged</link>
-            <guid isPermaLink="false">8d4c6b8f-4b98-4f01-9d15-d8c3cb14bd23</guid>
-            <pubDate>Fri, 17 Jun 2016 13:18:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Why is the ledger public?]]></title>
             <description><![CDATA[<article><h1>Why is the ledger public?</h1><p>The ledger has to be public in order for Bitcoin to be decentralized. The designers of Bitcoin didn't want to need anyone to play the role of a "bank" who keeps all the records, and whom everyone else has to trust to do that properly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/45979/why-is-the-ledger-public</link>
@@ -56,24 +63,17 @@
             <pubDate>Fri, 17 Jun 2016 13:18:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How much testing is done on each pull request before it is merged?]]></title>
+            <description><![CDATA[<article><h1>How much testing is done on each pull request before it is merged?</h1><p>Frequently after one pull request is merged, multiple other pull requests follow to clean up a problem created by the first PR Recent example: https://github.com/bitcoin/bitcoin/pull/7957</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/45966/how-much-testing-is-done-on-each-pull-request-before-it-is-merged</link>
+            <guid isPermaLink="false">8d4c6b8f-4b98-4f01-9d15-d8c3cb14bd23</guid>
+            <pubDate>Fri, 17 Jun 2016 13:18:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ver, Voorhees & Fenton Join John McAfee's Security Board]]></title>
             <description><![CDATA[<article><h1>Ver, Voorhees & Fenton Join John McAfee's Security Board</h1><p>More investment capital could flow to companies working on ways for Bitcoin users to secure their money, with John McAfee's appointment of Roger Ver, Erik Voorhees and Bruce Fenton to key positions in his new cybersecurity-focused company.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b92b4d22ab6437bad22aeefaa7289c48/noop.png?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fmcafee.png"></article>]]></description>
             <link>https://news.bitcoin.com/ver-voorhees-fenton-john-mcafee-security/</link>
             <guid isPermaLink="false">44a279ed-30ba-406e-a46c-59a8b404c7c2</guid>
-            <pubDate>Fri, 17 Jun 2016 13:18:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What's Driving the Bitcoin Rally?]]></title>
-            <description><![CDATA[<article><h1>What's Driving the Bitcoin Rally?</h1><p>Sonny Singh, chief commercial officer at BitPay, discusses the four reasons for the surge in bitcoin. He speaks to Bloomberg's Cory Johnson on "Bloomberg West." (Source: Bloomberg)</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a4104dbd2f9ee33e3ba00eb7f963993e/noop.jpg?input=http%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiPEWyoFAjRkI%2Fv5%2F-1x-1.jpg"></article>]]></description>
-            <link>http://www.bloomberg.com/news/videos/2016-06-16/what-s-driving-the-bitcoin-rally</link>
-            <guid isPermaLink="false">659144a6-1de3-4f9e-b53f-cfb5338a9d4e</guid>
-            <pubDate>Fri, 17 Jun 2016 13:18:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Global Advisors acquired XBT Provider after KnC Miner filed for bankruptcy]]></title>
-            <description><![CDATA[<article><h1>Global Advisors acquired XBT Provider after KnC Miner filed for bankruptcy</h1><p>(GAJL) on Tuesday that it has acquired Swedish financial company issuer of Bitcoin Tracker One (Ticker: and Bitcoin Tracker EUR (Ticker: Global Advisors (Jersey) Limited announced XBT Provider, COINXBT ) COINXBE ), listed on Nasdaq Nordic. GAJL also became XBT Provider's new guarantor, ensuring its loans are paid if they have any financial difficulty in the future.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/60cc6c19e30179cf43f198b213024f85/croprotate.png?cropheight=317&cropwidth=598&degrees=0&input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2FBLX-BTC-30day-Chart-17th-June-2016.png&x=1&y=1"></article>]]></description>
-            <link>http://bravenewcoin.com/news/global-advisors-acquired-xbt-provider-after-knc-miner-filed-for-bankruptcy/</link>
-            <guid isPermaLink="false">8b2bde65-728d-4431-afd3-4bdbd9fd49df</guid>
             <pubDate>Fri, 17 Jun 2016 13:18:59 GMT</pubDate>
         </item>
     </channel>
