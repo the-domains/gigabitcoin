@@ -29,10 +29,10 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  http://cointelegraph.com/news/hundreds-of-millions-of-dollars-worth-of-bitcoin-stuck-for-days
+  https://cointelegraph.com/news/hundreds-of-millions-of-dollars-worth-of-bitcoin-stuck-for-days
 title: Hundreds of Millions of Dollars' Worth of Bitcoin Stuck for Days
-datePublished: '2016-06-17T14:41:51.291Z'
-dateModified: '2016-06-17T14:12:18.074Z'
+datePublished: '2016-06-17T22:52:54.738Z'
+dateModified: '2016-06-17T22:12:50.866Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-17-hundreds-of-millions-of-dollars-worth-of-bitcoin-stuck-for.md
