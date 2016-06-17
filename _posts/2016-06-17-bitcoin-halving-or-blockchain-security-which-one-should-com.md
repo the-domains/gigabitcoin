@@ -28,10 +28,10 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  http://cointelegraph.com/news/bitcoin-halving-or-blockchain-security-which-one-should-come-first
+  https://cointelegraph.com/news/bitcoin-halving-or-blockchain-security-which-one-should-come-first
 title: 'Bitcoin Halving Or Blockchain Security, Which One Should Come First?'
-datePublished: '2016-06-17T17:29:44.249Z'
-dateModified: '2016-06-17T15:12:26.362Z'
+datePublished: '2016-06-17T22:52:54.514Z'
+dateModified: '2016-06-17T22:12:54.327Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-17-bitcoin-halving-or-blockchain-security-which-one-should-com.md
