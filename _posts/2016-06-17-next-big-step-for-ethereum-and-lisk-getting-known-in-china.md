@@ -41,10 +41,10 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  http://cointelegraph.com/news/next-big-step-for-ethereum-and-lisk-getting-known-in-china
+  https://cointelegraph.com/news/next-big-step-for-ethereum-and-lisk-getting-known-in-china
 title: Next Big Step for Ethereum and Lisk - Getting Known in China?
-datePublished: '2016-06-17T13:18:56.405Z'
-dateModified: '2016-06-17T13:12:15.533Z'
+datePublished: '2016-06-17T22:52:55.766Z'
+dateModified: '2016-06-17T22:12:50.264Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-17-next-big-step-for-ethereum-and-lisk-getting-known-in-china.md
