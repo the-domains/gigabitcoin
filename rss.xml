@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 13:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 13:20:23 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why is the ledger public?]]></title>
+            <description><![CDATA[<article><h1>Why is the ledger public?</h1><p>The ledger has to be public in order for Bitcoin to be decentralized. The designers of Bitcoin didn't want to need anyone to play the role of a "bank" who keeps all the records, and whom everyone else has to trust to do that properly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/45979/why-is-the-ledger-public</link>
+            <guid isPermaLink="false">e5dca23d-ecc9-4d1f-b714-2899eb4ef87d</guid>
+            <pubDate>Fri, 17 Jun 2016 13:18:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ver, Voorhees & Fenton Join John McAfee's Security Board]]></title>
             <description><![CDATA[<article><h1>Ver, Voorhees & Fenton Join John McAfee's Security Board</h1><p>More investment capital could flow to companies working on ways for Bitcoin users to secure their money, with John McAfee's appointment of Roger Ver, Erik Voorhees and Bruce Fenton to key positions in his new cybersecurity-focused company.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b92b4d22ab6437bad22aeefaa7289c48/noop.png?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fmcafee.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price to Hit $1,000 Once Again? The Rally Continues - Bitcoinist.net</h1><p>Bitcoin has undergone another impressive rise. Since our last price piece, everyone's favorite digital currency has spiked by nearly $20, and is now hovering at around $767 at press time. Also read: Bitcoin Price Bursts Ahead, Nearing $700 As one analyst proclaimed: "The bitcoin price... bubbles just below $700...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/027877587fcdcaf85d309af8a0427482/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F06%2FBtcsurge.png"></article>]]></description>
             <link>http://bitcoinist.net/bitcoin-price-hit-1000-rally-continues/</link>
             <guid isPermaLink="false">f8d91bb7-21a1-48e1-b64f-a5683916a264</guid>
-            <pubDate>Fri, 17 Jun 2016 13:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[P2P Bitcoin Lending App CredibleFriends Lists on BnkToTheFuture]]></title>
-            <description><![CDATA[<article><h1>P2P Bitcoin Lending App CredibleFriends Lists on BnkToTheFuture</h1><p>Peer-to-peer bitcoin lending platform CredibleFriends has successfully pitched on BnkToTheFuture, where it has already raised $51,000 or 20% of its funding goal. Also read: Why PayPal's Venmo is Beating Bitcoin in P2P Payments CredibleFriends, which allows friends to lend each other money based on trust and aims to spread bitcoin use among lay consumers, is aiming to raise $250,000 USD by July 15.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4ab24e597057c0aed8dd793ed971f4ae/croprotate.jpg?cropheight=839&cropwidth=900&degrees=0&input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fphotoerf.jpg&x=0&y=32"></article>]]></description>
-            <link>https://news.bitcoin.com/crediblefriends-bnktothefuture/</link>
-            <guid isPermaLink="false">2442dbaa-371b-4ad8-b9a9-dd1465b810c4</guid>
             <pubDate>Fri, 17 Jun 2016 13:18:58 GMT</pubDate>
         </item>
     </channel>
