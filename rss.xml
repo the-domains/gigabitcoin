@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 13:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 13:19:39 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Merge #7600: Mining: Select transactions using feerate-with-ancestors · bitcoin/bitcoin@66db2d6]]></title>
-            <description><![CDATA[<article><h1>Merge #7600: Mining: Select transactions using feerate-with-ancestors · bitcoin/bitcoin@66db2d6</h1><p>29fac19 Add unit tests for ancestor feerate mining (Suhas Daftuar) c82a4e9 Use ancestor-feerate based transaction selection for mining (Suhas Daftuar)</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/870993e1a2bbc13723d11b4041a1f00a/noop?input=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F548488%3Fv%3D3%26s%3D200"></article>]]></description>
-            <link>https://github.com/bitcoin/bitcoin/commit/66db2d62d59817320c9182fc18e75a93b76828ea</link>
-            <guid isPermaLink="false">380542bd-890a-43ba-a030-152a7e4c131b</guid>
-            <pubDate>Fri, 17 Jun 2016 13:18:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vitalik Buterin Says DAO Hack 'Fixed', Assets Rebound]]></title>
-            <description><![CDATA[<article><h1>Vitalik Buterin Says DAO Hack 'Fixed', Assets Rebound</h1><p>Ether (ETH) and The DAO (DAO) has recovered half of its near 20% fall in value Friday as developers released news of the containment of the feared attack on DAO. Also read: Vitalik Buterin: Russia's Crypto Ban Would Stifle Blockchains Despite wild fluctuations, ETH is currently trading at around $18 per unit, representing a roughly 9% overall drop for the past 24 hours.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d4eee099a5053d4238975a3d362d7858/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2Ffsff.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/vitalik-buterin-dao-hack-fixed/</link>
-            <guid isPermaLink="false">a36d6555-603e-4929-8422-1e92ac9015bd</guid>
-            <pubDate>Fri, 17 Jun 2016 13:18:56 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[AMD Radeon RX 480 May Not be That Great for Mining]]></title>
             <description><![CDATA[<article><h1>AMD Radeon RX 480 May Not be That Great for Mining</h1><p>With less than two weeks left before the official launch date of the highly anticipated AMD Radeon RX 480 GPUs that are supposedly coming out on 29th of June with a recommended price tag of $199 USD people are getting anxious to get their hands on the hardware.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/635047acfe54adec44805c5733ca4759/noop.jpg?input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F06%2Famd-radeon-rx-470-580x326.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>http://blogs.barrons.com/focusonfunds/2016/06/16/winning-portfolio-in-2016-gold-treasuries-and-bitcoin/</link>
             <guid isPermaLink="false">a1b9be06-c102-428d-99bb-a7421c1f174e</guid>
             <pubDate>Fri, 17 Jun 2016 04:18:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Asia Poised to Explode with Fintech, Blockchain Growth]]></title>
+            <description><![CDATA[<article><h1>Asia Poised to Explode with Fintech, Blockchain Growth</h1><p>There has always been an increased interest from Asia when it comes to new financial technology. Fintech and Bitcoin are both seeing tremendous success in the region, and venture capital funding reached an all-time high in 2015. Also read: Trading Bitcoin on the Street: How's LocalBitcoins Doing in 2016?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/65b4add41ad2eb24c0174ecd99d46d5d/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_223745608.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/asia-explode-fintech-blockchain/</link>
+            <guid isPermaLink="false">5118a373-2c19-47b4-87f8-17515ea6f2f6</guid>
+            <pubDate>Fri, 17 Jun 2016 04:18:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Payment Operator Qiwi to Create Russian Blockchain Consortium in the Manner of R3]]></title>
+            <description><![CDATA[<article><h1>Payment Operator Qiwi to Create Russian Blockchain Consortium in the Manner of R3</h1><p>Recognizing the potential for development of Blockchain technology in the country, Russian payment operator Qiwi is seeking to establish a consortium of banks similar to the New York-based R3. CoinTelegraph spoke to Konstantin Koltsov, Corporate Relations Director at Qiwi, to learn more about the initiative of the company, which believes "that in 5 years from now on we will have totally different types of payments because of Blockchain".</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f02d087f5cf126b93b77c90364f37ad2/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzU3NGU1ZGEwZDdjZTAzY2MyYzhjMzI3Y2Q1MjI0YWNjLnBuZw%3D%3D.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/payment-operator-qiwi-to-create-russian-blockchain-consortium-in-the-manner-of-r3</link>
+            <guid isPermaLink="false">81724707-6006-4998-9fd3-b0fdaeff55f4</guid>
+            <pubDate>Fri, 17 Jun 2016 04:18:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
