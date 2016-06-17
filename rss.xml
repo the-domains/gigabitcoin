@@ -4,8 +4,36 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 13:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 13:19:44 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Digital Bank, Digital Money: WB21 Starts Accepting Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Digital Bank, Digital Money: WB21 Starts Accepting Bitcoin</h1><p>A bank accepting Bitcoin is unusual but one has just sprung up. Digital bank WB21 says it will be using BitPay's Bitcoin payment processor for its addition of Bitcoin as a method for its over 650,000 customers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8af79b0e0863bc5a9a3cdf2048c30412/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3L2E2NmVlZTM5NTcxMDM4ODZhNDhkZjQyMmRmYWQwMmVjLnBuZw%3D%3D.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/digital-bank-digital-money-wb21-starts-accepting-bitcoin</link>
+            <guid isPermaLink="false">29d9d294-f526-4923-a1ff-262e23aed51d</guid>
+            <pubDate>Fri, 17 Jun 2016 13:18:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The DAO Under Attack: $50 Million Stolen]]></title>
+            <description><![CDATA[<article><h1>The DAO Under Attack: $50 Million Stolen</h1><p>Today, the world's first decentralized venture fund The DAO has been attacked. Unknown hackers keep on withdrawing ETH tokens from the fund. Overall amount of stolen assets comprises around $50 million at the time of writing. ETH and DAO exchange rate has dropped almost immediately across all cryptocurrency exchanges.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a47caf80cb46429521734d4c5cdbf859/croprotate.png?cropheight=417&cropwidth=468&degrees=0&input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F06%2F11-1.png&x=18&y=0"></article>]]></description>
+            <link>http://forklog.net/the-dao-under-attack-50-million-stolen/</link>
+            <guid isPermaLink="false">ff69f835-b744-4afa-9782-ceb33d5dd3e8</guid>
+            <pubDate>Fri, 17 Jun 2016 13:18:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How could a country issue it's currency on the blockchain? How would it work?]]></title>
+            <description><![CDATA[<article><h1>How could a country issue it's currency on the blockchain? How would it work?</h1><p>Answer (1 of 3): 1. No country has moved a bit towards that direction despite about over a dozen announcements during the last 4-5 years. We heard that from different level bureaucrats both in African and Latin American countries whose national currency is/was in trouble and from comparatively st...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe701abb234b33e2f69d4800b738211912cdb2e8.png"></article>]]></description>
+            <link>https://www.quora.com/How-could-a-country-issue-its-currency-on-the-blockchain-How-would-it-work</link>
+            <guid isPermaLink="false">b44fbc0d-01be-4523-9391-45b06960b87d</guid>
+            <pubDate>Fri, 17 Jun 2016 13:18:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The DAO is Under Attack, Millions of Ethers Stolen]]></title>
+            <description><![CDATA[<article><h1>The DAO is Under Attack, Millions of Ethers Stolen</h1><p>The DAO is suffering from a major, sophisticated attack. A vulnerability in the SplitDAO() function enabled an attacker to drain ether funds from the smart contract, 3.5 million ETH have been lost at the time of writing this article. Ethereum traded as low as $11.51 today after a market crash.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce5720863c6d9716bccb50327c2034c0216bbc99.jpg"></article>]]></description>
+            <link>http://themerkle.com/the-dao-under-attack-more-millions-of-ethers-stolen/</link>
+            <guid isPermaLink="false">658f132f-7915-4f0b-b46f-ad0c38175dba</guid>
+            <pubDate>Fri, 17 Jun 2016 13:18:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Breaking: "Pause Ether, DAO Trading", Ethereum Founder Buterin Tells Exchanges]]></title>
             <description><![CDATA[<article><h1>Breaking: "Pause Ether, DAO Trading", Ethereum Founder Buterin Tells Exchanges</h1><p>Ethereum co-founder Vitalik Buterin has asked digital currency exchanges to "pause" ether and DAO activity following a hack of the DAO smart contract address. The DAO is currently being drained of ethers in a still-ongoing breach (at the time of publishing) to the unknown attacker's ETH address.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6993a646aadc01dd1a3f2d399f00f097/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F06%2FVitalik-Buterin.jpg"></article>]]></description>
@@ -47,34 +75,6 @@
             <link>http://www.newsbtc.com/2016/06/17/dao-devs-address-vulnerability-not-affect-ethereum/</link>
             <guid isPermaLink="false">c69efb03-a949-4d46-96f2-f43b11efcbf5</guid>
             <pubDate>Fri, 17 Jun 2016 13:18:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum to Hardfork, DAO to Be Dismantled]]></title>
-            <description><![CDATA[<article><h1>Ethereum to Hardfork, DAO to Be Dismantled</h1><p>In what some may consider an incredible show of leadership and quick response while others may criticize as a dangerous precedent, Ethereum developers are proposing a soft-fork to be followed by a hard-fork.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c388a629e8aa2414fa692560e7732c040d0ab826.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/ethereum-to-hardfork-dao-to-be-dismantled/</link>
-            <guid isPermaLink="false">961ab75c-55a3-42a9-85e4-b327fa586371</guid>
-            <pubDate>Fri, 17 Jun 2016 13:18:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Classic Nodes Dwindle As Block Size Problems Worsen]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Classic Nodes Dwindle As Block Size Problems Worsen</h1><p>Once the "little fork that could," Bitcoin Classic has stalled and begun to fall, reducing hope for an increased block size limit anytime soon. In the meantime, Bitcoins problems with overloaded blocks and high transaction fees continue to worsen.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c404e754ab9da48e484f7db6c41f0380/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3L2EyMzY3NTM0NDQ3YzgwOWMwYTkzOGM4N2JiNDQ5Nzk3LmpwZw%3D%3D.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/bitcoin-classic-nodes-dwindle-as-block-size-problems-worsen</link>
-            <guid isPermaLink="false">ff3b372b-80f2-4fce-8b0b-1f7ddec8f407</guid>
-            <pubDate>Fri, 17 Jun 2016 13:18:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Merge #7600: Mining: Select transactions using feerate-with-ancestors · bitcoin/bitcoin@66db2d6]]></title>
-            <description><![CDATA[<article><h1>Merge #7600: Mining: Select transactions using feerate-with-ancestors · bitcoin/bitcoin@66db2d6</h1><p>29fac19 Add unit tests for ancestor feerate mining (Suhas Daftuar) c82a4e9 Use ancestor-feerate based transaction selection for mining (Suhas Daftuar)</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/870993e1a2bbc13723d11b4041a1f00a/noop?input=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F548488%3Fv%3D3%26s%3D200"></article>]]></description>
-            <link>https://github.com/bitcoin/bitcoin/commit/66db2d62d59817320c9182fc18e75a93b76828ea</link>
-            <guid isPermaLink="false">380542bd-890a-43ba-a030-152a7e4c131b</guid>
-            <pubDate>Fri, 17 Jun 2016 13:18:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vitalik Buterin Says DAO Hack 'Fixed', Assets Rebound]]></title>
-            <description><![CDATA[<article><h1>Vitalik Buterin Says DAO Hack 'Fixed', Assets Rebound</h1><p>Ether (ETH) and The DAO (DAO) has recovered half of its near 20% fall in value Friday as developers released news of the containment of the feared attack on DAO. Also read: Vitalik Buterin: Russia's Crypto Ban Would Stifle Blockchains Despite wild fluctuations, ETH is currently trading at around $18 per unit, representing a roughly 9% overall drop for the past 24 hours.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d4eee099a5053d4238975a3d362d7858/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2Ffsff.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/vitalik-buterin-dao-hack-fixed/</link>
-            <guid isPermaLink="false">a36d6555-603e-4929-8422-1e92ac9015bd</guid>
-            <pubDate>Fri, 17 Jun 2016 13:18:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
