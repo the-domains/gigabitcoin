@@ -28,10 +28,10 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  http://cointelegraph.com/news/should-ethereum-hardfork-or-allow-hackers-to-run-with-50-million
+  https://cointelegraph.com/news/should-ethereum-hardfork-or-allow-hackers-to-run-with-50-million
 title: Should Ethereum Hardfork or Allow Hackers to Run with $50 Million?
-datePublished: '2016-06-17T17:29:43.040Z'
-dateModified: '2016-06-17T15:42:38.405Z'
+datePublished: '2016-06-17T22:52:53.538Z'
+dateModified: '2016-06-17T22:12:54.947Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-17-should-ethereum-hardfork-or-allow-hackers-to-run-with-dollar50-mi.md
