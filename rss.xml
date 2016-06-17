@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 14:42:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 17:29:58 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Understanding the Lightning Network, Part 3: Completing the Puzzle and Closing the Channel]]></title>
+            <description><![CDATA[<article><h1>Understanding the Lightning Network, Part 3: Completing the Puzzle and Closing the Channel</h1><p>The Lightning Network is probably the most highly anticipated technological innovation that will be deployed on top of Bitcoin. The payment layer, first proposed by Joseph Poon and Tadge Dryja about a year ago, promises to support a virtually unlimited number of off-chain transactions among users, at nearly no cost - while leveraging the security offered by Bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0670654dedd6bc4228c5f445cb80642a/croprotate.jpg?cropheight=3291&cropwidth=1288&degrees=0&input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Funderstanding-the-lightning-network-part-completing-the-puzzle-and-closing-the-channel-1.jpg&x=0&y=0"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/understanding-the-lightning-network-part-completing-the-puzzle-and-closing-the-channel-1466178980</link>
+            <guid isPermaLink="false">8a01e0a6-0117-433e-859c-db558734f9e1</guid>
+            <pubDate>Fri, 17 Jun 2016 17:29:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What is the wallet "word seed" that is commonly used in popular wallets clients and what does it do?]]></title>
             <description><![CDATA[<article><h1>What is the wallet "word seed" that is commonly used in popular wallets clients and what does it do?</h1><p>I've been using a pretty old version of Multibit classic and recently decided to upgrade. I tried out Multibit HD and Electrum and noticed that both have me set up a wallet with a "word seed". It's...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How much testing is done on each pull request before it is merged?</h1><p>Frequently after one pull request is merged, multiple other pull requests follow to clean up a problem created by the first PR Recent example: https://github.com/bitcoin/bitcoin/pull/7957</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/45966/how-much-testing-is-done-on-each-pull-request-before-it-is-merged</link>
             <guid isPermaLink="false">8d4c6b8f-4b98-4f01-9d15-d8c3cb14bd23</guid>
-            <pubDate>Fri, 17 Jun 2016 13:18:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ver, Voorhees & Fenton Join John McAfee's Security Board]]></title>
-            <description><![CDATA[<article><h1>Ver, Voorhees & Fenton Join John McAfee's Security Board</h1><p>More investment capital could flow to companies working on ways for Bitcoin users to secure their money, with John McAfee's appointment of Roger Ver, Erik Voorhees and Bruce Fenton to key positions in his new cybersecurity-focused company.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b92b4d22ab6437bad22aeefaa7289c48/noop.png?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fmcafee.png"></article>]]></description>
-            <link>https://news.bitcoin.com/ver-voorhees-fenton-john-mcafee-security/</link>
-            <guid isPermaLink="false">44a279ed-30ba-406e-a46c-59a8b404c7c2</guid>
             <pubDate>Fri, 17 Jun 2016 13:18:59 GMT</pubDate>
         </item>
     </channel>
