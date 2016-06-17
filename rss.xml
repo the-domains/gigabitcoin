@@ -4,13 +4,27 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 13:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 13:20:37 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How could a country issue it's currency on the blockchain? How would it work?]]></title>
+            <description><![CDATA[<article><h1>How could a country issue it's currency on the blockchain? How would it work?</h1><p>With majorities in the House and Senate, the majority of governorships, control in majority of state legislatures, as well as a conservative-leaning Supreme Court, it appears that the GOP may not be quite persuaded that they are on the wrong track.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/How-could-a-country-issue-its-currency-on-the-blockchain-How-would-it-work</link>
+            <guid isPermaLink="false">64aed34c-54c1-4324-a451-c2eeaa6612ec</guid>
+            <pubDate>Fri, 17 Jun 2016 13:18:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why is the ledger public?]]></title>
             <description><![CDATA[<article><h1>Why is the ledger public?</h1><p>The ledger has to be public in order for Bitcoin to be decentralized. The designers of Bitcoin didn't want to need anyone to play the role of a "bank" who keeps all the records, and whom everyone else has to trust to do that properly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/45979/why-is-the-ledger-public</link>
             <guid isPermaLink="false">e5dca23d-ecc9-4d1f-b714-2899eb4ef87d</guid>
+            <pubDate>Fri, 17 Jun 2016 13:18:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How much testing is done on each pull request before it is merged?]]></title>
+            <description><![CDATA[<article><h1>How much testing is done on each pull request before it is merged?</h1><p>Frequently after one pull request is merged, multiple other pull requests follow to clean up a problem created by the first PR Recent example: https://github.com/bitcoin/bitcoin/pull/7957</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/45966/how-much-testing-is-done-on-each-pull-request-before-it-is-merged</link>
+            <guid isPermaLink="false">8d4c6b8f-4b98-4f01-9d15-d8c3cb14bd23</guid>
             <pubDate>Fri, 17 Jun 2016 13:18:59 GMT</pubDate>
         </item>
         <item>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Why Bitcoin is finally set to realise its potential</h1><p>Bitcoin is a resilient and versatile currency, however, and it has once again bounced back to achieve a peak in marketplace For years, Bitcoin has endured something of a roller-coast ride at the hands of regulators, users and investors alike.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a815e7bb9635d6c0f53f738a51011103efbb3cc7.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/06/17/bitcoin-finally-set-realise-potential/</link>
             <guid isPermaLink="false">1775fa49-22b5-4bb8-b5ee-ac0c9fea6bb8</guid>
-            <pubDate>Fri, 17 Jun 2016 13:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ether Price Plumets; Ethereum DAO May Be Hacked]]></title>
-            <description><![CDATA[<article><h1>Ether Price Plumets; Ethereum DAO May Be Hacked</h1><p>Editor's Note: Article updated to include social media posts covering the news story. Ethereum took a drastic dive this morning as news came in that the DAO smart contract address is being drained of ether in an ongoing and developing news story.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/53cb3069b3fc3b60dae93f987779a352/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F06%2Feth-price-plumets-da-hacked.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/ether-price-plumets-ethereum-dao-may-be-hacked/</link>
-            <guid isPermaLink="false">3228cabc-34a3-4fea-9512-743c65065c93</guid>
-            <pubDate>Fri, 17 Jun 2016 13:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price to Hit $1,000 Once Again? The Rally Continues - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price to Hit $1,000 Once Again? The Rally Continues - Bitcoinist.net</h1><p>Bitcoin has undergone another impressive rise. Since our last price piece, everyone's favorite digital currency has spiked by nearly $20, and is now hovering at around $767 at press time. Also read: Bitcoin Price Bursts Ahead, Nearing $700 As one analyst proclaimed: "The bitcoin price... bubbles just below $700...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/027877587fcdcaf85d309af8a0427482/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F06%2FBtcsurge.png"></article>]]></description>
-            <link>http://bitcoinist.net/bitcoin-price-hit-1000-rally-continues/</link>
-            <guid isPermaLink="false">f8d91bb7-21a1-48e1-b64f-a5683916a264</guid>
             <pubDate>Fri, 17 Jun 2016 13:18:58 GMT</pubDate>
         </item>
     </channel>
