@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 04:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 04:20:37 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Passes $750 to Hit 28-Month High - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Passes $750 to Hit 28-Month High - CoinDesk</h1><p>The price of bitcoin broke $750 on 16th June, building on recent gains to hit a 28-month high. Bitcoin prices reached $750.37 during the day's session, the highest since 7th February, 2014, CoinDesk USD Bitcoin Price Index ( BPI) figures reveal.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/01db5523c56106054c94fe0b0ad7c71a/noop.jpg?input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2Fkite-fly-e1466096180628.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/bitcoin-price-750-28-month-high/</link>
+            <guid isPermaLink="false">b8acf71f-e7b7-42a3-afa8-6c43b23040c0</guid>
+            <pubDate>Fri, 17 Jun 2016 04:18:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How a 3-D Printed Building Became the Center of Blockchain in the Middle East - CoinDesk]]></title>
             <description><![CDATA[<article><h1>How a 3-D Printed Building Became the Center of Blockchain in the Middle East - CoinDesk</h1><p>While its unconventional design and vivid white facade may draw the eyes of passersby, at the 3D printed headquarters for Dubai's Museum of the Future, it's a series of neatly folded name cards that perhaps tells the more impressive story.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cb649a4b72da4ff919adbdea136d0f89/noop.jpg?input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2FIMG_1194-e1465358564619.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bank of Canada studies payments system using tech behind bitcoin</h1><p>TORONTO/OTTAWA The Bank of Canada is experimenting with a payments system based on the technology behind the bitcoin virtual currency, the central bank said on Thursday. Bank of Canada Senior Deputy Governor Carolyn Wilkins said the central bank has been working with commercial banks to build the experimental interbank payment system.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/58bc695956eadf491cce2b22793049a5/noop?input=http%3A%2F%2Fs1.reutersmedia.net%2Fresources%2Fr%2F%3Fm%3D02%26d%3D20160616%26t%3D2%26i%3D1141658505%26w%3D%26fh%3D545px%26fw%3D%26ll%3D%26pl%3D%26sq%3D%26r%3DLYNXNPEC5F1D2"></article>]]></description>
             <link>http://www.reuters.com/article/us-canada-cenbank-payments-idUSKCN0Z22F9</link>
             <guid isPermaLink="false">d517182a-6a80-4b9d-9c04-1ef4243dac94</guid>
-            <pubDate>Fri, 17 Jun 2016 04:18:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Caricoin debuts bitcoin mobile wallet in Caribbean]]></title>
-            <description><![CDATA[<article><h1>Caricoin debuts bitcoin mobile wallet in Caribbean</h1><p>Caricoin Ltd. announced Thursday the launch of what it calls "the mobile wallet of the Caribbean." Based in the UK with development offices in Jamaica, Caricoin said in a press release it's offerin...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aedbb1f03c6a375ae80cf1cf6cd64d40/noop.png?input=https%3A%2F%2Fcoinreport.net%2Fwp-content%2Fuploads%2F2016%2F06%2FCaricoin-PROPERLY-SQUARED-150x150.png"></article>]]></description>
-            <link>https://coinreport.net/caricoin-debuts-bitcoin-mobile-wallet-caribbean/</link>
-            <guid isPermaLink="false">7db5fe20-b07f-4c54-94c4-dc5c2066d8b7</guid>
             <pubDate>Fri, 17 Jun 2016 04:18:28 GMT</pubDate>
         </item>
     </channel>
