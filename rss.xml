@@ -7,6 +7,27 @@
         <lastBuildDate>Sat, 18 Jun 2016 20:45:22 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Let's Talk Bitcoin! #297 The Death of TheDAO (Part One)]]></title>
+            <description><![CDATA[<article><h1>Let's Talk Bitcoin! #297 The Death of TheDAO (Part One)</h1><p>On today's episode of Let's Talk Bitcoin, Adam gives a simplified explanation of TheDAO ether drain exploit, explores the idea that the attacker might not be doing anything wrong. TheDAO's Griff Green joins The Filter to discuss what's happened and what's next. Content by Adam, The Filter Show and Griff Green.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/488b3da6e5a0935a8a62c2a665af2741/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1827-654bb58ee6419789f9b505dfb6ebd2450735d08fd2095f4d2a96b51e6e54ef72.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/lets-talk-bitcoin-297-the-death-of-thedao-part-one</link>
+            <guid isPermaLink="false">fc5a25b0-f03b-42dd-a5b8-7c6265cc0c80</guid>
+            <pubDate>Sat, 18 Jun 2016 20:44:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DAO Hack, Attacker Sends Open Letter to Ethereum Community - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>DAO Hack, Attacker Sends Open Letter to Ethereum Community - NEWSBTC</h1><p>The attacker responsible for siphoning off ether from the DAO has sent an open letter defending his actions. Read more... The DAO platform was in trouble yesterday, following a hacking incident yesterday the platform is said to have lost about $50 million worth of digital currency.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8b1fbc8ec70bd19325f941a6f827c4cd/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F18164939%2FDAO.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/18/dao-hack-attacker-sends-open-letter-to-ethereum-community/</link>
+            <guid isPermaLink="false">7b44a5d8-012a-4ea5-9c07-755fc4f6d346</guid>
+            <pubDate>Sat, 18 Jun 2016 20:44:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Banking Sector's Interest in Blockchain May Translate to Job Cuts - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>The Banking Sector's Interest in Blockchain May Translate to Job Cuts - NEWSBTC</h1><p>The banking sector is enthusiastic to implement blockchain technology in order to automate most of the processes, This may lead to future job cuts in the sector. The banks were never charmed about Bitcoin for multiple reasons.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8ea88e853effec56f8439919605b1991/noop.png?input=https%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2015%2F07%2FBlockchain-Technology-Can-Transform-Banking.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/18/the-banking-sectors-interest-in-blockchain-may-translate-to-job-cuts/</link>
+            <guid isPermaLink="false">37caffcc-e049-455b-bb2d-cc9c7640fc89</guid>
+            <pubDate>Sat, 18 Jun 2016 20:44:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The DAO Debacle Shows Immaturity of Smart Contract Technology]]></title>
             <description><![CDATA[<article><h1>The DAO Debacle Shows Immaturity of Smart Contract Technology</h1><p>Solidity and EVM make smart contracts available to every developer out there, regardless of experience. This is a good way to boost innovation in the smart contract space, but may not yield the best results in the initial stages. The recent debacle surrounding The DAO has shed an interesting spotlight on smart contract technology.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d6ae37970ae149b347281f2443da24de/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F18153136%2Fshutterstock_386722960.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/06/18/dao-debacle-shows-immaturity-smart-contract/</link>
@@ -53,27 +74,6 @@
             <description><![CDATA[<article><h1>Dept of Homeland Security Awards $200K to Factom for ID System</h1><p>An announcement from the Department of Homeland Security (DHS) has revealed that the Austin-based firm Factom will receive a grant for $199,000 USD to procure a system of security of digital identity for Internet of Things (IoT) devices.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dd7c60fb76207f55db9ae754753fe642/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2FFCTcover.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/dhs-awards-200k-factom/</link>
             <guid isPermaLink="false">825c31e5-ee15-420f-8b39-e27d70670634</guid>
-            <pubDate>Sat, 18 Jun 2016 16:51:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The DAO Breach Stops Ether Miner]]></title>
-            <description><![CDATA[<article><h1>The DAO Breach Stops Ether Miner</h1><p>Hashflare, likely the first of the non-Ethereum family to come out publicly as affected by the breach in the DAO contract, has suspended ETH mining activities. Following the breach experienced in The DAO contract, Hashflare has announced the suspension of its ETH mining activities.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1c87a217b6782bfc7b780ca8fdba6cc4/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3L2ExNWM2ZDM0ZTcxMzY5NmIyMjdmMmRhYzU5OTM0YzViLnBuZw%3D%3D.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/the-dao-breach-stops-ether-miner</link>
-            <guid isPermaLink="false">f2a8b148-bc03-41a8-a763-bd38560f7780</guid>
-            <pubDate>Sat, 18 Jun 2016 16:51:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exclusive: Miners to Be Offered One Million Ether - Claims DAO's Alleged "Attacker" in Interview]]></title>
-            <description><![CDATA[<article><h1>Exclusive: Miners to Be Offered One Million Ether - Claims DAO's Alleged "Attacker" in Interview</h1><p>Following the publication of an alleged statement claimed to be from the DAO attackers who have appropriated 3.5 million Ether, an "intermediary" of the attackers who claims "nothing was hacked" appeared on the DAO slack channel, giving away 6.37 bitcoin as a "little demonstration that money speaks, and people in crypto are here for a profit.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/12aa14d3f2ba59bb81d4b56fa9f7539d/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F01%2FSpotlight-chair.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/miners-to-be-offered-one-million-ether-claims-daos-alleged-attacker-in-ccn-interview/</link>
-            <guid isPermaLink="false">dfa65d01-bee1-461f-8531-39c89411f54c</guid>
-            <pubDate>Sat, 18 Jun 2016 16:51:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DAO Ether Hacker Warns Against Hard Fork]]></title>
-            <description><![CDATA[<article><h1>DAO Ether Hacker Warns Against Hard Fork</h1><p>A Twitter post from someone claiming to be the DAO attacker who has taken 3,641,694 ether has thanked the DAO for this reward, has justified the action as being consistent with the DAO smart contract terms, and is warning that any attempts to deploy a fork in Ethereum would bring legal action.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/afeb6f9b7417645ae61aa2adb774210c/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F06%2FDAO-Image-1024x367.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/dao-ether-hacker-warns-hard-fork/</link>
-            <guid isPermaLink="false">fd092155-de33-4b0b-b049-f3b9cb44a6a6</guid>
             <pubDate>Sat, 18 Jun 2016 16:51:45 GMT</pubDate>
         </item>
     </channel>
