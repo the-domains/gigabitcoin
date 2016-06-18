@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Jun 2016 20:44:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2016 20:45:22 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin and the Efficient Market Hypothesis]]></title>
+            <description><![CDATA[<article><h1>Bitcoin and the Efficient Market Hypothesis</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/02e76615445fbeaced85ee6843c3b068/noop.png?input=https%3A%2F%2Fbitcointalk.org%2Fuseravatars%2Favatar_12149.png"></article>]]></description>
+            <link>https://bitcointalk.org/index.php?topic=11765.msg169026</link>
+            <guid isPermaLink="false">de43e4cc-4061-4d3c-9357-abd547df99ed</guid>
+            <pubDate>Sat, 18 Jun 2016 20:44:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.S. Prosecutors Respond to Ulbricht's Life Sentence Appeal]]></title>
+            <description><![CDATA[<article><h1>U.S. Prosecutors Respond to Ulbricht's Life Sentence Appeal</h1><p>On June 17, the US government finally Also read: Why PayPal's Venmo is Beating Bitcoin in P2P Payments responded to the appeal set forth by Ulbricht defense attorney Joshua Dratel, basically saying that the Silk Road operator is still guilty even though two agents were caught corrupting the case.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b4021d2303c9150c1c160c2f020f550c/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fheres-the-complete-timeline-for-how-silk-road-went-down.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/us-prosecutors-ulbricht-appeal/</link>
+            <guid isPermaLink="false">5c892787-9626-470b-b790-2790243daf41</guid>
+            <pubDate>Sat, 18 Jun 2016 20:44:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Monero Surpasses US$2 Value Amidst DAO and Ethereum Discussions]]></title>
             <description><![CDATA[<article><h1>Monero Surpasses US$2 Value Amidst DAO and Ethereum Discussions</h1><p>With The DAO debacle taking the spotlight for the time being, one would tend to forget there are other cryptocurrencies in circulation which are doing quite well. Not Bitcoin, albeit that one is still bullish. Monero, one of the most anonymity-centric alternative cryptocurrencies in the world today, has surpassed the US$2 value.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/254e1ba57d3f8aeb8bdd27167e82a10d/croprotate.png?cropheight=321&cropwidth=1200&degrees=0&input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2FMonero.png&x=0&y=155"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://forklog.net/head-of-post-bank-believes-government-will-inevitably-lose-control-over-money-transactions/</link>
             <guid isPermaLink="false">78ad153a-884c-432a-93e8-54be4569c7c0</guid>
             <pubDate>Sat, 18 Jun 2016 16:51:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google Paid Out Over $500,000 For Android Security Rewards Program]]></title>
-            <description><![CDATA[<article><h1>Google Paid Out Over $500,000 For Android Security Rewards Program</h1><p>Google is working tirelessly to ensure their Android operating system is secure. After the first year of Android, Security Rewards has been wrapped up, it turns out the company paid US$500,000 in bounties. While these numbers are overall positive, Android remains one of the most vulnerable operating systems in the world.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b529528b1af303c2b939dc9096997a6b/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_227705986.jpg"></article>]]></description>
-            <link>http://themerkle.com/google-paid-out-over-500000-for-android-security-rewards-program/</link>
-            <guid isPermaLink="false">0160aa0c-027c-4c18-a678-7a67f45a8d3e</guid>
-            <pubDate>Sat, 18 Jun 2016 16:51:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The DAO: An Analysis of the Fallout - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>The DAO: An Analysis of the Fallout - CoinDesk</h1><p>An entire ecosystem of decentralized autonomous ambitions was diverted yesterday following an attack on The DAO that sent millions of dollars worth of ether destined for startups to the account of an unknown attacker or group of attackers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a45c288376cd2a32361fb565bca7d433/noop.jpg?input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2Fshutterstock_134410376.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/the-dao-an-analysis-of-the-fallout/</link>
-            <guid isPermaLink="false">3cd259e7-bc89-4218-841c-6867c94e34fb</guid>
-            <pubDate>Sat, 18 Jun 2016 16:51:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
