@@ -4,8 +4,36 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Jun 2016 15:29:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2016 15:29:51 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why is My Bitcoin Transaction Pending for So Long? Fees explained..]]></title>
+            <description><![CDATA[<article><h1>Why is My Bitcoin Transaction Pending for So Long? Fees explained..</h1><p>If you're reading this post I assume that like many others, you sent a bitcoin transaction and was kind of confused as to why it's still listed as "unconfirmed" or "pending" after a few hours or so. I mean Bitcoin transactions are supposed to be instant right?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a67fe00369d66e972f4dc5a55f42c85f/noop.jpg?input=https%3A%2F%2F99bitcoins.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_383702071-1.jpg"></article>]]></description>
+            <link>https://99bitcoins.com/why-bitcoin-transaction-pending-bitcoin-fees/</link>
+            <guid isPermaLink="false">b7627f61-5c4c-4e5d-9525-4c37e9a30479</guid>
+            <pubDate>Sat, 18 Jun 2016 15:28:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[President of The Digital Chamber of Commerce Set Up in an Interview]]></title>
+            <description><![CDATA[<article><h1>President of The Digital Chamber of Commerce Set Up in an Interview</h1><p>There has been a surge of news articles regarding Blockchain technology adoption, many of these developments focuses on private ledgers and consortium Blockchains. The Chamber of Digital Commerce (CDC) is a trade association pushing for Blockchain adoption and growth-oriented policy making, but a podcast interview with CDC's president caused some heated discussion.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/119848892154c578617c2270a0e2290c/noop.jpg?input=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FClL6yeqVEAIbdAR.jpg"></article>]]></description>
+            <link>http://themerkle.com/president-of-the-digital-chamber-of-commerce-set-up-in-an-interview/</link>
+            <guid isPermaLink="false">3e1a17f7-7947-4f51-95ed-3e1477e9fe7c</guid>
+            <pubDate>Sat, 18 Jun 2016 15:28:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GAW Gets Sued: Josh Garza Faces Class-Action Suit Over Scams]]></title>
+            <description><![CDATA[<article><h1>GAW Gets Sued: Josh Garza Faces Class-Action Suit Over Scams</h1><p>Also read: Hillary Clinton Vocally Supports State Surveillance This suit comes following the months-long legal proceedings involving the company, including a breach of contract suit from Mississippi Power Company over nearly $350,000 USD in unpaid electricity bills, and the SEC charging Garza and the company with security fraud in December of 2015.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9648a64f3222502d3b134c0dfc24d2ce/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F06%2FcomplaintGAW.png"></article>]]></description>
+            <link>http://bitcoinist.net/gaw-garza-face-class-action-suit/</link>
+            <guid isPermaLink="false">72318ec5-e2de-46e2-b795-2d8b2dcb305f</guid>
+            <pubDate>Sat, 18 Jun 2016 15:28:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Acer Data Breach Results In Unknown Number of Credit Card Details Stolen]]></title>
+            <description><![CDATA[<article><h1>Acer Data Breach Results In Unknown Number of Credit Card Details Stolen</h1><p>It appears as if the Acer online store has been hacked, and a lot of payment information has been stolen. Although very specific details are still wrapped in mystery for the time being; it looks like credit card details were part of the retrieved information.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2c89f52fe4307f1532271c173f7d8823/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_329585456.jpg"></article>]]></description>
+            <link>http://themerkle.com/acer-data-breach-results-in-unknown-number-of-credit-card-details-stolen/</link>
+            <guid isPermaLink="false">70aa43c1-87de-4c00-805e-7054fbd7d6b0</guid>
+            <pubDate>Sat, 18 Jun 2016 15:28:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Symantec Report Indicates End of Locky Ransomware Threat]]></title>
             <description><![CDATA[<article><h1>Symantec Report Indicates End of Locky Ransomware Threat</h1><p>Although malware threats and exploit kits are a significant threat to our society, various types are showing a decrease in activity. Angler, Locky, and Dridex are the three top categories which see less interest all of a sudden. For now, it remains unclear as to why this decrease is taking place, albeit it is possible criminals are turning toward new solutions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/21da04733dd073bbf41b4a8fc24963bc/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_184358294.jpg"></article>]]></description>
@@ -46,34 +74,6 @@
             <description><![CDATA[<article><h1>Windows Binary of the ccMiner 1.7.6-r6 fork With Faster Lyra2RE</h1><p>Here comes a updated ccMiner 1.7.6-r6 Widows binary of the Nanashi Meiyo-Meijin fork ( source) with optimized Lyra2REv2 performance. The latest r6 update might bring a slight performance increase in Lyra2REv2, however it significantly increases the performance of the Lyra2RE algorithm based on the few tests we ran, results of which you can find below comparing the r5 and r6 released on different Maxwell GPUs and the new Pascal GTX 1080.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/301ef4cc411887b64bb5f78d33b37a31/noop.jpg?input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fccminer-1-7-6-r6-lyra2re-580x293.jpg"></article>]]></description>
             <link>http://cryptomining-blog.com/7997-windows-binary-of-the-ccminer-1-7-6-r6-fork-with-faster-lyra2re/</link>
             <guid isPermaLink="false">5d0be8e2-c555-49d7-af76-1c5a1fff49fb</guid>
-            <pubDate>Sat, 18 Jun 2016 15:28:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Indian Markets All Set to Benefit from Blockchain Tech]]></title>
-            <description><![CDATA[<article><h1>Indian Markets All Set to Benefit from Blockchain Tech</h1><p>An Indian company has come up with a solution that could potentially change the way derivatives and cash contracts are settled in stock markets. UTrade Solutions is a fintech company that provides enterprise solutions. They are also active in providing Blockchain driven learning, multi-asset trading platform, algorithms and risk management solutions to financial institutions and their end customers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3c6ccdb48a7c41d836f2aca64a0de112/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzhmY2ZmMDExNjIwZWU4OGI4Y2U2ZThmYWExYjVmNDYwLmpwZw%3D%3D.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/indian-markets-all-set-to-benefit-from-blockchain-tech</link>
-            <guid isPermaLink="false">ef2e0027-d468-4eef-ace0-98fb59d74748</guid>
-            <pubDate>Sat, 18 Jun 2016 15:28:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brexit - Gold And Bitcoin Hedge?]]></title>
-            <description><![CDATA[<article><h1>Brexit - Gold And Bitcoin Hedge?</h1><p>BREXIT. It's the current theme of conversation across most western economies at the moment. With the first (potential) politically motivated murder now having taken place, things are only set to flare up more. For those of you who are out of the loop; UK is having a vote on 23rd of June to decide whether they leave the EU or not.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e5cf061b59ab0e7294cebcdb0f9aedc7/croprotate.png?cropheight=756&cropwidth=1662&degrees=0&input=https%3A%2F%2Fstaticseekingalpha.a.ssl.fastly.net%2Fuploads%2F2016%2F6%2F17%2F37527516-14661528917876952_origin.png&x=0&y=3"></article>]]></description>
-            <link>http://seekingalpha.com/article/3982765-brexit-gold-bitcoin-hedge</link>
-            <guid isPermaLink="false">b549cf8e-c130-4493-9847-a40d2c0605d2</guid>
-            <pubDate>Sat, 18 Jun 2016 15:28:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are there freelance sites where payment is through bitcoin?]]></title>
-            <description><![CDATA[<article><h1>Are there freelance sites where payment is through bitcoin?</h1><p>Neil Armstrong. After returning from the Moon, Armstrong completed his post-flight requirements and then served as the Deputy Associate Administrator for aeronautics at ARPA for a year. After that he became a professor of aerospace engineering at the University of Cincinnati for eight years.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
-            <link>https://www.quora.com/Are-there-freelance-sites-where-payment-is-through-bitcoin</link>
-            <guid isPermaLink="false">82bcca03-5e94-4812-9b53-8dfc9206fcdb</guid>
-            <pubDate>Sat, 18 Jun 2016 15:28:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Person Behind The DAO Attack Threatens With Legal Action Against Forking Plans]]></title>
-            <description><![CDATA[<article><h1>Person Behind The DAO Attack Threatens With Legal Action Against Forking Plans</h1><p>The story regarding the loss of funds controlled by The DAO continues. In fact, things have taken a rather unexpected turn. An open letter allegedly written by the "hacker" has been leaked online. In this email, the person mentions how the funds were obtained through legal means, and how he is prepared to take legal action if anyone tries to steal his money.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8eb93747b67d9f38e9ec850dd0925a35/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_344810213.jpg"></article>]]></description>
-            <link>http://themerkle.com/person-behind-the-dao-attack-threatens-with-legal-action-against-forking-plans/</link>
-            <guid isPermaLink="false">1ec5a2ee-a899-4c91-93ff-d85a8ea0fb15</guid>
             <pubDate>Sat, 18 Jun 2016 15:28:55 GMT</pubDate>
         </item>
     </channel>
