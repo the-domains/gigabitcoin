@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Jun 2016 20:47:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2016 22:28:10 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Greece Government Confident About Lifting Capital Controls Soon]]></title>
+            <description><![CDATA[<article><h1>Greece Government Confident About Lifting Capital Controls Soon</h1><p>Assuming there is any truth to these rather optimistic claims, the next step will come in the form of the ECB giving Greek banks access to cheap funding. In an incredibly surprising turn of events, it looks as if Greece is getting ready to lift capital controls but the end of the year.After facing an economic disaster not too long ago, the country has tried to recover.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b0aa9b818c45c94386826b49936cb365/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F18201551%2Fshutterstock_243975121-825x510.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/18/greece-government-confident-lifting-capital-controls-soon/</link>
+            <guid isPermaLink="false">9bdd7734-2e98-4e9c-80e1-54449edf60c0</guid>
+            <pubDate>Sat, 18 Jun 2016 22:28:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Sky Isn't Falling: Steven Zeiler on Why Bitcoin's Future Is Strong]]></title>
             <description><![CDATA[<article><h1>The Sky Isn't Falling: Steven Zeiler on Why Bitcoin's Future Is Strong</h1><p>Bitcoin Classic, a fork of Bitcoin with a doubled two-megabyte block size limit, appears to have failed. Now, many in the Bitcoin community have voiced fears that, with a continued one-megabyte limit, transaction confirmation times and fees will increase to the point where Bitcoin itself is untenable, potentially dooming the cryptocurrency.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1223fb7264a628421c6dfa17d97c9525/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzYwMWU4OGJlOWRjOTYwYWFhZWRjMzE3MDRmNGY0M2YwLnBuZw%3D%3D.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The DAO Debacle Shows Immaturity of Smart Contract Technology</h1><p>Solidity and EVM make smart contracts available to every developer out there, regardless of experience. This is a good way to boost innovation in the smart contract space, but may not yield the best results in the initial stages. The recent debacle surrounding The DAO has shed an interesting spotlight on smart contract technology.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d6ae37970ae149b347281f2443da24de/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F18153136%2Fshutterstock_386722960.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/06/18/dao-debacle-shows-immaturity-smart-contract/</link>
             <guid isPermaLink="false">9a6634f9-4746-48e7-9d4d-6653715c9fae</guid>
-            <pubDate>Sat, 18 Jun 2016 20:44:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin and the Efficient Market Hypothesis]]></title>
-            <description><![CDATA[<article><h1>Bitcoin and the Efficient Market Hypothesis</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/02e76615445fbeaced85ee6843c3b068/noop.png?input=https%3A%2F%2Fbitcointalk.org%2Fuseravatars%2Favatar_12149.png"></article>]]></description>
-            <link>https://bitcointalk.org/index.php?topic=11765.msg169026</link>
-            <guid isPermaLink="false">de43e4cc-4061-4d3c-9357-abd547df99ed</guid>
             <pubDate>Sat, 18 Jun 2016 20:44:44 GMT</pubDate>
         </item>
     </channel>
