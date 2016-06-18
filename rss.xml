@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Jun 2016 15:29:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2016 16:53:11 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Will Ethereum be able to survive the June 2016 hack?]]></title>
+            <description><![CDATA[<article><h1>Will Ethereum be able to survive the June 2016 hack?</h1><p>1 person wants answers to this question. Be the first to answer.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/Will-Ethereum-be-able-to-survive-the-June-2016-hack</link>
+            <guid isPermaLink="false">cd010a70-16be-4eba-b01e-b9ac081ffc4e</guid>
+            <pubDate>Sat, 18 Jun 2016 16:51:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why is My Bitcoin Transaction Pending for So Long? Fees explained..]]></title>
             <description><![CDATA[<article><h1>Why is My Bitcoin Transaction Pending for So Long? Fees explained..</h1><p>If you're reading this post I assume that like many others, you sent a bitcoin transaction and was kind of confused as to why it's still listed as "unconfirmed" or "pending" after a few hours or so. I mean Bitcoin transactions are supposed to be instant right?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a67fe00369d66e972f4dc5a55f42c85f/noop.jpg?input=https%3A%2F%2F99bitcoins.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_383702071-1.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bank of England and PricewaterhouseCoopers partner to explore putting fiat currency on a blockchain</h1><p>PriceWaterhouseCooper's (PwC) Digital Technologies team announced a major project with the Bank of England on Friday. The partners described a concerned effort to see if they can make fiat currencies like the British Pound Sterling work over a blockchain.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d05058e0b668b926e9447306221eacf7/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-Two-Pounds.jpg"></article>]]></description>
             <link>http://bravenewcoin.com/news/bank-of-england-and-pricewaterhousecoopers-partner-to-explore-putting-fiat-currency-on-a-blockchain/</link>
             <guid isPermaLink="false">381c5c42-6587-40c4-9722-fd74d246a058</guid>
-            <pubDate>Sat, 18 Jun 2016 15:28:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Windows Binary of the ccMiner 1.7.6-r6 fork With Faster Lyra2RE]]></title>
-            <description><![CDATA[<article><h1>Windows Binary of the ccMiner 1.7.6-r6 fork With Faster Lyra2RE</h1><p>Here comes a updated ccMiner 1.7.6-r6 Widows binary of the Nanashi Meiyo-Meijin fork ( source) with optimized Lyra2REv2 performance. The latest r6 update might bring a slight performance increase in Lyra2REv2, however it significantly increases the performance of the Lyra2RE algorithm based on the few tests we ran, results of which you can find below comparing the r5 and r6 released on different Maxwell GPUs and the new Pascal GTX 1080.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/301ef4cc411887b64bb5f78d33b37a31/noop.jpg?input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fccminer-1-7-6-r6-lyra2re-580x293.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/7997-windows-binary-of-the-ccminer-1-7-6-r6-fork-with-faster-lyra2re/</link>
-            <guid isPermaLink="false">5d0be8e2-c555-49d7-af76-1c5a1fff49fb</guid>
             <pubDate>Sat, 18 Jun 2016 15:28:55 GMT</pubDate>
         </item>
     </channel>
