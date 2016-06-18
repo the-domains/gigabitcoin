@@ -7,13 +7,6 @@
         <lastBuildDate>Sat, 18 Jun 2016 16:53:48 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[An Open Letter - Pastebin.com]]></title>
-            <description><![CDATA[<article><h1>An Open Letter - Pastebin.com</h1><p>A soft or hard fork would amount to seizure of my legitimate and rightful ether, claimed legally through the terms of a smart contract. Such fork would permanently and irrevocably ruin all confidence in not only Ethereum but also the in the field of smart contracts and blockchain technology.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/78c9fb71cbc83530f4de99e4cfc434d35732007e.png"></article>]]></description>
-            <link>http://pastebin.com/CcGUBgDG</link>
-            <guid isPermaLink="false">803ed9d7-34e1-4c67-a8ac-467389e88c77</guid>
-            <pubDate>Sat, 18 Jun 2016 16:51:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[If you have Ethereum, how will the June 2016 hack affect you?]]></title>
             <description><![CDATA[<article><h1>If you have Ethereum, how will the June 2016 hack affect you?</h1><p>Answer: BY ethereum I assume you mean ether and by the hack I assume you are referring to theDao? If that is the case then, depending on what the owner of the new eth does with... it can affect the price of eth but I think it has a bigger impact on thedao even though they will be "compensated" it'...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
             <link>https://www.quora.com/If-you-have-Ethereum-how-will-the-June-2016-hack-affect-you</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Decentral Introduces Adjustable Bitcoin Fee For Jaxx users</h1><p>It is always good to see continued development on existing wallet solutions for cryptocurrency users. Jaxx is quickly becoming a popular solution, due to their support for various currencies across different platforms. Their latest update includes an adjustable Bitcoin fee for whenever the network is congested.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2271282aaa664547bd7243cac55b8cb0/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2FJaxx.jpg"></article>]]></description>
             <link>http://themerkle.com/decentral-introduces-adjustable-bitcoin-fee-for-jaxx-users/</link>
             <guid isPermaLink="false">5e9c8310-c46f-4fde-9186-0f9e83f49d38</guid>
+            <pubDate>Sat, 18 Jun 2016 15:28:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nvidia GeForce GTX 1080 Overclocking and Mining Hashrate]]></title>
+            <description><![CDATA[<article><h1>Nvidia GeForce GTX 1080 Overclocking and Mining Hashrate</h1><p>Time for some overclocking of the GeForce GTX 1080 Founders Edition and running the tests again to see what hashrate increase can we expect from the GPU with the increased operating frequencies.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f4535fc14c9575c53090478cc3e9eced/noop.jpg?input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fgtx-1080-overclock-afterburner-580x394.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/7993-nvidia-geforce-gtx-1080-overclocking-and-mining-hashrate/</link>
+            <guid isPermaLink="false">d959a6f2-e904-43cb-b918-36d0c346cd09</guid>
             <pubDate>Sat, 18 Jun 2016 15:28:55 GMT</pubDate>
         </item>
     </channel>
