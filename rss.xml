@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 22:55:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2016 04:03:01 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Did Satoshi ever acknowledge that his name was a pseudonym?]]></title>
+            <description><![CDATA[<article><h1>Did Satoshi ever acknowledge that his name was a pseudonym?</h1><p>I am curious if Satoshi publicly acknowledged that he was concealing his real name, or if he actually claimed that was his real name. Like the title says, did Satoshi ever publicly acknowledge th...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef96063d625a5ef5599ed70be4b5dfc791e440fa.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46008/did-satoshi-ever-acknowledge-that-his-name-was-a-pseudonym</link>
+            <guid isPermaLink="false">81f6ea69-bed8-421e-8767-ded55109996a</guid>
+            <pubDate>Sat, 18 Jun 2016 04:02:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bank of Canada Governor: Cooperation Needed to Advance Distributed Ledger Tech - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Bank of Canada Governor: Cooperation Needed to Advance Distributed Ledger Tech - CoinDesk</h1><p>Carolyn Wilkins is the senior deputy governor of the Bank of Canada, where she oversees the central bank's strategic planning and economic and financial research. Wilkins also represents the bank on the Financial Stability Board. In this op-ed, Wilkins explains how technological innovations in financial services could solve old problems and create new ones.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8f8c31ad82227418616d67221ad619e6/croprotate.jpg?cropheight=1093&cropwidth=1600&degrees=0&input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2FHead-Office-2.jpg&x=0&y=0"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Rally, Canada's Digital Currency | PYMNTS.com</h1><p>Is the concept of "experimenting with a digital dollar" the financial services industry's version of the hula hoop? Flash in the pan sizzle that will soon crash and fizzle?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8076583cb0fcdcf089cad55fa55a1962/noop.jpg?input=http%3A%2F%2Fcdn.pymnts.com%2Fwp-content%2Fuploads%2F2016%2F06%2FCanada-Digital-Currency-Bitcoin-Price-Rally-1000x563.jpg"></article>]]></description>
             <link>http://www.pymnts.com/news/bitcoin-tracker/2016/canada-digital-currency-bitcoin-price-rally/</link>
             <guid isPermaLink="false">85c655e4-21f6-4bfd-a97d-8824abd171c7</guid>
-            <pubDate>Fri, 17 Jun 2016 22:52:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thailand Wants To Go Cashless With PromptPay]]></title>
-            <description><![CDATA[<article><h1>Thailand Wants To Go Cashless With PromptPay</h1><p>Thailand may very well become the next country to go cashless if four of the state-run banks and several commercial institutions have a say in it. PromptPay, as this new solution is called, will serve as a national payment scheme. Customers will be able to send money using their national ID or mobile phone number.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/baeb072dc92faf82920cd7fc9c494bc6/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_241727662.jpg"></article>]]></description>
-            <link>http://themerkle.com/thailand-wants-to-go-cashless-with-promptpay/</link>
-            <guid isPermaLink="false">297ed2bd-7614-4821-b40a-315368b66e29</guid>
             <pubDate>Fri, 17 Jun 2016 22:52:57 GMT</pubDate>
         </item>
     </channel>
