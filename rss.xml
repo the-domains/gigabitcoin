@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Jun 2016 20:45:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2016 20:47:13 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Sky Isn't Falling: Steven Zeiler on Why Bitcoin's Future Is Strong]]></title>
+            <description><![CDATA[<article><h1>The Sky Isn't Falling: Steven Zeiler on Why Bitcoin's Future Is Strong</h1><p>Bitcoin Classic, a fork of Bitcoin with a doubled two-megabyte block size limit, appears to have failed. Now, many in the Bitcoin community have voiced fears that, with a continued one-megabyte limit, transaction confirmation times and fees will increase to the point where Bitcoin itself is untenable, potentially dooming the cryptocurrency.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1223fb7264a628421c6dfa17d97c9525/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzYwMWU4OGJlOWRjOTYwYWFhZWRjMzE3MDRmNGY0M2YwLnBuZw%3D%3D.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/the-sky-isnt-falling-steven-zeiler-on-why-bitcoins-future-is-strong</link>
+            <guid isPermaLink="false">51291567-4edb-46b0-8f12-8fe13f8738a9</guid>
+            <pubDate>Sat, 18 Jun 2016 20:44:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Technical Analysis: Long-Term Bitcoin Price Corrections to Come?]]></title>
             <description><![CDATA[<article><h1>Technical Analysis: Long-Term Bitcoin Price Corrections to Come?</h1><p>As the bitcoin price rally gets into high gear, technical indicators at the long, mid and short term levels suggest that there could be corrections on the horizon, after a continued rise to $820 USD.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c7ddbf6e829f66e5e147b7ef50fe75f3/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F06%2Fjune-12-long.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin and the Efficient Market Hypothesis</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/02e76615445fbeaced85ee6843c3b068/noop.png?input=https%3A%2F%2Fbitcointalk.org%2Fuseravatars%2Favatar_12149.png"></article>]]></description>
             <link>https://bitcointalk.org/index.php?topic=11765.msg169026</link>
             <guid isPermaLink="false">de43e4cc-4061-4d3c-9357-abd547df99ed</guid>
-            <pubDate>Sat, 18 Jun 2016 20:44:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.S. Prosecutors Respond to Ulbricht's Life Sentence Appeal]]></title>
-            <description><![CDATA[<article><h1>U.S. Prosecutors Respond to Ulbricht's Life Sentence Appeal</h1><p>On June 17, the US government finally Also read: Why PayPal's Venmo is Beating Bitcoin in P2P Payments responded to the appeal set forth by Ulbricht defense attorney Joshua Dratel, basically saying that the Silk Road operator is still guilty even though two agents were caught corrupting the case.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b4021d2303c9150c1c160c2f020f550c/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fheres-the-complete-timeline-for-how-silk-road-went-down.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/us-prosecutors-ulbricht-appeal/</link>
-            <guid isPermaLink="false">5c892787-9626-470b-b790-2790243daf41</guid>
             <pubDate>Sat, 18 Jun 2016 20:44:44 GMT</pubDate>
         </item>
     </channel>
