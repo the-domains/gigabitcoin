@@ -7,6 +7,13 @@
         <lastBuildDate>Sat, 18 Jun 2016 20:45:22 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[The DAO Debacle Shows Immaturity of Smart Contract Technology]]></title>
+            <description><![CDATA[<article><h1>The DAO Debacle Shows Immaturity of Smart Contract Technology</h1><p>Solidity and EVM make smart contracts available to every developer out there, regardless of experience. This is a good way to boost innovation in the smart contract space, but may not yield the best results in the initial stages. The recent debacle surrounding The DAO has shed an interesting spotlight on smart contract technology.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d6ae37970ae149b347281f2443da24de/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F18153136%2Fshutterstock_386722960.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/18/dao-debacle-shows-immaturity-smart-contract/</link>
+            <guid isPermaLink="false">9a6634f9-4746-48e7-9d4d-6653715c9fae</guid>
+            <pubDate>Sat, 18 Jun 2016 20:44:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bitcoin and the Efficient Market Hypothesis]]></title>
             <description><![CDATA[<article><h1>Bitcoin and the Efficient Market Hypothesis</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/02e76615445fbeaced85ee6843c3b068/noop.png?input=https%3A%2F%2Fbitcointalk.org%2Fuseravatars%2Favatar_12149.png"></article>]]></description>
             <link>https://bitcointalk.org/index.php?topic=11765.msg169026</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>DAO Ether Hacker Warns Against Hard Fork</h1><p>A Twitter post from someone claiming to be the DAO attacker who has taken 3,641,694 ether has thanked the DAO for this reward, has justified the action as being consistent with the DAO smart contract terms, and is warning that any attempts to deploy a fork in Ethereum would bring legal action.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/afeb6f9b7417645ae61aa2adb774210c/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F06%2FDAO-Image-1024x367.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/dao-ether-hacker-warns-hard-fork/</link>
             <guid isPermaLink="false">fd092155-de33-4b0b-b049-f3b9cb44a6a6</guid>
-            <pubDate>Sat, 18 Jun 2016 16:51:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Head of Post Bank Believes Government Will Inevitably Lose Control Over Money Transactions]]></title>
-            <description><![CDATA[<article><h1>Head of Post Bank Believes Government Will Inevitably Lose Control Over Money Transactions</h1><p>Speaking at Saint Petersburg International Economic Forum, Dmitry Rudenko, Head of Russia-based PostBank, stated that the development of blockchain technology and cryptocurrencies is profitable for Russia due to its infrastructure and nature features.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1be3fc3dcf7eb5361b15f5700f2b3950/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F06%2FRu1.png"></article>]]></description>
-            <link>http://forklog.net/head-of-post-bank-believes-government-will-inevitably-lose-control-over-money-transactions/</link>
-            <guid isPermaLink="false">78ad153a-884c-432a-93e8-54be4569c7c0</guid>
             <pubDate>Sat, 18 Jun 2016 16:51:45 GMT</pubDate>
         </item>
     </channel>
