@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Jun 2016 22:28:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2016 22:28:52 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What are the details of the Ethereum hack that happened in June 2016?]]></title>
+            <description><![CDATA[<article><h1>What are the details of the Ethereum hack that happened in June 2016?</h1><p>Answer: So first of all, at the time of this writing (18/06/2016 21:46 CAT), Ethereum has not been hacked. And in the words of Ethereum founder,Vitalik Buterin, "Ethereum itself is perfectly safe". It's the the DAO that got hacked. Here are the details: * the DAO is a Decentralised Autonomous ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
+            <link>https://www.quora.com/What-are-the-details-of-the-Ethereum-hack-that-happened-in-June-2016</link>
+            <guid isPermaLink="false">6c4a15fe-3f4f-4a7b-9e0d-df62eac0d4a9</guid>
+            <pubDate>Sat, 18 Jun 2016 22:28:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Greece Government Confident About Lifting Capital Controls Soon]]></title>
             <description><![CDATA[<article><h1>Greece Government Confident About Lifting Capital Controls Soon</h1><p>Assuming there is any truth to these rather optimistic claims, the next step will come in the form of the ECB giving Greek banks access to cheap funding. In an incredibly surprising turn of events, it looks as if Greece is getting ready to lift capital controls but the end of the year.After facing an economic disaster not too long ago, the country has tried to recover.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b0aa9b818c45c94386826b49936cb365/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F18201551%2Fshutterstock_243975121-825x510.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The Banking Sector's Interest in Blockchain May Translate to Job Cuts - NEWSBTC</h1><p>The banking sector is enthusiastic to implement blockchain technology in order to automate most of the processes, This may lead to future job cuts in the sector. The banks were never charmed about Bitcoin for multiple reasons.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8ea88e853effec56f8439919605b1991/noop.png?input=https%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2015%2F07%2FBlockchain-Technology-Can-Transform-Banking.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/06/18/the-banking-sectors-interest-in-blockchain-may-translate-to-job-cuts/</link>
             <guid isPermaLink="false">37caffcc-e049-455b-bb2d-cc9c7640fc89</guid>
-            <pubDate>Sat, 18 Jun 2016 20:44:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The DAO Debacle Shows Immaturity of Smart Contract Technology]]></title>
-            <description><![CDATA[<article><h1>The DAO Debacle Shows Immaturity of Smart Contract Technology</h1><p>Solidity and EVM make smart contracts available to every developer out there, regardless of experience. This is a good way to boost innovation in the smart contract space, but may not yield the best results in the initial stages. The recent debacle surrounding The DAO has shed an interesting spotlight on smart contract technology.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d6ae37970ae149b347281f2443da24de/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F18153136%2Fshutterstock_386722960.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/18/dao-debacle-shows-immaturity-smart-contract/</link>
-            <guid isPermaLink="false">9a6634f9-4746-48e7-9d4d-6653715c9fae</guid>
             <pubDate>Sat, 18 Jun 2016 20:44:44 GMT</pubDate>
         </item>
     </channel>
