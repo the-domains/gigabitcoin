@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 19 Jun 2016 17:55:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2016 17:55:06 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[What is the largest number of blocks a transaction has ever waited for confirmation?]]></title>
-            <description><![CDATA[<article><h1>What is the largest number of blocks a transaction has ever waited for confirmation?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top What is the largest number of blocks a transaction has ever waited before eventual confirmation?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/45822/what-is-the-largest-number-of-blocks-a-transaction-has-ever-waited-for-confirmat</link>
-            <guid isPermaLink="false">bdafcff0-b476-47c3-9095-f1c193d92536</guid>
-            <pubDate>Sun, 19 Jun 2016 17:54:09 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Price Analysis - Holding Steady]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Analysis - Holding Steady</h1><p>The bitcoin price chart has been whip-sawing as buyers eagerly anticipate the next advance, while profit-takers capitulate on each approach of $780 (Bitstamp). Technical analysis finds a repeating pattern and its potential outcome. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6f1f008638ee13638d1f188e08f05f6c/croprotate.png?cropheight=671&cropwidth=1330&degrees=0&input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F06%2FSelection_20160619_003.png&x=0&y=0"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://www.coindesk.com/blockchain-technology-smoke-more-smoke/</link>
             <guid isPermaLink="false">ad34f6dc-47c3-4364-8b3f-c776a711fec8</guid>
             <pubDate>Sun, 19 Jun 2016 17:54:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Weekly Analysis -BTC/USD Above $700 Is Real? - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Weekly Analysis -BTC/USD Above $700 Is Real? - NEWSBTC</h1><p>Bitcoin price surge was amazing, but BTC/USD is reaching a point where the bulls need to be very careful moving ahead. Bitcoin price surge was amazing, but BTC/USD is reaching a point where the bulls need to be very careful moving ahead. Bitcoin price continued to move higher and settled above the $700 mark against the US dollar.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/14354a23f3ab81bb63caf45a0cf2e715/croprotate.png?cropheight=899&cropwidth=1816&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F19043203%2FBitcoin1.png&x=3&y=3"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/19/bitcoin-price-weekly-analysis-btcusd-700-real/</link>
+            <guid isPermaLink="false">090ed590-05d8-44ae-9250-230ca945fd35</guid>
+            <pubDate>Sun, 19 Jun 2016 16:02:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
