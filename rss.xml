@@ -7,13 +7,6 @@
         <lastBuildDate>Sun, 19 Jun 2016 16:02:37 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Blockchain and Payments Infrastructure: A Regulator's Dilemma? - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Blockchain and Payments Infrastructure: A Regulator's Dilemma? - CoinDesk</h1><p>Gabrielle Patrick is a UK and US lawyer specializing in cryptofinance and distributed ledger technology. She is the co-founder and general counsel of Epiphyte, a startup enabling instant settlement of trades and transactions using distributed ledgers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/41e554abdb6e7c2a110e0bf79b1bc7f1/noop.jpg?input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F02%2FECB.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/blockchain-payments-infrastructure-regulators-dilemma/</link>
-            <guid isPermaLink="false">c4206e78-429a-403d-b169-51ae20461573</guid>
-            <pubDate>Sun, 19 Jun 2016 16:01:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Second Assailant Drains Ethereum Funds From The DAO]]></title>
             <description><![CDATA[<article><h1>Second Assailant Drains Ethereum Funds From The DAO</h1><p>It is clear a solution has to be found before the remaining DAO funds is drained as well. By the look of things, the worries for The DAO are far from over. Their Ethereum account is being drained for the second time in as many days, using the same type of exploit.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2456ba6c62f8392594276dd299253721/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F19151149%2Fshutterstock_298053413.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/06/19/second-assailant-drains-ethereum-funds-dao/</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>What are the details of the Ethereum hack that happened in June 2016?</h1><p>Answer: So first of all, at the time of this writing (18/06/2016 21:46 CAT), Ethereum has not been hacked. And in the words of Ethereum founder,Vitalik Buterin, "Ethereum itself is perfectly safe". It's the the DAO that got hacked. Here are the details: * the DAO is a Decentralised Autonomous ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
             <link>https://www.quora.com/What-are-the-details-of-the-Ethereum-hack-that-happened-in-June-2016</link>
             <guid isPermaLink="false">6c4a15fe-3f4f-4a7b-9e0d-df62eac0d4a9</guid>
+            <pubDate>Sat, 18 Jun 2016 22:28:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Greece Government Confident About Lifting Capital Controls Soon]]></title>
+            <description><![CDATA[<article><h1>Greece Government Confident About Lifting Capital Controls Soon</h1><p>Assuming there is any truth to these rather optimistic claims, the next step will come in the form of the ECB giving Greek banks access to cheap funding. In an incredibly surprising turn of events, it looks as if Greece is getting ready to lift capital controls but the end of the year.After facing an economic disaster not too long ago, the country has tried to recover.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b0aa9b818c45c94386826b49936cb365/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F18201551%2Fshutterstock_243975121-825x510.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/18/greece-government-confident-lifting-capital-controls-soon/</link>
+            <guid isPermaLink="false">9bdd7734-2e98-4e9c-80e1-54449edf60c0</guid>
             <pubDate>Sat, 18 Jun 2016 22:28:07 GMT</pubDate>
         </item>
     </channel>
