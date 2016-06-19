@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 19 Jun 2016 16:02:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2016 16:03:05 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Security Expert: NATO 'Cannot Mitigate Cyber-Attack']]></title>
+            <description><![CDATA[<article><h1>Security Expert: NATO 'Cannot Mitigate Cyber-Attack'</h1><p>NATO has announced that now cyber-attacks would trigger a collective response from all its members is drawing criticism from the security sphere. Also read: 45% of US Households Avoid Online Shopping Due to Cybercrime Risk The news was shared by NATO secretary general Jens Stoltenberg at a meeting last week.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/83e1f6fa889ba4d73b769c7497c3d084/croprotate.jpg?cropheight=2830&cropwidth=4256&degrees=0&input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fnatocover.jpg&x=0&y=0"></article>]]></description>
+            <link>https://news.bitcoin.com/nato-cannot-mitigate-cyber-attack/</link>
+            <guid isPermaLink="false">75c51930-0b98-4b69-81f9-851897d20a4c</guid>
+            <pubDate>Sun, 19 Jun 2016 16:02:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sweden Tests Blockchain-Based Land Registry]]></title>
             <description><![CDATA[<article><h1>Sweden Tests Blockchain-Based Land Registry</h1><p>Sweden could become the first country to have a blockchain-based land registry. A team of technology players is working with the country's land registry on a system that could possibly go live this fall, according to Reuters.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/338e23cd3522154babc0ce9a98e9dad5/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F06%2FSweden-countryside.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://bitcoin.stackexchange.com/questions/46029/how-can-i-use-bitcoins-on-deposit</link>
             <guid isPermaLink="false">28052297-b49b-4ad5-94fc-713bc9d5897a</guid>
             <pubDate>Sun, 19 Jun 2016 16:01:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain Is The Next Line Of Defense For Cyber Security]]></title>
-            <description><![CDATA[<article><h1>Blockchain Is The Next Line Of Defense For Cyber Security</h1><p>Cyber security is a growing concern among individual users and enterprises these days. State-sponsored hacking attempts are becoming more common, and there seems to be no improvement in sight. Blockchain technology could alleviate a lot of concerns, due to its decentralized and distributed nature.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b7dac476596ecb8f3ca5ed0e8dc90129/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_228287827.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/blockchainn-next-defense-cyber-security/</link>
-            <guid isPermaLink="false">c1bfd916-5978-4655-b199-0fa4e7063a77</guid>
-            <pubDate>Sun, 19 Jun 2016 16:01:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
