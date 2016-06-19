@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 19 Jun 2016 16:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2016 16:03:16 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is it safe to use a second-hand Trezor (like from ebay)?]]></title>
+            <description><![CDATA[<article><h1>Is it safe to use a second-hand Trezor (like from ebay)?</h1><p>I just got a good price on a supposedly never used Trezor hardware wallet from eBay. I have no specific reason to think this would be dangerous to use, but I'm being cautious so thought I would ask</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46020/is-it-safe-to-use-a-second-hand-trezor-like-from-ebay</link>
+            <guid isPermaLink="false">6afd1a9c-bf56-4dbd-b4e4-c2fb9bca5b4e</guid>
+            <pubDate>Sun, 19 Jun 2016 16:02:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Walmart Canada and VISA Showdown, Will Bitcoin Emerge as the Winner? - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Walmart Canada and VISA Showdown, Will Bitcoin Emerge as the Winner? - NEWSBTC</h1><p>The Walmart chain in Canada has announced that it will not be accepting VISA powered credit cards at its outlets from next month. Read more... Whenever there is an issue regarding fiat currency, bitcoin is sure to have the last laugh.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ec2570e5c18cefb2e50dc7199f3f3006/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F19052159%2Fwalmart.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Sweden Tests Blockchain-Based Land Registry</h1><p>Sweden could become the first country to have a blockchain-based land registry. A team of technology players is working with the country's land registry on a system that could possibly go live this fall, according to Reuters.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/338e23cd3522154babc0ce9a98e9dad5/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F06%2FSweden-countryside.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/sweden-tests-blockchain-based-land-registry/</link>
             <guid isPermaLink="false">61d853fa-390d-422b-80e1-104fe21f4b26</guid>
-            <pubDate>Sun, 19 Jun 2016 16:01:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Network Congestion Will not Dimish Dark Markets Bitcoin Usage]]></title>
-            <description><![CDATA[<article><h1>Network Congestion Will not Dimish Dark Markets Bitcoin Usage</h1><p>Paying a higher price can be annoying, but it is still worth it to the majority of deep web users. Plus, Bitcoin developers are working on adding privacy and anonymity to the protocol, which will benefit users of dark markets even more. The recent Bitcoin network congestion has been a topic of substantial debate on Reddit.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1a3e86af90ce4f00a63fe973bc7e0be1/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F19131150%2Fshutterstock_415192408.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/19/network-congestion-will-not-dimish-dark-markets-bitcoin-usage/</link>
-            <guid isPermaLink="false">a431fa67-2944-4cb1-8678-e9633bf9d515</guid>
             <pubDate>Sun, 19 Jun 2016 16:01:59 GMT</pubDate>
         </item>
     </channel>
