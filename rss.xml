@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 13:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2016 13:14:10 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The Bitcoin Podcast: TBP66 - Cultures of Innovation]]></title>
-            <description><![CDATA[<article><h1>The Bitcoin Podcast: TBP66 - Cultures of Innovation</h1><p>Crazy week for crypto! This week we have an analysis of the DAO exploit. We also bring in Anne Connelly, who is the first millennial in Notable history to be nominated for Bitcoin-related accomplishments. She currently serves as the Head of Marketing for Ledger Labs, a Toronto-based consulting and development firm that applies decentralized systems and principles to the fields of security, finance, and governance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae1438bda64752004b20bc5cb7fdf2a552738236.jpg"></article>]]></description>
-            <link>http://thebitcoinpodcast.libsyn.com/tbp66-cultures-of-innovation</link>
-            <guid isPermaLink="false">1db200f7-03f9-4c1f-8b5e-59f16e485015</guid>
-            <pubDate>Mon, 20 Jun 2016 13:13:16 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Allianz Trails Blockchain Tech for Catastrophic Swap Instruments]]></title>
             <description><![CDATA[<article><h1>Allianz Trails Blockchain Tech for Catastrophic Swap Instruments</h1><p>Allianz Risk Transfer and Nephila Capital Ltd. have used blockchain smart contract technology to conduct a natural catastrophe swap in a pilot test, demonstrating that processing and settlement can be accelerated between insurers using blockchain-based smart contracts. The test indicates blockchain-based contracts can also be applied to other insurance and investment transactions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b72662c58203fc9ef38ee4537c9b27ef/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F06%2FAllianz.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://www.cnbc.com/2016/06/20/all-that-glisters-is-bitcoin-now-as-safe-a-haven-as-gold.html</link>
             <guid isPermaLink="false">ff3f8b4f-5149-4640-9cd8-64eedac0fdac</guid>
             <pubDate>Mon, 20 Jun 2016 13:13:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Allianz Risk Transfer Successfully Tests Blockchain Technology for Catastrophe Swap]]></title>
+            <description><![CDATA[<article><h1>Allianz Risk Transfer Successfully Tests Blockchain Technology for Catastrophe Swap</h1><p>Allianz Risk Transfer AG (ART) and Nephila Capital Limited have successfully completed several tests using the blockchain technology to transact a natural catastrophe swap. In finance, a catastrophe swap is an instrument traded in the over-the-counter market which allows insurers to prevent potential losses developed from natural disasters by reinsuring against catastrophic events that often occur with high severity.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dfc4add509e78ce5997b73a71aa7e394/croprotate.jpg?cropheight=2838&cropwidth=4256&degrees=0&input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fallianz_flagge2.jpg&x=0&y=0"></article>]]></description>
+            <link>http://themerkle.com/allianz-risk-transfer-successfully-tests-blockchain-technology-for-catastrophe-swap/</link>
+            <guid isPermaLink="false">dae809c6-c20d-487d-8888-b50fc726cb7c</guid>
+            <pubDate>Mon, 20 Jun 2016 13:13:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
