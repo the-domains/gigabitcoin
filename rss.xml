@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 23:35:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2016 23:35:34 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[EB136 - Arthur Breitman: Tezos - A Self-Amending Crypto-Ledger]]></title>
-            <description><![CDATA[<article><h1>EB136 - Arthur Breitman: Tezos - A Self-Amending Crypto-Ledger</h1><p>Support the show, consider donating: 1GaLQRuaP6Gyrzza3yViW5ZAvZQnBDuJND (http://bit.ly/28K4Blv) The lack of an explicit governance mechanism has created deep problems for Bitcoin. Ethereum, with the DAO-related soft/hard-fork discussions, may face similar challenges ahead. Yet, already in 2014 Arthur Breitman quietly started working on cryptocurrency network Tezos that has an explicit mechanism to let coinholders vote on protocol upgrades.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/566391538e4926a5cd0431b6003d1215/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1835-f0921713feae7945c5c392a5d9cae51bf90e5065da22f96a6e8f161e2c1ef60d.jpg"></article>]]></description>
-            <link>https://letstalkbitcoin.com/blog/post/eb136-arthur-breitman-tezos-a-self-amending-crypto-ledger</link>
-            <guid isPermaLink="false">fbe3ae82-a9aa-45be-bac1-29b3d7a09372</guid>
-            <pubDate>Mon, 20 Jun 2016 23:34:55 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Rival Ether Gains Traction]]></title>
             <description><![CDATA[<article><h1>Bitcoin Rival Ether Gains Traction</h1><p>With a rising market value and a roster of high-profile patrons, Ethereum in recent months has become the next hot thing in cryptocurrencies. Ethereum is an open software platform, comprising a currency called ether, a public "blockchain" ledger for keeping track of transactions and tools for building so-called smart contracts that automatically make payments when their terms are fulfilled.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1efe425872497b1d7dbbc7494938a140/noop.jpg?input=https%3A%2F%2Fsi.wsj.net%2Fpublic%2Fresources%2Fimages%2FMI-CQ214_ETHERE_G_20160620181512.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://cointelegraph.com/news/insurance-giant-allianz-to-tame-cat-swaps-with-blockchain</link>
             <guid isPermaLink="false">dd56614c-de02-4762-a916-7a0389f7961c</guid>
             <pubDate>Mon, 20 Jun 2016 19:27:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ledger Nano S Supports Both Bitcoin And Ethereum]]></title>
+            <description><![CDATA[<article><h1>Ledger Nano S Supports Both Bitcoin And Ethereum</h1><p>It appears as if Ledger one of the most popular Bitcoin hardware wallet manufacturers, have released a new model. The Ledger Nano S is a next generation hardware wallet, with open source software and support for multiple currencies. Pre-orders are open to residents all over the world, and shipping will start near the end of July 2016.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/97eee3b7db5b7e591731b4f24022d18a/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_372555793-300x300.jpg"></article>]]></description>
+            <link>http://themerkle.com/ledger-nano-s-supports-both-bitcoin-and-ethereum/</link>
+            <guid isPermaLink="false">5f5d3af9-1af4-4bee-aee1-175898c034d1</guid>
+            <pubDate>Mon, 20 Jun 2016 19:27:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
