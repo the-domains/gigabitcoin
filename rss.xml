@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 19:28:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2016 19:28:06 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deloitte Blockchain Leads Depart to Launch New Startup - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Deloitte Blockchain Leads Depart to Launch New Startup - CoinDesk</h1><p>Three members of Deloitte's blockchain team specializing in building custom distributed ledger products for enterprises have left the organization to found what could be seen as a competing product. Founded in 2015, Deloitte's Rubix blockchain division played an integral role in positioning the company at the forefront of global financial institutions working to tap the emerging technology for new efficiencies.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f3b24bdfa8148c6dd325f423b8be155a/noop.jpg?input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2FIMG_0094.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/deloitte-blockchain-leads-nuco-startup/</link>
+            <guid isPermaLink="false">5c8df573-418f-4728-ab92-260a814f0a6e</guid>
+            <pubDate>Mon, 20 Jun 2016 19:27:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Man Who Claims to Be Bitcoin's Creator is Seeking Blockchain Patents - CoinDesk]]></title>
             <description><![CDATA[<article><h1>The Man Who Claims to Be Bitcoin's Creator is Seeking Blockchain Patents - CoinDesk</h1><p>A new report has shed details on the story of Craig Wright, the Australian academic and businessman who earlier this year sought to prove he was Satoshi Nakamoto, the pseudonymous creator of bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/492e8f5c5beeff0bc2b9e41dac42eb58/croprotate.png?cropheight=1181&cropwidth=1894&degrees=0&input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2FScreen-Shot-2016-06-20-at-12.52.00-PM.png&x=0&y=0"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.newsbtc.com/2016/06/20/simplefx-trade-world-markets-anonymously-using-bitcoin/</link>
             <guid isPermaLink="false">f7127074-b889-420c-a29b-d5741a9fa668</guid>
             <pubDate>Mon, 20 Jun 2016 19:27:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain & Smart Contracts Could Spell Doom for Corporate Law Firms]]></title>
-            <description><![CDATA[<article><h1>Blockchain & Smart Contracts Could Spell Doom for Corporate Law Firms</h1><p>Australia's top law firms are preparing themselves for the disruption of blockchain-led 'smart contracts' with the technology expected to threaten thousands of jobs and the role of lawyers' intermediating commercial negotiations and disputes that will soon be automated by computers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0cb041977481072bc42a87ceedbf1709/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F06%2FEmpty-boardroom.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/lawyers-prepare-for-driverless-ma-as-smart-contract-era-dawns/</link>
-            <guid isPermaLink="false">bc6175e0-a39f-4904-919e-ee75e8bf3862</guid>
-            <pubDate>Mon, 20 Jun 2016 14:14:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
