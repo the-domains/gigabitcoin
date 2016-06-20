@@ -7,13 +7,6 @@
         <lastBuildDate>Mon, 20 Jun 2016 05:14:38 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Recession on the Horizon: What Will a Downturn Mean for Bitcoin?]]></title>
-            <description><![CDATA[<article><h1>Recession on the Horizon: What Will a Downturn Mean for Bitcoin?</h1><p>Many experts believe that the US economy is headed into a recession, and that recession will almost certainly become a pressing issue for whoever the next president is (likely Trump or Clinton). Also read: CryptoGraffiti: Permanently Preserve Images on the Blockchain Fears about the future recession have sparked a conversation about how the next president, whoever that may be, will handle it.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e1665a02ea5ac4a3b4d8e19981317ef4/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fa3369f12-c0b8-11e5-9503-d84cbca18933_1280x720-1.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/recession-horizon-downturn-bitcoin/</link>
-            <guid isPermaLink="false">ab653b87-dd77-474f-b796-3ee20756d07c</guid>
-            <pubDate>Mon, 20 Jun 2016 05:14:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Coin Dance | LocalBitcoins Volume Charts]]></title>
             <description><![CDATA[<article><h1>Coin Dance | LocalBitcoins Volume Charts</h1><p>Community-driven Bitcoin statistics and services.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/62ca00793cfa2e05f7db195be3f79697/noop.gif?input=https%3A%2F%2Fcoin.dance%2Fassets%2Fimage%2Fqrcode.gif"></article>]]></description>
             <link>https://coin.dance/volume/localbitcoins/ALL</link>
@@ -75,6 +68,13 @@
             <link>https://www.quora.com/Can-someone-build-a-Transferwise-application-on-the-blockchain</link>
             <guid isPermaLink="false">87990df8-d672-4243-86ac-75445a6d59a7</guid>
             <pubDate>Sun, 19 Jun 2016 23:04:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Keep Calm & Bitcoin On ...As Brexit Vote Looms]]></title>
+            <description><![CDATA[<article><h1>Keep Calm & Bitcoin On ...As Brexit Vote Looms</h1><p>The much-anticipated Brexit vote will be held this Thursday, June 23rd , with polls showing an almost equal amount of people in favor of remaining as there are people in favor of leaving the EU. This has created an environment of uncertainty, leading people to search for alternative ways to secure their wealth.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/00c3c1c084c6a2ea8138459d36131074/croprotate.jpg?cropheight=831&cropwidth=1247&degrees=0&input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fqueen.jpg&x=0&y=0"></article>]]></description>
+            <link>https://news.bitcoin.com/keep-calm-bitcoin-brexit-looms/</link>
+            <guid isPermaLink="false">f1e9070b-1c0a-46fe-aad7-c60bcabf2f5a</guid>
+            <pubDate>Sun, 19 Jun 2016 22:27:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
