@@ -7,6 +7,13 @@
         <lastBuildDate>Mon, 20 Jun 2016 23:35:35 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Petition urges Walmart Canada to accept bitcoin]]></title>
+            <description><![CDATA[<article><h1>Petition urges Walmart Canada to accept bitcoin</h1><p>A petition on Change.org is calling on Walmart Canada to accept bitcoin as a form of payment. The petition, initiated Sunday by William Bugden of Orangeville, Ontario, was spurred by the company's ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7d2e5cb45e098aa30d1b34aaf09a194f/noop.jpg?input=https%3A%2F%2Fcoinreport.net%2Fwp-content%2Fuploads%2F2016%2F06%2FWalmartRichmondHill-150x150.jpg"></article>]]></description>
+            <link>https://coinreport.net/petition-urges-walmart-canada-accept-bitcoin/</link>
+            <guid isPermaLink="false">ec207303-56ca-43d4-8b0b-b6823741f1be</guid>
+            <pubDate>Mon, 20 Jun 2016 23:34:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Investor Tim Draper is Still Buying Bitcoin and Now Owns Ether - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Investor Tim Draper is Still Buying Bitcoin and Now Owns Ether - CoinDesk</h1><p>The recent rise in the price of bitcoin shows "people are coming around" to the digital currency, according to investor Tim Draper. Long one of the ecosystem's most active investors, Draper is perhaps best known for buying roughly 30,000 BTC as part of the first government auction of the digital currency held in 2014.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/76191e9a18f8ecadd5743e045ac5e07e/noop.jpg?input=http%3A%2F%2Fmedia.coindesk.com%2F2014%2F07%2FTimDraper-wins-silk-road-bitcoin-auction1.jpg"></article>]]></description>
             <link>http://www.coindesk.com/tim-draper-bitcoin-ethereum-buying/</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The Man Who Claimed to Invent Bitcoin Now Wants a Patent Empire</h1><p>Craig Wright, the Australian who claimed to be the inventor of bitcoin, is attempting to build a large patent portfolio around the digital currency and technology underpinning it, according to associates of his and documents reviewed by Reuters.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/417e2f7133f096ec61e8fecdeb9d19f2/croprotate.jpg?cropheight=3841&cropwidth=5760&degrees=0&input=https%3A%2F%2Ffortunedotcom.files.wordpress.com%2F2016%2F05%2Fbitcoin2.jpg&x=0&y=0"></article>]]></description>
             <link>http://fortune.com/2016/06/20/bitcoin-craig-wright-patent/</link>
             <guid isPermaLink="false">06674d99-a3fd-42d1-b652-e4193dfae955</guid>
-            <pubDate>Mon, 20 Jun 2016 19:27:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DAO Soft Fork Revised to Allow Generic "Blacklisting" - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>DAO Soft Fork Revised to Allow Generic "Blacklisting" - Bitcoinist.net</h1><p>The soft fork proposed to fix the sticky situation The DAO has dragged the Ethereum community into is here, and is a perhaps disproportionately drastic to the problem. The proposed solution to the DAO attack is to freeze all funds in the contract by blacklisting the hashes that correspond to the stored Ether.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/57f601445cbdaefebc972e335b4250e6/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F06%2FBlackisting-the-DAO.png"></article>]]></description>
-            <link>http://bitcoinist.net/dao-soft-fork-revised-to-allow-generic-blacklisting/</link>
-            <guid isPermaLink="false">662578df-a492-4588-a41c-2b2ad161bdfe</guid>
             <pubDate>Mon, 20 Jun 2016 19:27:35 GMT</pubDate>
         </item>
     </channel>
