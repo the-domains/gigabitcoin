@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 19:28:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2016 19:29:05 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Foundation Names South African Investor as New Director - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Foundation Names South African Investor as New Director - CoinDesk</h1><p>Bitcoin's oldest trade organization has voted in a new executive director. Weeks after outgoing executive director Bruce Fenton notified the board his term was nearing conclusion (rumors suggested he had resigned), the Bitcoin Foundation has named Llew Claasen to the position.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/12dc1497759a64de3a361c64b7183fb1/croprotate.png?cropheight=1291&cropwidth=1778&degrees=0&input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2FScreen-Shot-2016-06-20-at-8.34.34-AM.png&x=0&y=0"></article>]]></description>
+            <link>http://www.coindesk.com/new-bitcoin-foundation-director-claasen/</link>
+            <guid isPermaLink="false">de5b8324-48fa-4315-8638-dcdbf5cf1da6</guid>
+            <pubDate>Mon, 20 Jun 2016 19:27:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Watch; Tightening the Range - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Watch; Tightening the Range - NEWSBTC</h1><p>Here's what we are looking at this evening in the bitcoin price. So the day has drawn to a close out of Europe, and it's time to put out the second of our twice daily bitcoin price watch analysis pieces.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/208cc4b87aa30d27d847214e2860db35/croprotate.png?cropheight=683&cropwidth=1064&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F20154837%2FScreen-Shot-2016-06-20-at-16.48.04.png&x=0&y=0"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin's Market Cap is Still 50% of Discover Financial Services</h1><p>The recent surge in the price and volume of Bitcoin led to a record-breaking US$12 billion market cap for the digital currency, significantly increasing the demand for Bitcoin in regions including China, South Korea, and the United States.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/50a242e10c1e1644dfc32c230525d910/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2Ffront-of-building.jpg"></article>]]></description>
             <link>http://themerkle.com/bitcoins-market-cap-is-still-50-of-discover-financial-services/</link>
             <guid isPermaLink="false">5d09e7dd-9e06-44d6-97a4-95f240cf009c</guid>
-            <pubDate>Mon, 20 Jun 2016 19:27:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2016-06-16]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-06-16</h1><p>Compactblock and feature freeze Segwit update Replacements with RBF in 0.13 GetBlockTemplate (GBT) BIP152: "Compact block relay" is a proposed idea for decreasing the bandwidth used during block relay by using short transaction IDs for transactions that should be in the mempool of the node.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/06/16/</link>
-            <guid isPermaLink="false">434e04ab-a30c-432a-9e82-1afb362d31c1</guid>
             <pubDate>Mon, 20 Jun 2016 19:27:34 GMT</pubDate>
         </item>
     </channel>
