@@ -4,8 +4,36 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 19:28:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2016 19:28:33 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin's Market Cap is Still 50% of Discover Financial Services]]></title>
+            <description><![CDATA[<article><h1>Bitcoin's Market Cap is Still 50% of Discover Financial Services</h1><p>The recent surge in the price and volume of Bitcoin led to a record-breaking US$12 billion market cap for the digital currency, significantly increasing the demand for Bitcoin in regions including China, South Korea, and the United States.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/50a242e10c1e1644dfc32c230525d910/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2Ffront-of-building.jpg"></article>]]></description>
+            <link>http://themerkle.com/bitcoins-market-cap-is-still-50-of-discover-financial-services/</link>
+            <guid isPermaLink="false">5d09e7dd-9e06-44d6-97a4-95f240cf009c</guid>
+            <pubDate>Mon, 20 Jun 2016 19:27:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2016-06-16]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-06-16</h1><p>Compactblock and feature freeze Segwit update Replacements with RBF in 0.13 GetBlockTemplate (GBT) BIP152: "Compact block relay" is a proposed idea for decreasing the bandwidth used during block relay by using short transaction IDs for transactions that should be in the mempool of the node.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/06/16/</link>
+            <guid isPermaLink="false">434e04ab-a30c-432a-9e82-1afb362d31c1</guid>
+            <pubDate>Mon, 20 Jun 2016 19:27:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Caricoin Launches Bitcoin Wallet for the Financially Underserved in the Caribbean]]></title>
+            <description><![CDATA[<article><h1>Caricoin Launches Bitcoin Wallet for the Financially Underserved in the Caribbean</h1><p>U.K.-based Bitcoin startup Caricoin recently announced the launch of a Bitcoin wallet for the Caribbean. The wallet has been developed in partnership with Palo Alto-based blockchain security company BitGo. According to a press release by the company, the wallet will provide a mobile money solution to users in the Caribbean where access to traditional banking is limited.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8a529824a3fa128dd79dd7b2619b5191/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fcaricoin-launches-bitcoin-wallet-for-the-financially-underserved-in-the-caribbean.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/caricoin-launches-bitcoin-wallet-for-the-financially-underserved-in-the-caribbean-1466435907</link>
+            <guid isPermaLink="false">060995d1-abec-4ab6-9ce4-1ec16da76585</guid>
+            <pubDate>Mon, 20 Jun 2016 19:27:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Transparent Governance and the End of Corruption with Blockchain Technology - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Transparent Governance and the End of Corruption with Blockchain Technology - NEWSBTC</h1><p>The use of blockchain technology has now expanded to the fight against corruption as well. Read more... Among the many advantages of the digital currency, the transparency associated with transactional data stored over the blockchain is the most attractive one.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/793409699ff06f7e430320a246abf9e8/croprotate.jpg?cropheight=1060&cropwidth=1536&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F20163140%2Fcorruption.jpg&x=0&y=0"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/20/transparent-governance-and-the-end-of-corruption-with-blockchain-technology/</link>
+            <guid isPermaLink="false">ecee5f15-0caa-426b-9aa3-9460b9435b18</guid>
+            <pubDate>Mon, 20 Jun 2016 19:27:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['Bitcoin Creator' Craig Wright Is *Actually* Looking to Patent Blockchain Technology]]></title>
             <description><![CDATA[<article><h1>'Bitcoin Creator' Craig Wright Is *Actually* Looking to Patent Blockchain Technology</h1><p>Australian businessman Craig Wright, the man who previously claimed to be the inventor of bitcoin, is looking to amass a massive number of patents that is predictably centered around blockchain technology. Bitcoin is garnering plenty of attention in recent times due to its tremendous surge in value.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc3d0ec5d978dc0d8d9811a3df2c69e74c14eb3e.jpg"></article>]]></description>
@@ -47,34 +75,6 @@
             <link>https://www.quora.com/unanswered/How-do-I-withdraw-Bitcoin-Litecoin-Litecoin-Ethereum-to-PayPal-Perfect-Money-Skrill-Webmoney-instantly</link>
             <guid isPermaLink="false">06161610-1d83-45ca-9b02-31bd778eaddd</guid>
             <pubDate>Mon, 20 Jun 2016 19:27:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Used Underwear Vendors and Assumptions About Smart Contracts]]></title>
-            <description><![CDATA[<article><h1>Used Underwear Vendors and Assumptions About Smart Contracts</h1><p>When doing new things, it is not uncommon to find completely unanticipated results. The recent events impacting TheDAO have opened my eyes to a reality that is very contrary to the one I thought I knew. Why are we interested in smart contracts and what really is their value?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2da82e89570d06b6f9345dab84d4b305/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1830-fc7feea5505941dbc92fc13180df4c0b7a2161694097c4db573e112c9c9c6dd0.jpg"></article>]]></description>
-            <link>https://letstalkbitcoin.com/blog/post/used-underwear-vendors-and-assumptions-about-smart-contracts</link>
-            <guid isPermaLink="false">e3e56022-fa56-45f7-9081-06d96440a5f7</guid>
-            <pubDate>Mon, 20 Jun 2016 19:27:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australian 'bitcoin founder' quietly bidding for patent empire]]></title>
-            <description><![CDATA[<article><h1>Australian 'bitcoin founder' quietly bidding for patent empire</h1><p>SYDNEY/SINGAPORE Craig Wright, the Australian who claimed to be the inventor of bitcoin, is attempting to build a large patent portfolio around the digital currency and technology underpinning it, according to associates of his and documents reviewed by Reuters.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/81f9281276817b572d638ade8bf3a41f/noop?input=http%3A%2F%2Fs2.reutersmedia.net%2Fresources%2Fr%2F%3Fm%3D02%26d%3D20160620%26t%3D2%26i%3D1142071586%26w%3D%26fh%3D545px%26fw%3D%26ll%3D%26pl%3D%26sq%3D%26r%3DLYNXNPEC5J0UG"></article>]]></description>
-            <link>http://www.reuters.com/article/us-bitcoin-wright-patents-idUSKCN0Z61GM</link>
-            <guid isPermaLink="false">b8d98f75-1bac-44ff-9b6d-44d8390dfe41</guid>
-            <pubDate>Mon, 20 Jun 2016 19:27:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Acceptance by WB21 Was Bound to Happen, Others May Follow - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Acceptance by WB21 Was Bound to Happen, Others May Follow - NEWSBTC</h1><p>The Digital bank WB21 recently announced that it will be accepting bitcoin deposits. As the popularity of bitcoin increases, we can expect more banks to follow suit. Bitcoin and the banking sector do not go well together - it is a known fact.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e24220e127d531330b9dba34f3d8440645f1262.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/20/bitcoin-acceptance-wb21-bound-happen-others-may-follow/</link>
-            <guid isPermaLink="false">3bebfff4-8713-4681-afdc-924d3d17f9cf</guid>
-            <pubDate>Mon, 20 Jun 2016 19:27:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Are the Use Cases for Private Blockchains? The Experts Weigh In]]></title>
-            <description><![CDATA[<article><h1>What Are the Use Cases for Private Blockchains? The Experts Weigh In</h1><p>Many people argue that private blockchains, run by private firms, are useless, since they make users dependent upon a third party ‒ the firm managing the blockchain. Many believe that private blockchains currently being considered are not blockchains, but rather, distributed ledger technology which has already existed.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6dd08bdf4e24af20c68d282b0fc342ba/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fwhat-are-the-use-cases-for-private-blockchains-the-experts-weigh-in.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/what-are-the-use-cases-for-private-blockchains-the-experts-weigh-in-1466440884</link>
-            <guid isPermaLink="false">64585a01-7a14-44b0-9926-81fb4bc77d44</guid>
-            <pubDate>Mon, 20 Jun 2016 19:27:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
