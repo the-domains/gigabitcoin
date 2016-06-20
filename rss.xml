@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 05:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2016 05:14:36 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Technical Analysis for 06/20/2016 - Potential Selloff Levels - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 06/20/2016 - Potential Selloff Levels - NEWSBTC</h1><p>Bitcoin price could be in for a sharp drop if traders decide to book profits off their recent long positions. Bitcoin Price Key Highlights Bitcoin price could be in for a sharp drop if traders decide to book profits off their recent long positions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f532922f6b7d4ceab56fce0140d49e0c/croprotate.png?cropheight=887&cropwidth=1535&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F20043614%2F160620_btcusd.png&x=0&y=0"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/20/bitcoin-price-technical-analysis-06202016-potential-selloff-levels/</link>
+            <guid isPermaLink="false">8c8fc288-06b0-4b78-a112-1b97e2f583cb</guid>
+            <pubDate>Mon, 20 Jun 2016 05:14:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Singapore: Bitcoin exchange Quoine raises $20m venture investment]]></title>
             <description><![CDATA[<article><h1>Singapore: Bitcoin exchange Quoine raises $20m venture investment</h1><p>Quoine , a Singapore-based Bitcoin exchange, has closed a $20 million funding round, leveraging off the large opportunity for Bitcoin in the Japanese market, led by venture capitalists (VCs) and other 'strategic investors'. The latest investment will see it shift its headquarters to Tokyo from Singapore. The Singapore office will remain as a subsidiary.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8261327ababefab6aa9600b5c54e4d3c/noop.jpg?input=http%3A%2F%2Fwww.dealstreetasia.com%2Fwp-content%2Fuploads%2F2016%2F06%2Flargestbtcdeals-1024x1024.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://themerkle.com/self-driving-tractors-and-cloud-technology-increase-agricultural-efficiency/</link>
             <guid isPermaLink="false">c0426946-1b4b-4dde-8ac6-96a19c39f8f4</guid>
             <pubDate>Sun, 19 Jun 2016 22:27:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CryptoGraffiti: Permanently Preserve Images on the Blockchain]]></title>
-            <description><![CDATA[<article><h1>CryptoGraffiti: Permanently Preserve Images on the Blockchain</h1><p>Cryptograffiti.info is a web service that allows people to encode hidden messages into Bitcoin's blockchain using a special online interface. It has recently added a new and possibly revolutionary functionality - JPG image writing to the blockchain.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c43312319e7abd4cd5c9b6eaac88427a/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fgraffiti.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/cryptograffiti-images-blockchain/</link>
-            <guid isPermaLink="false">fc8d0ece-5216-4a8e-af04-bbd6cf8d5197</guid>
-            <pubDate>Sun, 19 Jun 2016 22:27:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
