@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 05:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2016 05:14:37 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Is buying and instantly selling bitcoin a good way to avoid exchange rates?]]></title>
-            <description><![CDATA[<article><h1>Is buying and instantly selling bitcoin a good way to avoid exchange rates?</h1><p>Answer (1 of 2): The key factor here is currency risk (see: Currency Risk Definition & Example), which manifests itself as the cost of starting in one currency and ending in another. For example: If you have EUR and want to buy USD, you have to find someone who already holds USD and is willing t...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
-            <link>https://www.quora.com/Is-buying-and-instantly-selling-bitcoin-a-good-way-to-avoid-exchange-rates</link>
-            <guid isPermaLink="false">a5f94b78-b99d-4847-ab4a-1addcd6fd175</guid>
-            <pubDate>Mon, 20 Jun 2016 05:14:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Andrew Vegetabile of Litecoin Association Opposes DAO Fork - Bitcoinist.net]]></title>
             <description><![CDATA[<article><h1>Andrew Vegetabile of Litecoin Association Opposes DAO Fork - Bitcoinist.net</h1><p>Andrew Vegetabile, Director of the Litecoin Association, came out against a fork of Ethereum/The DAO, Decrying interference with The DAO by outside crypto developers in an open letter to "Vitalik Buterin, The DAO, future smart contract developers, and the throngs of individuals within the crypto ecosystem" today.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d67f5a9573731122725dc024d3f3c3a6/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F06%2FLiecoinDao.png"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Technical Analysis: Bitcoin Price Cycle Nearing a Close</h1><p>While fundamental analysts predict a continued rally to $1000 and beyond for the foreseeable future, technical indicators paint a more detailed picture. According to the charts, the ride up to $1000 will be bumpy, with periods of profit taking and resistance, especially around the $800 range.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/eb072e52d89e0383fe0c76c15cac10e6/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F06%2Fbitcoin-june-19th-long.jpg"></article>]]></description>
             <link>http://bitcoinist.net/technical-analysis-bitcoin-price-close/</link>
             <guid isPermaLink="false">d0a10d90-55ac-4622-b560-c6f442dc5c4d</guid>
+            <pubDate>Sun, 19 Jun 2016 22:27:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum's Solidity Flaw Exploited in DAO Attack Says Cornell Researcher]]></title>
+            <description><![CDATA[<article><h1>Ethereum's Solidity Flaw Exploited in DAO Attack Says Cornell Researcher</h1><p>Ethereum itself seems to be flawed according to the latest developments on the DAO Hack. Philip Daian, a researcher at Cornell University's Initiative for Crytocurrencies & Contracts, just presented his latest findings on the hack, concluding: I would lay at least 50% of the blame for this exploit squarely at the feet of the design of the Solidity language.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/20da66f7508e274b95ca59638b2b9ed5/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F06%2FWeak-log-flaw.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/ethereum-solidity-flaw-dao/</link>
+            <guid isPermaLink="false">8371f53a-dd1a-420a-8224-2302f4424f41</guid>
             <pubDate>Sun, 19 Jun 2016 22:27:22 GMT</pubDate>
         </item>
     </channel>
