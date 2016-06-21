@@ -7,28 +7,29 @@ publisher:
   favicon: 'https://www.quora.com/favicon.ico'
   domain: www.quora.com
 keywords:
-  - trump
-  - choicest
-  - non-competitive
-  - york--we
-  - warming
-  - quotes
-  - hmmm
-  - global
-  - shall
-  - freezing
+  - piety
+  - core
+  - modesty
+  - purity
+  - virtues
+  - antiquity
+  - lifestyle
+  - vary
+  - confuse
+  - emphasized
 description: >-
-  Edit: One commenter thinks the quotes are taken out of context. Many of these
-  are lifted directly from Trump's twitter. Hmmm let's have a look at some of
-  Donald Trump's choicest quotes, shall we? The concept of global warming was
-  created by and for the Chinese in order to make U.S.
+  A lifestyle that promotes purity, modesty, piety, freedom, community and
+  related virtues has been a thing since antiquity. I don't think it ever goes
+  away, though certainly the issues that are emphasized in public debate will
+  vary over time. The core part that remains is the part you don't hear about in
+  the news, because it is not controversial.
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  https://www.quora.com/unanswered/Is-mining-required-for-all-blockchain-transactions-or-only-for-Bitcoin
+  https://www.quora.com/Is-mining-required-for-all-blockchain-transactions-or-only-for-Bitcoin
 title: Is mining required for all blockchain transactions or only for Bitcoin?
-datePublished: '2016-06-21T03:40:56.194Z'
-dateModified: '2016-06-20T23:36:28.972Z'
+datePublished: '2016-06-21T13:12:14.272Z'
+dateModified: '2016-06-21T04:36:12.910Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-21-is-mining-required-for-all-blockchain-transactions-or-only-f.md
@@ -39,4 +40,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Is mining required for all blockchain transactions or only for Bitcoin?</h1><p>Edit: One commenter thinks the quotes are taken out of context. Many of these are lifted directly from Trump's twitter. Hmmm let's have a look at some of Donald Trump's choicest quotes, shall we? The concept of global warming was created by and for the Chinese in order to make U.S.</p><img src="https://qsf.ec.quoracdn.net/-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png" /></article>
+<article style=""><h1>Is mining required for all blockchain transactions or only for Bitcoin?</h1><p>A lifestyle that promotes purity, modesty, piety, freedom, community and related virtues has been a thing since antiquity. I don't think it ever goes away, though certainly the issues that are emphasized in public debate will vary over time. The core part that remains is the part you don't hear about in the news, because it is not controversial.</p><img src="https://qsf.ec.quoracdn.net/-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png" /></article>
