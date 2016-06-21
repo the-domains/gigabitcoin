@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 03:41:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 03:41:36 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Tatiana Show - Philip Asare Of BTC Ghana | Lets Talk Bitcoin]]></title>
+            <description><![CDATA[<article><h1>The Tatiana Show - Philip Asare Of BTC Ghana | Lets Talk Bitcoin</h1><p>Tatiana and Josh interview Philip Agyei Asare of BTCGhana. (please note there were some technical difficulties during the recording of this episode but they do clear up during the second half of the show) Topics of discussion include real life uses of Bitcoin in Ghana, MoneyGrams in Africa, and mobile money systems. Philip is a libertarian, and a founder of Pak Universal Services and is also the founder of Dream Foundation Ghana.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7e7510108d2cf685e8f1bda85c0f8f4c/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1817-581bd95fd6efc9b738ec20d0ae364d171e507b5c09857c1eaf1ea79e1f9e6bf4.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/the-tatiana-show-philip-asare-of-btc-ghana</link>
+            <guid isPermaLink="false">a705f401-1a9e-43a1-b2f1-25080880a4ed</guid>
+            <pubDate>Tue, 21 Jun 2016 03:40:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Group of angry investors say Bitcoin startup had "hallmarks of a Ponzi scheme"]]></title>
             <description><![CDATA[<article><h1>Group of angry investors say Bitcoin startup had "hallmarks of a Ponzi scheme"</h1><p>SEC: Josh Garza and GAW Miners "robbed one investor to pay another." An angry group of former customers have sued a collapsed Bitcoin mining company, GAW Miners, in a proposed class-action lawsuit, alleging that they were duped by the company and its founders.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/320acd8eea70a7d8d18dca0b2bfe7b9a/croprotate.jpg?cropheight=352&cropwidth=640&degrees=0&input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F06%2Fhashlet.solo-copy-640x366.jpg&x=0&y=7"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://bitcoinmagazine.com/articles/the-dao-was-not-hacked-mt-gox-1466451376</link>
             <guid isPermaLink="false">c5d2d7a5-1587-48f3-8f53-d60858a7b788</guid>
             <pubDate>Mon, 20 Jun 2016 23:34:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Ethminer 0.9.41-genoil-1.1.6 pre-release Windows Binary]]></title>
-            <description><![CDATA[<article><h1>New Ethminer 0.9.41-genoil-1.1.6 pre-release Windows Binary</h1><p>Time for a new Windows binary of the latest pre-release version of Genoil's ethminer 0.9.41 fork 1.1.6 ( source). This time the focus is the addition for support of Nicehash's Ethereum stratum implementation with extranonce subscribe for optimum performance when mining altcoins based on the Dagger-Hashimoto algorithm such as Ethereum (ETH).</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/49e5dadddb775ad9c3bc949dc325c582/noop.jpg?input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fethminer-genoil-1-1-6-pre-nicehash-stratum-580x293.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/8001-new-ethminer-0-9-41-genoil-1-1-6-pre-release-windows-binary/</link>
-            <guid isPermaLink="false">a1f6042e-80f1-43a9-b8a9-d1fb4094bdfa</guid>
-            <pubDate>Mon, 20 Jun 2016 23:34:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
