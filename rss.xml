@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 03:41:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 03:41:37 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is mining required for all blockchain transactions or only for Bitcoin?]]></title>
+            <description><![CDATA[<article><h1>Is mining required for all blockchain transactions or only for Bitcoin?</h1><p>Edit: One commenter thinks the quotes are taken out of context. Many of these are lifted directly from Trump's twitter. Hmmm let's have a look at some of Donald Trump's choicest quotes, shall we? The concept of global warming was created by and for the Chinese in order to make U.S.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/Is-mining-required-for-all-blockchain-transactions-or-only-for-Bitcoin</link>
+            <guid isPermaLink="false">f8f4ff57-d482-4a6a-9201-aa9d9e8533b0</guid>
+            <pubDate>Tue, 21 Jun 2016 03:40:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Legal Analysis of the DAO Exploit - Bitcoin News]]></title>
             <description><![CDATA[<article><h1>A Legal Analysis of the DAO Exploit - Bitcoin News</h1><p>NOTHING IN THIS ANALYSIS IS LEGAL ADVICE. IF YOU NEED LEGAL ADVICE, SEEK OUT A QUALIFIED ATTORNEY. News broke early Friday morning that TheDao had been exploited using a code error in TheDao software that caused a user to be paid extra amounts of ETH held by TheDao when executing a split proposal which would create a new child Dao containing the extra ETH taken from TheDao.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1fd7e08a4919c2c20443c2e8f0767baa/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2Flegal.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Debit Cards: Convenience Vs. Drawbacks</h1><p>Many Bitcoin enthusiasts are using one - or multiple - of the available debit cards in circulation today. But there are some drawbacks to this system and a price to pay for convenience. Moving funds out of these third-party wallets, for example, can be rather tricky.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/276d1cb150f5ce1273e225712a7745eb/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_324669410.jpg"></article>]]></description>
             <link>http://themerkle.com/bitcoin-debit-cards-convenience-vs-drawbacks/</link>
             <guid isPermaLink="false">78a286cf-f086-48da-8e92-2d43f39598de</guid>
-            <pubDate>Mon, 20 Jun 2016 23:34:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Bitcoin Foundation Director Claasen 'Exactly What Is Needed']]></title>
-            <description><![CDATA[<article><h1>New Bitcoin Foundation Director Claasen 'Exactly What Is Needed'</h1><p>The Bitcoin Foundation has "unanimously" voted for Llew Claasen to be its new Executive Director, replacing the incumbent Bruce Fenton. Also read: Bitcoin Foundation Has a Few Months Left, Recent Gift Not Enough Claasen's appointment was agreed at a vote June 14, the Foundation said in a press release issued today.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/977653c14066bdc692440d9a42cf59e4/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2FConference-Table.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/bitcoin-foundation-claasen/</link>
-            <guid isPermaLink="false">8053d907-66c4-4417-b76b-ba7d96f24944</guid>
             <pubDate>Mon, 20 Jun 2016 23:34:58 GMT</pubDate>
         </item>
     </channel>
