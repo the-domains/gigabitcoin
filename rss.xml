@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 22 Jun 2016 14:05:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2016 14:05:14 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ripple Adds 7 New Financial Institutions as Tech Partners - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Ripple Adds 7 New Financial Institutions as Tech Partners - CoinDesk</h1><p>San Francisco-based distributed ledger tech startup Ripple has added seven new partner financial institutions. Announced today, ATB Financial, the Canadian Imperial Bank of Commerce (CIBC), National Bank of Abu Dhabi (NBAD), Reisebank, Santander, UniCredit and UBS have all revealed that they are using the technology, though Ripple said the specific use cases each partner is pursuing varies.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9b3688a83beebb84c50f43842ad4a966/croprotate.png?cropheight=736&cropwidth=1500&degrees=0&input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2FScreen-Shot-2016-06-22-at-12.08.28-AM-e1466568599221.png&x=0&y=0"></article>]]></description>
+            <link>http://www.coindesk.com/7-financial-institutions-announce-partnerships-ripple/</link>
+            <guid isPermaLink="false">12f6f4ee-eef5-4af8-875f-0ef8a8e6263b</guid>
+            <pubDate>Wed, 22 Jun 2016 14:04:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hyperledger Project Adds 7 New Members - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Hyperledger Project Adds 7 New Members - CoinDesk</h1><p>The Linux Foundation-led Hyperledger project has added seven new members to its open-source "business blockchain" effort. New members announced today include blockchain technology firms BitSE, MonetaGo and Norbloc, along with Moscow Exchange, Russia's largest exchange group. The announcement finds Hyperledger opening up to new international technology members, with China-based Belink Technologies and Onchain joining the effort ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76b14c8a463c77253908b367e0c0f3cbb9a82224.png"></article>]]></description>
+            <link>http://www.coindesk.com/hyperledger-project-moscow-exchange-seven-members/</link>
+            <guid isPermaLink="false">7d5f63b1-d065-47d0-91f4-76d2ea336b17</guid>
+            <pubDate>Wed, 22 Jun 2016 14:04:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Suffers Nasty Plunge, but It's Too Early to Panic]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Suffers Nasty Plunge, but It's Too Early to Panic</h1><p>Some unfortunate news is in the bitcoin books. Following an outage of global digital currency exchange Bitfinex, everybody's favorite coin has undergone quite a plunge, and is hovering around $671 USD at press time, a drop of nearly $100 in the last 48 hours. Also read: Bitcoin Price to Hit $1,000 Again?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce40a8509e45de18262bd860997d0ff8ad7da03d.png"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Watch; A Cautionary Tale - NEWSBTC</h1><p>Here's how we are approaching the bitcoin price market this evening, with our range, stops and targets in place. If all we seem to be doing at the moment is offering up cautionary tales, it's because that's exactly what we are doing.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/57efc4f0dbc41d1f21f3205d4c63d29e/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F21161316%2FScreen-Shot-2016-06-21-at-17.03.54.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/06/21/bitcoin-price-watch-cautionary-tale/</link>
             <guid isPermaLink="false">1d81a4b5-2b7a-4486-8d92-a6bcace65715</guid>
-            <pubDate>Wed, 22 Jun 2016 03:20:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can The $50m Heist Of The DAO Take Down Bitcoin's Rival Blockchain?]]></title>
-            <description><![CDATA[<article><h1>Can The $50m Heist Of The DAO Take Down Bitcoin's Rival Blockchain?</h1><p>Front Page Of The DAO Just a few short days ago I mentioned the arrival of The DAO, a company without any employees, management or leadership that lives entirely upon a public blockchain, at the end of my article on What Venture Capitalists look for in a Blockchain Startup, stating that [...]</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/53444f2c0d94e4d7ae7d08d2c560d83a/croprotate.png?cropheight=673&cropwidth=1200&degrees=0&input=http%3A%2F%2Fblogs-images.forbes.com%2Fjonathanchester%2Ffiles%2F2016%2F05%2FScreen-Shot-2016-05-20-at-8.54.17-AM-1200x674.png&x=0&y=0"></article>]]></description>
-            <link>http://www.forbes.com/sites/jonathanchester/2016/06/21/can-the-50m-heist-of-the-dao-take-down-bitcoins-rival-blockchain/</link>
-            <guid isPermaLink="false">97268cd9-d8ed-4658-93a4-4362cd5056b7</guid>
-            <pubDate>Wed, 22 Jun 2016 03:20:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Post-Trade Blockchain Startup in Limbo After Raising $10 Million - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Post-Trade Blockchain Startup in Limbo After Raising $10 Million - CoinDesk</h1><p>Sweden-based blockchain startup Cryex is pushing back against reports it is seeking capital to stay afloat, instead pinning its lack of outward momentum and low earnings on a slow regulatory environment. Rising to prominence in May 2015 with $10m in funding, Cryex was among the first startups to explore blockchain technology in post-trade, a proposition that attracted investors including White Star Capital and Northzone Ventures.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/195bbee3f02ff66b5fbbff1a97b4a46a/noop.png?input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2FScreen-Shot-2016-06-21-at-8.38.53-AM-e1466517800739.png"></article>]]></description>
-            <link>http://www.coindesk.com/cryex-blockchain-post-trade-regulation/</link>
-            <guid isPermaLink="false">c25ae1fe-c8d8-44cd-9cf5-313724ef04fe</guid>
             <pubDate>Wed, 22 Jun 2016 03:20:31 GMT</pubDate>
         </item>
     </channel>
