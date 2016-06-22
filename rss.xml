@@ -7,13 +7,6 @@
         <lastBuildDate>Wed, 22 Jun 2016 14:05:14 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Seafile Drops PayPal After Refusing to Spy On Users]]></title>
-            <description><![CDATA[<article><h1>Seafile Drops PayPal After Refusing to Spy On Users</h1><p>PayPal is one of the most commonly used online payment methods in the world. At the same time, this company can force merchants to monitor user behavior or risk being cut off from the payment network. As a result, the Seafile project decided to drop PayPal due to their invasive requests.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/feda846928096243c5ef0c9492bcc9f9/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_81112846.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/seafile-drops-paypal-refusing-spy-users/</link>
-            <guid isPermaLink="false">b57ad662-d58c-40f9-a29a-3f014d515eb9</guid>
-            <pubDate>Wed, 22 Jun 2016 14:04:37 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Kazakhstan to Annouce a List of Blockchain Projects Soon]]></title>
             <description><![CDATA[<article><h1>Kazakhstan to Annouce a List of Blockchain Projects Soon</h1><p>The announcement was made by the country's head financial regulator Daniyar Akishev in a press conference held in Almaty. The National Bank of Kazakhstan recently expressed its inclinations towards releasing a number of cryptocurrencies projects. The announcement was made by the country's head financial regulator Daniyar Akishev in a press conference held in Almaty.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c86a53d30dc7d1dce81aea902159ab0d/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F22125734%2Fnational-bank-of-kazakhstan.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/06/22/national-bank-kazakhstan-announces/</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Bitcoin Payroll Comes to Mexico With Bitwage-Bitso Partnership</h1><p>Bitso has begun offering Bitcoin payroll services to Mexican workers. Thanks to a partnership with payroll service Bitwage, the cryptocurrency exchange now allows workers to be paid in Bitcoin and receive pesos.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e30ff5da02e9e4767d52fbd82a397491/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3L2VkNmRiMTkyNzVmYmYzYzMxOWNhNGY1NTI5MTI0ZjZiLmpwZw%3D%3D.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/bitcoin-payroll-comes-to-mexico-with-bitwage-bitso-partnership</link>
             <guid isPermaLink="false">e7755823-2ebf-4417-bd13-c4e15ced4406</guid>
+            <pubDate>Wed, 22 Jun 2016 03:20:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitfinex Market Freeze Sends Bitcoin Price Crashing]]></title>
+            <description><![CDATA[<article><h1>Bitfinex Market Freeze Sends Bitcoin Price Crashing</h1><p>Bitfinex, one of the biggest bitcoin exchanges, went down for the second time within a day today at 10AM London time for four hours following "network issues" within Bitfinex's datacentres according to Zane Tackett, Director of Community and Product Development. The unexpected suspension of trading sent price crashing last night to $700 from almost $780.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/df4ce815b4dc8dda83bcd9fcbcae5b38/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F04%2FLight-bulb-offline.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitfinex-market-freeze-bitcoin-crashing/</link>
+            <guid isPermaLink="false">a02eaf1a-91b0-47e4-8955-1bb1e38b527d</guid>
             <pubDate>Wed, 22 Jun 2016 03:20:31 GMT</pubDate>
         </item>
     </channel>
