@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 22 Jun 2016 03:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2016 03:21:12 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The CSV soft fork has reached the "locked in" point of no return. The new rules will activate on block 419328.</p>]]></description>
+            <link>https://www.twitter.com/bitcoincoreorg/status/745245527013416961</link>
+            <guid isPermaLink="false">680e5165-6ce6-4e82-9042-9030530866d1</guid>
+            <pubDate>Wed, 22 Jun 2016 03:20:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[X11 ASIC Miners Daily Profitability At the Moment]]></title>
+            <description><![CDATA[<article><h1>X11 ASIC Miners Daily Profitability At the Moment</h1><p>It seems that there are already more than enough X11 ASIC miners available in order to essentially kill the profitability and make the purchase of a new X11 ASIC unprofitable on the long run. So what remains is the purchase of a small and affordable X11 ASIC miner for hobby miners that are not there just for the profit like most other miners are.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bdd31459e7656a115e307d3d87cb7323/noop.jpg?input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fwhattomine-x11-asics-580x356.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/8005-x11-asic-miners-daily-profitability-at-the-moment/</link>
+            <guid isPermaLink="false">992ab0b5-88e2-4a85-bf93-2910e6b671ab</guid>
+            <pubDate>Wed, 22 Jun 2016 03:20:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ten Cities Collaborate On Regulatory Framework For Uber and Airbnb]]></title>
             <description><![CDATA[<article><h1>Ten Cities Collaborate On Regulatory Framework For Uber and Airbnb</h1><p>Disruption is often greeted with a lot of opposition and harsh regulation. Doing so curbs enthusiasm and innovation at an early stage, and companies such as Uber and Airbnb are not making too many friends among governments and councils. But ten different cities around the world are actively collaborating with these companies for a proper regulatory framework.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1b02a12032f834a565818cc575d91649/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_426879817.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>US regulators say bitcoin poses 'financial stability risks' - FT.com</h1><p>A powerful club of US regulators has warned that the growing popularity of bitcoin and other digital currencies is posing potential financial stability risks as it revealed they are being put under closer scrutiny. A group that includes the Treasury</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/26def40f6d09d4814b78fc4960e74e44/noop.img?input=http%3A%2F%2Fim.ft-static.com%2Fcontent%2Fimages%2Fede12428-c023-468d-a671-1450167e20f2.img"></article>]]></description>
             <link>http://www.ft.com/cms/s/0/e0880cf6-3800-11e6-9a05-82a9b15a8ee7.html</link>
             <guid isPermaLink="false">a80b40e4-7554-47be-b31c-33999a905c9a</guid>
-            <pubDate>Wed, 22 Jun 2016 03:20:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Where will my bitcoins go?]]></title>
-            <description><![CDATA[<article><h1>Where will my bitcoins go?</h1><p>Answer (1 of 4): If you don't have a backup, they're locked in the address in which they currently reside. They will remain there for as long as it takes for someone to find the private key to unlock them. They will not disappear from teh ecosystem because they will never leave the ecosystem.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
-            <link>https://www.quora.com/Where-will-my-bitcoins-go</link>
-            <guid isPermaLink="false">8002cec5-bee4-4c03-99f2-2f43b5e86e9a</guid>
-            <pubDate>Wed, 22 Jun 2016 03:20:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Counter-Attack on The DAO Quickly Drains Its Funds]]></title>
-            <description><![CDATA[<article><h1>The Counter-Attack on The DAO Quickly Drains Its Funds</h1><p>A white hat attack on The DAO led by Alex Van der Sande of the Ethereum Foundation has been launched to protect its funds. As the recursive call vulnerability of The DAO's contract has not been fixed, the attackers will inevitably repeat their attacks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c612fb2cd1b7510fab1c2440f5803bc3/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F06%2Fbitcoinnews03-1.png"></article>]]></description>
-            <link>http://forklog.net/the-counter-attack-on-the-dao-quickly-drains-its-funds/</link>
-            <guid isPermaLink="false">30023d7e-333d-4d44-a79f-521d85632798</guid>
             <pubDate>Wed, 22 Jun 2016 03:20:27 GMT</pubDate>
         </item>
     </channel>
