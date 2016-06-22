@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 22 Jun 2016 03:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2016 03:21:06 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Central Bank of Canada revealed the digital Cad coin | HolyTransaction]]></title>
+            <description><![CDATA[<article><h1>Central Bank of Canada revealed the digital Cad coin | HolyTransaction</h1><p>Yesterday the Central Bank of Canada announced its new project: Cad coin, or the digital version of the Canadian dollar based on the blockchain. Cad coin is just a part of a greater study about the blockchain, called "Project Jasper" , according to The Financial Times.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a72bb160fa02ec67a5cee83d09856a97/noop.jpg?input=https%3A%2F%2F3.bp.blogspot.com%2F-ERNNlW_oT3k%2FV2nSMa9tMFI%2FAAAAAAAAAjk%2FrrXIkl_xvRM8UlOk-cmz6mmGq4zqKk47wCLcB%2Fw1200-h630-p-nu%2Fcanada-1555109.jpg"></article>]]></description>
+            <link>http://blog.holytransaction.com/2016/06/central-bank-of-canada-revealed-digital.html</link>
+            <guid isPermaLink="false">0f7c6e99-ebfd-49cf-8dca-50129882997b</guid>
+            <pubDate>Wed, 22 Jun 2016 03:20:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Circle Execs: The DAO Proves Blockchains Require Trust - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Circle Execs: The DAO Proves Blockchains Require Trust - CoinDesk</h1><p>Circle co-founders Jeremy Allaire and Sean Neville are the latest high-profile blockchain entrepreneurs to weigh in on the ongoing crisis with The DAO, the ethereum-based distributed autonomous organization that saw millions in customer funds compromised last week.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9e9aecf48188842735247d51f968d1a4/noop.png?input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2FScreen-Shot-2016-06-21-at-9.45.25-PM-e1466560174125.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitfinex Outage Causes Temporary 9% BTC/USD Price Plunge - Bitcoinist.net</h1><p>The Bitcoin price has taken a tumble today with the Bitfinex trading outage, starting around 5 PM Eastern Time, and continuing into the night. This news follows scheduled maintenance on th 17th. Bitfinex is citing "server migration issues" as the source of the outage delaying their projected re-launch time several times while attempting to fix the problem, allowing bursts of cancellation requests through as they worked.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3a52da4555fc339e7c4e76db64de9fa9/croprotate.png?cropheight=501&cropwidth=988&degrees=0&input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F06%2FOutageChart-1024x544.png&x=19&y=19"></article>]]></description>
             <link>http://bitcoinist.net/bitfinex-outage-causes-temporary-9-btc-price-plunge/</link>
             <guid isPermaLink="false">545680a2-0170-4236-8970-b1854f05018b</guid>
-            <pubDate>Tue, 21 Jun 2016 13:12:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is mining required for all blockchain transactions or only for Bitcoin?]]></title>
-            <description><![CDATA[<article><h1>Is mining required for all blockchain transactions or only for Bitcoin?</h1><p>A lifestyle that promotes purity, modesty, piety, freedom, community and related virtues has been a thing since antiquity. I don't think it ever goes away, though certainly the issues that are emphasized in public debate will vary over time. The core part that remains is the part you don't hear about in the news, because it is not controversial.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
-            <link>https://www.quora.com/Is-mining-required-for-all-blockchain-transactions-or-only-for-Bitcoin</link>
-            <guid isPermaLink="false">9f1b887f-07ea-438a-84cc-d3f6e4458685</guid>
             <pubDate>Tue, 21 Jun 2016 13:12:14 GMT</pubDate>
         </item>
     </channel>
