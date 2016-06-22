@@ -29,12 +29,12 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  http://cointelegraph.com/news/silk-road-related-auction-bitfinex-timeout-responsible-for-slide-in-bitcoin-price
+  https://cointelegraph.com/news/silk-road-related-auction-bitfinex-timeout-responsible-for-slide-in-bitcoin-price
 title: >-
   Silk Road-Related Auction, Bitfinex Timeout Responsible for Slide in Bitcoin
   Price
-datePublished: '2016-06-22T03:20:31.217Z'
-dateModified: '2016-06-21T15:42:56.954Z'
+datePublished: '2016-06-22T14:04:37.779Z'
+dateModified: '2016-06-22T12:13:42.499Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-22-silk-road-related-auction-bitfinex-timeout-responsible-for.md
