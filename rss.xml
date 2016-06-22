@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 22 Jun 2016 03:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2016 03:21:17 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Could cryptocurrency "insurance" slow Bitcoin adoption?]]></title>
+            <description><![CDATA[<article><h1>Could cryptocurrency "insurance" slow Bitcoin adoption?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Does the concept of cryptocurrency "insurance" undermine the purpose of "being your own bank"?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46064/could-cryptocurrency-insurance-slow-bitcoin-adoption</link>
+            <guid isPermaLink="false">5541627a-0f27-4f2d-a045-931c92991fa0</guid>
+            <pubDate>Wed, 22 Jun 2016 03:20:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The CSV soft fork has reached the "locked in" point of no return. The new rules will activate on block 419328.</p>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin's Price Decline Sparks Flywheel Effect in Crypto Markets</h1><p>The price of Bitcoin took a dive during June 20th from a high of $737 USD at 23:00 UTC and has floored to $666 at press time on Also read: The Impostor Emerges: Craig Wright Files 50+ Blockchain Patents Bitcoin.com's Kaiko index .</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/eed1ee6896274e0a8003f5d11646804d/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fbitfinex-major-outage-1.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/bitcoin-price-decline-flywheel-effect/</link>
             <guid isPermaLink="false">ceb2a521-37fb-45b9-9010-c55ab95f9511</guid>
-            <pubDate>Wed, 22 Jun 2016 03:20:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[7 Financial Firms to Build Post-Trade Blockchain for Small Businesses - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>7 Financial Firms to Build Post-Trade Blockchain for Small Businesses - CoinDesk</h1><p>Seven financial institutions have combined forces to explore how blockchain tech could help lower the costs of providing post-trade settlement services to small- to medium-sized enterprises (SMEs). BNP Paribas Securities Services, Caisse des Dépôts, Euroclear, Euronext, S2iEM, Société Générale and Paris EUROPLACE announced today they have signed a memorandum of understanding to develop the initiative.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/247ee0ba4338061ebfbf8a5d786ef885/noop.jpg?input=http%3A%2F%2Fmedia.coindesk.com%2F2015%2F05%2FEurope-map.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/fis-post-trade-blockchain-small-businesses/</link>
-            <guid isPermaLink="false">2bdc86f9-9a46-4103-b0bf-1bf5a49e13fc</guid>
             <pubDate>Wed, 22 Jun 2016 03:20:27 GMT</pubDate>
         </item>
     </channel>
