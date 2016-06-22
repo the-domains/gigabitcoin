@@ -27,10 +27,10 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  https://cointelegraph.com/news/bitcoin-is-potential-national-threat-says-us-regulator
+  http://cointelegraph.com/news/bitcoin-is-potential-national-threat-says-us-regulator
 title: 'Bitcoin is Potential National Threat, Says U.S. Regulator'
-datePublished: '2016-06-22T14:04:37.595Z'
-dateModified: '2016-06-22T12:13:46.062Z'
+datePublished: '2016-06-22T14:04:41.019Z'
+dateModified: '2016-06-22T11:42:54.680Z'
 starred: false
 sourcePath: _posts/2016-06-22-bitcoin-is-potential-national-threat-says-us-regulator.md
 inFeed: true
