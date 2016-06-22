@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 22 Jun 2016 03:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2016 03:23:09 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CSV softfork - Important upgrade instructions for miners]]></title>
+            <description><![CDATA[<article><h1>CSV softfork - Important upgrade instructions for miners</h1><p>There is an ongoing soft fork of the Bitcoin consensus rules. While everything appears to be proceeding well, this article contains important information and checklists for miners and pool operators which must not be ignored. If there is any doubt, miners and pool operators are welcome to contact us.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/2016/06/21/csv-softfork-instructions/</link>
+            <guid isPermaLink="false">c8a16ada-4d03-46e6-8b80-f29f5d530a03</guid>
+            <pubDate>Wed, 22 Jun 2016 03:20:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://imgur.com/v2fpCb4.png"></article>]]></description>
+            <link>http://imgur.com/v2fpCb4</link>
+            <guid isPermaLink="false">68d7b7a1-40b1-4842-8e11-fd4497653a5d</guid>
+            <pubDate>Wed, 22 Jun 2016 03:20:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Attack the network by temporarily adding hash power?]]></title>
+            <description><![CDATA[<article><h1>Attack the network by temporarily adding hash power?</h1><p>Could a malicious actor (e.g. government) attack the network by introducing significant compute power into the network, and once the difficulty grows very high, withdraw all resources from the netw...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46042/attack-the-network-by-temporarily-adding-hash-power</link>
+            <guid isPermaLink="false">4714c9b4-909e-4112-92e1-f5f20a6827fe</guid>
+            <pubDate>Wed, 22 Jun 2016 03:20:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bank of England Launches Fintech Accelerator, Partners With PwC on Distributed Ledger Project]]></title>
             <description><![CDATA[<article><h1>Bank of England Launches Fintech Accelerator, Partners With PwC on Distributed Ledger Project</h1><p>In a speech prepared for the Lord Mayor's Banquet for Bankers and Merchants of the City of London at the Mansion House, Mark Carney, governor of the Bank of England (BoE), revealed that the BoE is launching a fintech accelerator.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2af6a2f13d6796819657253dd0b6ed05/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fbank-of-england-launches-fintech-accelerator-partners-with-pwc-on-distributed-ledger-project.jpg"></article>]]></description>
@@ -35,13 +56,6 @@
             <pubDate>Wed, 22 Jun 2016 03:20:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Around July 10, the Bitcoin Supply Will Grow Half as Quickly]]></title>
-            <description><![CDATA[<article><h1>Around July 10, the Bitcoin Supply Will Grow Half as Quickly</h1><p>The price of bitcoin has been nuts. If you bought bitcoin in April, you've earned 60 percent. If you bought bitcoin this weekend, you've lost ten percent. As I write this, the price has dipped down back under $700. A few weeks ago, $600 seemed a long way off.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/eba7eb87ec615009e1532552a37a8674/noop.jpg?input=https%3A%2F%2Fi2.wp.com%2Fnyoobserver.files.wordpress.com%2F2016%2F06%2Fmarco-streng.jpg%3Ffit%3D440%252C330%26quality%3D80%26strip%26ssl%3D1"></article>]]></description>
-            <link>http://observer.com/2016/06/around-july-10-the-bitcoin-supply-will-grow-half-as-quickly/</link>
-            <guid isPermaLink="false">48d7a4ba-6d99-46cf-a28e-fbb968eb49f5</guid>
-            <pubDate>Wed, 22 Jun 2016 03:20:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Finnish City Awarded €2.4 Million to Test Blockchain-Powered Shipping - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Finnish City Awarded €2.4 Million to Test Blockchain-Powered Shipping - CoinDesk</h1><p>An economic development firm owned by the city of Kouvola in Finland has received €2.4m to help pay for a project designed to streamline the supply chain using blockchain. To be dispersed over a three-year period, the money from Kouvola Innovation will be used in part to connect various enterprise resource planning (ERP) tools used by the ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/329765fa23d0524ee4846d805f1ad14a/noop.jpeg?input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2Fkouvola-railgate-finland.jpeg"></article>]]></description>
             <link>http://www.coindesk.com/finnish-city-wins-2-4m-blockchain-shipping/</link>
@@ -49,31 +63,17 @@
             <pubDate>Wed, 22 Jun 2016 03:20:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Around July 10, the Bitcoin Supply Will Grow Half as Quickly]]></title>
+            <description><![CDATA[<article><h1>Around July 10, the Bitcoin Supply Will Grow Half as Quickly</h1><p>The price of bitcoin has been nuts. If you bought bitcoin in April, you've earned 60 percent. If you bought bitcoin this weekend, you've lost ten percent. As I write this, the price has dipped down back under $700. A few weeks ago, $600 seemed a long way off.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/eba7eb87ec615009e1532552a37a8674/noop.jpg?input=https%3A%2F%2Fi2.wp.com%2Fnyoobserver.files.wordpress.com%2F2016%2F06%2Fmarco-streng.jpg%3Ffit%3D440%252C330%26quality%3D80%26strip%26ssl%3D1"></article>]]></description>
+            <link>http://observer.com/2016/06/around-july-10-the-bitcoin-supply-will-grow-half-as-quickly/</link>
+            <guid isPermaLink="false">48d7a4ba-6d99-46cf-a28e-fbb968eb49f5</guid>
+            <pubDate>Wed, 22 Jun 2016 03:20:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tech Bureau and Infoteria Bring Private Blockchain To Microfinance]]></title>
             <description><![CDATA[<article><h1>Tech Bureau and Infoteria Bring Private Blockchain To Microfinance</h1><p>Blockchain technology is making the rounds in many different sectors all over the world. The world's first experiment of private blockchain technology has been recorded, thanks to Tech Bureau and Infoteria. Recording account data on this blockchain for microfinance purposes has been successful, which is a positive sign for both companies.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2f572f5b63de713da6878b7bf6a03e7a/noop.png?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2FMijin-Private-Blockchain.png"></article>]]></description>
             <link>http://themerkle.com/tech-bureau-and-infoteria-bring-private-blockchain-to-microfinance/</link>
             <guid isPermaLink="false">4b5a00f8-d6dc-4ea0-9bb5-b94ad436f007</guid>
-            <pubDate>Wed, 22 Jun 2016 03:20:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euroclear Announces New Blockchain-Based Gold Settlement]]></title>
-            <description><![CDATA[<article><h1>Euroclear Announces New Blockchain-Based Gold Settlement</h1><p>Euroclear is best known for being one of the world's biggest settlement houses in the financial sector. After taking a close look at blockchain technology, the company announced their first product trial: a new settlement system for the London gold market will be created.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/414b227d48cfc1510cfeb8dacd9c9de8/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_133112054.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/euroclear-blockchain-gold-settlement/</link>
-            <guid isPermaLink="false">316638f0-2ca0-4a7d-a7de-d4bb42b6dee6</guid>
-            <pubDate>Wed, 22 Jun 2016 03:20:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Notorious Deep Web Seller Fredthebaker Arrested By Dutch Police]]></title>
-            <description><![CDATA[<article><h1>Notorious Deep Web Seller Fredthebaker Arrested By Dutch Police</h1><p>Law enforcement officials are cracking down on anybody who sells or buys goods on the deep web these days. Fredthebaker, a notorious deep web seller, has been arrested in The Netherlands. As it turns out, this username is linked to a collective of sellers, and four people have been detained.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/05450cc2b6f5e0d930d64c79592cd1c5/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_357418061.jpg"></article>]]></description>
-            <link>http://themerkle.com/notorious-deep-web-seller-fredthebaker-arrested-by-dutch-police/</link>
-            <guid isPermaLink="false">a2a256d7-2223-4888-ac28-27935eec053e</guid>
-            <pubDate>Wed, 22 Jun 2016 03:20:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase Co-Founder Cautions Against Ethereum Hard Fork - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Coinbase Co-Founder Cautions Against Ethereum Hard Fork - CoinDesk</h1><p>Digital currency exchange operator Coinbase is weighing in on the ongoing crisis over The DAO, the distributed autonomous organization (DAO) that recently saw millions in customer funds seized by an unknown individual or individuals through a code exploit.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2ce0647209ff2cc4946bb620272533f9/croprotate.png?cropheight=723&cropwidth=1500&degrees=0&input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2FScreen-Shot-2016-06-21-at-2.24.44-PM-e1466533569946.png&x=0&y=0"></article>]]></description>
-            <link>http://www.coindesk.com/coinbase-co-founder-ethereum-hard-fork/</link>
-            <guid isPermaLink="false">96678c77-ad9d-4dbb-a104-7798ad653378</guid>
             <pubDate>Wed, 22 Jun 2016 03:20:29 GMT</pubDate>
         </item>
     </channel>
