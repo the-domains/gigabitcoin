@@ -28,10 +28,10 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  https://cointelegraph.com/news/discredited-craig-wright-working-on-building-a-bitcoin-blockchain-empire
+  http://cointelegraph.com/news/discredited-craig-wright-working-on-building-a-bitcoin-blockchain-empire
 title: Discredited Craig Wright Working on Building a Bitcoin Blockchain Empire
-datePublished: '2016-06-22T14:04:37.892Z'
-dateModified: '2016-06-22T12:13:42.910Z'
+datePublished: '2016-06-22T14:04:42.790Z'
+dateModified: '2016-06-22T08:42:16.897Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-22-discredited-craig-wright-working-on-building-a-bitcoin-block.md
