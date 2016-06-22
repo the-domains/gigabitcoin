@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 22 Jun 2016 03:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2016 03:23:27 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitfinex Market Freeze Sends Bitcoin Price Crashing]]></title>
+            <description><![CDATA[<article><h1>Bitfinex Market Freeze Sends Bitcoin Price Crashing</h1><p>Bitfinex, one of the biggest bitcoin exchanges, went down for the second time within a day today at 10AM London time for four hours following "network issues" within Bitfinex's datacentres according to Zane Tackett, Director of Community and Product Development. The unexpected suspension of trading sent price crashing last night to $700 from almost $780.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/df4ce815b4dc8dda83bcd9fcbcae5b38/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F04%2FLight-bulb-offline.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitfinex-market-freeze-bitcoin-crashing/</link>
+            <guid isPermaLink="false">a02eaf1a-91b0-47e4-8955-1bb1e38b527d</guid>
+            <pubDate>Wed, 22 Jun 2016 03:20:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Watch; A Cautionary Tale - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Watch; A Cautionary Tale - NEWSBTC</h1><p>Here's how we are approaching the bitcoin price market this evening, with our range, stops and targets in place. If all we seem to be doing at the moment is offering up cautionary tales, it's because that's exactly what we are doing.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/57efc4f0dbc41d1f21f3205d4c63d29e/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F21161316%2FScreen-Shot-2016-06-21-at-17.03.54.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/21/bitcoin-price-watch-cautionary-tale/</link>
+            <guid isPermaLink="false">1d81a4b5-2b7a-4486-8d92-a6bcace65715</guid>
+            <pubDate>Wed, 22 Jun 2016 03:20:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Can The $50m Heist Of The DAO Take Down Bitcoin's Rival Blockchain?]]></title>
             <description><![CDATA[<article><h1>Can The $50m Heist Of The DAO Take Down Bitcoin's Rival Blockchain?</h1><p>Front Page Of The DAO Just a few short days ago I mentioned the arrival of The DAO, a company without any employees, management or leadership that lives entirely upon a public blockchain, at the end of my article on What Venture Capitalists look for in a Blockchain Startup, stating that [...]</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/53444f2c0d94e4d7ae7d08d2c560d83a/croprotate.png?cropheight=673&cropwidth=1200&degrees=0&input=http%3A%2F%2Fblogs-images.forbes.com%2Fjonathanchester%2Ffiles%2F2016%2F05%2FScreen-Shot-2016-05-20-at-8.54.17-AM-1200x674.png&x=0&y=0"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Attack the network by temporarily adding hash power?</h1><p>Could a malicious actor (e.g. government) attack the network by introducing significant compute power into the network, and once the difficulty grows very high, withdraw all resources from the netw...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/46042/attack-the-network-by-temporarily-adding-hash-power</link>
             <guid isPermaLink="false">4714c9b4-909e-4112-92e1-f5f20a6827fe</guid>
-            <pubDate>Wed, 22 Jun 2016 03:20:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bank of England Launches Fintech Accelerator, Partners With PwC on Distributed Ledger Project]]></title>
-            <description><![CDATA[<article><h1>Bank of England Launches Fintech Accelerator, Partners With PwC on Distributed Ledger Project</h1><p>In a speech prepared for the Lord Mayor's Banquet for Bankers and Merchants of the City of London at the Mansion House, Mark Carney, governor of the Bank of England (BoE), revealed that the BoE is launching a fintech accelerator.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2af6a2f13d6796819657253dd0b6ed05/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fbank-of-england-launches-fintech-accelerator-partners-with-pwc-on-distributed-ledger-project.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/bank-of-england-launches-fintech-accelerator-partners-with-pwc-on-distributed-ledger-project-1466522623</link>
-            <guid isPermaLink="false">75d8078d-de86-4bc1-9000-549509717751</guid>
-            <pubDate>Wed, 22 Jun 2016 03:20:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Legal Analysis of the DAO Exploit and Possible Investor Rights]]></title>
-            <description><![CDATA[<article><h1>A Legal Analysis of the DAO Exploit and Possible Investor Rights</h1><p>Important Disclaimer: NOTHING HEREIN IS INTENDED TO BE UNDERSTOOD AS LEGAL ADVICE. CONSULT A LAWYER QUALIFIED TO PROVIDE LEGAL ADVICE IN YOUR JURISDICTION.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/202ff06d55fe5d679192b867a2553ee3/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fa-legal-analysis-of-the-dao-exploit-and-possible-investor-rights.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/a-legal-analysis-of-the-dao-exploit-and-possible-investor-rights-1466524659</link>
-            <guid isPermaLink="false">992d9b7c-58a9-4c3a-9a86-cf0df10b2c54</guid>
             <pubDate>Wed, 22 Jun 2016 03:20:30 GMT</pubDate>
         </item>
     </channel>
