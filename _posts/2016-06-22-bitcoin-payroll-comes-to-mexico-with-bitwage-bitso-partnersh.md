@@ -27,10 +27,10 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  http://cointelegraph.com/news/bitcoin-payroll-comes-to-mexico-with-bitwage-bitso-partnership
+  https://cointelegraph.com/news/bitcoin-payroll-comes-to-mexico-with-bitwage-bitso-partnership
 title: Bitcoin Payroll Comes to Mexico With Bitwage-Bitso Partnership
-datePublished: '2016-06-22T03:20:31.743Z'
-dateModified: '2016-06-21T14:42:44.767Z'
+datePublished: '2016-06-22T14:04:39.237Z'
+dateModified: '2016-06-22T12:13:40.520Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-22-bitcoin-payroll-comes-to-mexico-with-bitwage-bitso-partnersh.md
