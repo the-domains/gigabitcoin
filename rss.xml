@@ -7,6 +7,13 @@
         <lastBuildDate>Thu, 23 Jun 2016 01:51:05 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Coinbase adds support for PayPal and Credit Cards]]></title>
+            <description><![CDATA[<article><h1>Coinbase adds support for PayPal and Credit Cards</h1><p>One of our objectives at Coinbase is to add as many funding mechanisms as possible to make exchanging digital currency easy. As a step in that direction, Coinbase now accepts PayPal (for bitcoin sells) and credit cards (for bitcoin buys). Thousands of Coinbase users use PayPal for their fiat currency</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/785ee3e484f7eb9699a9505fe2ed68a4/noop.jpg?input=http%3A%2F%2Fblog.coinbase.com%2Fassets%2Fimg%2Fog-blog2.jpg"></article>]]></description>
+            <link>https://blog.coinbase.com/2016/06/22/coinbase-adds-support-for-paypal-and-credit-cards/</link>
+            <guid isPermaLink="false">de73b83e-081d-487e-8b93-28a758fcfb98</guid>
+            <pubDate>Thu, 23 Jun 2016 01:50:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Circle's $60M in Chinese funding underscores Chinese bitcoin demand]]></title>
             <description><![CDATA[<article><h1>Circle's $60M in Chinese funding underscores Chinese bitcoin demand</h1><p>It's not only Chinese retail investors who've gone bullish on new digital payment systems and currencies such as bitcoin. Large firms there are also making sizable investments in the blockchain, the technology underlying bitcoin, which hit a two-year high Monday on demand in China, then plunged 10% Tuesday.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4c724d16a05aba18233f88cc179fc349/noop.jpg?input=http%3A%2F%2Fwww.gannett-cdn.com%2F-mm-%2F1c1130f7caa53d99cdc74972ae5ffa0ea350ba30%2Fc%3D0-101-3000-1796%26r%3Dx633%26c%3D1200x630%2Flocal%2F-%2Fmedia%2F2015%2F11%2F05%2FUSATODAY%2FUSATODAY%2F635823297752195557-Bitcoin-2-.jpg"></article>]]></description>
             <link>http://www.usatoday.com/story/tech/columnist/shinal/2016/06/22/circles-60m-chinese-funding-underscores-chinese-bitcoin-demand/86261412/</link>
@@ -68,13 +75,6 @@
             <link>http://www.newsbtc.com/2016/06/22/ethereum-price-technical-analysis-eth-showing-positive-signs/</link>
             <guid isPermaLink="false">21b61400-cb20-4436-888d-66dec9ed3043</guid>
             <pubDate>Wed, 22 Jun 2016 14:04:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Technical Analysis for 06/22/2016 - Still in Correction Mode! - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 06/22/2016 - Still in Correction Mode! - NEWSBTC</h1><p>Bitcoin price is finding support at the 38.2% Fibonacci retracement level but a larger pullback might be due. Bitcoin Price Key Highlights Bitcoin price is finding support at the 38.2% Fibonacci retracement level but a larger pullback might be due.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1ae780663056fa55aa0930def1316d17/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F22040848%2F160622_bitcoin.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/22/bitcoin-price-technical-analysis-06222016-still-correction-mode/</link>
-            <guid isPermaLink="false">329b14c1-7d4d-4130-a6b1-decc67cb78f0</guid>
-            <pubDate>Wed, 22 Jun 2016 14:04:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
