@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 01:51:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2016 01:51:10 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Stratis Makes Developing Blockchain Apps Easier For Businesses]]></title>
-            <description><![CDATA[<article><h1>Stratis Makes Developing Blockchain Apps Easier For Businesses</h1><p>Developing applications on top of the blockchain can be quite a challenge when one does not know where to begin. Stratis wants to remove that barrier to entry, as they serve as a flexible blockchain development platform. The focus lies on being powerful and flexible, allowing the financial services business to develop the necessary tools to use this technology.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ab426b04f01bf6fbbb7ecd74ff06af6f/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2FStratis.jpg"></article>]]></description>
-            <link>http://themerkle.com/stratis-makes-developing-blockchain-apps-easier-for-businesses/</link>
-            <guid isPermaLink="false">25082d4a-38a1-4642-9b44-84eabe6f633b</guid>
-            <pubDate>Thu, 23 Jun 2016 01:50:14 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Bitcoiners: Remember how Gox and April 2013 felt. Now is the time to be supportive and gracious. Growing pains are part of growing.</p>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>DAO Wars: Hacker Counter-Attacks and Infiltrates the Robin Hood DAOs - NEWSBTC</h1><p>The DAO Token Holders received bad news today, after a team lead by ex-DAO curators, Slock.it employees, researchers and Ethereum foundation members managed to launch a counter-attack -known as the Robin Hood attack-. The preemptive strike was intended to secure the remaining The preemptive strike was intended to secure the remaining funds store in the DAO's ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/73f8b095895689321830ca1d09767c4b/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F22211531%2FDAO-Wars.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/06/22/dao-wars-hacker-counter-attacks-infiltrates-robin-hood-daos/</link>
             <guid isPermaLink="false">c806475f-ca6d-4b05-8550-f89cff3686c4</guid>
+            <pubDate>Thu, 23 Jun 2016 01:50:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Augur Core Developer Joey Krug Becomes Thiel Fellow]]></title>
+            <description><![CDATA[<article><h1>Augur Core Developer Joey Krug Becomes Thiel Fellow</h1><p>The Thiel Foundation has Also read: Trading Bitcoin on the Street: How's LocalBitcoins Doing in 2016? announced its 2016 Fellows with a new class of 29 people focusing on technology and software development. Thiel Fellows receive $100,000 to work on new projects that advance technology.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/752649dddfdeba0ca0d51a33379de479/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2FVenture-Capital-plant-growth.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/augur-core-developer-thiel-fellow/</link>
+            <guid isPermaLink="false">5b5a1a2b-1b5d-470a-b72b-d97690523162</guid>
             <pubDate>Thu, 23 Jun 2016 01:50:13 GMT</pubDate>
         </item>
     </channel>
