@@ -4,8 +4,36 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 01:51:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2016 01:51:11 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Stratis Makes Developing Blockchain Apps Easier For Businesses]]></title>
+            <description><![CDATA[<article><h1>Stratis Makes Developing Blockchain Apps Easier For Businesses</h1><p>Developing applications on top of the blockchain can be quite a challenge when one does not know where to begin. Stratis wants to remove that barrier to entry, as they serve as a flexible blockchain development platform. The focus lies on being powerful and flexible, allowing the financial services business to develop the necessary tools to use this technology.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ab426b04f01bf6fbbb7ecd74ff06af6f/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2FStratis.jpg"></article>]]></description>
+            <link>http://themerkle.com/stratis-makes-developing-blockchain-apps-easier-for-businesses/</link>
+            <guid isPermaLink="false">25082d4a-38a1-4642-9b44-84eabe6f633b</guid>
+            <pubDate>Thu, 23 Jun 2016 01:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Bitcoiners: Remember how Gox and April 2013 felt. Now is the time to be supportive and gracious. Growing pains are part of growing.</p>]]></description>
+            <link>https://twitter.com/aantonop/status/743765903997710336</link>
+            <guid isPermaLink="false">240c97bd-c825-4d10-ae88-b50504007094</guid>
+            <pubDate>Thu, 23 Jun 2016 01:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Merge #8068: Compact Blocks · bitcoin/bitcoin@e9d76a1]]></title>
+            <description><![CDATA[<article><h1>Merge #8068: Compact Blocks · bitcoin/bitcoin@e9d76a1</h1><p>48efec8 Fix some minor compact block issues that came up in review (Matt Corallo) ccd06b9 Elaborate bucket size math (Pieter Wuille) 0d4cb48 Use vTxHashes to optimize InitData significantly (Matt C...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2dd92d79a4398efae07cdeb710079515/noop?input=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F126646%3Fv%3D3%26s%3D200"></article>]]></description>
+            <link>https://github.com/bitcoin/bitcoin/commit/e9d76a161d30ee3081acf93d70a9ae668a9d6ed1</link>
+            <guid isPermaLink="false">01fff4a7-9474-48f8-a943-8119bbabef10</guid>
+            <pubDate>Thu, 23 Jun 2016 01:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chris Finan, Former White House Cybersecurity Director, On The DAO Attack]]></title>
+            <description><![CDATA[<article><h1>Chris Finan, Former White House Cybersecurity Director, On The DAO Attack</h1><p>Chris Finan is co-founder and CEO of Manifold Technology, a venture-backed technology startup that offers private blockchain technology to financial institutions for asset liquidity and next-genera...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/31010f78a16f0e9372283035ee4a9754/noop.jpg?input=https%3A%2F%2Fcoinreport.net%2Fwp-content%2Fuploads%2F2016%2F06%2FChris_Finan1-e1466618530865-150x150.jpg"></article>]]></description>
+            <link>https://coinreport.net/chris-finan-former-white-house-cybersecurity-director-dao-attack/</link>
+            <guid isPermaLink="false">47b59ede-4f97-4265-acc0-1eb8cf46aee4</guid>
+            <pubDate>Thu, 23 Jun 2016 01:50:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fake Satoshi Nakamoto Trying To Patent All Sorts Of Bitcoin Related Ideas | Techdirt]]></title>
             <description><![CDATA[<article><h1>Fake Satoshi Nakamoto Trying To Patent All Sorts Of Bitcoin Related Ideas | Techdirt</h1><p>Earlier this week I got knocked out by some pretty serious food poisoning. The few times I would try to do some work or pop in on Twitter, all I was seeing was people mocking the London Review of Books' somewhat insane 35,000-word-long profile of Craig Wright, the guy who earlier this year claimed to be the real Satoshi Nakamoto.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f5afdc61285d33a56c69012bdac0a4757315aa6.png"></article>]]></description>
@@ -47,34 +75,6 @@
             <link>http://www.newsbtc.com/2016/06/22/dao-wars-hacker-counter-attacks-infiltrates-robin-hood-daos/</link>
             <guid isPermaLink="false">c806475f-ca6d-4b05-8550-f89cff3686c4</guid>
             <pubDate>Thu, 23 Jun 2016 01:50:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Augur Core Developer Joey Krug Becomes Thiel Fellow]]></title>
-            <description><![CDATA[<article><h1>Augur Core Developer Joey Krug Becomes Thiel Fellow</h1><p>The Thiel Foundation has Also read: Trading Bitcoin on the Street: How's LocalBitcoins Doing in 2016? announced its 2016 Fellows with a new class of 29 people focusing on technology and software development. Thiel Fellows receive $100,000 to work on new projects that advance technology.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/752649dddfdeba0ca0d51a33379de479/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2FVenture-Capital-plant-growth.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/augur-core-developer-thiel-fellow/</link>
-            <guid isPermaLink="false">5b5a1a2b-1b5d-470a-b72b-d97690523162</guid>
-            <pubDate>Thu, 23 Jun 2016 01:50:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mining Pools Are Now Allowing Users to Vote on The Ethereum Soft Fork Proposal]]></title>
-            <description><![CDATA[<article><h1>Mining Pools Are Now Allowing Users to Vote on The Ethereum Soft Fork Proposal</h1><p>Several mining pools have enabled the possibility for miners to express their opinion on the whole Soft fork debate. Ethpool, Ethermine, and now Dwarfpool (the biggest Ethereum mining pool) have now implemented a voting mechanism. Dwarfpool, Ethpool, and Ethermine have enabled a voting system to allow miners to express their opinion in the Soft Fork debate.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/613f756e5ad1886d1c5341e4a8e253b4/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_239614381.jpg"></article>]]></description>
-            <link>http://themerkle.com/mining-pools-are-now-allowing-users-to-vote-on-the-ethereum-soft-fork-proposal/</link>
-            <guid isPermaLink="false">f5542b57-bd6e-419e-ad6e-57c184b72d26</guid>
-            <pubDate>Thu, 23 Jun 2016 01:50:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Skype Co-Founder Explores Blockchain's Role In Achieving Global Cooperation]]></title>
-            <description><![CDATA[<article><h1>Skype Co-Founder Explores Blockchain's Role In Achieving Global Cooperation</h1><p>Jaan Tallinn, the co-founder of Skype, is working on finding ways to use blockchain technology to solve problems that require global cooperation, such as overfishing, crime, corruption and deforestation, according to The Telegraph. Jaan Tallinn was speaking at the International Business Festival, a global marketplace for making connections, in Liverpool, U.K.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/86f3854e6c7e2c05c21aa30909701599/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F06%2FGlobal-nodes.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/skype-co-founder-explores-blockchains-role-achieving-global-cooperation/</link>
-            <guid isPermaLink="false">fe00a0c9-1c8e-4245-b15d-81d0b11c4c5d</guid>
-            <pubDate>Thu, 23 Jun 2016 01:50:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase Integrates PayPal to Broaden its Reach - Bitcoin News]]></title>
-            <description><![CDATA[<article><h1>Coinbase Integrates PayPal to Broaden its Reach - Bitcoin News</h1><p>Popular bitcoin exchange and wallet service Coinbase, otherwise known as GDAX, has recently secured a registrant base of Also read: Bitcoin's Price Decline Sparks Flywheel Effect in Crypto Markets 4 million users worldwide . Now the firm has added Paypal support for b itcoin sells and credit card purchasing options.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/819dc2275b74a4e1a9bb3241a3b373a8/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2FCoinbase-Uses-PayPal-to-Target-a-Wider-Audience.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/coinbase-paypal-broaden-reach/</link>
-            <guid isPermaLink="false">fd951fba-90b6-4b18-9954-422702171fd7</guid>
-            <pubDate>Thu, 23 Jun 2016 01:50:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
