@@ -7,13 +7,6 @@
         <lastBuildDate>Thu, 23 Jun 2016 01:50:15 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[The Bitcoin Podcast: TBP67 - Follow the LeadTuur]]></title>
-            <description><![CDATA[<article><h1>The Bitcoin Podcast: TBP67 - Follow the LeadTuur</h1><p>If you frequent Twitter and are into crypto currency, odds are you know todays guest. Tuur Demeester is an independent investor and commentator. He has a background in Austrian economics, the school that specializes in the study of boom-and-bust cycles in the economy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae1438bda64752004b20bc5cb7fdf2a552738236.jpg"></article>]]></description>
-            <link>http://thebitcoinpodcast.libsyn.com/tbp67-follow-the-leadtuur</link>
-            <guid isPermaLink="false">a306ce31-6448-4211-aaff-538fb3dcf547</guid>
-            <pubDate>Thu, 23 Jun 2016 01:50:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Safety Challenges Of Bitcoin And How BitPay is Trying To Overcome Them]]></title>
             <description><![CDATA[<article><h1>The Safety Challenges Of Bitcoin And How BitPay is Trying To Overcome Them</h1><p>Bitcoin is a virtual currency that has achieved some notoriety over the years due to its high level of growth. It has become known as something of a disruptor in the sense that it's set to disrupt the new order.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dfd18cf5e33c7ed05a83506cbe4e4f55/croprotate.jpg?cropheight=1000&cropwidth=1218&degrees=0&input=http%3A%2F%2Fi.huffpost.com%2Fgen%2F3570086%2Fimages%2Fo-BITCOINS-facebook.jpg&x=400&y=0"></article>]]></description>
             <link>http://www.huffingtonpost.com/aj-agrawal/the-safety-challenges-of_b_10621822.html</link>
@@ -75,6 +68,13 @@
             <link>https://www.cryptocoinsnews.com/us-regulator-bitcoin-financial-stability/</link>
             <guid isPermaLink="false">99d5d819-dfce-4b5d-b46f-a697e99b9a6b</guid>
             <pubDate>Wed, 22 Jun 2016 14:04:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Large-Scale Phishing Attack Targets Bitcoin and Web Wallet Users]]></title>
+            <description><![CDATA[<article><h1>Large-Scale Phishing Attack Targets Bitcoin and Web Wallet Users</h1><p>The popularity of Bitcoin is attracting all kind of attention. Unfortunately, that also means hackers and internet criminals start targeting Bitcoin users. A phishing campaign spanning over 100 fake domain names is threatening users all over the world. The objective is simple: steal bitcoins and obtain blockchain wallet credentials.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f76ee01ed4277582fb700eb66811a43c/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_336547880.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/large-scale-phishing-attack-targets-bitcoin-and-web-wallet-users/</link>
+            <guid isPermaLink="false">9d055ccc-4d6d-4110-8cd9-99ec6cb5b203</guid>
+            <pubDate>Wed, 22 Jun 2016 14:04:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
