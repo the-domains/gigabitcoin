@@ -29,10 +29,10 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  https://cointelegraph.com/news/member-of-r3-finlands-op-financial-group-is-recruiting-blockchain-talents
+  http://cointelegraph.com/news/member-of-r3-finlands-op-financial-group-is-recruiting-blockchain-talents
 title: Member of R3 Finland's OP Financial Group is Recruiting Blockchain Talents
-datePublished: '2016-06-24T14:23:05.569Z'
-dateModified: '2016-06-24T11:13:27.203Z'
+datePublished: '2016-06-24T14:23:17.191Z'
+dateModified: '2016-06-23T15:13:02.484Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-24-member-of-r3-finlands-op-financial-group-is-recruiting-bloc.md
