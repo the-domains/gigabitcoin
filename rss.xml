@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 14:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2016 14:24:07 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin value spikes in wake of EU referendum]]></title>
+            <description><![CDATA[<article><h1>Bitcoin value spikes in wake of EU referendum</h1><p>The value of bitcoin rose sharply today as Sterling dipped in response to the UK's decision to leave the European Union. The cryptocurrency's price against the dollar rose by more than $100 to its highest point in over two years.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/491a8c88027886c77a8298cacb8fd1ac/noop?input=http%3A%2F%2Fwi-images.condecdn.net%2Fimage%2FoAXNLxgNz2Q%2Fcrop%2F1020"></article>]]></description>
+            <link>http://www.wired.co.uk/article/bitcoin-surge-after-eu-referendum-pound-falls</link>
+            <guid isPermaLink="false">c1d681b6-8ac6-4fb9-b9b6-4e09b6bd7dbf</guid>
+            <pubDate>Fri, 24 Jun 2016 14:23:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Online Retailers Immediately Impacted By Brexit Outcome]]></title>
             <description><![CDATA[<article><h1>Online Retailers Immediately Impacted By Brexit Outcome</h1><p>The Brexit is affecting all of the United Kingdom as we speak. The region voted for a new era, and they will also have to deal with the consequences of that decision. Various UK webshops have temporarily closed their online doors, as they need a "time-out".</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f1f80f911c1b4a5de3ff9f268952c644/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_379968028.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The DAO Shows Blockchain Can't Code Away Social Problems - CoinDesk</h1><p>Everyone loved The DAO. They couldn't say enough about how it was going to change the future for the better. And now, after the code-based crowdfunding platform was exploited with a perpetrator taking 3.6 million ether (valued at $60m at the time), The DAO has become the red-headed stepchild of the cryptocurrency community.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ce38017d440d2fe05fc191374849811a/noop.png?input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2FScreen-Shot-2016-06-24-at-8.26.01-AM-e1466771301244.png"></article>]]></description>
             <link>http://www.coindesk.com/system-problems-social-issues-daos-structure/</link>
             <guid isPermaLink="false">5fe48095-0d08-40b7-a696-8e703f31da7f</guid>
-            <pubDate>Fri, 24 Jun 2016 14:23:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JKAnime Streaming Platform Hijacked To Spread CryptXXX Ransomware]]></title>
-            <description><![CDATA[<article><h1>JKAnime Streaming Platform Hijacked To Spread CryptXXX Ransomware</h1><p>Rather than distributing malicious software through traditional means, internet criminals are hijacking websites these days. Jkanime, one of the more popular anime streaming platforms in the world, was redirecting to a Neutrino EK landing page a few days ago. Considering how this platform has over 33 million monthly visitors, there is a high risk of infection.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/33a7512033460236d8476bd78030c092/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2FJKAnime.jpg"></article>]]></description>
-            <link>http://themerkle.com/jkanime-streaming-platform-hijacked-to-spread-cryptxxx-ransomware/</link>
-            <guid isPermaLink="false">e54ff561-6360-4125-93da-6e1a6d9b06cd</guid>
             <pubDate>Fri, 24 Jun 2016 14:23:03 GMT</pubDate>
         </item>
     </channel>
