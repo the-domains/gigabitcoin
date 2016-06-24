@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 14:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2016 14:24:05 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Lightning, Halving and Tothemoon]]></title>
-            <description><![CDATA[<article><h1>Lightning, Halving and Tothemoon</h1><p>On June 6, bitcoin miners have produced block #415,000. It means that mining reward will halve in less than 5,000 blocks or 42 days. Since the last reward halving in 2012, Bitcoin price has grown from $12 to $670 (at the time of writing), and peaked at around $1,100 in late 2013.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dcc700fc6e41d46a1ec5e8678e00d401/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F06%2Fhalving3.png"></article>]]></description>
-            <link>http://forklog.net/lightning-halving-and-tothemoon/</link>
-            <guid isPermaLink="false">a2610dc5-72c8-4eb0-9ccc-19d406d3dbbb</guid>
-            <pubDate>Fri, 24 Jun 2016 14:23:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why does Ethereum grant access to wallets by only knowing the private key (password) without knowing the public key (username)?]]></title>
-            <description><![CDATA[<article><h1>Why does Ethereum grant access to wallets by only knowing the private key (password) without knowing the public key (username)?</h1><p>Answer: The public key/private key cryptography has nothing to do with username and password. No-one needs to know both. When you want to send an encrypted message to someone, you only need to know his public key. That person uses his private key to decrypt the message. The inverse concept is use...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
-            <link>https://www.quora.com/Why-does-Ethereum-grant-access-to-wallets-by-only-knowing-the-private-key-password-without-knowing-the-public-key-username</link>
-            <guid isPermaLink="false">e763f670-9841-42a6-a6a9-9aa7b2e64297</guid>
-            <pubDate>Fri, 24 Jun 2016 14:23:04 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[North Carolina to vote on Anti-Bitcoin Act on Monday. Tell senators to vote no! * /r/Bitcoin]]></title>
             <description><![CDATA[<article><h1>North Carolina to vote on Anti-Bitcoin Act on Monday. Tell senators to vote no! * /r/Bitcoin</h1><p>Sign the letters](http://bitcoinregsnc.com/) [NC Senate calendar for...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/718e1fcb46807eda069ac23313fa325e/noop.jpg?input=https%3A%2F%2Fi.redditmedia.com%2FxXqAUEu5CibTpt21n6i0WHIdWz6H6X820bL2AdqUsRM.jpg%3Fw%3D216%26s%3Dfb13758e7ca0d30e3e49468e2096dbb9"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>https://www.cryptocoinsnews.com/bitcoin-exchange-coinbase-adds-paypal-support/</link>
             <guid isPermaLink="false">1fcce77b-7af8-4653-a922-290ac52c5a5b</guid>
             <pubDate>Fri, 24 Jun 2016 14:23:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CoinDesk's Ethereum Research Report Now Available - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>CoinDesk's Ethereum Research Report Now Available - CoinDesk</h1><p>Bitcoin competitor? World computer? The future of the Internet itself? Next-generation public blockchain platform ethereum launched the first production version of its software this year, and the world is fast learning about its disruptive potential.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ccbc650fd4d8772f77b28349d7fa79cb/croprotate.png?cropheight=1064&cropwidth=1500&degrees=0&input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2Funderstanding-ethereum-report-3.png&x=0&y=0"></article>]]></description>
+            <link>http://www.coindesk.com/ethereum-blockchain-research-report/</link>
+            <guid isPermaLink="false">ac4f7361-e381-409a-8bf1-d49104c7fe5c</guid>
+            <pubDate>Fri, 24 Jun 2016 14:23:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Drops $100 As 'Brexit' Hopes Falter - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Drops $100 As 'Brexit' Hopes Falter - CoinDesk</h1><p>The price of bitcoin fell $100 during a five-hour span today, dropping 15% to reach a low of $551 on the CoinDesk Bitcoin Price Index (BPI). The move represents a continuation of the recent price correction that began when bitcoin hit a high of $774 on 18th June, a move market observers suggested indicated the digital currency was "overbought" after reaching two-year highs.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a4aba05ce8e59de829f184302ae11971/noop.jpg?input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2Fbrexit-e1466649671235.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/bitcoin-price-drops-100-brexit-hopes-falter/</link>
+            <guid isPermaLink="false">c19b558f-3547-4f12-9ae2-360ed8431c05</guid>
+            <pubDate>Thu, 23 Jun 2016 13:36:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
