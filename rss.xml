@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 14:27:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2016 14:27:44 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Beware of "developers developing for developers" : you'll end up with overcomplicated solutions almost nobody wants to use.</p>]]></description>
+            <link>https://twitter.com/gavinandresen/status/745687988609388545</link>
+            <guid isPermaLink="false">1d91512f-9bfe-4e94-a942-e5ed628a6e8c</guid>
+            <pubDate>Fri, 24 Jun 2016 14:23:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prufrock: Madison's Notes, Cynthia Ozick's Crusade, and the Bitcoin Saga]]></title>
+            <description><![CDATA[<article><h1>Prufrock: Madison's Notes, Cynthia Ozick's Crusade, and the Bitcoin Saga</h1><p>Reviews and News: Cynthia Ozick's long crusade: In 1978, she argued that Harold Bloom's conception of poetry as a self-enclosed system that referred to nothing but itself...was a form of idolatry. The very idea of belatedness, so central to Bloom's theory, was, in Ozick's view, anathema to the Jewish tradition, according to which there were no latecomers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1438339e7e4adfb8d761a3ed70e22989/noop.jpg?input=http%3A%2F%2Fcdn.weeklystandard.biz%2Fcache%2Fr960-9d373b93590b22770c385c06c3430758.jpg"></article>]]></description>
+            <link>http://www.weeklystandard.com/prufrock-madisons-notes-cynthia-ozicks-crusade-and-the-bitcoin-saga/article/2002973</link>
+            <guid isPermaLink="false">728821cf-0673-4710-bb69-410ad3692f1e</guid>
+            <pubDate>Fri, 24 Jun 2016 14:23:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What are potentially the biggest impacts of blockchain and bitcoins on the advertising and communications industries?]]></title>
             <description><![CDATA[<article><h1>What are potentially the biggest impacts of blockchain and bitcoins on the advertising and communications industries?</h1><p>Answer: Blockchain is becoming such a widely used trendy term that we use it simply to attract attention. But no worries, we pardon you for thinking that way. The fact remains that research provides strong evidence that blockchain technology could transform existing business models in a profound ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://bitcoin.stackexchange.com/questions/46115/how-many-more-transactions-per-second-will-be-possible-with-segwit</link>
             <guid isPermaLink="false">e278e80a-43e8-484b-a3d0-537512ab3349</guid>
             <pubDate>Fri, 24 Jun 2016 14:23:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin's biggest Venture Capital deals of 2016 so far]]></title>
-            <description><![CDATA[<article><h1>Bitcoin's biggest Venture Capital deals of 2016 so far</h1><p>Publicly-announced Venture Capital investments into Bitcoin and blockchain-related startups have more than doubled in amount during the first half of 2016 compared to last half of 2015, with about US$265.05 million invested now versus only $111.85 million for the previous half-year.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ff76c6e6d3e206494e0356175ee5dba0/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-seed-funding.jpg"></article>]]></description>
-            <link>http://bravenewcoin.com/news/bitcoins-biggest-venture-capital-deals-of-2016-so-far/</link>
-            <guid isPermaLink="false">0a911443-3990-4c3b-823b-dcdce0712086</guid>
-            <pubDate>Fri, 24 Jun 2016 14:23:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Looking for a Gainer Amid the Sea of Red? Bitcoin Jumps With Yen]]></title>
-            <description><![CDATA[<article><h1>Looking for a Gainer Amid the Sea of Red? Bitcoin Jumps With Yen</h1><p>Bitcoin was one of the few winners out of the U.K.'s vote to leave the European Union, surging as much as 13 percent as the decision fueled demand for alternative assets. The digital currency jumped 11 percent to $681.68 as of 1:45 p.m. Hong Kong time, according to data compiled by Bloomberg.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0e9b2fa28b9a58071013c45e0311cc6e5e7fc7e.jpg"></article>]]></description>
-            <link>http://www.bloomberg.com/news/articles/2016-06-24/looking-for-a-gainer-amid-the-sea-of-red-bitcoin-jumps-with-yen</link>
-            <guid isPermaLink="false">ed502ec4-52c9-4295-b534-e50af25640a5</guid>
-            <pubDate>Fri, 24 Jun 2016 14:23:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
