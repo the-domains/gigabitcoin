@@ -4,77 +4,77 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 14:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2016 14:24:06 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Sweden Tests Blockchain Smart Contracts for Land Registry]]></title>
-            <description><![CDATA[<article><h1>Sweden Tests Blockchain Smart Contracts for Land Registry</h1><p>Sweden could become the first country to put the country's land registry on the Blockchain, the Swedish Land Registry said. With a population of just under 10 million people, it can be hard to keep track of who owns what when it comes to land ownership in Sweden particularly over a period of time, unless some reliable form of record keeping is maintained.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1c5a3ee3461b2a937067e82e2440fe04/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzE2ZDcwMDJlNmU1ZTdiOTA0OGExYTY0MmQ3ZWZjYjM0LnBuZw%3D%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/sweden-tests-blockchain-smart-contracts-for-land-registry</link>
-            <guid isPermaLink="false">9f5b7458-7949-4f8b-b027-05b547e7f85f</guid>
-            <pubDate>Fri, 24 Jun 2016 14:23:06 GMT</pubDate>
+            <title><![CDATA[Lightning, Halving and Tothemoon]]></title>
+            <description><![CDATA[<article><h1>Lightning, Halving and Tothemoon</h1><p>On June 6, bitcoin miners have produced block #415,000. It means that mining reward will halve in less than 5,000 blocks or 42 days. Since the last reward halving in 2012, Bitcoin price has grown from $12 to $670 (at the time of writing), and peaked at around $1,100 in late 2013.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dcc700fc6e41d46a1ec5e8678e00d401/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F06%2Fhalving3.png"></article>]]></description>
+            <link>http://forklog.net/lightning-halving-and-tothemoon/</link>
+            <guid isPermaLink="false">a2610dc5-72c8-4eb0-9ccc-19d406d3dbbb</guid>
+            <pubDate>Fri, 24 Jun 2016 14:23:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bitcoin Powered Cooperative Search Engine Introduces Search Mining]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Powered Cooperative Search Engine Introduces Search Mining</h1><p>Launched in September 2015, SearchTrade has already sold 1321 keywords as part of its search mining concept. SearchTrade works like any other search engine, but takes its revenue from the advertisers, and uses Bitcoin to distribute it back to users. In this way, people become active participants with technological resources being distributed evenly.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/15673204a042b53d8528ffee6c57a534/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzFlMTA3MjYzMWY1NDRhMDBiYzY5Yjk1ZDNmYWM2NmIwLnBuZw%3D%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/bitcoin-powered-cooperative-search-engine-introduces-search-mining</link>
-            <guid isPermaLink="false">7a9ae5a7-1b43-41d4-9f3d-0863fe2e354a</guid>
-            <pubDate>Fri, 24 Jun 2016 14:23:06 GMT</pubDate>
+            <title><![CDATA[Why does Ethereum grant access to wallets by only knowing the private key (password) without knowing the public key (username)?]]></title>
+            <description><![CDATA[<article><h1>Why does Ethereum grant access to wallets by only knowing the private key (password) without knowing the public key (username)?</h1><p>Answer: The public key/private key cryptography has nothing to do with username and password. No-one needs to know both. When you want to send an encrypted message to someone, you only need to know his public key. That person uses his private key to decrypt the message. The inverse concept is use...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
+            <link>https://www.quora.com/Why-does-Ethereum-grant-access-to-wallets-by-only-knowing-the-private-key-password-without-knowing-the-public-key-username</link>
+            <guid isPermaLink="false">e763f670-9841-42a6-a6a9-9aa7b2e64297</guid>
+            <pubDate>Fri, 24 Jun 2016 14:23:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[India's Largest Private Bank to Explore Blockchain Opportunities]]></title>
-            <description><![CDATA[<article><h1>India's Largest Private Bank to Explore Blockchain Opportunities</h1><p>ICICI Bank, India's largest private bank, will focus on Blockchain technology to make its services more secure and create a more robust experience for its customers.. ICICI Bank, India's largest private bank, will use Blockchain technology to make its services more secure.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bbddd927834390cad4537557637f5e58/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3L2NjMzllZmM0MGM5OWMxMzNhZWJmYzkyZDRmYTNlZjBjLnBuZw%3D%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/indias-largest-private-bank-to-explore-blockchain-opportunities</link>
-            <guid isPermaLink="false">7b35cb05-414b-47e9-b912-15ed89bc55c5</guid>
-            <pubDate>Fri, 24 Jun 2016 14:23:06 GMT</pubDate>
+            <title><![CDATA[North Carolina to vote on Anti-Bitcoin Act on Monday. Tell senators to vote no! * /r/Bitcoin]]></title>
+            <description><![CDATA[<article><h1>North Carolina to vote on Anti-Bitcoin Act on Monday. Tell senators to vote no! * /r/Bitcoin</h1><p>Sign the letters](http://bitcoinregsnc.com/) [NC Senate calendar for...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/718e1fcb46807eda069ac23313fa325e/noop.jpg?input=https%3A%2F%2Fi.redditmedia.com%2FxXqAUEu5CibTpt21n6i0WHIdWz6H6X820bL2AdqUsRM.jpg%3Fw%3D216%26s%3Dfb13758e7ca0d30e3e49468e2096dbb9"></article>]]></description>
+            <link>https://www.reddit.com/r/Bitcoin/comments/4pjxws/north_carolina_to_vote_on_antibitcoin_act_on/</link>
+            <guid isPermaLink="false">343cf46d-b914-49ca-8928-765618e908bc</guid>
+            <pubDate>Fri, 24 Jun 2016 14:23:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Easier to Buy a Gun than Open a Bank Account? Use Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Easier to Buy a Gun than Open a Bank Account? Use Bitcoin</h1><p>Stringent Know Your Customer ( KYC) norms and tedious opening account procedures have made opening a bank account in the US more difficult than buying a gun. Could Bitcoin fill the void for a universally accessible bank account?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/79d4d4c09e03f263abf4d830eaaa3892/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fstorage%2Fuploads%2Fview%2Fc678ac926c154da221138da9b603ae6b.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/easier-to-buy-a-gun-than-open-a-bank-account-use-bitcoin</link>
-            <guid isPermaLink="false">30a595d2-c808-4c73-85d5-6d1987b34319</guid>
-            <pubDate>Fri, 24 Jun 2016 14:23:06 GMT</pubDate>
+            <title><![CDATA[Summer of SegWit: Bitcoin Core Begins Segregated Witness Soft Fork]]></title>
+            <description><![CDATA[<article><h1>Summer of SegWit: Bitcoin Core Begins Segregated Witness Soft Fork</h1><p>It is going to be a wild summer for the price of Bitcoin. The only certainty in the space will be change. Watching the roller coaster is fine for the speculators out there, but maybe new protocol reinforcements will help spur prices higher, and stabilize the environment.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/35924dfae2d7c97ac627e0ebbecc65aa/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3L2Y5MjExYTc3MDhiYTJkZGMxMzUxODcyZGNiMzkxN2Q5LmpwZw%3D%3D.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/summer-of-segwit-bitcoin-core-begins-segregated-witness-soft-fork</link>
+            <guid isPermaLink="false">74959481-74b6-429c-9600-4ada1d9f8a08</guid>
+            <pubDate>Fri, 24 Jun 2016 14:23:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[PayPal and Coinbase Strike New Bitcoin Payout Agreement, Millions of Customers Affected]]></title>
-            <description><![CDATA[<article><h1>PayPal and Coinbase Strike New Bitcoin Payout Agreement, Millions of Customers Affected</h1><p>The mega-wallet provider Coinbase and global payments leader PayPal have formed the start of a new agreement that will allow PayPal customers to do more than ever before with Bitcoin. As Bitcoin prices fluctuate wildly before the halving event next month, now taking a downturn even more impressive than its previous bull-run, the Bitcoin community continues to add infrastructure and forge major new deals that make for a stronger future.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b5fb440019ae7f0acb05595e0ef653a3/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzlmMDE2NzY1ZDk4YjBhOTJjYWI5NTljZjhiOTRiYzZkLmpwZw%3D%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/paypal-and-coinbase-strike-new-bitcoin-payout-agreement-millions-of-customers-affected</link>
-            <guid isPermaLink="false">b3908866-c26b-4a5e-abea-cd9e9e02825b</guid>
-            <pubDate>Fri, 24 Jun 2016 14:23:05 GMT</pubDate>
+            <title><![CDATA[DAO Vulnerability Raises Questions of Trust and the Human Factor]]></title>
+            <description><![CDATA[<article><h1>DAO Vulnerability Raises Questions of Trust and the Human Factor</h1><p>The discussion and debate around the DAO vulnerability raises questions about trust and the human factor in the evolving realm of distributed ledger technology, Sean Neville, co-founder and president of Circle, noted in a Medium blog. Trust in the safety of assets and data in blockchain systems does not depend on human gatekeepers, Neville noted.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5e3602fdb327dd24877c47675acf2fca/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F06%2FTrust-question.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/dao-vulnerability-trust-human-factor/</link>
+            <guid isPermaLink="false">995f69cd-a753-48c9-98fe-a20b55e9e303</guid>
+            <pubDate>Fri, 24 Jun 2016 14:23:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brexit or Not, EU is One Pig's Breakfast Served Lukewarm]]></title>
-            <description><![CDATA[<article><h1>Brexit or Not, EU is One Pig's Breakfast Served Lukewarm</h1><p>Remember Grexit? Think back a bit when the whole world was on their seat's edge and wondering if Greece will or if they won't exit the European Union. Well fast forward to today and here we are wondering the same about the United Kingdom of Great Britain and Northern Ireland.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b1eaceac3c057a51d3a447156279ca79/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzUwM2E2MmRlY2NlMjE2OGUzNmRhZGQ0YzkzMGI0MDQ5LmpwZw%3D%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/brexit-or-not-eu-is-one-pigs-breakfast-served-lukewarm</link>
-            <guid isPermaLink="false">b5fcd7be-9a53-431a-9df3-cd80c260eb89</guid>
-            <pubDate>Fri, 24 Jun 2016 14:23:05 GMT</pubDate>
+            <title><![CDATA[Testing the Nvidia GeForce GTX 1070 Founders Edition for Crypto Mining]]></title>
+            <description><![CDATA[<article><h1>Testing the Nvidia GeForce GTX 1070 Founders Edition for Crypto Mining</h1><p>Recently we have tested the new Nvidia Pascal-based GeForce GTX 1080 Founders Edition GPU for crypto mining and it is now the time to see what the little brother in the form of GTX 1070 is also capable of.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1992daba476b847c55819c9c51af7e01/noop.jpg?input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fnvidia-geforce-gtx-1080-founders-edition-580x305.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/8016-testing-the-nvidia-geforce-gtx-1070-founders-edition-for-crypto-mining/</link>
+            <guid isPermaLink="false">32202137-22b7-42bc-991f-48bda1d556d6</guid>
+            <pubDate>Fri, 24 Jun 2016 14:23:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Member of R3 Finland's OP Financial Group is Recruiting Blockchain Talents]]></title>
-            <description><![CDATA[<article><h1>Member of R3 Finland's OP Financial Group is Recruiting Blockchain Talents</h1><p>During 2016, OP will be hiring over 100 digital experts to fulfill its mission of promoting sustainable prosperity and security and get OP through this financial breakthrough. Newspaper Tivi writes that digital experts will be needed to take on the roles of enterprise leaders and developers or heads of new projects in Blockchain technologies, IoT and cloud computing architecture.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9fdead5181ffba658f2f8416d1c0f0e6/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzlhZDA4OTYzODExNTlmZDk1MDcwZjhkODExZGRkNjBlLmpwZw%3D%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/member-of-r3-finlands-op-financial-group-is-recruiting-blockchain-talents</link>
-            <guid isPermaLink="false">f00d417e-2993-4758-9dd5-919d05714f3e</guid>
-            <pubDate>Fri, 24 Jun 2016 14:23:05 GMT</pubDate>
+            <title><![CDATA[EURO 2016 Sees BTC Flow to Sports Betting Sites - Bitcoin News]]></title>
+            <description><![CDATA[<article><h1>EURO 2016 Sees BTC Flow to Sports Betting Sites - Bitcoin News</h1><p>Bitcoin sports sweepstakes site Sportsbet.io has seen a 20% increase in stakes in just two weeks of the EURO 2016 championships. Also read: Bitcoin.com Launches a High-Stakes Casino Coin Gaming 's new site, which launched June 1 with technical support from sister site Bitcasino.io, has demonstrated the continued interest in Bitcoin as a betting tool.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d7318b3ccca9524d3261d44e03cd0f6b/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2Feuropean-championship-trophy.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/euro-2016-btc-flow-sports-betting/</link>
+            <guid isPermaLink="false">c134e777-72fa-403f-963a-5c744e9fc0f6</guid>
+            <pubDate>Fri, 24 Jun 2016 14:23:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bitcoin Looks Beyond Brexit As New Opportunities Emerge]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Looks Beyond Brexit As New Opportunities Emerge</h1><p>For Bitcoin, the Brexit poll couldn't have come at a more uneasy time but some good developments are taking place on the sideline. The digital currency has been in and out of an almost three-week low on Thursday June 23 at around the $580 range which is quite worrying especially for those who still cringe in anticipation of a smooth ride as they step into its world.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/071428b4de039af000b0179ffc61006d/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3Lzc2MWNiNDQyZGQzMzRiNGVjMTg0N2QyZWUyOTMxMDM0LmpwZw%3D%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/bitcoin-looks-beyond-brexit-as-new-opportunities-emerge</link>
-            <guid isPermaLink="false">8d9a49d3-c5a1-46a0-b36d-b5c0c30291ac</guid>
-            <pubDate>Fri, 24 Jun 2016 14:23:05 GMT</pubDate>
+            <title><![CDATA[The DAO Shows Blockchain Can't Code Away Social Problems - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>The DAO Shows Blockchain Can't Code Away Social Problems - CoinDesk</h1><p>Everyone loved The DAO. They couldn't say enough about how it was going to change the future for the better. And now, after the code-based crowdfunding platform was exploited with a perpetrator taking 3.6 million ether (valued at $60m at the time), The DAO has become the red-headed stepchild of the cryptocurrency community.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ce38017d440d2fe05fc191374849811a/noop.png?input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2FScreen-Shot-2016-06-24-at-8.26.01-AM-e1466771301244.png"></article>]]></description>
+            <link>http://www.coindesk.com/system-problems-social-issues-daos-structure/</link>
+            <guid isPermaLink="false">5fe48095-0d08-40b7-a696-8e703f31da7f</guid>
+            <pubDate>Fri, 24 Jun 2016 14:23:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bitcoin Crashes as Australian Auction Closes]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Crashes as Australian Auction Closes</h1><p>Bitcoin reached a low of $550 last night, down by more than one hundred dollars from $680 for the third day in a row. The unexpected crash coincides with the end of the first Australian Bitcoin Auction which closed around the same time as bitcoin's price movement.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/15d300abd850d2ad6741413740b66124/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzQyYzlkYzZiNTA4NzI3MTI1ZTVmMDBhN2IyZjRmMmJkLmpwZw%3D%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/bitcoin-crashes-as-australian-auction-closes</link>
-            <guid isPermaLink="false">8ad36fc3-f2a6-4c7a-aa28-9abef74ad269</guid>
-            <pubDate>Fri, 24 Jun 2016 14:23:05 GMT</pubDate>
+            <title><![CDATA[JKAnime Streaming Platform Hijacked To Spread CryptXXX Ransomware]]></title>
+            <description><![CDATA[<article><h1>JKAnime Streaming Platform Hijacked To Spread CryptXXX Ransomware</h1><p>Rather than distributing malicious software through traditional means, internet criminals are hijacking websites these days. Jkanime, one of the more popular anime streaming platforms in the world, was redirecting to a Neutrino EK landing page a few days ago. Considering how this platform has over 33 million monthly visitors, there is a high risk of infection.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/33a7512033460236d8476bd78030c092/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2FJKAnime.jpg"></article>]]></description>
+            <link>http://themerkle.com/jkanime-streaming-platform-hijacked-to-spread-cryptxxx-ransomware/</link>
+            <guid isPermaLink="false">e54ff561-6360-4125-93da-6e1a6d9b06cd</guid>
+            <pubDate>Fri, 24 Jun 2016 14:23:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Soros Backs Gold to Hedge Against EU Collapse, Bitcoin Joins Gold As Brexit Hedge]]></title>
-            <description><![CDATA[<article><h1>Soros Backs Gold to Hedge Against EU Collapse, Bitcoin Joins Gold As Brexit Hedge</h1><p>Fearing a possible EU collapse, and attempting to diversify away from a volatile dollar, billionaire George Soros has begun heavily investing in gold stocks. According to a Wall Street Journal article, Soros Fund Management, the $30 billion fund which oversees Soros's investments, made a series of large investments into precious metals.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ae74d19e9d4854d1005987c708a07a44/noop.png?input=http%3A%2F%2Fcointelegraph.com%2Fstorage%2Fuploads%2Fview%2F85e7589159ee8f459640001890b86884.png"></article>]]></description>
-            <link>https://cointelegraph.com/news/soros-backs-gold-to-hedge-against-eu-collapse-bitcoin-joins-gold-as-brexit-hedge</link>
-            <guid isPermaLink="false">bd4fa1a6-4433-4b75-94ce-ec35bff6db66</guid>
-            <pubDate>Fri, 24 Jun 2016 14:23:05 GMT</pubDate>
+            <title><![CDATA[Bitcoin Exchange Coinbase Adds Paypal Support]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Exchange Coinbase Adds Paypal Support</h1><p>Bitcoin wallet and exchange Coinbase has revealed new funding methods - PayPal and credit cards, to further enable digital currency transactions and swaps in its exchange. The support for the two new funding mechanisms is currently in beta.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4cc73ea47bee9aae04816ce8a3d9948a/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F06%2FPayPal-credit-cards.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-exchange-coinbase-adds-paypal-support/</link>
+            <guid isPermaLink="false">1fcce77b-7af8-4653-a922-290ac52c5a5b</guid>
+            <pubDate>Fri, 24 Jun 2016 14:23:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
