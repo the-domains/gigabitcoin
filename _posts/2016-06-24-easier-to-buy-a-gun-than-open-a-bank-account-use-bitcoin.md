@@ -28,10 +28,10 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  https://cointelegraph.com/news/easier-to-buy-a-gun-than-open-a-bank-account-use-bitcoin
+  http://cointelegraph.com/news/easier-to-buy-a-gun-than-open-a-bank-account-use-bitcoin
 title: Easier to Buy a Gun than Open a Bank Account? Use Bitcoin
-datePublished: '2016-06-24T14:23:06.163Z'
-dateModified: '2016-06-24T11:13:21.311Z'
+datePublished: '2016-06-24T14:23:17.630Z'
+dateModified: '2016-06-23T13:42:52.100Z'
 starred: false
 sourcePath: _posts/2016-06-24-easier-to-buy-a-gun-than-open-a-bank-account-use-bitcoin.md
 inFeed: true
