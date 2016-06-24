@@ -29,10 +29,10 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  https://cointelegraph.com/news/bitcoin-looks-beyond-brexit-as-new-opportunities-emerge
+  http://cointelegraph.com/news/bitcoin-looks-beyond-brexit-as-new-opportunities-emerge
 title: Bitcoin Looks Beyond Brexit As New Opportunities Emerge
-datePublished: '2016-06-24T14:23:05.387Z'
-dateModified: '2016-06-24T11:13:31.636Z'
+datePublished: '2016-06-24T14:23:16.256Z'
+dateModified: '2016-06-23T16:13:13.277Z'
 starred: false
 sourcePath: _posts/2016-06-24-bitcoin-looks-beyond-brexit-as-new-opportunities-emerge.md
 inFeed: true
