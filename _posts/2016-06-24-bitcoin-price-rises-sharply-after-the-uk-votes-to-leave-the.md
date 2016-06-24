@@ -29,12 +29,12 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  http://cointelegraph.com/news/bitcoin-price-rises-sharply-after-the-uk-votes-to-leave-the-eu-trading-volumes-big
+  https://cointelegraph.com/news/bitcoin-price-rises-sharply-after-the-uk-votes-to-leave-the-eu-trading-volumes-big
 title: >-
   Bitcoin Price Rises Sharply After the UK Votes to Leave the EU, Trading
   Volumes Big
-datePublished: '2016-06-24T14:23:04.874Z'
-dateModified: '2016-06-24T11:43:05.770Z'
+datePublished: '2016-06-24T14:23:04.988Z'
+dateModified: '2016-06-24T11:13:35.214Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-24-bitcoin-price-rises-sharply-after-the-uk-votes-to-leave-the.md
