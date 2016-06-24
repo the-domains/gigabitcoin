@@ -4,13 +4,20 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 14:28:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2016 14:28:41 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article><img src="http://imgur.com/cAL6EfC.png"></article>]]></description>
             <link>http://i.imgur.com/cAL6EfC.png</link>
             <guid isPermaLink="false">312297b6-7601-4a24-814a-670ec84c92e2</guid>
+            <pubDate>Fri, 24 Jun 2016 14:23:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bruce Wanker Talks about The DAO attack]]></title>
+            <description><![CDATA[<article><h1>Bruce Wanker Talks about The DAO attack</h1><p>In his first interview since attacking The DAO, Wanker shares his thoughts on the attack.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b3d3f9470cb52817accf79ef9696b160/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2F_O5fdMFKEC0%2Fhqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=_O5fdMFKEC0</link>
+            <guid isPermaLink="false">db557013-d6cf-42af-a316-b755e7212ee4</guid>
             <pubDate>Fri, 24 Jun 2016 14:23:13 GMT</pubDate>
         </item>
         <item>
@@ -68,13 +75,6 @@
             <link>http://bitcoinist.net/vanbex-group-blockchain-products/</link>
             <guid isPermaLink="false">c67264c2-7d90-47f0-bff4-93cca3b1ac49</guid>
             <pubDate>Fri, 24 Jun 2016 14:23:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cryptocurrency exchange Gemini launches in U.K.]]></title>
-            <description><![CDATA[<article><h1>Cryptocurrency exchange Gemini launches in U.K.</h1><p>Gemini, the New York-based cryptocurrency exchange operated by entrepreneurial brothers Cameron and Tyler Winklevoss, has set up in the U.K. "This is a significant and important part of Gemini's in...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0909f4fb9d065f895da14b634ee06d6b90d8192.png"></article>]]></description>
-            <link>https://coinreport.net/cryptocurrency-exchange-gemini-launches-u-k/</link>
-            <guid isPermaLink="false">5fc417e8-43b9-4410-8da8-b6e84400f45e</guid>
-            <pubDate>Fri, 24 Jun 2016 14:23:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
