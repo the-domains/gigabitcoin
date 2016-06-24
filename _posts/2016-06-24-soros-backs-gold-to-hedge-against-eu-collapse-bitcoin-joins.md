@@ -29,12 +29,12 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  https://cointelegraph.com/news/soros-backs-gold-to-hedge-against-eu-collapse-bitcoin-joins-gold-as-brexit-hedge
+  http://cointelegraph.com/news/soros-backs-gold-to-hedge-against-eu-collapse-bitcoin-joins-gold-as-brexit-hedge
 title: >-
   Soros Backs Gold to Hedge Against EU Collapse, Bitcoin Joins Gold As Brexit
   Hedge
-datePublished: '2016-06-24T14:23:05.154Z'
-dateModified: '2016-06-24T11:13:32.852Z'
+datePublished: '2016-06-24T14:23:14.471Z'
+dateModified: '2016-06-23T18:13:31.387Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-24-soros-backs-gold-to-hedge-against-eu-collapse-bitcoin-joins.md
