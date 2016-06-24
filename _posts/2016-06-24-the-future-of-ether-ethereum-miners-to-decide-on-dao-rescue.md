@@ -28,10 +28,10 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  https://cointelegraph.com/news/the-future-of-ether-ethereum-miners-to-decide-on-dao-rescue-fix
+  http://cointelegraph.com/news/the-future-of-ether-ethereum-miners-to-decide-on-dao-rescue-fix
 title: 'The Future of Ether: Ethereum Miners to Decide on DAO Rescue Fix'
-datePublished: '2016-06-24T14:23:04.878Z'
-dateModified: '2016-06-24T11:13:34.039Z'
+datePublished: '2016-06-24T14:23:08.379Z'
+dateModified: '2016-06-24T09:13:44.242Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-24-the-future-of-ether-ethereum-miners-to-decide-on-dao-rescue.md
