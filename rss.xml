@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 14:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2016 14:24:08 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Crashes as Australian Auction Closes]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Crashes as Australian Auction Closes</h1><p>Bitcoin reached a low of $550 last night, down by more than one hundred dollars from $680 for the third day in a row. The unexpected crash coincides with the end of the first Australian Bitcoin Auction which closed around the same time as bitcoin's price movement.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/15d300abd850d2ad6741413740b66124/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzQyYzlkYzZiNTA4NzI3MTI1ZTVmMDBhN2IyZjRmMmJkLmpwZw%3D%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/bitcoin-crashes-as-australian-auction-closes</link>
+            <guid isPermaLink="false">8ad36fc3-f2a6-4c7a-aa28-9abef74ad269</guid>
+            <pubDate>Fri, 24 Jun 2016 14:23:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Soros Backs Gold to Hedge Against EU Collapse, Bitcoin Joins Gold As Brexit Hedge]]></title>
             <description><![CDATA[<article><h1>Soros Backs Gold to Hedge Against EU Collapse, Bitcoin Joins Gold As Brexit Hedge</h1><p>Fearing a possible EU collapse, and attempting to diversify away from a volatile dollar, billionaire George Soros has begun heavily investing in gold stocks. According to a Wall Street Journal article, Soros Fund Management, the $30 billion fund which oversees Soros's investments, made a series of large investments into precious metals.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ae74d19e9d4854d1005987c708a07a44/noop.png?input=http%3A%2F%2Fcointelegraph.com%2Fstorage%2Fuploads%2Fview%2F85e7589159ee8f459640001890b86884.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Why does Ethereum grant access to wallets by only knowing the private key (password) without knowing the public key (username)?</h1><p>Answer: The public key/private key cryptography has nothing to do with username and password. No-one needs to know both. When you want to send an encrypted message to someone, you only need to know his public key. That person uses his private key to decrypt the message. The inverse concept is use...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
             <link>https://www.quora.com/Why-does-Ethereum-grant-access-to-wallets-by-only-knowing-the-private-key-password-without-knowing-the-public-key-username</link>
             <guid isPermaLink="false">e763f670-9841-42a6-a6a9-9aa7b2e64297</guid>
-            <pubDate>Fri, 24 Jun 2016 14:23:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[North Carolina to vote on Anti-Bitcoin Act on Monday. Tell senators to vote no! * /r/Bitcoin]]></title>
-            <description><![CDATA[<article><h1>North Carolina to vote on Anti-Bitcoin Act on Monday. Tell senators to vote no! * /r/Bitcoin</h1><p>Sign the letters](http://bitcoinregsnc.com/) [NC Senate calendar for...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/718e1fcb46807eda069ac23313fa325e/noop.jpg?input=https%3A%2F%2Fi.redditmedia.com%2FxXqAUEu5CibTpt21n6i0WHIdWz6H6X820bL2AdqUsRM.jpg%3Fw%3D216%26s%3Dfb13758e7ca0d30e3e49468e2096dbb9"></article>]]></description>
-            <link>https://www.reddit.com/r/Bitcoin/comments/4pjxws/north_carolina_to_vote_on_antibitcoin_act_on/</link>
-            <guid isPermaLink="false">343cf46d-b914-49ca-8928-765618e908bc</guid>
             <pubDate>Fri, 24 Jun 2016 14:23:04 GMT</pubDate>
         </item>
     </channel>
