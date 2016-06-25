@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 02:29:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2016 02:29:50 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA['As If Identity Was the Goal': Antonopoulos Slams Blockchain KYC]]></title>
+            <description><![CDATA[<article><h1>'As If Identity Was the Goal': Antonopoulos Slams Blockchain KYC</h1><p>At his most recent talk in Toronto, Andreas Antonopoulos pointed out the folly of relying on tradition - particularly that of using identity verification - or what he calls the "means" that's no longer needed to achieve the end in blockchain transactions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b00959b8bc102ad67049d630edd24df6/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2FAndreas.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/identity-goal-antonopoulos-blockchains/</link>
+            <guid isPermaLink="false">9ac526b3-d9f2-44bc-8106-43c65827b753</guid>
+            <pubDate>Sat, 25 Jun 2016 02:29:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Rollercoaster Rides Brexit As Ether Price Holds Amid DAO Debacle - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Bitcoin Rollercoaster Rides Brexit As Ether Price Holds Amid DAO Debacle - CoinDesk</h1><p>Bitcoin and ether prices rode a rollercoaster during the week ending 24th June, plunging lower at some points and pushing higher at others as market participants responded to global economic uncertainty. The price of bitcoin approached $800, the looming 'Brexit' vote, the latest developments surrounding the collapse of The DAO and a trading outage at exchange Bitfinex all helped fuel these sharp price fluctuations.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2b330fdb499db94f3b5aefb3851a312c/noop.jpg?input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2FCoaster.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Watch; Reversal or Continuation? - NEWSBTC</h1><p>Here's what's on in our bitcoin price trading strategy this evening. The European session is about to draw to a close, it's time to take a second look at the action seen in the bitcoin price market today.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/76a1491458f26311cdb87278d8add4b4/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F23154715%2FScreen-Shot-2016-06-23-at-16.46.49.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/06/23/bitcoin-price-watch-reversal-continuation/</link>
             <guid isPermaLink="false">1943ad75-d8eb-45d8-b9de-2c4c1ab27ba6</guid>
-            <pubDate>Fri, 24 Jun 2016 14:23:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Member of R3 Finland's OP Financial Group is Recruiting Blockchain Talents]]></title>
-            <description><![CDATA[<article><h1>Member of R3 Finland's OP Financial Group is Recruiting Blockchain Talents</h1><p>During 2016, OP will be hiring over 100 digital experts to fulfill its mission of promoting sustainable prosperity and security and get OP through this financial breakthrough. Newspaper Tivi writes that digital experts will be needed to take on the roles of enterprise leaders and developers or heads of new projects in Blockchain technologies, IoT and cloud computing architecture.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9fdead5181ffba658f2f8416d1c0f0e6/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzlhZDA4OTYzODExNTlmZDk1MDcwZjhkODExZGRkNjBlLmpwZw%3D%3D.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/member-of-r3-finlands-op-financial-group-is-recruiting-blockchain-talents</link>
-            <guid isPermaLink="false">350168dd-038d-4f37-ba6d-b39fa7f9edd6</guid>
             <pubDate>Fri, 24 Jun 2016 14:23:17 GMT</pubDate>
         </item>
     </channel>
