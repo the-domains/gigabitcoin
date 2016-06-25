@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 18:55:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2016 18:55:13 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The Ether Review #29 - Gavin and Ken of Ethcore, Parity and Web 3]]></title>
-            <description><![CDATA[<article><h1>The Ether Review #29 - Gavin and Ken of Ethcore, Parity and Web 3</h1><p>Today we have Ethereum founder and Ethcore CEO, Gavin Wood and head of business development at Ethcore, Ken Kappler. We take a look at their Parity client and the Web 3 concept. We look at the future of Bitcoin - Ethereum interoperation, Geth security flaws, Whisper, Swarm, the DAO and even the possibility of sidechains on Ethereum.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b772dc7308e6a8fefe57818d12810d9f/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1834-3a3295e283411337661da41a842b5d95c212e56151544a73abc8dcd67f0509f7.jpg"></article>]]></description>
-            <link>https://letstalkbitcoin.com/blog/post/the-ether-review-29-gavin-and-ken-of-ethcore-parity-and-web-3</link>
-            <guid isPermaLink="false">ca85707f-444f-4491-8b1f-ae600e26983b</guid>
-            <pubDate>Sat, 25 Jun 2016 18:55:08 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[The Ethereum Foundation Releases The Soft Fork Update]]></title>
             <description><![CDATA[<article><h1>The Ethereum Foundation Releases The Soft Fork Update</h1><p>The Ethereum Foundation made public the release of a new Geth client software, featuring an update to freeze all the funds linked to The DAO, effectively making the stolen ether useless. The hacker and perpetrator of the massive heist will be unable to collect the money.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a14bddb40c50c8b5b080c4106ef8a328/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F03%2Fethereum-mining-centralized.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Complex Bitcoin Phishing Scheme Revealed - Cisco's OpenDNS Security Team</h1><p>Criminals have started staging phishing campaigns having discovered that Bitcoin can provide an easier way to steal, says Cisco's OpenDNS security team after they revealed a complex phishing scheme aimed at collecting user credentials from various Bitcoin-related services.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/63ae80f455119083ba0bab50bfeeef56/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzE2YWRmZDg5ZTNlZDU4ODliZDRiYTcwZTkxN2VjNWQyLnBuZw%3D%3D.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/complex-bitcoin-phishing-scheme-revealed-ciscos-opendns-security-team</link>
             <guid isPermaLink="false">24ffcfa1-dd0e-47b3-9844-a3488125c0bf</guid>
+            <pubDate>Sat, 25 Jun 2016 15:03:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[You know we have new people when everyone's asking if they should start mining. Lol * /r/Bitcoin]]></title>
+            <description><![CDATA[<article><h1>You know we have new people when everyone's asking if they should start mining. Lol * /r/Bitcoin</h1><p>82 points and 27 comments so far on reddit</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
+            <link>https://www.reddit.com/r/Bitcoin/comments/4pqjih/you_know_we_have_new_people_when_everyones_asking/</link>
+            <guid isPermaLink="false">ab754149-bd38-4a87-b729-1a3ef71eee28</guid>
             <pubDate>Sat, 25 Jun 2016 15:03:02 GMT</pubDate>
         </item>
     </channel>
