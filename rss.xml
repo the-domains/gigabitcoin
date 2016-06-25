@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 02:30:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2016 02:30:42 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blockchain Startup Everledger Joins MasterCard Incubator - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Blockchain Startup Everledger Joins MasterCard Incubator - CoinDesk</h1><p>MasterCard has selected diamond provenance startup Everledger for its summer startup incubator. One of seven companies to join the 2016 Start Path Global program, Everledger and the other participants will receive assistance from MasterCard to scale their operations and enter new markets. The startups will begin the program by working with MasterCard during ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76b14c8a463c77253908b367e0c0f3cbb9a82224.png"></article>]]></description>
+            <link>http://www.coindesk.com/blockchain-startup-everledger-joins-mastercard-incubator/</link>
+            <guid isPermaLink="false">fb8510b6-b29c-44fe-af54-eb871ac0f476</guid>
+            <pubDate>Sat, 25 Jun 2016 02:29:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[As Global Currencies Plunge, Investors Are Turning to Bitcoin]]></title>
             <description><![CDATA[<article><h1>As Global Currencies Plunge, Investors Are Turning to Bitcoin</h1><p>Global currencies might be plunging in the wake of the historic Brexit vote, but it's had a much different effect on Bitcoin. Bitcoin, the cryptocurrency that had been plunging in recent days, is soaring on Friday after the Brexit vote. As of this writing, Bitcoin is trading at $667.41 per unit, up significantly from a Thursday low of $582.92.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1452542e9acfca588f3a75f62edc4034651f578c.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Is there a correlation between the price of Bitcoin and the stock markets?</h1><p>6 people want answers to this question. Be the first to answer.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
             <link>https://www.quora.com/unanswered/Is-there-a-correlation-between-the-price-of-Bitcoin-and-the-stock-markets</link>
             <guid isPermaLink="false">1efed351-9de4-48b2-906f-9d7138a72c36</guid>
-            <pubDate>Sat, 25 Jun 2016 02:29:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Segregated witness rebased by sipa · Pull Request #8149 · bitcoin/bitcoin]]></title>
-            <description><![CDATA[<article><h1>Segregated witness rebased by sipa · Pull Request #8149 · bitcoin/bitcoin</h1><p>This PR is a rebased and squashed version of #7910. As this is the form (in pieces or in whole) that we expect it to be merged in, I'm opening a separate pull request for it. I will leave the old o...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd3d12efa4a627f2489c35b58711accc959b1580.jpg"></article>]]></description>
-            <link>https://github.com/bitcoin/bitcoin/pull/8149</link>
-            <guid isPermaLink="false">14023081-d688-4cf4-aa79-863946db38ed</guid>
             <pubDate>Sat, 25 Jun 2016 02:29:46 GMT</pubDate>
         </item>
     </channel>
