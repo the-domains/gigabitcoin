@@ -7,29 +7,27 @@ publisher:
   favicon: 'https://www.quora.com/favicon.ico'
   domain: www.quora.com
 keywords:
-  - bitcoin
-  - currency
-  - digitally
-  - printed
-  - gold
-  - money
-  - mathematics
-  - bank
-  - dollar
-  - based
+  - trump
+  - fox
+  - procla
+  - ooooh
+  - won
+  - cartels
+  - news
+  - mexican
+  - amendment
+  - liberal
 description: >-
-  What is Bitcoin? Bitcoin is a form of digital currency, created and held
-  electronically. No one controls it. Bitcoins aren't printed, like dollars or
-  euros - they're produced by people, and increasingly businesses, running
-  computers all around the world, using software that solves mathematical
-  problems. It's the first example of a growing category of money known as
-  cryptocurrency.
+  Trump would say he won, then celebrate as if he won, then go on Fox News and
+  state that the liberal media who was telling everyone that Obama had won the
+  debate are being influenced by the Mexican Cartels. Amendment: Considering
+  recent events (Trump Vs. Fox "News"!
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://www.quora.com/What-is-the-bitcoin-how-we-earn-money'
+isBasedOnUrl: 'https://www.quora.com/unanswered/What-is-the-bitcoin-how-we-earn-money'
 title: What is the bitcoin how we earn money?
-datePublished: '2016-06-25T02:29:46.610Z'
-dateModified: '2016-06-24T22:35:46.359Z'
+datePublished: '2016-06-25T02:29:47.906Z'
+dateModified: '2016-06-24T17:36:03.726Z'
 starred: false
 sourcePath: _posts/2016-06-25-what-is-the-bitcoin-how-we-earn-money.md
 inFeed: true
@@ -39,4 +37,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>What is the bitcoin how we earn money?</h1><p>What is Bitcoin? Bitcoin is a form of digital currency, created and held electronically. No one controls it. Bitcoins aren't printed, like dollars or euros - they're produced by people, and increasingly businesses, running computers all around the world, using software that solves mathematical problems. It's the first example of a growing category of money known as cryptocurrency.</p><img src="https://qsf.ec.quoracdn.net/-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png" /></article>
+<article style=""><h1>What is the bitcoin how we earn money?</h1><p>Trump would say he won, then celebrate as if he won, then go on Fox News and state that the liberal media who was telling everyone that Obama had won the debate are being influenced by the Mexican Cartels. Amendment: Considering recent events (Trump Vs. Fox "News"!</p><img src="https://qsf.ec.quoracdn.net/-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png" /></article>
