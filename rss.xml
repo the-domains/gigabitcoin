@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 02:32:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2016 02:32:17 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Here's Where This Weekend's Profits Are Coming From - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Here's Where This Weekend's Profits Are Coming From - NEWSBTC</h1><p>Here's what's on for the weekend in the bitcoin price, in the wake of the referendum out of the UK. The dominating topic for the day has been the British referendum, and the ensuing decoupling of the UK from its European Union counterparts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8b9ff03d113f1d9d02db2fc3c7ed274f/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F24155518%2FScreen-Shot-2016-06-24-at-16.50.37.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/24/bitcoin-price-watch-heres-weekends-profits-coming/</link>
-            <guid isPermaLink="false">68b6133c-c9be-4845-9286-f2f43b793430</guid>
-            <pubDate>Sat, 25 Jun 2016 02:29:49 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[BNP Paribas Lab to Focus on Distributed Ledgers - CoinDesk]]></title>
             <description><![CDATA[<article><h1>BNP Paribas Lab to Focus on Distributed Ledgers - CoinDesk</h1><p>BNP Paribas Securities Services, a subsidiary of French bank BNP Paribas, has announced a new innovation lab that will focus on big data and distributed ledger tech. The bank said that the lab will seek to build solutions for data management and visualization, as well as tools that help clients manage cash and liquidity requirements.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76b14c8a463c77253908b367e0c0f3cbb9a82224.png"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Consumers Have No Access To Pound Sterling Due To Foreign Exchange Shortage</h1><p>One of the more worrisome side effects of the Brexit is how consumers are struggling to buy Pounds Sterling. After the price had dropped to its lowest point over 30 years, a lot of people started buying up Pounds en masse. Foreign currency providers are feeling the effects, as they have no stock to meet customer demand.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f6e3862a42e09f55d61fe1ba27fa446b/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_382383667.jpg"></article>]]></description>
             <link>http://themerkle.com/consumers-have-no-access-to-pound-sterling-due-to-foreign-exchange-shortage/</link>
             <guid isPermaLink="false">755ea1e2-1e0d-4269-9fa3-f11b92de1135</guid>
+            <pubDate>Sat, 25 Jun 2016 02:29:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ardor - New Competitor to Ethereum Arises Amidst Reports of The DAO Attack]]></title>
+            <description><![CDATA[<article><h1>Ardor - New Competitor to Ethereum Arises Amidst Reports of The DAO Attack</h1><p>Ardor, a "child chain" platform developed by the Nxt core dev team, is announced. The news comes amidst reports of The DAO hack. The event, which led to up 50 million Ether being lost to attackers, has had a very negative impact on Ethereum - the most popular Blockchain-as-a-Service platform so far.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b04be8d8328ffaa5f5e6c543c9b638c2/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fstorage%2Fuploads%2Fview%2F53acc6ada8c5f378b7c41483d0a1ca21.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/ardor-new-competitor-to-ethereum-arises-amidst-reports-of-the-dao-attack</link>
+            <guid isPermaLink="false">9418dff1-12bb-406b-b4e7-95ca1f22b76e</guid>
             <pubDate>Sat, 25 Jun 2016 02:29:48 GMT</pubDate>
         </item>
     </channel>
