@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 18:56:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2016 18:55:32 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The Ether Review #31 - Aftermath, Discussing the DAO Hack]]></title>
-            <description><![CDATA[<article><h1>The Ether Review #31 - Aftermath, Discussing the DAO Hack</h1><p>So the DAO was hacked. Karl Floersch and myself discuss the state of play. What happened? Was it the fault of the DAO developers or a bug in the Solidity language? What does this mean for the ecosystem? How should we respond as a community?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/31c18dbaef179abd7c01f76d776ca75d/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1836-31b81b9b4ad3685dfc5ef05fc5bd2b2af74521ef6f296178385fc818480d14f7.jpg"></article>]]></description>
-            <link>https://letstalkbitcoin.com/blog/post/the-ether-review-31-aftermath-discussing-the-dao-hack</link>
-            <guid isPermaLink="false">f0d3e0e3-0ea5-4c92-9814-970d87a5a16b</guid>
-            <pubDate>Sat, 25 Jun 2016 18:55:08 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[The Ether Review #29 - Gavin and Ken of Ethcore, Parity and Web 3]]></title>
             <description><![CDATA[<article><h1>The Ether Review #29 - Gavin and Ken of Ethcore, Parity and Web 3</h1><p>Today we have Ethereum founder and Ethcore CEO, Gavin Wood and head of business development at Ethcore, Ken Kappler. We take a look at their Parity client and the Web 3 concept. We look at the future of Bitcoin - Ethereum interoperation, Geth security flaws, Whisper, Swarm, the DAO and even the possibility of sidechains on Ethereum.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b772dc7308e6a8fefe57818d12810d9f/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1834-3a3295e283411337661da41a842b5d95c212e56151544a73abc8dcd67f0509f7.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>India's Reserve Bank Talks Up Blockchain Amidst Brexit Fears</h1><p>Central bankers everywhere are looking wide-eyed at the underlying technology that powers the cryptocurrency Bitcoin. Now with the economic uncertainty brought on by the reality of Brexit, the Reserve Bank of India is preparing by studying blockchain technology and stashing forex reserves.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/819ee973e4c6805ccea10c232b8d60e8/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2FRBI-Talks-Blockchain-Amidst-Brexit-Fears.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/india-reserve-bank-blockchain-brexit/</link>
             <guid isPermaLink="false">d682ffbe-a5f2-4a35-93f9-9c4a4159343e</guid>
+            <pubDate>Sat, 25 Jun 2016 15:03:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Complex Bitcoin Phishing Scheme Revealed - Cisco's OpenDNS Security Team]]></title>
+            <description><![CDATA[<article><h1>Complex Bitcoin Phishing Scheme Revealed - Cisco's OpenDNS Security Team</h1><p>Criminals have started staging phishing campaigns having discovered that Bitcoin can provide an easier way to steal, says Cisco's OpenDNS security team after they revealed a complex phishing scheme aimed at collecting user credentials from various Bitcoin-related services.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/63ae80f455119083ba0bab50bfeeef56/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzE2YWRmZDg5ZTNlZDU4ODliZDRiYTcwZTkxN2VjNWQyLnBuZw%3D%3D.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/complex-bitcoin-phishing-scheme-revealed-ciscos-opendns-security-team</link>
+            <guid isPermaLink="false">24ffcfa1-dd0e-47b3-9844-a3488125c0bf</guid>
             <pubDate>Sat, 25 Jun 2016 15:03:02 GMT</pubDate>
         </item>
     </channel>
