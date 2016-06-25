@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 02:30:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2016 02:30:44 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Google Trends]]></title>
+            <description><![CDATA[<article><h1>Google Trends</h1><p>See the latest trends, data and visualizations from Google. Find out what's trending near you right now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3eab3f29c00004ccde285d1843fb8e71d6f2456e.png"></article>]]></description>
+            <link>https://www.google.com/trends/</link>
+            <guid isPermaLink="false">c187997c-6dd9-4d64-be44-4e077f933164</guid>
+            <pubDate>Sat, 25 Jun 2016 02:29:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article><img src="http://imgur.com/MhhS3ic.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The DAO's Existential Crisis: Bitcoin Still Not Affected</h1><p>Disclaimer: This is a legal analysis (But Not Legal Advice) regarding the DAO exploit. Nothing herein is intended to be understood as legal advice. Consult a lawyer qualified to provide legal advice in your jurisdiction. Are smart contract implementations requiring zero human intervention reliable?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/091caed116d5d6fcd864356fff8089b6/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2FLe_penseur_de_la_Porte_de_lEnfer_muse%25CC%2581e_Rodin_4528252054.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/dao-legal-bitcoin-not-affected/</link>
             <guid isPermaLink="false">ae1038df-32bc-4061-a4d6-7179359b6904</guid>
-            <pubDate>Sat, 25 Jun 2016 02:29:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How does speed/timing factor into Blockchain?]]></title>
-            <description><![CDATA[<article><h1>How does speed/timing factor into Blockchain?</h1><p>Answer: If you mean the rate of inflation and transaction speed, they are controlled by the coin generation rules and difficulty algorithm (complexity of hash). The greater the mining participation, the greater the difficulty, and visa versa. The magic lies in this difficulty adjustment. While B...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
-            <link>https://www.quora.com/How-does-speed-timing-factor-into-Blockchain</link>
-            <guid isPermaLink="false">966ae679-3c1e-4695-8372-43dfb8476bb0</guid>
             <pubDate>Sat, 25 Jun 2016 02:29:46 GMT</pubDate>
         </item>
     </channel>
