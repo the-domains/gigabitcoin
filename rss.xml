@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 15:03:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2016 15:03:44 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Ethereum for the Overwhelmed Layman - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Ethereum for the Overwhelmed Layman - CoinDesk</h1><p>Jacob Eliosoff is a computer programmer who has also worked as a Wall Street quant and as a teacher. These days he runs Calibrated Markets LLC, a cryptocurrency algorithmic trading firm. In this opinion piece, Eliosoff takes on the difficult task of explaining next-generation blockchain platform ethereum in everyday terms, outlining its strengths and weaknesses, and how these position it within the wider framework of blockchain innovation.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aafd7bf8972fd14e6b76da51b7291f38/noop.jpg?input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2Fhelp-consumer-1-e1466706626768.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/ethereum-overwhelmed-layman/</link>
-            <guid isPermaLink="false">3f1ca57c-38c5-4125-ab1e-86ad9f70f438</guid>
-            <pubDate>Sat, 25 Jun 2016 15:03:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Buyers Seek Haven From British Pound After Brexit Vote]]></title>
             <description><![CDATA[<article><h1>Bitcoin Buyers Seek Haven From British Pound After Brexit Vote</h1><p>Demand surged for bitcoin as a safe haven from the British pound, which plummeted after the U.K. voted to leave the European Union. The pound fell to its lowest in more than 30 years, driving demand for assets such as U.S. Treasuries and gold.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0e9b2fa28b9a58071013c45e0311cc6e5e7fc7e.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>DHS Awards Millions in Grants to Blockchain, Cybersecurity Projects</h1><p>The U. S. Department of Homeland Security (DHS) Science and Technology Directorate (S&T) awarded Austin, Texas-based $199,000 to Factom Inc. to advance digital identity security for Internet of Things (IoT) devices. The award was one of several DHS S&T awards to support the development of security solutions that involve blockchain technology.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e506ea0fdfcd6a772f970c877c83779c/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2015%2F12%2FDHS.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/dhs-awards-millions-in-grants-to-blockchain-cybersecurity-projects/</link>
             <guid isPermaLink="false">fa7ad0ba-f60e-48d0-aaef-300f84b4dc07</guid>
+            <pubDate>Sat, 25 Jun 2016 02:29:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Watch; Here's Where This Weekend's Profits Are Coming From - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Watch; Here's Where This Weekend's Profits Are Coming From - NEWSBTC</h1><p>Here's what's on for the weekend in the bitcoin price, in the wake of the referendum out of the UK. The dominating topic for the day has been the British referendum, and the ensuing decoupling of the UK from its European Union counterparts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8b9ff03d113f1d9d02db2fc3c7ed274f/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F24155518%2FScreen-Shot-2016-06-24-at-16.50.37.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/24/bitcoin-price-watch-heres-weekends-profits-coming/</link>
+            <guid isPermaLink="false">68b6133c-c9be-4845-9286-f2f43b793430</guid>
             <pubDate>Sat, 25 Jun 2016 02:29:49 GMT</pubDate>
         </item>
     </channel>
