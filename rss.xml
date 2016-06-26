@@ -7,13 +7,6 @@
         <lastBuildDate>Sun, 26 Jun 2016 20:46:53 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[BiteMiner Feels Like A Revamped HashOcean]]></title>
-            <description><![CDATA[<article><h1>BiteMiner Feels Like A Revamped HashOcean</h1><p>Users who are interested in Bitcoin cloud mining may have taken notice of the BiteMiner website already. This platform looks very similar to what HashOcean has been offering, as they provide users with a free 15 kh/s of mining power when signing up.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0a954208ab588a0a75007e5614c455ba/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_392801518.jpg"></article>]]></description>
-            <link>http://themerkle.com/biteminer-feels-like-a-revamped-hashocean/</link>
-            <guid isPermaLink="false">6600c23a-4609-41f9-a02c-229b7ad60b3e</guid>
-            <pubDate>Sun, 26 Jun 2016 20:46:17 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[What is the largest company that has ceased accepting fiat payments in favor of Bitcoin?]]></title>
             <description><![CDATA[<article><h1>What is the largest company that has ceased accepting fiat payments in favor of Bitcoin?</h1><p>We know there are many large companies that now accept Bitcoin transactions (Dell, Overstock, Expedia, etc) however they still accept fiat payments from legacy credit card systems. Which large com...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/46076/what-is-the-largest-company-that-has-ceased-accepting-fiat-payments-in-favor-of</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Bitcoin VS Ethereum: Cryptocurrency Comparison</h1><p>Since its release in early 2009, Bitcoin has been the trailblazing leader of the cryptocurrency revolution. Countless imitators have come and gone but Bitcoin remains dominant, despite nearing the current limits of its transactional capacity. Ethereum, created mid-2015, is Bitcoin's strongest rival...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/60251a9ea5efa855869864812281eda6/noop.png?input=https%3A%2F%2F99bitcoins.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fbitcoin-vs-ethereum.png"></article>]]></description>
             <link>https://99bitcoins.com/bitcoin-vs-ethereum-cryptocurrency-comparison/</link>
             <guid isPermaLink="false">f84206f7-cf23-4c15-9b4d-943d6e89f834</guid>
+            <pubDate>Sun, 26 Jun 2016 17:00:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin News for the week of 6/20/16]]></title>
+            <description><![CDATA[<article><h1>Bitcoin News for the week of 6/20/16</h1><p>Welcome to our weekly bitcoin news recap, where we cover top headlines and stories in the world of bitcoin each week. This week we learned that the inventor of Skype has been studying ways in which blockchain technology can solve significant world issues.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/13d122b265e359d136a45377f3f6255f/noop.jpg?input=https%3A%2F%2Fi2.wp.com%2Fblog.blockchain.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fskype.jpg%3Fresize%3D621%252C388%26ssl%3D1"></article>]]></description>
+            <link>https://blog.blockchain.com/2016/06/26/bitcoin-news-for-the-week-of-62016/</link>
+            <guid isPermaLink="false">175a9ca7-a20a-4272-94b6-58da5e3e06df</guid>
             <pubDate>Sun, 26 Jun 2016 17:00:41 GMT</pubDate>
         </item>
     </channel>
