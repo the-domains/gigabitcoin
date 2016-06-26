@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 20:46:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2016 20:46:53 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is the difference between blockchain and Ethereum?]]></title>
+            <description><![CDATA[<article><h1>What is the difference between blockchain and Ethereum?</h1><p>This question needs editing to be improved This question needs editing to be improved. It may need to be reworded as a fully formed question, need spelling, grammar, or formatting improved (learn more about formatting on Quora), be ambiguous or difficult to understand, be too reliant on question details, be directed at a specific person, or overly verbose.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/What-is-the-difference-between-blockchain-and-Ethereum</link>
+            <guid isPermaLink="false">0727f5aa-1837-44f0-80d2-803260bb172f</guid>
+            <pubDate>Sun, 26 Jun 2016 20:46:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How can blockchain tech be used for device management (authentication, policies etc) in IoT?]]></title>
             <description><![CDATA[<article><h1>How can blockchain tech be used for device management (authentication, policies etc) in IoT?</h1><p>Nokia's ringtone composer. The original nokia phones had only monophonic ringtones. Almost nobody used the bundled ringtones, especially in India. The best thing Nokia did was to include a basic ringtone composer with most of their models. The composer was simple to use but you had to have had some form of training in western music to make sense of it.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/SatoshiLite/status/746946456393654272</link>
             <guid isPermaLink="false">ad488d89-f0bc-4018-bedc-ac8dff884688</guid>
             <pubDate>Sun, 26 Jun 2016 17:00:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoinity.org]]></title>
-            <description><![CDATA[<article><h1>Bitcoinity.org</h1><p>This part of site is currently under development. If you have any suggestions, ideas or if you found some issue, let me know</p></article>]]></description>
-            <link>http://data.bitcoinity.org/markets/volume/6m/GBP?c=e&amp;amp;t=a</link>
-            <guid isPermaLink="false">9867e30b-3d57-4941-b48f-6060d94d46fc</guid>
-            <pubDate>Sun, 26 Jun 2016 16:32:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
