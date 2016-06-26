@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 20:46:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2016 20:46:52 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How can blockchain tech be used for device management (authentication, policies etc) in IoT?]]></title>
+            <description><![CDATA[<article><h1>How can blockchain tech be used for device management (authentication, policies etc) in IoT?</h1><p>Nokia's ringtone composer. The original nokia phones had only monophonic ringtones. Almost nobody used the bundled ringtones, especially in India. The best thing Nokia did was to include a basic ringtone composer with most of their models. The composer was simple to use but you had to have had some form of training in western music to make sense of it.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/How-can-blockchain-tech-be-used-for-device-management-authentication-policies-etc-in-IoT</link>
+            <guid isPermaLink="false">d4b98225-0b20-453e-9bff-076e1e4252a1</guid>
+            <pubDate>Sun, 26 Jun 2016 20:46:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[American Institute of CPA Seeks Clarification on Bitcoin Taxes from IRS - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>American Institute of CPA Seeks Clarification on Bitcoin Taxes from IRS - NEWSBTC</h1><p>The American Institute of CPA has written a letter to the IRS asking for clarification about the taxation applicable for digital currency holdings. Should Bitcoin be taxable? The question is a ticking time bomb, worthy of a fiery debate. Most people in the bitcoin community believe that the digital currency should not be taxable, as the founder(s) had originally intended.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dd6937975ccc07e9da07d23e42e64a45/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F26195102%2FIRS_logo.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoinity.org</h1><p>This part of site is currently under development. If you have any suggestions, ideas or if you found some issue, let me know</p></article>]]></description>
             <link>http://data.bitcoinity.org/markets/volume/6m/GBP?c=e&amp;amp;t=a</link>
             <guid isPermaLink="false">9867e30b-3d57-4941-b48f-6060d94d46fc</guid>
-            <pubDate>Sun, 26 Jun 2016 16:32:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is Bitcoin?]]></title>
-            <description><![CDATA[<article><h1>What is Bitcoin?</h1><p>Introduction to Bitcoin Bitcoin Tunisie : https://fb.com/BitcoinTunisie</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/02ed1c15ef7282acf4a3756792198fd8/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FBggXcPZRTm0%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>http://www.youtube.com/watch?v=BggXcPZRTm0</link>
-            <guid isPermaLink="false">4e3a7c79-662c-4927-b95d-d7b68bdfed6c</guid>
             <pubDate>Sun, 26 Jun 2016 16:32:26 GMT</pubDate>
         </item>
     </channel>
