@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 17:01:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2016 17:00:44 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin News for the week of 6/20/16]]></title>
-            <description><![CDATA[<article><h1>Bitcoin News for the week of 6/20/16</h1><p>Welcome to our weekly bitcoin news recap, where we cover top headlines and stories in the world of bitcoin each week. This week we learned that the inventor of Skype has been studying ways in which blockchain technology can solve significant world issues.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/13d122b265e359d136a45377f3f6255f/noop.jpg?input=https%3A%2F%2Fi2.wp.com%2Fblog.blockchain.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fskype.jpg%3Fresize%3D621%252C388%26ssl%3D1"></article>]]></description>
-            <link>https://blog.blockchain.com/2016/06/26/bitcoin-news-for-the-week-of-62016/</link>
-            <guid isPermaLink="false">175a9ca7-a20a-4272-94b6-58da5e3e06df</guid>
-            <pubDate>Sun, 26 Jun 2016 17:00:41 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>In the future, we are going to hire hackers to look over a smart contract just like we hire lawyers to look over a contract today.</p>]]></description>
@@ -75,6 +68,13 @@
             <link>http://www.newsbtc.com/2016/06/26/33295/</link>
             <guid isPermaLink="false">cdf6d2c8-a4ab-4755-97be-af2b33b24d37</guid>
             <pubDate>Sun, 26 Jun 2016 16:32:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin and Blockchain Leading the Revolution in the Global Monetary System]]></title>
+            <description><![CDATA[<article><h1>Bitcoin and Blockchain Leading the Revolution in the Global Monetary System</h1><p>A technology revolution is disrupting the financial services industry and could make digital currency and blockchain transactions commonplace in just a few years, financial technology and fintech experts argued in a session on the topic at the Annual Meeting of the New Champions 2016.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/783f91701e1c86ce2c5fe53cc1c0e952/noop.jpg?input=http%3A%2F%2Fmoderndiplomacy.eu%2Fmedia%2Fk2%2Fitems%2Fcache%2F68e3eaa9d829c459454ed745e7bf69f0_L.jpg"></article>]]></description>
+            <link>http://moderndiplomacy.eu/index.php?option=com_k2&amp;view=item&amp;id=1527:bitcoin-and-blockchain-leading-the-revolution-in-the-global-monetary-system&amp;Itemid=490</link>
+            <guid isPermaLink="false">ac58e4e9-e342-496c-9a9d-5814a90e4623</guid>
+            <pubDate>Sun, 26 Jun 2016 16:32:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
