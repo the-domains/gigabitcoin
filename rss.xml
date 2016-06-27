@@ -4,8 +4,57 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 01:40:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2016 01:41:26 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Blocksize Debate & Concerns]]></title>
+            <description><![CDATA[<article><h1>The Blocksize Debate & Concerns</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/371b439536880d83844b895a1b1cee37/croprotate.png?cropheight=76&cropwidth=76&degrees=0&input=https%3A%2F%2Fbitcointalk.org%2Fuseravatars%2Favatar_507008.png&x=2&y=2"></article>]]></description>
+            <link>https://bitcointalk.org/index.php?topic=1520693.msg15303746</link>
+            <guid isPermaLink="false">5c47762d-c60b-456d-a30e-25cb153c7143</guid>
+            <pubDate>Mon, 27 Jun 2016 01:40:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Capital Gains: Fresh funds for Chinese bitcoin, lots of fintech, art shopping and more]]></title>
+            <description><![CDATA[<article><h1>Capital Gains: Fresh funds for Chinese bitcoin, lots of fintech, art shopping and more</h1><p>Baidu makes a fintech bet against Tencent and Alibaba.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/911e60b7dac63db978fd0d5ed642f1dc/croprotate.jpg?cropheight=2824&cropwidth=4234&degrees=0&input=https%3A%2F%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F49929581%2FGettyImages-167505734.0.0.jpg&x=0&y=0"></article>]]></description>
+            <link>http://www.recode.net/2016/6/26/12034152/capital-gains-chinese-bitcoin-fintech-art-shopping</link>
+            <guid isPermaLink="false">a392ffdf-c957-4c81-b788-39b583050a9f</guid>
+            <pubDate>Mon, 27 Jun 2016 01:40:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The "Bitcoin Relay Network" seems to (intentionally?!) not relay blocks voting for 2MB * /r/btc]]></title>
+            <description><![CDATA[<article><h1>The "Bitcoin Relay Network" seems to (intentionally?!) not relay blocks voting for 2MB * /r/btc</h1><p>From looking at the logs it was just a hunch that lead me to look into the issue further. What I found looks pretty obvious: $ for BLOCK in...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
+            <link>https://www.reddit.com/r/btc/comments/4pxbvr/the_bitcoin_relay_network_seems_to_intentionally/</link>
+            <guid isPermaLink="false">c0678392-8852-49c9-9932-92bf29097791</guid>
+            <pubDate>Mon, 27 Jun 2016 01:40:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What does Ripple do in the blockchain space?]]></title>
+            <description><![CDATA[<article><h1>What does Ripple do in the blockchain space?</h1><p>4 people want answers to this question. Be the first to answer.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/What-does-Ripple-do-in-the-blockchain-space</link>
+            <guid isPermaLink="false">181dc323-37a3-4e57-91f8-03d5b0818739</guid>
+            <pubDate>Mon, 27 Jun 2016 01:40:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How can blockchain tech be used for device management (authentication, policies etc) in IoT?]]></title>
+            <description><![CDATA[<article><h1>How can blockchain tech be used for device management (authentication, policies etc) in IoT?</h1><p>One of the primary strength that blockchain brings is its inherent security in a shared ecosystem ( multiple authorized contributors writing to a distributed database). With blockchain, all transactions and their histories can be quickly traced, manipulated/forged transactions can be easily detected.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
+            <link>https://www.quora.com/How-can-blockchain-tech-be-used-for-device-management-authentication-policies-etc-in-IoT</link>
+            <guid isPermaLink="false">d91fe012-0ade-4000-8900-3dca3b4c9bf1</guid>
+            <pubDate>Mon, 27 Jun 2016 01:40:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Should We Prepare Smart Contracts to Replace Law Firms?]]></title>
+            <description><![CDATA[<article><h1>How Should We Prepare Smart Contracts to Replace Law Firms?</h1><p>With the recent attack on the Ethereum DAO, it raises the question of how much technical knowledge do individuals and organizations need to know before applying smart contracts to their businesses? Also read: UK Credit Rating Downgraded Amid Post-Brexit Uncertainty Recently, an from the Australian Financial Review explained that distributed ledger tech may be a blessing for lawyers, while Quartz has said, "The technology behind bitcoin could replace lawyers."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aca8f14e9213a28ecacf4598228cfd84/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2FSmart-Contracts-Wont-Replace-Law-Firms-Any-Time-Soon.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/smart-contracts-replace-law-firms/</link>
+            <guid isPermaLink="false">2ad5a79b-d183-4f49-aef0-3505e0f8706e</guid>
+            <pubDate>Mon, 27 Jun 2016 01:40:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[If blockchain is a public ledger, then how can it be applied to finance, where privacy is important?]]></title>
+            <description><![CDATA[<article><h1>If blockchain is a public ledger, then how can it be applied to finance, where privacy is important?</h1><p>Answer (1 of 2): Blockchain is designed to increase transparency and make middle and back-office processes efficient by removing the need to share information between interested parties. Therefore, Governance on who joins a blockchain, how data is placed on the blockchain, what format is used to ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
+            <link>https://www.quora.com/If-blockchain-is-a-public-ledger-then-how-can-it-be-applied-to-finance-where-privacy-is-important</link>
+            <guid isPermaLink="false">b4aaf0b2-9079-4ad3-a38c-5cfc0f400ab2</guid>
+            <pubDate>Mon, 27 Jun 2016 01:40:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Ethereum Soft Fork Has Been Adopted by Major Mining Pools. - The Merkle]]></title>
             <description><![CDATA[<article><h1>The Ethereum Soft Fork Has Been Adopted by Major Mining Pools. - The Merkle</h1><p>The proposed Ethereum Soft fork to prevent the DAO hacker from moving the stolen funds has been adopted by all the major mining pools. The latest update released by the Ethereum foundation included the necessary protocol rules to essentially nullify the efforts of the mysterious DAO hacker.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a07eb1a24f1b274f5c0a5b6a55d4e8f6e02d21fb.gif"></article>]]></description>
@@ -25,55 +74,6 @@
             <description><![CDATA[<article><h1>BiteMiner Feels Like A Revamped HashOcean</h1><p>Users who are interested in Bitcoin cloud mining may have taken notice of the BiteMiner website already. This platform looks very similar to what HashOcean has been offering, as they provide users with a free 15 kh/s of mining power when signing up.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0a954208ab588a0a75007e5614c455ba/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_392801518.jpg"></article>]]></description>
             <link>http://themerkle.com/biteminer-feels-like-a-revamped-hashocean/</link>
             <guid isPermaLink="false">6600c23a-4609-41f9-a02c-229b7ad60b3e</guid>
-            <pubDate>Sun, 26 Jun 2016 20:46:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is the largest company that has ceased accepting fiat payments in favor of Bitcoin?]]></title>
-            <description><![CDATA[<article><h1>What is the largest company that has ceased accepting fiat payments in favor of Bitcoin?</h1><p>We know there are many large companies that now accept Bitcoin transactions (Dell, Overstock, Expedia, etc) however they still accept fiat payments from legacy credit card systems. Which large com...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/46076/what-is-the-largest-company-that-has-ceased-accepting-fiat-payments-in-favor-of</link>
-            <guid isPermaLink="false">dee571e6-51e1-42db-8389-585b6ce2422f</guid>
-            <pubDate>Sun, 26 Jun 2016 20:46:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is the difference between blockchain and Ethereum?]]></title>
-            <description><![CDATA[<article><h1>What is the difference between blockchain and Ethereum?</h1><p>This question needs editing to be improved This question needs editing to be improved. It may need to be reworded as a fully formed question, need spelling, grammar, or formatting improved (learn more about formatting on Quora), be ambiguous or difficult to understand, be too reliant on question details, be directed at a specific person, or overly verbose.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
-            <link>https://www.quora.com/unanswered/What-is-the-difference-between-blockchain-and-Ethereum</link>
-            <guid isPermaLink="false">0727f5aa-1837-44f0-80d2-803260bb172f</guid>
-            <pubDate>Sun, 26 Jun 2016 20:46:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How can blockchain tech be used for device management (authentication, policies etc) in IoT?]]></title>
-            <description><![CDATA[<article><h1>How can blockchain tech be used for device management (authentication, policies etc) in IoT?</h1><p>Nokia's ringtone composer. The original nokia phones had only monophonic ringtones. Almost nobody used the bundled ringtones, especially in India. The best thing Nokia did was to include a basic ringtone composer with most of their models. The composer was simple to use but you had to have had some form of training in western music to make sense of it.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
-            <link>https://www.quora.com/unanswered/How-can-blockchain-tech-be-used-for-device-management-authentication-policies-etc-in-IoT</link>
-            <guid isPermaLink="false">d4b98225-0b20-453e-9bff-076e1e4252a1</guid>
-            <pubDate>Sun, 26 Jun 2016 20:46:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[American Institute of CPA Seeks Clarification on Bitcoin Taxes from IRS - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>American Institute of CPA Seeks Clarification on Bitcoin Taxes from IRS - NEWSBTC</h1><p>The American Institute of CPA has written a letter to the IRS asking for clarification about the taxation applicable for digital currency holdings. Should Bitcoin be taxable? The question is a ticking time bomb, worthy of a fiery debate. Most people in the bitcoin community believe that the digital currency should not be taxable, as the founder(s) had originally intended.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dd6937975ccc07e9da07d23e42e64a45/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F26195102%2FIRS_logo.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/26/american-institute-of-cpa-seeks-clarification-on-bitcoin-taxes-from-irs/</link>
-            <guid isPermaLink="false">4f1012d3-7808-4b32-a047-375b07013d9e</guid>
-            <pubDate>Sun, 26 Jun 2016 20:46:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is the benefit of leveraging blockchain for payments, as in the case of Circle?]]></title>
-            <description><![CDATA[<article><h1>What is the benefit of leveraging blockchain for payments, as in the case of Circle?</h1><p>I usually put up Chili Lights. I do love my chili peppers! There is sufficiently strong evidence to support the existence of chili, but just in case, I have even grown my own just to be sure.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
-            <link>https://www.quora.com/unanswered/What-is-the-benefit-of-leveraging-blockchain-for-payments-as-in-the-case-of-Circle</link>
-            <guid isPermaLink="false">4c8b86e0-6a89-4b9a-ba2a-0410d1e9a4fe</guid>
-            <pubDate>Sun, 26 Jun 2016 20:46:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum's Woes Haven't Hurt Bitcoin: Wonder Why?]]></title>
-            <description><![CDATA[<article><h1>Ethereum's Woes Haven't Hurt Bitcoin: Wonder Why?</h1><p>Martin Tillier, a financial advisor who writes for Nasdaq, says the recent DAO hack shows there is a vulnerability in Ethereum and that while some might have thought it would reflect negatively on bitcoin, bitcoin's price activity demonstrates the reverse. While bitcoin does not offer the development capabilities of Ethereum, it has demonstrated better reliability.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/380823b8829b30245ff01932bf4914882d5fc707.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/ethereums-woes-havent-hurt-bitcoin-wonder/</link>
-            <guid isPermaLink="false">8ce20b18-36b3-452a-b590-73ea66a4f87b</guid>
-            <pubDate>Sun, 26 Jun 2016 20:46:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Buyers Seek Haven From British Pound After Brexit Vote]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Buyers Seek Haven From British Pound After Brexit Vote</h1><p>Demand surged for bitcoin as a safe haven from the British pound, which plummeted after the U.K. voted to leave the European Union.The pound fell to its lowest in more than 30 years, driving demand for assets such as U.S. Treasuries and gold. Stocks and bonds also fell,...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b4659866a1429a3614ad99f2e74192f0/noop.aspx?input=http%3A%2F%2Fwww.newsmax.com%2FCMSPages%2FGetFile.aspx%3Fguid%3Dc7a83cfc-4c58-4866-8549-c54490fd59d8%26SiteName%3DNewsmax"></article>]]></description>
-            <link>http://www.newsmax.com/Finance/Markets/brexit-bitcoin-british-pound/2016/06/26/id/735699/</link>
-            <guid isPermaLink="false">1686646c-cca8-4b59-b542-a130f608a80f</guid>
             <pubDate>Sun, 26 Jun 2016 20:46:17 GMT</pubDate>
         </item>
     </channel>
