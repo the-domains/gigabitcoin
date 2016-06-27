@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 13:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2016 13:25:35 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Luxembourg Minister of Finance Acknowledges Blockchain Potential]]></title>
-            <description><![CDATA[<article><h1>Luxembourg Minister of Finance Acknowledges Blockchain Potential</h1><p>It is positive to see government officials acknowledge the power of blockchain technology. At the same time, it is important to remember they are not talking about Bitcoin technology itself. Although France seems to be divided on Bitcoin, blockchain technology remains a popular topic.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/38912ca5a5730df995586d7b33f73b29/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F27130955%2Fshutterstock_177810296.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/27/luxembourg-minister-finance-acknowledges-blockchain-potential/</link>
-            <guid isPermaLink="false">625f6528-0673-4d32-9272-09f1b7936f3f</guid>
-            <pubDate>Mon, 27 Jun 2016 13:24:53 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Asian Bitcoin Exchange Raises $16 Million in Ongoing Series A - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Asian Bitcoin Exchange Raises $16 Million in Ongoing Series A - CoinDesk</h1><p>A bitcoin exchange startup based in Singapore has raised $16m as part of an ongoing Series A round led by a Japanese investment fund. Quoine announced earlier this week that it had raised the funds from investment fund JAFCO, who confirmed its participation in the round, as well as a group of undisclosed investors and angels.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5896da042ea765b89f737fea49a63722/croprotate.jpg?cropheight=1000&cropwidth=1500&degrees=0&input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2Fyen-japan-e1467028365607.jpg&x=0&y=0"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>The "Bitcoin Relay Network" seems to (intentionally?!) not relay blocks voting for 2MB * /r/btc</h1><p>From looking at the logs it was just a hunch that lead me to look into the issue further. What I found looks pretty obvious: $ for BLOCK in...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
             <link>https://www.reddit.com/r/btc/comments/4pxbvr/the_bitcoin_relay_network_seems_to_intentionally/</link>
             <guid isPermaLink="false">c0678392-8852-49c9-9932-92bf29097791</guid>
+            <pubDate>Mon, 27 Jun 2016 01:40:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What does Ripple do in the blockchain space?]]></title>
+            <description><![CDATA[<article><h1>What does Ripple do in the blockchain space?</h1><p>4 people want answers to this question. Be the first to answer.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/What-does-Ripple-do-in-the-blockchain-space</link>
+            <guid isPermaLink="false">181dc323-37a3-4e57-91f8-03d5b0818739</guid>
             <pubDate>Mon, 27 Jun 2016 01:40:31 GMT</pubDate>
         </item>
     </channel>
