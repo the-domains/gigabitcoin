@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 04:30:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2016 04:29:53 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin Price Technical Analysis for 06/27/2016 - Bulls Ready to Charge Again? - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 06/27/2016 - Bulls Ready to Charge Again? - NEWSBTC</h1><p>Bitcoin price appears to be pulling up from its post-Brexit surge but the short-term uptrend could remain intact. Bitcoin Price Technical Analysis Bitcoin price appears to be pulling up from its post-Brexit surge but the short-term uptrend could remain intact. Technical Indicators Signals Bitcoin price made a strong surge on Friday as the UK voted to exit the EU.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/972e2226642236502bdce87d69c5fe2d/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F27045420%2F160627_bitcon.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/27/bitcoin-price-technical-analysis-06272016-bulls-ready-charge/</link>
-            <guid isPermaLink="false">0b6be912-d679-4aa9-b2b0-27ef8d289d5f</guid>
-            <pubDate>Mon, 27 Jun 2016 04:29:50 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Tor Project Enlists Security Researchers to Counter FBI Snooping]]></title>
             <description><![CDATA[<article><h1>Tor Project Enlists Security Researchers to Counter FBI Snooping</h1><p>It seems Tor is putting back up its defenses after discovering the FBI Also read: Unconfirmed Transactions, Support & Open Dialogue had broken through them earlier this year. According to a new paper, developers at the Tor Project have been working closely with security researchers to create a "hardened" version of the browser.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f2e60e7033a4d59819567c85170081e6/noop.png?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2FTor-Project.png"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://themerkle.com/the-ethereum-soft-fork-has-been-adopted-by-major-mining-pools/</link>
             <guid isPermaLink="false">c6ad081a-bba9-40c9-9745-8a4b49720e53</guid>
             <pubDate>Mon, 27 Jun 2016 01:40:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Focusing on Bitcoin's Customer Experience Matters - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Why Focusing on Bitcoin's Customer Experience Matters - CoinDesk</h1><p>In this opinion piece, Hagelstrom looks at how bitcoin can grow to mass adoption in a market full of digital payments systems run by tech and finance giants. While the choices are varied, one thing the industry needs is focus, he says.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e4e63bca74be7e6b29241b961e3594c4/croprotate.jpg?cropheight=1000&cropwidth=1500&degrees=0&input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2FFocus.jpg&x=0&y=0"></article>]]></description>
+            <link>http://www.coindesk.com/focus-bitcoin-customer-experience/</link>
+            <guid isPermaLink="false">70e752cd-f3e5-4987-a41e-c76bf0c828d6</guid>
+            <pubDate>Sun, 26 Jun 2016 20:46:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
