@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 01:41:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2016 01:41:01 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The Blocksize Debate & Concerns]]></title>
-            <description><![CDATA[<article><h1>The Blocksize Debate & Concerns</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/371b439536880d83844b895a1b1cee37/croprotate.png?cropheight=76&cropwidth=76&degrees=0&input=https%3A%2F%2Fbitcointalk.org%2Fuseravatars%2Favatar_507008.png&x=2&y=2"></article>]]></description>
-            <link>https://bitcointalk.org/index.php?topic=1520693.msg15303746</link>
-            <guid isPermaLink="false">5c47762d-c60b-456d-a30e-25cb153c7143</guid>
-            <pubDate>Mon, 27 Jun 2016 01:40:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Capital Gains: Fresh funds for Chinese bitcoin, lots of fintech, art shopping and more]]></title>
-            <description><![CDATA[<article><h1>Capital Gains: Fresh funds for Chinese bitcoin, lots of fintech, art shopping and more</h1><p>Baidu makes a fintech bet against Tencent and Alibaba.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/911e60b7dac63db978fd0d5ed642f1dc/croprotate.jpg?cropheight=2824&cropwidth=4234&degrees=0&input=https%3A%2F%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F49929581%2FGettyImages-167505734.0.0.jpg&x=0&y=0"></article>]]></description>
-            <link>http://www.recode.net/2016/6/26/12034152/capital-gains-chinese-bitcoin-fintech-art-shopping</link>
-            <guid isPermaLink="false">a392ffdf-c957-4c81-b788-39b583050a9f</guid>
-            <pubDate>Mon, 27 Jun 2016 01:40:31 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[The "Bitcoin Relay Network" seems to (intentionally?!) not relay blocks voting for 2MB * /r/btc]]></title>
             <description><![CDATA[<article><h1>The "Bitcoin Relay Network" seems to (intentionally?!) not relay blocks voting for 2MB * /r/btc</h1><p>From looking at the logs it was just a hunch that lead me to look into the issue further. What I found looks pretty obvious: $ for BLOCK in...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>BiteMiner Feels Like A Revamped HashOcean</h1><p>Users who are interested in Bitcoin cloud mining may have taken notice of the BiteMiner website already. This platform looks very similar to what HashOcean has been offering, as they provide users with a free 15 kh/s of mining power when signing up.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0a954208ab588a0a75007e5614c455ba/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_392801518.jpg"></article>]]></description>
             <link>http://themerkle.com/biteminer-feels-like-a-revamped-hashocean/</link>
             <guid isPermaLink="false">6600c23a-4609-41f9-a02c-229b7ad60b3e</guid>
+            <pubDate>Sun, 26 Jun 2016 20:46:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is the largest company that has ceased accepting fiat payments in favor of Bitcoin?]]></title>
+            <description><![CDATA[<article><h1>What is the largest company that has ceased accepting fiat payments in favor of Bitcoin?</h1><p>We know there are many large companies that now accept Bitcoin transactions (Dell, Overstock, Expedia, etc) however they still accept fiat payments from legacy credit card systems. Which large com...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46076/what-is-the-largest-company-that-has-ceased-accepting-fiat-payments-in-favor-of</link>
+            <guid isPermaLink="false">dee571e6-51e1-42db-8389-585b6ce2422f</guid>
+            <pubDate>Sun, 26 Jun 2016 20:46:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is the difference between blockchain and Ethereum?]]></title>
+            <description><![CDATA[<article><h1>What is the difference between blockchain and Ethereum?</h1><p>This question needs editing to be improved This question needs editing to be improved. It may need to be reworded as a fully formed question, need spelling, grammar, or formatting improved (learn more about formatting on Quora), be ambiguous or difficult to understand, be too reliant on question details, be directed at a specific person, or overly verbose.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/What-is-the-difference-between-blockchain-and-Ethereum</link>
+            <guid isPermaLink="false">0727f5aa-1837-44f0-80d2-803260bb172f</guid>
             <pubDate>Sun, 26 Jun 2016 20:46:17 GMT</pubDate>
         </item>
     </channel>
