@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 19:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2016 19:09:30 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Squeeze Into Decision-Time]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Squeeze Into Decision-Time</h1><p>Bitcoin price is trading into a narrowing range and the market will soon be forced to choose a direction. Upside options are limited while the long-term indicators return to neutral, and if the outcome is decline, it will hopefully be contained above $500. This analysis is provided by xbt.social with a 3-hour delay.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9124dc7bda7b6a24d91d5e5f5c288b2e/noop.png?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F06%2FSelection_20160628_003.png"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-price-squeezing-decision-time/</link>
+            <guid isPermaLink="false">35201d43-82db-4e79-aa62-2ea9f427cb9d</guid>
+            <pubDate>Tue, 28 Jun 2016 19:08:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Bill Approved by North Carolina Senate]]></title>
             <description><![CDATA[<article><h1>Bitcoin Bill Approved by North Carolina Senate</h1><p>Following a majority vote of the North Carolina Senate, the General Assembly of the state has now approved the addition of currencies like bitcoin into an amendment of a statutory article - the North Carolina Money Transmitters Act. The move will see the term "virtual currency" added to the existing law.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/027e14ba671bb781a80ab86faa425c79/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F06%2FNC-Senate.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>I cant remember where I got my Litoshi address. Is there a way I can find it because boxlit transferred my litoshis already</h1><p>Look at a list of Litecoin web wallets to see if any one them sound familiar to you: LiteVault - Online Litecoin Wallet; private keys encrypted locally Hive Web Wallet - Online BTC/LTC wallet; private keys encrypted locally Liteaddress.org - Litecoin address generation tools (BIP38) Reddit LiteTip Bot - Give and receive Litecoin tips from reddit users Coinkite - Coinkite is a web wallet with merchant services, Point-of-Sale terminals and debit cards.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/46214/i-cant-remember-where-i-got-my-litoshi-address-is-there-a-way-i-can-find-it-bec</link>
             <guid isPermaLink="false">8ed7fc70-8cd2-4823-8450-feaa632621fe</guid>
-            <pubDate>Tue, 28 Jun 2016 14:39:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brazil's Banco Bradesco Joins R3 Consortium - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Brazil's Banco Bradesco Joins R3 Consortium - CoinDesk</h1><p>A major Brazilian banking institution has become the latest member of distributed ledger consortium R3CEV. Banco Bradesco announced today that it had joined the R3 consortium, becoming the latest of more than 40 participants to join the group of banking institutions worldwide that are collaboratively exploring blockchain and distributed ledger applications.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76b14c8a463c77253908b367e0c0f3cbb9a82224.png"></article>]]></description>
-            <link>http://www.coindesk.com/brazils-banco-bradesco-joins-r3-consortium/</link>
-            <guid isPermaLink="false">2d4a57ce-8474-4166-bbc3-32aee700211a</guid>
             <pubDate>Tue, 28 Jun 2016 14:39:42 GMT</pubDate>
         </item>
     </channel>
