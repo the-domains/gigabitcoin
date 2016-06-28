@@ -28,12 +28,12 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  https://cointelegraph.com/news/indias-central-bank-looks-at-blockchain-to-curb-cash-use-improve-tax-collection
+  http://cointelegraph.com/news/indias-central-bank-looks-at-blockchain-to-curb-cash-use-improve-tax-collection
 title: >-
   India's Central Bank Looks at Blockchain to Curb Cash Use, Improve Tax
   Collection
-datePublished: '2016-06-28T01:59:16.473Z'
-dateModified: '2016-06-27T20:14:20.199Z'
+datePublished: '2016-06-28T01:59:18.707Z'
+dateModified: '2016-06-27T15:13:25.108Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-28-indias-central-bank-looks-at-blockchain-to-curb-cash-use-i.md
