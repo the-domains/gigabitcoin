@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 19:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2016 19:09:46 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2016-06-23]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-06-23</h1><p>perceived validation slowdowns Segwit Gmaxwell noticed very slow reindexing while testing with default dbcache, which got confirmed by sipa who saw similar behavior. Sipa noticed very slow chainstate writes, however that might be because of his disk setup.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/06/23/</link>
-            <guid isPermaLink="false">b71f1c49-b479-4ca0-bf9f-13df6504de81</guid>
-            <pubDate>Tue, 28 Jun 2016 19:08:59 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Russian Central Bank: Evolution of Fintech Companies Will Cause Bank Affiliations to Disappear]]></title>
             <description><![CDATA[<article><h1>Russian Central Bank: Evolution of Fintech Companies Will Cause Bank Affiliations to Disappear</h1><p>Development of financial technologies and fintech companies will optimize the Russian banking network, while the banks themselves will be engaged in creating infrastructure for fintech companies providing various services to their customers. This is the brief extract of the speech given at Fintech Lab 2016 on June 28 by Vadim Kalukhov, director for financial technology department at the Bank of Russia.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24fb0a17543a70fa64aadcbe53d345f079930c97.png"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://www.cryptocoinsnews.com/bitcoin-price-squeezing-decision-time/</link>
             <guid isPermaLink="false">35201d43-82db-4e79-aa62-2ea9f427cb9d</guid>
             <pubDate>Tue, 28 Jun 2016 19:08:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Bill Approved by North Carolina Senate]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Bill Approved by North Carolina Senate</h1><p>Following a majority vote of the North Carolina Senate, the General Assembly of the state has now approved the addition of currencies like bitcoin into an amendment of a statutory article - the North Carolina Money Transmitters Act. The move will see the term "virtual currency" added to the existing law.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/027e14ba671bb781a80ab86faa425c79/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F06%2FNC-Senate.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-bill-approved-north-carolina-senate/</link>
+            <guid isPermaLink="false">683eafd2-4dc1-4428-8b4b-a2c28e5f4948</guid>
+            <pubDate>Tue, 28 Jun 2016 19:08:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
