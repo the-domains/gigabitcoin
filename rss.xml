@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 02:01:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2016 02:01:33 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Another Brexit winner: Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Another Brexit winner: Bitcoin</h1><p>Chris Ratcliffe | Bloomberg | Getty Images Hard-working Britons with their life savings stashed in British pounds woke up Friday morning about 8 percent poorer after their country voted to leave the European Union. Meanwhile, bitcoin investors were shielded from the Brexit news: They enjoyed an almost 9 percent jump in the value of their holdings.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e311aec6ca0bb15c5f1fb898999254d8/croprotate.jpg?cropheight=999&cropwidth=1910&degrees=0&input=http%3A%2F%2Ffm.cnbc.com%2Fapplications%2Fcnbc.com%2Fresources%2Fimg%2Feditorial%2F2016%2F06%2F17%2F103725183-GettyImages-507405816.1910x1000.jpg&x=0&y=0"></article>]]></description>
-            <link>http://www.cnbc.com/2016/06/27/bitcoin-gains-validity-as-digital-gold-after-brexit-vote.html</link>
-            <guid isPermaLink="false">c9375689-5f69-47d4-8450-1da72120a72e</guid>
-            <pubDate>Tue, 28 Jun 2016 01:59:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mizuho, IBM Partner to Test Digital Currency Settlements]]></title>
-            <description><![CDATA[<article><h1>Mizuho, IBM Partner to Test Digital Currency Settlements</h1><p>Japanese banking giant Mizuho Financial Group and technology firm IBM have announced a partnership to test blockchain technology used in settlements with virtual currencies, using code from the Linux Foundation-led Hyperledger project.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9a9b2d62c7536c2d6c63441f7d8ef11c/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2014%2F03%2Fmizuho-bitcoin-karpeles.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/mizuho-ibm-digital-currency-test/</link>
-            <guid isPermaLink="false">8b0c6f8a-95f5-4d77-8a61-631c00c619aa</guid>
-            <pubDate>Tue, 28 Jun 2016 01:59:18 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin's Smart Contracts Will Have Additional Safeguards]]></title>
             <description><![CDATA[<article><h1>Bitcoin's Smart Contracts Will Have Additional Safeguards</h1><p>Counterparty will introduce a series of safeguards into its Ethereum Virtual Machine (EVM) on the Bitcoin blockchain - including a ban on rollbacks, author responsibility for smart contracts and a deactivation switch controlled by community vote.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/647db2fc176d112a892a371021daef84/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2FKillSwitch.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>http://www.nasdaq.com/article/the-bitcoin-halving-approaches-miners-bitfury-and-btcc-not-concerned-cm641426</link>
             <guid isPermaLink="false">6f17f842-af1f-4319-88d9-aa0137671069</guid>
             <pubDate>Tue, 28 Jun 2016 01:59:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[R3 and The DAO Danger: How the Attack Can Impact the Blockchain Consortium]]></title>
+            <description><![CDATA[<article><h1>R3 and The DAO Danger: How the Attack Can Impact the Blockchain Consortium</h1><p>Сonsidering the rising reputation of the Blockchain as something truly secure, the impact of the DAO attack might be disastrous not only for The DAO and Ethereum themselves but for R3 consortium and its members too. Getting back to business with the ' hard fork' would mean rolling all the transactions back to a point before the theft.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b76c6cc0bcc1320dd018820c200c0180/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzE4Njc1OTFmNTE2NjM4MjMyOGJjNDBhNmU2M2M4Y2RiLmpwZw%3D%3D.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/r3-and-the-dao-danger-how-the-attack-can-impact-the-blockchain-consortium</link>
+            <guid isPermaLink="false">59a53dd3-14cd-4eb5-ac11-b89643eac4a3</guid>
+            <pubDate>Tue, 28 Jun 2016 01:59:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Thrives in Moments Like Brexit]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Thrives in Moments Like Brexit</h1><p>The Bitcoin price has stabilized on news of Britain leaving the European Union in a historically unprecedented move. The currency, which had.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e625a6e004cc945dd54d74e9cf82255025bb901a.jpg"></article>]]></description>
+            <link>http://www.nasdaq.com/article/bitcoin-thrives-in-moments-like-brexit-cm641433</link>
+            <guid isPermaLink="false">02294a6a-d72a-4224-8ff4-3c730cb3d53a</guid>
+            <pubDate>Tue, 28 Jun 2016 01:59:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
