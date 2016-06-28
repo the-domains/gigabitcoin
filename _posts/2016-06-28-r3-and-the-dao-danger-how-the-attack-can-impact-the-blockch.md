@@ -29,10 +29,10 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  https://cointelegraph.com/news/r3-and-the-dao-danger-how-the-attack-can-impact-the-blockchain-consortium
+  http://cointelegraph.com/news/r3-and-the-dao-danger-how-the-attack-can-impact-the-blockchain-consortium
 title: 'R3 and The DAO Danger: How the Attack Can Impact the Blockchain Consortium'
-datePublished: '2016-06-28T01:59:16.485Z'
-dateModified: '2016-06-27T20:14:21.707Z'
+datePublished: '2016-06-28T01:59:18.042Z'
+dateModified: '2016-06-27T16:43:44.779Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-28-r3-and-the-dao-danger-how-the-attack-can-impact-the-blockch.md
