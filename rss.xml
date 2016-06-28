@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 13:48:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2016 01:59:19 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Quick Read: Blockchain's Future after Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Quick Read: Blockchain's Future after Bitcoin</h1><p>In January 2016, fellow Bitcoin developer, Mike Hearn, dropped the bomb - Bitcoin has failed. While "failing" might be a bit overdramatic, his reasoning is far from an overstatement.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9006aa420e58a7ab5f1176318b2f4a13/noop.png?input=https%3A%2F%2Fwww.sitepoint.com%2Fwp-content%2Fthemes%2Fsitepoint%2Fassets%2Fimages%2Ficon.programming.png"></article>]]></description>
+            <link>https://www.sitepoint.com/quick-read-blockchains-future-after-bitcoin/</link>
+            <guid isPermaLink="false">c396fae8-d55d-4d8e-8d36-637c8109cb95</guid>
+            <pubDate>Tue, 28 Jun 2016 01:59:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin is a better bet than pound, euro post-Brexit: Blockchain CEO]]></title>
+            <description><![CDATA[<article><h1>Bitcoin is a better bet than pound, euro post-Brexit: Blockchain CEO</h1><p>With the Brexit hammering global equities and currencies, bitcoin has bucked the trend, jumping almost 10 percent immediately post-Brexit, lending some legitimacy to the cryptocurrency. Although the unregulated alternative to cash money is considered high risk, in part due to its volatility, Peter Smith, chief executive of Blockchain, a bitcoin wallet, said the cryptocurrency was a better bet than regular currencies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ec530536437c3607db21c8c3401453d3357fe00.jpg"></article>]]></description>
+            <link>http://www.cnbc.com/2016/06/27/bitcoin-more-stable-post-brexit-vote-than-pound-euro-says-blockchain-ceo.html</link>
+            <guid isPermaLink="false">9d28e9fe-d6a3-44c1-9354-0ab2fe783bcc</guid>
+            <pubDate>Tue, 28 Jun 2016 01:59:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Payment Service Provider Worldcore Accepts Bitcoin]]></title>
             <description><![CDATA[<article><h1>Payment Service Provider Worldcore Accepts Bitcoin</h1><p>Worldcore, a payment service provider that allows access to international banking and global transfers regardless of origin, has partnered with BitPay to accept bitcoin payments. Worldcore users can now withdraw funds to bank accounts or prepaid debit cards with minimal fees.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fc23d37b4fb51c3994275b84af982e09/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F05%2FBitcoin-slot.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>The 1% don't use Bitcoin Exchanges</h1><p>Given that the Brexit is still fresh in our minds - the big question of "how will the global financial elite diversify their assets" is one that every money manager and their clients are discussing this weekend. Great timing for a Bitcoin post! I sent a tweet out earlier this morning (followed by a tweet storm!)</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4dffed12c51d106de582307846eecc4d/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*GM8eSk-nZJHPfrMTrsWSEA.jpeg"></article>]]></description>
             <link>http://gigabitcoin.xyz/the-1-dont-use-bitcoin-exchanges/index.html</link>
             <guid isPermaLink="false">d1c6987f-6a02-4a37-9f7d-0000f0e5bf9c</guid>
-            <pubDate>Mon, 27 Jun 2016 13:24:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin was 'Good as Gold' in the Brexit - Breitbart]]></title>
-            <description><![CDATA[<article><h1>Bitcoin was 'Good as Gold' in the Brexit - Breitbart</h1><p>Supporters have claimed that Bitcoin and other cryptocurrencies are the ideal protection from the destructive policies of central banks and their " fiat " currencies. They highlight that when the US Federal Reserve was founded by an Act of Congress in 1913, the official price of an ounce of gold was $20.64.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3dc922a9a8ab4b3718e33398b2b27965/noop.jpg?input=http%3A%2F%2Fmedia.breitbart.com%2Fmedia%2F2016%2F05%2Fwi%2Fafp_386ca892de7ac0bc735576bc2b9864dbb465d50b-2.jpg"></article>]]></description>
-            <link>http://www.breitbart.com/big-government/2016/06/27/bitcoin-good-gold-brexit/</link>
-            <guid isPermaLink="false">615b57bd-d46c-45a2-8b61-3f75c2aa086d</guid>
-            <pubDate>Mon, 27 Jun 2016 13:24:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Bitcoin Podcast: TBP68 - Deconstructing theDAO Attack]]></title>
-            <description><![CDATA[<article><h1>The Bitcoin Podcast: TBP68 - Deconstructing theDAO Attack</h1><p>Emin Gün Sirer is a great mind and future thinker for CryptoCurrency, smart contracts and DAOs. I'm also supporting his stance to start working on DAO 2.0 in an organized manner. The statements from the Cornell computer scientist on this episode come amid broad concern over developments at The DAO.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae1438bda64752004b20bc5cb7fdf2a552738236.jpg"></article>]]></description>
-            <link>http://thebitcoinpodcast.libsyn.com/tbp68-deconstructing-thedao-attack</link>
-            <guid isPermaLink="false">3641bb93-cf26-406d-b544-df5daac61713</guid>
             <pubDate>Mon, 27 Jun 2016 13:24:56 GMT</pubDate>
         </item>
     </channel>
