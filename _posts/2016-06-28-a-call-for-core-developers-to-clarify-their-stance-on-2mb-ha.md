@@ -1,32 +1,70 @@
 ---
-author: []
+author:
+  - name: HaoBTC
+    url: 'https://medium.com/@HaoBTC'
+    avatar: {}
 related: []
 publisher:
-  url: 'https://np.reddit.com'
-  name: reddit
-  favicon: 'https://www.redditstatic.com/favicon.ico'
-  domain: np.reddit.com
-keywords: []
+  url: 'https://medium.com'
+  name: Medium
+  favicon: >-
+    https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico
+  domain: medium.com
+keywords:
+  - bitcoin
+  - hard-fork
+  - haobtc
+  - core
+  - chinese
+  - developments
+  - 2mb
+  - consensus
+  - devs
+  - document
 description: >-
-  HaoBTC, in the future, if you have concerns or questions that need
-  clarification and/or answering, please just *ask*, rather than posting on a...
-inLanguage: lt
-app_links: []
-isBasedOnUrl: >-
-  https://np.reddit.com/r/Bitcoin/comments/4q3ztw/a_call_for_core_developers_to_clarify_their/d4q6ryh?context=3
-title: >-
-  A Call For Core Developers to Clarify Their Stance on 2MB Hard Fork *
-  /r/Bitcoin
-datePublished: '2016-06-28T13:13:44.033Z'
-dateModified: '2016-06-28T12:37:44.740Z'
+  Before we dive into it, please be reminded that this piece of writing is an
+  effort to improve understanding and engage in discourse in an open, candid and
+  transparent fashion. This is no veiled threat, neither is it moral
+  grandstanding.
+inLanguage: en
+app_links:
+  - type: android
+    namespace: ai
+    app_name: Medium
+    app_store_id: '828256236'
+    package: com.medium.reader
+  - url: 'medium://p/d6797ddbed8c'
+    type: ios
+    namespace: ai
+    app_name: Medium
+  - url: 'medium://p/d6797ddbed8c'
+    type: android
+    namespace: ai
+  - url: >-
+      https://medium.com/@HaoBTC/a-call-for-core-developers-to-clarify-their-stance-on-2mb-hard-fork-d6797ddbed8c
+    type: web
+    namespace: ai
+  - url: 'medium://p/d6797ddbed8c'
+    namespace: twitter
+    type: iphone
+    name: Medium
+    id: '828256236'
+  - path: https/medium.com/p/d6797ddbed8c
+    package: com.medium.reader
+    namespace: google
+    type: android
+title: A Call For Core Developers to Clarify Their Stance on 2MB Hard Fork
+datePublished: '2016-06-28T13:13:47.640Z'
+dateModified: '2016-06-28T02:36:59.205Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-28-a-call-for-core-developers-to-clarify-their-stance-on-2mb-ha.md
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
+url: a-call-for-core-developers-to-clarify-their-stance-on-2mb-ha/index.html
+_type: Article
 _context: 'http://schema.org'
-_type: MediaObject
 
 ---
-<article style=""><h1>A Call For Core Developers to Clarify Their Stance on 2MB Hard Fork * /r/Bitcoin</h1><p>HaoBTC, in the future, if you have concerns or questions that need clarification and/or answering, please just *ask*, rather than posting on a...</p><img src="https://www.redditstatic.com/icon.png" /></article>
+<article style=""><h1>A Call For Core Developers to Clarify Their Stance on 2MB Hard Fork</h1><p>Before we dive into it, please be reminded that this piece of writing is an effort to improve understanding and engage in discourse in an open, candid and transparent fashion. This is no veiled threat, neither is it moral grandstanding.</p></article>
