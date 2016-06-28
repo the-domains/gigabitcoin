@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 19:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2016 19:10:41 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[North Carolina Senate Approves Bitcoin Bill - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>North Carolina Senate Approves Bitcoin Bill - CoinDesk</h1><p>The North Carolina General Assembly yesterday passed an update to the state's Money Transmitters Act, which now mandates that companies working with bitcoin and other cryptocurrencies obtain a money transmitter license. The bill replaces the current statutory article pertaining to money transmission licenses, incorporating much of the existing law and explicitly identifying virtual currencies such as bitcoin as subject to the law.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76b14c8a463c77253908b367e0c0f3cbb9a82224.png"></article>]]></description>
-            <link>http://www.coindesk.com/north-carolina-bitcoin-bill/</link>
-            <guid isPermaLink="false">0aba9e12-289e-4bee-bbdb-77dbe923e85e</guid>
-            <pubDate>Tue, 28 Jun 2016 19:08:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tech Bureau Corp Becomes Official TREZOR Reseller in Japan]]></title>
-            <description><![CDATA[<article><h1>Tech Bureau Corp Becomes Official TREZOR Reseller in Japan</h1><p>TREZOR remains the most popular Bitcoin hardware wallet in the world. Thanks to a partnership between Tech Bureau and SatoshiLabs, the hardware wallet will be coming to Japan. This announcement comes at a time during which Bitcoin enthusiasm in Japan is reaching new heights. Hardware wallet solutions for users are always in high demand.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b51a514c106948ea862c6730aea2ef2f/noop.png?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2FTREZOR.png"></article>]]></description>
-            <link>http://themerkle.com/tech-bureau-corp-becomes-official-trezor-reseller-in-japan/</link>
-            <guid isPermaLink="false">83078c7d-664c-4e89-8fac-175d0a63fc0b</guid>
-            <pubDate>Tue, 28 Jun 2016 19:08:51 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Blockchain Makes Microfinance Accounting Foray in Burma Led by Infoteria and Tech Bureau of Japan]]></title>
             <description><![CDATA[<article><h1>Blockchain Makes Microfinance Accounting Foray in Burma Led by Infoteria and Tech Bureau of Japan</h1><p>Developing countries present a huge opportunity which is hidden under veil of a problem in the form of the underbanked. Burma is one such emerging economy. In such countries providing banking services to those who have been the most ignored by mainstream economy can bring about significant benefits.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/28b9c4133209fab83c9340933044a1d8/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3L2M4OGM2NDE4YzMzY2E2MDRhMWI5ZTc1YTFiNzA3MDQxLmpwZw%3D%3D.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>http://www.newsbtc.com/2016/06/28/hillary-clintons-technology-agenda-mentions-blockchain-applications/</link>
             <guid isPermaLink="false">dfb63936-6164-43a9-9ef3-21bf7795649d</guid>
             <pubDate>Tue, 28 Jun 2016 19:08:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Engineering Giant Siemens to Invest in Blockchain Startups - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Engineering Giant Siemens to Invest in Blockchain Startups - CoinDesk</h1><p>German engineering giant Siemens plans to invest in blockchain startups and projects through a newly created business unit backed by $1.1b in capital. The company announced today that it would spend the money over a five-year period, focus on areas related to artificial intelligence and next-generation propulsion systems for smaller aircraft, as well as "decentralized electronification".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76b14c8a463c77253908b367e0c0f3cbb9a82224.png"></article>]]></description>
+            <link>http://www.coindesk.com/siemens-to-invest-1-1-billion-in-startups-will-back-blockchain-projects/</link>
+            <guid isPermaLink="false">47b47ff2-0651-4f6e-914f-7cc68a185070</guid>
+            <pubDate>Tue, 28 Jun 2016 19:08:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kraken Acquires Dutch Bitcoin Exchange CleverCoin]]></title>
+            <description><![CDATA[<article><h1>Kraken Acquires Dutch Bitcoin Exchange CleverCoin</h1><p>Bitcoin exchange Kraken has announced the acquisition of Dutch bitcoin exchange CleverCoin. to its expansion after previously acquiring New York-based Coinsetter and Canadian bitcoin exchange CAVirtex earlier this year. San Francisco-based bitcoin exchange Kraken has acquired CleverCoin, a Dutch bitcoin exchange based in Eindhoven.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/818c3f31ae296c4c102d6c51baacaaf3/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F06%2FFishes-Acq-y.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/kraken-acquires-dutch-bitcoin-exchange-clevercoin/</link>
+            <guid isPermaLink="false">2829cbeb-d593-45bc-9f87-2c325adaf6b9</guid>
+            <pubDate>Tue, 28 Jun 2016 14:39:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
