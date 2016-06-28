@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 13:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2016 13:14:40 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Call For Core Developers to Clarify Their Stance on 2MB Hard Fork * /r/Bitcoin]]></title>
+            <description><![CDATA[<article><h1>A Call For Core Developers to Clarify Their Stance on 2MB Hard Fork * /r/Bitcoin</h1><p>HaoBTC, in the future, if you have concerns or questions that need clarification and/or answering, please just *ask*, rather than posting on a...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
+            <link>https://np.reddit.com/r/Bitcoin/comments/4q3ztw/a_call_for_core_developers_to_clarify_their/d4q6ryh?context=3</link>
+            <guid isPermaLink="false">d6019615-2db5-47b3-a6f4-8177d666f305</guid>
+            <pubDate>Tue, 28 Jun 2016 13:13:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New Chinese Civil Law Draft Classifies Bitcoin as Property]]></title>
             <description><![CDATA[<article><h1>New Chinese Civil Law Draft Classifies Bitcoin as Property</h1><p>China may soon have a set of laws offering legal status to Bitcoin and other digital currencies in the country. China may soon have a set of laws offering legal status to Bitcoin and other digital currencies in the country.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d14716b7edc68d6707e69178ce1925c5/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F28131032%2Fchina.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>India's Central Bank Looks at Blockchain to Curb Cash Use, Improve Tax Collection</h1><p>Anyone who has visited or lived in India will tell you that cash is the most favoured method of payments for Indians. In 2016, the Reserve Bank of India (RBI), India's Central Bank released a concept paper titled ' Card Acceptance Infrastructure '.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bee10c92a4668c5c3abf91fc40d05c10/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzBiMzdkZGIyMWQ3N2IzOGJmOGI0OTEyMDI0YzhmN2JiLmpwZw%3D%3D.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/indias-central-bank-looks-at-blockchain-to-curb-cash-use-improve-tax-collection</link>
             <guid isPermaLink="false">2a106331-07dd-4e50-ae8a-c817bfeae7d1</guid>
-            <pubDate>Tue, 28 Jun 2016 01:59:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum Soft Fork Voting Commences]]></title>
-            <description><![CDATA[<article><h1>Ethereum Soft Fork Voting Commences</h1><p>Several major Ethereum mining pools, namely, Dwarfpool, Ethpool and Ethremine, have launched a voting system enabling miners to express their views on The DAO's soft fork. Last week, miners have agreed in advance to implement the soft fork so that the community could continue discussing alternate options instead of a hard fork.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/618ae443de8fd639d918099312598f53/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F03%2Finternetofthings-1.png"></article>]]></description>
-            <link>http://forklog.net/ethereum-soft-fork-voting-commences-2/</link>
-            <guid isPermaLink="false">c53fae35-1f0e-47e5-bfd5-b45954fcc904</guid>
             <pubDate>Tue, 28 Jun 2016 01:59:18 GMT</pubDate>
         </item>
     </channel>
