@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 19:09:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2016 19:10:55 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Time for Russia 'To Ban Bans' Says Putin Business Advisor]]></title>
+            <description><![CDATA[<article><h1>Time for Russia 'To Ban Bans' Says Putin Business Advisor</h1><p>Russian president Vladimir Putin's business advisor has said the country should "become the world leader in the Blockchain space." Also read: Russian Prime Minister: DAO's an 'Interesting Challenge' for Lawmakers Speaking to news resource Znak, Boris Titov, who also leads the rival, supposedly Kremlin-allied Party of Growth, advocated Bitcoin's underlying blockchain technology as Russia's gateway to reaching the world.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b1904e988095f8420d0613af123bd849/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2Ftitov2.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/russia-ban-bans-putin-business-advisor/</link>
+            <guid isPermaLink="false">24479a60-cb58-4130-a6da-0a748607ed57</guid>
+            <pubDate>Tue, 28 Jun 2016 19:08:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Presidential Candidate Hillary Clinton Pledges Support for Blockchain Tech - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Presidential Candidate Hillary Clinton Pledges Support for Blockchain Tech - CoinDesk</h1><p>Presumptive US presidential nominee Hillary Clinton has thrown her support behind blockchain tech applications in the public sector. Clinton, who is expected to receive the presidential nomination from the US Democratic Party next month, released a broad technology and innovation agenda yesterday in which her campaign argued that US public policy should include work with blockchain.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0b78187c66542aae7d046d1af3550c12/noop.jpg?input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2Fhillary-clinton-e1467127599615.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/presidential-candidate-hillary-clinton-pledges-support-blockchain-tech/</link>
+            <guid isPermaLink="false">2f4c211f-111a-44a3-9504-b21bb6c39312</guid>
+            <pubDate>Tue, 28 Jun 2016 19:08:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2016-06-23]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-06-23</h1><p>perceived validation slowdowns Segwit Gmaxwell noticed very slow reindexing while testing with default dbcache, which got confirmed by sipa who saw similar behavior. Sipa noticed very slow chainstate writes, however that might be because of his disk setup.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/06/23/</link>
+            <guid isPermaLink="false">b71f1c49-b479-4ca0-bf9f-13df6504de81</guid>
+            <pubDate>Tue, 28 Jun 2016 19:08:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Russian Central Bank: Evolution of Fintech Companies Will Cause Bank Affiliations to Disappear]]></title>
             <description><![CDATA[<article><h1>Russian Central Bank: Evolution of Fintech Companies Will Cause Bank Affiliations to Disappear</h1><p>Development of financial technologies and fintech companies will optimize the Russian banking network, while the banks themselves will be engaged in creating infrastructure for fintech companies providing various services to their customers. This is the brief extract of the speech given at Fintech Lab 2016 on June 28 by Vadim Kalukhov, director for financial technology department at the Bank of Russia.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24fb0a17543a70fa64aadcbe53d345f079930c97.png"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>http://cointelegraph.com/news/blockchain-makes-microfinance-accounting-foray-in-burma-led-by-infoteria-and-tech-bureau-of-japan</link>
             <guid isPermaLink="false">d2df9f54-b99b-4ff6-9f69-e7927e24a3c2</guid>
             <pubDate>Tue, 28 Jun 2016 19:08:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US Bank Stocks Lose 13% Amidst Global Financial Turmoil]]></title>
-            <description><![CDATA[<article><h1>US Bank Stocks Lose 13% Amidst Global Financial Turmoil</h1><p>For those investors who own US bank stocks, the past few days have not been pleasant by any means. Both Bank of America and Morgan Stanley dropped by 13% in value, Goldman Sachs, one of the big opposers of Bitcoin, is down 22% throughout 2016 so far.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d08708a608a511d883693ead2848cb2c/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_317562365.jpg"></article>]]></description>
-            <link>http://themerkle.com/us-bank-stocks-lose-13-amidst-global-financial-turmoil/</link>
-            <guid isPermaLink="false">10c3e604-e123-4bb0-8a66-90aeeb54d745</guid>
-            <pubDate>Tue, 28 Jun 2016 19:08:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Squeeze Into Decision-Time]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Squeeze Into Decision-Time</h1><p>Bitcoin price is trading into a narrowing range and the market will soon be forced to choose a direction. Upside options are limited while the long-term indicators return to neutral, and if the outcome is decline, it will hopefully be contained above $500. This analysis is provided by xbt.social with a 3-hour delay.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9124dc7bda7b6a24d91d5e5f5c288b2e/noop.png?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F06%2FSelection_20160628_003.png"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-price-squeezing-decision-time/</link>
-            <guid isPermaLink="false">35201d43-82db-4e79-aa62-2ea9f427cb9d</guid>
-            <pubDate>Tue, 28 Jun 2016 19:08:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Bill Approved by North Carolina Senate]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Bill Approved by North Carolina Senate</h1><p>Following a majority vote of the North Carolina Senate, the General Assembly of the state has now approved the addition of currencies like bitcoin into an amendment of a statutory article - the North Carolina Money Transmitters Act. The move will see the term "virtual currency" added to the existing law.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/027e14ba671bb781a80ab86faa425c79/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F06%2FNC-Senate.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-bill-approved-north-carolina-senate/</link>
-            <guid isPermaLink="false">683eafd2-4dc1-4428-8b4b-a2c28e5f4948</guid>
-            <pubDate>Tue, 28 Jun 2016 19:08:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
