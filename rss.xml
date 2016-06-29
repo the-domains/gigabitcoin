@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 13:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 13:13:17 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Global CCTV Botnet Successfully Executed DDoS Attack]]></title>
+            <description><![CDATA[<article><h1>Global CCTV Botnet Successfully Executed DDoS Attack</h1><p>In this day of mass surveillance and privacy awareness, CCTV cameras are often forgotten about. But as it turns out, these monitoring devices can serve an even nefarious purpose, albeit unwillingly. Security researchers uncovered a botnet operating on 25,000 CCTV cameras. This attack targeted a small jewelry store website, which was unavailable for several days.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4fd3ff0c507ba0a8767faaa9f46bb952/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_291897773.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/global-cctv-botnet-ddos-attack/</link>
+            <guid isPermaLink="false">f140b45c-2d63-4838-9d01-e79b0586a5db</guid>
+            <pubDate>Wed, 29 Jun 2016 13:12:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[EY auctions AU$22m of seized bitcoins | ZDNet]]></title>
             <description><![CDATA[<article><h1>EY auctions AU$22m of seized bitcoins | ZDNet</h1><p>AU$22 million of bitcoin seized as proceeds of crime was sold at a global auction last week, Ernst & Young (EY) has announced. EY transaction partner Adam Nikitins said multiple bidders claimed 24,518 units of the digital currency at auction between June 20-21.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a961d30cafdfd4a197f24b3abe98ffba/noop.jpg?input=http%3A%2F%2Fzdnet2.cbsistatic.com%2Fhub%2Fi%2Fr%2F2016%2F06%2F29%2F71b4db43-bc0a-4a75-97af-283be1fe3ff0%2Fthumbnail%2F770x578%2Fe617bf4eab028b0aeeb955da8dda53fc%2F20160629bitcoin800x600.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.quora.com/What-is-current-price-of-a-bitcoin</link>
             <guid isPermaLink="false">7a183bd9-56ac-4acb-927b-6e19a5207051</guid>
             <pubDate>Wed, 29 Jun 2016 13:12:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenBazaar 1.1.7 released]]></title>
-            <description><![CDATA[<article><h1>OpenBazaar 1.1.7 released</h1><p>OpenBazaar version 1.1.7 has been released. Installers can be downloaded here and the full release notes are available here.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ff4589ff31fa6dc1b2a3ec14d0b03650/noop.png?input=https%3A%2F%2Fblog.openbazaar.org%2Fwp-content%2Fuploads%2F2016%2F06%2Funreadtransactions-1024x680.png"></article>]]></description>
-            <link>https://blog.openbazaar.org/openbazaar-1-1-7-released/</link>
-            <guid isPermaLink="false">b687cfe8-284b-44f0-a632-4671cbc44ba8</guid>
-            <pubDate>Wed, 29 Jun 2016 05:50:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
