@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 17:38:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 17:38:18 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chinese Yuan Devaluation Fails to Fuel Bitcoin Price Rally - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Chinese Yuan Devaluation Fails to Fuel Bitcoin Price Rally - CoinDesk</h1><p>The connection between the Chinese yuan and the price of bitcoin appears to be weakening. Despite assertions that macroeconomic fears in China are one factor boosting the price of bitcoin, the nation's recent decision to lower the yuan's currency peg by the largest amount since August notably failed to cause a significant change in the digital currency's ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/35e284dc3044ddbcb7b7ff94f5aed836/noop.jpg?input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2Fshutterstock_316701401-e1467207169373.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/yuan-devaluation-bitcoin-rally/</link>
+            <guid isPermaLink="false">61b36415-22ea-4eb9-9c89-4144104de709</guid>
+            <pubDate>Wed, 29 Jun 2016 17:37:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Time to End the Block-Size Blockade | Roger Ver]]></title>
+            <description><![CDATA[<article><h1>Time to End the Block-Size Blockade | Roger Ver</h1><p>Recently I've seen a number of people in the Bitcoin ecosystem commenting that they think that Bitcoin blocks should always be completely full. This is analogous to thinking that Starbucks should always be completely sold out of coffee. Block space is like coffee in that it is a consumer good.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a2618e23a2fca317b2c1b782ba756e97/noop.jpg?input=https%3A%2F%2Ffee.org%2Fmedia%2F15511%2Fblockchain.jpg%3Fanchor%3Dcenter%26mode%3Dcrop%26height%3D466%26widthratio%3D2.0171673819742489270386266094%26rnd%3D131115743760000000"></article>]]></description>
+            <link>https://fee.org/articles/time-to-end-the-block-size-blockade/</link>
+            <guid isPermaLink="false">542e8533-856d-4b40-a67a-51e4e6174392</guid>
+            <pubDate>Wed, 29 Jun 2016 17:37:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Testing the AMD Radeon RX 480 for Ethereum Mining]]></title>
             <description><![CDATA[<article><h1>Testing the AMD Radeon RX 480 for Ethereum Mining</h1><p>The new AMD Radeon RX 480 is now officially out and we have some results from tests we have actually performed ourselves, results that pretty much confirm an earlier leak that was posted about the expected hashrate.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/761021315b6975b0dce09e706c03d8b3/croprotate.jpg?cropheight=301&cropwidth=558&degrees=0&input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F06%2Famd-radeon-rx-480-1-580x301.jpg&x=10&y=0"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>One More Mining Difficulty Adjustment Before The Bitcoin Halving</h1><p>The Bitcoin halving is drawing ever closer, and the community is getting excited. This is only the second time the Bitcoin block reward will be cut in half, and it is a significant milestone for this cryptocurrency. But it looks like there will be one more mining difficulty adjustment before the halving, which may throw off all countdown timers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b25a3bdf502866be6069ff5ef62d1a7c/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_217022218.jpg"></article>]]></description>
             <link>http://themerkle.com/one-more-mining-difficulty-adjustment-before-the-bitcoin-halving/</link>
             <guid isPermaLink="false">7bf886bc-4213-4842-8678-f3a8420551d3</guid>
-            <pubDate>Wed, 29 Jun 2016 17:37:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Securities Law Implications of the DAO Hack and Proposed Ethereum Hard Fork]]></title>
-            <description><![CDATA[<article><h1>The Securities Law Implications of the DAO Hack and Proposed Ethereum Hard Fork</h1><p>The top five blockchain crowdsales bore out of the Bitcoin 2.0 movement have raised more than a quarter-of-a-billion dollars in "initial coin offerings," "token sales" and the like. Participants contend the blockchain tokens are going "to the moon." Others argue, since they've never been registered, they run afoul of securities law.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b61b94095efca8ee73881fcaf5d12d74/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fthe-securities-law-implications-of-the-dao-hack-and-proposed-ethereum-hard-fork.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/the-securities-law-implications-of-the-dao-hack-and-proposed-ethereum-hard-fork-1467215402</link>
-            <guid isPermaLink="false">172f2066-0a2a-44dd-a5ca-80020a12ea2d</guid>
-            <pubDate>Wed, 29 Jun 2016 17:37:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Specter of Ethereum Hard Fork Worries Australian Banking Group - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Specter of Ethereum Hard Fork Worries Australian Banking Group - CoinDesk</h1><p>Everywhere the ethereum community looks for a solution to regaining control of $60m worth of funds from The DAO, obstacles lay in its path. After news yesterday that a proposed soft fork solution carried with it a previously unidentified exploit, we saw what might lay in wait in terms of repetitional impact if the proposed hard fork is implemented.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/98c698da82019ff13f608098a44917ab/croprotate.jpg?cropheight=1013&cropwidth=1500&degrees=0&input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2Fanz-group-press-image.jpg&x=0&y=0"></article>]]></description>
-            <link>http://www.coindesk.com/spectre-ethereum-hardfork-worries-anz-banking-group/</link>
-            <guid isPermaLink="false">86e40071-9ffc-4e50-836c-33adaf5a1b40</guid>
             <pubDate>Wed, 29 Jun 2016 17:37:07 GMT</pubDate>
         </item>
     </channel>
