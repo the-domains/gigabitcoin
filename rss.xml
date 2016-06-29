@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 04:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 04:17:00 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Proposed law in China would extend consumer protections to Bitcoin, viritual goods]]></title>
+            <description><![CDATA[<article><h1>Proposed law in China would extend consumer protections to Bitcoin, viritual goods</h1><p>A new law proposed in China would extend consumer protections usually associated with physical assets to virtual properties, including Bitcoin for the first time.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/95777e0a79b1d842a6fa944808479196/noop.jpg?input=http%3A%2F%2Fsiliconangle.com%2Ffiles%2F2016%2F06%2Fbitcoin-china-800x450.jpg"></article>]]></description>
+            <link>http://siliconangle.com/blog/2016/06/28/proposed-law-in-china-would-extend-consumer-protections-to-bitcoin-viritual-goods/</link>
+            <guid isPermaLink="false">46ab16a9-036f-4fc3-ae60-193e6e6b5287</guid>
+            <pubDate>Wed, 29 Jun 2016 04:16:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Technical Analysis for 06/29/2016 - Triangle Breakdown! - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 06/29/2016 - Triangle Breakdown! - NEWSBTC</h1><p>Bitcoin price broke below its triangle support to indicate that the selloff isn't over yet. Bitcoin Price Key Highlights Bitcoin price broke below its triangle support to indicate that the selloff isn't over yet. Technical Indicators Signals Bitcoin price was trading inside an ascending triangle pattern as illustrated in a previous article.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0ac9e3f8072b7b39c2876234ca953933/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F29032934%2F160629_bitcoin.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.coindesk.com/ethereum-vulnerability-may-prevent-soft-fork/</link>
             <guid isPermaLink="false">1b5417d3-04a0-4dd0-85cd-5fb5080c7771</guid>
             <pubDate>Wed, 29 Jun 2016 02:26:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Electrum mnemonic seeds be forward compatible with all future versions of Electrum?]]></title>
-            <description><![CDATA[<article><h1>Will Electrum mnemonic seeds be forward compatible with all future versions of Electrum?</h1><p>In fact, the reason Electrum 2.x changed to a 13-word seed* and is incompatible with BIP39 is because they added a version number to the end of the seed. This has the purpose of allowing future versions of Electrum update the seed format while still understanding how to derive all the addresses from previous seed versions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/46224/will-electrum-mnemonic-seeds-be-forward-compatible-with-all-future-versions-of-e</link>
-            <guid isPermaLink="false">340e472b-36ea-4897-8579-afdf2ba77c5d</guid>
-            <pubDate>Wed, 29 Jun 2016 02:26:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
