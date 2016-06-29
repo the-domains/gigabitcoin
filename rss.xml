@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 13:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 13:13:20 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What kind of infrastructure can blockchain run on?]]></title>
+            <description><![CDATA[<article><h1>What kind of infrastructure can blockchain run on?</h1><p>Answer: Blockchain is a distributed ledger, so it resides on the internet. All nodes participating in the specified blockchain network, have a copy. So there is not special infrastructure needed to run on. This is important for the security of the blockchain, otherwise the infrastructure owner ca...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
+            <link>https://www.quora.com/What-kind-of-infrastructure-can-blockchain-run-on</link>
+            <guid isPermaLink="false">c1885ac8-1fa2-49f6-8b47-4b4384bb8521</guid>
+            <pubDate>Wed, 29 Jun 2016 13:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What exactly is a bitcoin?]]></title>
+            <description><![CDATA[<article><h1>What exactly is a bitcoin?</h1><p>A extremely complex software code. ****** *WHERE DO THEY COME FROM Bitcoins were designed by an unknown person, or persons, known as Satoshi Nakamoto in 2009. They're hidden in an encrypted computer program, from which they're mined by computers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/871fbbea969416131dee2959fa147a8e/noop.jpg?input=http%3A%2F%2Fresources.news.com.au%2Fcs%2Fnewscomau%2Fimages%2Fplaceholders%2Fstory-thumb-large.jpg"></article>]]></description>
+            <link>http://www.news.com.au/finance/business/breaking-news/what-exactly-is-a-bitcoin/news-story/5433a88ec30123568f79c395e0b067dd</link>
+            <guid isPermaLink="false">32bf2b44-53eb-418a-9bc0-43c4b6206a29</guid>
+            <pubDate>Wed, 29 Jun 2016 13:12:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[EB137 - Siân Jones: Regulatory Update - The Brexit, The EU And The DAO]]></title>
             <description><![CDATA[<article><h1>EB137 - Siân Jones: Regulatory Update - The Brexit, The EU And The DAO</h1><p>With recent news surrounding The DOA and the Brexit vote causing a stir in the blockchain world and beyond, it seems like a regulatory update is due. So we called up our favorite regulatory affairs specialist Siân Jones to enlighten us on some of the recent developments in Bitcoin and blockchain regulation.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8cbcc577759fe983caa7efc851565c40/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1843-b656ded0281b910f2dc186fa0d6f99f62b447b331ddf864a9e8dfa7919764584.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://money.cnn.com/2016/06/28/news/economy/americans-believe-economy-is-rigged/index.html</link>
             <guid isPermaLink="false">c4d51ed7-d26b-40a3-8094-328f9cd242a3</guid>
             <pubDate>Wed, 29 Jun 2016 13:12:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Which university has the most developed program and research into bitcoin and blockchain?]]></title>
-            <description><![CDATA[<article><h1>Which university has the most developed program and research into bitcoin and blockchain?</h1><p>Hopefully the ISS will remain in operation for another 15 years. But, eventually, as the systems on the vehicle degrade or it loses political support, it will be impractical to keep the vehicle fully operational - it will reach the end of its operational life.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
-            <link>https://www.quora.com/Which-university-has-the-most-developed-program-and-research-into-bitcoin-and-blockchain</link>
-            <guid isPermaLink="false">3da29769-2894-4ed5-ad55-5b15c41ccff8</guid>
-            <pubDate>Wed, 29 Jun 2016 13:12:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum Soft Fork Under Threat of DDoS Attacks]]></title>
-            <description><![CDATA[<article><h1>Ethereum Soft Fork Under Threat of DDoS Attacks</h1><p>The situation around the attempts to bring back the lost assets of The DAO is gradually gaining farcical shades. This time, the soft fork proposed by Ethereum developers may never occur because yet another vulnerability has been discovered. The soft fork in question is aimed at blocking target DAO address, so that the organization will not be able to effect any transactions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/43daf90e538c441136936c6a1a20e907/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F06%2F13.png"></article>]]></description>
-            <link>http://forklog.net/ethereum-soft-fork-under-threat-of-ddos-attacks/</link>
-            <guid isPermaLink="false">096f0e43-6848-460b-a159-ca8f84ba6a99</guid>
-            <pubDate>Wed, 29 Jun 2016 13:12:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
