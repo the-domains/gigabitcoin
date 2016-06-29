@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 02:27:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 02:27:15 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Canada's nanoPay deploys MintChip digital cash platform]]></title>
+            <description><![CDATA[<article><h1>Canada's nanoPay deploys MintChip digital cash platform</h1><p>Toronto-based financial technology firm nanoPay announced last week the first commercial deployment of MintChip, a digital cash platform acquired from the Royal Canadian Mint in December 2015. Now ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5f535aaff725b8e11e9efaaf11a0113e/noop.jpg?input=https%3A%2F%2Fcoinreport.net%2Fwp-content%2Fuploads%2F2016%2F06%2FnanoPay-logo-SQUARED-150x150.jpg"></article>]]></description>
+            <link>https://coinreport.net/canadas-nanopay-deploys-mintchip-digital-cash-platform/</link>
+            <guid isPermaLink="false">dd46ec31-3a6a-4a73-a9e1-9fe9bd8a1b77</guid>
+            <pubDate>Wed, 29 Jun 2016 02:26:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What are some examples of companies that have abandoned Bitcoin payment processors in favor of in house Bitcoin integration?]]></title>
             <description><![CDATA[<article><h1>What are some examples of companies that have abandoned Bitcoin payment processors in favor of in house Bitcoin integration?</h1><p>What are some examples of companies that have abandoned Bitcoin payment processors in favor of in house Bitcoin integration? For example which companies previously relied on Coinbase or Bitpay th...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://cointelegraph.com/news/world-economic-forum-recognizes-blockchain-as-tech-pioneer-along-with-google-and-wikipedia</link>
             <guid isPermaLink="false">e19b7eab-e79b-4c53-9c8f-94bdb30e2c0a</guid>
             <pubDate>Tue, 28 Jun 2016 19:09:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brazilian Banking Giant Banco Bradesco & Toyota Financial Services Join the R3 Blockchain Consortium]]></title>
-            <description><![CDATA[<article><h1>Brazilian Banking Giant Banco Bradesco & Toyota Financial Services Join the R3 Blockchain Consortium</h1><p>Banco Bradesco, one of Brazil's largest banking and financial services firms has joined the R3-led banking blockchain consortium, R3CEV. So too, has Toyota Financial Services, the financial arm of automotive giant Toyota Motor Corporation. A leading Brazilian bank has joined the banking blockchain consortium led by New York-based R3, an announcement today revealed.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a8503c261a0aafc7553f042446c38640/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F04%2FPrivate-Consortium.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/brazilian-banking-giant-banco-bradesco-toyota-financial-services-join-r3-blockchain-consortium/</link>
-            <guid isPermaLink="false">fffc6eb1-2e62-436d-a050-e0f0bebddc56</guid>
-            <pubDate>Tue, 28 Jun 2016 19:09:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
