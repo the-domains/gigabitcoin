@@ -4,50 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 02:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 02:26:45 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Will Electrum mnemonic seeds be forward compatible with all future versions of Electrum?]]></title>
-            <description><![CDATA[<article><h1>Will Electrum mnemonic seeds be forward compatible with all future versions of Electrum?</h1><p>In fact, the reason Electrum 2.x changed to a 13-word seed* and is incompatible with BIP39 is because they added a version number to the end of the seed. This has the purpose of allowing future versions of Electrum update the seed format while still understanding how to derive all the addresses from previous seed versions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/46224/will-electrum-mnemonic-seeds-be-forward-compatible-with-all-future-versions-of-e</link>
-            <guid isPermaLink="false">340e472b-36ea-4897-8579-afdf2ba77c5d</guid>
-            <pubDate>Wed, 29 Jun 2016 02:26:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The day when the Bitcoin community realizes that Greg Maxwell and Core/Blockstream are the main thing holding us back (due to their dictatorship and censorship - and also due to being trapped in the procedural paradigm) - that will be the day when Bitcoin will start growing and prospering again. * /r/btc]]></title>
-            <description><![CDATA[<article><h1>The day when the Bitcoin community realizes that Greg Maxwell and Core/Blockstream are the main thing holding us back (due to their dictatorship and censorship - and also due to being trapped in the procedural paradigm) - that will be the day when Bitcoin will start growing and prospering again. * /r/btc</h1><p>NullC explains Cores position; bigger blocks creates a Bitcoin which cannot survive in the long run and Core doesn't write software to bring it...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1410bd6689acba7540f72d2da49d928e/noop.jpg?input=https%3A%2F%2Fi.redditmedia.com%2FH27a1CyOnxua77AD6heAVRqyTLnKM0vyRJfIRDPJo0o.jpg%3Fw%3D320%26s%3D844f0a99d080f3d32c0fea06063df043"></article>]]></description>
-            <link>https://www.reddit.com/r/btc/comments/4q95ri/the_day_when_the_bitcoin_community_realizes_that/</link>
-            <guid isPermaLink="false">b179a2a6-d34e-46c6-ac8f-be862915600d</guid>
-            <pubDate>Wed, 29 Jun 2016 02:26:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Could Brexit be a boon for Bitcoin?]]></title>
-            <description><![CDATA[<article><h1>Could Brexit be a boon for Bitcoin?</h1><p>While Britain's decision to exit the European Union hasn't been great for the British pound, it may be having a beneficial effect on Bitcoin. Bitcoin wallet Coinbase says that consumers in the U.K. are buying up Bitcoin in the wake of the country's announcement to leave the European Union.</p></article>]]></description>
-            <link>https://news.fastcompany.com/could-brexit-be-a-boon-for-bitcoin-4012228</link>
-            <guid isPermaLink="false">e2e21132-ce06-4931-8a14-007ef1b35da2</guid>
-            <pubDate>Wed, 29 Jun 2016 02:26:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Canada's nanoPay deploys MintChip digital cash platform]]></title>
-            <description><![CDATA[<article><h1>Canada's nanoPay deploys MintChip digital cash platform</h1><p>Toronto-based financial technology firm nanoPay announced last week the first commercial deployment of MintChip, a digital cash platform acquired from the Royal Canadian Mint in December 2015. Now ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5f535aaff725b8e11e9efaaf11a0113e/noop.jpg?input=https%3A%2F%2Fcoinreport.net%2Fwp-content%2Fuploads%2F2016%2F06%2FnanoPay-logo-SQUARED-150x150.jpg"></article>]]></description>
-            <link>https://coinreport.net/canadas-nanopay-deploys-mintchip-digital-cash-platform/</link>
-            <guid isPermaLink="false">dd46ec31-3a6a-4a73-a9e1-9fe9bd8a1b77</guid>
-            <pubDate>Wed, 29 Jun 2016 02:26:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What are some examples of companies that have abandoned Bitcoin payment processors in favor of in house Bitcoin integration?]]></title>
-            <description><![CDATA[<article><h1>What are some examples of companies that have abandoned Bitcoin payment processors in favor of in house Bitcoin integration?</h1><p>What are some examples of companies that have abandoned Bitcoin payment processors in favor of in house Bitcoin integration? For example which companies previously relied on Coinbase or Bitpay th...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/46223/what-are-some-examples-of-companies-that-have-abandoned-bitcoin-payment-processo</link>
-            <guid isPermaLink="false">cce67ffb-e915-488b-b34f-08f3208d7778</guid>
-            <pubDate>Wed, 29 Jun 2016 02:26:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Politician from Paris Wants to Ban Bitcoin - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>A Politician from Paris Wants to Ban Bitcoin - Bitcoinist.net</h1><p>According to a Also read: DAO Wars Soft Fork Makes Ethereum Blockchain Vulnerable French report from a blog operated by Bernard Debré the député of the National Assembly of France and a member of the of the Union for a Popular Movement in Paris, Debré wants to ban Bitcoin in the city.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4feaf99002f2f5cd9fb908681863dd25/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F06%2FA-Paris-Politician-Wants-to-Ban-Bitcoin.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/a-paris-politician-wants-to-ban-bitcoin/</link>
-            <guid isPermaLink="false">c37f5aef-bc49-4403-bc0a-cd0af19e3766</guid>
-            <pubDate>Wed, 29 Jun 2016 02:26:42 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Kraken has acquired Dutch Bitcoin exchange CleverCoin]]></title>
             <description><![CDATA[<article><h1>Kraken has acquired Dutch Bitcoin exchange CleverCoin</h1><p>San Francisco-based Bitcoin exchange Kraken (Payward, Inc.) has acquired Dutch Bitcoin exchange CleverCoin B.V. The price of the acquisition was not disclosed. Founded in 2013, CleverCoin aimed to help fintech companies in Europe by providing Bitcoin services via a platform "that makes trading Bitcoins accessible for everyone."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/57c6df9e3ccd984f389d26e5b4e0ded4/noop.jpg?input=http%3A%2F%2Fsiliconangle.com%2Ffiles%2F2016%2F06%2FDenys_de_Montfort_Poulpe_Colossal-800x516.jpg"></article>]]></description>
@@ -75,6 +33,48 @@
             <link>http://cointelegraph.com/news/ron-quaranta-of-wall-street-blockchain-alliance-to-run-a-course-on-fintech-in-london</link>
             <guid isPermaLink="false">9084247f-52b9-4452-94e2-79e432e8d887</guid>
             <pubDate>Tue, 28 Jun 2016 19:09:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Watch; Live Trade! - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Watch; Live Trade! - NEWSBTC</h1><p>Here's how our live bitcoin price trade is playing out, and what we are focusing on for this evening's session going forward. So the European session is about to draw to a close for the day on Tuesday, and it is time to take a look at what action gave us today and - in turn - how we can interpret this action and carry this interpretation forward as an actionable strategy tonight.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3d813d0d3e82cacb476267658f57b5f5/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F28154038%2FScreen-Shot-2016-06-28-at-16.35.01.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/28/bitcoin-price-watch-live-trade-9/</link>
+            <guid isPermaLink="false">029240d9-93f4-4139-8574-b1a916626fcd</guid>
+            <pubDate>Tue, 28 Jun 2016 19:09:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Economic Forum Recognizes Blockchain as Tech Pioneer, Along with Google and WikiPedia]]></title>
+            <description><![CDATA[<article><h1>World Economic Forum Recognizes Blockchain as Tech Pioneer, Along with Google and WikiPedia</h1><p>Blockchain has been named a World Economic Forum Technology Pioneer as an innovative company with the potential to significantly impact business and society through new technologies and advance the Fourth Industrial Revolution. Blockchain was recognized for transforming the $13 trillion financial services industry - by empowering millions across the globe to authenticate and transact immediately and without costly intermediaries.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b7de398ac6f81ef84546cd5d6186491f/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzMzYzYwMzI0ZjljZTUzMzVhYTBjZjNhMGQ5ZTliNjgxLnBuZw%3D%3D.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/world-economic-forum-recognizes-blockchain-as-tech-pioneer-along-with-google-and-wikipedia</link>
+            <guid isPermaLink="false">e19b7eab-e79b-4c53-9c8f-94bdb30e2c0a</guid>
+            <pubDate>Tue, 28 Jun 2016 19:09:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NASCAR team pays Bitcoin ransom to avoid being unable to race | Apps and Software | Geek.com]]></title>
+            <description><![CDATA[<article><h1>NASCAR team pays Bitcoin ransom to avoid being unable to race | Apps and Software | Geek.com</h1><p>There are all kinds of problems that a NASCAR team has to deal with leading up to race day. In 2016, one of those problems is ransomware. Circle Sport-Leavine Family Racing crew chief Dave Winston isn't the most tech-savvy guy in the world.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/779f381ca57994931a00a5db14cc3af3/noop.jpg?input=http%3A%2F%2Fwww.geek.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fnascar.jpg"></article>]]></description>
+            <link>http://www.geek.com/apps/nascar-team-pays-bitcoin-ransom-to-avoid-being-unable-to-race-1659789/</link>
+            <guid isPermaLink="false">c68831b8-6e40-4372-8ed0-0b9acb1a5c5b</guid>
+            <pubDate>Tue, 28 Jun 2016 19:09:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brazilian Banking Giant Banco Bradesco & Toyota Financial Services Join the R3 Blockchain Consortium]]></title>
+            <description><![CDATA[<article><h1>Brazilian Banking Giant Banco Bradesco & Toyota Financial Services Join the R3 Blockchain Consortium</h1><p>Banco Bradesco, one of Brazil's largest banking and financial services firms has joined the R3-led banking blockchain consortium, R3CEV. So too, has Toyota Financial Services, the financial arm of automotive giant Toyota Motor Corporation. A leading Brazilian bank has joined the banking blockchain consortium led by New York-based R3, an announcement today revealed.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a8503c261a0aafc7553f042446c38640/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F04%2FPrivate-Consortium.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/brazilian-banking-giant-banco-bradesco-toyota-financial-services-join-r3-blockchain-consortium/</link>
+            <guid isPermaLink="false">fffc6eb1-2e62-436d-a050-e0f0bebddc56</guid>
+            <pubDate>Tue, 28 Jun 2016 19:09:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Time for Russia 'To Ban Bans' Says Putin Business Advisor]]></title>
+            <description><![CDATA[<article><h1>Time for Russia 'To Ban Bans' Says Putin Business Advisor</h1><p>Russian president Vladimir Putin's business advisor has said the country should "become the world leader in the Blockchain space." Also read: Russian Prime Minister: DAO's an 'Interesting Challenge' for Lawmakers Speaking to news resource Znak, Boris Titov, who also leads the rival, supposedly Kremlin-allied Party of Growth, advocated Bitcoin's underlying blockchain technology as Russia's gateway to reaching the world.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b1904e988095f8420d0613af123bd849/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2Ftitov2.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/russia-ban-bans-putin-business-advisor/</link>
+            <guid isPermaLink="false">24479a60-cb58-4130-a6da-0a748607ed57</guid>
+            <pubDate>Tue, 28 Jun 2016 19:08:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Presidential Candidate Hillary Clinton Pledges Support for Blockchain Tech - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Presidential Candidate Hillary Clinton Pledges Support for Blockchain Tech - CoinDesk</h1><p>Presumptive US presidential nominee Hillary Clinton has thrown her support behind blockchain tech applications in the public sector. Clinton, who is expected to receive the presidential nomination from the US Democratic Party next month, released a broad technology and innovation agenda yesterday in which her campaign argued that US public policy should include work with blockchain.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0b78187c66542aae7d046d1af3550c12/noop.jpg?input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2Fhillary-clinton-e1467127599615.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/presidential-candidate-hillary-clinton-pledges-support-blockchain-tech/</link>
+            <guid isPermaLink="false">2f4c211f-111a-44a3-9504-b21bb6c39312</guid>
+            <pubDate>Tue, 28 Jun 2016 19:08:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
