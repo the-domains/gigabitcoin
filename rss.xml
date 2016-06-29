@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 13:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 13:13:16 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ethereum Soft Fork Under Threat of DDoS Attacks]]></title>
+            <description><![CDATA[<article><h1>Ethereum Soft Fork Under Threat of DDoS Attacks</h1><p>The situation around the attempts to bring back the lost assets of The DAO is gradually gaining farcical shades. This time, the soft fork proposed by Ethereum developers may never occur because yet another vulnerability has been discovered. The soft fork in question is aimed at blocking target DAO address, so that the organization will not be able to effect any transactions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/43daf90e538c441136936c6a1a20e907/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F06%2F13.png"></article>]]></description>
+            <link>http://forklog.net/ethereum-soft-fork-under-threat-of-ddos-attacks/</link>
+            <guid isPermaLink="false">096f0e43-6848-460b-a159-ca8f84ba6a99</guid>
+            <pubDate>Wed, 29 Jun 2016 13:12:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[HashOcean Is Not Dead Yet By The Look of Things]]></title>
             <description><![CDATA[<article><h1>HashOcean Is Not Dead Yet By The Look of Things</h1><p>For nearly a week now, everyone assumed HashOcean had disappeared all of a sudden. But the support team's Facebook page seems to tell a different story. They claim a hacker collective by the name of "Prabl0Dynamic HK" hacked the site. The domain is still down, and the company has started refunding investments from June 26 onwards.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/21df7950ccb19da100c08f5fe3b2576e/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2FHashOcean-1.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>What does Elon Musk think of blockchain?</h1><p>In the books, you can also see some evidence of Davos beginning to shift loyalty from Stannis, but it's handled much more subtly. The idea in the books is that Davos goes to Skagos to retrieve Rickon and...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
             <link>https://www.quora.com/unanswered/What-does-Elon-Musk-think-of-blockchain</link>
             <guid isPermaLink="false">568cccad-b5d6-4a69-a113-1b0e12f9a174</guid>
-            <pubDate>Wed, 29 Jun 2016 04:16:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are their any specialized blockchain languages?]]></title>
-            <description><![CDATA[<article><h1>Are their any specialized blockchain languages?</h1><p>I'm not in the business of betting my life by allowing snipers to shoot at me on purpose. The longest sniper kill shot on record was 2,475 meters back in 2009 in Afghanistan by a Brit named Craig Harrison. That's just 25 meters shy of what you are proposing.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
-            <link>https://www.quora.com/Are-their-any-specialized-blockchain-languages</link>
-            <guid isPermaLink="false">e4372a98-1486-4d51-a626-c64756c9e6de</guid>
             <pubDate>Wed, 29 Jun 2016 04:16:54 GMT</pubDate>
         </item>
     </channel>
