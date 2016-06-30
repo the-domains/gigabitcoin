@@ -27,10 +27,10 @@ description: >-
   oldest Bitcoin casinos in the digital currency ecosystem.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.newsbtc.com/2016/06/29/dragons-tale-get-bits-gamble-free/'
+isBasedOnUrl: 'http://www.newsbtc.com/2016/06/30/dragons-tale-get-bits-gamble-free/'
 title: Dragon's Tale - Get some Bits and Gamble for Free - NEWSBTC
-datePublished: '2016-06-30T03:03:22.863Z'
-dateModified: '2016-06-29T22:13:48.476Z'
+datePublished: '2016-06-30T13:13:09.529Z'
+dateModified: '2016-06-30T09:14:18.264Z'
 starred: false
 sourcePath: _posts/2016-06-30-dragons-tale-get-some-bits-and-gamble-for-free-newsbtc.md
 inFeed: true
