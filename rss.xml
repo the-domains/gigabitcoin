@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 13:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2016 13:13:10 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[扩容之争"终结者计划"提议 - 比特币论坛]]></title>
-            <description><![CDATA[<article><h1>扩容之争"终结者计划"提议 - 比特币论坛</h1><p>本帖最后由 水无魂 于 2016-6-30 11:38 编辑 1、core在7月发布0.13.1版本，包含可供矿工激活的segwit（隔离见证）； 2、classic发布基于core 0.13.1版本的新版本，包含可供矿工激活的segwit（隔离见证）和2M硬分叉； 3、core违反香港扩容共识协议约定，未在2016年8月1日前发布包含2M硬分叉的新版本。 ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a06158183390b79e65863bf2c380c4df/noop.png?input=http%3A%2F%2Fbitcoin8btc.qiniudn.com%2Fwp-content%2Fthemes%2Fbtc%2Fui%2Fimages%2Fqrcode.png"></article>]]></description>
-            <link>http://8btc.com/thread-35645-1-1.html</link>
-            <guid isPermaLink="false">93cbc9be-cbbb-4782-af68-2506c471a25a</guid>
-            <pubDate>Thu, 30 Jun 2016 13:13:07 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Fintech 1, 2 and 3.0 ... there's an elephant in the room and it's under attack]]></title>
             <description><![CDATA[<article><h1>Fintech 1, 2 and 3.0 ... there's an elephant in the room and it's under attack</h1><p>I was piqued by Victor Matarranz's [SEVP Head of Group Strategy and Chairman's Office, Banco Santander] presentation at MoneyConf last week, mainly because he began by talking about Fintech 1.0 versus Fintech 2.0. Fintech 1.0 he defined as the emergence of peer-to-peer lenders and new payments companies between 2010 and 2014.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a5060f93f5af909d68932710207d35cc/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FResizedImage720540-theres-an-elephant-in-the-room-and-its-under-attack-1.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Technology and Choice #08, Porcfest Potpourri</h1><p>In this Episode A few days at the Porcupine Freedom Festival in New Hampshire netted a load of wonderful connections, some very interesting insights and a few very relevant interviews, from the perspective of the technology and choice pair. First up in this episode is Sam Patterson, Chief Operating Officer of OB1, the company developing the Open Bazaar protocol and ecosystem.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c8fb5132527462c9fd55d86385de69a7/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1844-40ecabab8c8400c640e2abe975ff9d8e690df90a8effc911a4d856b60eae0137.jpg"></article>]]></description>
             <link>https://letstalkbitcoin.com/blog/post/technology-and-choice-08-porcfest-potpourri</link>
             <guid isPermaLink="false">f1cfb3f7-304d-4335-a805-2108cf6c00b1</guid>
+            <pubDate>Thu, 30 Jun 2016 03:03:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China Signals a New, Accepting Approach to Digital Currencies]]></title>
+            <description><![CDATA[<article><h1>China Signals a New, Accepting Approach to Digital Currencies</h1><p>China's government has signaled that it is warming up to digital currency with a new proposed civil law that may recognize people's legal right to own virtual assets, including digital currencies. A new draft of China's civil code was introduced in The National People's Congress June 27.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/74099f750af5c29f70d2bf80709907ac/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fchina-signals-a-new-accepting-approach-to-digital-currencies.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/china-signals-a-new-accepting-approach-to-digital-currencies-1467218826</link>
+            <guid isPermaLink="false">237d760c-70ca-47c6-b72e-0d288f218e34</guid>
             <pubDate>Thu, 30 Jun 2016 03:03:24 GMT</pubDate>
         </item>
     </channel>
