@@ -7,13 +7,6 @@
         <lastBuildDate>Thu, 30 Jun 2016 03:04:29 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Technology and Choice #08, Porcfest Potpourri]]></title>
-            <description><![CDATA[<article><h1>Technology and Choice #08, Porcfest Potpourri</h1><p>In this Episode A few days at the Porcupine Freedom Festival in New Hampshire netted a load of wonderful connections, some very interesting insights and a few very relevant interviews, from the perspective of the technology and choice pair. First up in this episode is Sam Patterson, Chief Operating Officer of OB1, the company developing the Open Bazaar protocol and ecosystem.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c8fb5132527462c9fd55d86385de69a7/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1844-40ecabab8c8400c640e2abe975ff9d8e690df90a8effc911a4d856b60eae0137.jpg"></article>]]></description>
-            <link>https://letstalkbitcoin.com/blog/post/technology-and-choice-08-porcfest-potpourri</link>
-            <guid isPermaLink="false">f1cfb3f7-304d-4335-a805-2108cf6c00b1</guid>
-            <pubDate>Thu, 30 Jun 2016 03:03:24 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[China Signals a New, Accepting Approach to Digital Currencies]]></title>
             <description><![CDATA[<article><h1>China Signals a New, Accepting Approach to Digital Currencies</h1><p>China's government has signaled that it is warming up to digital currency with a new proposed civil law that may recognize people's legal right to own virtual assets, including digital currencies. A new draft of China's civil code was introduced in The National People's Congress June 27.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/74099f750af5c29f70d2bf80709907ac/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fchina-signals-a-new-accepting-approach-to-digital-currencies.jpg"></article>]]></description>
             <link>https://bitcoinmagazine.com/articles/china-signals-a-new-accepting-approach-to-digital-currencies-1467218826</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Ethereum's Soft Fork Called Off as it Introduces a New Attack Vector - NEWSBTC</h1><p>The Ethereum Foundation has introduced a new Geth client version (1.4.9) that rolls back the changes made in the previous soft-fork-enabled software. A security alert was issued by Ethereum Foundation. In the announcement, the developer Felix Lange explained: An attack vector has been identified in the freshly released implementation of the DAO soft fork.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c59bffc23025a968f3b2ab8ae8e2b5c0/croprotate.jpg?cropheight=1079&cropwidth=1900&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F29222818%2FEthereum-homestead-background-8.jpg&x=0&y=0"></article>]]></description>
             <link>http://www.newsbtc.com/2016/06/29/ethereums-soft-fork-called-off-introduces-new-attack-vector/</link>
             <guid isPermaLink="false">305c877c-ffc8-4ff0-b3cd-d4edbcd93ad2</guid>
+            <pubDate>Thu, 30 Jun 2016 03:03:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[For Ether Investors, All Eyes Remain on Divisive Fork Debate - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>For Ether Investors, All Eyes Remain on Divisive Fork Debate - CoinDesk</h1><p>The price of ether, the native currency that powers the blockchain platform ethereum, sank yesterday following an Ethereum Foundation blog post that pointed out a flaw in a proposed plan meant to rescue funds lost in an attack on one of its signature projects, The DAO.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a03a3c22d81db4b1d628c381713bbd32/noop.jpg?input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2Fabacus-e1467233743574.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/ether-prices-plunge-dao-soft-fork-warning/</link>
+            <guid isPermaLink="false">414e5f15-7b4a-4891-8252-323aa98dbe17</guid>
             <pubDate>Thu, 30 Jun 2016 03:03:23 GMT</pubDate>
         </item>
     </channel>
