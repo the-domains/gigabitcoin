@@ -7,6 +7,20 @@
         <lastBuildDate>Thu, 30 Jun 2016 03:04:23 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Episode 708: Bitcoin Divided]]></title>
+            <description><![CDATA[<article><h1>Episode 708: Bitcoin Divided</h1><p>Bitcoin was supposed to be the currency of the future: secure, fast, independent of any government. But if there's one feature a currency needs, it's to let you pay for things. And, recently, that's been a problem for Bitcoin. The idea was always that when technical problems arose, the bitcoin community would come together to solve things.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/77ef5a9d85457761ef1e7993933e2ba5/noop.jpg?input=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2016%2F06%2F29%2Fgettyimages-475483835_wide-e48d01e3e3e36c002d3ff9d2b025f71dfa1ab43a.jpg%3Fs%3D1400"></article>]]></description>
+            <link>http://www.npr.org/sections/money/2016/06/29/484029238/episode-708-bitcoin-divided</link>
+            <guid isPermaLink="false">854c337c-fdc6-4372-8dce-c57d6605f9c6</guid>
+            <pubDate>Thu, 30 Jun 2016 03:03:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum's Soft Fork Called Off as it Introduces a New Attack Vector - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Ethereum's Soft Fork Called Off as it Introduces a New Attack Vector - NEWSBTC</h1><p>The Ethereum Foundation has introduced a new Geth client version (1.4.9) that rolls back the changes made in the previous soft-fork-enabled software. A security alert was issued by Ethereum Foundation. In the announcement, the developer Felix Lange explained: An attack vector has been identified in the freshly released implementation of the DAO soft fork.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c59bffc23025a968f3b2ab8ae8e2b5c0/croprotate.jpg?cropheight=1079&cropwidth=1900&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F29222818%2FEthereum-homestead-background-8.jpg&x=0&y=0"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/06/29/ethereums-soft-fork-called-off-introduces-new-attack-vector/</link>
+            <guid isPermaLink="false">305c877c-ffc8-4ff0-b3cd-d4edbcd93ad2</guid>
+            <pubDate>Thu, 30 Jun 2016 03:03:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[For Ether Investors, All Eyes Remain on Divisive Fork Debate - CoinDesk]]></title>
             <description><![CDATA[<article><h1>For Ether Investors, All Eyes Remain on Divisive Fork Debate - CoinDesk</h1><p>The price of ether, the native currency that powers the blockchain platform ethereum, sank yesterday following an Ethereum Foundation blog post that pointed out a flaw in a proposed plan meant to rescue funds lost in an attack on one of its signature projects, The DAO.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a03a3c22d81db4b1d628c381713bbd32/noop.jpg?input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2Fabacus-e1467233743574.jpg"></article>]]></description>
             <link>http://www.coindesk.com/ether-prices-plunge-dao-soft-fork-warning/</link>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Winklevoss Brothers Dump Nasdaq For Proposed Bitcoin Fund</h1><p>(Reuters) - Investors Cameron and Tyler Winklevoss on Wednesday filed to switch the listing of their proposed bitcoin exchange-traded fund to BATS Global Markets from Nasdaq, according to a filing with the Securities and Exchange Commission. The Winklevoss brothers, identical twins, had filed their first application for a listing three years ago.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f2569e8c3542b2592d36da5106389322/croprotate.jpg?cropheight=2194&cropwidth=3000&degrees=0&input=https%3A%2F%2Ffortunedotcom.files.wordpress.com%2F2015%2F03%2F466565686.jpg&x=0&y=0"></article>]]></description>
             <link>http://fortune.com/2016/06/29/winklevoss-brothers-nasdaq-bitcoin-fund/</link>
             <guid isPermaLink="false">29c949d0-75d6-48a6-8b17-e3306bf2173e</guid>
-            <pubDate>Thu, 30 Jun 2016 03:03:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Bitcoin Make It Finally Make It Big? Digital Bank WB21 is Accepting Bitcoin Deposits]]></title>
-            <description><![CDATA[<article><h1>Will Bitcoin Make It Finally Make It Big? Digital Bank WB21 is Accepting Bitcoin Deposits</h1><p>Bitcoin is a currency that has always struggled to break into the mainstream. It's also a currency that is being mined at a faster and faster rate, with current virtual mining operations hitting 122 percent yields. Banks are naturally resistant to it because it acts as competition.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/956d3d8134f71518403b61c49d8d02aa/noop?input=http%3A%2F%2F2.bdcstatic.com%2Fimages%2Fcontent%2F577%2F2c8763287b170275a5919%2F315-0-"></article>]]></description>
-            <link>http://www.business.com/finance/digital-bank-wb21-is-accepting-bitcoin-deposits/</link>
-            <guid isPermaLink="false">92e7189f-c238-4686-9ccb-07690bb39134</guid>
-            <pubDate>Thu, 30 Jun 2016 03:03:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain Technology Will Make Smart Guns Smarter]]></title>
-            <description><![CDATA[<article><h1>Blockchain Technology Will Make Smart Guns Smarter</h1><p>Bitcoin.com spoke with Blocksafe CEO Kevin Barnes, whose startup brings blockchain and P2P networking to smart gun technology. This solution has the potential to eliminate unauthorized gun access, track missing firearms, and more importantly, reduce overall violence.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/17d693278a90d58309fadad167710391/noop.png?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fsmart-gun.png"></article>]]></description>
-            <link>https://news.bitcoin.com/blockchain-make-smart-gun/</link>
-            <guid isPermaLink="false">17ba2c2a-47d5-404e-97be-5d2b995a6d81</guid>
             <pubDate>Thu, 30 Jun 2016 03:03:22 GMT</pubDate>
         </item>
     </channel>
