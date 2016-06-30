@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 03:03:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2016 03:03:54 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[SportsBet.io Euro 2016 Event in Full Swing, 36 BTC Awarded So Far]]></title>
-            <description><![CDATA[<article><h1>SportsBet.io Euro 2016 Event in Full Swing, 36 BTC Awarded So Far</h1><p>In the "biggest betting event since the 2014 World Cup," SportsBet.io has already awarded 36 BTC in prizes and two tickets to the European Championship final match as part of its Euro 2016 betting event. Disclaimer: This article was provided by Bitcoin PR Buzz.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ac4a172e335a68e3ab88b65b7269b483/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F06%2FSportsbet.io-Big-Euro-2016.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/sportsbet-euro-2016-betting/</link>
-            <guid isPermaLink="false">fad69630-550f-4d8a-b988-99f4ddd19654</guid>
-            <pubDate>Thu, 30 Jun 2016 03:03:22 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Winklevoss Brothers Dump Nasdaq For Proposed Bitcoin Fund]]></title>
             <description><![CDATA[<article><h1>Winklevoss Brothers Dump Nasdaq For Proposed Bitcoin Fund</h1><p>(Reuters) - Investors Cameron and Tyler Winklevoss on Wednesday filed to switch the listing of their proposed bitcoin exchange-traded fund to BATS Global Markets from Nasdaq, according to a filing with the Securities and Exchange Commission. The Winklevoss brothers, identical twins, had filed their first application for a listing three years ago.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f2569e8c3542b2592d36da5106389322/croprotate.jpg?cropheight=2194&cropwidth=3000&degrees=0&input=https%3A%2F%2Ffortunedotcom.files.wordpress.com%2F2015%2F03%2F466565686.jpg&x=0&y=0"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Time to End the Block-Size Blockade | Roger Ver</h1><p>Recently I've seen a number of people in the Bitcoin ecosystem commenting that they think that Bitcoin blocks should always be completely full. This is analogous to thinking that Starbucks should always be completely sold out of coffee. Block space is like coffee in that it is a consumer good.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a2618e23a2fca317b2c1b782ba756e97/noop.jpg?input=https%3A%2F%2Ffee.org%2Fmedia%2F15511%2Fblockchain.jpg%3Fanchor%3Dcenter%26mode%3Dcrop%26height%3D466%26widthratio%3D2.0171673819742489270386266094%26rnd%3D131115743760000000"></article>]]></description>
             <link>https://fee.org/articles/time-to-end-the-block-size-blockade/</link>
             <guid isPermaLink="false">542e8533-856d-4b40-a67a-51e4e6174392</guid>
+            <pubDate>Wed, 29 Jun 2016 17:37:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Testing the AMD Radeon RX 480 for Ethereum Mining]]></title>
+            <description><![CDATA[<article><h1>Testing the AMD Radeon RX 480 for Ethereum Mining</h1><p>The new AMD Radeon RX 480 is now officially out and we have some results from tests we have actually performed ourselves, results that pretty much confirm an earlier leak that was posted about the expected hashrate.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/761021315b6975b0dce09e706c03d8b3/croprotate.jpg?cropheight=301&cropwidth=558&degrees=0&input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F06%2Famd-radeon-rx-480-1-580x301.jpg&x=10&y=0"></article>]]></description>
+            <link>http://cryptomining-blog.com/8033-testing-the-amd-radeon-rx-480-for-ethereum-mining/</link>
+            <guid isPermaLink="false">09db7145-9ad9-4451-b32f-088c270576a4</guid>
             <pubDate>Wed, 29 Jun 2016 17:37:08 GMT</pubDate>
         </item>
     </channel>
