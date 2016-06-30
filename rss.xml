@@ -7,13 +7,6 @@
         <lastBuildDate>Thu, 30 Jun 2016 04:57:52 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[X11 is back and a whole lot cheaper! - Genesis Mining]]></title>
-            <description><![CDATA[<article><h1>X11 is back and a whole lot cheaper! - Genesis Mining</h1><p>A few months ago, we ran out of X11 contracts and every day, we received more and more emails from customers asking when they would be able to buy X11 contracts again. Well, the day has finally come! X11 is back and better than ever! Our new X11 mining will feature brand new ASIC technology...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/548d44a48ad59cb3d280718e9a18e939/noop.jpg?input=http%3A%2F%2Fblog.genesis-mining.com%2Ffiles%2F2016%2F06%2Fblog_x11backinstock.jpg"></article>]]></description>
-            <link>http://blog.genesis-mining.com/x11-contracts-are-back-with-a-huge-discount</link>
-            <guid isPermaLink="false">ed6511fb-6efb-4393-bde6-3614a184af6b</guid>
-            <pubDate>Thu, 30 Jun 2016 04:57:11 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Apply Now: MIT Intro to Cryptocurrencies Bootcamp for Underrepresented Minorities and Women - MIT Media Lab Digital Currency Initiative]]></title>
             <description><![CDATA[<article><h1>Apply Now: MIT Intro to Cryptocurrencies Bootcamp for Underrepresented Minorities and Women - MIT Media Lab Digital Currency Initiative</h1><p>The MIT Digital Currency Initiative is excited to announce a week-long intensive bootcamp covering key cryptocurrency concepts for women and underrepresented minority (URM) students. The event will take place at the MIT Media Lab August 21-26, 2016.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/01ee90467a845c6d65af617059a7e84e/croprotate.jpeg?cropheight=753&cropwidth=1200&degrees=0&input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*NOuvrfFZPEFqJC2ql95VQA.jpeg&x=0&y=0"></article>]]></description>
             <link>http://gigabitcoin.xyz/apply-now-mit-intro-to-cryptocurrencies-bootcamp-for-underr/index.html</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Decentralized Storage Platform Sia Launches Beta</h1><p>The decentralized storage platform Also read: Buyer Beware! The Definitive OneCoin Ponzi Exposé Sia has announced it will release its beta version shortly with a graphical user interface (GUI) and an instant wallet. The project has been anticipated since late 2015 since the developing team launched the project, which is similar to concepts such as Filecoin and Storj .</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cffe46e87615bc67104bf347dcaabcd2/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fsia.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/decentralized-storage-platform-sia-beta/</link>
             <guid isPermaLink="false">6ddbd242-afa7-4230-a4ff-aa809a1db539</guid>
+            <pubDate>Thu, 30 Jun 2016 03:03:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Optimizing the Power Usage of AMD Radeon RX 480 for Ethereum Mining]]></title>
+            <description><![CDATA[<article><h1>Optimizing the Power Usage of AMD Radeon RX 480 for Ethereum Mining</h1><p>If you have checked our publication Testing the AMD Radeon RX 480 for Ethereum Mining you should already know that at the moment you are a bit limited in your capabilities of reducing the power usage of the new RX 480 GPUs.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5ecc6bfba258959b1d49be0e2ecfb4e5/noop.jpg?input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F06%2Frx-480-def-power-limiter-580x427.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/8041-optimizing-the-power-usage-of-amd-radeon-rx-480-for-ethereum-mining/</link>
+            <guid isPermaLink="false">6cc75d15-f5d7-4a9f-86ae-2dcfddd6ed9e</guid>
             <pubDate>Thu, 30 Jun 2016 03:03:23 GMT</pubDate>
         </item>
     </channel>
