@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 01:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2016 01:22:31 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hackers Track HashOcean Mining Company]]></title>
+            <description><![CDATA[<article><h1>Hackers Track HashOcean Mining Company</h1><p>The latest information from a group which claims to be ethical hackers shows efforts to trace the owners and identify the operation of the defunct HashOcean Bitcoin mining company, which suddenly disappeared with an estimated millions of dollars worth of the digital currency as investment from miner, is ongoing.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9d7c38c323fa42fa3e8a012949d94425/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzhkOTk1NDdjZDc0ODkwZDA5ZTY4NGYwMTMzMmNlNTgwLmpwZw%3D%3D.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/hackers-track-hashocean-mining-company</link>
+            <guid isPermaLink="false">ea1703d8-0398-474e-8ef9-6fc896af6a41</guid>
+            <pubDate>Fri, 01 Jul 2016 01:21:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>For the first time, I saw r/btc has more than half active users of r/bitcoin.</p>]]></description>
+            <link>https://twitter.com/JihanWu/status/748551187184521216</link>
+            <guid isPermaLink="false">32081309-22da-4e29-a531-776c2975f6f0</guid>
+            <pubDate>Fri, 01 Jul 2016 01:21:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin: Energy-efficient security mechanisms for digital currency]]></title>
             <description><![CDATA[<article><h1>Bitcoin: Energy-efficient security mechanisms for digital currency</h1><p>IT experts at Ruhr-Universität Bochum have developed a new cryptographic puzzle that might one day be used as a security mechanism for digital currency such as bitcoin. It consumes significantly less energy than the method used to date. The science magazine Rubin reports about their results.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1d9606abc831c38db4881b76067b12af/noop.jpg?input=https%3A%2F%2Fimages.sciencedaily.com%2F2016%2F06%2F160628141415_1_75x50.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.newsbtc.com/2016/06/30/bitcoin-certificates-resume-trading-following-global-advisors-acquisition-of-xbt-provider/</link>
             <guid isPermaLink="false">e3be4309-60dd-4bd9-bd3a-321e32fb1bea</guid>
             <pubDate>Thu, 30 Jun 2016 16:05:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lisk Financial Ecosystem Grows - Gets Listed on ShapeShift and Other Services]]></title>
-            <description><![CDATA[<article><h1>Lisk Financial Ecosystem Grows - Gets Listed on ShapeShift and Other Services</h1><p>Lisk, the open source blockchain application platform, is proud to announce that the digital currency LSK is evolving at a tremendous speed.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/80124355e1e3091d352a84817f89627f/croprotate.jpg?cropheight=599&cropwidth=1080&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F30160547%2FLisk-logo-2-1080x675.jpg&x=0&y=33"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/30/lisk-financial-ecosystem-grows-gets-listed-on-shapeshift-and-other-services/</link>
-            <guid isPermaLink="false">53b2ff8a-826f-4faa-bd05-495337795bfe</guid>
-            <pubDate>Thu, 30 Jun 2016 16:05:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Here Are This Evening's Plays - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Here Are This Evening's Plays - NEWSBTC</h1><p>Here are the levels in focus for this evening's session out of the US and Asia in the bitcoin price The day is drawing to a close, and its time to put out the second of our twice daily bitcoin price watch pieces.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aff40b18eace710005e59e7ba173d301/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F30160504%2FScreen-Shot-2016-06-30-at-16.44.10.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/06/30/bitcoin-price-watch-evenings-plays/</link>
-            <guid isPermaLink="false">9e746eb6-94c6-48b4-af26-4fc46c583bbc</guid>
-            <pubDate>Thu, 30 Jun 2016 16:05:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
