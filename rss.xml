@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 01:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2016 01:22:34 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[New AMD Video Card Fails To Comply With PCI-E Specifications]]></title>
-            <description><![CDATA[<article><h1>New AMD Video Card Fails To Comply With PCI-E Specifications</h1><p>The global semiconductor company, Advanced Micro Devices (NASDAQ:AMD) is the center of some critics, the company recently launched a new wave of Video cards (GPUs) that apparently, fails to comply with the PCI-E specifications, drawing an excessive amount of current from the motherboard slots.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6cbe61049f8cc1f51080b9b2cf347e13/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_420109162.jpg"></article>]]></description>
-            <link>http://themerkle.com/new-amd-video-card-fails-to-comply-with-pci-e-specifications/</link>
-            <guid isPermaLink="false">1b3abf6d-ef51-470c-82a3-59b6f6c33a91</guid>
-            <pubDate>Fri, 01 Jul 2016 01:21:44 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[New Blockchain.com Portal Declares World Open for Business]]></title>
             <description><![CDATA[<article><h1>New Blockchain.com Portal Declares World Open for Business</h1><p>There's a new website in crypto-land called Also read: Deloitte & ConsenSys Book Ticket on Blockchain Bandwagon Blockchain.com brought to you by the popular wallet and blockchain explorer firm Blockchain.info (BC.info). The sleek new site offers industry news, a free wallet , support, information on merchant services and industry jobs, as well as insight into how Bitcoin technology is enabling individual prosperity and more control over our wealth.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e2949180f6dfa3d7d1d1abb668a1d034/croprotate.jpg?cropheight=1000&cropwidth=1500&degrees=0&input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2FOpen-For-Business-Sign.jpg&x=0&y=0"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Nvidia GeForce GTX 1070 Overclocking and Mining Hashrate</h1><p>Time for some overclocking of the GeForce GTX 1070 Founders Edition and running the tests again to see what hashrate increase can we expect from the GPU with the increased operating frequencies.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4e34231b826ca860d87163cc1984e7be/noop.jpg?input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fnvidia-gtx-1070-overclock-settings-580x387.jpg"></article>]]></description>
             <link>http://cryptomining-blog.com/8046-nvidia-geforce-gtx-1070-overclocking-and-mining-hashrate/</link>
             <guid isPermaLink="false">78c8c493-fbb3-4352-a95b-ffe0a703a28a</guid>
+            <pubDate>Fri, 01 Jul 2016 01:21:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Ultimatum: Miners Discuss Switching to Bitcoin Classic]]></title>
+            <description><![CDATA[<article><h1>Chinese Ultimatum: Miners Discuss Switching to Bitcoin Classic</h1><p>Bitcoin scalability debate gained steam as 8btc.com published details of the Bitcoin Classic implementation proposal discussed by miners of China. According to the publication, in case Hong Kong agreement fails to be enacted, the miners will switch to Bitcoin Classic. 75% of the network's mining capacity is controlled by four Chinese pools, namely F2Pool, AntPool, BTCC, and BW Pool.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a8798590fcc7899ec6d5de4c46cb7e5a/croprotate.png?cropheight=417&cropwidth=498&degrees=0&input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F07%2Fbitcointechnologies.png&x=1&y=0"></article>]]></description>
+            <link>http://forklog.net/chinese-ultimatum-miners-discuss-switching-to-bitcoin-classic/</link>
+            <guid isPermaLink="false">83a21028-2467-4dbc-a30a-500e55306b5f</guid>
             <pubDate>Fri, 01 Jul 2016 01:21:43 GMT</pubDate>
         </item>
     </channel>
