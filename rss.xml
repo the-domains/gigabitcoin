@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 13:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2016 13:22:40 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Classic had majority support until Core made promises they never intended to keep. * /r/btc]]></title>
+            <description><![CDATA[<article><h1>Classic had majority support until Core made promises they never intended to keep. * /r/btc</h1><p>I've seen a few people suggest that Classic is a failed project because Core still has majority support. What people fail to realize is that when...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
+            <link>https://www.reddit.com/r/btc/comments/4qngz3/classic_had_majority_support_until_core_made/</link>
+            <guid isPermaLink="false">51af48f2-f4fe-458f-92d6-3108245f0898</guid>
+            <pubDate>Fri, 01 Jul 2016 13:22:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Watch; 700 In Focus To The Upside]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Watch; 700 In Focus To The Upside</h1><p>Here's a look at what we are focusing on in the bitcoin price this morning. It is Friday morning, and the end of the week from our bitcoin price trading perspective. With this comes the opportunity to take a penultimate look at the markets, in an attempt to figure out what levels might be important today.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6e3962fe3cf5744c51c559099617f374/croprotate.png?cropheight=685&cropwidth=1061&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F01111049%2FScreen-Shot-2016-07-01-at-12.01.04.png&x=0&y=0"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>OTC Trading: An Inside Look at How Whales Move Bitcoin</h1><p>A recent conversation shone a new light on over-the-counter, or OTC, bitcoin trading - suggesting much of the large-scale movements between fiat and cryptocurrencies happens away from the exchange books.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/018b96bc1816964a91cf370922eac961/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2FHumpback-Whale.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/otc-trading-whales-bitcoin/</link>
             <guid isPermaLink="false">3fb7da38-ab94-40dc-83c7-2a05b7f036fc</guid>
-            <pubDate>Fri, 01 Jul 2016 01:21:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Outside the Spotlight, Stellar is Pulling Banks into its Orbit - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Outside the Spotlight, Stellar is Pulling Banks into its Orbit - CoinDesk</h1><p>Stellar co-founder Jed McCaleb hit a roadblock in his mission to serve the global underbanked when earlier this month his co-founder resigned, leaving him with her responsibilities, including more frequently engaging with the public.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/05d88e18e4a9ce1db50888d1cdb744f6/noop.jpg?input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2Fjed-mccaleb-delcastillo.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/stellars-jed-mccaleb-tries-turn-another-new-leaf/</link>
-            <guid isPermaLink="false">c914fd72-24da-44a5-94ba-f1d038c814a8</guid>
             <pubDate>Fri, 01 Jul 2016 01:21:46 GMT</pubDate>
         </item>
     </channel>
