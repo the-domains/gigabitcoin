@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 01:23:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2016 01:22:35 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Does BIP 75 Really Threaten Bitcoin's Fungibility?]]></title>
-            <description><![CDATA[<article><h1>Does BIP 75 Really Threaten Bitcoin's Fungibility?</h1><p>On Wednesday, the Bitcoin community went into a tizzy over BIP 75 (BIP stands for Bitcoin Improvement Proposal), which is, in short, a layer-2 protocol for improving the user friendliness of Bitcoin payments.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1aea3ea8a82ceae65a00469972e39384/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fdoes-bip-really-threaten-bitcoin-s-fungibility.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/does-bip-really-threaten-bitcoin-s-fungibility-1467302909</link>
-            <guid isPermaLink="false">7a7ad852-c743-4797-97d8-507ed8a178ec</guid>
-            <pubDate>Fri, 01 Jul 2016 01:21:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hyperledger Global Expansion Adds Seven New Members to Blockchain Initiative]]></title>
-            <description><![CDATA[<article><h1>Hyperledger Global Expansion Adds Seven New Members to Blockchain Initiative</h1><p>The Hyperledger Project, led by the Linux Foundation and aimed at the development of an enterprise-grade, open source distributed ledger framework and codebase, recently announced that seven new members have joined the project. New members are INVeSHARE, MonetaGo, Swedish developer Norbloc, the Moscow Exchange, and three Chinese firms: BitSE, Belink Technologies and Onchain.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/953df607d876b86add5728f59e256007/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fhyperledger-global-expansion-adds-seven-new-members-to-blockchain-initiative.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/hyperledger-global-expansion-adds-seven-new-members-to-blockchain-initiative-1467302290</link>
-            <guid isPermaLink="false">6b5ffebe-182e-4f54-b030-156f7dd28a0b</guid>
-            <pubDate>Fri, 01 Jul 2016 01:21:46 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[The Dominance of Bitcoin Network by Mining Pools - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>The Dominance of Bitcoin Network by Mining Pools - NEWSBTC</h1><p>The majority of hashing power on Bitcoin network is concentrated among a handful of mining pools. Read more... The Bitcoin community has seldom expressed concerns about the gradual centralization of the Bitcoin network. Ever since ASICs became the norm for Bitcoin mining, it has become impractical for individuals and small groups to involve themselves in profitable mining.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/814b13b49318764f3f29bc55e016f00f/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F30135623%2F2825661031_5dbf05b61c_z.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>http://www.coindesk.com/bitcoin-core-segregated-witness-merge/</link>
             <guid isPermaLink="false">51b7d9b7-2d29-48b4-a00b-978ced191228</guid>
             <pubDate>Fri, 01 Jul 2016 01:21:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[John McAfee's MGT Will Launch 2 PH/s Bitcoin Mining Operation]]></title>
+            <description><![CDATA[<article><h1>John McAfee's MGT Will Launch 2 PH/s Bitcoin Mining Operation</h1><p>Many companies have shown an interest in Bitcoin mining, albeit setting up an operation requires a lot of time, money, and careful planning. MGT Capital Investments will run their large-scale Bitcoin mining operation out of Washington state. All of the electricity comes in the form of hydropower, reducing the associated costs by a significant margin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/373f5b3e21b1f91a73bf0e70ba2f277b/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_184242314.jpg"></article>]]></description>
+            <link>http://themerkle.com/john-mcafees-mgt-will-launch-2-phs-bitcoin-mining-operation/</link>
+            <guid isPermaLink="false">979fe332-d994-4e26-bfb6-353eacb9140b</guid>
+            <pubDate>Fri, 01 Jul 2016 01:21:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New AMD Video Card Fails To Comply With PCI-E Specifications]]></title>
+            <description><![CDATA[<article><h1>New AMD Video Card Fails To Comply With PCI-E Specifications</h1><p>The global semiconductor company, Advanced Micro Devices (NASDAQ:AMD) is the center of some critics, the company recently launched a new wave of Video cards (GPUs) that apparently, fails to comply with the PCI-E specifications, drawing an excessive amount of current from the motherboard slots.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6cbe61049f8cc1f51080b9b2cf347e13/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_420109162.jpg"></article>]]></description>
+            <link>http://themerkle.com/new-amd-video-card-fails-to-comply-with-pci-e-specifications/</link>
+            <guid isPermaLink="false">1b3abf6d-ef51-470c-82a3-59b6f6c33a91</guid>
+            <pubDate>Fri, 01 Jul 2016 01:21:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
