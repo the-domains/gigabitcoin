@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 14:03:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2016 14:04:37 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ICAP is Building a Blockchain 'Rosetta Stone' to Enhance its Post-Trade Process - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>ICAP is Building a Blockchain 'Rosetta Stone' to Enhance its Post-Trade Process - CoinDesk</h1><p>ICAP has built what it refers to internally as a 'Rosetta Stone' for trades. That description refers to an ancient hieroglyphic text that brought together several languages from antiquity, and opened a pathway to understanding messages encoded in Egyptian ruins.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1c10df5dd0f441ad3f68666edacde8e0/croprotate.jpg?cropheight=808&cropwidth=1271&degrees=0&input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F06%2FRosetta_Stone.jpg&x=112&y=0"></article>]]></description>
+            <link>http://www.coindesk.com/icap-blockchain-rosetta-stone/</link>
+            <guid isPermaLink="false">8562a026-1f23-4d26-b1aa-838ed7e70c7f</guid>
+            <pubDate>Fri, 01 Jul 2016 14:03:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Monitoring The Dark Net For Stolen Information After A Data Breach]]></title>
             <description><![CDATA[<article><h1>Monitoring The Dark Net For Stolen Information After A Data Breach</h1><p>With all of the stolen data circulating on the dark net these days, people are wondering if it is possible to track down this information. Right now, it can take weeks, if not years, before a data breach is discovered, which is not an ideal situation.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ddefaf663ecc59fbb5c539dc34463c09/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_294132083.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<p>@lopp @kristovatlas On the 8btc forum, after reading the responses, 90% of them showing no objection against the proposal.</p>]]></description>
             <link>https://twitter.com/JihanWu/status/748546445658071040</link>
             <guid isPermaLink="false">e5468ab3-3953-4906-8c6c-1faeee434ff9</guid>
-            <pubDate>Fri, 01 Jul 2016 13:22:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What exactly is a Bitcoin?]]></title>
-            <description><![CDATA[<article><h1>What exactly is a Bitcoin?</h1><p>An extremely complex software code. ****** *WHERE DO THEY COME FROM Bitcoins were designed by an unknown person, or persons, known as Satoshi Nakamoto in 2009. They're held in the Bitcoin network, from which they're extracted or mined by computers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/871fbbea969416131dee2959fa147a8e/noop.jpg?input=http%3A%2F%2Fresources.news.com.au%2Fcs%2Fnewscomau%2Fimages%2Fplaceholders%2Fstory-thumb-large.jpg"></article>]]></description>
-            <link>http://www.news.com.au/finance/business/breaking-news/what-exactly-is-a-bitcoin/news-story/d4f955f298825512543614aca0decb84</link>
-            <guid isPermaLink="false">8a1d9cd9-e3ab-44a2-bb0c-09c8827ff232</guid>
             <pubDate>Fri, 01 Jul 2016 13:22:24 GMT</pubDate>
         </item>
     </channel>
