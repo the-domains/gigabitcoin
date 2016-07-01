@@ -27,10 +27,11 @@ description: >-
   markets, in an attempt to figure out what levels might be important today.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.newsbtc.com/2016/07/01/33420/'
+isBasedOnUrl: >-
+  http://www.newsbtc.com/2016/07/01/bitcoin-price-watch-700-in-focus-to-the-upside/
 title: Bitcoin Price Watch; 700 In Focus To The Upside
-datePublished: '2016-07-01T13:22:22.938Z'
-dateModified: '2016-07-01T10:44:05.417Z'
+datePublished: '2016-07-01T19:12:50.533Z'
+dateModified: '2016-07-01T17:14:06.634Z'
 starred: false
 sourcePath: _posts/2016-07-01-bitcoin-price-watch-700-in-focus-to-the-upside.md
 inFeed: true
