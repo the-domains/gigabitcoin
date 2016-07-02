@@ -4,11 +4,18 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 17:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2016 17:16:40 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Some thoughts on Blockchain and Artificial Intelligence]]></title>
+            <description><![CDATA[<article><h1>Some thoughts on Blockchain and Artificial Intelligence</h1><p>There is a concept dubbed 'suspension of disbelief', which means that any work of art like a movie, a book, or a comic, incorporates some circumstances that the audience automatically perceives as true, whatever stupid they might be, as long as they are a basic premise.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d75745ecfedc7f5601215cedc44b7c02/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F07%2Fbitcoinscience03.png"></article>]]></description>
+            <link>http://forklog.net/some-thoughts-on-blockchain-and-artificial-intelligence/</link>
+            <guid isPermaLink="false">e41eb72f-b389-4a72-81ba-761032f1f18a</guid>
+            <pubDate>Sat, 02 Jul 2016 17:16:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How is Bitcoin XT different from Bitcoin?]]></title>
-            <description><![CDATA[<article><h1>How is Bitcoin XT different from Bitcoin?</h1><p>The tip of a good Scanning tunneling microscope is literally one atom thick, so you can't really go pointier than that! This is what you need to obtain images like this one, where you can see the individual atoms on a surface: (Image from ) What you see here is the surface of gold, where you not only see the ripples corresponding to the surface reconstruction, but also the 'grid' of...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
+            <description><![CDATA[<article><h1>How is Bitcoin XT different from Bitcoin?</h1><p>The tip of a good Scanning tunneling microscope is literally one atom thick, so you can't really go pointier than that! This is what you need to obtain images like this one, where you can see the individual atoms on a surface: (Image from ) What you see here is the surface of gold, where you not only see the ripples corresponding to the surface reconstruction, but also the 'grid' of...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
             <link>https://www.quora.com/unanswered/How-is-Bitcoin-XT-different-from-Bitcoin</link>
             <guid isPermaLink="false">f578e155-6420-474c-a047-7b5d985b823e</guid>
             <pubDate>Sat, 02 Jul 2016 17:16:30 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.quora.com/Can-I-day-trade-Ethereum-on-Coinbase</link>
             <guid isPermaLink="false">a889ecad-3781-4d10-b0df-929182d6d0f3</guid>
             <pubDate>Sat, 02 Jul 2016 01:38:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Popular Cryptocurrencies - The First Half of 2016 In Review]]></title>
-            <description><![CDATA[<article><h1>Popular Cryptocurrencies - The First Half of 2016 In Review</h1><p>The year 2016 has been kind of interesting for both established and newer cryptocurrencies so far. Market action has been plentiful, and will continue this trend for the foreseeable future. Now that the first half of the year is behind us, it is time to look at the popular coins have been doing so far.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/477be6cd506504855719830f837c6da7/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_376783591.jpg"></article>]]></description>
-            <link>http://themerkle.com/popular-cryptocurrencies-the-first-half-of-2016-in-review/</link>
-            <guid isPermaLink="false">7a7a780c-311a-475d-b2f6-64b456441bcb</guid>
-            <pubDate>Fri, 01 Jul 2016 22:41:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
