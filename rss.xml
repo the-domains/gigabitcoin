@@ -4,13 +4,27 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 21:59:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2016 22:00:41 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Massive Chinese Trading Volume Pushes Bitcoin Price Upward]]></title>
+            <description><![CDATA[<article><h1>Massive Chinese Trading Volume Pushes Bitcoin Price Upward</h1><p>Bitcoin has been seeing an excellent price increase once again, after a few days of dips and sideways action. Mainly the Chinese market continues to dominate the trading volume, as they are inching towards 94% of all trades. Interestingly enough, there have been three days with nearly identical trading volume.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d57966e295e0de9f3c2bc3236ef19f75/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_422396167.jpg"></article>]]></description>
+            <link>http://themerkle.com/massive-chinese-trading-volume-pushes-bitcoin-price-upward/</link>
+            <guid isPermaLink="false">d94afa85-88f9-49cb-ac69-c95f141e0cc9</guid>
+            <pubDate>Sat, 02 Jul 2016 21:59:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[HashOcean: Another Cloud Mining Scam? - Bitcoin News]]></title>
             <description><![CDATA[<article><h1>HashOcean: Another Cloud Mining Scam? - Bitcoin News</h1><p>In the world of cloud-based bitcoin mining, you never know what you are going to get. Most operators should be scrutinized and researched thoroughly before signing up as there are definitely some legitimate operations. However, there are quite a bit of shady practices as well in the cloud mining space.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e01e4eee84d8592dd3d51fd3dda8f67b/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FHashOcean-Seems-To-Be-Drowning-In-Deep-Water.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/hashocean-cloud-mining-scam/</link>
             <guid isPermaLink="false">ba87eb4b-4e0a-4565-b284-8db3b83763fb</guid>
+            <pubDate>Sat, 02 Jul 2016 21:59:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Peerplays Open Sources Automated Blockchain-based Distribution Model]]></title>
+            <description><![CDATA[<article><h1>Peerplays Open Sources Automated Blockchain-based Distribution Model</h1><p>The Peerplays protocol is quite an interesting one to keep an eye on for any cryptocurrency enthusiast. This gaming platform has been focusing on using blockchain technology by creating an open-source fee sharing module. Any Graphene-based blockchain can distribute profits directly to its token holders.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1edadd0d744b4d702c75ffd5d9a0512c/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_289714247.jpg"></article>]]></description>
+            <link>http://themerkle.com/peerplays-open-sources-automated-blockchain-based-distribution-model/</link>
+            <guid isPermaLink="false">25758bde-b736-465e-8dea-c7389b9ff2ce</guid>
             <pubDate>Sat, 02 Jul 2016 21:59:53 GMT</pubDate>
         </item>
         <item>
@@ -61,20 +75,6 @@
             <link>http://www.economiccalendar.com/2016/07/02/btcusd-bitcoin-approaches-700-as-major-reward-halving-looms/</link>
             <guid isPermaLink="false">b4a297be-617d-4aac-b5a7-9d1a34637103</guid>
             <pubDate>Sat, 02 Jul 2016 17:46:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Great developers never blame users for usability issues.</p>]]></description>
-            <link>https://twitter.com/gavinandresen/status/748867576160288768</link>
-            <guid isPermaLink="false">1d9f9481-7e26-4eab-bcef-e24ff6706025</guid>
-            <pubDate>Sat, 02 Jul 2016 17:16:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Bitcoin.com Podcast: Meet the Minds Behind Paxful]]></title>
-            <description><![CDATA[<article><h1>The Bitcoin.com Podcast: Meet the Minds Behind Paxful</h1><p>On the latest episode of the Bitcoin.com Podcast, our host Zach Doty sat down with Ray Youssef and Artur Schaback of Paxful. Zach, Youssef and Schaback discussed Paxful's services, branded as the "Uber" of buying bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6ab4dcd79cbfee6ecca08f631bc7d0de/croprotate.png?cropheight=600&cropwidth=762&degrees=0&input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FBitcoin-com-podcast-Paxful.png&x=19&y=0"></article>]]></description>
-            <link>https://news.bitcoin.com/podcast-meet-minds-paxful/</link>
-            <guid isPermaLink="false">96fa28d2-027f-4c64-b808-6101c3a7d793</guid>
-            <pubDate>Sat, 02 Jul 2016 17:16:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
