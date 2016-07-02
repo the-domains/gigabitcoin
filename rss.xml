@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 17:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2016 17:16:36 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Amendments to the Bitcoin paper · Issue #1325 · bitcoin-dot-org/bitcoin.org]]></title>
+            <description><![CDATA[<article><h1>Amendments to the Bitcoin paper · Issue #1325 · bitcoin-dot-org/bitcoin.org</h1><p>I've been noticing that the Bitcoin paper at https://bitcoin.org/bitcoin.pdf is getting a lot of traffic (mainly from people searching for "bitcoin paper", or probably seeing it cited by other pape...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/25cbe7c47ee8d30ccd765f02369bd4d4/noop?input=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F12899428%3Fv%3D3%26s%3D400"></article>]]></description>
+            <link>https://github.com/bitcoin-dot-org/bitcoin.org/issues/1325</link>
+            <guid isPermaLink="false">5da98478-0908-4c3c-8364-9d48e3294bfe</guid>
+            <pubDate>Sat, 02 Jul 2016 17:16:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Retrying $700]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Retrying $700</h1><p>Another day and another wave of advance. Bitcoin price has broken through $680 and the market is currently with $700 which had caused deep correction a month ago. Technical analysis looks for up- and downside targets. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/daf70c431ea7042520f0858bdb129183/noop.png?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FSelection_20160702_003.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How extensively is bitcoin used in Asia?</h1><p>The ways that bitcoin is used all over Asia varies depending on several factors such as market demand, government restrictions, and culture. According to the region's prominent bitcoin companies, there are three major uses of the cryptocurrency in Asia: investment, remittance, and currency.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
             <link>https://www.quora.com/How-extensively-is-bitcoin-used-in-Asia</link>
             <guid isPermaLink="false">2713c34a-6801-4eb5-915c-912a7159cd96</guid>
-            <pubDate>Fri, 01 Jul 2016 22:41:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Circle CEO & Luxembourg Minister Clash at Blockchain Debate]]></title>
-            <description><![CDATA[<article><h1>Circle CEO & Luxembourg Minister Clash at Blockchain Debate</h1><p>Circle's Jeremy Allaire and Luxembourg Finance Minister Pierre Gramegna discussed the future of blockchain at the World Economic Forum. Regulation and blockchain's future were major topics at the Unblocking the Blockchain event at this week's World Economic Forum in Tianjin, China.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d220c8321a60c0da2131105c8ceb1371/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2FWorld-economic-forum.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/circle-luxembourg-clash-blockchain/</link>
-            <guid isPermaLink="false">c5e68efe-5a16-458a-8d48-5cb987916c61</guid>
             <pubDate>Fri, 01 Jul 2016 22:41:17 GMT</pubDate>
         </item>
     </channel>
