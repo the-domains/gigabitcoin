@@ -4,77 +4,77 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 17:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2016 17:17:10 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Great developers never blame users for usability issues.</p>]]></description>
-            <link>https://twitter.com/gavinandresen/status/748867576160288768</link>
-            <guid isPermaLink="false">1d9f9481-7e26-4eab-bcef-e24ff6706025</guid>
-            <pubDate>Sat, 02 Jul 2016 17:16:35 GMT</pubDate>
+            <title><![CDATA[Blockchain Breakthrough: Peerplays Creates Open-Source Fee Sharing Module]]></title>
+            <description><![CDATA[<article><h1>Blockchain Breakthrough: Peerplays Creates Open-Source Fee Sharing Module</h1><p>After a successful first round of ICO funding, Peerplays announced today that they have innovated the Blockchain space with the creation of an open-source fee sharing module, allowing any Graphene-based Blockchain to distribute profits directly to its token holders.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bcbb6862f8f7a078506cd45832929034/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzIxOGI5M2QyODUzYzJjMTliYzJiNDE0MDk2NTY0NTllLmpwZw%3D%3D.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/blockchain-breakthrough-peerplays-creates-open-source-fee-sharing-module</link>
+            <guid isPermaLink="false">9e94c3cc-51c8-40ba-b840-d4fda86f87c0</guid>
+            <pubDate>Sat, 02 Jul 2016 17:16:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Bitcoin.com Podcast: Meet the Minds Behind Paxful]]></title>
-            <description><![CDATA[<article><h1>The Bitcoin.com Podcast: Meet the Minds Behind Paxful</h1><p>On the latest episode of the Bitcoin.com Podcast, our host Zach Doty sat down with Ray Youssef and Artur Schaback of Paxful. Zach, Youssef and Schaback discussed Paxful's services, branded as the "Uber" of buying bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6ab4dcd79cbfee6ecca08f631bc7d0de/croprotate.png?cropheight=600&cropwidth=762&degrees=0&input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FBitcoin-com-podcast-Paxful.png&x=19&y=0"></article>]]></description>
-            <link>https://news.bitcoin.com/podcast-meet-minds-paxful/</link>
-            <guid isPermaLink="false">96fa28d2-027f-4c64-b808-6101c3a7d793</guid>
-            <pubDate>Sat, 02 Jul 2016 17:16:34 GMT</pubDate>
+            <title><![CDATA[Check status of daemon?]]></title>
+            <description><![CDATA[<article><h1>Check status of daemon?</h1><p>I found the easiest way to do this (version 0.12) is to issue the command (not case sensitive): bitcoin-cli getblockchaininfo Then, compare the blocks received field, to the headers field. The blocks received should increase steadily until it matches the headers field, at which point the client is synced.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46245/check-status-of-daemon</link>
+            <guid isPermaLink="false">e73ff14e-1bff-44e8-83bd-5472eb8d415b</guid>
+            <pubDate>Sat, 02 Jul 2016 17:16:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[John McAfee-Led Company To Launch Hydro-Powered Bitcoin Mining Operation]]></title>
-            <description><![CDATA[<article><h1>John McAfee-Led Company To Launch Hydro-Powered Bitcoin Mining Operation</h1><p>MGT Capital Investments, which is seeking to diversify its portfolio of cyber technologies, has secured a location in central Washington to launch a bitcoin mining operation. The company has secured a location with low-cost hydro power to establish a facility to generate more than two PetaHash in processing power.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9dc5b458a6dd1cf87a5c04bb8acb94c0/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FHydroelectric-dam-1.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/john-mcafee-mgt-bitcoin-mining/</link>
-            <guid isPermaLink="false">d5554bfb-a247-406f-8a1a-903678434691</guid>
-            <pubDate>Sat, 02 Jul 2016 17:16:34 GMT</pubDate>
+            <title><![CDATA[London's Fintech Crown Up For Grabs After Brexit As Dublin, Paris, Frankfurt Cajole Bankers]]></title>
+            <description><![CDATA[<article><h1>London's Fintech Crown Up For Grabs After Brexit As Dublin, Paris, Frankfurt Cajole Bankers</h1><p>The race is on between European cities including Frankfurt, Dublin and Paris for London's finance crown following the Brexit vote. Just a day after the vote result was announced last week, Ireland's foreign investment agency had already contacted more than a thousand investors letting them know the Emerald Isle is part of the European Union and will remain so, while offering assistance in moving staff over from the United Kingdom.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/557308ed6014fe1b7159a85cdb2fa000/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3L2FhY2QwOWEyNjk1MWRkNmZmNGUzMjNlZjczYjcxNmNjLmpwZw%3D%3D.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/londons-fintech-crown-up-for-grabs-after-brexit-as-dublin-paris-frankfurt-cajole-bankers</link>
+            <guid isPermaLink="false">13b9f205-7ae8-4324-9032-9c3b45a67da6</guid>
+            <pubDate>Sat, 02 Jul 2016 17:16:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How many people mine bitcoin in india?]]></title>
-            <description><![CDATA[<article><h1>How many people mine bitcoin in india?</h1><p>My strict answer to your first question is "no", because I don't believe in compulsory state education. The qualifying phrase you add about evolution doesn't affect that answer. But if tax dollars are being spent on the education then evolution must be the basis of any life science classes since it i...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
-            <link>https://www.quora.com/unanswered/How-many-people-mine-bitcoin-in-india</link>
-            <guid isPermaLink="false">78cfb960-1e42-4957-a8f9-7663ba507d3b</guid>
-            <pubDate>Sat, 02 Jul 2016 17:16:34 GMT</pubDate>
+            <title><![CDATA[Why Serious Investors Need Bitcoin in Their Portfolios]]></title>
+            <description><![CDATA[<article><h1>Why Serious Investors Need Bitcoin in Their Portfolios</h1><p>Bitcoin has been gaining a lot of positive media attention over the past few weeks. Investors are looking at cryptocurrency as a valuable portfolio diversification method. In fact, bitcoin should be in everybody's portfolio, according to some experts. Also read: Blockchain Technology: Making Smart Guns Smarter Bitcoin offers some exciting traits that other investments do not.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a90282eb1ecc05efd6d117c1d1497d81/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_179262761.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/serious-investors-need-bitcoin-portfolio/</link>
+            <guid isPermaLink="false">e3d4961f-1be9-4539-8694-ae6d433ae589</guid>
+            <pubDate>Sat, 02 Jul 2016 17:16:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brexit, Bitcoin And Ethereum | PYMNTS.com]]></title>
-            <description><![CDATA[<article><h1>Brexit, Bitcoin And Ethereum | PYMNTS.com</h1><p>Brexit Brexit shows just how important good governance is. Committed anarchists read no further. For everyone else, human communities have always needed rules to get the best out of each other - because we can make each other better off in so many different ways - and to prevent the worst of each other - because, face it, even good humans do bad things.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f4ca5adff18053e72459723ec31c0611/noop.jpg?input=http%3A%2F%2Fcdn.pymnts.com%2Fwp-content%2Fuploads%2F2016%2F07%2FBrexit-bitcoin-ethereum-David-Evans-1000x600.jpg"></article>]]></description>
-            <link>http://www.pymnts.com/brexit/2016/brexit-bitcoin-and-ethereum-governance-gone-awry-with-beach-reading/</link>
-            <guid isPermaLink="false">920ff69a-0f58-4616-b968-01a17a088850</guid>
-            <pubDate>Sat, 02 Jul 2016 17:16:34 GMT</pubDate>
+            <title><![CDATA[Industry Report: How China, France, and the FBI Do Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Industry Report: How China, France, and the FBI Do Bitcoin</h1><p>China loves digital currency, France wants to fight it, and the FBI doesn't know how to handle it. Want to catch up on your latest digital currency news? Check out the stories below. Also read: Industry Report: Bitcoin Thieves Abound As Popularity Skyrockets China has proposed a new civil law that recognizes the people's right to own virtual assets.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1d892fad6b17608d060e2f1b2fdbcbdb/croprotate.jpg?cropheight=600&cropwidth=940&degrees=0&input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F06%2FBitcoin-China.jpg&x=0&y=56"></article>]]></description>
+            <link>http://bitcoinist.net/industry-report-china-france-fbi-bitcoin/</link>
+            <guid isPermaLink="false">ebb1ebf4-19c8-4c28-a6d3-1cf66302e57f</guid>
+            <pubDate>Sat, 02 Jul 2016 17:16:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How China took center stage in bitcoin's civil war - The Economic Times]]></title>
-            <description><![CDATA[<article><h1>How China took center stage in bitcoin's civil war - The Economic Times</h1><p>By Nathaniel Popper A delegation of American executives flew to Beijing in April for a secret meeting just blocks from Tiananmen Square. They had come to court the new kingmakers in one of the strangest experiments in money the world has seen: the virtual currency known as bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4613b5d40e0beb91453d82cc20f69024/noop.jpg?input=http%3A%2F%2Feconomictimes.indiatimes.com%2Fthumb%2Fmsid-53020000%2Cwidth-600%2Cresizemode-4%2Cimglength-73073%2Fnews%2Finternational%2Fbusiness%2Fhow-china-took-center-stage-in-bitcoins-civil-war%2Fbitcoin.jpg"></article>]]></description>
-            <link>http://economictimes.indiatimes.com/news/international/business/how-china-took-center-stage-in-bitcoins-civil-war/articleshow/53019987.cms</link>
-            <guid isPermaLink="false">1d048b43-aed4-4dc2-91c8-5808f87ca211</guid>
-            <pubDate>Sat, 02 Jul 2016 17:16:33 GMT</pubDate>
+            <title><![CDATA[Smaller Swift-Connected Ukrainian Bank Targeted By Hackers]]></title>
+            <description><![CDATA[<article><h1>Smaller Swift-Connected Ukrainian Bank Targeted By Hackers</h1><p>People who have been following the news may have heard the Ukraine central bank has been targeted in a cyber attack. As it turns out, officials issued a hacking alert in April of 2016. Similarly to what has happened with the Bank of Bangladesh, the Ukraine central bank was targeted to move money over the Swift network.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5be2c0b6be5915bd2d2fbd0d2cb4fbdc/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_230742736.jpg"></article>]]></description>
+            <link>http://themerkle.com/smaller-swift-connected-ukrainian-bank-targeted-by-hackers/</link>
+            <guid isPermaLink="false">ae8d2cfa-30fa-4fee-9fb5-1e0947f7e76a</guid>
+            <pubDate>Sat, 02 Jul 2016 17:16:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dark Net Group Italian Mafia Brussels Members Arrested]]></title>
-            <description><![CDATA[<article><h1>Dark Net Group Italian Mafia Brussels Members Arrested</h1><p>Another vendor group active on the deep web has been busted by law enforcement. This is starting to become a worrisome trend, considering how the dark net is supposed to provide complete anonymity, assuming users take the necessary precautions. Suspects were arrested in Belgium, the US, and Romania.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/82a881617542d8c789c55ae457ccef6f/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_318826994.jpg"></article>]]></description>
-            <link>http://themerkle.com/dark-net-group-italian-mafia-brussels-members-arrested/</link>
-            <guid isPermaLink="false">c9e5f562-9942-4258-afe3-ab6b5f2766dd</guid>
-            <pubDate>Sat, 02 Jul 2016 17:16:33 GMT</pubDate>
+            <title><![CDATA[Blockstream Wants To Rewrite The Bitcoin Whitepaper]]></title>
+            <description><![CDATA[<article><h1>Blockstream Wants To Rewrite The Bitcoin Whitepaper</h1><p>People who want to find out more about Bitcoin will usually find themselves reading the Satoshi Nakamoto whitepaper at some point. However, some people within the Bitcoin development community feel this paper is outdated, and should be changed. While it is true the whitepaper does not mention everything in the Bitcoin world; there is no need to change anything.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6c1ea66df1793504193d1772818084cb/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_341591738.jpg"></article>]]></description>
+            <link>http://themerkle.com/blockstream-wants-to-rewrite-the-bitcoin-whitepaper/</link>
+            <guid isPermaLink="false">7f220eb6-b5ba-4b9f-be55-3c24e57dba84</guid>
+            <pubDate>Sat, 02 Jul 2016 17:16:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Database With Info on 2.2m Criminal Suspects Leaked]]></title>
-            <description><![CDATA[<article><h1>Database With Info on 2.2m Criminal Suspects Leaked</h1><p>Not all data breaches contain details of regular consumers and enterprises these days. One database classifying suspected terrorists, money launderers, and other criminals have been leaked online. Interestingly enough, no one needed particular credentials to access this type of information either. Not the best of security practices, to say the least.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5e7c81b4c7cb01b5c06a386aa98c272f/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_288986747.jpg"></article>]]></description>
-            <link>http://themerkle.com/database-with-info-on-2-2m-criminal-suspects-leaked/</link>
-            <guid isPermaLink="false">cae899f5-003e-4faa-bdfd-5f5346abd540</guid>
-            <pubDate>Sat, 02 Jul 2016 17:16:33 GMT</pubDate>
+            <title><![CDATA[HashOcean Scam Victims Sign Petitions to FBI, Hackers to Reveal More Scams]]></title>
+            <description><![CDATA[<article><h1>HashOcean Scam Victims Sign Petitions to FBI, Hackers to Reveal More Scams</h1><p>Three separate online petitions have been opened by individuals who have reportedly lost their investments in the defunct HashOcean Bitcoin mining company. They are seeking to get the interest of the relevant transborder crimes department of law enforcement agencies such as the FBI, CIA, Interpol and MI6.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/697300edde5c9f85111333e9f2ca5f63/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzI3YTIwZDEyNjJhNmQ3NjU2ZGY0YWI1Mjc2MDFmMTJhLmpwZw%3D%3D.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/hashocean-scam-victims-sign-petitions-to-fbi-hackers-to-reveal-more-scams</link>
+            <guid isPermaLink="false">d43c67cd-a412-4571-9716-83d403216798</guid>
+            <pubDate>Sat, 02 Jul 2016 17:16:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Worrisome Locky Ransomware Variant Zepto is Making The Rounds]]></title>
-            <description><![CDATA[<article><h1>Worrisome Locky Ransomware Variant Zepto is Making The Rounds</h1><p>There is a now form of Bitcoin ransomware on the block, going by the name of Zepto. At its core, this is a different variant of the Locky malware, which has been making the rounds for quite some time now. Security researchers detected a spike in the distribution of this new ransomware.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/eeb16a61d69ef9cacb13546483b6e6f6/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_433275982.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/worrisome-locky-ransomware-variant-zepto-making-rounds/</link>
-            <guid isPermaLink="false">e84052b6-421e-4981-b3ec-fc97a96bea92</guid>
-            <pubDate>Sat, 02 Jul 2016 17:16:33 GMT</pubDate>
+            <title><![CDATA[Industry to Descend on Shanghai for the Global Blockchain Summit]]></title>
+            <description><![CDATA[<article><h1>Industry to Descend on Shanghai for the Global Blockchain Summit</h1><p>One of the biggest blockchain event of the year is to be held in Shanghai from the 19th to the 24th of September in a week long International Blockchain conference merging DevCon's developer focused conference with Shanghai's more business focused Second Global Blockchain Summit.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a84ec740542b8f154f37b200db814dbc/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F02%2FShanghai-1.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/industry-to-descend-on-shanghai-for-the-global-blockchain-summit/</link>
+            <guid isPermaLink="false">3f0700fa-71c3-4611-98ae-47df149db99d</guid>
+            <pubDate>Sat, 02 Jul 2016 17:16:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NatWest Fails to Imitate Bitcoin with Limited 24-7 Accessibility]]></title>
-            <description><![CDATA[<article><h1>NatWest Fails to Imitate Bitcoin with Limited 24-7 Accessibility</h1><p>Banks are struggling to provide around the clock customer support and services right now. NatWest wants to change that by opening a new branch with 24-7 automated banking facilities. However, Bitcoin has been offering its services around the clock for seven years now.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8057303f5738a99bb7bdedb77b1d4af9/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FATM.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/natwest-fails-imitate-bitcoin/</link>
-            <guid isPermaLink="false">e0462276-1edd-4bf5-9807-e85dcc3af260</guid>
-            <pubDate>Sat, 02 Jul 2016 17:16:33 GMT</pubDate>
+            <title><![CDATA[Can I day trade Ethereum on Coinbase's GDAX?]]></title>
+            <description><![CDATA[<article><h1>Can I day trade Ethereum on Coinbase's GDAX?</h1><p>There are a couple of interesting ways to answer this, but I'm going to give an answer here that is my most sincere. Now, I do have 3 daughters, and many people say they would die for their kids. I don't agree with that sentiment, and here's why...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
+            <link>https://www.quora.com/Can-I-day-trade-Ethereum-on-Coinbase%E2%80%99s-GDAX</link>
+            <guid isPermaLink="false">6c001775-80e9-45b8-9b39-467f238b53c9</guid>
+            <pubDate>Sat, 02 Jul 2016 17:16:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
