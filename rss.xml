@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jul 2016 19:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2016 19:19:11 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="https://67.media.tumblr.com/dfa103a97dea9d52e75286bf26c01d79/tumblr_o37ylh5iIM1qe8p34o1_540.jpg"></article>]]></description>
+            <link>https://67.media.tumblr.com/dfa103a97dea9d52e75286bf26c01d79/tumblr_o37ylh5iIM1qe8p34o1_540.jpg</link>
+            <guid isPermaLink="false">2a9f09fb-3432-44c5-898a-ea53d8ba8a8d</guid>
+            <pubDate>Sun, 03 Jul 2016 19:18:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Litecoin Is Back: New Roadmap Signals the Start of a Renaissance]]></title>
             <description><![CDATA[<article><h1>Litecoin Is Back: New Roadmap Signals the Start of a Renaissance</h1><p>The Litecoin Association has released a roadmap for the future of the well-known cryptocurrency, introducing new software clients, protocol improvements, and the consolidation of the various communication and governance structures.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e1a9b6a284e6b2807367bc46fcd99730/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F07%2FLitecoin-coins.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.newsbtc.com/2016/07/03/bitcoin-ransomware-may-soon-become-thing-past/</link>
             <guid isPermaLink="false">f1d7f2d8-00bd-4af3-ab3c-fb764750c7a0</guid>
             <pubDate>Sun, 03 Jul 2016 17:14:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Three Common Things We Can't Do With Bitcoin Yet]]></title>
-            <description><![CDATA[<article><h1>Three Common Things We Can't Do With Bitcoin Yet</h1><p>Albeit there are several things one can do with Bitcoin, there are some things that are not possible yet. Depending on where one lives, the usability of Bitcoin in its purest form is relatively limited, or somewhat gaining mainstream interest. This situation might change over time, though, depending on when people start to see the value of Bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9dcd5aabcee6dffe1b0ed36c65ef42ae/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_380562541.jpg"></article>]]></description>
-            <link>http://themerkle.com/three-common-things-we-cant-do-with-bitcoin-yet/</link>
-            <guid isPermaLink="false">f7ca3084-f5d2-4129-aa12-d5453a84da7b</guid>
-            <pubDate>Sun, 03 Jul 2016 17:14:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
