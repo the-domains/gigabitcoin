@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jul 2016 05:40:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2016 05:40:08 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin News for the week of 6/27/16]]></title>
+            <description><![CDATA[<article><h1>Bitcoin News for the week of 6/27/16</h1><p>Welcome to our weekly bitcoin news recap, where we cover top headlines and stories in the world of bitcoin each week. We're proud to say that this week Blockchain was recognized as a Technology Pioneer by the World Economic Forum.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ab40f166c7505f604bf5e2965deff57e/noop.png?input=https%3A%2F%2Fblog.blockchain.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fpeter-smith-wef-cnbc.png"></article>]]></description>
+            <link>https://blog.blockchain.com/2016/07/02/bitcoin-news-for-the-week-of-62716/</link>
+            <guid isPermaLink="false">a154199d-2141-4cdc-866e-b9e312a7faff</guid>
+            <pubDate>Sun, 03 Jul 2016 05:40:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Weekly Analysis - BTC/USD Sighting More Gains? - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Weekly Analysis - BTC/USD Sighting More Gains? - NEWSBTC</h1><p>Bitcoin price recently moved above a major resistance area, and if the current break is true, there are chances of more upsides in BTC/USD. Bitcoin price recently moved above a major resistance area, and if the current break is true, there are chances of more upsides in BTC/USD.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7cac245f673376a1fc5e4923411c7dc4/croprotate.png?cropheight=899&cropwidth=1816&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F03051617%2FBitcoin.png&x=3&y=3"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Crooked Agent Caught Again: Lyn Ulbricht Speaks Out</h1><p>According to Also read: China to Play a 'Leading Role' in Bitcoin's Future recent Silk Road court documents unsealed on June 30, the corrupt special agent Shaun Bridges stole an extra $700,000 USD worth of Bitcoin that authorities were initially unaware of.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/acbd07eeaea1496fb8e265646577871b/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FCrooked-Agent-Caught-Again-Lyn-Ulbricht-Speaks-Out.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/crooked-agent-caught-lyn-ulbricht-speaks/</link>
             <guid isPermaLink="false">252b46e0-8cf7-4df7-8e59-0613bc4056dc</guid>
-            <pubDate>Sat, 02 Jul 2016 19:24:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lisk Adoption Growing as Currency Added to ShapeShift Exchange]]></title>
-            <description><![CDATA[<article><h1>Lisk Adoption Growing as Currency Added to ShapeShift Exchange</h1><p>Blockchain development platform Lisk now has its crypto-token LSK listed on ShapeShift, Yuanbao and CoinPayments.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf8612c4206e4124a2cb235c5abd9073a8ef8a19.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/lisk-adoption-shapeshift-exchange/</link>
-            <guid isPermaLink="false">36689509-c9ef-4033-8739-e17512e59b92</guid>
             <pubDate>Sat, 02 Jul 2016 19:24:51 GMT</pubDate>
         </item>
     </channel>
