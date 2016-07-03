@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 22:00:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2016 04:04:45 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://imgur.com/BXc2WJP.png"></article>]]></description>
+            <link>http://i.imgur.com/BXc2WJP.png</link>
+            <guid isPermaLink="false">dcb402f0-58ac-4f42-9c25-aa5f119addfd</guid>
+            <pubDate>Sun, 03 Jul 2016 04:04:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Remittance App Abra Now Available In US]]></title>
             <description><![CDATA[<article><h1>Bitcoin Remittance App Abra Now Available In US</h1><p>The Abra team has a plan to expand the availability of their mobile apps to different countries in the coming months Abra is a Bitcoin remittance application a lot of people seem to have high hopes for. Ever since the company raised money to bring their project to the masses, things had gone quiet.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2c47028668bdb790a11f0ed7290ee96b/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F02124756%2Fshutterstock_436218499.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.newsbtc.com/2016/07/02/citigroup-payments-industry-bitcoin/</link>
             <guid isPermaLink="false">421431d9-d58f-4a8c-8629-4cdbfc3c9e0e</guid>
             <pubDate>Sat, 02 Jul 2016 19:24:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Reward Halving: One More Week to Go - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Reward Halving: One More Week to Go - NEWSBTC</h1><p>With Bitcoin network scheduled for halving next week, there is an uncertainty about the value of bitcoin after halving. Read more... Within one week, the Bitcoin network will undergo a major change. Bitcoin block reward halving is scheduled to happen on the 9th of this month.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/90f2c519eb7aa515110885f4feb58209/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F02181943%2Fbitcoin-halving_new.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/02/bitcoin-reward-halving-one-more-week-to-go/</link>
-            <guid isPermaLink="false">f1b7149e-bbd6-4f1e-be62-c33d68075bcc</guid>
-            <pubDate>Sat, 02 Jul 2016 17:46:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
