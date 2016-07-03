@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jul 2016 21:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2016 21:22:41 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DAO Attack Nullified Using Synereo's Smart Contracting Language]]></title>
+            <description><![CDATA[<article><h1>DAO Attack Nullified Using Synereo's Smart Contracting Language</h1><p>Designing expressive distributed protocols that can gracefully withstand attacks and manipulation is not a trivial task. Even solving a relatively simple use case, Bitcoin's success in providing currency free of central control was certainly cause for celebration. When dealing with more complex problems, like financial contracts and governance, we have to step up our game.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2552661775ccaf341a768414f282c05a/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F05%2Fshutterstock_153042473-211x150.jpg"></article>]]></description>
+            <link>http://themerkle.com/dao-attack-nullified-using-synereos-smart-contracting-language/</link>
+            <guid isPermaLink="false">efc75c1c-90d4-43ed-bbf0-4581b4562934</guid>
+            <pubDate>Sun, 03 Jul 2016 21:21:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Emercoin Brings World's First End-user Blockchain Solution To Microsoft Azure]]></title>
             <description><![CDATA[<article><h1>Emercoin Brings World's First End-user Blockchain Solution To Microsoft Azure</h1><p>Microsoft Azure has been adding various blockchain-based solutions to their platform over the past few months. However, Emercoin is the first blockchain engine to make it to this platform. What the Emercoin Blockchain Engine does is bring distributed ledger technology to the end user directly.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9bbb685770580b625e827811b1762e8f/noop.png?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2FEmercoin.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The Silk Road Saga Continues, Shaun Bridges May Have Stolen More Bitcoins! - NEWSBTC</h1><p>The ex-Secret Service agent convicted of stealing bitcoin during Silk Road investigation may haves stolen another $700,000 in bitcoin from the Secret Service. Read more... It has been over a year since the news about the involvement of two law enforcement agents from the US Drug Enforcement Agency (DEA) and US Secret Service in the theft of bitcoin belonging to Silk Road hit the stands.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/12e2a58eb7c1a23415aca2ffba63f6d6/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F02225841%2F4103259486_4fb96048e4_o.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/07/03/the-silk-road-saga-continues-shaun-bridges-may-have-stolen-more-bitcoins/</link>
             <guid isPermaLink="false">bf46a81a-f848-4c5e-8d92-56e430e9c84d</guid>
-            <pubDate>Sun, 03 Jul 2016 17:14:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coin Dance | Block Details]]></title>
-            <description><![CDATA[<article><h1>Coin Dance | Block Details</h1><p>Community-driven Bitcoin statistics and services.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/62ca00793cfa2e05f7db195be3f79697/noop.gif?input=https%3A%2F%2Fcoin.dance%2Fassets%2Fimage%2Fqrcode.gif"></article>]]></description>
-            <link>https://coin.dance/blocks</link>
-            <guid isPermaLink="false">f7a77c22-ca75-4110-8ed2-184a7a5e1a1f</guid>
             <pubDate>Sun, 03 Jul 2016 17:14:47 GMT</pubDate>
         </item>
     </channel>
