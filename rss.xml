@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 22:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2016 22:12:43 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Performance of the AMD Radeon RX 480 for Other Algorithms]]></title>
+            <description><![CDATA[<article><h1>Performance of the AMD Radeon RX 480 for Other Algorithms</h1><p>We have already covered the performance of the new AMD Radeon RX 480 GPUs for mining Ethereum, so it is time to see how the GPU performs with other popular algorithms. We have already mentioned that the RX 480 apparently has some issues running sgminer (at least under Windows), so we were not able to run tests with many of the currently popular algorithms, but it seems that many people missed that part.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/adfe34d8c68db698aa402d1513de3951/noop.jpg?input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F07%2Famd-radeon-rx-480-nicehash.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/8054-performance-of-the-amd-radeon-rx-480-for-other-algorithms/</link>
+            <guid isPermaLink="false">bc93dce1-6090-4334-92b7-18abdf00c8c7</guid>
+            <pubDate>Mon, 04 Jul 2016 22:11:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[bitcoind does not issue expected "rpcuser" message after installation]]></title>
             <description><![CDATA[<article><h1>bitcoind does not issue expected "rpcuser" message after installation</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top The instructions for installing the non-ubuntu linux bitcoind read as follows: Before using the Bitcoin Core daemon, bitcoind, you need to create its configuration file with a user name and password.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://cointelegraph.com/news/cryptocompare-develops-new-bitcoin-altcoin-price-and-news-widget</link>
             <guid isPermaLink="false">69d31333-f1f5-41f5-81da-45891b15971d</guid>
             <pubDate>Mon, 04 Jul 2016 18:01:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[If Bitcoin becomes a major currency, then tens of trillions of dollars on the "legacy ledger of fantasy fiat" will evaporate, destroying AXA, whose CEO is head of the Bilderbergers. This is the real reason why AXA bought Blockstream: to artificially suppress Bitcoin volume and price with 1MB blocks. * /r/btc]]></title>
-            <description><![CDATA[<article><h1>If Bitcoin becomes a major currency, then tens of trillions of dollars on the "legacy ledger of fantasy fiat" will evaporate, destroying AXA, whose CEO is head of the Bilderbergers. This is the real reason why AXA bought Blockstream: to artificially suppress Bitcoin volume and price with 1MB blocks. * /r/btc</h1><p>https://np.reddit.com/r/btc/comments/4r1jwk/maxwells_boss_and_christine_lagarde/ The man in the picture in the link above is Henri de Castries -...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8f8f5a1ecf2c76df932aa86cdd2bf18e/noop.jpg?input=https%3A%2F%2Fi.redditmedia.com%2FHattejQ5HCmk4escLlZym9yeW8l975uxhplA5WitgtQ.jpg%3Fw%3D320%26s%3D8d7b42c54ee240e446c468b20c086d84"></article>]]></description>
-            <link>https://www.reddit.com/r/btc/comments/4r2pw5/if_bitcoin_becomes_a_major_currency_then_tens_of/</link>
-            <guid isPermaLink="false">84df0e07-9d4f-4e53-b9c1-01061cec3323</guid>
-            <pubDate>Mon, 04 Jul 2016 16:58:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
