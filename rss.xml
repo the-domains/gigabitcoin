@@ -7,6 +7,13 @@
         <lastBuildDate>Mon, 04 Jul 2016 16:58:32 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[IRC meeting summary for 2016-06-30]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-06-30</h1><p>A number of people are testing segwit + [BIP 152][] on testnet. There's no PR for this yet as this allows for testing interactions with non-segwit-BIP152 and it needs some BIP changes (in BIP144, [BIP 152][] or a separate BIP). It would be good to have it in before the activation of segwit, as otherwise compact blocks will suddenly disable.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/06/30/</link>
+            <guid isPermaLink="false">720a61a3-d831-4f23-98e6-d736d436b374</guid>
+            <pubDate>Mon, 04 Jul 2016 16:57:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tech Consultant Giant: Blockchain 'Integral to Mid-East Digital Economy']]></title>
             <description><![CDATA[<article><h1>Tech Consultant Giant: Blockchain 'Integral to Mid-East Digital Economy'</h1><p>International tech consultants Booz Allen Hamilton (BAH) have authored a report stating blockchain is "integral to supporting and realizing a digital economy in the Middle East." Also read: BitOasis Funding Boosts Blockchain Prospects in the Middle East The report, released today titled "Blockchain Technology - Can the Digital Economy Thrive Without It?"</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/91eccdd0443184a11da38e62f481bb44/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fbooz-allen-hamilton-feature-hero.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/blockchain-mid-east-digital-economy/</link>
@@ -68,13 +75,6 @@
             <link>http://themerkle.com/emercoin-brings-worlds-first-end-user-blockchain-solution-to-microsoft-azure/</link>
             <guid isPermaLink="false">a3768639-fb73-4022-bcc8-027051b22177</guid>
             <pubDate>Sun, 03 Jul 2016 21:21:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FortuneJack Launches 'LuckyJack' Giveaway: Win 100mBTC Per Day]]></title>
-            <description><![CDATA[<article><h1>FortuneJack Launches 'LuckyJack' Giveaway: Win 100mBTC Per Day</h1><p>Popular bitcoin gambling service FortuneJack has launched a new giveaway promotion, distributing up to 1000 mBTC per day to 10 lucky winners. Disclaimer: This article was provided by Bitcoin PR Buzz. Bitcoinist is not affiliated with the firms represented by Bitcoin PR Buzz and is not responsible for their products and/or services.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a167932d0ff594d3703ba5af7ed2d60f/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F03%2FfortuneJack-PR-Buzz-Cover.png"></article>]]></description>
-            <link>http://bitcoinist.net/fortunejack-luckyjack-giveaway/</link>
-            <guid isPermaLink="false">43bb0d7b-52bd-4089-ab26-bac2c4ffdeac</guid>
-            <pubDate>Sun, 03 Jul 2016 19:18:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
