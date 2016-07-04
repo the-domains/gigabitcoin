@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 04:06:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2016 04:06:09 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is DAO Technology Viable For Funding eSports Teams?]]></title>
+            <description><![CDATA[<article><h1>Is DAO Technology Viable For Funding eSports Teams?</h1><p>There is an apparent correlation between gaming and cryptocurrency, although this direction is not explored all that often. ESports are becoming a global trend, with tournaments and sponsors providing competitive gamers with a lot of money.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6819401874aeb1392089146a46e33648/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FeSports.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/dao-technology-viable-esports-teams/</link>
+            <guid isPermaLink="false">188aa615-dd91-4283-a92e-aa8e78bf28a2</guid>
+            <pubDate>Mon, 04 Jul 2016 04:06:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Corrupt agent who investigated Silk Road is suspected of another $700k heist]]></title>
             <description><![CDATA[<article><h1>Corrupt agent who investigated Silk Road is suspected of another $700k heist</h1><p>View all... Newly unsealed court documents have revealed that one of the corrupt federal agents investigating Silk Road, the online drug marketplace, is suspected of stealing hundreds of thousands of dollars worth of bitcoin-after he pleaded guilty last year. Shaun Bridges is one of two agents who pled guilty to stealing from the Darknet market.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/450a69d6b229e086e32ec73fa8550a7f/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F07%2Fbridges.1-640x493.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.newsbtc.com/2016/07/03/hackers-target-ukrainian-bank-steal-10-mil-over-swift/</link>
             <guid isPermaLink="false">c1c7ecba-a860-4830-9a28-818cbea85008</guid>
             <pubDate>Sun, 03 Jul 2016 19:18:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Making Bitcoin Taxable: Pros and Cons]]></title>
-            <description><![CDATA[<article><h1>Making Bitcoin Taxable: Pros and Cons</h1><p>Would Bitcoin enhance taxing and provide more effective ways for governments to make citizens accountable, or would it create a hole for users of the currency to evade tax? Cointelegraph asked experts how Bitcoin could affect certain government and societal processes such as taxation.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/01c7d7ac2a4827da3b75bb3b45fe9ea5/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzRlYWIzMjdkNjQwNmUyMTBhN2Q2YjAzNTlmNjM2Zjk0LmpwZw%3D%3D.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/making-bitcoin-taxable-pros-and-cons</link>
-            <guid isPermaLink="false">ef1b79d8-0000-458d-a2f6-84eda8000eac</guid>
-            <pubDate>Sun, 03 Jul 2016 17:14:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
