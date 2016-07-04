@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 16:58:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2016 16:58:38 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Irish Silk Road Admin is Fighting an FBI-led Extradition Process]]></title>
-            <description><![CDATA[<article><h1>Irish Silk Road Admin is Fighting an FBI-led Extradition Process</h1><p>Microsoft and the U.S. government are in an ongoing battle over an Irishman allegedly involved in Silk Road wanted by the FBI on darknet drug charges, as reported by Deep Dot Web .</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/268efca5fe29a8279395685feb4fccf7/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2014%2F11%2Ffbi1.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/irish-silk-road-admin-fighting-fbi-led-extradition-process/</link>
-            <guid isPermaLink="false">f0e86052-c4dd-4277-9643-d3b25c3cb067</guid>
-            <pubDate>Mon, 04 Jul 2016 16:57:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Making Inroads into Rural Philippines with WiFi Hotspots]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Making Inroads into Rural Philippines with WiFi Hotspots</h1><p>Reaching consumers in regions where Internet access is limited to non-existent is very difficult. One startup in the Philippines is changing that, by offering free WiFi access to its customers buying shampoo.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f1014ce75a5c060a073f6a42325846f8/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_259658606.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/bitcoin-rural-philippines-wifi-hotspots/</link>
-            <guid isPermaLink="false">067b79fd-8f7f-410d-be0a-36dc1adae9fe</guid>
-            <pubDate>Mon, 04 Jul 2016 16:57:51 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Rebook, Chronicled and Major Partner Up to Include Blockchain-Powered Smart Tags to Register Original Sneakers]]></title>
             <description><![CDATA[<article><h1>Rebook, Chronicled and Major Partner Up to Include Blockchain-Powered Smart Tags to Register Original Sneakers</h1><p>Each day, more sophisticated 'fake' products pop-out across the Internet, to fight this an alliance between Major, a Washington DC-based sneaker shop, Reebok, a sneaker brand, and Chronicle, a San Francisco Technology Startup is bringing Shoe registrar to the Ethereum's Blockchain.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b302da2161b6f300b5b49c7c92e97015/noop.png?input=http%3A%2F%2Fwww.chronicled.com%2Fimg%2Fplatform-overview.png"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>71% of Americans Believe Economy is Rigged, So Switch to Bitcoin</h1><p>The majority of Americans think the economy is rigged in favor of certain sectors at the expense of others. Meanwhile, the economy could be on the verge of another recession. Time to switch to Bitcoin to protect your wealth.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/905348989720d31c14b5a226cf6bea3f/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3L2Y5YmYzYzgxZTZkMWFlNWExZWQxZjllZTlmZDdmNDU2LmpwZw%3D%3D.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/71-of-americans-believe-economy-is-rigged-so-switch-to-bitcoin</link>
             <guid isPermaLink="false">ff2607f5-bcf0-441b-a32e-b5f120f101e6</guid>
+            <pubDate>Mon, 04 Jul 2016 16:57:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2016-06-30]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-06-30</h1><p>A number of people are testing segwit + [BIP 152][] on testnet. There's no PR for this yet as this allows for testing interactions with non-segwit-BIP152 and it needs some BIP changes (in BIP144, [BIP 152][] or a separate BIP). It would be good to have it in before the activation of segwit, as otherwise compact blocks will suddenly disable.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/06/30/</link>
+            <guid isPermaLink="false">720a61a3-d831-4f23-98e6-d736d436b374</guid>
+            <pubDate>Mon, 04 Jul 2016 16:57:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tech Consultant Giant: Blockchain 'Integral to Mid-East Digital Economy']]></title>
+            <description><![CDATA[<article><h1>Tech Consultant Giant: Blockchain 'Integral to Mid-East Digital Economy'</h1><p>International tech consultants Booz Allen Hamilton (BAH) have authored a report stating blockchain is "integral to supporting and realizing a digital economy in the Middle East." Also read: BitOasis Funding Boosts Blockchain Prospects in the Middle East The report, released today titled "Blockchain Technology - Can the Digital Economy Thrive Without It?"</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/91eccdd0443184a11da38e62f481bb44/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fbooz-allen-hamilton-feature-hero.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/blockchain-mid-east-digital-economy/</link>
+            <guid isPermaLink="false">5a9ee53a-b3e2-4101-bbb4-d80a4cd05791</guid>
             <pubDate>Mon, 04 Jul 2016 16:57:49 GMT</pubDate>
         </item>
     </channel>
