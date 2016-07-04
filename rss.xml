@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 16:58:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2016 16:58:35 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Consolidating At $650]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Consolidating At $650</h1><p>Bitcoin price, that old rascal, had shook out a lot of longs to $650 and is now building base waves, to $650, for a pending launch toward the June top. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f945abf2b3bd012ad168dfe5a0ee1299/croprotate.png?cropheight=715&cropwidth=1286&degrees=0&input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FSelection_20160704_002.png&x=0&y=0"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-price-bubbling-650/</link>
+            <guid isPermaLink="false">c0692947-56c8-41bf-a412-6a2ad0343c43</guid>
+            <pubDate>Mon, 04 Jul 2016 16:57:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Trump administration could send bitcoin prices spiking]]></title>
+            <description><![CDATA[<article><h1>A Trump administration could send bitcoin prices spiking</h1><p>The transaction volume for bitcoin is predicted to more than triple this year, helped by the prospects of a Donald Trump presidency, according to a market study released this week. The price of the digital currency could climb in the event of Trump winning the U.S.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ec530536437c3607db21c8c3401453d3357fe00.jpg"></article>]]></description>
+            <link>http://www.cnbc.com/2016/07/04/a-trump-administration-could-send-bitcoin-prices-spiking.html</link>
+            <guid isPermaLink="false">af5c8597-471c-42bb-b23d-99afb6b79aef</guid>
+            <pubDate>Mon, 04 Jul 2016 16:57:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[71% of Americans Believe Economy is Rigged, So Switch to Bitcoin]]></title>
+            <description><![CDATA[<article><h1>71% of Americans Believe Economy is Rigged, So Switch to Bitcoin</h1><p>The majority of Americans think the economy is rigged in favor of certain sectors at the expense of others. Meanwhile, the economy could be on the verge of another recession. Time to switch to Bitcoin to protect your wealth.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/905348989720d31c14b5a226cf6bea3f/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3L2Y5YmYzYzgxZTZkMWFlNWExZWQxZjllZTlmZDdmNDU2LmpwZw%3D%3D.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/71-of-americans-believe-economy-is-rigged-so-switch-to-bitcoin</link>
+            <guid isPermaLink="false">ff2607f5-bcf0-441b-a32e-b5f120f101e6</guid>
+            <pubDate>Mon, 04 Jul 2016 16:57:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IRC meeting summary for 2016-06-30]]></title>
             <description><![CDATA[<article><h1>IRC meeting summary for 2016-06-30</h1><p>A number of people are testing segwit + [BIP 152][] on testnet. There's no PR for this yet as this allows for testing interactions with non-segwit-BIP152 and it needs some BIP changes (in BIP144, [BIP 152][] or a separate BIP). It would be good to have it in before the activation of segwit, as otherwise compact blocks will suddenly disable.</p></article>]]></description>
@@ -54,27 +75,6 @@
             <link>https://www.quora.com/unanswered/Are-there-applications-of-data-science-to-blockchain-technology</link>
             <guid isPermaLink="false">47c95b38-a129-45cb-8e90-98c32a44b496</guid>
             <pubDate>Sun, 03 Jul 2016 22:21:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MGT's Bitcoin Mining Facility to Counter Growing Chinese Dominance? - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>MGT's Bitcoin Mining Facility to Counter Growing Chinese Dominance? - NEWSBTC</h1><p>John McAfee's new mining facility currently being set up in the State of Washington may be the answer to growing Chinese dominance of the Bitcoin network. Read more... China has always been considered as a threat in the capitalistic economic system.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9ad12fdf9b0c19b01bf8eeefaa988c7b/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F03170227%2FMGT-Cap-Investments.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/03/mgts-bitcoin-mining-facility-to-counter-growing-chinese-dominance/</link>
-            <guid isPermaLink="false">65854ebe-149b-4221-944d-50129eafb706</guid>
-            <pubDate>Sun, 03 Jul 2016 21:21:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DAO Attack Nullified Using Synereo's Smart Contracting Language]]></title>
-            <description><![CDATA[<article><h1>DAO Attack Nullified Using Synereo's Smart Contracting Language</h1><p>Designing expressive distributed protocols that can gracefully withstand attacks and manipulation is not a trivial task. Even solving a relatively simple use case, Bitcoin's success in providing currency free of central control was certainly cause for celebration. When dealing with more complex problems, like financial contracts and governance, we have to step up our game.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2552661775ccaf341a768414f282c05a/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F05%2Fshutterstock_153042473-211x150.jpg"></article>]]></description>
-            <link>http://themerkle.com/dao-attack-nullified-using-synereos-smart-contracting-language/</link>
-            <guid isPermaLink="false">efc75c1c-90d4-43ed-bbf0-4581b4562934</guid>
-            <pubDate>Sun, 03 Jul 2016 21:21:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Emercoin Brings World's First End-user Blockchain Solution To Microsoft Azure]]></title>
-            <description><![CDATA[<article><h1>Emercoin Brings World's First End-user Blockchain Solution To Microsoft Azure</h1><p>Microsoft Azure has been adding various blockchain-based solutions to their platform over the past few months. However, Emercoin is the first blockchain engine to make it to this platform. What the Emercoin Blockchain Engine does is bring distributed ledger technology to the end user directly.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9bbb685770580b625e827811b1762e8f/noop.png?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2FEmercoin.png"></article>]]></description>
-            <link>http://themerkle.com/emercoin-brings-worlds-first-end-user-blockchain-solution-to-microsoft-azure/</link>
-            <guid isPermaLink="false">a3768639-fb73-4022-bcc8-027051b22177</guid>
-            <pubDate>Sun, 03 Jul 2016 21:21:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
