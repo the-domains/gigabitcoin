@@ -4,13 +4,20 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 23:35:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2016 23:35:35 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How is Bitcoin XT different from Bitcoin?]]></title>
-            <description><![CDATA[<article><h1>How is Bitcoin XT different from Bitcoin?</h1><p>Answer: I think It very easy to earn bitcoin online || 1 BTC = 640$ The Best And Trust Webites to earn 10000 Satouchi per hour | Free Bitcoin Faucet, Lottery and Dice! PeopleBTC TakeFreeBitcoin.com: Free bitcoin faucet with bonuses. Get free bitcoins now! And You can Recevie In Xapo wallet ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
+            <description><![CDATA[<article><h1>How is Bitcoin XT different from Bitcoin?</h1><p>Answer: I think It very easy to earn bitcoin online || 1 BTC = 640$ The Best And Trust Webites to earn 10000 Satouchi per hour | Free Bitcoin Faucet, Lottery and Dice! PeopleBTC TakeFreeBitcoin.com: Free bitcoin faucet with bonuses. Get free bitcoins now! And You can Recevie In Xapo wallet ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
             <link>https://www.quora.com/How-is-Bitcoin-XT-different-from-Bitcoin</link>
             <guid isPermaLink="false">30f1b370-7dba-4a61-958e-0e5410ed4911</guid>
+            <pubDate>Mon, 04 Jul 2016 23:34:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will Bitcoin crash after the limit cap is reached?]]></title>
+            <description><![CDATA[<article><h1>Will Bitcoin crash after the limit cap is reached?</h1><p>Answer (1 of 4): If by limit cap you mean the maximum number of Bitcoins i.e. 21 million, probably not. Assuming Bitcoins will be at least as useful as they are now, which is debatable*, their value would increase once the minting of new Bitcoins stops. Fixed supply, higher demand = higher price...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
+            <link>https://www.quora.com/Will-Bitcoin-crash-after-the-limit-cap-is-reached</link>
+            <guid isPermaLink="false">05b3a6ba-90a0-49a8-9558-15ad21f51ce7</guid>
             <pubDate>Mon, 04 Jul 2016 23:34:41 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Who Wants to Be the Second: New Litecoin Roadmap Published</h1><p>Litecoin Association has published a roadmap for Litecoin's further evolution, which includes, among other things, new client software, enhanced protocol, and consolidation of various management and communication structures. Historically, Litecoin has been the second most popular cryptocurrency after Bitcoin, and for a long while was the second most capitalized cryptocurrency as well.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/67b2e5ca048b6986e523ceb17a49633d/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F07%2Fbitcoinnews03.png"></article>]]></description>
             <link>http://forklog.net/who-wants-to-be-the-second-new-litecoin-roadmap-published/</link>
             <guid isPermaLink="false">d336b4fa-4f4d-4c8f-969f-73c48dd407c3</guid>
-            <pubDate>Mon, 04 Jul 2016 18:01:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Which language is bitcoin created in?]]></title>
-            <description><![CDATA[<article><h1>Which language is bitcoin created in?</h1><p>Answer (1 of 2): I'm afraid that this is a question that is, well, wrong. Bitcoin clients and miners can be written in any turing complete language. Satoshi's original implementation is written in C++, but bitcoin itself isn't written in any language, it's a distributed blob of binary data that ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
-            <link>https://www.quora.com/Which-language-is-bitcoin-created-in</link>
-            <guid isPermaLink="false">37449b32-82b3-45ab-9982-ceb239c18d68</guid>
             <pubDate>Mon, 04 Jul 2016 18:01:33 GMT</pubDate>
         </item>
     </channel>
