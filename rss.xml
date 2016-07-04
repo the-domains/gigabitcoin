@@ -4,11 +4,18 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 18:01:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2016 18:02:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Who Wants to Be the Second: New Litecoin Roadmap Published]]></title>
+            <description><![CDATA[<article><h1>Who Wants to Be the Second: New Litecoin Roadmap Published</h1><p>Litecoin Association has published a roadmap for Litecoin's further evolution, which includes, among other things, new client software, enhanced protocol, and consolidation of various management and communication structures. Historically, Litecoin has been the second most popular cryptocurrency after Bitcoin, and for a long while was the second most capitalized cryptocurrency as well.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/67b2e5ca048b6986e523ceb17a49633d/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F07%2Fbitcoinnews03.png"></article>]]></description>
+            <link>http://forklog.net/who-wants-to-be-the-second-new-litecoin-roadmap-published/</link>
+            <guid isPermaLink="false">d336b4fa-4f4d-4c8f-969f-73c48dd407c3</guid>
+            <pubDate>Mon, 04 Jul 2016 18:01:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Which language is bitcoin created in?]]></title>
-            <description><![CDATA[<article><h1>Which language is bitcoin created in?</h1><p>Answer (1 of 2): I'm afraid that this is a question that is, well, wrong. Bitcoin clients and miners can be written in any turing complete language. Satoshi's original implementation is written in C++, but bitcoin itself isn't written in any language, it's a distributed blob of binary data that ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Which language is bitcoin created in?</h1><p>Answer (1 of 2): I'm afraid that this is a question that is, well, wrong. Bitcoin clients and miners can be written in any turing complete language. Satoshi's original implementation is written in C++, but bitcoin itself isn't written in any language, it's a distributed blob of binary data that ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
             <link>https://www.quora.com/Which-language-is-bitcoin-created-in</link>
             <guid isPermaLink="false">37449b32-82b3-45ab-9982-ceb239c18d68</guid>
             <pubDate>Mon, 04 Jul 2016 18:01:33 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>North America Celebrates And You Get All The Gifts!</h1><p>This weekend, BetChain is lighting all the fireworks, heating up all the grills and handing out all the beer for Canada Day and Independence Day. This weekend, BetChain is lighting all the fireworks, heating up all the grills and handing out all the beer for Canada Day and Independence Day.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1505f050e93be221b2549c71ef6a32c2/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F23160845%2Fbetchain.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/07/02/north-america-celebrates-get-gifts/</link>
             <guid isPermaLink="false">8b2fb099-67ae-4285-ac81-0ab49ac7e60b</guid>
-            <pubDate>Mon, 04 Jul 2016 16:57:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is the Bitcoin Halving Half full or Half Empty?]]></title>
-            <description><![CDATA[<article><h1>Is the Bitcoin Halving Half full or Half Empty?</h1><p>It's that time again. Time to spin the wheel of predictions and see where the needle lands. Will the price increase? Will the price decrease? What about the fundamentals? Will China buy more bitcoi...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7ba29808630ccb81b5403451740884e4/noop.jpg?input=https%3A%2F%2Fcoinreport.net%2Fwp-content%2Fuploads%2F2014%2F11%2FBitcoin-image-free-to-use.jpg"></article>]]></description>
-            <link>https://coinreport.net/is-the-bitcoin-halving-half-full-or-half-empty/</link>
-            <guid isPermaLink="false">c23cb0d9-6946-4860-a216-d010b90ab6c8</guid>
             <pubDate>Mon, 04 Jul 2016 16:57:54 GMT</pubDate>
         </item>
     </channel>
