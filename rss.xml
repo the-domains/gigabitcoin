@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jul 2016 13:46:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2016 13:46:08 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin Tracker Certificate Issued on Swiss Exchange]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Tracker Certificate Issued on Swiss Exchange</h1><p>Zurich-based private and investment banking firm Vontobel has become the first Swiss issuer to offer a tracker certificate on bitcoin. Global private and investment banking institution Vontobel will become the first Swiss issuer to offer a bitcoin tracker certificate for subscription.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e67dc5e08acdf2361af23fd4aa6dddea/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FSwiss-Exchange.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-tracker-certificate-issued-swiss-exchange/</link>
-            <guid isPermaLink="false">cadd1e2a-b4ee-4dce-b63f-089d1364310f</guid>
-            <pubDate>Tue, 05 Jul 2016 13:45:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netki Raises $3.5 Million From O'Reilly AlphaTech Ventures]]></title>
-            <description><![CDATA[<article><h1>Netki Raises $3.5 Million From O'Reilly AlphaTech Ventures</h1><p>With most of the focus in bitcoin on issues including scalability and the price, creating a more user-friendly environment for new users arguably hasn't been top of mind. However, this isn't stopping startups from moving ahead on this objective.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a689d01f786442bb2e818cc69b1f149c/noop.jpg?input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F07%2Fchange-pennies-e1467720356379.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/netki-3-5-million-seed-funding/</link>
-            <guid isPermaLink="false">822949f0-22ce-4ac2-9673-0a6648a385b5</guid>
-            <pubDate>Tue, 05 Jul 2016 13:45:19 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Russia's Central Bank to Test Blockchain Messaging System]]></title>
             <description><![CDATA[<article><h1>Russia's Central Bank to Test Blockchain Messaging System</h1><p>Russia's Central Bank is testing Blockchain technology with selected partner banks via a new consortium - but it will not involve the previously-touted "Russian Bitcoin." Also read: Time for Russia 'To Ban Bans' Says Putin Business Advisor At the International Finance Congress June 3-4 in St.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bb50acdb85e94fd435ef7a84af77b75f/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2F748031.jpg"></article>]]></description>
@@ -36,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Bitcoin Wallet App Abra, Now Available in the U.S. For Remittance]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Wallet App Abra, Now Available in the U.S. For Remittance</h1><p>Abra, a non-custodial bitcoin wallet app that allows people to send money for free from their bank accounts, is now available in the U.S. and the Philippines, the Mountain View, Calif.-based company announced on its website. Abra is available on iPhone and Android in the U.S.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/43daa7eb64de9554cdd100b45e0649bd/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FRemittance-phone.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Bitcoin Wallet App Abra, Now Available in the U.S. For Remittance</h1><p>Abra, a non-custodial bitcoin wallet app that allows people to send money for free from their bank accounts, is now available in the U.S. and the Philippines, the Mountain View, Calif.-based company announced on its website. Abra is available on iPhone and Android in the U.S.</p><img src="https://www.cryptocoinsnews.com/wp-content/uploads/2016/07/Remittance-phone.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/bitcoin-wallet-app-abra-available-us-remittance/</link>
             <guid isPermaLink="false">06277bf1-654b-4bd0-8db5-e0cbe5bc0484</guid>
             <pubDate>Tue, 05 Jul 2016 13:45:19 GMT</pubDate>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><img src="https://cryptoart.com/wp-content/uploads/2016/07/IMG_6541.jpg"></article>]]></description>
             <link>https://cryptoart.com/wp-content/uploads/2016/07/IMG_6541.jpg</link>
             <guid isPermaLink="false">bace86fd-66d9-4a4b-ad8d-d145a19dcaf3</guid>
+            <pubDate>Tue, 05 Jul 2016 05:30:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to check if node is on TestNet or MainNet via `bitcoin-cli`?]]></title>
+            <description><![CDATA[<article><h1>How to check if node is on TestNet or MainNet via `bitcoin-cli`?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46227/how-to-check-if-node-is-on-testnet-or-mainnet-via-bitcoin-cli</link>
+            <guid isPermaLink="false">ce74cc38-af88-4708-b810-d17c4e819df4</guid>
+            <pubDate>Tue, 05 Jul 2016 05:30:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trading Corporate Secrets Becoming New Darknet Industry]]></title>
+            <description><![CDATA[<article><h1>Trading Corporate Secrets Becoming New Darknet Industry</h1><p>The seemingly unstoppable growth of "darknet" marketplaces is creating a new commodity industry - corporate insider information. Also read: Cryptsy CEO Recruits Hackers to Recover Lost Coins The mainstream media would have you believe the dark web is primarily for distributing drugs and child pornography - much as they did with the regular Internet back in the mid-1990s.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bfa246dbf1e7df6aa6c1e95186de526d/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FDarknet-neuron.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/trading-corporate-secrets-darknet/</link>
+            <guid isPermaLink="false">25f536f5-80aa-4151-ad68-2b1f1efa2dc1</guid>
             <pubDate>Tue, 05 Jul 2016 05:30:07 GMT</pubDate>
         </item>
     </channel>
