@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jul 2016 13:45:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2016 13:46:08 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Russia's Central Bank to Test Blockchain Messaging System]]></title>
+            <description><![CDATA[<article><h1>Russia's Central Bank to Test Blockchain Messaging System</h1><p>Russia's Central Bank is testing Blockchain technology with selected partner banks via a new consortium - but it will not involve the previously-touted "Russian Bitcoin." Also read: Time for Russia 'To Ban Bans' Says Putin Business Advisor At the International Finance Congress June 3-4 in St.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bb50acdb85e94fd435ef7a84af77b75f/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2F748031.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/russia-central-bank-blockchain-system/</link>
+            <guid isPermaLink="false">873db4db-0226-4743-81cb-ac13be02385c</guid>
+            <pubDate>Tue, 05 Jul 2016 13:45:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NetCents Bitcoin Payment Gateway Partners with BitStamp - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>NetCents Bitcoin Payment Gateway Partners with BitStamp - NEWSBTC</h1><p>The Vancouver-based NetCents Bitcoin payments processor has partnered with BitStamp to gain entry into the European market. Read more... NetCents Technology Inc. (CNSX: NC), the Vancouver-based online payments platform has announced its partnership with the leading European Bitcoin exchange BitStamp. The partnership will provide NetCents access to the European market.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/036efaef1107ff061e5fc71d732c0eaf/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F05140115%2FNetCents.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.pymnts.com/news/bitcoin-tracker/2016/abra-bitcoin-remittance-app-us-market/</link>
             <guid isPermaLink="false">8fb1aed2-769a-45a8-a356-34e017b0795f</guid>
             <pubDate>Tue, 05 Jul 2016 05:30:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Technical Analysis for 07/05/2016 - Stalling Halfway! - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 07/05/2016 - Stalling Halfway! - NEWSBTC</h1><p>Bitcoin price could be in for more volatility today as US traders return from their Fourth of July holiday. Bitcoin Price Key Highlights Bitcoin price could be in for more volatility today as US traders return from their Fourth of July holiday.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/290ee0a8f50781a01820e3aec6b82cf9/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F05043212%2F160705_bitcoin.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/05/bitcoin-price-technical-analysis-07052016-stalling-halfway/</link>
-            <guid isPermaLink="false">f9e8242a-0845-4a52-9d76-cacc7a8e60a9</guid>
-            <pubDate>Tue, 05 Jul 2016 05:30:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
