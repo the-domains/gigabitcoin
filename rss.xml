@@ -7,13 +7,6 @@
         <lastBuildDate>Tue, 05 Jul 2016 05:30:38 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Is there a Bitcoin testnet that is really small so you can quickly download the blockchain and test stuff?]]></title>
-            <description><![CDATA[<article><h1>Is there a Bitcoin testnet that is really small so you can quickly download the blockchain and test stuff?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/46306/is-there-a-bitcoin-testnet-that-is-really-small-so-you-can-quickly-download-the</link>
-            <guid isPermaLink="false">d35e29f7-c9c5-4da2-b21d-2e50c4ca3cb6</guid>
-            <pubDate>Tue, 05 Jul 2016 05:30:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[is there a way to run bitcoin-qt and point it to a local testnet?]]></title>
             <description><![CDATA[<article><h1>is there a way to run bitcoin-qt and point it to a local testnet?</h1><p>I'm running a small testnet locally with this project: http://github.com/freewil/bitcoin-testnet-box but I'm having trouble pointing bitcoin-qt to the blockchain that I created locally myself, s...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/46284/is-there-a-way-to-run-bitcoin-qt-and-point-it-to-a-local-testnet</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Hackers Claim Direct Contact With HashOcean, Share Bad News</h1><p>While a group which claims to be made up of ethical hackers has been on the trail of the suddenly-disappeared HashOcean for over a week, it finally announced the breakthrough that it has had direct contact with the defunct Bitcoin mining company which allegedly dashed away with miners' investment worth millions of dollars.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/09d09b3d8239441398bd2403dfddb928/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3L2MzM2ViZjQ0NTJmNmFjZDMzNzk4Y2Y2YTZjZmNmYzA4LmpwZw%3D%3D.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/hackers-claim-direct-contact-with-hashocean-share-bad-news</link>
             <guid isPermaLink="false">d10f5a88-9bbf-4cd6-a29e-e57a8812845e</guid>
+            <pubDate>Mon, 04 Jul 2016 22:11:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="https://i.redd.it/jnxoqsgeb77x.png"></article>]]></description>
+            <link>https://i.redd.it/jnxoqsgeb77x.png</link>
+            <guid isPermaLink="false">bf32893f-e0bf-4e5c-8df2-a8ea4bd999f4</guid>
             <pubDate>Mon, 04 Jul 2016 22:11:47 GMT</pubDate>
         </item>
     </channel>
