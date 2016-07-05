@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jul 2016 05:30:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2016 05:30:40 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[EB138 - Sergio Lerner: How RSK Will Bring Smart Contracts To Bitcoin]]></title>
-            <description><![CDATA[<article><h1>EB138 - Sergio Lerner: How RSK Will Bring Smart Contracts To Bitcoin</h1><p>Security researcher and RSK co-founder Sergio Lerner joined us to discuss RSK (also Rootstock), the project to launch a turing-complete smart contract sidechain to Bitcoin. We talked about how he got into the industry, spending countless days analyzing Bitcoin for vulnerabilities and finding a few along the way.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/801c77b818f3c28f9a4346a17445a039/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1851-1c7c2ee4260364fdedabef73c50172f97440252f5da8987ae7c9d5c01b36d093.jpg"></article>]]></description>
-            <link>https://letstalkbitcoin.com/blog/post/eb138-sergio-lerner-how-rsk-will-bring-smart-contracts-to-bitcoin</link>
-            <guid isPermaLink="false">7dcf3e5d-c677-41ee-a4cf-68b509cfc27d</guid>
-            <pubDate>Tue, 05 Jul 2016 05:30:08 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Can Bitcoin full nodes pinpoint the true source of a transaction which they've relayed?]]></title>
             <description><![CDATA[<article><h1>Can Bitcoin full nodes pinpoint the true source of a transaction which they've relayed?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top In the bitcoin data dir there is a file called debug.log.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>is there a way to run bitcoin-qt and point it to a local testnet?</h1><p>I'm running a small testnet locally with this project: http://github.com/freewil/bitcoin-testnet-box but I'm having trouble pointing bitcoin-qt to the blockchain that I created locally myself, s...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/46284/is-there-a-way-to-run-bitcoin-qt-and-point-it-to-a-local-testnet</link>
             <guid isPermaLink="false">11ce469f-715c-4725-939a-9ef894de466d</guid>
+            <pubDate>Tue, 05 Jul 2016 05:30:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum Price Technical Analysis - Sell Targets Achieved, Now What? - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Ethereum Price Technical Analysis - Sell Targets Achieved, Now What? - NEWSBTC</h1><p>Ethereum price spiked down to complete a downside thrust against the US Dollar. Can it recover or will it continue to trade down? Ethereum price spiked down to complete a downside thrust against the US Dollar. Can it recover or will it continue to trade down?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3e750f2dc50bb87f335ec92f3087e5e5/croprotate.png?cropheight=906&cropwidth=1816&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F05035727%2FEthereum3.png&x=3&y=0"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/05/ethereum-price-technical-analysis-sell-targets-achieved-now/</link>
+            <guid isPermaLink="false">ed751bb3-aced-4906-ad3b-349ba6b12629</guid>
             <pubDate>Tue, 05 Jul 2016 05:30:06 GMT</pubDate>
         </item>
     </channel>
