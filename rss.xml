@@ -7,6 +7,13 @@
         <lastBuildDate>Wed, 06 Jul 2016 14:08:39 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Chinese Bitcoin Miners Busted for Electricity Theft]]></title>
+            <description><![CDATA[<article><h1>Chinese Bitcoin Miners Busted for Electricity Theft</h1><p>Some Bitcoin miners have been busted for stealing electricity according to a public statement by police in Ma'anshan, a mining town in China. Very few details are provided except to state that 74 bitcoin mining units have been seized, coinciding with a small fall in difficulty of around 1.63% on June the 8th.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/61ebe58373bb43b702207829c66657eb/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FPower-theft.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/chinese-bitcoin-miners-busted/</link>
+            <guid isPermaLink="false">c9db478e-36ec-44ab-acc7-09c4ad40632f</guid>
+            <pubDate>Wed, 06 Jul 2016 14:07:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Uber Switches to Bitcoin in Argentina After Govt Blocks Uber Credit Cards]]></title>
             <description><![CDATA[<article><h1>Uber Switches to Bitcoin in Argentina After Govt Blocks Uber Credit Cards</h1><p>The Argentinian government blocked credit card companies from dealing with Uber, causing the ridesharing company's national branch to use Bitcoin instead. The city of Buenos Aires issued orders both to the national communications agency (ENACOM) and credit card companies to block the Uber app and deny the company use of credit card service.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/275d56ac7426207285693d62890bfcb3/noop.jpg?input=http%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzVlZWVhMGUyOGVmYmVmZTBkNWU2ZTM1NmU4YjhjYTk5LmpwZw%3D%3D.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/uber-switches-to-bitcoin-in-argentina-after-govt-blocks-uber-credit-cards</link>
@@ -68,13 +75,6 @@
             <link>http://bravenewcoin.com/news/bitcoin-price-analysis-the-halving-is-near/</link>
             <guid isPermaLink="false">a264b740-74d7-4b02-8fa2-7af573115163</guid>
             <pubDate>Wed, 06 Jul 2016 04:59:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is the best way to share the blockchain and get it verified by the wallet?]]></title>
-            <description><![CDATA[<article><h1>What is the best way to share the blockchain and get it verified by the wallet?</h1><p>I am the owner of BlockchainDownload and am looking for a way to get some trust in the website. I have shared the link in a couple of topics an get the response "Please do not suggest that people</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/46256/what-is-the-best-way-to-share-the-blockchain-and-get-it-verified-by-the-wallet</link>
-            <guid isPermaLink="false">725ea846-55e1-489a-893f-931f3216b564</guid>
-            <pubDate>Wed, 06 Jul 2016 02:55:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
