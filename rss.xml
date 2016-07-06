@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 14:08:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 14:08:41 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Watch; Narrowing Things Down - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Watch; Narrowing Things Down - NEWSBTC</h1><p>Here's a look at what we are focusing on in the bitcoin price this morning. So, we have come to the middle of the week, and it seems like not much has happened from an intraday perspective in the bitcoin price today.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/edb1fcadebbcd80e7547b4e4bcd0db99/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F06101824%2FScreen-Shot-2016-07-06-at-11.15.03.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/06/bitcoin-price-watch-narrowing-things/</link>
+            <guid isPermaLink="false">44a2a620-7274-421e-bb9f-cd163c189ab4</guid>
+            <pubDate>Wed, 06 Jul 2016 14:07:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hacked Gatecoin Raises $500K to Reopen Exchange]]></title>
             <description><![CDATA[<article><h1>Hacked Gatecoin Raises $500K to Reopen Exchange</h1><p>Hong Kong-based exchange Gatecoin, which suffered a major theft in May, has raised $500,000 from a listed Japanese investment company to aid in its recovery and reopening. Also read: Ethereum Is Not a Government, It Is a DAO Gatecoin (gatecoin.com) plans to reopen for regular business in August.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/45bdf16df464adcafb138068fa2db304/croprotate.jpg?cropheight=816&cropwidth=1572&degrees=0&input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FHongkongNightSkyline_2009July.jpg&x=0&y=0"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How do traditional transactions take place (paypal, banks, etc) in comparison to Bitcoin transactions?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Here we talk about bitcoins and blockchain.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/46333/how-do-traditional-transactions-take-place-paypal-banks-etc-in-comparison-to</link>
             <guid isPermaLink="false">df8a552e-ba97-41ec-be36-db454631be9f</guid>
-            <pubDate>Wed, 06 Jul 2016 14:07:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain Company Ripple Introduces Muti-Sign Feature for Banks]]></title>
-            <description><![CDATA[<article><h1>Blockchain Company Ripple Introduces Muti-Sign Feature for Banks</h1><p>The Ripple Consensus Protocol has introduced multi-sign option to prevent unauthorised fund international fund transfer between banks by hackers. Ripple, the blockchain based fintech services platform, has announced new developments that can protect banks from hacking incidents. The development comes amidst growing thefts against multiple banks across the world.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7a02d919502d754ea75e30c2f319ad19/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F06130735%2FRipple.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/06/ripple-to-help-banks-secure-their-funds-using-multi-sign-feature-on-blockchain/</link>
-            <guid isPermaLink="false">dea4754c-df1d-4d5b-ad50-c4a1239b4c47</guid>
             <pubDate>Wed, 06 Jul 2016 14:07:49 GMT</pubDate>
         </item>
     </channel>
