@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 05:00:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 05:00:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Industry Report: Is Litecoin Making a Comeback? - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>Industry Report: Is Litecoin Making a Comeback? - Bitcoinist.net</h1><p>Cryptocurrency grows in Japan, and Litecoin is coming back with a vengeance. Want to catch up on the latest digital currency news? Have a gander at the stories below. Also read: Industry Report: How China, France, and the FBI Do Bitcoin Japanese cryptocurrency exchange Zaif is adding XEM currency to its platform.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/249cf13b8cb2eef197a39c7a3d3a2d7c/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2015%2F04%2Flitecoin.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/industry-report-is-litecoin-making-a-comeback/</link>
-            <guid isPermaLink="false">f7009453-c591-47c6-812f-4b25b8c76a87</guid>
-            <pubDate>Wed, 06 Jul 2016 04:59:59 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Price Analysis - The halving is near]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Analysis - The halving is near</h1><p>The technical setups posted below use simple trend detection, support and resistance, channels, pattern and candle analysis. We aim for high-probability trade setups on BTCUSD and use very few indicators. All charts use BNC's Bitcoin Liquid Index for maximum accuracy. The timeframe for trades is 1 to 7 days, so we'll use 4h candlesticks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/152c0321728bf0ec145f9c4e1b666e0606a7cc2b.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>EU proposes stricter rules on Bitcoin, prepaid cards in terrorism fight</h1><p>STRASBOURG The European Commission proposed on Tuesday stricter rules on the use of virtual currencies and prepaid cards in a bid to reduce anonymous payments and curb the financing of terrorism. Virtual currency exchange platforms will have to increase checks on the identities of people exchanging virtual currencies, such as Bitcoin, for real currencies and report suspicious transactions.</p></article>]]></description>
             <link>http://www.reuters.com/article/us-eu-security-financing-idUSKCN0ZL1RH</link>
             <guid isPermaLink="false">0cccb3f5-533f-4d56-a31b-8c36605a819e</guid>
+            <pubDate>Wed, 06 Jul 2016 02:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netki Raises $3.5 Million in Seed Funding From O'Reilly - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Netki Raises $3.5 Million in Seed Funding From O'Reilly - NEWSBTC</h1><p>Netki, the Bitcoin wallet name service has successfully raised $3.5 million in seed funding from a group of investors. Read more... Netki has been simplifying Bitcoin wallet addresses for a while now. In the coming days, it may start doing much more than that as it successfully raised over $3.5 million in seed funding from some of the leading investors in the market.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1c9134b8381f544e77b24c3ac9446ae3/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F05155040%2F9510887345_9b26ac78ed_z.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/05/netki-raises-3-5-million-seed-funding-oreilly/</link>
+            <guid isPermaLink="false">45eefbb1-becd-43dd-ae7d-109d4ed54702</guid>
             <pubDate>Wed, 06 Jul 2016 02:55:00 GMT</pubDate>
         </item>
     </channel>
