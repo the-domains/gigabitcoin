@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 03:51:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 03:51:50 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How do miners understand what a transaction does?]]></title>
+            <description><![CDATA[<article><h1>How do miners understand what a transaction does?</h1><p>Determining the fee of a transaction is actually very easy. As you know, a transaction has inputs and outputs, where each output has an associated amount and a script, and each input is a link to an output of a previous transaction, along with whatever data is needed to satisfy the previous output's script.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46385/how-do-miners-understand-what-a-transaction-does</link>
+            <guid isPermaLink="false">54e28366-757d-432c-a450-9f4367a2706e</guid>
+            <pubDate>Thu, 07 Jul 2016 03:51:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Can an intermediary block be lost?]]></title>
             <description><![CDATA[<article><h1>Can an intermediary block be lost?</h1><p>Since the blockchain is stored in a distributed database, is it possible that one block can be lost? Then it would be impossible to link future blocks to previous blocks. How many copies of the</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://letstalkbitcoin.com/blog/post/the-tatiana-show-matt-mckibbin-of-d10e-liz-reitzig-of-nourishingliberty-com</link>
             <guid isPermaLink="false">3538bb34-5a22-4eb2-b310-7f6ba9943082</guid>
             <pubDate>Thu, 07 Jul 2016 03:51:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="http://imgur.com/Ay3uELN.jpg"></article>]]></description>
-            <link>http://i.imgur.com/Ay3uELN.jpg</link>
-            <guid isPermaLink="false">48677dee-8fc5-492e-b454-aca9fdbaf5d6</guid>
-            <pubDate>Thu, 07 Jul 2016 03:51:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
