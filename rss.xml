@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 03:53:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 03:53:43 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dash Spokesman Slams Bitcoin Paying Miners 100% Reward]]></title>
+            <description><![CDATA[<article><h1>Dash Spokesman Slams Bitcoin Paying Miners 100% Reward</h1><p>Ryan Taylor, head of finance at Dash, claims the bitcoin blockchain's practice of paying the entire blockchain reward to miners is faulty, in a piece on EconoTimes. He claims Dash, which allocates less than half its rewards to the miners, offers a more promising future.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/82ec397b08aa25d9ba7eb02386f13033/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FEmpty-basket.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/dash-bitcoin-miner-rewards/</link>
+            <guid isPermaLink="false">5f084581-10bb-4994-95ab-019306b84018</guid>
+            <pubDate>Thu, 07 Jul 2016 03:51:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Startups seek to de-anonymize Bitcoin to fight crime]]></title>
             <description><![CDATA[<article><h1>Startups seek to de-anonymize Bitcoin to fight crime</h1><p>Over in the US, a Seattle-based startup called CoinLab claims that it's developed a piece of software, Oden, that can monitor a person's Bitcoin activity. Unfortunately for Bitcoin evangelists, the company claims that the majority of transactions come from one of two places: online gambling or the darknet.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/df223c746826d3302211f3e4cafcc64f/noop?input=https%3A%2F%2Fs.aolcdn.com%2Fdims5%2Famp%3Aede58ffb0d89f5a00d8aa281ce6cd7f056bf1196%2Ft%3A1200%2C630%2Fq%3A80%2F%3Furl%3Dhttps%253A%252F%252Fs.aolcdn.com%252Fdims-shared%252Fdims3%252FGLOB%252Fcrop%252F5220x3484%252B0%252B0%252Fresize%252F1600x1068%2521%252Fformat%252Fjpg%252Fquality%252F85%252Fhttps%253A%252F%252Fs.aolcdn.com%252Fhss%252Fstorage%252Fadam%252F38a37cd9dcd3858c8de282e22e37b0d7%252F459759077.jpeg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Compression Building Pressure</h1><p>Bitcoin price is simmering just above $670 as the market waits for the Bitcoin network starter gun. Where to and what may happen in the chart before the block reward actually halves? This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/05d4ca38616eff24748c3ca08706be9c/noop.png?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FSelection_20160706_003.png"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/bitcoin-price-compression-building-pressure/</link>
             <guid isPermaLink="false">d9ee34a0-6881-47b4-90a4-ad449442ee65</guid>
-            <pubDate>Thu, 07 Jul 2016 03:51:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Riding The Scalps - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Riding The Scalps - NEWSBTC</h1><p>Here's a look at what we are focusing on in the bitcoin price this evening. This morning, we noted that in response to the pretty flat action seen in the bitcoin price over the last few days (which in turn is a response to the low volume based around US Independence Day), we'd tighten things up and go after a five-minute analysis, rather than our standard fifteen minutes.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/edebab74708ff6c49296740802cb1e9a/croprotate.png?cropheight=684&cropwidth=1069&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F06170227%2FScreen-Shot-2016-07-06-at-17.49.54.png&x=0&y=0"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/06/bitcoin-price-watch-riding-scalps/</link>
-            <guid isPermaLink="false">aec0bc58-9ec2-47d6-ad71-7c6d3741f357</guid>
             <pubDate>Thu, 07 Jul 2016 03:51:12 GMT</pubDate>
         </item>
     </channel>
