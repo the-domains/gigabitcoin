@@ -7,20 +7,6 @@
         <lastBuildDate>Thu, 07 Jul 2016 03:51:51 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[OpenBazaar 2.0: P2P trade takes the next step]]></title>
-            <description><![CDATA[<article><h1>OpenBazaar 2.0: P2P trade takes the next step</h1><p>OpenBazaar 2.0: P2P trade takes the next step The first version of the OpenBazaar software launched April of this year, but the concept behind OpenBazaar - making trade free by moving it from closed platforms to a peer-to-peer (p2p) network - has only taken its first steps. What does the future of p2p trade look like?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/338eb7870fe1854db4de3149d25ee5f9/noop.png?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F2000%2F1*IAiy07az3sg9xu6JVjfoHA.png"></article>]]></description>
-            <link>http://gigabitcoin.xyz/openbazaar-20-p2p-trade-takes-the-next-step/index.html</link>
-            <guid isPermaLink="false">d9955621-34dc-4146-a518-37e2707d4128</guid>
-            <pubDate>Thu, 07 Jul 2016 03:51:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How do miners understand what a transaction does?]]></title>
-            <description><![CDATA[<article><h1>How do miners understand what a transaction does?</h1><p>Determining the fee of a transaction is actually very easy. As you know, a transaction has inputs and outputs, where each output has an associated amount and a script, and each input is a link to an output of a previous transaction, along with whatever data is needed to satisfy the previous output's script.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/46385/how-do-miners-understand-what-a-transaction-does</link>
-            <guid isPermaLink="false">54e28366-757d-432c-a450-9f4367a2706e</guid>
-            <pubDate>Thu, 07 Jul 2016 03:51:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Can an intermediary block be lost?]]></title>
             <description><![CDATA[<article><h1>Can an intermediary block be lost?</h1><p>Since the blockchain is stored in a distributed database, is it possible that one block can be lost? Then it would be impossible to link future blocks to previous blocks. How many copies of the</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/46345/can-an-intermediary-block-be-lost</link>
@@ -75,6 +61,20 @@
             <link>http://bravenewcoin.com/news/us-uk-or-asia-where-are-all-the-blockchain-startups/</link>
             <guid isPermaLink="false">d005805c-bb34-42c3-888d-cab2637507c0</guid>
             <pubDate>Thu, 07 Jul 2016 03:51:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Tatiana Show - Matt McKibbin of D10E & Liz Reitzig of NourishingLiberty com | Lets Talk Bitcoin]]></title>
+            <description><![CDATA[<article><h1>The Tatiana Show - Matt McKibbin of D10E & Liz Reitzig of NourishingLiberty com | Lets Talk Bitcoin</h1><p>Tatiana interviews Matt McKibbin of D10E & Liz Reitzig of NourishingLiberty.com. Topics of discussion include the different beliefs in Bitcoin among the Bitcoin community, the future of Blockchain in real estate, getting farmers to adapt to technology, and the role of government in the farming industry.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/51d07a18afe345b73a91ab499d5120bf/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1852-04e9743587632b74c5951c89837869c315615775541d1735840ecf3598f3bf5b.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/the-tatiana-show-matt-mckibbin-of-d10e-liz-reitzig-of-nourishingliberty-com</link>
+            <guid isPermaLink="false">3538bb34-5a22-4eb2-b310-7f6ba9943082</guid>
+            <pubDate>Thu, 07 Jul 2016 03:51:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://imgur.com/Ay3uELN.jpg"></article>]]></description>
+            <link>http://i.imgur.com/Ay3uELN.jpg</link>
+            <guid isPermaLink="false">48677dee-8fc5-492e-b454-aca9fdbaf5d6</guid>
+            <pubDate>Thu, 07 Jul 2016 03:51:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
