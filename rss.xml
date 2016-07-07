@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 13:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 13:18:28 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[North Carolina Bitcoin Legislation Is Decent But Not Perfect]]></title>
+            <description><![CDATA[<article><h1>North Carolina Bitcoin Legislation Is Decent But Not Perfect</h1><p>It is important to note this Bitcoin legislation is not all negative, though. Chamber of Digital Commerce president Perianne Boring is a public supporter of this new law. Bitcoin and regulation are two topics that will hardly ever go hand-in-hand these days. North Carolina Governor Pat McCrory has been signing a lot of legislative proposals as of late.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ece5814174653f366fae416a55d4b167/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F07093636%2Fshutterstock_77245495.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/07/north-carolina-bitcoin-legislation-decent-not-perfect/</link>
+            <guid isPermaLink="false">7c7b5dcc-f5c2-434b-8c57-2e162c315151</guid>
+            <pubDate>Thu, 07 Jul 2016 13:17:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Etsy's Payment Problems Are OpenBazaar's Opportunity]]></title>
             <description><![CDATA[<article><h1>Etsy's Payment Problems Are OpenBazaar's Opportunity</h1><p>Since July 1, Etsy Inc has had a major payment processing problem. But while the problem is still unresolved, the 24/7 Bitcoin payment network can certainly fill the void. Also read: OpenBazaar is Here but Darknet Markets Will Remain Many of its orders made using credit cards and gift cards are stuck in processing.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/de3a2469c89db781dc9f68238dbf7d8e/croprotate.png?cropheight=548&cropwidth=1050&degrees=0&input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fetsy.png&x=0&y=0"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitstamp Website Triggers Malware Infection Warnings</h1><p>Accessing the Bitstamp website through a mobile browser does not seem to be triggering any warnings for now. Google Chrome usually warns users if they are visiting a site which can potentially harm their computer. However, that doesn't seem to be the case just yet.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e6704a2f617d085c0a2a0edba624eae7/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F07131359%2Fshutterstock_365840480.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/07/07/bitstamp-website-triggers-malware-infection-warnings/</link>
             <guid isPermaLink="false">c066f602-62d5-46f8-ab77-3a82eb5f2cb0</guid>
-            <pubDate>Thu, 07 Jul 2016 13:17:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase Unveils Flexible Pricing for Merchants as Market Diversifies]]></title>
-            <description><![CDATA[<article><h1>Coinbase Unveils Flexible Pricing for Merchants as Market Diversifies</h1><p>Coinbase has announced its merchants are now able to set Bitcoin price ranges for goods and services in a bid to tackle user error in submitting incorrect payment amounts. Also read: Netcoins: 'Bitcoin Brothers' Virtual ATM Network The update, announced on the Coinbase's blog and Twitter feed Monday, also features a partial refund feature for merchants, allowing them to return funds for orders altered post-payment.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f0311d69a4562af8cc70ac8bb76616b9/croprotate.jpg?cropheight=904&cropwidth=1600&degrees=0&input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fbitcoin-accepted.jpg&x=0&y=0"></article>]]></description>
-            <link>https://news.bitcoin.com/coinbase-flexible-merchants-pricing/</link>
-            <guid isPermaLink="false">2e04d10e-ec77-4bb5-8958-052003d9dd42</guid>
             <pubDate>Thu, 07 Jul 2016 13:17:37 GMT</pubDate>
         </item>
     </channel>
