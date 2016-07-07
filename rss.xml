@@ -4,8 +4,36 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 03:51:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 03:51:51 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OpenBazaar 2.0: P2P trade takes the next step]]></title>
+            <description><![CDATA[<article><h1>OpenBazaar 2.0: P2P trade takes the next step</h1><p>OpenBazaar 2.0: P2P trade takes the next step The first version of the OpenBazaar software launched April of this year, but the concept behind OpenBazaar - making trade free by moving it from closed platforms to a peer-to-peer (p2p) network - has only taken its first steps. What does the future of p2p trade look like?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/338eb7870fe1854db4de3149d25ee5f9/noop.png?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F2000%2F1*IAiy07az3sg9xu6JVjfoHA.png"></article>]]></description>
+            <link>http://gigabitcoin.xyz/openbazaar-20-p2p-trade-takes-the-next-step/index.html</link>
+            <guid isPermaLink="false">d9955621-34dc-4146-a518-37e2707d4128</guid>
+            <pubDate>Thu, 07 Jul 2016 03:51:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How do miners understand what a transaction does?]]></title>
+            <description><![CDATA[<article><h1>How do miners understand what a transaction does?</h1><p>Determining the fee of a transaction is actually very easy. As you know, a transaction has inputs and outputs, where each output has an associated amount and a script, and each input is a link to an output of a previous transaction, along with whatever data is needed to satisfy the previous output's script.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46385/how-do-miners-understand-what-a-transaction-does</link>
+            <guid isPermaLink="false">54e28366-757d-432c-a450-9f4367a2706e</guid>
+            <pubDate>Thu, 07 Jul 2016 03:51:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can an intermediary block be lost?]]></title>
+            <description><![CDATA[<article><h1>Can an intermediary block be lost?</h1><p>Since the blockchain is stored in a distributed database, is it possible that one block can be lost? Then it would be impossible to link future blocks to previous blocks. How many copies of the</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46345/can-an-intermediary-block-be-lost</link>
+            <guid isPermaLink="false">ece063f0-d914-4b43-83ac-a79ce86e3b1f</guid>
+            <pubDate>Thu, 07 Jul 2016 03:51:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[After 4,400% Surge, Bitcoin's Fate Hinges on Huge Chinese Miners]]></title>
+            <description><![CDATA[<article><h1>After 4,400% Surge, Bitcoin's Fate Hinges on Huge Chinese Miners</h1><p>Wu Jihan still remembers the exhilaration he felt after learning about bitcoin in 2011. A self-described computer geek fresh out of China's top university, Wu soaked up everything he could about the digital currency's mysterious founder and its users' ambitions to transform the global financial system.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c650aa15d8cc9f27b43944b7ceb540ed/noop.png?input=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiEJhgdVPLUj8%2Fv0%2F-1x-1.png"></article>]]></description>
+            <link>http://www.bloomberg.com/news/articles/2016-07-06/after-4-400-surge-bitcoin-s-fate-hinges-on-huge-chinese-miners</link>
+            <guid isPermaLink="false">91e7a29b-4e34-4f11-9aef-8c8f47c07f0a</guid>
+            <pubDate>Thu, 07 Jul 2016 03:51:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Federal Reserve Is Powerless Against A New Recession]]></title>
             <description><![CDATA[<article><h1>Federal Reserve Is Powerless Against A New Recession</h1><p>There are a lot of eyes on the Federal Reserve right now. Many financial experts assume the interest rates will increase again later this year. But at the same time, there are those who feel the opposite will be true.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/503a418bcc97dd9be49f12dcc2750c25/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_300108776.jpg"></article>]]></description>
@@ -47,34 +75,6 @@
             <link>http://bravenewcoin.com/news/us-uk-or-asia-where-are-all-the-blockchain-startups/</link>
             <guid isPermaLink="false">d005805c-bb34-42c3-888d-cab2637507c0</guid>
             <pubDate>Thu, 07 Jul 2016 03:51:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Tatiana Show - Matt McKibbin of D10E & Liz Reitzig of NourishingLiberty com | Lets Talk Bitcoin]]></title>
-            <description><![CDATA[<article><h1>The Tatiana Show - Matt McKibbin of D10E & Liz Reitzig of NourishingLiberty com | Lets Talk Bitcoin</h1><p>Tatiana interviews Matt McKibbin of D10E & Liz Reitzig of NourishingLiberty.com. Topics of discussion include the different beliefs in Bitcoin among the Bitcoin community, the future of Blockchain in real estate, getting farmers to adapt to technology, and the role of government in the farming industry.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/51d07a18afe345b73a91ab499d5120bf/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1852-04e9743587632b74c5951c89837869c315615775541d1735840ecf3598f3bf5b.jpg"></article>]]></description>
-            <link>https://letstalkbitcoin.com/blog/post/the-tatiana-show-matt-mckibbin-of-d10e-liz-reitzig-of-nourishingliberty-com</link>
-            <guid isPermaLink="false">3538bb34-5a22-4eb2-b310-7f6ba9943082</guid>
-            <pubDate>Thu, 07 Jul 2016 03:51:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="http://imgur.com/Ay3uELN.jpg"></article>]]></description>
-            <link>http://i.imgur.com/Ay3uELN.jpg</link>
-            <guid isPermaLink="false">48677dee-8fc5-492e-b454-aca9fdbaf5d6</guid>
-            <pubDate>Thu, 07 Jul 2016 03:51:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum Price Technical Analysis - $11.20 Now Major Resistance - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Ethereum Price Technical Analysis - $11.20 Now Major Resistance - NEWSBTC</h1><p>Ethereum price weakened, as the bears did not stop in taking the ETH down against the US Dollar. More losses ahead? Ethereum price weakened, as the bears did not stop in taking the ETH down against the US Dollar. More losses ahead? Ethereum price continued to dive down against the US Dollar and even broke the $9.50 level.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aedf8c047547a8ded6b598e3c13e802b/croprotate.png?cropheight=906&cropwidth=1824&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F06032505%2FEthereum4.png&x=0&y=0"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/06/ethereum-price-technical-analysis-11-20-now-major-resistance/</link>
-            <guid isPermaLink="false">8059007c-f847-490f-a250-57d58011fc32</guid>
-            <pubDate>Wed, 06 Jul 2016 14:07:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Counterparty's EVM Port to Enable Bitcoin with Ethereum Smart Contracts Moves Forward]]></title>
-            <description><![CDATA[<article><h1>Counterparty's EVM Port to Enable Bitcoin with Ethereum Smart Contracts Moves Forward</h1><p>Counterparty is set to launch Ethereum's Virtual Machine (EVM) on a testnet in two weeks with Counterparty developer Ruben de Vries making solid progress toward the end result, which will eventually bring Ethereum's smart contract to Bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/505963061783516502387ebe0a661e9a/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F06%2FBitcoin-nw.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/counterparty-evm-bitcoin-ethereum/</link>
-            <guid isPermaLink="false">a82cec46-e65c-4deb-ab58-4758f3cff9c0</guid>
-            <pubDate>Wed, 06 Jul 2016 14:07:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
