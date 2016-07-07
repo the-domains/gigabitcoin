@@ -7,6 +7,13 @@
         <lastBuildDate>Thu, 07 Jul 2016 03:51:51 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[North Carolina Governor Signs Bitcoin Bill Into Law - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>North Carolina Governor Signs Bitcoin Bill Into Law - CoinDesk</h1><p>North Carolina Governor Pat McCrory signed 16 bills into law today, one of which was House Bill 289, which expands the state's Money Transmitters Act to cover activities related to bitcoin and other blockchain-based digital currencies.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f310bafbbd64952bb4570455bbd9b4e5/croprotate.jpg?cropheight=1070&cropwidth=1500&degrees=0&input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F07%2Fnorth-carolina-law-e1467831752319.jpg&x=0&y=0"></article>]]></description>
+            <link>http://www.coindesk.com/north-carolina-governor-signs-bitcoin-bill-law/</link>
+            <guid isPermaLink="false">f876c534-847d-47a9-9492-494cbe42f4c6</guid>
+            <pubDate>Thu, 07 Jul 2016 03:51:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[US Government Issues Call for Blockchain Healthcare Research - CoinDesk]]></title>
             <description><![CDATA[<article><h1>US Government Issues Call for Blockchain Healthcare Research - CoinDesk</h1><p>The US Department of Health and Human Services (HHS) is soliciting research papers related to blockchain applications in healthcare and health research. According to a notice published in the Federal Register, HHS is seeking white papers that explore how the technology can be leveraged for healthcare purposes.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ccc13c785bfa5bae362922965456cbf4/noop.jpg?input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F07%2FHHS.jpg"></article>]]></description>
             <link>http://www.coindesk.com/health-human-service-department-seeks-blockchain-papers/</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Will the bitcoin price surge or drop on July 7th 2016 (Bitcoin halving)?</h1><p>Answer (1 of 3): It's all a matter of speculation. Miners current supply rates are such a minimal generation daily compared to daily market volume, so in the "withholding of selling" by miners when this reward halves to try to push up price, they are withering very little supply from the market.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
             <link>https://www.quora.com/Will-the-bitcoin-price-surge-or-drop-on-July-7th-2016-Bitcoin-halving</link>
             <guid isPermaLink="false">2594ae73-13d9-4696-a633-e0df99c6846a</guid>
-            <pubDate>Thu, 07 Jul 2016 03:51:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uber Argentina Turns to Bitcoin to Evade Government Crackdown | Pete Rizzo]]></title>
-            <description><![CDATA[<article><h1>Uber Argentina Turns to Bitcoin to Evade Government Crackdown | Pete Rizzo</h1><p>The Argentinian subsidiary of international ridesharing giant Uber is turning to bitcoin amid what has been described as a crackdown by local authorities on its operations. Bitcoin industry startup Xapo told CoinDesk today that is has entered a partnership with Uber that allows the company to accept its bitcoin debit cards, and for users to use the payment option when traveling domestically or abroad.</p></article>]]></description>
-            <link>http://fee.org/articles/uber-argentina-turns-to-bitcoin-to-evade-government-crackdown/</link>
-            <guid isPermaLink="false">fa8c08cd-3287-494b-9b05-4ca25c84c454</guid>
             <pubDate>Thu, 07 Jul 2016 03:51:09 GMT</pubDate>
         </item>
     </channel>
