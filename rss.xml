@@ -7,13 +7,6 @@
         <lastBuildDate>Fri, 08 Jul 2016 02:26:56 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Bitcoin to Revamp Toronto Raptors' NBA Franchise]]></title>
-            <description><![CDATA[<article><h1>Bitcoin to Revamp Toronto Raptors' NBA Franchise</h1><p>The Toronto Raptors came within a few wins [6 in fact] of winning the NBA title this season. However, with their limited Canadian basketball market, and the competitive American rivals, could they follow the Sacramento Kings and find a way to improve their marketing?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/74f2e74de3e6ac3bd05d9c3d01821391/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F07144334%2Fcryptocurrency.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/07/bitcoin-revamp-toronto-raptors-nba-franchise/</link>
-            <guid isPermaLink="false">c80743a3-45ce-42f7-9ab8-29073140ef16</guid>
-            <pubDate>Fri, 08 Jul 2016 02:24:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Using The Bithappy Browser To Raise Global Bitcoin Awareness]]></title>
             <description><![CDATA[<article><h1>Using The Bithappy Browser To Raise Global Bitcoin Awareness</h1><p>There are many different Bitcoin initiatives underway to boost cryptocurrency awareness. The BitHappy browser is an Android application that is similar to a Bitcoin payment processor. Through the application, users can find sellers around the world to buy goods and services from. Bitcoin is, of course, the only accepted payment method.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0d1414228e582506f3f4ec50683705ec/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_447795370.jpg"></article>]]></description>
             <link>http://themerkle.com/using-the-bithappy-browser-to-raise-global-bitcoin-awareness/</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Raketa Watches Trials Blockchain Technology to Fight Counterfeiting</h1><p>Blockchain Engine and Petrodvorets Watch Factory have introduced blockchain technology into the manufacturing process of Raketa watches, making Raketa one of the first companies in the world to record the production of physical goods in the blockchain. Established by Peter the Great in 1721, Petrodvorets Watch Factory is one of Russia's oldest businesses.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/56253efb8d287817e234d3c6e7bd4f8f/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fraketa-watches-trials-blockchain-technology-to-fight-counterfeiting.jpg"></article>]]></description>
             <link>https://bitcoinmagazine.com/articles/raketa-watches-trials-blockchain-technology-to-fight-counterfeiting-1467905237</link>
             <guid isPermaLink="false">963921db-0e91-46d3-a14f-c51520ee8d32</guid>
+            <pubDate>Fri, 08 Jul 2016 02:24:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Bitcoin approx avg transaction fee, in USD terms, has increased 206.8% since Jan. 31, from $0.073 to $0.224</p>]]></description>
+            <link>https://twitter.com/jgarzik/status/749023746678136832</link>
+            <guid isPermaLink="false">8b69d074-d762-4c0c-9f5f-94d81641ca06</guid>
             <pubDate>Fri, 08 Jul 2016 02:24:03 GMT</pubDate>
         </item>
     </channel>
