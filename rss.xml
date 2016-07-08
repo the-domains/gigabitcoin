@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 02:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 02:26:15 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Bitcoin approx avg transaction fee, in USD terms, has increased 206.8% since Jan. 31, from $0.073 to $0.224</p>]]></description>
+            <link>https://twitter.com/jgarzik/status/749023746678136832</link>
+            <guid isPermaLink="false">8b69d074-d762-4c0c-9f5f-94d81641ca06</guid>
+            <pubDate>Fri, 08 Jul 2016 02:24:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Slumps On Eve Of Block Reward Halving]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Slumps On Eve Of Block Reward Halving</h1><p>Bitcoin price has taken the low road as the market sells off prior to the block reward halving. Bitcoin price, how low will you go? This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member? Join now.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6e5f4bd72f43da80c3c3bc0370c8d752/noop.png?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FSelection_20160707_003.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.cryptocoinsnews.com/bitfury-bitcoin-routing-lightning-network-solution/</link>
             <guid isPermaLink="false">64f04df8-5ecf-40f9-a834-62f10e90d8e7</guid>
             <pubDate>Fri, 08 Jul 2016 02:24:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Decentralized Reddit' Steemit Awards $1.3 Million to Users]]></title>
-            <description><![CDATA[<article><h1>'Decentralized Reddit' Steemit Awards $1.3 Million to Users</h1><p>The social media website Also read: Japan's Largest Q&A Platform OKWave Adds Bitcoin Services Steemit that's similar to Reddit has just announced it has distributed $1.3 million USD in the platform's native cryptocurrency Steem. The website's user base will have a lot more digital currency to earn just by posting original content on the decentralized platform.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/153b24b75bcf814b1764adf9e9fd48c0/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FSteemit-Distributes-1.3-Million-to-its-Social-Media-Community.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/steemit-awards-1-3-m-users/</link>
-            <guid isPermaLink="false">95680dc4-b7ed-4be1-9c6a-f3bbeedc85cf</guid>
-            <pubDate>Fri, 08 Jul 2016 02:24:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
