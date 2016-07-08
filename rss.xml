@@ -4,34 +4,13 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 02:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 02:24:07 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The Bitfury Group Releases White Paper: "Flare: An Approach to Routing in Lightning Network"]]></title>
-            <description><![CDATA[<article><h1>The Bitfury Group Releases White Paper: "Flare: An Approach to Routing in Lightning Network"</h1><p>Today the Bitfury Group released a white paper about Flare, a hybrid routing algorithm for payment routing on the Lightning Network. The paper suggests a two-phase algorithm: (1) a proactive update of the node's routing map, which stores information about network topology, along with (2) reactive collection of information as needed when required by a Lightning Network request.</p></article>]]></description>
-            <link>http://gigabitcoin.xyz/the-bitfury-group-releases-white-paper-flare-an-approach/index.html</link>
-            <guid isPermaLink="false">1a56b73d-8a79-4ed6-9592-f483a2c6559c</guid>
-            <pubDate>Fri, 08 Jul 2016 02:23:59 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Exchanges Weigh Impact As Vogogo Moves to Shutter Payments Service - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Bitcoin Exchanges Weigh Impact As Vogogo Moves to Shutter Payments Service - CoinDesk</h1><p>Bitcoin services startup Vogogo is closing its payment processing service next month after it failed to gain traction, a move that comes amid the exits of several executives and reports that at least some bitcoin services will be affected in the near-term.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/506ecec6a53740ea9adf2bf258006f16/noop.jpg?input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F07%2FPower.jpg"></article>]]></description>
             <link>http://www.coindesk.com/bitcoin-exchanges-vogogo-payments/</link>
             <guid isPermaLink="false">34fa8c96-9320-41c8-92d6-a4d9bf70ddaf</guid>
-            <pubDate>Fri, 08 Jul 2016 02:23:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vancouver Mall ATM trades in Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Vancouver Mall ATM trades in Bitcoin</h1><p>There's a curious machine inside an entrance to Vancouver Mall. It will give you cash, but it won't take a debit card. You can give it cash, but the receipts won't look too familiar. With the push of a button it will show your balance down to eight decimal points.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/11fc56f6f52f3aaf94664d8404276216/noop.jpg?input=http%3A%2F%2F16749-presscdn-0-94.pagely.netdna-cdn.com%2Fwp-content%2Fuploads%2F2016%2F07%2F327861-bitcoin-670x0-c-default.jpg"></article>]]></description>
-            <link>http://www.columbian.com/news/2016/jul/07/vancouver-mall-atm-trades-in-bitcoin/</link>
-            <guid isPermaLink="false">718f5af1-d08e-487e-8769-feda6cf79536</guid>
-            <pubDate>Fri, 08 Jul 2016 02:23:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Remittance Startup Freemit to Close Amid Funding Shortfall - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Remittance Startup Freemit to Close Amid Funding Shortfall - CoinDesk</h1><p>Bitcoin remittance startup Freemit is officially closing its doors, two years after it first began an effort to build a remittance service. CEO John Biggs, a former editor for TechCrunch, said that the decision to shutter the operation came after a "perfect storm" of a lack of a viable product to show investors and, consequently, the inability to raise funds.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/87490014169185e724ae64bb4be4bd1b/croprotate.png?cropheight=755&cropwidth=1500&degrees=0&input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F03%2FScreen-Shot-2016-03-07-at-6.05.31-PM-e1457392078767.png&x=0&y=0"></article>]]></description>
-            <link>http://www.coindesk.com/freemit-bitcoin-startup-closes/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+CoinDesk+(CoinDesk+-+The+Voice+of+Digital+Currency)</link>
-            <guid isPermaLink="false">b9bbe03c-e8fc-4fb0-8508-fa85051ce6a6</guid>
             <pubDate>Fri, 08 Jul 2016 02:23:59 GMT</pubDate>
         </item>
         <item>
@@ -74,6 +53,27 @@
             <description><![CDATA[<article><h1>MedRec: Electronic Medical Records on the Blockchain - MIT Media Lab Digital Currency Initiative</h1><p>Today, you have more access to information about your health than ever before. From the personal tracking offered by Fitbit and Apple Watch to the genetic testing that 23andMe allows from the privacy of your home, new services now make it possible to access and store rich medical information about yourself in real time.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e848e21aea00145426f883e76754e7ee/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*FghzsJjvFMZzXLmSemNJmw.jpeg"></article>]]></description>
             <link>http://gigabitcoin.xyz/medrec-electronic-medical-records-on-the-blockchain-mit-m/index.html</link>
             <guid isPermaLink="false">651ef274-a07f-4384-a677-15eaa5564dea</guid>
+            <pubDate>Thu, 07 Jul 2016 13:17:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Litecoin Association and Development Team Unveils Latest Roadmap - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Litecoin Association and Development Team Unveils Latest Roadmap - NEWSBTC</h1><p>Te team behind the development of Litecoin, the first alternative cryptocurrency announced the latest roadmap concerning the improvement of the blockchain solution created by Charles Lee. Litecoin is well known for its similarity with Bitcoin. Litecoin was first created in 2011, since then the market capitalization has grown -totalling more than $200 million-.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/01a3fb8c4aae3a74d29d489adcd5b6e4/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F07063906%2F2-LitecoinStacker.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/07/litecoin-association-development-team-unveils-latest-roadmap/</link>
+            <guid isPermaLink="false">33b0c014-e96e-45ee-a5bf-12cab88bd9b0</guid>
+            <pubDate>Thu, 07 Jul 2016 13:17:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does the recent DAO hack of Ethereum mean that the blockchain is not as secure as we thought?]]></title>
+            <description><![CDATA[<article><h1>Does the recent DAO hack of Ethereum mean that the blockchain is not as secure as we thought?</h1><p>Answer: No, That is not the case at all. It was not the blockchain that was hacked, it was a loop in a contract written on top of a blockchain that was exploited. no dofferent to a loop hole in a written contract.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
+            <link>https://www.quora.com/Does-the-recent-DAO-hack-of-Ethereum-mean-that-the-blockchain-is-not-as-secure-as-we-thought</link>
+            <guid isPermaLink="false">9ab13157-0b22-46a5-9a8e-42a2df4dca27</guid>
+            <pubDate>Thu, 07 Jul 2016 13:17:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Services Inc. Launches bitcoin-basics.com]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Services Inc. Launches bitcoin-basics.com</h1><p>GRANDVILLE, MI / ACCESSWIRE / July 6, 2016 / Bitcoin Services Inc. (OTC Pink: BTSC) announced today that it launched bitcoin-basics.com. The website explains the basics of Bitcoin to new users. It will make money from ads and affiliate offers. Bitcoin is a digital asset and a payment system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e04f3ddcfde10cc8b459a7062f46a83f46b19983.png"></article>]]></description>
+            <link>http://finance.yahoo.com/news/bitcoin-services-inc-launches-bitcoin-150500999.html</link>
+            <guid isPermaLink="false">d9147ce3-84eb-4dbb-80a6-ea407b791afb</guid>
             <pubDate>Thu, 07 Jul 2016 13:17:41 GMT</pubDate>
         </item>
     </channel>
