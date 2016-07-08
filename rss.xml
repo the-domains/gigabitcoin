@@ -4,11 +4,18 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 02:24:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 02:24:39 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Coinbase Shuts Down Support For Canadian Customers Come August 1]]></title>
+            <description><![CDATA[<article><h1>Coinbase Shuts Down Support For Canadian Customers Come August 1</h1><p>Interesting things are happening to the Coinbase exchange, albeit Canadian users will not be in favor of this news. As it turns out, the company's Canadian payment provider Vogogo will shut down its services. That also means Coinbase will no longer support EFT and Interact transfers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/29d968469199e685b30a638485929f07/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F04%2Fshutterstock_177978593-211x150.jpg"></article>]]></description>
+            <link>http://themerkle.com/coinbase-shuts-down-support-for-canadian-customers-come-august-1/</link>
+            <guid isPermaLink="false">896d7e28-e1ce-4788-a13c-88f82a6b5946</guid>
+            <pubDate>Fri, 08 Jul 2016 02:24:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How can blockchain be used as a database to store data?]]></title>
-            <description><![CDATA[<article><h1>How can blockchain be used as a database to store data?</h1><p>Answer (1 of 4): Blockchains, by design and definition, defines a specific type of database... they are a write once read only database. What that means is, they are designed to be only ever created, and not edited or deleted. This makes them immutable (ie unchangeable), and historically accurate ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
+            <description><![CDATA[<article><h1>How can blockchain be used as a database to store data?</h1><p>Answer (1 of 4): Blockchains, by design and definition, defines a specific type of database... they are a write once read only database. What that means is, they are designed to be only ever created, and not edited or deleted. This makes them immutable (ie unchangeable), and historically accurate ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
             <link>https://www.quora.com/How-can-blockchain-be-used-as-a-database-to-store-data</link>
             <guid isPermaLink="false">4df5cc5e-c02c-458f-9405-3dc034cc379e</guid>
             <pubDate>Fri, 08 Jul 2016 02:24:00 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://qz.com/725828/a-startup-is-trying-solve-bitcoins-child-pornography-problem/</link>
             <guid isPermaLink="false">73ff6f79-a76b-430c-aaaf-78cc77e92e17</guid>
             <pubDate>Fri, 08 Jul 2016 02:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase Raises Investment, Eyes the Japanese Market - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Coinbase Raises Investment, Eyes the Japanese Market - NEWSBTC</h1><p>Coinbase has announced its strategic partnership with a Japanese financial institution and its intentions to enter the Japanese market. Read more... Coinbase, the leading cryptocurrency company has today announced its partnership with a leading Japanese financial institution, Mitsubishi UFJ Financial Group Inc. (NYSE : MTU).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9de99c1008cf70834ead230f9afe476c1c45eae8.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/07/coinbase-raises-investment-eyes-the-japanese-market/</link>
-            <guid isPermaLink="false">6362ddf9-e7cb-44a0-8001-306a3dcbf71e</guid>
-            <pubDate>Fri, 08 Jul 2016 02:23:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
