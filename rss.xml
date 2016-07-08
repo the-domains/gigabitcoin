@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 02:26:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 02:26:54 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitfury Releases Proposal for Bitcoin Lightning Micropayments Routing - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Bitfury Releases Proposal for Bitcoin Lightning Micropayments Routing - CoinDesk</h1><p>Bitfury Group, in collaboration with the open-source Lightning Network community, has released a white paper that explores how the in-development micropayments protocol could more effectively route bitcoin payments between users when launched.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f1a2a0337013e81d1c2351843197d87f/noop.png?input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F07%2FScreen-Shot-2016-07-07-at-9.42.26-AM-e1467899028945.png"></article>]]></description>
+            <link>http://www.coindesk.com/bitfury-flare-lightning-network-routing/</link>
+            <guid isPermaLink="false">27467ab4-ceb8-4431-abf6-0663e8e82b7a</guid>
+            <pubDate>Fri, 08 Jul 2016 02:24:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Could a Trump Presidency Boost Bitcoin Prices?]]></title>
             <description><![CDATA[<article><h1>Could a Trump Presidency Boost Bitcoin Prices?</h1><p>U.S. Presidential candidate, Donald Trump is certainly not a man afraid of causing a stir in the world's economies, and that, apparently, also extends to the world of digital currency, namely, Bitcoin. According to a new report conducted by Juniper Research, global concern over the possible election of Donald Trump as the next U.S.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f03de7b20f286a3a93887d91227e8458/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzdiZjczMDQ0MTg2NzQzNDZjNTFjZmViOTQ5ZGMyNTVjLmpwZw%3D%3D.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Slumps On Eve Of Block Reward Halving</h1><p>Bitcoin price has taken the low road as the market sells off prior to the block reward halving. Bitcoin price, how low will you go? This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member? Join now.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6e5f4bd72f43da80c3c3bc0370c8d752/noop.png?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FSelection_20160707_003.png"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/bitcoin-price-slumps-on-eve-of-block-reward-halving/</link>
             <guid isPermaLink="false">c185bc89-d22f-493c-9f48-8f87251e8d82</guid>
-            <pubDate>Fri, 08 Jul 2016 02:24:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Holding Our Ground - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Holding Our Ground - NEWSBTC</h1><p>Here's a look at what we are focusing on in the bitcoin price this evening. It's getting pretty tough to hold off on the markets, but once again, action during today's session has given us very little to play with in terms of volatility.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ae84fa85bd356c5d28ce4a44df86895a/croprotate.png?cropheight=677&cropwidth=1353&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F07173026%2FScreen-Shot-2016-07-07-at-18.28.39.png&x=0&y=0"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/07/bitcoin-price-watch-holding-ground/</link>
-            <guid isPermaLink="false">47cf2e94-b60c-45e9-9cfc-0c6819d9f57b</guid>
             <pubDate>Fri, 08 Jul 2016 02:24:03 GMT</pubDate>
         </item>
     </channel>
