@@ -34,11 +34,10 @@ description: >-
   investors and, consequently, the inability to raise funds.
 inLanguage: en
 app_links: []
-isBasedOnUrl: >-
-  http://www.coindesk.com/freemit-bitcoin-startup-closes/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+CoinDesk+(CoinDesk+-+The+Voice+of+Digital+Currency)
+isBasedOnUrl: 'http://www.coindesk.com/freemit-bitcoin-startup-closes/'
 title: Bitcoin Remittance Startup Freemit to Close Amid Funding Shortfall - CoinDesk
-datePublished: '2016-07-08T02:23:59.151Z'
-dateModified: '2016-07-08T01:44:53.430Z'
+datePublished: '2016-07-08T02:23:59.688Z'
+dateModified: '2016-07-07T22:15:12.065Z'
 starred: false
 sourcePath: >-
   _posts/2016-07-08-bitcoin-remittance-startup-freemit-to-close-amid-funding-sho.md
