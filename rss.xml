@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 13:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 13:17:14 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coinbase improves services and setups expansion into Asia, while retreating from Canada]]></title>
+            <description><![CDATA[<article><h1>Coinbase improves services and setups expansion into Asia, while retreating from Canada</h1><p>San Francisco-based bitcoin and digital asset exchange Coinbase recently announced a strategic partnership with Japan's largest commercial bank, the Bank of Tokyo-Mitsubishi UFJ (BTMU), to "support Coinbase's long-term international expansion efforts." Japan has been a rapidly growing market for bitcoin this year, with Tokyo-based bitcoin exchange BitFlyer skyrocketing up to the number three exchange by volume, and both Quoine and BTCBOX regularly reaching the top ten.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d7bea467f166312409de26a63a8f26b6/noop.png?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-Coinbase-Cover.png"></article>]]></description>
+            <link>http://bravenewcoin.com/news/coinbase-improves-services-and-setups-expansion-into-asia-while-retreating-from-canada/</link>
+            <guid isPermaLink="false">f6e2ef54-5943-4cbc-9bc6-50317884602b</guid>
+            <pubDate>Fri, 08 Jul 2016 13:16:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[US Government contest launched to find blockchain solutions to healthcare problems]]></title>
             <description><![CDATA[<article><h1>US Government contest launched to find blockchain solutions to healthcare problems</h1><p>The Office of the National Coordinator for Health Information Technology (ONC) has just posted a notice on the federal register called "Blockchain and Its Emerging Role in Healthcare and Health-related Research." The short announcement solicits white papers on the topic of Blockchain Technology and the potential use for Healthcare.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ff9d671d3362c5a901613f8fed762fa8/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-doctor-with-tablet-14619131467C0.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://cointelegraph.com/news/troubles-of-ethereum-continue-with-final-solution-still-not-in-view</link>
             <guid isPermaLink="false">c13d0aba-ddd5-4cac-9fea-6b493bd49514</guid>
             <pubDate>Fri, 08 Jul 2016 13:16:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin's Price Impact From Trump Presidency | PYMNTS.com]]></title>
-            <description><![CDATA[<article><h1>Bitcoin's Price Impact From Trump Presidency | PYMNTS.com</h1><p>Bitcoin's trump card may be Donald Trump. Yes, this is a very real story based on an actual Juniper Research study that gives some insight into what a Trump presidency could do for bitcoin's prices.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b0508f22164eef299f3d85e2e725de5c/noop.jpg?input=http%3A%2F%2Fcdn.pymnts.com%2Fwp-content%2Fuploads%2F2016%2F07%2FDonald-Trump-Bitcoin-Prices-1000x600.jpg"></article>]]></description>
-            <link>http://www.pymnts.com/news/bitcoin-tracker/2016/donald-trump-bitcoin-price-impact/</link>
-            <guid isPermaLink="false">e54184a1-c2d9-43a9-a1e7-be4b649a4af5</guid>
-            <pubDate>Fri, 08 Jul 2016 13:16:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
