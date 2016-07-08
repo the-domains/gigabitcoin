@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 02:26:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 02:26:21 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Raketa Watches Trials Blockchain Technology to Fight Counterfeiting]]></title>
+            <description><![CDATA[<article><h1>Raketa Watches Trials Blockchain Technology to Fight Counterfeiting</h1><p>Blockchain Engine and Petrodvorets Watch Factory have introduced blockchain technology into the manufacturing process of Raketa watches, making Raketa one of the first companies in the world to record the production of physical goods in the blockchain. Established by Peter the Great in 1721, Petrodvorets Watch Factory is one of Russia's oldest businesses.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/56253efb8d287817e234d3c6e7bd4f8f/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fraketa-watches-trials-blockchain-technology-to-fight-counterfeiting.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/raketa-watches-trials-blockchain-technology-to-fight-counterfeiting-1467905237</link>
+            <guid isPermaLink="false">963921db-0e91-46d3-a14f-c51520ee8d32</guid>
+            <pubDate>Fri, 08 Jul 2016 02:24:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Bitcoin approx avg transaction fee, in USD terms, has increased 206.8% since Jan. 31, from $0.073 to $0.224</p>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Myanmar Microfinance Firm Completes Blockchain Test - CoinDesk</h1><p>Software development firm Infoteria has revealed it is working with Myanmar microfinance firm BC Finance to streamline its financial transactions using blockchain technology. The Japan-based company conducted the tests on BC's computer system to see if a low-cost alternative to the traditional financial infrastructure could also be more reliable, according to a report today in Nikkei ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76b14c8a463c77253908b367e0c0f3cbb9a82224.png"></article>]]></description>
             <link>http://www.coindesk.com/myanmars-largest-microfinace-company-conducts-blockchain-experimetn/</link>
             <guid isPermaLink="false">0fbf2b1c-8dc6-44b3-8e7d-6dddeaf21290</guid>
-            <pubDate>Fri, 08 Jul 2016 02:24:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitfury Proposes a Solution to the Bitcoin Routing Problem in the Lightning Network]]></title>
-            <description><![CDATA[<article><h1>Bitfury Proposes a Solution to the Bitcoin Routing Problem in the Lightning Network</h1><p>Bitfury just announced a white paper, in collaboration with Olaoluwa Osuntokun and others from the Lightning Network team, proposing a new algorithmic solution to Lightning Network's routing problem. A hybrid routing algorithm is proposed which, according to a press release, ensures that "routes can be found as quickly as possible."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/870925ca10b7967db7d1bdd0b68cf481/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FBinary-source-code.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitfury-bitcoin-routing-lightning-network-solution/</link>
-            <guid isPermaLink="false">64f04df8-5ecf-40f9-a834-62f10e90d8e7</guid>
             <pubDate>Fri, 08 Jul 2016 02:24:02 GMT</pubDate>
         </item>
     </channel>
