@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 13:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 13:17:44 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Brexit Turns Bitcoin Into an Unlikely Haven Currency: Chart]]></title>
+            <description><![CDATA[<article><h1>Brexit Turns Bitcoin Into an Unlikely Haven Currency: Chart</h1><p>While bitcoin is not exactly regarded as stable - it's bounced around between $2 and $1,137 over the past five years - it's become an unlikely haven for currency investors in the aftermath of Brexit. On Tuesday, the 10-day historical volatility of bitcoin dropped below the pound's.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0e9b2fa28b9a58071013c45e0311cc6e5e7fc7e.jpg"></article>]]></description>
+            <link>http://www.bloomberg.com/news/articles/2016-07-08/brexit-turns-bitcoin-into-an-unlikely-haven-currency-chart</link>
+            <guid isPermaLink="false">7f297a97-1307-4e64-92b4-e6a79b861b42</guid>
+            <pubDate>Fri, 08 Jul 2016 13:16:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[U.S. Department of Health Calls for Blockchain Research]]></title>
             <description><![CDATA[<article><h1>U.S. Department of Health Calls for Blockchain Research</h1><p>The U.S. Department of Health and Human Services (HHS) just put out a call for White Papers that address the utilization of blockchain in healthcare. Let's see what happens. HHS recently offered a press release [PDF] that asked for registrants to register and respond to the prompt, "Blockchain and Its Emerging Role in Healthcare and Health-related Research."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/29b7bd1b7ddba9662c0771823e255bcb/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FDepartment-HHS.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>What Happens to Bitcoin Price amid Halving?</h1><p>The bitcoin price has increased nearly 50% since January 1. While the year has been tumultuous economically for the world, an upcoming network event called a Bitcoin halving could have had price implications and led to the big gains for Bitcoin price.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/be0054028ac34d8dc8053bcc829cfa55/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FBitcoin-top-dollars.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/bitcoin-price-amid-halving/</link>
             <guid isPermaLink="false">20ecc58d-bdd7-4675-a0c5-6439d8ef548e</guid>
-            <pubDate>Fri, 08 Jul 2016 13:16:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Drops Again As Halving Inches Closer]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Drops Again As Halving Inches Closer</h1><p>A lot of people assumed the Bitcoin halving would force the price upwards. However, that will not necessarily be the case. The upcoming Bitcoin halving has been a subject of great debate and excitement. While the block reward will be cut in half, the number of newly minted coins per day will decrease.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/201fca9b08d5469af0cb5db1347d76fd/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F08093226%2Fshutterstock_169776743.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/08/bitcoin-price-drops-halving-inches-closer/</link>
-            <guid isPermaLink="false">504e3717-e1e4-4b6c-8d53-45c6b6e6782e</guid>
             <pubDate>Fri, 08 Jul 2016 13:16:42 GMT</pubDate>
         </item>
     </channel>
