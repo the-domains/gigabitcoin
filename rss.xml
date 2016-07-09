@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 18:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2016 18:10:39 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="https://i.redd.it/8scfw8elc38x.png"></article>]]></description>
-            <link>https://i.redd.it/8scfw8elc38x.png</link>
-            <guid isPermaLink="false">09718f52-8f49-4c6b-8b6b-8ac5c657396c</guid>
-            <pubDate>Sat, 09 Jul 2016 18:09:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>@drwasho @kristovatlas The community fracture is even more disconcerting. Censorship? Among cypherpunks? Boot theymos & crew already.</p>]]></description>
-            <link>https://twitter.com/el33th4xor/status/749123919773216768</link>
-            <guid isPermaLink="false">c1e303cc-9e5f-41d3-bc36-ebacbd34e37a</guid>
-            <pubDate>Sat, 09 Jul 2016 18:09:50 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Industry CEO's Discuss The Bitcoin Halving Effect]]></title>
             <description><![CDATA[<article><h1>Industry CEO's Discuss The Bitcoin Halving Effect</h1><p>The Bitcoin halving is on everybody's mind today, and it will be interesting to see how this will affect the ecosystem. Short-term effects are not expected by most people, albeit one never knows what the free market is up to. Various Bitcoin company CEO's have reached out to us with comments, so let's see what they have to say.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ad13ef6da7c064f96c10724057304a39/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_393303946.jpg"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>Bitcoin Price at the Halving</h1><p>Bitcoin price is rearing to go and the community is optimistic for greater things for the conquering Bitcoin. Today's post revisits the potential scenarios for price (explored yesterday) as we brace for interesting developments at the moment of block reward halving. This analysis is provided by xbt.social with a 3-hour delay.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/287c71c49e7db41d7ffc4e90323b9929/croprotate.png?cropheight=757&cropwidth=1408&degrees=0&input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FSelection_20160709_003.png&x=0&y=0"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/bitcoin-price-halving/</link>
             <guid isPermaLink="false">b7816465-33c3-4421-8bbc-47badca73a9b</guid>
+            <pubDate>Sat, 09 Jul 2016 18:09:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Krypton Wants to Become A Faster Ethereum]]></title>
+            <description><![CDATA[<article><h1>Krypton Wants to Become A Faster Ethereum</h1><p>Ethereum has brought us tools like Smart Contract, Dapp and DAO creation, deployment, and management. We can easily pay someone without ever hitting the send button, access decentralized applications that cannot be censored or shut dow,n and we can be part of Decentralized Autonomous Organizations.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7c6e5b668bddc754e346f90c054889fd/noop.png?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2FKrypton.png"></article>]]></description>
+            <link>http://themerkle.com/krypton-wants-to-become-a-faster-ethereum/</link>
+            <guid isPermaLink="false">5a025244-bf06-4074-93d7-bca1729c1416</guid>
+            <pubDate>Sat, 09 Jul 2016 18:09:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Industry Executives Weigh In on Bitcoin Halving Effect]]></title>
+            <description><![CDATA[<article><h1>Industry Executives Weigh In on Bitcoin Halving Effect</h1><p>The day of the halving is here and the event is certain to influence the price of bitcoin at a time when the value of the cryptocurrency has spiked nearly 50% since the turn of the year. It is the day of the second halving event in bitcoin's history, one which will see miners' block rewards halve from 25 to 12.5 bitcoins.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e206d75aebec11a51c4cc418df2f0978/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FBitcoin-industry-exec.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/industry-executives-weigh-bitcoin-halving-effect/</link>
+            <guid isPermaLink="false">8d0946df-dd7b-4e8c-9277-9f8c1206c3d1</guid>
             <pubDate>Sat, 09 Jul 2016 18:09:49 GMT</pubDate>
         </item>
     </channel>
