@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 01:30:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2016 01:30:13 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coinbase to Shutdown CAD Services to Canadian Customers]]></title>
+            <description><![CDATA[<article><h1>Coinbase to Shutdown CAD Services to Canadian Customers</h1><p>As of July 29, Coinbase will no longer be servicing its Canadian customers, informing them that they must change their existing CAD balances to Bitcoin or have it relocated to their bank account. The San Francisco-based company, who is a leading Bitcoin exchange, sent out an email to its customers informing them of the upcoming changes.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ad804c1e18dd7f48b73e41694d5328e4/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F05%2FUnplugged-hub.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/coinbase-shutdown-cad-services-canadian-customers/</link>
+            <guid isPermaLink="false">baf80a60-a232-4e37-91ee-12c3af8b1c16</guid>
+            <pubDate>Sat, 09 Jul 2016 01:29:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blockchain Investment Off To A Slow Start In 2016]]></title>
             <description><![CDATA[<article><h1>Blockchain Investment Off To A Slow Start In 2016</h1><p>The world of blockchain technology has seen its fair share of investments throughout the years. Just last year, in 2015, a new record for VC funding was noted. But the recent charts by WeUseCoins seems to indicate the blockchain investment bubble is about to burst.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6b23572109bcf45541f230a513f896d1/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fpin-prick.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How can I (a non-tech person) start my own blockchain?</h1><p>The United States had a nominal $16.7 trillion (that's $16,770,000,000,000) gross domestic product in 2013, and the EU's was a nominal $18.5 trillion ($18,500,000,000,000) in 2014. The whole world had a nominal GDP of $78.28 trillion in 2014. In other words, the US and the EU alone accounted for 45% of the world's productivity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
             <link>https://www.quora.com/How-can-I-a-non-tech-person-start-my-own-blockchain</link>
             <guid isPermaLink="false">560c31cd-ee36-4fb1-b669-cbd858f4119e</guid>
-            <pubDate>Sat, 09 Jul 2016 01:29:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukrainian Government To Use the Blockchain Auction For Selling Its Assets]]></title>
-            <description><![CDATA[<article><h1>Ukrainian Government To Use the Blockchain Auction For Selling Its Assets</h1><p>The news was announced during the online conference with Alexander Danilyuk, Minister of Finance of Ukraine, at "Blockchain Incredible Party" (aka BIP001) event that took place in Odessa. During the video session, the Minister presented his vision as the government official that Ukraine might become the leading country in using the blockchain in "govtech" or applying the technological solutions for public service management to improve its efficiency and transparency.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cdbebe6827c4514d5b04f9f689d89560/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F07%2F15.png"></article>]]></description>
-            <link>http://forklog.net/ukrainian-government-to-use-the-blockchain-auction-for-selling-its-assets/</link>
-            <guid isPermaLink="false">34dd9091-7188-449b-8549-897fff24a7f8</guid>
             <pubDate>Sat, 09 Jul 2016 01:29:40 GMT</pubDate>
         </item>
     </channel>
