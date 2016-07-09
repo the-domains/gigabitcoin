@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 22:08:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2016 22:08:13 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin 'miners' face shortage due to reduced supply - Times of India]]></title>
-            <description><![CDATA[<article><h1>Bitcoin 'miners' face shortage due to reduced supply - Times of India</h1><p>KEFLAVIK: Marco Streng is a miner, though he does not carry a pick around his base in south-western Iceland. Instead, he keeps tens of thousands of computers running 24 hours a day in fierce competition with others across the globe to earn bitcoins.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e4640c80db66bcb810c38fe8500e328e/noop.cms?input=http%3A%2F%2Ftimesofindia.indiatimes.com%2Fphoto%2F53077836.cms"></article>]]></description>
-            <link>http://timesofindia.indiatimes.com/tech/tech-news/Bitcoin-miners-face-shortage-due-to-reduced-supply/articleshow/53128557.cms</link>
-            <guid isPermaLink="false">5eb62d4d-d929-4944-88a9-5c2068bc45e9</guid>
-            <pubDate>Sat, 09 Jul 2016 22:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pound Sterling Worst Performer of 2016 As Bitcoin Trucks On]]></title>
-            <description><![CDATA[<article><h1>Pound Sterling Worst Performer of 2016 As Bitcoin Trucks On</h1><p>Albeit many people expected the Pound Sterling to lose some value due to the Brexit, the results are overwhelming so far. Most people are well aware of how the Argentine Peso is not having the best time of its long life so far.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/44ff8ae84ea80bbaa3a90165a81bf50b/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F09124603%2Fshutterstock_59216905.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/09/pound-sterling-worst-performer-2016-bitcoin-trucks/</link>
-            <guid isPermaLink="false">ba4592a9-113b-4573-9fca-4b71f50e5207</guid>
-            <pubDate>Sat, 09 Jul 2016 22:08:10 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Blockchain Innovation Announces the Release of the Simple, Fast, and Secure BitTeller ATM - Bitcoinist.net]]></title>
             <description><![CDATA[<article><h1>Blockchain Innovation Announces the Release of the Simple, Fast, and Secure BitTeller ATM - Bitcoinist.net</h1><p>The World's Most Affordable Bitcoin ATM Austin, Texas (July 7) - Blockchain Innovation, announced today the official release of their highly anticipated Bitcoin ATM, the BitTeller. With the growing popularity of cryptocurrency; developing and producing the BitTeller was a no brainier for blockchain Innovation.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1cae62fb031cf569a061c7f9aca8ab21/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F07%2FBitteller.png"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>The Halving: Then & Now - a Bitcoin Magazine Infographic</h1><p>A milestone in Bitcoin's history, the block reward will be halved for the second time today. Where the first "halving" cut the mining reward from 50 bitcoins to 25, for the next four years miners will only earn 12.5 bitcoins for each block they find - not counting mining fees.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4f5668c8cf61727616375bef072be932/croprotate.jpg?cropheight=7277&cropwidth=611&degrees=0&input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Fbitcoin-magazine-halving-infographic.jpg&x=0&y=0"></article>]]></description>
             <link>http://www.nasdaq.com/article/the-halving-then-now-a-bitcoin-magazine-infographic-cm646839</link>
             <guid isPermaLink="false">814ceeb3-4d80-460e-95ac-1fbc939c8d4e</guid>
+            <pubDate>Sat, 09 Jul 2016 20:42:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://imgur.com/FYDfeOQ.jpg"></article>]]></description>
+            <link>http://i.imgur.com/FYDfeOQ.jpg</link>
+            <guid isPermaLink="false">48a3f29c-8113-46a8-aa0c-c9fbb8e90c28</guid>
+            <pubDate>Sat, 09 Jul 2016 20:42:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Blocks At Height 420000]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Blocks At Height 420000</h1><p>Bitcoin blocks at height {0} in the bitcoin block chain</p></article>]]></description>
+            <link>http://blockchain.info/block-height/420000</link>
+            <guid isPermaLink="false">62dd1e7b-c1f2-45f4-af51-bbc792689805</guid>
             <pubDate>Sat, 09 Jul 2016 20:42:47 GMT</pubDate>
         </item>
     </channel>
