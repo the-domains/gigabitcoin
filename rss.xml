@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 20:42:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2016 20:43:35 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Halving: Then & Now - a Bitcoin Magazine Infographic]]></title>
+            <description><![CDATA[<article><h1>The Halving: Then & Now - a Bitcoin Magazine Infographic</h1><p>A milestone in Bitcoin's history, the block reward will be halved for the second time today. Where the first "halving" cut the mining reward from 50 bitcoins to 25, for the next four years miners will only earn 12.5 bitcoins for each block they find - not counting mining fees.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4f5668c8cf61727616375bef072be932/croprotate.jpg?cropheight=7277&cropwidth=611&degrees=0&input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Fbitcoin-magazine-halving-infographic.jpg&x=0&y=0"></article>]]></description>
+            <link>http://www.nasdaq.com/article/the-halving-then-now-a-bitcoin-magazine-infographic-cm646839</link>
+            <guid isPermaLink="false">814ceeb3-4d80-460e-95ac-1fbc939c8d4e</guid>
+            <pubDate>Sat, 09 Jul 2016 20:42:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article><img src="http://imgur.com/FYDfeOQ.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://bitcoin.stackexchange.com/questions/46401/how-or-why-a-bitcoin-address-is-a-single-use-token</link>
             <guid isPermaLink="false">b150d75e-83a4-41fd-b429-4ee2163fa671</guid>
             <pubDate>Sat, 09 Jul 2016 18:09:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FIBRE Fast Internet Bitcoin Relay Engine]]></title>
-            <description><![CDATA[<article><h1>FIBRE Fast Internet Bitcoin Relay Engine</h1><p>Because TCP is designed to provide reliable transmission at reasonable bandwidth across medium-large amounts of data, it is incredibly bad at low-latency relay of small amounts of data. It is generally tuned to send packets (each just under 1500 bytes) once and to only discover that some packets were lost after getting a response from the other side.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b4fb574d5e2525e7501f3b1c2961f2a2/noop.jpg?input=http%3A%2F%2Fbitcoinfibre.org%2Fimg%2Fsplash.jpg"></article>]]></description>
-            <link>http://bitcoinfibre.org/</link>
-            <guid isPermaLink="false">1baf4e28-919e-4dc3-bcaa-fbe19483f20f</guid>
-            <pubDate>Sat, 09 Jul 2016 18:09:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
