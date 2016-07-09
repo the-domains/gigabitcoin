@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 01:30:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2016 01:30:20 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Meanders to the Starting Line]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Meanders to the Starting Line</h1><p>Bitcoin price rebounds to the upside, but the block reward halving waiting game continues (amid growing suspense). This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member? Join now.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6a969973ec8e6229fbdaf2e1581784cb/croprotate.png?cropheight=691&cropwidth=1283&degrees=0&input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FSelection_20160708_003.png&x=0&y=0"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-price-meanders-starting-line/</link>
+            <guid isPermaLink="false">a2546e46-dd9c-4c52-9dc5-c21919d80829</guid>
+            <pubDate>Sat, 09 Jul 2016 01:29:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Surbitcoin Confirms All User Funds Are Safe Despite Banesco Issues]]></title>
             <description><![CDATA[<article><h1>Surbitcoin Confirms All User Funds Are Safe Despite Banesco Issues</h1><p>In light of the panic that ensued over the Surbitcoin exchange yesterday, the company issued an official statement. Some Bitcoin users were concerned the platform had been hacked, and funds were being liquidated. As it turns out, all user funds are safe, and the issues with Banesco should be resolved shortly.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/37d5eec0dfecad86321276d066e35432/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fshutterstock_344810192-211x150.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Industry Seeking to Bridge Scaling Divide at July Meeting - CoinDesk</h1><p>Members of the bitcoin industry, including major miners and developers, are set to meet in California this month, sources say. Though details of the event are scarce, representatives from Blockstream, HaoBTC and F2Pool confirmed to CoinDesk they are planning to attend.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d5311e47bdd1dff2e4e85ef86592020b/noop.jpg?input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F07%2Fmeeting-secret-e1468002212388.jpg"></article>]]></description>
             <link>http://www.coindesk.com/bitcoin-industry-seeking-bridge-scaling-divide-july-meeting/</link>
             <guid isPermaLink="false">b5e991ef-d541-4f84-9f28-194583cfa63c</guid>
-            <pubDate>Sat, 09 Jul 2016 01:29:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Renowned Futurists Merkle, Hanson on the Future of Government Using DAOs and Prediction Markets]]></title>
-            <description><![CDATA[<article><h1>Renowned Futurists Merkle, Hanson on the Future of Government Using DAOs and Prediction Markets</h1><p>In May, Bitcoin Magazine covered the spectacular launch of The DAO, a new kind of organization created and run using blockchain software rather than conventional corporate structures. The DAO ‒ an acronym for Distributed Autonomous Organization ‒ is similar to an open venture capital fund based on Ethereum smart contracts and rapidly became the world's largest crowdfunding to date.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/87524c3b8ac3675e07b3dd02ec32bee2/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Frenowned-futurists-merkle-hanson-on-the-future-of-government-using-daos-and-prediction-markets.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/renowned-futurists-merkle-hanson-on-the-future-of-government-using-daos-and-prediction-markets-1468009940</link>
-            <guid isPermaLink="false">adf02262-42cc-42ae-a96c-387baecd5158</guid>
             <pubDate>Sat, 09 Jul 2016 01:29:41 GMT</pubDate>
         </item>
     </channel>
