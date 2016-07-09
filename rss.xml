@@ -4,8 +4,43 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 18:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2016 18:11:43 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Bitcoin Block Halving - Genesis Mining]]></title>
+            <description><![CDATA[<article><h1>The Bitcoin Block Halving - Genesis Mining</h1><p>The Bitcoin Block Halving is a central part of the Bitcoin system. Satoshi Nakamoto thought of a unique monetary ruleset within the Bitcoin protocol: as there are only ever 21 million bitcoins to be created in a decentralized matter, the rate at which the coins are generated will drop by half every four years.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1c50ca069f6068e57de8f27736fbd53d/noop.jpg?input=http%3A%2F%2Fblog.genesis-mining.com%2Ffiles%2F2016%2F07%2Fblog_blockhalving.jpg"></article>]]></description>
+            <link>http://blog.genesis-mining.com/bitcoin-block-halving</link>
+            <guid isPermaLink="false">6cba93d7-cb30-4fa2-ae30-be784756b044</guid>
+            <pubDate>Sat, 09 Jul 2016 18:09:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[¡Comprar Bitcoin en 300 nuevas localidades en Colombia!]]></title>
+            <description><![CDATA[<article><h1>¡Comprar Bitcoin en 300 nuevas localidades en Colombia!</h1><p>¡Saludos Colombia! Estamos encantados de anunciar el lanzamiento de nuestro último proyecto :) Esta integración permite a las personas en Colombia comprar bitcoin en cualquiera de aproximadamente 300 quioscos Punto Pago en el país. Cualquier persona puede utilizar la máquina para comprar bitcoin - la única cosa que necesita es una dirección de correo electrónico y pesos colombianos.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/059720e934cb06a413c11280c7933576/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*5qfUC3cCUX2U9DedU-c1cA.jpeg"></article>]]></description>
+            <link>http://gigabitcoin.xyz/comprar-bitcoin-en-300-nuevas-localidades-en-colombia/index.html</link>
+            <guid isPermaLink="false">9ff6ef07-843a-43aa-8180-4f169bf2dcf6</guid>
+            <pubDate>Sat, 09 Jul 2016 18:09:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New features for your Blockchain Wallet]]></title>
+            <description><![CDATA[<article><h1>New features for your Blockchain Wallet</h1><p>In this post, we'll be introducing two new features that we hope will make it easier for you to stay in the loop on the latest updates to our wallet, plus make it easier to manage and budget your funds. The first is our What's New section, where you can check in to see details on the latest wallet updates.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fb338036b2f5b978b37ccbba41ed451d/noop.png?input=https%3A%2F%2Fblog.blockchain.com%2Fwp-content%2Fuploads%2F2016%2F07%2FWhats-New2.png"></article>]]></description>
+            <link>https://blog.blockchain.com/2016/07/08/new-features-for-your-blockchain-wallet/</link>
+            <guid isPermaLink="false">48c7e717-0ed6-4cab-9d7f-c6b78facf6ce</guid>
+            <pubDate>Sat, 09 Jul 2016 18:09:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FIBRE Fast Internet Bitcoin Relay Engine]]></title>
+            <description><![CDATA[<article><h1>FIBRE Fast Internet Bitcoin Relay Engine</h1><p>Because TCP is designed to provide reliable transmission at reasonable bandwidth across medium-large amounts of data, it is incredibly bad at low-latency relay of small amounts of data. It is generally tuned to send packets (each just under 1500 bytes) once and to only discover that some packets were lost after getting a response from the other side.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b4fb574d5e2525e7501f3b1c2961f2a2/noop.jpg?input=http%3A%2F%2Fbitcoinfibre.org%2Fimg%2Fsplash.jpg"></article>]]></description>
+            <link>http://bitcoinfibre.org/</link>
+            <guid isPermaLink="false">1baf4e28-919e-4dc3-bcaa-fbe19483f20f</guid>
+            <pubDate>Sat, 09 Jul 2016 18:09:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How does bitcoin address work?]]></title>
+            <description><![CDATA[<article><h1>How does bitcoin address work?</h1><p>Answer (1 of 2): When you create an account on a website (localbitcoins, Coinbase, or butquick) they attribute a unique Bitcoin address to your account, so you can receive your bitcoins after you purchased them. The Bitcoins are not saved in a website database as integers or values, but in the B...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
+            <link>https://www.quora.com/How-does-bitcoin-address-work</link>
+            <guid isPermaLink="false">5e9255db-44e6-4f73-99a2-aba1b242396d</guid>
+            <pubDate>Sat, 09 Jul 2016 18:09:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chinese Miners' Influence on the Future of Bitcoin]]></title>
             <description><![CDATA[<article><h1>Chinese Miners' Influence on the Future of Bitcoin</h1><p>As the bitcoin community seeks consensus on how to address bitcoin transaction time, a meeting this month in Silicon Valley could indicate how likely the chances are for consensus, according to Bloomberg. The proceedings will likely reflect the impact of China's miners, who are estimated to control 70 percent of all bitcoin mining.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0fe98178ab174f37bc55411e23277636312303e8.jpg"></article>]]></description>
@@ -40,41 +75,6 @@
             <link>http://themerkle.com/coinapult-brings-bitcoin-purchase-option-to-colombian-punto-pago-kiosks/</link>
             <guid isPermaLink="false">f83e6479-062a-4df9-b8bc-b27c5cf9a397</guid>
             <pubDate>Sat, 09 Jul 2016 18:09:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="https://i.redd.it/8scfw8elc38x.png"></article>]]></description>
-            <link>https://i.redd.it/8scfw8elc38x.png</link>
-            <guid isPermaLink="false">09718f52-8f49-4c6b-8b6b-8ac5c657396c</guid>
-            <pubDate>Sat, 09 Jul 2016 18:09:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>@drwasho @kristovatlas The community fracture is even more disconcerting. Censorship? Among cypherpunks? Boot theymos & crew already.</p>]]></description>
-            <link>https://twitter.com/el33th4xor/status/749123919773216768</link>
-            <guid isPermaLink="false">c1e303cc-9e5f-41d3-bc36-ebacbd34e37a</guid>
-            <pubDate>Sat, 09 Jul 2016 18:09:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Industry CEO's Discuss The Bitcoin Halving Effect]]></title>
-            <description><![CDATA[<article><h1>Industry CEO's Discuss The Bitcoin Halving Effect</h1><p>The Bitcoin halving is on everybody's mind today, and it will be interesting to see how this will affect the ecosystem. Short-term effects are not expected by most people, albeit one never knows what the free market is up to. Various Bitcoin company CEO's have reached out to us with comments, so let's see what they have to say.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ad13ef6da7c064f96c10724057304a39/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_393303946.jpg"></article>]]></description>
-            <link>http://themerkle.com/industry-ceos-discuss-the-bitcoin-halving-effect/</link>
-            <guid isPermaLink="false">4a3b6e2c-7c35-422f-87a7-0076778dcf7f</guid>
-            <pubDate>Sat, 09 Jul 2016 18:09:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ShapeShift Thief Begins to Move Stolen Bitcoin]]></title>
-            <description><![CDATA[<article><h1>ShapeShift Thief Begins to Move Stolen Bitcoin</h1><p>The Bitcoin stolen from cryptocurrency exchange ShapeShift has begun to move. In March of 2016, a hacker, aided by a rogue employee, stole more than $230,000 worth of cryptocurrency from ShapeShift. Most of it has not been recovered, and the perpetrator has not yet been identified.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/461fa72d9ee4f0425bde972725440f1d/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzNjM2RmZjMxZDhlZGZjYmI3Y2FiMGI2Zjg4ZDNmNWUyLmpwZw%3D%3D.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/shapeshift-thief-begins-to-move-stolen-bitcoin</link>
-            <guid isPermaLink="false">7bad8a8f-dfdf-4cf0-b038-335c9c45a022</guid>
-            <pubDate>Sat, 09 Jul 2016 18:09:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China Trades Fewer Bitcoins As Halving Comes Closer]]></title>
-            <description><![CDATA[<article><h1>China Trades Fewer Bitcoins As Halving Comes Closer</h1><p>It is evident for everyone to see the focus in Bitcoin is on the upcoming halving as we speak. But despite this monumental event, other things are going on in the Bitcoin space as well. Trading of cryptocurrency, for example, continues as it always has.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c6b65c4baec0c3d8ebf267602d3ebe09/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_329519768.jpg"></article>]]></description>
-            <link>http://themerkle.com/china-trades-fewer-bitcoins-as-halving-comes-closer/</link>
-            <guid isPermaLink="false">3de4704f-9ddd-4216-979a-00213a71fff0</guid>
-            <pubDate>Sat, 09 Jul 2016 18:09:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
