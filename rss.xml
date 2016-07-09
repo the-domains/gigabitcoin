@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 01:31:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2016 01:31:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The W3C and MIT Media Lab Host First 'Blockchain and the Web' Workshop]]></title>
+            <description><![CDATA[<article><h1>The W3C and MIT Media Lab Host First 'Blockchain and the Web' Workshop</h1><p>In June Bitcoin Magazine covered the first Decentralized Web Summit, a gathering of developers striving to make the web open, secure and free of censorship by distributing data, processing and hosting across millions of computers around the world, with no centralized control.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fcb118f0201b8b68fa35c6e2f5db4d35/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fthe-w-c-and-mit-media-lab-host-first-blockchain-and-the-web-workshop.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/the-w-c-and-mit-media-lab-host-first-blockchain-and-the-web-workshop-1467989496</link>
+            <guid isPermaLink="false">28d5ea53-adfb-42e3-853f-94448995a04c</guid>
+            <pubDate>Sat, 09 Jul 2016 01:29:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mitsubishi invests in Blockchain | HolyTransaction]]></title>
             <description><![CDATA[<article><h1>Mitsubishi invests in Blockchain | HolyTransaction</h1><p>Today Coinbase announced that has raised $10.5m thanks to Bank of Tokyo Mitsubishi UFJ, Mitsubishi UFJ Capital and Sozo Ventures. Thanks to this move, Mitsubishi invests in blockchain applications. In a press release, Coinbase explained that this collaboration will allow to fill up the gap between the blockchain and traditional financial institutions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9b46d609540bd17e02f19a4ad01ded02/noop.jpg?input=https%3A%2F%2F4.bp.blogspot.com%2F-ojKeGHF7_qs%2FV3-uDmqa5bI%2FAAAAAAAAAm8%2Fsh-Abe-2ST0TpziFWnY_Ta4ReqGxFTqXgCLcB%2Fw1200-h630-p-nu%2Fuber-generic-corbis-news-fd-lede.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin's Big Day (And Personality Problem)</h1><p>We are just one day, one hour, and 40 something minutes away from Bitcoin's big day as I write these words. That's when the supply of coins that can be mined per block will be reduced by 50%, in a once every four years deflationary event called the "block halving".</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dfd18cf5e33c7ed05a83506cbe4e4f55/croprotate.jpg?cropheight=1000&cropwidth=1218&degrees=0&input=http%3A%2F%2Fi.huffpost.com%2Fgen%2F3570086%2Fimages%2Fo-BITCOINS-facebook.jpg&x=400&y=0"></article>]]></description>
             <link>http://www.huffingtonpost.com/david-seaman/bitcoins-big-day-and-pers_b_10888374.html</link>
             <guid isPermaLink="false">2dcb5b39-ff1b-481b-ac3c-52dd1aac676d</guid>
-            <pubDate>Sat, 09 Jul 2016 01:29:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase to Shutdown CAD Services to Canadian Customers]]></title>
-            <description><![CDATA[<article><h1>Coinbase to Shutdown CAD Services to Canadian Customers</h1><p>As of July 29, Coinbase will no longer be servicing its Canadian customers, informing them that they must change their existing CAD balances to Bitcoin or have it relocated to their bank account. The San Francisco-based company, who is a leading Bitcoin exchange, sent out an email to its customers informing them of the upcoming changes.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ad804c1e18dd7f48b73e41694d5328e4/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F05%2FUnplugged-hub.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/coinbase-shutdown-cad-services-canadian-customers/</link>
-            <guid isPermaLink="false">baf80a60-a232-4e37-91ee-12c3af8b1c16</guid>
             <pubDate>Sat, 09 Jul 2016 01:29:41 GMT</pubDate>
         </item>
     </channel>
