@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 18:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2016 18:10:34 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How can bitcoin address the serious issue of terror financing?]]></title>
+            <description><![CDATA[<article><h1>How can bitcoin address the serious issue of terror financing?</h1><p>Answer (1 of 3): Bitcoin is completely anonymous, BUT it's also completely transparent and you can trace each coin back to it's origin. In theory you (and all other users) could choose not to accept any coins which originated in an address that was identified at some point as belonging to a terro...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
+            <link>https://www.quora.com/How-can-bitcoin-address-the-serious-issue-of-terror-financing</link>
+            <guid isPermaLink="false">2a62f27f-fbdb-41b6-9c18-c2afd96f2ef7</guid>
+            <pubDate>Sat, 09 Jul 2016 18:09:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Afterhalving: What Else Can Influence Bitcoin Price]]></title>
             <description><![CDATA[<article><h1>Afterhalving: What Else Can Influence Bitcoin Price</h1><p>Reward halving is about to happen in less than hour, and the community gets oversaturated with the opinions as to what will happen to bitcoin price and the cryptocurrency itself once it occurs. Still, halving isn't the only thing capable of seriously impacting bitcoin price.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8ff863e96ea1cee186e6b7ccda2c5920/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F07%2Fbitcoinprice03.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Ethereum Devcon 2 To Kick Off Week of Exciting Conferences</h1><p>Last year, I was among the lucky ones to attend the Ethereum Devcon One conference in London. This year, the latest iteration of this event will be called Devcon 2. The event itself will take place in Asia, and run from September 19-21.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8e1b75c468225c6ec88bbe1e9fae1c5f/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_244106422.jpg"></article>]]></description>
             <link>http://themerkle.com/ethereum-devcon-2-to-kick-off-week-of-exciting-conferences/</link>
             <guid isPermaLink="false">03b1aae2-23e2-4e56-badd-b9834bcb5585</guid>
-            <pubDate>Sat, 09 Jul 2016 01:29:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The incident with 92 billion bitcoins]]></title>
-            <description><![CDATA[<article><h1>The incident with 92 billion bitcoins</h1><p>There is a documented case from 2010 when a block with 92 billion bitcoins was discovered. The bug was found and software was patched within 5 hours and everyone had to "hit the load button" to an</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/46382/the-incident-with-92-billion-bitcoins</link>
-            <guid isPermaLink="false">39abc108-2502-4b45-b62e-55f8d9755a29</guid>
             <pubDate>Sat, 09 Jul 2016 01:29:44 GMT</pubDate>
         </item>
     </channel>
