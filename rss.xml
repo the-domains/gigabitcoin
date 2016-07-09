@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 01:32:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2016 01:32:11 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[At $400 Million a Year, Researcher Argues Bitcoin Mining is Worth the Cost - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>At $400 Million a Year, Researcher Argues Bitcoin Mining is Worth the Cost - CoinDesk</h1><p>The University College London's blockchain research center has found that bitcoin's current proof-of-work (PoW) mining costs are necessary to maintain the network's trustless and decentralized nature.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/290594252525c5ce172a0e97a3326ed3/noop.jpg?input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F07%2FMining.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/400-million-year-researcher-argues-bitcoin-mining-worth-cost/</link>
+            <guid isPermaLink="false">b0e03e3d-3ec6-49cf-b3db-1c3e575a959b</guid>
+            <pubDate>Sat, 09 Jul 2016 01:29:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Newsflash: Bitcoin Price Makes a Comeback to $650]]></title>
             <description><![CDATA[<article><h1>Newsflash: Bitcoin Price Makes a Comeback to $650</h1><p>Following a steep drop that began early yesterday, bitcoin price has scaled its way back up the charts toward $650 in a continuing rally today. The Bitstamp Price Index (BPI) plateaued most of the day after a late rally last night to scale the $650 figure, following a low of $611.40, on Thursday.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/203b43fde84020a978107061fb5d5dde/croprotate.jpg?cropheight=612&cropwidth=1164&degrees=0&input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FBitstamp-BPI-080716-653.90.jpg&x=0&y=11"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Ethereum Reaches Unanimous Agreement to Hardfork</h1><p>In a historical, decentralized and defining decision, Ethereum holders have unanimously voted in favor of a hardfork to deprive the DAO thief of his ill gains and return the funds to token holders, avoiding a trainwreck just months after ethereum's release.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4aad239317080dc97a6eb6b9d8045f7a/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FRoad-split-fork.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/ethereum-reaches-unanimous-agreement-hardfork/</link>
             <guid isPermaLink="false">6296a4dd-dcb0-4ba1-bed7-d612454955c2</guid>
-            <pubDate>Sat, 09 Jul 2016 01:29:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Services Startup Vogogo to Close Payment Processing Services]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Services Startup Vogogo to Close Payment Processing Services</h1><p>Vogogo Inc., an Alberta, Canada-based company that provided payment processing and transaction risk services, announced in a press release it will close its payment processing operation and sell off assets after struggling to find ways to enhance shareholder value. The company developed software for multiple electronic payments, including peer-to-peer and online banking systems, pre-authorized debit, card payments and direct deposit.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a28a52d06ba5d157c1828c23bc02dc91/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FLight-bulb-offline.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-services-vogogo-closing-payment-processing/</link>
-            <guid isPermaLink="false">d5b871ce-c39f-42ae-a601-f04184d1d62e</guid>
             <pubDate>Sat, 09 Jul 2016 01:29:43 GMT</pubDate>
         </item>
     </channel>
