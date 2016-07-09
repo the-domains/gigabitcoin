@@ -4,7 +4,7 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 01:30:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2016 01:30:11 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wolf Has Publicly Released OpenCL Optimized Kernels]]></title>
@@ -18,6 +18,13 @@
             <description><![CDATA[<article><h1>Bitcoin Miners Face Fight for Survival as New Supply Halves</h1><p>Marco Streng is a miner, though he does not carry a pick around his base in south-western Iceland. Instead, he keeps tens of thousands of computers running 24 hours a day in fierce competition with others across the globe to earn bitcoins.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a152b451d2cbbff83d7058a4409b73e6422ed92.jpg"></article>]]></description>
             <link>http://fortune.com/2016/07/08/bitcoin-miners-fight-survival-supply-halves/</link>
             <guid isPermaLink="false">f3d93c9b-271c-451f-9784-69dfdec122e2</guid>
+            <pubDate>Sat, 09 Jul 2016 01:29:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cryptsy's Big Vern Allegedly Speaks to Press - Bitcoin News]]></title>
+            <description><![CDATA[<article><h1>Cryptsy's Big Vern Allegedly Speaks to Press - Bitcoin News</h1><p>According to the Miami New Times, Cryptsy founder Paul Vernon, otherwise known as "Big Vern," has spoken to the publication while in hiding. The New Times ran a report on Cryptsy last week, and according to Vernon's wife he dipped off to China with a girlfriend.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fd9a3346e5d333d32fceabd3f1fd2064/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FCryptsys-Big-Vern-Allegedly-Speaks-To-Press.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/cryptsy-big-vern-speaks-press/</link>
+            <guid isPermaLink="false">bec226f6-3514-4329-9a2e-33a189905a4c</guid>
             <pubDate>Sat, 09 Jul 2016 01:29:39 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><img src="https://i.redd.it/uihngeurjw7x.jpg"></article>]]></description>
             <link>https://i.redd.it/uihngeurjw7x.jpg</link>
             <guid isPermaLink="false">022a7499-7604-4559-b8c1-d23377268a66</guid>
-            <pubDate>Fri, 08 Jul 2016 13:16:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brexit Turns Bitcoin Into an Unlikely Haven Currency: Chart]]></title>
-            <description><![CDATA[<article><h1>Brexit Turns Bitcoin Into an Unlikely Haven Currency: Chart</h1><p>While bitcoin is not exactly regarded as stable - it's bounced around between $2 and $1,137 over the past five years - it's become an unlikely haven for currency investors in the aftermath of Brexit. On Tuesday, the 10-day historical volatility of bitcoin dropped below the pound's.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0e9b2fa28b9a58071013c45e0311cc6e5e7fc7e.jpg"></article>]]></description>
-            <link>http://www.bloomberg.com/news/articles/2016-07-08/brexit-turns-bitcoin-into-an-unlikely-haven-currency-chart</link>
-            <guid isPermaLink="false">7f297a97-1307-4e64-92b4-e6a79b861b42</guid>
             <pubDate>Fri, 08 Jul 2016 13:16:43 GMT</pubDate>
         </item>
     </channel>
