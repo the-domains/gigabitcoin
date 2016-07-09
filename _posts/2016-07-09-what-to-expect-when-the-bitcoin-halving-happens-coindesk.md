@@ -40,10 +40,10 @@ description: >-
   never to increase again.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.coindesk.com/bitcoin-halving-2016-what-to-expect-traders-miners/'
+isBasedOnUrl: 'http://www.coindesk.com/expect-halving-occurs/'
 title: What to Expect When the Bitcoin Halving Happens - CoinDesk
-datePublished: '2016-07-09T01:29:41.021Z'
-dateModified: '2016-07-08T20:14:39.231Z'
+datePublished: '2016-07-09T01:29:41.932Z'
+dateModified: '2016-07-08T17:15:46.060Z'
 starred: false
 sourcePath: _posts/2016-07-09-what-to-expect-when-the-bitcoin-halving-happens-coindesk.md
 inFeed: true
