@@ -4,8 +4,43 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 18:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2016 18:11:23 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New features for your Blockchain Wallet]]></title>
+            <description><![CDATA[<article><h1>New features for your Blockchain Wallet</h1><p>In this post, we'll be introducing two new features that we hope will make it easier for you to stay in the loop on the latest updates to our wallet, plus make it easier to manage and budget your funds. The first is our What's New section, where you can check in to see details on the latest wallet updates.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fb338036b2f5b978b37ccbba41ed451d/noop.png?input=https%3A%2F%2Fblog.blockchain.com%2Fwp-content%2Fuploads%2F2016%2F07%2FWhats-New2.png"></article>]]></description>
+            <link>https://blog.blockchain.com/2016/07/08/new-features-for-your-blockchain-wallet/</link>
+            <guid isPermaLink="false">48c7e717-0ed6-4cab-9d7f-c6b78facf6ce</guid>
+            <pubDate>Sat, 09 Jul 2016 18:09:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FIBRE Fast Internet Bitcoin Relay Engine]]></title>
+            <description><![CDATA[<article><h1>FIBRE Fast Internet Bitcoin Relay Engine</h1><p>Because TCP is designed to provide reliable transmission at reasonable bandwidth across medium-large amounts of data, it is incredibly bad at low-latency relay of small amounts of data. It is generally tuned to send packets (each just under 1500 bytes) once and to only discover that some packets were lost after getting a response from the other side.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b4fb574d5e2525e7501f3b1c2961f2a2/noop.jpg?input=http%3A%2F%2Fbitcoinfibre.org%2Fimg%2Fsplash.jpg"></article>]]></description>
+            <link>http://bitcoinfibre.org/</link>
+            <guid isPermaLink="false">1baf4e28-919e-4dc3-bcaa-fbe19483f20f</guid>
+            <pubDate>Sat, 09 Jul 2016 18:09:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How does bitcoin address work?]]></title>
+            <description><![CDATA[<article><h1>How does bitcoin address work?</h1><p>Answer (1 of 2): When you create an account on a website (localbitcoins, Coinbase, or butquick) they attribute a unique Bitcoin address to your account, so you can receive your bitcoins after you purchased them. The Bitcoins are not saved in a website database as integers or values, but in the B...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
+            <link>https://www.quora.com/How-does-bitcoin-address-work</link>
+            <guid isPermaLink="false">5e9255db-44e6-4f73-99a2-aba1b242396d</guid>
+            <pubDate>Sat, 09 Jul 2016 18:09:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chinese Miners' Influence on the Future of Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Chinese Miners' Influence on the Future of Bitcoin</h1><p>As the bitcoin community seeks consensus on how to address bitcoin transaction time, a meeting this month in Silicon Valley could indicate how likely the chances are for consensus, according to Bloomberg. The proceedings will likely reflect the impact of China's miners, who are estimated to control 70 percent of all bitcoin mining.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0fe98178ab174f37bc55411e23277636312303e8.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/chinese-miners-influence-on-the-future-of-bitcoin/</link>
+            <guid isPermaLink="false">451e085a-8736-4564-a129-e23e65ca86b7</guid>
+            <pubDate>Sat, 09 Jul 2016 18:09:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Mining Company Admits Halving Will Affect Miners Payout From Monday]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Mining Company Admits Halving Will Affect Miners Payout From Monday</h1><p>A day to block reward halving, Hashflare has become one of the first Bitcoin mining companies to inform their miners that the proposed reduction in the mining reward will affect their payout, though it didn't say by how much.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cf415e80a326bd06a7c0397b58533ccc/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3L2FjY2VhYWUwZGZjNjJmNWJiNjY2YTQzYTVjZjE4ZGI4LmpwZw%3D%3D.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/bitcoin-mining-company-admits-halving-will-affect-miners-payout-from-monday</link>
+            <guid isPermaLink="false">b797db7c-6979-4ef3-8bae-3700bbffb56b</guid>
+            <pubDate>Sat, 09 Jul 2016 18:09:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[U.S. Gov't Announces Blockchain Healthcare Contest]]></title>
             <description><![CDATA[<article><h1>U.S. Gov't Announces Blockchain Healthcare Contest</h1><p>It seems the U.S. government is going all in on blockchain technology, as the Department of Health and Human Services (HHS) just Also read: Governments & Central Banks are Now Funding Blockchain Research announced its distributed ledger contest that applies the technology to healthcare services.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/297a782601f050debb18b36a64c8eb11/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FU.S.-Government-Holds-Blockchain-Based-Healthcare-Contest.jpg"></article>]]></description>
@@ -39,41 +74,6 @@
             <description><![CDATA[<p>@drwasho @kristovatlas The community fracture is even more disconcerting. Censorship? Among cypherpunks? Boot theymos & crew already.</p>]]></description>
             <link>https://twitter.com/el33th4xor/status/749123919773216768</link>
             <guid isPermaLink="false">c1e303cc-9e5f-41d3-bc36-ebacbd34e37a</guid>
-            <pubDate>Sat, 09 Jul 2016 18:09:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Industry CEO's Discuss The Bitcoin Halving Effect]]></title>
-            <description><![CDATA[<article><h1>Industry CEO's Discuss The Bitcoin Halving Effect</h1><p>The Bitcoin halving is on everybody's mind today, and it will be interesting to see how this will affect the ecosystem. Short-term effects are not expected by most people, albeit one never knows what the free market is up to. Various Bitcoin company CEO's have reached out to us with comments, so let's see what they have to say.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ad13ef6da7c064f96c10724057304a39/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_393303946.jpg"></article>]]></description>
-            <link>http://themerkle.com/industry-ceos-discuss-the-bitcoin-halving-effect/</link>
-            <guid isPermaLink="false">4a3b6e2c-7c35-422f-87a7-0076778dcf7f</guid>
-            <pubDate>Sat, 09 Jul 2016 18:09:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ShapeShift Thief Begins to Move Stolen Bitcoin]]></title>
-            <description><![CDATA[<article><h1>ShapeShift Thief Begins to Move Stolen Bitcoin</h1><p>The Bitcoin stolen from cryptocurrency exchange ShapeShift has begun to move. In March of 2016, a hacker, aided by a rogue employee, stole more than $230,000 worth of cryptocurrency from ShapeShift. Most of it has not been recovered, and the perpetrator has not yet been identified.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/461fa72d9ee4f0425bde972725440f1d/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzNjM2RmZjMxZDhlZGZjYmI3Y2FiMGI2Zjg4ZDNmNWUyLmpwZw%3D%3D.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/shapeshift-thief-begins-to-move-stolen-bitcoin</link>
-            <guid isPermaLink="false">7bad8a8f-dfdf-4cf0-b038-335c9c45a022</guid>
-            <pubDate>Sat, 09 Jul 2016 18:09:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China Trades Fewer Bitcoins As Halving Comes Closer]]></title>
-            <description><![CDATA[<article><h1>China Trades Fewer Bitcoins As Halving Comes Closer</h1><p>It is evident for everyone to see the focus in Bitcoin is on the upcoming halving as we speak. But despite this monumental event, other things are going on in the Bitcoin space as well. Trading of cryptocurrency, for example, continues as it always has.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c6b65c4baec0c3d8ebf267602d3ebe09/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_329519768.jpg"></article>]]></description>
-            <link>http://themerkle.com/china-trades-fewer-bitcoins-as-halving-comes-closer/</link>
-            <guid isPermaLink="false">3de4704f-9ddd-4216-979a-00213a71fff0</guid>
-            <pubDate>Sat, 09 Jul 2016 18:09:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Live Blog: Bitcoin Halving - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Live Blog: Bitcoin Halving - CoinDesk</h1><p>The bitcoin block reward is set to fall from 25 bitcoins to 12.5 bitcoins in just a few hours. The event, which happens roughly every four years, represents a major shift in the mining landscape, and speculation has swirled about what impact the reward drop will have on the bitcoin mining ecosystem.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e306e927d2ba09941ba366c7fdc5b984/croprotate.jpg?cropheight=934&cropwidth=1500&degrees=0&input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F07%2FLive-Blog.jpg&x=0&y=0"></article>]]></description>
-            <link>http://www.coindesk.com/live-blog-bitcoin-halving/</link>
-            <guid isPermaLink="false">fe308064-47d1-4a42-b279-5595a73bb74f</guid>
-            <pubDate>Sat, 09 Jul 2016 18:09:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin supply gets cut in half, and 'miners' scramble to adjust]]></title>
-            <description><![CDATA[<article><h1>Bitcoin supply gets cut in half, and 'miners' scramble to adjust</h1><p>Courtesy itunes.apple.com Marco Streng is a miner, though he does not carry a pick around his base in south-western Iceland. Instead, he keeps tens of thousands of computers running 24 hours a day in fierce competition with others across the globe to earn bitcoins.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e7175ccc9db29e06f34a277aa55d2e7f/croprotate.jpg?cropheight=999&cropwidth=1910&degrees=0&input=http%3A%2F%2Ffm.cnbc.com%2Fapplications%2Fcnbc.com%2Fresources%2Fimg%2Feditorial%2F2016%2F05%2F16%2F103639283-20160511-2963-2159.1910x1000.jpg&x=0&y=0"></article>]]></description>
-            <link>http://www.cnbc.com/2016/07/09/bitcoin-miners-face-fight-for-survival-as-new-supply-halves.html</link>
-            <guid isPermaLink="false">ee22ca2b-7cd2-4c42-9d7b-d5e9c559ca8e</guid>
             <pubDate>Sat, 09 Jul 2016 18:09:50 GMT</pubDate>
         </item>
     </channel>
