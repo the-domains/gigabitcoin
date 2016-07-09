@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 01:32:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2016 01:32:00 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Ethereum Devcon 2 To Kick Off Week of Exciting Conferences]]></title>
-            <description><![CDATA[<article><h1>Ethereum Devcon 2 To Kick Off Week of Exciting Conferences</h1><p>Last year, I was among the lucky ones to attend the Ethereum Devcon One conference in London. This year, the latest iteration of this event will be called Devcon 2. The event itself will take place in Asia, and run from September 19-21.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8e1b75c468225c6ec88bbe1e9fae1c5f/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_244106422.jpg"></article>]]></description>
-            <link>http://themerkle.com/ethereum-devcon-2-to-kick-off-week-of-exciting-conferences/</link>
-            <guid isPermaLink="false">03b1aae2-23e2-4e56-badd-b9834bcb5585</guid>
-            <pubDate>Sat, 09 Jul 2016 01:29:44 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[The incident with 92 billion bitcoins]]></title>
             <description><![CDATA[<article><h1>The incident with 92 billion bitcoins</h1><p>There is a documented case from 2010 when a block with 92 billion bitcoins was discovered. The bug was found and software was patched within 5 hours and everyone had to "hit the load button" to an</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Bitcoin Price Watch; Heading Into The Weekend - NEWSBTC</h1><p>Here's what's on as we head into the weekend in the bitcoin price, and a live trade. The week has now completed, and it's time to take one last look at the bitcoin price before things draw to a close.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/52df46ca339b706f723058660bc5e4ba/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F08165041%2FScreen-Shot-2016-07-08-at-17.48.18.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/07/08/bitcoin-price-watch-heading-weekend/</link>
             <guid isPermaLink="false">156a8e8e-c159-4c54-af82-c8a5610dfc59</guid>
+            <pubDate>Sat, 09 Jul 2016 01:29:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitfury Introduces 'Flare' Routing Solution for Lightning Network]]></title>
+            <description><![CDATA[<article><h1>Bitfury Introduces 'Flare' Routing Solution for Lightning Network</h1><p>Bitfury Group Also read: Coinbase Integrates PayPal to Broaden its Reach has recently introduced a 40-page white paper, which proposes a routing solution for the Lightning Network (LN). Dubbed "Flare," the concept is an approach to payment routing that involves nodes gathering data concerning the LN topology.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7c2d2b3aae6fd879d34b1e0cd7cba0e6/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FLN.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/bitfury-introduces-flare-lightning/</link>
+            <guid isPermaLink="false">e95fd332-78c0-4d8d-997d-7e5cecb838f2</guid>
             <pubDate>Sat, 09 Jul 2016 01:29:43 GMT</pubDate>
         </item>
     </channel>
