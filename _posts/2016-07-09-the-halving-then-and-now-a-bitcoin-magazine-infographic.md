@@ -1,25 +1,25 @@
 ---
 author:
-  - name: Bitcoin Magazine
-    url: 'http://www.nasdaq.com/author/bitcoin-magazine'
+  - name: by Aaron van Wirdum
+    url: 'https://bitcoinmagazine.com/authors/aaron-van-wirdum'
     avatar: {}
 related: []
 publisher:
-  url: 'http://www.nasdaq.com'
-  name: NASDAQ.com
-  favicon: 'http://www.nasdaq.com/images/qfav.ico'
-  domain: www.nasdaq.com
+  url: 'https://bitcoinmagazine.com'
+  name: Bitcoin Magazine
+  favicon: 'https://fs.bitcoinmagazine.com/ico/favicon.ico'
+  domain: bitcoinmagazine.com
 keywords:
   - bitcoin
   - halving
   - reward
   - mining
-  - opinions
   - block
-  - herein
-  - views
   - milestone
   - conceivable
+  - sensational
+  - spectacular
+  - matured
 description: >-
   A milestone in Bitcoin's history, the block reward will be halved for the
   second time today. Where the first "halving" cut the mining reward from 50
@@ -28,10 +28,10 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  http://www.nasdaq.com/article/the-halving-then-now-a-bitcoin-magazine-infographic-cm646839
+  https://bitcoinmagazine.com/articles/the-halving-then-now-a-bitcoin-magazine-infographic-1468082535
 title: 'The Halving: Then & Now - a Bitcoin Magazine Infographic'
-datePublished: '2016-07-09T20:42:47.997Z'
-dateModified: '2016-07-09T19:45:25.038Z'
+datePublished: '2016-07-09T20:42:49.113Z'
+dateModified: '2016-07-09T18:38:12.452Z'
 starred: false
 sourcePath: _posts/2016-07-09-the-halving-then-and-now-a-bitcoin-magazine-infographic.md
 inFeed: true
