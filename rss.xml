@@ -7,6 +7,13 @@
         <lastBuildDate>Sat, 09 Jul 2016 01:30:13 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Renowned Futurists Merkle, Hanson on the Future of Government Using DAOs and Prediction Markets]]></title>
+            <description><![CDATA[<article><h1>Renowned Futurists Merkle, Hanson on the Future of Government Using DAOs and Prediction Markets</h1><p>In May, Bitcoin Magazine covered the spectacular launch of The DAO, a new kind of organization created and run using blockchain software rather than conventional corporate structures. The DAO ‒ an acronym for Distributed Autonomous Organization ‒ is similar to an open venture capital fund based on Ethereum smart contracts and rapidly became the world's largest crowdfunding to date.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/87524c3b8ac3675e07b3dd02ec32bee2/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Frenowned-futurists-merkle-hanson-on-the-future-of-government-using-daos-and-prediction-markets.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/renowned-futurists-merkle-hanson-on-the-future-of-government-using-daos-and-prediction-markets-1468009940</link>
+            <guid isPermaLink="false">adf02262-42cc-42ae-a96c-387baecd5158</guid>
+            <pubDate>Sat, 09 Jul 2016 01:29:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Security Experts Warn Bitcoin Users After Recent Spate of Attacks]]></title>
             <description><![CDATA[<article><h1>Security Experts Warn Bitcoin Users After Recent Spate of Attacks</h1><p>The gradual increase in popularity of Bitcoin over the last 12 months has been great for those who jumped on the bandwagon back in 2009. However, as with all industries that start to gain some coverage in the mainstream media, security has now become an issue for Bitcoin business owners and users.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8300f3a2115fbe2c5d5164becce96bd4/noop.jpg?input=https%3A%2F%2Ffarm6.staticflickr.com%2F5319%2F5914558006_56e0af3592_b.jpg"></article>]]></description>
             <link>http://themerkle.com/security-experts-warn-bitcoin-users-after-recent-spate-of-attacks/</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Wolf Has Publicly Released OpenCL Optimized Kernels</h1><p>Released under the MIT license for educational purposes, the collected kernels of Wolf are now available on GitHub for public download. The list includes optimized OpenCL kernels for a number of crypto algorithms: AES, Blake, BMW, CubeHash, Echo, Fugue, Groestl, Hamsi, JH, Luffa, Shabal, Shavite, Simd, Skein and Whirlpool.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0b29777ddd84f8ff1b208727e7b27ba1/noop.jpg?input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fwolf-optimized-kernels-580x313.jpg"></article>]]></description>
             <link>http://cryptomining-blog.com/8071-wolf-has-publicly-released-opencl-optimized-kernels/</link>
             <guid isPermaLink="false">a5c0bbcb-cd07-41ca-ac70-ba9e738b713f</guid>
-            <pubDate>Sat, 09 Jul 2016 01:29:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Miners Face Fight for Survival as New Supply Halves]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Miners Face Fight for Survival as New Supply Halves</h1><p>Marco Streng is a miner, though he does not carry a pick around his base in south-western Iceland. Instead, he keeps tens of thousands of computers running 24 hours a day in fierce competition with others across the globe to earn bitcoins.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a152b451d2cbbff83d7058a4409b73e6422ed92.jpg"></article>]]></description>
-            <link>http://fortune.com/2016/07/08/bitcoin-miners-fight-survival-supply-halves/</link>
-            <guid isPermaLink="false">f3d93c9b-271c-451f-9784-69dfdec122e2</guid>
             <pubDate>Sat, 09 Jul 2016 01:29:39 GMT</pubDate>
         </item>
     </channel>
