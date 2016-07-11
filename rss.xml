@@ -7,6 +7,13 @@
         <lastBuildDate>Mon, 11 Jul 2016 14:03:23 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Bitcoin rewards halve for virtual cash money miners - BBC News]]></title>
+            <description><![CDATA[<article><h1>Bitcoin rewards halve for virtual cash money miners - BBC News</h1><p>The financial rewards for being involved with the Bitcoin virtual currency have been halved. Before 9 July, a regular reward of 25 bitcoins was handed out to those who were first to verify which coins had been spent. Now, the leading team of "miners" who verify a chunk of global transactions will receive only 12.5 bitcoins.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/676bf06d50701d28af7c3b215615696dc6459d2c.jpg"></article>]]></description>
+            <link>http://www.bbc.co.uk/news/technology-36763524</link>
+            <guid isPermaLink="false">8dfff449-cb3b-4b98-b666-eb42379f16e9</guid>
+            <pubDate>Mon, 11 Jul 2016 14:02:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bitcoin Scaling Event Set for Third Installment in Italy - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Bitcoin Scaling Event Set for Third Installment in Italy - CoinDesk</h1><p>A conference series started as a bid to better unite and focus the bitcoin development community in the wake of serious technical debates will see a third installment in 2016. Following two meetings in Montreal and Hong Kong last year, Scaling Bitcoin will host its next event in Milan, Italy, from 8th to 9th October, organizers announced over the weekend.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/99d85c2d12cf7a65384cf304fb9226e0/noop.jpg?input=https%3A%2F%2Fmedia-hop.coindesk.com%2Fuploads%2F2015%2F09%2FIMG_8235-e1442094357457.jpg"></article>]]></description>
             <link>http://www.coindesk.com/bitcoin-scaling-conference-italy/</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How a private key can be invalid?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/46438/how-a-private-key-can-be-invalid</link>
             <guid isPermaLink="false">ab473710-4c43-4304-aa55-317819cf42e0</guid>
-            <pubDate>Mon, 11 Jul 2016 04:49:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US Department of Homeland Security Talks Blockchain R&D - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>US Department of Homeland Security Talks Blockchain R&D - CoinDesk</h1><p>The science and technology division of the US government department created in the wake of the 9/11 terrorist attacks is increasingly taking an interest in blockchain technology.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e2e95f392a92c6b60e93ca7713d79838/noop.jpg?input=http%3A%2F%2Fmedia.coindesk.com%2F2016%2F07%2FDHS-homeland-security-e1467914445805.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/department-of-homeland-security-blockchain/</link>
-            <guid isPermaLink="false">66540612-05b3-4526-9ef8-3fc50bff8f9a</guid>
             <pubDate>Mon, 11 Jul 2016 04:49:15 GMT</pubDate>
         </item>
     </channel>
