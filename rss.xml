@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 13:42:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2016 13:42:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[BitPay Gives Vote of Approval To Altcoins, ShapeShift]]></title>
-            <description><![CDATA[<article><h1>BitPay Gives Vote of Approval To Altcoins, ShapeShift</h1><p>Leading Bitcoin payment processor, BitPay, recently endorsed an innovative Bitcoin company, ShapeShift. In a blog post, the company described how one could use ShapeShift to pay for things in crypto-currencies other than Bitcoin through BitPay. ShapeShift CEO Erik Vorhees calls the website, "the Google Translate of crypto-currencies" referring to how easy it is to transfer from one crypto-currency to another.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e71ca3b1d3a0ebe3540d0072345b70b1/noop.png?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2015%2F05%2FBitPay_logo.png"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitpay-gives-vote-approval-shapeshift-altcoins/</link>
-            <guid isPermaLink="false">b3de5b28-1423-46db-9ef5-4ab6a8de9f67</guid>
-            <pubDate>Tue, 12 Jul 2016 13:41:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NetCents Enters Caribbean following Partnership with Bitt]]></title>
-            <description><![CDATA[<article><h1>NetCents Enters Caribbean following Partnership with Bitt</h1><p>Canadian online payment processor NetCents has indicated its entry into the Caribbean by partnering with Bitt Inc., a local digital currency exchange. The company, which last week had announced a partnership with Bitcoin exchange BitStamp, revealed how it is planning to expand its services among the next-generation markets such as Bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/036efaef1107ff061e5fc71d732c0eaf/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F05140115%2FNetCents.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/12/netcents-forges-a-new-partnership-with-bitt-com-from-caribbean/</link>
-            <guid isPermaLink="false">e3f221b0-8e03-4cbb-a2c4-b76e6cbb2f7f</guid>
-            <pubDate>Tue, 12 Jul 2016 13:41:50 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Kim Dotcom: Megaupload and Bitcoin Had Sex, Baby Will Be Such a Joy]]></title>
             <description><![CDATA[<article><h1>Kim Dotcom: Megaupload and Bitcoin Had Sex, Baby Will Be Such a Joy</h1><p>Megaupload will be back soon, and this time, it will involve Bitcoin. Kim Dotcom, founder of the former popular filesharing website, announced the planned union of the site's second coming with cryptocurrency via a saucy metaphor on Twitter: I can tell you that Megaupload and Bitcoin had sex.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f17658ba9b97ffa32216408856c858c0/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3Lzg3ZjAxNjZlY2M0NjYyN2E5YmIxMGQ0OWE0ZmU4MGYzLmpwZw%3D%3D.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>https://www.cryptocoinsnews.com/kim-dotcom-megaupload-bitcoin/</link>
             <guid isPermaLink="false">8a290c68-649a-4695-832d-ffc30c6d9d0b</guid>
             <pubDate>Tue, 12 Jul 2016 03:21:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are some possible applications of blockchain?]]></title>
+            <description><![CDATA[<article><h1>What are some possible applications of blockchain?</h1><p>Answer: I would start from Brian Forde's answer to What problems can blockchain generalizably solve? It is a general answer but it encapsulates a large range of possible applications.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
+            <link>https://www.quora.com/What-are-some-possible-applications-of-blockchain</link>
+            <guid isPermaLink="false">e5cb2772-f58d-496d-8a9b-d5304122ed95</guid>
+            <pubDate>Tue, 12 Jul 2016 03:21:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is there a transaction fee that Bitcoin exchanges charge for converting bitcoins?]]></title>
+            <description><![CDATA[<article><h1>Is there a transaction fee that Bitcoin exchanges charge for converting bitcoins?</h1><p>Answer (1 of 3): Yes. That's how (i think) all bitcoin exchanges make their money. They charge a fee the instance your buy/sell order is filled. So generally smaller exchanges that have lower volumes will charge larger fees (> 1%) and larger exchanges doing larger volumes tend to charge lower fe...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
+            <link>https://www.quora.com/Is-there-a-transaction-fee-that-Bitcoin-exchanges-charge-for-converting-bitcoins</link>
+            <guid isPermaLink="false">7bfd2821-da1b-488f-848b-60f911c996d7</guid>
+            <pubDate>Tue, 12 Jul 2016 03:21:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
