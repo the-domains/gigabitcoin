@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 13:42:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2016 13:42:25 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sia CUDA Miner For Mining Siacoin (SC) on Nvidia GPUs]]></title>
+            <description><![CDATA[<article><h1>Sia CUDA Miner For Mining Siacoin (SC) on Nvidia GPUs</h1><p>Sia CUDA Miner is a GPU miner designed for mining Siacoins on Nvidia GPUs using CUDA instead of OpenCL like on the Siacoin Go pool miner. The Sia CUDA Miner is being developed by KlausT ( source) and works pretty well already, though it still needs some more work in terms of available features and in terms of performance optimizations.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/12fee807c2e93191b8f20172841797ef/noop.jpg?input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fsia-cuda-miner-580x293.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/8085-sia-cuda-miner-for-mining-siacoin-sc-on-nvidia-gpus/</link>
+            <guid isPermaLink="false">0d22aacb-ea0a-4277-bce5-62fc720e8eb9</guid>
+            <pubDate>Tue, 12 Jul 2016 13:41:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>@bit_novosti @rogerkver @ErikVoorhees @gavinandresen @VitalikButerin @jgarzik 300MB block is a big block. 4MB block is a small block.</p>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Jigsaw Ransomware Can be Tricked To Believe A Bitcoin Payment Was Made</h1><p>Ransomware is a threat to computer users and enterprise networks all over the world. This ongoing battle between Internet criminals and security researchers has been a matter of one-upping one another. Jigsaw, a relatively new type of ransomware, has been decrypted once again. This may only be a temporary reprieve, though.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8b30a497845189da0db043132071d8a8/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_120012388.jpg"></article>]]></description>
             <link>http://themerkle.com/jigsaw-ransomware-can-be-tricked-to-believe-a-bitcoin-payment-was-made/</link>
             <guid isPermaLink="false">66c85dc1-b37c-4742-96e8-e2694ec73a13</guid>
-            <pubDate>Tue, 12 Jul 2016 13:41:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Poised for a Breakout, Technical Analysis Shows]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Poised for a Breakout, Technical Analysis Shows</h1><p>A technical analysis chart of bitcoin prices suggests that the digital currency's value is likely to shoot higher. Also read: Is Technical Analysis a Suitable Tool for Bitcoin? The technical analysis chart of Bitstamp's recent closing prices, originally published on Sober Look, shows that a triangular pattern known to technical analysts as a pennant has formed.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/24ddbf4b48662918906d58b1ccd0d615/noop.png?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2Ftechnical-analysis.png"></article>]]></description>
-            <link>https://news.bitcoin.com/bitcoin-breakout-technical-analysis/</link>
-            <guid isPermaLink="false">1f5a7c09-0475-428e-a021-22e133215936</guid>
             <pubDate>Tue, 12 Jul 2016 13:41:50 GMT</pubDate>
         </item>
     </channel>
