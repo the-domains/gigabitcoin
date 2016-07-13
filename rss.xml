@@ -4,7 +4,7 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 05:46:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 05:46:48 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bitcoin Volatility Compared to Pound Sterling - NEWSBTC]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.newsbtc.com/2016/07/13/bitcoin-volatility-compared-pound-sterling/</link>
             <guid isPermaLink="false">58441650-0b1a-4f9e-a59b-61d2ae789cf7</guid>
             <pubDate>Wed, 13 Jul 2016 05:46:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin-Based P2P Lending App CredibleFriends Raises 40% Of $250,000 Crowdfunding Goal]]></title>
-            <description><![CDATA[<article><h1>Bitcoin-Based P2P Lending App CredibleFriends Raises 40% Of $250,000 Crowdfunding Goal</h1><p>CredibleFriends, a P2P lending app that lets people lend bitcoin to friends, has raised $100,006 of its $250,000 fundraising goal on BnkToTheFuture, surpassing the $100,000 needed by July 15 to ensure the funds pledged will be deposited. The app allows users to extend credit to friends and earn interest in the process.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/37d95115b2cff9c4d8f540ca3af53827/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F01%2Fgrowth-money-investment.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-based-p2p-lending-app-crediblefriends-raises-40-250000-crowdfunding-goal/</link>
-            <guid isPermaLink="false">739f220a-4029-4eaa-8411-0bb97750c266</guid>
-            <pubDate>Wed, 13 Jul 2016 05:46:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ethereum Price Technical Analysis - Trend Line As Barrier For ETH - NEWSBTC]]></title>
@@ -75,6 +68,13 @@
             <link>http://tech.firstpost.com/news-analysis/bitcoin-goes-through-halving-event-value-drops-by-5-percent-324850.html</link>
             <guid isPermaLink="false">31c41150-3c65-4eb3-83c4-ddd25314fbeb</guid>
             <pubDate>Wed, 13 Jul 2016 00:38:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Want Higher Returns? Invest In Bitcoin, Say ARK's Chris Burniske And Coinbase's Adam White]]></title>
+            <description><![CDATA[<article><h1>Want Higher Returns? Invest In Bitcoin, Say ARK's Chris Burniske And Coinbase's Adam White</h1><p>Invest in oil and gold? In this episode of the Unchained podcast, the co-authors of a compelling white paper explain why you may soon be investing in digital oil and digital gold instead.</p></article>]]></description>
+            <link>http://www.forbes.com/sites/laurashin/2016/07/12/want-higher-returns-invest-in-bitcoin-say-arks-chris-burniske-and-coinbases-adam-white/</link>
+            <guid isPermaLink="false">b92f6a93-92f4-462b-a45f-bda49df94c40</guid>
+            <pubDate>Wed, 13 Jul 2016 00:38:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
