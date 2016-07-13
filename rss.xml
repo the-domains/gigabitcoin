@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 15:01:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 15:01:52 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[US Regulator Warns Virtual Currency is Enabling Cyberattacks Against Banks - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>US Regulator Warns Virtual Currency is Enabling Cyberattacks Against Banks - CoinDesk</h1><p>The federal agency that oversees national banks in the US has named virtual currencies an operational risk due to their perceived role in facilitating and enabling cybercrime. Part of its newly released semiannual risk survey, the US Office of the Comptroller of the Currency ( OCC) warned that virtual currencies continue to be used as payment in extortion efforts by criminals aimed at banks and other businesses.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/30cb75e8267f33541e3f8daf5e1179be/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F03%2FOCC.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/occ-semiannual-risk-survey-virtual-currency/</link>
+            <guid isPermaLink="false">99911317-6ef2-4dc5-b321-ab218ee64d9c</guid>
+            <pubDate>Wed, 13 Jul 2016 15:01:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How can I find a Bitcoin address from the transaction time and amount?]]></title>
             <description><![CDATA[<article><h1>How can I find a Bitcoin address from the transaction time and amount?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top If I know the time of the transaction down to the minute and the amount of Bitcoin, how can I find the transaction id (or transaction ids, assuming there is more than one)?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Google: Today's Encryption May Not Survive Tomorrow's Attacks</h1><p>It is 'deja vu' all over again as Google prepares for a future that seems inevitable. Like the millennium bug of the late 90s, Practical Quantum Computing looks like the next big turn in this era of internet security and encryption.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/14a87a29486ea3b9504afcf5a4137567/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3LzQ1ZWRlMDhhZDI2YWFjM2Y1N2FjMjI3NzRhODUxYWM2LmpwZw%3D%3D.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/google-todays-encryption-may-not-survive-tomorrows-attacks</link>
             <guid isPermaLink="false">9185cb59-cfc4-4f25-9d1a-375e39a2c087</guid>
-            <pubDate>Wed, 13 Jul 2016 13:17:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Halving Affect Bitcoin Price? Technical Analysis Says Maybe]]></title>
-            <description><![CDATA[<article><h1>Will Halving Affect Bitcoin Price? Technical Analysis Says Maybe</h1><p>A solid rise has made its way into the bitcoin books. Following our previous price piece, bitcoin was hovering around $645 but has now shot up to about $672 at press time.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8e193c618fef48eb5ea95c58166e946b/croprotate.jpg?cropheight=775&cropwidth=1300&degrees=0&input=https%3A%2F%2Fbtcmanager.com%2Fwp-content%2Fuploads%2F2015%2F12%2FBitcoin-halving-drives-prices-up.jpg&x=0&y=0"></article>]]></description>
-            <link>http://bitcoinist.net/halving-bitcoin-price-technical-analysis/</link>
-            <guid isPermaLink="false">609db69f-172d-4d59-aa0c-3d463a466255</guid>
             <pubDate>Wed, 13 Jul 2016 13:17:02 GMT</pubDate>
         </item>
     </channel>
