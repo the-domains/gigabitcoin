@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 13:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 13:17:54 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[When we can agree on mempool sorting order, we can just confirm first n-transactions that are at least 10 mins old. What's missing?]]></title>
+            <description><![CDATA[<article><h1>When we can agree on mempool sorting order, we can just confirm first n-transactions that are at least 10 mins old. What's missing?</h1><p>When we can agree on a mempool sorting order, we can just confirm first n-transactions (or 80% of transactions) that are at least 10 minutes old. Then, we can transfer (broadcast) the block header and a hash to the set of all confirmed transactions. Just consider this as an aggressive version of BIP152, compact blocks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46414/when-we-can-agree-on-mempool-sorting-order-we-can-just-confirm-first-n-transact</link>
+            <guid isPermaLink="false">efa0e113-3b46-4788-a992-0cf6d38b1085</guid>
+            <pubDate>Wed, 13 Jul 2016 13:17:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Surpasses Gold Trading in Brazil | Fernando Ulrich]]></title>
             <description><![CDATA[<article><h1>Bitcoin Surpasses Gold Trading in Brazil | Fernando Ulrich</h1><p>The big difference is the thousand years track record of gold against just seven years of bitcoin. During the first six months of 2016, bitcoin trading volume on Brazilian crypto exchanges surpassed that of gold spot trading on the Brazilian Securities, Commodities and Futures Exchange (BM&F BOVESPA).</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/84343a12989f84658c4e785df8350c27/noop.jpg?input=https%3A%2F%2Ffee.org%2Fmedia%2F16840%2Fbrazil.jpg%3Fanchor%3Dcenter%26mode%3Dcrop%26height%3D466%26widthratio%3D2.0171673819742489270386266094%26rnd%3D131127839540000000"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://bravenewcoin.com/news/p2p-markets-need-p2p-justice/</link>
             <guid isPermaLink="false">51730233-a08d-4d98-81fb-b4dcc372df34</guid>
             <pubDate>Wed, 13 Jul 2016 04:46:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SolidX Bitcoin Trust Files for IPO]]></title>
-            <description><![CDATA[<article><h1>SolidX Bitcoin Trust Files for IPO</h1><p>Financial services provider SolidX Partners Inc. on Tuesday disclosed plans for an initial public offering for SolidX Bitcoin Trust. SolidX Partners provides swaps to hedge funds, family offices and other institutional investors. The company also provides bitcoin derivatives trading facilities to professional investors such as hedge funds, and generally caps a strong year for venture capital in the digital currency.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/99fb34097765bff775f18fc378a36fe6/noop.jpg?input=https%3A%2F%2Fsi.wsj.net%2Fpublic%2Fresources%2Fimages%2FBN-OW261_2sHvv_G_20160712073600.jpg"></article>]]></description>
-            <link>http://www.wsj.com/articles/solidx-bitcoin-trust-files-for-ipo-1468323819</link>
-            <guid isPermaLink="false">8ac9e20b-a48f-4e1a-a059-cef773c8e162</guid>
-            <pubDate>Wed, 13 Jul 2016 00:38:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
