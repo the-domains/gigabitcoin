@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 13:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 13:17:57 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Will Halving Affect Bitcoin Price? Technical Analysis Says Maybe]]></title>
+            <description><![CDATA[<article><h1>Will Halving Affect Bitcoin Price? Technical Analysis Says Maybe</h1><p>A solid rise has made its way into the bitcoin books. Following our previous price piece, bitcoin was hovering around $645 but has now shot up to about $672 at press time.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8e193c618fef48eb5ea95c58166e946b/croprotate.jpg?cropheight=775&cropwidth=1300&degrees=0&input=https%3A%2F%2Fbtcmanager.com%2Fwp-content%2Fuploads%2F2015%2F12%2FBitcoin-halving-drives-prices-up.jpg&x=0&y=0"></article>]]></description>
+            <link>http://bitcoinist.net/halving-bitcoin-price-technical-analysis/</link>
+            <guid isPermaLink="false">609db69f-172d-4d59-aa0c-3d463a466255</guid>
+            <pubDate>Wed, 13 Jul 2016 13:17:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is Japan Becoming the New Bitcoin Trading Superpower?]]></title>
             <description><![CDATA[<article><h1>Is Japan Becoming the New Bitcoin Trading Superpower?</h1><p>A surprising bitcoin exchange ranking chart published by Coinmarketcap shows Japanese exchange bitFlyer trading at number one over the past 24 hours, with over $26 million traded in BTC/JPY. Also read: What If Pokémon Go Integrated Bitcoin? Some questioned whether this was accurate, given that BTC/CNY trading usually dwarfs even that of BTC/USD.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ae9742d6a48c2052daeb1078f31621fe/noop.jpeg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FTokyo-Tower.jpeg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>PwC Partners BitSE to Expedite Blockchain Rollout in China, Hong Kong</h1><p>PwC continues to ramp up their blockchain offerings with a new partnership in China. PwC brings credibility and size to the table while BitSE brings blockchain specific knowledge. PwC recently announced a partnership with BitSE in order to accelerate adoption of blockchain in China and Hong Kong.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2a32027124f13684f40e59af9e0e1c0f/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F02%2FPwC-building.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/pwc-teams-with-bitse-to-expedite-blockchain-rollout-in-china-and-hk/</link>
             <guid isPermaLink="false">9c5bc769-123a-4fa0-ad4c-4d6f3ad98294</guid>
-            <pubDate>Wed, 13 Jul 2016 13:17:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brazil's Bitcoin Ecosystem Gains Momentum, Surpasses Gold Trading - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Brazil's Bitcoin Ecosystem Gains Momentum, Surpasses Gold Trading - NEWSBTC</h1><p>The bitcoin trade in Brazil has surpassed that of gold by over 7 percent. Read more... Which is a better investment and trading option, gold or bitcoin? The Brazilians like many other countries seem to prefer the latter. The digital currency trading volumes in Brazil has exceeded that of gold in the past six months.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b127c12b2da87287e4677e566d99fa1a/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F13120438%2Fbrazilian-bitcoin-trading.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/13/brazilian-bitcoin-ecosystem-gains-momentum-surpasses-gold-trading/</link>
-            <guid isPermaLink="false">7ff7d479-ecb7-4e9c-9b80-8b2b5623e13f</guid>
             <pubDate>Wed, 13 Jul 2016 13:17:01 GMT</pubDate>
         </item>
     </channel>
