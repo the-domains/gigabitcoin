@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 00:39:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 00:39:19 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why Do Some Bitcoin Mining Pools Mine Empty Blocks?]]></title>
+            <description><![CDATA[<article><h1>Why Do Some Bitcoin Mining Pools Mine Empty Blocks?</h1><p>Blocks on the Bitcoin blockchain have a maximum size of 1 MB. Proof of work difficulty is calibrated so 1 block is created every 10 minutes. It is generally accepted a miner would want to maximise the number of transactions it includes in a block as it collects the transaction fees.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9813ef086ca9dc41959a76eacec5cbdf/noop.jpg?input=http%3A%2F%2Fwww.nasdaq.com%2Freference%2Fhiresphotos%2Fnews-photos%2Fbitcoin%2F325x200%2Fbitcoin94.jpg"></article>]]></description>
+            <link>http://www.nasdaq.com/article/why-do-some-bitcoin-mining-pools-mine-empty-blocks-cm648094</link>
+            <guid isPermaLink="false">bbca17d4-84a5-483c-9768-54d8489a0070</guid>
+            <pubDate>Wed, 13 Jul 2016 00:38:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Watch; Upside Action! - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Watch; Upside Action! - NEWSBTC</h1><p>Here's a look at what we are focusing on in the bitcoin price this evening. This morning, we discussed the fact that price had finally decided to serve up some volatility and that - as a result - we were able to get into an overnight breakout trade and draw a profit from the market.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/695ff3deda021eac45c7443b9cb50483/croprotate.png?cropheight=721&cropwidth=1194&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F12181148%2FScreen-Shot-2016-07-12-at-19.08.15.png&x=0&y=0"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/12/bitcoin-price-watch-upside-action/</link>
+            <guid isPermaLink="false">00cf8263-c4b3-4b9e-8936-47d272c0ed25</guid>
+            <pubDate>Wed, 13 Jul 2016 00:38:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IBM to Open Blockchain Development Center With Singapore Regulators - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>IBM to Open Blockchain Development Center With Singapore Regulators - CoinDesk</h1><p>IBM expanded its blockchain efforts in Singapore today with news it will open the Center for Blockchain Innovation in partnership with the Singapore government. Coming just week after the company announced it would open a new facility in Singapore for 5,000 computer scientists, today's news is suggestive of what has been called a high level of support for blockchain technology in the region.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/81c32b3cb6d767acec5a81bc03d3bab6/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2Fshutterstock_357485504.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/ibm-open-center-blockchain-innovation-singapore-government/</link>
+            <guid isPermaLink="false">fae3dfe0-e57c-4462-95b2-2975fa7694a4</guid>
+            <pubDate>Wed, 13 Jul 2016 00:38:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[JPMorgan Exploring Blockchain for Trade Finance - CoinDesk]]></title>
             <description><![CDATA[<article><h1>JPMorgan Exploring Blockchain for Trade Finance - CoinDesk</h1><p>A senior trade finance executive for JPMorgan Chase has offered new details on the bank's work with blockchain technology. Speaking to Financial News , Jeremy Shaw, head of finance for Europe, the Middle East and Africa, said that trade finance was one area in which the bank is looking at possible distributed ledger applications.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76b14c8a463c77253908b367e0c0f3cbb9a82224.png"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>https://news.bitcoin.com/file-hosting-service-refuses-paypal/</link>
             <guid isPermaLink="false">02c7a717-73fa-4236-9673-7b5ba9c33ca5</guid>
             <pubDate>Wed, 13 Jul 2016 00:38:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can a bitcoin miner short the bitcoin and sabotage the decentralization and distributed nature of mining system to cause the bitcoin valu...]]></title>
-            <description><![CDATA[<article><h1>Can a bitcoin miner short the bitcoin and sabotage the decentralization and distributed nature of mining system to cause the bitcoin valu...</h1><p>Answer: You seem to be confused about: 1. What short selling means. 2. What the role of miners is. 3. What the role of decentralization is. 4. How Bitcoin gets its value. 5. What it takes to sabotage the network. Once you've understood those things, you'll see that this is a nonsensical question.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
-            <link>https://www.quora.com/Can-a-bitcoin-miner-short-the-bitcoin-and-sabotage-the-decentralization-and-distributed-nature-of-mining-system-to-cause-the-bitcoin-value-to-fall</link>
-            <guid isPermaLink="false">7236f7c8-8afd-4d50-a677-cdfa6ceb6d72</guid>
-            <pubDate>Wed, 13 Jul 2016 00:38:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Freewallet Ethereum Wallet Now Available for iOS Platform - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Freewallet Ethereum Wallet Now Available for iOS Platform - NEWSBTC</h1><p>Freewallet has announced the launch of its Ethereum wallet on Apple iOS mobile platform. Read more... Freewallet's Ethereum wallet is now available for Apple ( NASDAQ : AAPL) iPhone users. The company known for its mobile first cryptocurrency wallet had its Ethereum wallet available only on Google ( NASDAQ : GOOG - listed as Alphabet Inc.)</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ee2b3d518900deea950fe6ec105d115b/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F12193153%2FScreen-Shot-2016-07-12-at-11.37.18-PM1.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/12/freewallet-ethereum-wallet-on-ios/</link>
-            <guid isPermaLink="false">e3a3d0af-b74f-486d-875c-35ec0bf0ce96</guid>
-            <pubDate>Wed, 13 Jul 2016 00:38:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CEO of Steemit: Blockchain-Based Social Media Gives People Their Freedom Back]]></title>
-            <description><![CDATA[<article><h1>CEO of Steemit: Blockchain-Based Social Media Gives People Their Freedom Back</h1><p>Founders of Steemit, a platform rewarding its users for creating and curating content, believe that blockchain technology can be applied to social media. Forklog discussed the idea of leveraging the technology behind bitcoin for social media applications with Ned Scott, Steemit Co-founder and CEO.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2ebcaefa8ef1161a73580dd864718897/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F07%2Finternetofthings02.png"></article>]]></description>
-            <link>http://forklog.net/ceo-of-steemit-blockchain-based-social-media-gives-people-their-freedom-back/</link>
-            <guid isPermaLink="false">24e5fbcd-3e2b-4e66-b121-3f418107248c</guid>
-            <pubDate>Wed, 13 Jul 2016 00:38:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
