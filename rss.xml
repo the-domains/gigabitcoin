@@ -7,13 +7,6 @@
         <lastBuildDate>Wed, 13 Jul 2016 00:39:17 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Which coding languages should be mastered to create a Blockchain application?]]></title>
-            <description><![CDATA[<article><h1>Which coding languages should be mastered to create a Blockchain application?</h1><p>When I was in college, I had a friend over late while we were playing some death metal on guitar. Finally around 1AM I started to drive him home when my radiator went out so I coasted into a McDonalds parking lot. "Great! I thought.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
-            <link>https://www.quora.com/unanswered/Which-coding-languages-should-be-mastered-to-create-a-Blockchain-application</link>
-            <guid isPermaLink="false">5086701f-ebba-4100-8ce0-f53617afe798</guid>
-            <pubDate>Wed, 13 Jul 2016 00:38:34 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Dutch Central Bank is Preparing its Boldest Blockchain Experiment Yet - CoinDesk]]></title>
             <description><![CDATA[<article><h1>The Dutch Central Bank is Preparing its Boldest Blockchain Experiment Yet - CoinDesk</h1><p>The central bank of the Netherlands is preparing an ambitious experiment aimed at discerning if an entire financial market can be built on a blockchain.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fc012125ad0fec88e1803fa5d3ff07d0/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2FDe_Nederlandsche_Bank_Westeinde_Amsterdam_20130818.jpg"></article>]]></description>
             <link>http://www.coindesk.com/dutch-central-bank-preparing-boldest-blockchain-experiment-yet/</link>
@@ -75,6 +68,13 @@
             <link>http://www.zerohedge.com/news/2016-07-12/us-refused-prosecute-hsbc-over-fears-global-financial-disaster</link>
             <guid isPermaLink="false">e4995fe7-9cb6-4ae8-b745-568664934f20</guid>
             <pubDate>Wed, 13 Jul 2016 00:38:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blockchain Coders Win Grant to Fix Smart Contracts With 'Legalese' - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Blockchain Coders Win Grant to Fix Smart Contracts With 'Legalese' - CoinDesk</h1><p>The mantra 'move fast and break things' may work well in traditional software, but as the demise of The DAO illustrated, the approach may not be right for experimental financial technologies.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d9a2b5ee92ba8f66efb541c7c62dfcc9/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2Ffine-print-e1468364313226.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/legalese-wins-grant-to-prevent-another-dao-collapse/</link>
+            <guid isPermaLink="false">707e8d70-8c58-485c-a8da-30f15cfbc5da</guid>
+            <pubDate>Wed, 13 Jul 2016 00:38:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
