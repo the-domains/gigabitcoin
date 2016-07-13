@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 00:40:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 00:40:20 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[South African Bank Joins R3 Blockchain Consortium - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>South African Bank Joins R3 Blockchain Consortium - CoinDesk</h1><p>One of South Africa's largest banks has joined the global blockchain consortium led by R3CEV. Absa Bank, a subsidiary of Barclays Africa, announced today that it would be joining the 40-plus consortium, which includes a range of banks and non-bank financial institutions worldwide.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c282b12451c5e222adb6edb265925d38/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2FAbsa.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/south-african-bank-joins-r3-blockchain-consortium/</link>
+            <guid isPermaLink="false">92f7dd7d-3297-46fe-adf3-b9ab10d55e69</guid>
+            <pubDate>Wed, 13 Jul 2016 00:38:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cashaa Remittance To Go Live Using Peer to Peer Transactions]]></title>
             <description><![CDATA[<article><h1>Cashaa Remittance To Go Live Using Peer to Peer Transactions</h1><p>New cash-to-cash remittance company, Cashaa, ends its three months testing period and claims to have a success as it plans to fully go live. According to co-Founder and CEO at Cashaa, Kumar Gaurav, the company started their trading platform BTC2BID to test and validate their model on April 3, after which a London office was established about two months later, while the development centre remains in Mumbai, India.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f5e71c6bca813d117a40df842a98fc46/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3L2Q0MzNiNDRmMjU1NTQ4MmQ2MTYyZTRlNmQxYzk5NDBkLmpwZw%3D%3D.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Why Do Some Bitcoin Mining Pools Mine Empty Blocks?</h1><p>Blocks on the Bitcoin blockchain have a maximum size of 1 MB. Proof of work difficulty is calibrated so 1 block is created every 10 minutes. It is generally accepted a miner would want to maximise the number of transactions it includes in a block as it collects the transaction fees.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6a311d0e58a40c5423e473b7a15e848c/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fwhy-do-some-bitcoin-mining-pools-mine-empty-blocks.jpg"></article>]]></description>
             <link>https://bitcoinmagazine.com/articles/why-do-some-bitcoin-mining-pools-mine-empty-blocks-1468337739</link>
             <guid isPermaLink="false">73e42ba7-c660-4804-a9f0-d500a8a3adbc</guid>
-            <pubDate>Wed, 13 Jul 2016 00:38:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="https://i.redd.it/lex3keczrr8x.png"></article>]]></description>
-            <link>https://i.redd.it/lex3keczrr8x.png</link>
-            <guid isPermaLink="false">6b36df70-4dbb-4843-8327-5d282625a336</guid>
             <pubDate>Wed, 13 Jul 2016 00:38:35 GMT</pubDate>
         </item>
     </channel>
