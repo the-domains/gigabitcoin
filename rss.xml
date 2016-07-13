@@ -4,11 +4,25 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 13:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 13:17:57 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[First Foreign VPN Provider Leaves Russia Because of Repressive New Law]]></title>
+            <description><![CDATA[<article><h1>First Foreign VPN Provider Leaves Russia Because of Repressive New Law</h1><p>Private Internet Access (PIA), a foreign VPN provider, has announced they are ceasing all operations in Russia due to a new law. According to a notice sent to customers, a new Russian law was passed that mandated that all service providers log all regional traffic for up to one year.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ef6f7dc5a47ecf2bac575fbc31f7440a/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3Lzc2YzBhMTFlYWY2MjI2YzNlZjc3NTA4Zjk0ZWZmNGU4LmpwZw%3D%3D.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/first-foreign-vpn-provider-leaves-russia-because-of-repressive-new-law</link>
+            <guid isPermaLink="false">6f4b938e-a744-4441-b274-ac8d2c7367a8</guid>
+            <pubDate>Wed, 13 Jul 2016 13:17:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is there a bitcoin implementation in Python?]]></title>
+            <description><![CDATA[<article><h1>Is there a bitcoin implementation in Python?</h1><p>Somewhat surprisingly, it turns out there is bitcoin implementation in Python, through the use of the bitcoin-python library. Friendly bitcoin API binding for Python. bitcoin-python is a set of Python libraries that allows easy access to the Bitcoin peer-to-peer cryptocurrency client API.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
+            <link>https://www.quora.com/Is-there-a-bitcoin-implementation-in-Python</link>
+            <guid isPermaLink="false">5c39943f-3c57-47cd-8e82-2d3579a5e05c</guid>
+            <pubDate>Wed, 13 Jul 2016 13:17:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Is the bitcoin exchange bitfinex a bucket shop?]]></title>
-            <description><![CDATA[<article><h1>Is the bitcoin exchange bitfinex a bucket shop?</h1><p>I like food a lot and will try (almost) anything. When I'm on vacation I am very eager to taste new things and try out the dishes of the country I am visiting.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Is the bitcoin exchange bitfinex a bucket shop?</h1><p>I like food a lot and will try (almost) anything. When I'm on vacation I am very eager to taste new things and try out the dishes of the country I am visiting.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
             <link>https://www.quora.com/unanswered/Is-the-bitcoin-exchange-bitfinex-a-bucket-shop</link>
             <guid isPermaLink="false">f34c3a7c-ba27-457b-913a-2ec3ce4e6cdf</guid>
             <pubDate>Wed, 13 Jul 2016 13:17:01 GMT</pubDate>
@@ -61,20 +75,6 @@
             <link>https://fee.org/articles/bitcoin-surpasses-gold-trading-in-brazil/</link>
             <guid isPermaLink="false">7fd25e0d-2f23-49b8-b48a-c1e297d4396a</guid>
             <pubDate>Wed, 13 Jul 2016 13:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Volatility Compared to Pound Sterling - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Volatility Compared to Pound Sterling - NEWSBTC</h1><p>The much anticipated Halving (Reduction in half of the reward given to bitcoin miners) and the Brexit (the exit of the UK from the European Union) are two important events that happened in the middle of this year. Both events brought a lot of speculations, and if we take a look at the behavior of ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/24fa189eaadd31d38de462c15110ed5d/croprotate.jpeg?cropheight=1314&cropwidth=1980&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F13060512%2Fpexels-photo-110088.jpeg&x=0&y=0"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/13/bitcoin-volatility-compared-pound-sterling/</link>
-            <guid isPermaLink="false">58441650-0b1a-4f9e-a59b-61d2ae789cf7</guid>
-            <pubDate>Wed, 13 Jul 2016 05:46:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin-Based P2P Lending App CredibleFriends Raises 40% Of $250,000 Crowdfunding Goal]]></title>
-            <description><![CDATA[<article><h1>Bitcoin-Based P2P Lending App CredibleFriends Raises 40% Of $250,000 Crowdfunding Goal</h1><p>CredibleFriends, a P2P lending app that lets people lend bitcoin to friends, has raised $100,006 of its $250,000 fundraising goal on BnkToTheFuture, surpassing the $100,000 needed by July 15 to ensure the funds pledged will be deposited. The app allows users to extend credit to friends and earn interest in the process.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/37d95115b2cff9c4d8f540ca3af53827/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F01%2Fgrowth-money-investment.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-based-p2p-lending-app-crediblefriends-raises-40-250000-crowdfunding-goal/</link>
-            <guid isPermaLink="false">739f220a-4029-4eaa-8411-0bb97750c266</guid>
-            <pubDate>Wed, 13 Jul 2016 05:46:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
