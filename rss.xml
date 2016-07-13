@@ -7,6 +7,13 @@
         <lastBuildDate>Wed, 13 Jul 2016 04:47:32 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Transaction failure due to "made-up" transaction]]></title>
+            <description><![CDATA[<article><h1>Transaction failure due to "made-up" transaction</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Unless you are using modified software, your software will not allow you to create such a transaction.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46478/transaction-failure-due-to-made-up-transaction</link>
+            <guid isPermaLink="false">0ebc0f0e-c6a0-4748-ab4e-00a2d5a9222f</guid>
+            <pubDate>Wed, 13 Jul 2016 04:46:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[SolidX Selects XBX Index for Proposed Bitcoin ETF]]></title>
             <description><![CDATA[<article><h1>SolidX Selects XBX Index for Proposed Bitcoin ETF</h1><p>SolidX Partners has selected TradeBlock's XBX Index as the reference rate for the SolidX Bitcoin Trust, a proposed exchange traded fund (ETF) based on the price of bitcoin. The registration statement can be accessed publicly via the Securities and Exchange Commission (SEC) site.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/82b78c785a730e27bac1f7d094418970/croprotate.png?cropheight=131&cropwidth=643&degrees=0&input=https%3A%2F%2Fresearch.tradeblock.com%2Fwp-content%2Fuploads%2F2016%2F07%2FSolidX-Logo.png&x=0&y=37"></article>]]></description>
             <link>https://research.tradeblock.com/solidx-selects-xbx-index-for-proposed-bitcoin-etf/</link>
@@ -68,13 +75,6 @@
             <link>https://www.cryptocoinsnews.com/sec-issues-cease-and-desist-order-against-bit-and-authorized-participant-levies-fine/</link>
             <guid isPermaLink="false">43b2d621-f396-4c03-abb5-fe1eac2713ea</guid>
             <pubDate>Wed, 13 Jul 2016 00:38:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IBM to Collaborate with Singaporean Agencies over Blockchain]]></title>
-            <description><![CDATA[<article><h1>IBM to Collaborate with Singaporean Agencies over Blockchain</h1><p>The center will aid and accommodate Singapore's blockchain startups and entrepreneurs to collaborate with the city-state's reputable and well established institutions in the finance and trade industries. IBM, International Business Machines Corporation, ( NYSE:IBM) has established its first Centre for Blockchain Innovation in Singapore with the assistance from the city-state's Economic Development Board and Monetary Authority.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2457d5c701d72fda9c0acc6c56873e6b/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F12153522%2Fibm6.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/12/ibm-collaborate-singaporean-agencies-implement-blockchain-technology/</link>
-            <guid isPermaLink="false">b4a415c3-e9ed-4066-889b-136fb3658a3f</guid>
-            <pubDate>Wed, 13 Jul 2016 00:38:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
