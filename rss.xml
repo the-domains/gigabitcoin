@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 00:40:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 00:40:33 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IBM to Collaborate with Singaporean Agencies over Blockchain]]></title>
+            <description><![CDATA[<article><h1>IBM to Collaborate with Singaporean Agencies over Blockchain</h1><p>The center will aid and accommodate Singapore's blockchain startups and entrepreneurs to collaborate with the city-state's reputable and well established institutions in the finance and trade industries. IBM, International Business Machines Corporation, ( NYSE:IBM) has established its first Centre for Blockchain Innovation in Singapore with the assistance from the city-state's Economic Development Board and Monetary Authority.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2457d5c701d72fda9c0acc6c56873e6b/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F12153522%2Fibm6.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/12/ibm-collaborate-singaporean-agencies-implement-blockchain-technology/</link>
+            <guid isPermaLink="false">b4a415c3-e9ed-4066-889b-136fb3658a3f</guid>
+            <pubDate>Wed, 13 Jul 2016 00:38:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New Sia GPU Miner for OpenCL Forked by Genoil Now Available]]></title>
             <description><![CDATA[<article><h1>New Sia GPU Miner for OpenCL Forked by Genoil Now Available</h1><p>Siacoin (SC) is getting a lot of attention lately and there is now a new fork of the miner available made by Genoil ( source).</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/462b0fea8a2c7474826d36e3b18052e3/noop.jpg?input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fsia-gpu-miner-genoil-580x293.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Technology and Choice #09, Ernest Hancock</h1><p>In this Episode When I was at The Porcupine Freedom Festive in New Hampshire, I had the chance to sit down with Ernest Hancock of Freedom's Phoenix, along with the hosts of another podcast, Liberty Cafe. We had fun. Hope you enjoy it.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4ed0bde70a7a9e5c265b817eb9f1b3a5/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1859-d3dabfe3cc1ea726bef5e960815007c3a5297d0e1b6157bb32b6656c04faf40f.jpg"></article>]]></description>
             <link>https://letstalkbitcoin.com/blog/post/technology-and-choice-09-ernest-hancock</link>
             <guid isPermaLink="false">1126f605-0498-4b31-afd4-41985d4cc715</guid>
-            <pubDate>Wed, 13 Jul 2016 00:38:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Storj & Counterparty Testing Instant Micropayments Channel]]></title>
-            <description><![CDATA[<article><h1>Storj & Counterparty Testing Instant Micropayments Channel</h1><p>Counterparty and distributed storage platform Storj have teamed up to develop off-blockchain "payment channels" similar to the much-anticipated Lightning Networks. Also read: Stolen ShapeShift Funds on the Move, Passing Through Coinjoin Mixers Payment channel technology, which allows users to transact instantly and settle on the Bitcoin blockchain at a later stage, will also power upcoming Lightning Networks - designed to make micropayments fast, cheap and commonplace.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7b83646c93501b520532a51ed5ccd11e/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FLightning_Storm_Pima_County_Arizona.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/storj-counterparty-instant-micropayments/</link>
-            <guid isPermaLink="false">5117c6fb-a71c-4827-8597-0884d727036c</guid>
             <pubDate>Wed, 13 Jul 2016 00:38:35 GMT</pubDate>
         </item>
     </channel>
