@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 02:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2016 02:20:05 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[How will the Ethereum price vary on the 14th of july, 2016?]]></title>
-            <description><![CDATA[<article><h1>How will the Ethereum price vary on the 14th of july, 2016?</h1><p>When I was about 15, my parents walked into my room while I was asleep, saying, "Merry Christmas!", and placed a pack of Gatorade and pair of Joe Boxer pajama pants on the floor. We're a family that can't spend much, so I wasn't expecting any presents.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
-            <link>https://www.quora.com/How-will-the-Ethereum-price-vary-on-the-14th-of-july-2016</link>
-            <guid isPermaLink="false">8143b4ca-29a3-462c-8ecc-8c64fa075f35</guid>
-            <pubDate>Thu, 14 Jul 2016 02:19:27 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Famous Bitcoin Transactions & The Stories Behind Them]]></title>
             <description><![CDATA[<article><h1>Famous Bitcoin Transactions & The Stories Behind Them</h1><p>Bitcoin has now been used by countless individuals to transact for over 7 years. At the time of this writing there have been over 140,000,000 transactions sent and stored forever in the blockchain. January 2009 was when the very first block was added to the blockchain, which is affectionately dubbed the Genesis Block, and the rest as they say, is now history.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ecba9aa59f99ec5bbf447a9145073ba8/noop.jpg?input=https%3A%2F%2Fi1.wp.com%2Fblog.blockchain.com%2Fwp-content%2Fuploads%2F2016%2F07%2Ffamousbitcointx.jpg%3Ffit%3D1200%252C675%26ssl%3D1"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>DTCC Organizes Blockchain Event on Capitol Hill - CoinDesk</h1><p>The Depository Trust & Clearing Corporation (DTCC) hosted a group of regulators and members of the financial industry in Washington, DC, for a discussion on blockchain tech last month. The event, held on Capitol Hill, was designed by the DTCC to give regulators and other financial industry stakeholders a chance to ask questions directly to ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e5b0f25ae29cba1176800e5d1962d65f/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2Fcapitol-hill-washington-e1468431769800.jpg"></article>]]></description>
             <link>http://www.coindesk.com/dtcc-blockchain-event-washington/</link>
             <guid isPermaLink="false">820b5601-16b8-4e52-b387-90d2a8d4dc3c</guid>
+            <pubDate>Thu, 14 Jul 2016 02:19:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Or Ethereum: Which Will Dominate?]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Or Ethereum: Which Will Dominate?</h1><p>Bitcoin and Ethereum both use a blockchain, a globally distributed ledger that stores all of the prior transactions, going all the way back to the currency's very first transactions or "genesis block."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c9c8b6a4679f97f822bd782fa80a42e76519a50.jpg"></article>]]></description>
+            <link>http://www.huffingtonpost.com/david-seaman/bitcoin-or-ethereum-which_b_10970136.html</link>
+            <guid isPermaLink="false">caf1f217-f8fa-4882-a143-6234b2c804f1</guid>
             <pubDate>Thu, 14 Jul 2016 02:19:26 GMT</pubDate>
         </item>
     </channel>
