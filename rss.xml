@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 04:28:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2016 04:28:12 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Are investors really interested in ETFs on Bitcoin?]]></title>
+            <description><![CDATA[<article><h1>Are investors really interested in ETFs on Bitcoin?</h1><p>Answer: Yes, investors are interested in ETF's and Bitcoin. It's fairly simple, if no one was interested, would they be trading and sustain their current price level for years? You may not be seeing information on ETF's and Bitcoin on the large news sources, but they are a very useful tool to an...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
+            <link>https://www.quora.com/Are-investors-really-interested-in-ETFs-on-Bitcoin</link>
+            <guid isPermaLink="false">464c49b3-f891-4798-81f2-06a2a08685f2</guid>
+            <pubDate>Thu, 14 Jul 2016 04:28:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Startup Plutus Raises $1 Million in a Crowdsale]]></title>
             <description><![CDATA[<article><h1>Bitcoin Startup Plutus Raises $1 Million in a Crowdsale</h1><p>In just nine days, the mobile Bitcoin wallet, UK-based Plutus, has raised more than $1 million in a flash crowdsale, allowing the company to complete their platform and make the Bitcoin Tap & Pay application a reality.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/33605e4cbedbe2b7fefdd51c2b2da7da/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F04%2FCrowdsale.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://bitcoinmagazine.com/articles/new-eu-directive-may-impose-anti-money-laundering-regulations-on-bitcoin-wallet-providers-1468424029</link>
             <guid isPermaLink="false">3e506df4-26ba-4690-bb08-5651f9f11c71</guid>
             <pubDate>Thu, 14 Jul 2016 02:19:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Bitcoin Trading is Exceeding Gold Trading in Brazil]]></title>
-            <description><![CDATA[<article><h1>Report: Bitcoin Trading is Exceeding Gold Trading in Brazil</h1><p>A report has revealed that the total trading volume of bitcoin among digital currency exchanges in Brazil has now surpassed that of gold spot trading on the Brazilian Securities, Commodities and Futures Exchange - the country's securities market authority and regulator - during the first half of 2016.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a36cfc6d709158da2ccc96aee231048a/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FBitcoin-gold-background.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-trading-exceeding-gold-brazil/</link>
-            <guid isPermaLink="false">c1dd0e09-102d-48ab-9776-1b1e8b45f956</guid>
-            <pubDate>Thu, 14 Jul 2016 02:19:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
