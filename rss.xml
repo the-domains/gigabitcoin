@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 04:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 04:18:18 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Citibank and Venezuela - Perils of Centralized Monetary Systems - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Citibank and Venezuela - Perils of Centralized Monetary Systems - NEWSBTC</h1><p>Citibank has recently announced its decision to terminate the accounts belonging to the Central Bank of Venezuela, leaving the nation with no means of conducting foreign transactions. Read more...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dfd7ad78e5de8b3fdb62b644004fa40a/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F03%2F24092709%2Fshutterstock_304079975.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/14/venezuela-citibank-centralized-systems/</link>
+            <guid isPermaLink="false">d6c7f8c0-1c43-4706-993a-8a6c9172d5b9</guid>
+            <pubDate>Fri, 15 Jul 2016 04:17:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Samsung SDS Invests in Blockchain Startup - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Samsung SDS Invests in Blockchain Startup - CoinDesk</h1><p>An IT affiliate of South Korean electronics and manufacturing giant Samsung announced today that it has invested in a blockchain startup. Samsung SDS said that it had invested in Blocko, a firm also based in South Korea, as well as a cybersecurity startup called Darktrace. The investment amount was not disclosed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76b14c8a463c77253908b367e0c0f3cbb9a82224.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>What incentivizes the miners in private blockchain to mine?</h1><p>Answer: Yes you are right, in a private blockchain you could control the miners and generate bitcoins as you want without be blocked with the proof of work. you could change block size and time generation of bitcoins etc, Moreover these bitcoins doesn't have a value (in the market) so they could ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
             <link>https://www.quora.com/What-incentivizes-the-miners-in-private-blockchain-to-mine</link>
             <guid isPermaLink="false">0ca1e2b8-893e-42fd-8a86-a55fd67cc753</guid>
-            <pubDate>Thu, 14 Jul 2016 04:28:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What do finance professionals think of Ethereum?]]></title>
-            <description><![CDATA[<article><h1>What do finance professionals think of Ethereum?</h1><p>Answer: Friend of mine knows Vitalik a little and she rates him highly. I haven't written anything serious - just downloaded the IDE and played around quickly with Solidity. There are clearly very many flaws. To someone from finance, you would have had to be out of your mind to think the DAO v 1...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
-            <link>https://www.quora.com/What-do-finance-professionals-think-of-Ethereum</link>
-            <guid isPermaLink="false">3137df8f-08a1-4a5b-9685-eff084ff443b</guid>
             <pubDate>Thu, 14 Jul 2016 04:28:03 GMT</pubDate>
         </item>
     </channel>
