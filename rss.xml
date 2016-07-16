@@ -4,18 +4,11 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 01:56:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2016 01:56:41 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Bitcoin wallet provider iPayYou adds "Pay-by-Twitter" feature]]></title>
-            <description><![CDATA[<article><h1>Bitcoin wallet provider iPayYou adds "Pay-by-Twitter" feature</h1><p>Bitcoin wallet provider iPayYou, Inc. has launched a new "Pay-by-Twitter" feature that allows users to make peer-to-peer payments on Twitter. iPayYou is claimed to be the first bitcoin wallet that enables Twitter's 310 million monthly users to make peer-to-peer payments over Twitter with payments being made by simply entering a recipient's Twitter account name instead of an email of bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c7fe14da4235fc1bf9dce40b49a20c35/noop.jpg?input=http%3A%2F%2Fsiliconangle.com%2Ffiles%2F2016%2F07%2Fipayyou.jpg"></article>]]></description>
-            <link>http://siliconangle.com/blog/2016/07/14/bitcoin-wallet-provider-ipayyou-adds-pay-by-twitter-feature/</link>
-            <guid isPermaLink="false">462b00b3-470b-4925-9afe-65b3aadb835f</guid>
-            <pubDate>Sat, 16 Jul 2016 01:52:41 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Could an Artificial Intelligence use the blockchain as a medium for its memory?]]></title>
-            <description><![CDATA[<article><h1>Could an Artificial Intelligence use the blockchain as a medium for its memory?</h1><p>It depends on the type of AI being built. I think there are few key things to consider. 1. A blockchain is meant to store time series data (transactions). Therefore, is not optimized for frequently rewriting previously stored data. 2. A block chain by nature is linear.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Could an Artificial Intelligence use the blockchain as a medium for its memory?</h1><p>It depends on the type of AI being built. I think there are few key things to consider. 1. A blockchain is meant to store time series data (transactions). Therefore, is not optimized for frequently rewriting previously stored data. 2. A block chain by nature is linear.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
             <link>https://www.quora.com/Could-an-Artificial-Intelligence-use-the-blockchain-as-a-medium-for-its-memory</link>
             <guid isPermaLink="false">2001bfc6-a4ec-4c93-ac5e-94e0ee5635de</guid>
             <pubDate>Sat, 16 Jul 2016 01:52:40 GMT</pubDate>
@@ -49,17 +42,17 @@
             <pubDate>Sat, 16 Jul 2016 01:52:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Steemit Website Hacked, CEO Promises to Reset Accounts in 48 Hours]]></title>
-            <description><![CDATA[<article><h1>Steemit Website Hacked, CEO Promises to Reset Accounts in 48 Hours</h1><p>Steemit announced on their website that they were hacked. The attack, according to them, has compromised about 260 accounts. A little less than US$ 85,000 worth of Steem Dollars and Steem are reported to have been taken by the attackers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fc1742dcae3bc19ad300ed439a4c504e/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3L2I5MTY5MTViMzlmNzdkOTRmN2IyYmVlYTA2YzkxNWMxLmpwZw%3D%3D.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/steemit-website-hacked-ceo-promises-to-reset-accounts-in-48-hours</link>
-            <guid isPermaLink="false">1dedb901-f352-400b-b910-bfbb5772725b</guid>
-            <pubDate>Sat, 16 Jul 2016 01:52:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bitcoin Price Watch; Today's Scalp Strategy - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Watch; Today's Scalp Strategy - NEWSBTC</h1><p>Here's a look at what we are focusing on in the bitcoin price this morning. We are heading in to the close of the week, and it's time to take a penultimate look at the bitcoin price.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9dd9bc26e329af97939d9fc1e94e97a1/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F15091039%2FScreen-Shot-2016-07-15-at-09.59.35.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/07/15/bitcoin-price-watch-todays-scalp-strategy/</link>
             <guid isPermaLink="false">d33aed54-8161-4857-932d-82af8de0e893</guid>
+            <pubDate>Sat, 16 Jul 2016 01:52:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Steemit Website Hacked, CEO Promises to Reset Accounts in 48 Hours]]></title>
+            <description><![CDATA[<article><h1>Steemit Website Hacked, CEO Promises to Reset Accounts in 48 Hours</h1><p>Steemit announced on their website that they were hacked. The attack, according to them, has compromised about 260 accounts. A little less than US$ 85,000 worth of Steem Dollars and Steem are reported to have been taken by the attackers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fc1742dcae3bc19ad300ed439a4c504e/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3L2I5MTY5MTViMzlmNzdkOTRmN2IyYmVlYTA2YzkxNWMxLmpwZw%3D%3D.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/steemit-website-hacked-ceo-promises-to-reset-accounts-in-48-hours</link>
+            <guid isPermaLink="false">1dedb901-f352-400b-b910-bfbb5772725b</guid>
             <pubDate>Sat, 16 Jul 2016 01:52:40 GMT</pubDate>
         </item>
         <item>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Kraken To Halt Ethereum Deposits For 1 Hour Before And After Hard Fork</h1><p>People who have been following the Ethereum situation may have noticed the community has voted for hard forking the code. While this should solve the issues about The DAO, it is also a security risk for any platforms dealing with ETH trading.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3c8d3834ef04dff87fda381e0693d466/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2FKraken-Ethereum-Hard-Fork.jpg"></article>]]></description>
             <link>http://themerkle.com/kraken-to-halt-ethereum-deposits-for-1-hour-before-and-after-hard-fork/</link>
             <guid isPermaLink="false">9337a0d8-ec36-4e9c-a280-b6d863e240b0</guid>
+            <pubDate>Sat, 16 Jul 2016 01:52:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Popular TV Shows are Now Mainstreaming Cryptocurrency]]></title>
+            <description><![CDATA[<article><h1>Popular TV Shows are Now Mainstreaming Cryptocurrency</h1><p>Bitcoin is becoming more popular every day and the cryptocurrency recently has been getting much exposure as mainstream news have been noting its Also read: The Inside Scoop On Mark Karpeles Japanese Prison Release safe haven attributes . Alongside these reports, Bitcoin has also been appearing on the TV screen in an episode of Mr. Robot.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1b93a600e3503935b86a75547cbe99e1/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FCryptocurrency-On-TV-Becomes-More-Popular.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/cryptocurrency-tv-popular/</link>
+            <guid isPermaLink="false">c3e4bbb7-5793-41de-98b3-d014389ff3af</guid>
             <pubDate>Sat, 16 Jul 2016 01:52:39 GMT</pubDate>
         </item>
     </channel>
