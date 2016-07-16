@@ -7,13 +7,6 @@
         <lastBuildDate>Sat, 16 Jul 2016 08:00:56 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Weekend Wrap-up: LendingClub, Bitcoin, and Visa | PYMNTS.com]]></title>
-            <description><![CDATA[<article><h1>Weekend Wrap-up: LendingClub, Bitcoin, and Visa | PYMNTS.com</h1><p>The weekend is here! A perfect time for camping, the beach, get-togethers, and catching on this week's top PYMNTS stories. What's on the menu, you ask? We're serving up a four-course meal on LendingClub, Bitcoin, the Visa Everywhere contest, and Karen Webster's latest opinion piece.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5eeb4372ef06914a849cb1114d4f9baf/croprotate.jpg?cropheight=3649&cropwidth=5472&degrees=0&input=http%3A%2F%2Fcdn.pymnts.com%2Fwp-content%2Fuploads%2F2016%2F07%2FWeekend-wrap-up-bitcoin-visa-karen-webster-lendingclub.jpg&x=0&y=0"></article>]]></description>
-            <link>http://www.pymnts.com/whats-trending/2016/weekend-wrap-up-lendingclub-bitcoin-visa-everywhere-and-the-new-commerce/</link>
-            <guid isPermaLink="false">70d26788-5cdb-430c-ac45-eb04965c694e</guid>
-            <pubDate>Sat, 16 Jul 2016 08:00:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Know-Your-Follower: Sending Bitcoin Over Twitter with iPayYou]]></title>
             <description><![CDATA[<article><h1>Know-Your-Follower: Sending Bitcoin Over Twitter with iPayYou</h1><p>Seattle-based Bitcoin company Also read: MIT's Riffle Claims to Be More Anonymous Than Tor iPayYou has recently launched its "Pay-by-Twitter" feature, allowing users to make P2P payments over the highly popular social media platform. Bitcoin.com recently reported on the introduction of iPayYou, the wallet that wants to make bitcoin the desired method of payment among mainstream audiences.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/64533c328d5ab8b4ed6409c64f15b7ce/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FiPayYou-Adds-Pay-by-Twitter-Feature.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/ipayyou-send-bitcoin-twitter/</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Bitcoin Service Bitwala Partners ShapeShift to Enable Altcoin Transfers Globally</h1><p>Bitwala, a crypto-to-SEPA service that allows fiat currency transfers towards settlements from users who pay in bitcoin, ether and other crypto, has teamed with ShapeShift.io to allow customers to make payments, transfer funds and top up their debit cards using altcoins in addition to bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d91f09ba415e787b1aed06bf7a1595a8/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FPartnership.jpg.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/bitcoin-bitwala-shapeshift-altcoins/</link>
             <guid isPermaLink="false">2cb9a17c-7c3e-4d69-87b6-28c8a01b9d36</guid>
+            <pubDate>Sat, 16 Jul 2016 01:52:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Joe Rogan Experience - The 4th Bitcoin Episode - September 7th LIVE * /r/Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Joe Rogan Experience - The 4th Bitcoin Episode - September 7th LIVE * /r/Bitcoin</h1><p>Bitcoin is the currency of the Internet: a distributed, worldwide, decentralized digital money. Unlike traditional currencies such as dollars, bitcoins are issued and managed without any central authority whatsoever: there is no government, company, or bank in charge of Bitcoin. As such, it is more resistant to wild inflation and corrupt banks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
+            <link>https://www.reddit.com/r/Bitcoin/comments/4swdwb/joe_rogan_experience_the_4th_bitcoin_episode/</link>
+            <guid isPermaLink="false">f3b9ce53-9e94-4ad1-803d-1108716fb2ba</guid>
             <pubDate>Sat, 16 Jul 2016 01:52:40 GMT</pubDate>
         </item>
     </channel>
