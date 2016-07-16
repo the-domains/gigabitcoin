@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 19:27:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2016 19:27:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Coinbase Tracks User Funds Leaving The Exchange's Wallets]]></title>
-            <description><![CDATA[<article><h1>Coinbase Tracks User Funds Leaving The Exchange's Wallets</h1><p>A new debate has been taking place on Reddit today, as some users complain how Coinbase tracks the funds being purchased through their exchange platform. BitBet, one of the many Bitcoin gambling websites, had one user "threatened" by Coinbase after placing a bet on their site.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/234c748c0cc415bfa82a62ff5fbe6cbb/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_107674460.jpg"></article>]]></description>
-            <link>http://themerkle.com/coinbase-tracks-user-funds-leaving-the-exchanges-wallets/</link>
-            <guid isPermaLink="false">4daee37b-f69c-4195-bfa0-6dc23dfafd4a</guid>
-            <pubDate>Sat, 16 Jul 2016 19:26:16 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Forex Expert: Bitcoin Should Be Taken More Seriously]]></title>
             <description><![CDATA[<article><h1>Forex Expert: Bitcoin Should Be Taken More Seriously</h1><p>Forex trading instructor for DailyFX and ex-JPMorgan Chase forex trader, Tyler Yell, recently explained why Bitcoin should be taken seriously. Yell made the case that in times of market duress, including a period of economic collapse, Bitcoin acts like digital gold. DailyFx is the research website of Forex Capital Markets (FXCM), an online Foreign exchange market broker.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f023037f9c290bc320aafc7fa26bb45f/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FForex.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://www.cryptocoinsnews.com/bitcoin-price-compression-building-pressure-2/</link>
             <guid isPermaLink="false">ef8c3e1d-ac5e-43e5-9e5c-63aca425fc41</guid>
             <pubDate>Sat, 16 Jul 2016 19:26:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Bitcoin's Halving Was a Boring Vindication - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Why Bitcoin's Halving Was a Boring Vindication - CoinDesk</h1><p>An event anticipated in the bitcoin community for years came and went last week with little fanfare and, a week later, little impact. At approximately 12:48 EST, the 420,000th block on the bitcoin blockchain was mined and sealed by F2Pool, one of the largest bitcoin pools, earning its members 12.5 BTC.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/330a8c1b202e4f53b541661bbb35a05c/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2Fshutterstock_255080062.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/bitcoin-halving-event-boring-vindication-software/</link>
+            <guid isPermaLink="false">ec92d3c9-7150-4a46-841d-8b137d50be4e</guid>
+            <pubDate>Sat, 16 Jul 2016 19:26:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
