@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 01:53:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2016 01:53:27 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Professor to SEC: Bitcoin Funds 'Like a Penny Stock or Ponzi']]></title>
-            <description><![CDATA[<article><h1>Professor to SEC: Bitcoin Funds 'Like a Penny Stock or Ponzi'</h1><p>Computer science professor Jorge Stolfi has angered bitcoiners with his submission to the SEC regarding a proposed Bitcoin investment fund. Also read: SolidX Files to Become First Bitcoin ETF on NY Stock Exchange As part of its approval process to be listed on the Bats BZX Exchange, details of the COIN ETF were published today in the US Federal Register.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48f16cdf59d2a08a35d2c596aa89f368/croprotate.jpg?cropheight=999&cropwidth=1910&degrees=0&input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fbitcoin.jpg&x=0&y=0"></article>]]></description>
-            <link>https://news.bitcoin.com/professor-sec-bitcoin-penny-stock-ponzi/</link>
-            <guid isPermaLink="false">f0b61954-b454-4405-8a6c-1a817e5b7d6c</guid>
-            <pubDate>Sat, 16 Jul 2016 01:52:36 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Ethereum Gets Ready to Hardfork]]></title>
             <description><![CDATA[<article><h1>Ethereum Gets Ready to Hardfork</h1><p>Exchanges, miners, developers, users and ethereum's entire ecosystem is getting ready for a historical and defining hardfork. Kraken, eth's biggest exchange after Polonix, announced traders will be offered only one option, eth on the longest chain. If other exchanges follow Kraken's example, which is likely, a chain split is practically impossible save for, at worst, a couple of hours.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c472e7ff51ee50de06bd5cb6da883c4d/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FRunners-ready.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Old Bitcoiner Had a Farm: Ten Amazing Mining Facilities</h1><p>Cryptocurrency mining has become not only a multi-billion business, but also an area for artistic self-expression. Considering the fierce competition on the market, miners have to come up with unusual solutions. In this feature, ForkLog covers some of the most breathtaking projects in bitcoin mining industry.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b87a290ac25420d2e990dd9cb1a55c2f/noop.jpg?input=http%3A%2F%2Fforklog.com%2Fwp-content%2Fuploads%2Fhonkong-allied.jpg"></article>]]></description>
             <link>http://forklog.net/old-bitcoiner-had-a-farm-ten-amazing-mining-facilities/</link>
             <guid isPermaLink="false">5b9528f4-83f1-4959-9085-6fab0b941399</guid>
+            <pubDate>Sat, 16 Jul 2016 01:52:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russian Political Party Calls For Bitcoin Legalization]]></title>
+            <description><![CDATA[<article><h1>Russian Political Party Calls For Bitcoin Legalization</h1><p>Boris Titov, the leader of Russia's Party of Growth, called for the country to legalize cryptocurrencies like bitcoin and become a leader in blockchain development, according to Tass, a Russian news agency. Speaking at a press conference, Titov also said Russia can take advantage of its difficult economic situation to embrace blockchain technology as a way to become a very profitable country.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/85105364fb0c9ce1d9d434966119f4c0/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FBoris-Titov.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/russian-political-party-calls-for-bitcoin-legalization/</link>
+            <guid isPermaLink="false">ec89c3d6-e71c-4cfd-b889-80b9d277a117</guid>
             <pubDate>Sat, 16 Jul 2016 01:52:34 GMT</pubDate>
         </item>
     </channel>
