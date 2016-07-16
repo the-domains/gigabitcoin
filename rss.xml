@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 01:53:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2016 01:53:23 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Bitcoin Game #37: Back in the Saddle with Christopher Camp]]></title>
+            <description><![CDATA[<article><h1>The Bitcoin Game #37: Back in the Saddle with Christopher Camp</h1><p>Hello, welcome to episode 37 of The Bitcoin Game. I'm Rob Mitchell. Everyone has a unique story. When I started this podcast, I really wanted to talk to Bitcoiners who hadn't been exposed in Bitcoin media.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/223e57c6fad2a83cf3e46f610a7dffdb/noop.jpg?input=https%3A%2F%2Fc1.staticflickr.com%2F9%2F8776%2F28327851155_ee2b563f23_b.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/the-bitcoin-game-37-back-in-the-saddle-with-christopher-camp</link>
+            <guid isPermaLink="false">c1cf531f-ca20-4526-a060-35d9c065a811</guid>
+            <pubDate>Sat, 16 Jul 2016 01:52:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SolidX Reveals Plan to Launch a Bitcoin ETF]]></title>
             <description><![CDATA[<article><h1>SolidX Reveals Plan to Launch a Bitcoin ETF</h1><p>Earlier this week, blockchain technology provider SolidX revealed in a filing with the Securities and Exchange Commission (SEC) that is looking to launch an exchange traded fund based on the digital currency bitcoin. "According to the S-1 filing, the trust will issue shares that represent units of ownership in the trust, with SolidX Management LLC acting as the custodian of bitcoin held by the trust.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e15389789aacf7b9beb9873698095415/croprotate.jpg?cropheight=852&cropwidth=1280&degrees=0&input=https%3A%2F%2Fwww.etftrends.com%2Fwp-content%2Fuploads%2F2016%2F07%2FSolidX-Files-Plans-to-Launch-a-Bitcoin-ETF.jpg&x=0&y=0"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.americanbanker.com/bankthink/how-big-should-bitcoin-blocks-be-depends-on-your-values-1090214-1.html</link>
             <guid isPermaLink="false">d47cfa20-59ae-492b-bf08-b33391a70dce</guid>
             <pubDate>Sat, 16 Jul 2016 01:52:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Crypto Show Austin Unsungs amazing progress and Christopher Franko of Expanse]]></title>
-            <description><![CDATA[<article><h1>The Crypto Show Austin Unsungs amazing progress and Christopher Franko of Expanse</h1><p>The first hour we talk with Natalie Williams and Randy Palmer about the great success had here in Austin with the Arcade.City and Unsung.org team up. To date over 650 meals have been served in about 2 weeks time with zero waste on admin fees.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8560901598bf362d2880503daa6e6cc2/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1862-8a0355da0155b321a78ac503a97404d26f70acb082116752ffd8cf07864aca4e.jpg"></article>]]></description>
-            <link>https://letstalkbitcoin.com/blog/post/the-crypto-show-austin-unsungs-amazing-progress-and-christopher-franko-of-expanse</link>
-            <guid isPermaLink="false">3f4f7d25-48e2-46b6-be7e-b21753b29be6</guid>
-            <pubDate>Fri, 15 Jul 2016 06:15:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
