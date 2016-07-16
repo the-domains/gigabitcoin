@@ -7,27 +7,6 @@
         <lastBuildDate>Sat, 16 Jul 2016 19:27:00 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>@bit_novosti @rogerkver @ErikVoorhees @gavinandresen @VitalikButerin @jgarzik small block leads to high fees and is centralization factor.</p>]]></description>
-            <link>https://twitter.com/JihanWu/status/752561125347262465</link>
-            <guid isPermaLink="false">24a95a53-549d-46bd-b217-7a3b40ab2ff9</guid>
-            <pubDate>Sat, 16 Jul 2016 19:26:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Instead of weekly complaints about Coinbase or Circle, Complain about the Regulations that CAUSE them to need to track funds / ban accounts * /r/Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Instead of weekly complaints about Coinbase or Circle, Complain about the Regulations that CAUSE them to need to track funds / ban accounts * /r/Bitcoin</h1><p>Companies in this space don't freeze money, block accounts or trace spending because the leadership has lots of spare time or because they have...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
-            <link>https://www.reddit.com/r/Bitcoin/comments/4t4lir/instead_of_weekly_complaints_about_coinbase_or/</link>
-            <guid isPermaLink="false">b4949f0f-627f-4359-ba55-294b42117a9e</guid>
-            <pubDate>Sat, 16 Jul 2016 19:26:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dark Net Markets Are Booming From Better Quality & Safety]]></title>
-            <description><![CDATA[<article><h1>Dark Net Markets Are Booming From Better Quality & Safety</h1><p>Dark Net Markets (DNM) are growing bigger than ever, with the Also read: The Hitchhikers Guide To The Invisible Internet Economist over $50 million USD in transactions flowing through these marketplaces. The publication used data collected from Gwern Branwen's dark web archive and broke down quite a bit of the behavior taking place in the Dark Net Market environment.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7488e918169b736d48f9a9311d0e4cb3/noop.png?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2F20160716_irc535-804x1024.png"></article>]]></description>
-            <link>https://news.bitcoin.com/dark-net-market-quality-safety/</link>
-            <guid isPermaLink="false">f9eef534-7d2d-4d4d-b9d3-5e7ba6c1934c</guid>
-            <pubDate>Sat, 16 Jul 2016 19:26:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Rakuten to Acquire IP from its Portfolio Company Bitnet - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Rakuten to Acquire IP from its Portfolio Company Bitnet - NEWSBTC</h1><p>Rakuten in talks with Bitnet to acquire its Intellectual Property to continue its research and development of blockchain solutions. Read more... It has been a bit over a year since Rakuten, the Japanese e-commerce major decided to use Bitnet to accept bitcoin payments on its platform.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/67719bebb80881ea8daef37e8b9d61a6/noop.jpg?input=https%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2014%2F07%2FRakuten-Logo-LG-WD-CNT2.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/07/16/rakuten-acquire-bitnet-ip/</link>
@@ -75,6 +54,27 @@
             <link>https://www.cryptocoinsnews.com/wirex-offers-a-free-virtual-debit-card-powered-by-bitcoin/</link>
             <guid isPermaLink="false">15524d30-0b5f-4c15-b440-6167da0c095f</guid>
             <pubDate>Sat, 16 Jul 2016 08:00:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin wallet provider iPayYou adds "Pay-by-Twitter" feature]]></title>
+            <description><![CDATA[<article><h1>Bitcoin wallet provider iPayYou adds "Pay-by-Twitter" feature</h1><p>Bitcoin wallet provider iPayYou, Inc. has launched a new "Pay-by-Twitter" feature that allows users to make peer-to-peer payments on Twitter. iPayYou is claimed to be the first bitcoin wallet that enables Twitter's 310 million monthly users to make peer-to-peer payments over Twitter with payments being made by simply entering a recipient's Twitter account name instead of an email of bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c7fe14da4235fc1bf9dce40b49a20c35/noop.jpg?input=http%3A%2F%2Fsiliconangle.com%2Ffiles%2F2016%2F07%2Fipayyou.jpg"></article>]]></description>
+            <link>http://siliconangle.com/blog/2016/07/14/bitcoin-wallet-provider-ipayyou-adds-pay-by-twitter-feature/</link>
+            <guid isPermaLink="false">462b00b3-470b-4925-9afe-65b3aadb835f</guid>
+            <pubDate>Sat, 16 Jul 2016 01:52:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Could an Artificial Intelligence use the blockchain as a medium for its memory?]]></title>
+            <description><![CDATA[<article><h1>Could an Artificial Intelligence use the blockchain as a medium for its memory?</h1><p>It depends on the type of AI being built. I think there are few key things to consider. 1. A blockchain is meant to store time series data (transactions). Therefore, is not optimized for frequently rewriting previously stored data. 2. A block chain by nature is linear.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
+            <link>https://www.quora.com/Could-an-Artificial-Intelligence-use-the-blockchain-as-a-medium-for-its-memory</link>
+            <guid isPermaLink="false">2001bfc6-a4ec-4c93-ac5e-94e0ee5635de</guid>
+            <pubDate>Sat, 16 Jul 2016 01:52:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cryptocurrency Powered dAPP and Smart Contract Provider the Expanse™ Project [EXP] Launches New Revolutionary Platform, Borderless.Tech™]]></title>
+            <description><![CDATA[<article><h1>Cryptocurrency Powered dAPP and Smart Contract Provider the Expanse™ Project [EXP] Launches New Revolutionary Platform, Borderless.Tech™</h1><p>July 14, 2016 WASHINGTON, NC. - The Expanse Project, released a proof of concept version of its revolutionary decentralized governance services platform, Borderless.Tech. Borderless.tech is a coalition of globally accessible governance services forged out of smart contracts housed on the Expanse blockchain.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0ab8c156d1bd37129c826d8c41a46a6e/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F15082910%2Fexpanse_world-1080x675.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/15/cryptocurrency-powered-dapp-and-smart-contract-provider-the-expanse-project-exp-launches-new-revolutionary-platform/</link>
+            <guid isPermaLink="false">8f62ffab-c0ec-4b90-939e-328057d9c937</guid>
+            <pubDate>Sat, 16 Jul 2016 01:52:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
