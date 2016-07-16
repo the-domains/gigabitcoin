@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 19:27:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2016 19:27:00 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>@bit_novosti @rogerkver @ErikVoorhees @gavinandresen @VitalikButerin @jgarzik small block leads to high fees and is centralization factor.</p>]]></description>
+            <link>https://twitter.com/JihanWu/status/752561125347262465</link>
+            <guid isPermaLink="false">24a95a53-549d-46bd-b217-7a3b40ab2ff9</guid>
+            <pubDate>Sat, 16 Jul 2016 19:26:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Instead of weekly complaints about Coinbase or Circle, Complain about the Regulations that CAUSE them to need to track funds / ban accounts * /r/Bitcoin]]></title>
             <description><![CDATA[<article><h1>Instead of weekly complaints about Coinbase or Circle, Complain about the Regulations that CAUSE them to need to track funds / ban accounts * /r/Bitcoin</h1><p>Companies in this space don't freeze money, block accounts or trace spending because the leadership has lots of spare time or because they have...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.cryptocoinsnews.com/wirex-offers-a-free-virtual-debit-card-powered-by-bitcoin/</link>
             <guid isPermaLink="false">15524d30-0b5f-4c15-b440-6167da0c095f</guid>
             <pubDate>Sat, 16 Jul 2016 08:00:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin wallet provider iPayYou adds "Pay-by-Twitter" feature]]></title>
-            <description><![CDATA[<article><h1>Bitcoin wallet provider iPayYou adds "Pay-by-Twitter" feature</h1><p>Bitcoin wallet provider iPayYou, Inc. has launched a new "Pay-by-Twitter" feature that allows users to make peer-to-peer payments on Twitter. iPayYou is claimed to be the first bitcoin wallet that enables Twitter's 310 million monthly users to make peer-to-peer payments over Twitter with payments being made by simply entering a recipient's Twitter account name instead of an email of bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c7fe14da4235fc1bf9dce40b49a20c35/noop.jpg?input=http%3A%2F%2Fsiliconangle.com%2Ffiles%2F2016%2F07%2Fipayyou.jpg"></article>]]></description>
-            <link>http://siliconangle.com/blog/2016/07/14/bitcoin-wallet-provider-ipayyou-adds-pay-by-twitter-feature/</link>
-            <guid isPermaLink="false">462b00b3-470b-4925-9afe-65b3aadb835f</guid>
-            <pubDate>Sat, 16 Jul 2016 01:52:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
