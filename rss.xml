@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 05:51:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2016 05:51:01 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[If SHA256 produces an alphanumeric hash, how can a hash be "less than a certain value"?]]></title>
+            <description><![CDATA[<article><h1>If SHA256 produces an alphanumeric hash, how can a hash be "less than a certain value"?</h1><p>You treat the hash as a base 16 number, and compare it like you would an integer. So, for example, with normal numbers, to determine that 926 is less than 941, you basically follow this reasoning: The numbers have the same number of digits, so nothing can be determined yet.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46571/if-sha256-produces-an-alphanumeric-hash-how-can-a-hash-be-less-than-a-certain</link>
+            <guid isPermaLink="false">2046d3b4-4a7b-49ab-90f5-36b71d4f62b8</guid>
+            <pubDate>Sun, 17 Jul 2016 05:50:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Weekly Analysis - Can BTC/USD Gain Further? - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Weekly Analysis - Can BTC/USD Gain Further? - NEWSBTC</h1><p>Bitcoin price after dipping close to $600 found support and traded higher. Can BTC/USD break the $680 hurdle to challenge $700? Bitcoin price after dipping close to $600 found support and traded higher. Can BTC/USD break the $680 hurdle to challenge $700?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/498fb4bdf31a75d2e693c25fe2d7575d/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F17051955%2FBitcoin3.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/17/bitcoin-price-weekly-analysis-can-btcusd-gain/</link>
+            <guid isPermaLink="false">50b9ab48-ec79-447d-a480-32aafd9e9a89</guid>
+            <pubDate>Sun, 17 Jul 2016 05:50:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the best peer to peer bitcoin exchanges?]]></title>
+            <description><![CDATA[<article><h1>What are the best peer to peer bitcoin exchanges?</h1><p>Answer: Fastest and easiest way to buy and sell bitcoins is the biggest, most reliable and secure p2p exchanger. * Worldwide presence. * Strong traders base. * Reliable escrow. * Responsive staff. * Huge community. There red are others like Buy bitcoin instantly (just a niche of scammers an...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
+            <link>https://www.quora.com/What-are-the-best-peer-to-peer-bitcoin-exchanges</link>
+            <guid isPermaLink="false">a5653751-eea6-4054-8cfb-0c2c2b72d41e</guid>
+            <pubDate>Sun, 17 Jul 2016 05:50:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Narco trade via Darknet, Bitcoin reported in India for first time]]></title>
             <description><![CDATA[<article><h1>Narco trade via Darknet, Bitcoin reported in India for first time</h1><p>Drug trafficking in India is on a new 'high' with anti-narcotics agencies having detected the crime being perpetrated through the cryptic 'darknet' and the clandestine and unregulated currency Bitcoin. The Narcotics Control Bureau (NCB), chief law enforcement and intelligence agency responsible for fighting drug trafficking and abuse of illegal substances, has interdicted two such syndicates operating in the country.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f0e206f50348274977f9dc4d1081533b/noop.jpg?input=http%3A%2F%2Fimages.indianexpress.com%2F2016%2F07%2Fdrugs-lead-480.jpg%3Fw%3D480"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>https://news.bitcoin.com/joe-rogan-excited/</link>
             <guid isPermaLink="false">e5b805c2-36aa-4303-bf08-ac5f68e966fa</guid>
             <pubDate>Sun, 17 Jul 2016 00:03:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turkish Lira Losing 5% Value Shows Why Bitcoin Is A Necessity]]></title>
-            <description><![CDATA[<article><h1>Turkish Lira Losing 5% Value Shows Why Bitcoin Is A Necessity</h1><p>The horrible situation in Turkey is sending more shockwaves to the fragile global financial ecosystem. After news had broken about an attempted military coup in the country, it didn't take long for the Turkish lira to depreciate. Over the course of fewer than 24 hours, the currency lost 5% of its value against the US Dollar.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0ed27b48bc55cfd6a674d7c4243b33e1/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F16131437%2Fshutterstock_340682912.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/16/turkish-lira-losing-5-value-shows-bitcoin-necessity/</link>
-            <guid isPermaLink="false">9eaf5992-c93c-423c-9cdc-53c0e4149a34</guid>
-            <pubDate>Sun, 17 Jul 2016 00:03:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HHS Issues New Ransomware Guidelines For Healthcare Sector]]></title>
-            <description><![CDATA[<article><h1>HHS Issues New Ransomware Guidelines For Healthcare Sector</h1><p>The year 2016 has been quite successful for Bitcoin ransomware developers so far. After crippling two major hospital systems in quick succession, it was a matter of time until new guidelines would be established. The Healthcare Insurance Portability and Accountability Act was created to address these malware threats.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f0c36bbe9bea09794acd5ac806d74144/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F16145303%2Fshutterstock_405027385.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/16/hhs-issues-new-ransomware-guidelines-healthcare-sector/</link>
-            <guid isPermaLink="false">b4646519-962b-4d33-8ad3-7b60ad85846f</guid>
-            <pubDate>Sun, 17 Jul 2016 00:03:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain Intelligence Group - Closes $100,000 USD Investment Via Bitcoin - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Blockchain Intelligence Group - Closes $100,000 USD Investment Via Bitcoin - NEWSBTC</h1><p>VANCOUVER, BC - 13 July, 2016 - Blockchain Intelligence Group ("BIG") today announces that the Company now allows potential investors the opportunity to buy shares in the current BIG private placement using Bitcoins, a digital currency, besides traditional monetary forms. The company says it allows accredited investors to invest a minimum of fifteen (15) bitcoins into their current round.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ded0f93aa2cf0848251785d3afc1454b/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F16203656%2FScreen-Shot-2016-07-17-at-1.06.27-AM.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/16/blockchain-intelligence-group-closes-100000-usd-investment-via-bitcoin/</link>
-            <guid isPermaLink="false">7c364b96-7473-42b4-a3b8-e51ee6afbbc5</guid>
-            <pubDate>Sat, 16 Jul 2016 20:06:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
