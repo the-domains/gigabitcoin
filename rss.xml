@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 15:38:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2016 15:38:08 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Ironic Plagiarism of a Paper on Integrity of Research and Blockchain Technology - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>The Ironic Plagiarism of a Paper on Integrity of Research and Blockchain Technology - NEWSBTC</h1><p>The research paper on the use of blockchain technology to maintain experimental integrity is reported to have been plagiarised from an earlier blog post. READ MORE: Fudging Clinical Trial Data Made Impossible by Blockchain Technology For those of our readers who have been following us closely, you will probably remember one of our news articles on a blockchain technology based solution for maintaining the integrity of clinical trials.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/29f8b965ba3d5e9f066cb44e61c4cbb3/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F16233238%2FBank-Hold-Up.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/17/plagiarism-research-blockchain-technology/</link>
+            <guid isPermaLink="false">6afc4945-a5ac-45f9-9a97-08243c83f8ef</guid>
+            <pubDate>Sun, 17 Jul 2016 15:37:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IBM Launches Blockchain Cloud Services On Linux Server]]></title>
             <description><![CDATA[<article><h1>IBM Launches Blockchain Cloud Services On Linux Server</h1><p>IBM has introduced a cloud-based blockchain service for business-to-business networks that allows companies to test performance, interoperability and privacy of blockchain ecosystems. The company noted in a press release that the service is suited to organizations in regulated industries. IBM's blockchain cloud is supported by IBM LinuxOne, which IBM considers the industry's most secure Linux-only server.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/75ffa260219ba8cad5af55f616c191bd/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F02%2FIBM-Logo.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>5 FinTech Companies to Shape the Future of Money</h1><p>With 2016 marking four years since the last halving, dropping to 12.5 bitcoins every ten minutes, what FinTech companies should we look out for in the years ahead? The birth of Blockchain technology is quickly becoming the main component of the FinTech revolution and is quite possibly considered the most innovative concept in the FinTech industry.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a80c38c725486a22f9c2cb6f6d4fb105/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3L2ZjYjJmZTEzYTgyZTgzMzBiZjg4OTkwNTcxMGFlNDQ3LmpwZw%3D%3D.jpg"></article>]]></description>
             <link>http://cointelegraph.com/news/5-fintech-companies-to-shape-the-future-of-money</link>
             <guid isPermaLink="false">74d38199-af30-4cb4-a283-bfe09b1092af</guid>
-            <pubDate>Sun, 17 Jul 2016 15:37:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Adoption Could Benefit From Centralized Spending Solutions]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Adoption Could Benefit From Centralized Spending Solutions</h1><p>In the world of mobile payments, there are far too many options to choose from these days. Fragmentation of the mobile payments industry may seem beneficial to the consumer, but without streamlined payment options most consumers can use wherever they go, there is still a lot of work to be done.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5481b9acb6fc0cad27fb78bfe6ff6873/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_398015629.jpg"></article>]]></description>
-            <link>http://themerkle.com/bitcoin-adoption-could-benefit-from-centralized-spending-solutions/</link>
-            <guid isPermaLink="false">785b6673-6715-46e5-b324-6644d8be27b6</guid>
             <pubDate>Sun, 17 Jul 2016 15:37:15 GMT</pubDate>
         </item>
     </channel>
