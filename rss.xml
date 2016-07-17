@@ -7,8 +7,29 @@
         <lastBuildDate>Sun, 17 Jul 2016 05:51:01 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Ethereum Price Weekly Analysis - More Upsides Likely In ETH? - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Ethereum Price Weekly Analysis - More Upsides Likely In ETH? - NEWSBTC</h1><p>Ethereum price managed to hold and important support area and bounced, but can it continue to gain bids in the near term? Ethereum price managed to hold and important support area and bounced, but can it continue to gain bids in the near term?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e2704618b33d275cb54f80c75d97cb81/croprotate.png?cropheight=906&cropwidth=1816&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F17044122%2FEthereum14.png&x=3&y=0"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/17/ethereum-price-weekly-analysis-upsides-likely-eth/</link>
+            <guid isPermaLink="false">2b39e3cc-ff90-4676-9003-26c0449b7dc7</guid>
+            <pubDate>Sun, 17 Jul 2016 05:50:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[If SHA256 produces an alphanumeric hash, how can a hash be "less than a certain value"?]]></title>
+            <description><![CDATA[<article><h1>If SHA256 produces an alphanumeric hash, how can a hash be "less than a certain value"?</h1><p>You treat the hash as a base 16 number, and compare it like you would an integer. So, for example, with normal numbers, to determine that 926 is less than 941, you basically follow this reasoning: The numbers have the same number of digits, so nothing can be determined yet.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46571/if-sha256-produces-an-alphanumeric-hash-how-can-a-hash-be-less-than-a-certain</link>
+            <guid isPermaLink="false">2046d3b4-4a7b-49ab-90f5-36b71d4f62b8</guid>
+            <pubDate>Sun, 17 Jul 2016 05:50:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Weekly Analysis - Can BTC/USD Gain Further? - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Weekly Analysis - Can BTC/USD Gain Further? - NEWSBTC</h1><p>Bitcoin price after dipping close to $600 found support and traded higher. Can BTC/USD break the $680 hurdle to challenge $700? Bitcoin price after dipping close to $600 found support and traded higher. Can BTC/USD break the $680 hurdle to challenge $700?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/498fb4bdf31a75d2e693c25fe2d7575d/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F17051955%2FBitcoin3.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/17/bitcoin-price-weekly-analysis-can-btcusd-gain/</link>
+            <guid isPermaLink="false">50b9ab48-ec79-447d-a480-32aafd9e9a89</guid>
+            <pubDate>Sun, 17 Jul 2016 05:50:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What are the best peer to peer bitcoin exchanges?]]></title>
-            <description><![CDATA[<article><h1>What are the best peer to peer bitcoin exchanges?</h1><p>Answer: Fastest and easiest way to buy and sell bitcoins is the biggest, most reliable and secure p2p exchanger. * Worldwide presence. * Strong traders base. * Reliable escrow. * Responsive staff. * Huge community. There red are others like Buy bitcoin instantly (just a niche of scammers an...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
+            <description><![CDATA[<article><h1>What are the best peer to peer bitcoin exchanges?</h1><p>Answer: Fastest and easiest way to buy and sell bitcoins is the biggest, most reliable and secure p2p exchanger. * Worldwide presence. * Strong traders base. * Reliable escrow. * Responsive staff. * Huge community. There red are others like Buy bitcoin instantly (just a niche of scammers an...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
             <link>https://www.quora.com/What-are-the-best-peer-to-peer-bitcoin-exchanges</link>
             <guid isPermaLink="false">a5653751-eea6-4054-8cfb-0c2c2b72d41e</guid>
             <pubDate>Sun, 17 Jul 2016 05:50:34 GMT</pubDate>
@@ -53,27 +74,6 @@
             <description><![CDATA[<article><h1>The Ethereum Geth Client 1.4.10 Available Now With Hard Fork Support</h1><p>The latest Ethereum Go client Geth version 1.4.10 named "Return of the ETH" has been just made available for download as the go-ethereum team's DAO hard-fork implementation. It enables anyone to choose whether they would like to support the DAO hard-fork or oppose it, and take them to their blockchain of choice.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d205aa0a5e6a904446d459193efea430/noop.jpg?input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fgeth-hard-fork-support-580x293.jpg"></article>]]></description>
             <link>http://cryptomining-blog.com/8113-the-ethereum-geth-client-1-4-10-available-now-with-hard-fork-support/</link>
             <guid isPermaLink="false">263f2b45-a449-4503-a316-618902d21100</guid>
-            <pubDate>Sun, 17 Jul 2016 00:03:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Joe Rogan is as Excited About Bitcoin as Ever - Bitcoin News]]></title>
-            <description><![CDATA[<article><h1>Joe Rogan is as Excited About Bitcoin as Ever - Bitcoin News</h1><p>Bitcoin expert, Andreas Antonopoulos, who has been on the Joe Rogan Experience three times and will be on the podcast once more September 7. Also read: 'They're Missing the Point!' - Antonopoulos Slams Banks' Blockchain Romance This is big news for Bitcoiners, who have enjoyed a wide range of comments about their digital currency this week, including English musician Lily Allen.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/533633a377f2baa23f1225a906f81496/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2Frogan-1.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/joe-rogan-excited/</link>
-            <guid isPermaLink="false">e5b805c2-36aa-4303-bf08-ac5f68e966fa</guid>
-            <pubDate>Sun, 17 Jul 2016 00:03:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turkish Lira Losing 5% Value Shows Why Bitcoin Is A Necessity]]></title>
-            <description><![CDATA[<article><h1>Turkish Lira Losing 5% Value Shows Why Bitcoin Is A Necessity</h1><p>The horrible situation in Turkey is sending more shockwaves to the fragile global financial ecosystem. After news had broken about an attempted military coup in the country, it didn't take long for the Turkish lira to depreciate. Over the course of fewer than 24 hours, the currency lost 5% of its value against the US Dollar.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0ed27b48bc55cfd6a674d7c4243b33e1/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F16131437%2Fshutterstock_340682912.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/16/turkish-lira-losing-5-value-shows-bitcoin-necessity/</link>
-            <guid isPermaLink="false">9eaf5992-c93c-423c-9cdc-53c0e4149a34</guid>
-            <pubDate>Sun, 17 Jul 2016 00:03:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HHS Issues New Ransomware Guidelines For Healthcare Sector]]></title>
-            <description><![CDATA[<article><h1>HHS Issues New Ransomware Guidelines For Healthcare Sector</h1><p>The year 2016 has been quite successful for Bitcoin ransomware developers so far. After crippling two major hospital systems in quick succession, it was a matter of time until new guidelines would be established. The Healthcare Insurance Portability and Accountability Act was created to address these malware threats.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f0c36bbe9bea09794acd5ac806d74144/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F16145303%2Fshutterstock_405027385.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/16/hhs-issues-new-ransomware-guidelines-healthcare-sector/</link>
-            <guid isPermaLink="false">b4646519-962b-4d33-8ad3-7b60ad85846f</guid>
             <pubDate>Sun, 17 Jul 2016 00:03:18 GMT</pubDate>
         </item>
     </channel>
