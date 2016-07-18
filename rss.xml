@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 01:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2016 01:13:38 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ModLog]]></title>
+            <description><![CDATA[<article><h1>ModLog</h1></article>]]></description>
+            <link>https://modlog.github.io/</link>
+            <guid isPermaLink="false">97be22eb-4749-461b-a634-4f3f793a4f64</guid>
+            <pubDate>Mon, 18 Jul 2016 01:13:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Narco trade via 'darknet', Bitcoin for first time]]></title>
             <description><![CDATA[<article><h1>Narco trade via 'darknet', Bitcoin for first time</h1><p>Punjab Narcotics Control Bureau claims 30% decline in drug trafficking in Punjab In 2015, 1,687 kg of opium, 1,416 kg of heroin, 94,403 kg of ganja, 3,349 kg of hashish, 113 kg of cocaine, 827 kg of ephedrine or pseudoephedrine among others were seized by various agencies across the country</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c438217f6f7c9e4df8d73f4612ad7541/noop.jpg?input=http%3A%2F%2Fimages.tribuneindia.com%2Fcms%2Fgall_content%2F2016%2F7%2F2016_7%24largeimg18_Monday_2016_020200216.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>First Instance of Bitcoin and Dark Net based Drug Trafficking Detected in India - NEWSBTC</h1><p>For the first time in India, the Narcotics Control Bureau has reported the activities of a darknet marketplace for drugs. The agency is currently investigating the syndicate behind it. Read more... India has registered its first case of illegal drug trafficking over the darknet using bitcoin as the mode of transaction.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/74d324b2b16fd5fc2c8a98967ae4d106/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F17122206%2Findia-ncb.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/07/17/bitcoin-darknet-drug-trafficking-india/</link>
             <guid isPermaLink="false">796e364a-9f9e-4345-9e6f-9fcbd81b21dd</guid>
-            <pubDate>Sun, 17 Jul 2016 19:49:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will the Brexit and China Continue to Influence Bitcoin Prices? - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Will the Brexit and China Continue to Influence Bitcoin Prices? - CoinDesk</h1><p>In the previous weeks, macroeconomic uncertainty has spurred investment interest in bitcoin, but is this likely to continue? As we covered last week in our H1 2016's market analysis, prices have pushed up 50% from 1st January, and two key drivers were, at least according to market observers, uncertainty in China (where the yuan has been devalued) and Europe (where the UK voted to leave the EU in an event known as the ' Brexit').</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2b4a67954bd7908c32b8b99438d86656/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2Fuk-china-e1468000983185.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/brexit-china-bitcoin-prices-2016/</link>
-            <guid isPermaLink="false">7d0ed788-4867-4949-b4c4-a85b3556aea8</guid>
             <pubDate>Sun, 17 Jul 2016 19:49:29 GMT</pubDate>
         </item>
     </channel>
