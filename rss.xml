@@ -4,11 +4,18 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 13:40:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 13:40:57 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Congressional Resolution Calls on US Government to Support Blockchain - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Congressional Resolution Calls on US Government to Support Blockchain - CoinDesk</h1><p>A new resolution submitted to the US House of Representatives calls for the development of "a national policy for technology" that would include digital currencies and blockchain technology. It invokes the idea of bitcoin without calling it by name - referring to "alternative non-fiat currencies" - and blockchain tech, which it says has the potential to "fundamentally change" how trust and security are established in online transactions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/91c1add1fcc29b8dd3d0bb0febaba429/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2FCongress.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/congressional-resolution-calls-us-government-support-blockchain/</link>
+            <guid isPermaLink="false">a0e11dd2-5b71-4816-b258-b3401ae1b5da</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How are the costs of blockchain mining distributed?]]></title>
-            <description><![CDATA[<article><h1>How are the costs of blockchain mining distributed?</h1><p>Answer: This question is completely convoluted and unanswerable. ~~</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
+            <description><![CDATA[<article><h1>How are the costs of blockchain mining distributed?</h1><p>Answer: This question is completely convoluted and unanswerable. ~~</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
             <link>https://www.quora.com/How-are-the-costs-of-blockchain-mining-distributed</link>
             <guid isPermaLink="false">cf2d6cff-acf4-4310-bf4d-24b0d8caaa2b</guid>
             <pubDate>Tue, 19 Jul 2016 13:36:09 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Total # of miners?</h1><p>Is there any way to find out the total no.of mining nodes in the Bitcoin network? In case of mining pools, the devices present in each pool.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/46585/total-of-miners</link>
             <guid isPermaLink="false">d3a6c144-e4a8-48ad-bf36-ec3a590bc043</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum Price Technical Analysis - Double Bottom Formation? - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Ethereum Price Technical Analysis - Double Bottom Formation? - NEWSBTC</h1><p>Ethereum price is currently struggling against the US dollar, but as long as it is above the $10.80 level it may bounce again. Ethereum price failed to retain the bullish bias against the US Dollar and faced offers near $11.50.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/559625dddfc00aad92777bb23cac8bf5/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F19031957%2FEthereum16.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/19/ethereum-price-technical-analysis-double-bottom-formation/</link>
-            <guid isPermaLink="false">275c388a-6a05-428c-b259-e6c55326295f</guid>
             <pubDate>Tue, 19 Jul 2016 13:36:08 GMT</pubDate>
         </item>
     </channel>
