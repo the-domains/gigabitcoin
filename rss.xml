@@ -4,77 +4,77 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 13:38:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 13:40:49 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Technical Analysis: Bitcoin Price to Retract Before Big Rally]]></title>
-            <description><![CDATA[<article><h1>Technical Analysis: Bitcoin Price to Retract Before Big Rally</h1><p>Confusing information could lead the bitcoin price to test its $600 support during a congestion area for another month before returning to $700. After which, the price is set to rise even further to the resistance at $820.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/96d44de0ed280e6bac7deeb7014abef7/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F07%2Fbitcoin-july-17th-2016-long-1024x693.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/technical-analysis-bitcoin-price-rally/</link>
-            <guid isPermaLink="false">2392cd17-166f-4608-af44-1449b1126616</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:06 GMT</pubDate>
+            <title><![CDATA[Russia considers defining bitcoin as foreign currency]]></title>
+            <description><![CDATA[<article><h1>Russia considers defining bitcoin as foreign currency</h1><p>According to Alexei Moiseyev, Russia's Deputy Finance Minister, the authorities are drafting a new law that would bring bitcoin and other cryptocurrencies under definition of foreign currency. The Ministry is planning to prohibit the issuance of Bitcoin in the country while allowing purchasing cryptocurrencies in order to be used or sold abroad.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1be3fc3dcf7eb5361b15f5700f2b3950/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F06%2FRu1.png"></article>]]></description>
+            <link>http://forklog.net/russia-considers-defining-bitcoin-as-foreign-currency/</link>
+            <guid isPermaLink="false">ffbb9beb-a2ba-4c51-9e66-2fcc7f2780c3</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dash Added to Bitcoin ATMs in Latin America via TigoCTM | Finance Magnates]]></title>
-            <description><![CDATA[<article><h1>Dash Added to Bitcoin ATMs in Latin America via TigoCTM | Finance Magnates</h1><p>Buying Dash has just become a lot easier for Latin American cryptocurrency users whether they are unbanked, underbanked or just looking to protect their savings from government malfeasance. TigoCTM, a Panama-based Crypto Teller Machine company, has added Dash to the roster of currencies available on its network.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8e02c4b6a4abebf2e963c70c6320214e/noop.jpg?input=http%3A%2F%2Fwww.financemagnates.com%2Fwp-content%2Fuploads%2F2016%2F07%2FPanama-City.jpg"></article>]]></description>
-            <link>http://www.financemagnates.com/cryptocurrency/news/dash-added-to-bitcoin-atms-in-latin-america-via-tigoctm/</link>
-            <guid isPermaLink="false">22e1a65f-ef6f-4abd-9ee0-997709b7dc63</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:06 GMT</pubDate>
+            <title><![CDATA[Transactional currencies - Entry Credits and Gas]]></title>
+            <description><![CDATA[<article><h1>Transactional currencies - Entry Credits and Gas</h1><p>Working at Factom I came across an idea that seems seldom explored in the cryptocurrency space - a transactional currency called entry credits.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f4bc9467acac9a978aa5dc43ebcf9526/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-Factom-Cover.jpg"></article>]]></description>
+            <link>http://bravenewcoin.com/news/transactional-currencies-entry-credits-and-gas/</link>
+            <guid isPermaLink="false">3dfa386f-3750-4a06-90d1-f1b76e193f33</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Russia U-Turn: Bitcoin Forex Trading to Be Legal, Mining Banned]]></title>
-            <description><![CDATA[<article><h1>Russia U-Turn: Bitcoin Forex Trading to Be Legal, Mining Banned</h1><p>Russia's Deputy Finance Minister, Alexey Moiseev, has revealed that the latest version of the draft law would treat cryptocurrency trading just like foreign currency exchange (forex), allowing its purchase and subsequent use abroad for Russian citizens. Also read: India's Law Enforcement Probes Dark Net Markets Russian authorities want to equate Bitcoin to foreign currency, revealed Deputy Finance Minister, Alexey Moiseev, Ria Novosti.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d49bcbf74919e6ff393a59bfd73d189c/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fu-turn-road-sign.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/russia-bitcoin-forex-legal-mining-banned/</link>
-            <guid isPermaLink="false">6ddd4bf3-f392-4a4d-9552-14472a87916f</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:06 GMT</pubDate>
+            <title><![CDATA[Why did they have to expand the nonce value range?]]></title>
+            <description><![CDATA[<article><h1>Why did they have to expand the nonce value range?</h1><p>My understanding is that at a certain point, once hardware passed the 4 GH/s level, the 4 billion possible values for the nonce became insufficient in bitcoin mining, because a good rig could exhaust</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46600/why-did-they-have-to-expand-the-nonce-value-range</link>
+            <guid isPermaLink="false">dc05f899-84cf-4d71-93df-fa2ed4544c57</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Can Pokémon Go Lead to Bitcoin's Mass Adoption?]]></title>
-            <description><![CDATA[<article><h1>Can Pokémon Go Lead to Bitcoin's Mass Adoption?</h1><p>Pokémon Go, an augmented reality mobile game, which has been released less than two weeks ago, is quickly turning into a cultural phenomenon. As millions of people are downloading and playing it, a question can be raised: can Pokémon Go be used to improve Bitcoin's rate of adoption?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3533eea12ca42ef9025179e33049c336/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3L2RhN2Q4YzRjMGMyNGFmMzg1Y2U3MTQyNDgzMDM2Yzk1LmpwZw%3D%3D.jpg"></article>]]></description>
-            <link>http://cointelegraph.com/news/can-pok%C3%A9mon-go-lead-to-bitcoins-mass-adoption</link>
-            <guid isPermaLink="false">715b0fae-c055-44ef-bac7-65f91b854314</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:06 GMT</pubDate>
+            <title><![CDATA[Bitcoin Price Technical Analysis for 07/19/2016 - Aiming for Channel Support Again? - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 07/19/2016 - Aiming for Channel Support Again? - NEWSBTC</h1><p>Bitcoin price could be due for a test of the channel support once more, with technical indicators confirming a potential bounce. Bitcoin Price Key Highlights Bitcoin price is still inside its ascending channel pattern after getting rejected on its attempt to break past the resistance.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/24d8c90c7b799b28a353b3cc87297230/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F19044121%2F160719_btcusd.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/19/bitcoin-price-technical-analysis-07192016-aiming-channel-support/</link>
+            <guid isPermaLink="false">051e93cd-2e1c-4d40-b059-8a42a82d8090</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[BetChain Expands To 1000+ Games]]></title>
-            <description><![CDATA[<article><h1>BetChain Expands To 1000+ Games</h1><p>BetChain has done it again! One of the leading bitcoin casinos has expanded and is now hosting more than 1000 games on its floor. BetChain has done it again! One of the leading bitcoin casinos has expanded and is now hosting more than 1000 games on its floor.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1505f050e93be221b2549c71ef6a32c2/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F06%2F23160845%2Fbetchain.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/19/betchain-expands-1000-games/</link>
-            <guid isPermaLink="false">71720587-e8f7-4fed-bc75-18c8ade38be5</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:06 GMT</pubDate>
+            <title><![CDATA[Turkish Coup: Further Cause to Consider Investing in Bitcoin?]]></title>
+            <description><![CDATA[<article><h1>Turkish Coup: Further Cause to Consider Investing in Bitcoin?</h1><p>Was bitcoin's price spike yesterday in response to the attempted Turkish military coup? Current events continue to make the case for bitcoin as an investment, according to Orange Peel Investments, an investment firm that describes itself as "long" on bitcoin. The company contributed an opinion about bitcoin's role as an investment in Seeking Alpha.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/32a24188adb8599fa7d9e710182ed907/croprotate.jpeg?cropheight=1151&cropwidth=1920&degrees=0&input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2015%2F04%2Fliberland.jpeg&x=0&y=0"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/turkish-coup-further-cause-to-consider-investing-in-bitcoin/</link>
+            <guid isPermaLink="false">2ad04cad-4e93-490a-847f-d8111bd6937e</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brian Armstrong Does It Again, This Time about Ethereum Hard Fork - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Brian Armstrong Does It Again, This Time about Ethereum Hard Fork - NEWSBTC</h1><p>Brian Armstrong's recent tweet supporting Ethereum hard fork is being criticized by the cryptocurrency community. Read more... Coinbase has always been in the eye of a number of Bitcoin and Ethereum controversies, thanks to its founders. Now a recent tweet by Brian Armstrong, the co-founder and CEO of Coinbase has again made it to the news.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1d2bc402eba5aeae57649e9ab99c47cf/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F05%2F29195204%2FTechnology-Used-By-The-DAO-Contains-Critical-Flaws.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/19/brian-armstrong-etheruem-hard-fork/</link>
-            <guid isPermaLink="false">40f933ca-462f-411c-83c4-de782a3eb121</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:06 GMT</pubDate>
+            <title><![CDATA[IRC meeting summary for 2016-07-14]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-07-14</h1><p>Better documentation for the -blockmaxcost option was needed, but it's been pointed out it's an awful name as users think the 'max cost' is about the monetary cost. Translators also translate it in this way. The term 'block cost' is also used in the segwit BIP, sdaftuar proposes to change the description in the BIP.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/07/14/</link>
+            <guid isPermaLink="false">c1331d6c-f2c0-4770-8d35-50e60ecf39e9</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bitcoin Miner Bitmain Acquires Blockchain Data Startup - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Miner Bitmain Acquires Blockchain Data Startup - CoinDesk</h1><p>Bitmain, the operator of one of the bitcoin network's largest mining pools, has acquired a bitcoin data and analytics startup for an undisclosed amount. With the acquisition of Blocktrail, Bitmain will seek to bolster the services it offers at BTC.com, a block explorer and analytics service it launched last October.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8fae201412cd3c659969b5e51f5aaf2f/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2Fmarbles-e1468929649410.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/bitcoin-miner-bitmain-acquires-blockchain-data-startup/</link>
-            <guid isPermaLink="false">34ee8197-40b4-4a70-86ce-af94a7eaa019</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:05 GMT</pubDate>
+            <title><![CDATA[Total # of miners?]]></title>
+            <description><![CDATA[<article><h1>Total # of miners?</h1><p>Is there any way to find out the total no.of mining nodes in the Bitcoin network? In case of mining pools, the devices present in each pool.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46585/total-of-miners</link>
+            <guid isPermaLink="false">d3a6c144-e4a8-48ad-bf36-ec3a590bc043</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Bitcoin Globetrotter Covers 27 Countries: How He Did It, What He Learned]]></title>
-            <description><![CDATA[<article><h1>A Bitcoin Globetrotter Covers 27 Countries: How He Did It, What He Learned</h1><p>Felix Weis, a Berlin programmer, visited 27 countries and 50 cities in the past 18 months only spending bitcoin. He related his 18-month story in Forbes to a reporter, Laura Shin. Weis wanted to prove that bitcoin was not dead, as many people were claiming at the end of 2014.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0c2b8893625b19ea41be1bb10d2ad99c/croprotate.jpg?cropheight=598&cropwidth=1200&degrees=0&input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FFelix-Weis-image.jpg&x=0&y=0"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/using-only-bitcoin-in-27-countries-in-18-months-how-he-did-it-what-he-learned/</link>
-            <guid isPermaLink="false">afcd12d6-f6a2-480d-ae14-a101ce3abcf0</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:05 GMT</pubDate>
+            <title><![CDATA[Ethereum Price Technical Analysis - Double Bottom Formation? - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Ethereum Price Technical Analysis - Double Bottom Formation? - NEWSBTC</h1><p>Ethereum price is currently struggling against the US dollar, but as long as it is above the $10.80 level it may bounce again. Ethereum price failed to retain the bullish bias against the US Dollar and faced offers near $11.50.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/559625dddfc00aad92777bb23cac8bf5/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F19031957%2FEthereum16.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/19/ethereum-price-technical-analysis-double-bottom-formation/</link>
+            <guid isPermaLink="false">275c388a-6a05-428c-b259-e6c55326295f</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NAV Coin Joins Proof-of-Stake Online Wallet Community]]></title>
-            <description><![CDATA[<article><h1>NAV Coin Joins Proof-of-Stake Online Wallet Community</h1><p>NAV Coin continues to turn heads in the cryptocurrency ecosystem these days. Now that the transition to their new coin has been completed successfully, the team set out to create their web wallet. What makes this offering rather interesting is how it offers full proof-of-take functionality.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/76925be7a877d1b43db29137ab79706a/noop.png?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2FNAV-Coin.png"></article>]]></description>
-            <link>http://themerkle.com/nav-coin-joins-proof-of-stake-online-wallet-community/</link>
-            <guid isPermaLink="false">2c82f497-7447-47dc-b7b5-786e552aae90</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:05 GMT</pubDate>
+            <title><![CDATA[Creating empty blocks vs creating full blocks]]></title>
+            <description><![CDATA[<article><h1>Creating empty blocks vs creating full blocks</h1><p>Yes, you are correct that miners get to decide whether to include transactions in their block that they're mining. The protocol itself doesn't force them to include any transactions. Instead, they have a financial incentive to include transactions because they can collect transaction fees and profit more.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46604/creating-empty-blocks-vs-creating-full-blocks</link>
+            <guid isPermaLink="false">852f8283-931f-45e5-bb20-7905d6750f4e</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bitcoin Blockchain Proof-of-concept: Storj and Counterparty Partner to Add Support for Payment Channels]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Blockchain Proof-of-concept: Storj and Counterparty Partner to Add Support for Payment Channels</h1><p>Counterparty, the technology for decentralized financial tools on the Bitcoin blockchain, and Storj, the first decentralized, end-to-end encrypted cloud storage that utilizes blockchain technology, have teamed up and combined resources to develop payment channel technology for use on the Counterparty network.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6a33f70ddd0deec621385ed779cdb223/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3L2Y4OTNlMGEzOGYxNWUwODI5MWQ1ZTE1ZWE2NTRmOWNlLmpwZw%3D%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/bitcoin-blockchain-proof-of-concept-storj-and-counterparty-partner-to-add-support-for-payment-channels</link>
-            <guid isPermaLink="false">faec7ebe-0f4a-4bd5-bc2e-70d1df179b21</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:05 GMT</pubDate>
+            <title><![CDATA[CoinLink trading platform for sale or looking for an investor]]></title>
+            <description><![CDATA[<article><h1>CoinLink trading platform for sale or looking for an investor</h1><p>Since 2013, a dedicated team from Lebanon, started working on this bitcoin trading platform, and finished the development after a successful hardcore testing on hundreds of users simultaneously and thousands of active users.</p></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/19/coinlink-net-trading-platform-sale-looking-investor/</link>
+            <guid isPermaLink="false">02bfe2e6-af57-4495-bc2d-beaa644c4e1e</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
