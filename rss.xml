@@ -4,57 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 13:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 13:41:01 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Central Bank Digital Currencies Could Boost GDP, Bank of England Says - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Central Bank Digital Currencies Could Boost GDP, Bank of England Says - CoinDesk</h1><p>The Bank of England has released new research suggesting that a central bank-issued digital currency could lead to an increase in gross domestic product (GDP). The conclusions were drawn from the working paper published today that examined how a central bank-backed digital currency (referred to as a CBDC in the paper) could yield macroeconomic benefits, while providing banking regulators a clearer picture of the financial system.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/140c85806826fe02a4a064073f0239ac/noop.png?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2FScreen-Shot-2016-07-18-at-3.51.07-PM-e1468871533458.png"></article>]]></description>
-            <link>http://www.coindesk.com/central-bank-digital-currencies-boost-gdp-bank-england-says/</link>
-            <guid isPermaLink="false">0fc382f6-92e2-4cfd-83c3-37f2cc758624</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How are the costs of blockchain mining distributed?]]></title>
-            <description><![CDATA[<article><h1>How are the costs of blockchain mining distributed?</h1><p>A small transaction and large transaction have the same "load" on the ledger - however, the implicit tax (inflation as new bitcoins issued to miners, for example) has a percentage cost to the transaction. Does this favor small transactions over large ones? Does this cause undesirable externalities?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
-            <link>https://www.quora.com/unanswered/How-are-the-costs-of-blockchain-mining-distributed</link>
-            <guid isPermaLink="false">4abd8870-9833-4052-83f7-031c69668b77</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why did Intel develop their blockchain code in Python language?]]></title>
-            <description><![CDATA[<article><h1>Why did Intel develop their blockchain code in Python language?</h1><p>But the best thing that ever happened was the one time that I walked up to the security checkpoint carrying a sealed water bottle I had brought from my hotel, stopped short for a second, and said, "DAMN!" to the nice woman who worked in the newsstand just outside security, where I saw a refrigerator...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
-            <link>https://www.quora.com/unanswered/Why-did-Intel-develop-their-blockchain-code-in-Python-language</link>
-            <guid isPermaLink="false">22ad3416-e3dd-4ffb-80ad-a33128e933b2</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Does global instability benefit Bitcoin? What is the explanation for this phenomenon?]]></title>
-            <description><![CDATA[<article><h1>Does global instability benefit Bitcoin? What is the explanation for this phenomenon?</h1><p>Answer (1 of 3): The price of Bitcoin is roughly the inverse of the trust people have in central banks and governments - when people start feeling threatened that something might happen to their money, the price of Bitcoin rises (demand rises, while supply is more or less constant).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
-            <link>https://www.quora.com/Does-global-instability-benefit-Bitcoin-What-is-the-explanation-for-this-phenomenon</link>
-            <guid isPermaLink="false">2aa1341f-d2ee-4a2c-befc-71ee45c69511</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[As Race To Offer First Bitcoin ETF Heats Up, New Company Files To Create An Ether ETF]]></title>
-            <description><![CDATA[<article><h1>As Race To Offer First Bitcoin ETF Heats Up, New Company Files To Create An Ether ETF</h1><p>In the wake of recent activity in the race to launch a Bitcoin ETF, a newly formed company has filed to create an ETF out of another digital currency, ether.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7618d18b9137f33fc5682e24a1af78eab9a45899.jpg"></article>]]></description>
-            <link>http://www.forbes.com/sites/laurashin/2016/07/18/as-race-to-offer-first-bitcoin-etf-heats-up-new-company-files-to-create-an-ether-etf/</link>
-            <guid isPermaLink="false">1670d42a-3d28-4819-bc0a-c2dd2f9c1c67</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EB140 - Manfred Kareer: Bitsquare - The Decentralized Open-Soure Cryptocurrency-Fiat Exchange]]></title>
-            <description><![CDATA[<article><h1>EB140 - Manfred Kareer: Bitsquare - The Decentralized Open-Soure Cryptocurrency-Fiat Exchange</h1><p>Exchanges are often criticized as a central point of failure of the cryptocurrency space. This isn't without justification as, in recent years, we have seen a number of exchanges get hacked, robbed, or embezzled by their founders, which is far from insignificant.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1f0da632ddabe4fc6f84132c1e969215/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1867-afd66448985bcf2a3614e4e0b12d10abf880865c26d9ce3dd98f3036f1c3a492.jpg"></article>]]></description>
-            <link>https://letstalkbitcoin.com/blog/post/eb140-manfred-kareer-bitsquare-the-decentralized-open-soure-cryptocurrency-fiat-exchange</link>
-            <guid isPermaLink="false">e8f54fe1-b757-4036-852d-1b31a1b69bd3</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Bitcoin means you need no longer be subject to bad banks or monetary policy. Get Bitcoin, opt out. Wait 10 years. Let's see who's right.</p>]]></description>
-            <link>https://twitter.com/balajis/status/755088856060354560</link>
-            <guid isPermaLink="false">64ad254d-048a-473e-8288-5e029699d9b3</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:10 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[JPMorgan: Blockchain Tech is an 'Opportunity' for Asset Managers - CoinDesk]]></title>
             <description><![CDATA[<article><h1>JPMorgan: Blockchain Tech is an 'Opportunity' for Asset Managers - CoinDesk</h1><p>A new report from JPMorgan Chase and consultancy firm Oliver Wyman argues that blockchain technology presents an opportunity for asset managers. The report, released on 13th July, seeks to position the emerging technology as a means for asset managers to offer more sophisticated services to clients.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8ce0258a6d540a531e2ae290e85057b9/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2Fjpmorgan-e1468882068523.jpg"></article>]]></description>
@@ -75,6 +26,55 @@
             <link>https://www.quora.com/How-are-the-costs-of-blockchain-mining-distributed</link>
             <guid isPermaLink="false">cf2d6cff-acf4-4310-bf4d-24b0d8caaa2b</guid>
             <pubDate>Tue, 19 Jul 2016 13:36:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Turkish Residents Flock to Bitcoin During Military Coup]]></title>
+            <description><![CDATA[<article><h1>Turkish Residents Flock to Bitcoin During Military Coup</h1><p>The Turkish government is currently rounding up members of the groups that launched a military coup in recent days. During the coup, citizens ran to their banks and local ATMs to get their wealth out of the system as Turkey's currency dropped significantly in value.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4bbac2b34728d221ae5ef5bd80248b82/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FCndOOmPXgAAWasP-1-576x1024.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/turkish-bitcoin-military-coup/</link>
+            <guid isPermaLink="false">9cd6da96-e80a-4c1e-b49b-ae688ba66688</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia considers defining bitcoin as foreign currency]]></title>
+            <description><![CDATA[<article><h1>Russia considers defining bitcoin as foreign currency</h1><p>According to Alexei Moiseyev, Russia's Deputy Finance Minister, the authorities are drafting a new law that would bring bitcoin and other cryptocurrencies under definition of foreign currency. The Ministry is planning to prohibit the issuance of Bitcoin in the country while allowing purchasing cryptocurrencies in order to be used or sold abroad.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1be3fc3dcf7eb5361b15f5700f2b3950/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F06%2FRu1.png"></article>]]></description>
+            <link>http://forklog.net/russia-considers-defining-bitcoin-as-foreign-currency/</link>
+            <guid isPermaLink="false">ffbb9beb-a2ba-4c51-9e66-2fcc7f2780c3</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Transactional currencies - Entry Credits and Gas]]></title>
+            <description><![CDATA[<article><h1>Transactional currencies - Entry Credits and Gas</h1><p>Working at Factom I came across an idea that seems seldom explored in the cryptocurrency space - a transactional currency called entry credits.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f4bc9467acac9a978aa5dc43ebcf9526/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-Factom-Cover.jpg"></article>]]></description>
+            <link>http://bravenewcoin.com/news/transactional-currencies-entry-credits-and-gas/</link>
+            <guid isPermaLink="false">3dfa386f-3750-4a06-90d1-f1b76e193f33</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why did they have to expand the nonce value range?]]></title>
+            <description><![CDATA[<article><h1>Why did they have to expand the nonce value range?</h1><p>My understanding is that at a certain point, once hardware passed the 4 GH/s level, the 4 billion possible values for the nonce became insufficient in bitcoin mining, because a good rig could exhaust</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46600/why-did-they-have-to-expand-the-nonce-value-range</link>
+            <guid isPermaLink="false">dc05f899-84cf-4d71-93df-fa2ed4544c57</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Technical Analysis for 07/19/2016 - Aiming for Channel Support Again? - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 07/19/2016 - Aiming for Channel Support Again? - NEWSBTC</h1><p>Bitcoin price could be due for a test of the channel support once more, with technical indicators confirming a potential bounce. Bitcoin Price Key Highlights Bitcoin price is still inside its ascending channel pattern after getting rejected on its attempt to break past the resistance.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/24d8c90c7b799b28a353b3cc87297230/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F19044121%2F160719_btcusd.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/19/bitcoin-price-technical-analysis-07192016-aiming-channel-support/</link>
+            <guid isPermaLink="false">051e93cd-2e1c-4d40-b059-8a42a82d8090</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Turkish Coup: Further Cause to Consider Investing in Bitcoin?]]></title>
+            <description><![CDATA[<article><h1>Turkish Coup: Further Cause to Consider Investing in Bitcoin?</h1><p>Was bitcoin's price spike yesterday in response to the attempted Turkish military coup? Current events continue to make the case for bitcoin as an investment, according to Orange Peel Investments, an investment firm that describes itself as "long" on bitcoin. The company contributed an opinion about bitcoin's role as an investment in Seeking Alpha.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/32a24188adb8599fa7d9e710182ed907/croprotate.jpeg?cropheight=1151&cropwidth=1920&degrees=0&input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2015%2F04%2Fliberland.jpeg&x=0&y=0"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/turkish-coup-further-cause-to-consider-investing-in-bitcoin/</link>
+            <guid isPermaLink="false">2ad04cad-4e93-490a-847f-d8111bd6937e</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2016-07-14]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-07-14</h1><p>Better documentation for the -blockmaxcost option was needed, but it's been pointed out it's an awful name as users think the 'max cost' is about the monetary cost. Translators also translate it in this way. The term 'block cost' is also used in the segwit BIP, sdaftuar proposes to change the description in the BIP.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/07/14/</link>
+            <guid isPermaLink="false">c1331d6c-f2c0-4770-8d35-50e60ecf39e9</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
