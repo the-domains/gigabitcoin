@@ -4,36 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 13:40:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 13:40:20 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Russia considers defining bitcoin as foreign currency]]></title>
-            <description><![CDATA[<article><h1>Russia considers defining bitcoin as foreign currency</h1><p>According to Alexei Moiseyev, Russia's Deputy Finance Minister, the authorities are drafting a new law that would bring bitcoin and other cryptocurrencies under definition of foreign currency. The Ministry is planning to prohibit the issuance of Bitcoin in the country while allowing purchasing cryptocurrencies in order to be used or sold abroad.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1be3fc3dcf7eb5361b15f5700f2b3950/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F06%2FRu1.png"></article>]]></description>
-            <link>http://forklog.net/russia-considers-defining-bitcoin-as-foreign-currency/</link>
-            <guid isPermaLink="false">ffbb9beb-a2ba-4c51-9e66-2fcc7f2780c3</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Transactional currencies - Entry Credits and Gas]]></title>
-            <description><![CDATA[<article><h1>Transactional currencies - Entry Credits and Gas</h1><p>Working at Factom I came across an idea that seems seldom explored in the cryptocurrency space - a transactional currency called entry credits.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f4bc9467acac9a978aa5dc43ebcf9526/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-Factom-Cover.jpg"></article>]]></description>
-            <link>http://bravenewcoin.com/news/transactional-currencies-entry-credits-and-gas/</link>
-            <guid isPermaLink="false">3dfa386f-3750-4a06-90d1-f1b76e193f33</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why did they have to expand the nonce value range?]]></title>
-            <description><![CDATA[<article><h1>Why did they have to expand the nonce value range?</h1><p>My understanding is that at a certain point, once hardware passed the 4 GH/s level, the 4 billion possible values for the nonce became insufficient in bitcoin mining, because a good rig could exhaust</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/46600/why-did-they-have-to-expand-the-nonce-value-range</link>
-            <guid isPermaLink="false">dc05f899-84cf-4d71-93df-fa2ed4544c57</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Technical Analysis for 07/19/2016 - Aiming for Channel Support Again? - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 07/19/2016 - Aiming for Channel Support Again? - NEWSBTC</h1><p>Bitcoin price could be due for a test of the channel support once more, with technical indicators confirming a potential bounce. Bitcoin Price Key Highlights Bitcoin price is still inside its ascending channel pattern after getting rejected on its attempt to break past the resistance.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/24d8c90c7b799b28a353b3cc87297230/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F19044121%2F160719_btcusd.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/19/bitcoin-price-technical-analysis-07192016-aiming-channel-support/</link>
-            <guid isPermaLink="false">051e93cd-2e1c-4d40-b059-8a42a82d8090</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:09 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Turkish Coup: Further Cause to Consider Investing in Bitcoin?]]></title>
             <description><![CDATA[<article><h1>Turkish Coup: Further Cause to Consider Investing in Bitcoin?</h1><p>Was bitcoin's price spike yesterday in response to the attempted Turkish military coup? Current events continue to make the case for bitcoin as an investment, according to Orange Peel Investments, an investment firm that describes itself as "long" on bitcoin. The company contributed an opinion about bitcoin's role as an investment in Seeking Alpha.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/32a24188adb8599fa7d9e710182ed907/croprotate.jpeg?cropheight=1151&cropwidth=1920&degrees=0&input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2015%2F04%2Fliberland.jpeg&x=0&y=0"></article>]]></description>
@@ -75,6 +47,34 @@
             <link>http://www.newsbtc.com/2016/07/19/coinlink-net-trading-platform-sale-looking-investor/</link>
             <guid isPermaLink="false">02bfe2e6-af57-4495-bc2d-beaa644c4e1e</guid>
             <pubDate>Tue, 19 Jul 2016 13:36:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortunejack - Try your Luck Every Day for Free - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Fortunejack - Try your Luck Every Day for Free - NEWSBTC</h1><p>The online Bitcoin gambling Industry is growing at full steam and every day new sites are being launched. Fortunejack is one of the newest online Bitcoin Casinos; It was launched in 2014 and is now one of the industry leaders. Fortunejack.com is comprised of a highly talented team with lots of experience in the gambling ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e3e5dafb6fc566dcf879f402ecb79843/croprotate.jpg?cropheight=748&cropwidth=1407&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F18152033%2FFortunejack.jpg&x=0&y=0"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/19/fortunejack-try-luck-every-day-free/</link>
+            <guid isPermaLink="false">34b0d096-72cc-494f-a81c-24e51e3d0238</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK Blockchain Startups Pondering Serious Move to Berlin]]></title>
+            <description><![CDATA[<article><h1>UK Blockchain Startups Pondering Serious Move to Berlin</h1><p>London-based blockchain startups are beginning to change their view on the entire entrepreneurial environment of the country after Brexit. On July 8, the Outlier Ventures (OV) research team published a detailed report based on their blockchain angels startup tracker to expound on the development of the United Kingdom's blockchain startups and how quickly London became the major center of open ledger and financial technology startups.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cf9f722a61a8c64786e62062a4861618/croprotate.jpg?cropheight=1374&cropwidth=2048&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F19074034%2F24518847905_3ac6ce945a_k.jpg&x=0&y=0"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/19/uk-blockchain-startups-pondering-serious-move-berlin/</link>
+            <guid isPermaLink="false">17272e5f-5f71-43c4-aaea-2fb7018315c3</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is the difference between bitcoin trading and rebittance?]]></title>
+            <description><![CDATA[<article><h1>What is the difference between bitcoin trading and rebittance?</h1><p>Or, you mean like how Mrs. Clinton was destroyed in Vermont where she lost by 78% in the primary and wasn't even viable enough to gain a single one of the 23 delegates? Right? Don't you mean to ask, 'Has a primary candidate ever gotten destroyed LIKE MRS.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/What-is-the-difference-between-bitcoin-trading-and-rebittance</link>
+            <guid isPermaLink="false">b6526bb8-5e74-4d4e-8dd4-ac69c29f32ba</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to denouce a scam exchange?]]></title>
+            <description><![CDATA[<article><h1>How to denouce a scam exchange?</h1><p>I was scammed by an exchange called BitNake. It is referenced in the Bitcoin Wiki as a fast and secure exchange seeded in Germany. I could not find any negative comments on the web and decided to t...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46591/how-to-denouce-a-scam-exchange</link>
+            <guid isPermaLink="false">609b84d0-f2c6-4ddf-b1cf-0882a753ba22</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
