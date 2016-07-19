@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 14:37:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 14:38:05 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Almost 60% of Ethereum Miners Have Upgraded to Support the Hardfork]]></title>
+            <description><![CDATA[<article><h1>Almost 60% of Ethereum Miners Have Upgraded to Support the Hardfork</h1><p>After more than a month of raging debate, Ethereum's community has reached a conclusive decision. Ethereum will Hardfork. Some tense hours yesterday raised the prospect of a protracted fight, but, Ethpool cleared any doubt by announcing they are to support the hardfork: "[A]ccording to our voting policy stated in the announcement, we will support the hard fork."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1fb630ed78ba8c2ec900a06bbfa3afca/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FChip-upgrade.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/almost-60-ethereum-miners-upgraded-support-hardfork/</link>
+            <guid isPermaLink="false">7542ed8a-a770-4b28-a932-4e068fc64416</guid>
+            <pubDate>Tue, 19 Jul 2016 14:37:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blocktrail Acquired By Bitmain To Bolster BTC.com Service]]></title>
             <description><![CDATA[<article><h1>Blocktrail Acquired By Bitmain To Bolster BTC.com Service</h1><p>Acquisitions in the Bitcoin industry are not unusual, albeit they do seem to occur more often in the past year or so. Bitmain, a company, best known for its Bitcoin mining hardware manufacturing capabilities, has acquired Blocktrail, a company focusing on Bitcoin data and analytics.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aa5fca72b479fd53dccdb25007995294/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_379616800.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://forklog.net/bitcoin-mining-past-present-and-future/</link>
             <guid isPermaLink="false">92138180-1226-4d34-8eea-1c2f83156518</guid>
             <pubDate>Tue, 19 Jul 2016 13:36:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Euro IP study finds 25 Tor-and-Bitcoin-loving pirate business models]]></title>
-            <description><![CDATA[<article><h1>Euro IP study finds 25 Tor-and-Bitcoin-loving pirate business models</h1><p>Knock us over with a feather: a study by the European Union Intellectual Property Office (EUIPO) has found that those who infringe intellectual property for a living are quite fond of anonymity technologies that cover their tracks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c181a5f06694f384bf42b9845fd0a6c9/noop.jpg?input=https%3A%2F%2Fregmedia.co.uk%2F2016%2F06%2F24%2Fbrexit_puzzle.jpg%3Fx%3D1200%26y%3D794"></article>]]></description>
-            <link>http://www.theregister.co.uk/2016/07/18/euro_ip_wonk_study_finds_shock_that_crooks_love_anonymity/</link>
-            <guid isPermaLink="false">e5bbf9f1-53e1-4977-8d2c-28f591be9cdb</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
