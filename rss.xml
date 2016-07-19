@@ -4,8 +4,64 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 13:39:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 13:40:19 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2016-07-14]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-07-14</h1><p>Better documentation for the -blockmaxcost option was needed, but it's been pointed out it's an awful name as users think the 'max cost' is about the monetary cost. Translators also translate it in this way. The term 'block cost' is also used in the segwit BIP, sdaftuar proposes to change the description in the BIP.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/07/14/</link>
+            <guid isPermaLink="false">c1331d6c-f2c0-4770-8d35-50e60ecf39e9</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Total # of miners?]]></title>
+            <description><![CDATA[<article><h1>Total # of miners?</h1><p>Is there any way to find out the total no.of mining nodes in the Bitcoin network? In case of mining pools, the devices present in each pool.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46585/total-of-miners</link>
+            <guid isPermaLink="false">d3a6c144-e4a8-48ad-bf36-ec3a590bc043</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum Price Technical Analysis - Double Bottom Formation? - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Ethereum Price Technical Analysis - Double Bottom Formation? - NEWSBTC</h1><p>Ethereum price is currently struggling against the US dollar, but as long as it is above the $10.80 level it may bounce again. Ethereum price failed to retain the bullish bias against the US Dollar and faced offers near $11.50.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/559625dddfc00aad92777bb23cac8bf5/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F19031957%2FEthereum16.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/19/ethereum-price-technical-analysis-double-bottom-formation/</link>
+            <guid isPermaLink="false">275c388a-6a05-428c-b259-e6c55326295f</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Creating empty blocks vs creating full blocks]]></title>
+            <description><![CDATA[<article><h1>Creating empty blocks vs creating full blocks</h1><p>Yes, you are correct that miners get to decide whether to include transactions in their block that they're mining. The protocol itself doesn't force them to include any transactions. Instead, they have a financial incentive to include transactions because they can collect transaction fees and profit more.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46604/creating-empty-blocks-vs-creating-full-blocks</link>
+            <guid isPermaLink="false">852f8283-931f-45e5-bb20-7905d6750f4e</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CoinLink trading platform for sale or looking for an investor]]></title>
+            <description><![CDATA[<article><h1>CoinLink trading platform for sale or looking for an investor</h1><p>Since 2013, a dedicated team from Lebanon, started working on this bitcoin trading platform, and finished the development after a successful hardcore testing on hundreds of users simultaneously and thousands of active users.</p></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/19/coinlink-net-trading-platform-sale-looking-investor/</link>
+            <guid isPermaLink="false">02bfe2e6-af57-4495-bc2d-beaa644c4e1e</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortunejack - Try your Luck Every Day for Free - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Fortunejack - Try your Luck Every Day for Free - NEWSBTC</h1><p>The online Bitcoin gambling Industry is growing at full steam and every day new sites are being launched. Fortunejack is one of the newest online Bitcoin Casinos; It was launched in 2014 and is now one of the industry leaders. Fortunejack.com is comprised of a highly talented team with lots of experience in the gambling ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e3e5dafb6fc566dcf879f402ecb79843/croprotate.jpg?cropheight=748&cropwidth=1407&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F18152033%2FFortunejack.jpg&x=0&y=0"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/19/fortunejack-try-luck-every-day-free/</link>
+            <guid isPermaLink="false">34b0d096-72cc-494f-a81c-24e51e3d0238</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK Blockchain Startups Pondering Serious Move to Berlin]]></title>
+            <description><![CDATA[<article><h1>UK Blockchain Startups Pondering Serious Move to Berlin</h1><p>London-based blockchain startups are beginning to change their view on the entire entrepreneurial environment of the country after Brexit. On July 8, the Outlier Ventures (OV) research team published a detailed report based on their blockchain angels startup tracker to expound on the development of the United Kingdom's blockchain startups and how quickly London became the major center of open ledger and financial technology startups.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cf9f722a61a8c64786e62062a4861618/croprotate.jpg?cropheight=1374&cropwidth=2048&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F19074034%2F24518847905_3ac6ce945a_k.jpg&x=0&y=0"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/19/uk-blockchain-startups-pondering-serious-move-berlin/</link>
+            <guid isPermaLink="false">17272e5f-5f71-43c4-aaea-2fb7018315c3</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is the difference between bitcoin trading and rebittance?]]></title>
+            <description><![CDATA[<article><h1>What is the difference between bitcoin trading and rebittance?</h1><p>Or, you mean like how Mrs. Clinton was destroyed in Vermont where she lost by 78% in the primary and wasn't even viable enough to gain a single one of the 23 delegates? Right? Don't you mean to ask, 'Has a primary candidate ever gotten destroyed LIKE MRS.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/What-is-the-difference-between-bitcoin-trading-and-rebittance</link>
+            <guid isPermaLink="false">b6526bb8-5e74-4d4e-8dd4-ac69c29f32ba</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to denouce a scam exchange?]]></title>
             <description><![CDATA[<article><h1>How to denouce a scam exchange?</h1><p>I was scammed by an exchange called BitNake. It is referenced in the Bitcoin Wiki as a fast and secure exchange seeded in Germany. I could not find any negative comments on the web and decided to t...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
@@ -19,62 +75,6 @@
             <link>http://themerkle.com/blockchain-asset-investment-platform-lawnmower-now-available-worldwide/</link>
             <guid isPermaLink="false">2a7a2d7a-1764-46c4-acbe-ee4334e49f83</guid>
             <pubDate>Tue, 19 Jul 2016 13:36:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A significant amount of communication for Bitcoin occurs on Reddit. Vested interests have learned to game Reddit's voting system to push certain agendas. It's a form of social engineering. Essentially the problem is: We lack decentralized communication platforms to mitigate the social engineering. * /r/btc]]></title>
-            <description><![CDATA[<article><h1>A significant amount of communication for Bitcoin occurs on Reddit. Vested interests have learned to game Reddit's voting system to push certain agendas. It's a form of social engineering. Essentially the problem is: We lack decentralized communication platforms to mitigate the social engineering. * /r/btc</h1><p>It's actually a flaw with *Reddit* **that the discussion can be manipulated like this. This is what happened in \/r/bitcoin starting about...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
-            <link>https://www.reddit.com/r/btc/comments/4tg3v3/a_significant_amount_of_communication_for_bitcoin/</link>
-            <guid isPermaLink="false">1e9cfeb3-d458-4a5e-b8a5-68935b8e1f2e</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Scalping the Morning Session - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Scalping the Morning Session - NEWSBTC</h1><p>Here's a look at what we are focusing on in the bitcoin price this morning. For this morning's analysis, we're going to shift back to the fifteen minute charts from the five, just so as we can get a little bit of perspective on the bitcoin price action seen last night.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a7c0c58bd1db6d802a4b9bdc398b898d/croprotate.png?cropheight=691&cropwidth=1341&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F19084925%2FScreen-Shot-2016-07-19-at-09.41.19.png&x=0&y=0"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/19/bitcoin-price-watch-scalping-morning-session/</link>
-            <guid isPermaLink="false">653e116b-7560-4c53-af96-99cab924947f</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drachmae Travel Introduces Blockchain Travel Competition and Investment Tool for Globetrotters - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Drachmae Travel Introduces Blockchain Travel Competition and Investment Tool for Globetrotters - NEWSBTC</h1><p>Drachmae Travel Introduces Blockchain Travel Competition and Investment Tool for Globetrotters | Bitcoin PR Buzz ­ Drachmae Travel Club, an exclusive blockchain travel portal is conducting a competition for travelers. The 'Bitcoin Altcoin and Blockchain Competition' requires participating travelers to record the travel details and expenses incurred during their trips in the last year.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d75dfca3ab4a48598470c31b8154a257/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F19094037%2FDrachmae-Travel-Club-1080x675.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/19/drachmae-travel-introduces-blockchain-travel-competition-investment-tool-globetrotters/</link>
-            <guid isPermaLink="false">12ea230e-f9d1-4f80-84d2-3be5105018a5</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Venezuela Faces 1,640% Inflation In Next 12 Months]]></title>
-            <description><![CDATA[<article><h1>Venezuela Faces 1,640% Inflation In Next 12 Months</h1><p>It goes without saying the economic situation in Venezuela is anything but reassuring right now. The country has been plagued by food shortages and economic mismanagement, causing significant inflation. Experts predict inflation rates will soar to 1,600% in 2017, which is insane. But at the same time, this could be a turning point for Bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f9b9ad1177b3098ea2af2da02814cb04/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_106344917.jpg"></article>]]></description>
-            <link>http://themerkle.com/venezuela-faces-1640-inflation-in-next-12-months/</link>
-            <guid isPermaLink="false">8358b15d-23f8-4035-b004-1df280987efe</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Here's Rootstock's Spin on the Bitcoin Sidechains Concept - Coinjournal]]></title>
-            <description><![CDATA[<article><h1>Here's Rootstock's Spin on the Bitcoin Sidechains Concept - Coinjournal</h1><p>Rootstock is a Bitcoin sidechain currently in development by RSK Labs. It is a platform for distributed smart contracts, much like Ethereum, but the fact that it's a Bitcoin sidechain means that it will use the bitcoin currency by default. Although the sidechain idea has mainly been developed by Blockstream over the past few years, ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a71f0fa7c211bb24676d4449156bd7bb/croprotate.png?cropheight=852&cropwidth=1280&degrees=0&input=http%3A%2F%2Fcoinjournal.net%2Fwp-content%2Fuploads%2F2016%2F07%2FRootstock-Sidechains.png&x=0&y=0"></article>]]></description>
-            <link>http://coinjournal.net/rootstock-spin-bitcoin-sidechains/</link>
-            <guid isPermaLink="false">f609eb46-3900-46c3-bbb2-f9457216e7c7</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The rise of Bitcoin in Slot Gaming]]></title>
-            <description><![CDATA[<article><h1>The rise of Bitcoin in Slot Gaming</h1><p>Bitcoin has enjoyed an incredible journey since its inception in 2007, hitting considerable peaks and plunging troughs before finally becoming an accepted mainstream concept. Make no mistake; this is where Bitcoin finally sits today, as stringent regulatory measures and reputable applications continue to afford the crypto-currency credibility.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/576c6af59e12be690b3da957eac8b860/noop.jpeg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F19094210%2Fimage1.jpeg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/19/the-rise-of-bitcoin-in-slot-gaming/</link>
-            <guid isPermaLink="false">5a6b82c1-c5e1-44fc-b4e1-092dc05cfdba</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia to Treat Bitcoin as Foreign Currency]]></title>
-            <description><![CDATA[<article><h1>Russia to Treat Bitcoin as Foreign Currency</h1><p>Depending on how soon all involved parties can come to an agreement, the law proposal will be submitted to the Duma by the end of 2016. The status of Bitcoin in Russia has been up in the air for quite some time now.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f330d9302dcc1ddcc02e6c3557ac1779/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F19095956%2Fshutterstock_166452545.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/19/russia-treat-bitcoin-foreign-currency/</link>
-            <guid isPermaLink="false">4b4eda4e-60db-40cf-b09f-83ea454b2289</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Ban & Criminalization Bill Relaxed in Russia]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Ban & Criminalization Bill Relaxed in Russia</h1><p>The Ministry of Finance in Russia, or the Russian FinMin, is not quite beating its drum to ban bitcoin anymore, going by recent remarks of deputy finance minister Alexey Moiseev. Instead, a new amendment to the infamous bitcoin ban bill will allow for the purchase of the cryptocurrency in the country, which can then be used and sold in other countries.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/32a24188adb8599fa7d9e710182ed907/croprotate.jpeg?cropheight=1151&cropwidth=1920&degrees=0&input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2015%2F04%2Fliberland.jpeg&x=0&y=0"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-ban-talk-relaxed-russia/</link>
-            <guid isPermaLink="false">44c2a5f4-4d5b-4b5e-819e-4ab1724b5a58</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
