@@ -7,6 +7,13 @@
         <lastBuildDate>Tue, 19 Jul 2016 13:44:32 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[The Brief History of Bitcoin Mining: How It All Started]]></title>
+            <description><![CDATA[<article><h1>The Brief History of Bitcoin Mining: How It All Started</h1><p>The week after bitcoin mining reward halving, ForkLog decided to compile a short overview on the history of mining methods. Generally speaking, bitcoin mining is a process of cryptographic calculations. As we know, bitcoins are mined in blocks, and the more there are generated coins altogether, the smaller is the block size.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/600f5d9bda1d76796d217af3940375c1/noop.jpg?input=http%3A%2F%2Fforklog.com%2Fwp-content%2Fuploads%2Fimage02-1.jpg"></article>]]></description>
+            <link>http://forklog.net/bitcoin-mining-past-present-and-future/</link>
+            <guid isPermaLink="false">92138180-1226-4d34-8eea-1c2f83156518</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Euro IP study finds 25 Tor-and-Bitcoin-loving pirate business models]]></title>
             <description><![CDATA[<article><h1>Euro IP study finds 25 Tor-and-Bitcoin-loving pirate business models</h1><p>Knock us over with a feather: a study by the European Union Intellectual Property Office (EUIPO) has found that those who infringe intellectual property for a living are quite fond of anonymity technologies that cover their tracks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c181a5f06694f384bf42b9845fd0a6c9/noop.jpg?input=https%3A%2F%2Fregmedia.co.uk%2F2016%2F06%2F24%2Fbrexit_puzzle.jpg%3Fx%3D1200%26y%3D794"></article>]]></description>
             <link>http://www.theregister.co.uk/2016/07/18/euro_ip_wonk_study_finds_shock_that_crooks_love_anonymity/</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Indian Authorities Investigate Darknet and Bitcoin Roles in Drug Trafficking</h1><p>Indian authorities are investigating two syndicates selling drugs over the darknet using bitcoin. R.R. Bhatnagar, the director general of the Narcotics Control Bureau (NCB), said that for the first time, the bureau has detected drug dealers using bitcoin and the darknet operating illegal drug trafficking in India.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/37d1304dde2a5457a2e8d8c24c025fe7/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F03%2FDrugs-keyboard.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/india-darknet-bitcoin-drug-trafficking-investigation/</link>
             <guid isPermaLink="false">cefa56aa-2af7-46a9-a89d-a94a75a678fd</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Industry Report: India's Druggies Turning to Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Industry Report: India's Druggies Turning to Bitcoin</h1><p>Andreas Antonopoulos speaks with Joe Rogan (again), digital currency becomes a TV star, and the first case of Bitcoin-based drug trafficking is detected in India. Want to catch up on your latest digital currency news? Have a look at the stories below.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b9331799aff0d02618f3e6ac60d31d4b/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F06%2FIndustry-Report-Cover-Bitcoin-Logo.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/industry-report-india-drugs-bitcoin/</link>
-            <guid isPermaLink="false">cfcfe40c-3f4c-46b6-b26c-502eea55dc02</guid>
             <pubDate>Tue, 19 Jul 2016 13:36:41 GMT</pubDate>
         </item>
     </channel>
