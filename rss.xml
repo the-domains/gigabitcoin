@@ -4,13 +4,34 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 13:40:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 13:40:50 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Turkish Residents Flock to Bitcoin During Military Coup]]></title>
+            <description><![CDATA[<article><h1>Turkish Residents Flock to Bitcoin During Military Coup</h1><p>The Turkish government is currently rounding up members of the groups that launched a military coup in recent days. During the coup, citizens ran to their banks and local ATMs to get their wealth out of the system as Turkey's currency dropped significantly in value.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4bbac2b34728d221ae5ef5bd80248b82/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FCndOOmPXgAAWasP-1-576x1024.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/turkish-bitcoin-military-coup/</link>
+            <guid isPermaLink="false">9cd6da96-e80a-4c1e-b49b-ae688ba66688</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia considers defining bitcoin as foreign currency]]></title>
+            <description><![CDATA[<article><h1>Russia considers defining bitcoin as foreign currency</h1><p>According to Alexei Moiseyev, Russia's Deputy Finance Minister, the authorities are drafting a new law that would bring bitcoin and other cryptocurrencies under definition of foreign currency. The Ministry is planning to prohibit the issuance of Bitcoin in the country while allowing purchasing cryptocurrencies in order to be used or sold abroad.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1be3fc3dcf7eb5361b15f5700f2b3950/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F06%2FRu1.png"></article>]]></description>
+            <link>http://forklog.net/russia-considers-defining-bitcoin-as-foreign-currency/</link>
+            <guid isPermaLink="false">ffbb9beb-a2ba-4c51-9e66-2fcc7f2780c3</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Transactional currencies - Entry Credits and Gas]]></title>
             <description><![CDATA[<article><h1>Transactional currencies - Entry Credits and Gas</h1><p>Working at Factom I came across an idea that seems seldom explored in the cryptocurrency space - a transactional currency called entry credits.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f4bc9467acac9a978aa5dc43ebcf9526/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-Factom-Cover.jpg"></article>]]></description>
             <link>http://bravenewcoin.com/news/transactional-currencies-entry-credits-and-gas/</link>
             <guid isPermaLink="false">3dfa386f-3750-4a06-90d1-f1b76e193f33</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why did they have to expand the nonce value range?]]></title>
+            <description><![CDATA[<article><h1>Why did they have to expand the nonce value range?</h1><p>My understanding is that at a certain point, once hardware passed the 4 GH/s level, the 4 billion possible values for the nonce became insufficient in bitcoin mining, because a good rig could exhaust</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46600/why-did-they-have-to-expand-the-nonce-value-range</link>
+            <guid isPermaLink="false">dc05f899-84cf-4d71-93df-fa2ed4544c57</guid>
             <pubDate>Tue, 19 Jul 2016 13:36:09 GMT</pubDate>
         </item>
         <item>
@@ -53,27 +74,6 @@
             <description><![CDATA[<article><h1>Creating empty blocks vs creating full blocks</h1><p>Yes, you are correct that miners get to decide whether to include transactions in their block that they're mining. The protocol itself doesn't force them to include any transactions. Instead, they have a financial incentive to include transactions because they can collect transaction fees and profit more.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/46604/creating-empty-blocks-vs-creating-full-blocks</link>
             <guid isPermaLink="false">852f8283-931f-45e5-bb20-7905d6750f4e</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CoinLink trading platform for sale or looking for an investor]]></title>
-            <description><![CDATA[<article><h1>CoinLink trading platform for sale or looking for an investor</h1><p>Since 2013, a dedicated team from Lebanon, started working on this bitcoin trading platform, and finished the development after a successful hardcore testing on hundreds of users simultaneously and thousands of active users.</p></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/19/coinlink-net-trading-platform-sale-looking-investor/</link>
-            <guid isPermaLink="false">02bfe2e6-af57-4495-bc2d-beaa644c4e1e</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fortunejack - Try your Luck Every Day for Free - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Fortunejack - Try your Luck Every Day for Free - NEWSBTC</h1><p>The online Bitcoin gambling Industry is growing at full steam and every day new sites are being launched. Fortunejack is one of the newest online Bitcoin Casinos; It was launched in 2014 and is now one of the industry leaders. Fortunejack.com is comprised of a highly talented team with lots of experience in the gambling ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e3e5dafb6fc566dcf879f402ecb79843/croprotate.jpg?cropheight=748&cropwidth=1407&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F18152033%2FFortunejack.jpg&x=0&y=0"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/19/fortunejack-try-luck-every-day-free/</link>
-            <guid isPermaLink="false">34b0d096-72cc-494f-a81c-24e51e3d0238</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK Blockchain Startups Pondering Serious Move to Berlin]]></title>
-            <description><![CDATA[<article><h1>UK Blockchain Startups Pondering Serious Move to Berlin</h1><p>London-based blockchain startups are beginning to change their view on the entire entrepreneurial environment of the country after Brexit. On July 8, the Outlier Ventures (OV) research team published a detailed report based on their blockchain angels startup tracker to expound on the development of the United Kingdom's blockchain startups and how quickly London became the major center of open ledger and financial technology startups.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cf9f722a61a8c64786e62062a4861618/croprotate.jpg?cropheight=1374&cropwidth=2048&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F19074034%2F24518847905_3ac6ce945a_k.jpg&x=0&y=0"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/19/uk-blockchain-startups-pondering-serious-move-berlin/</link>
-            <guid isPermaLink="false">17272e5f-5f71-43c4-aaea-2fb7018315c3</guid>
             <pubDate>Tue, 19 Jul 2016 13:36:08 GMT</pubDate>
         </item>
     </channel>
