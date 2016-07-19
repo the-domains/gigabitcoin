@@ -4,29 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 13:40:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 13:40:00 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2016-07-14]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-07-14</h1><p>Better documentation for the -blockmaxcost option was needed, but it's been pointed out it's an awful name as users think the 'max cost' is about the monetary cost. Translators also translate it in this way. The term 'block cost' is also used in the segwit BIP, sdaftuar proposes to change the description in the BIP.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/07/14/</link>
-            <guid isPermaLink="false">c1331d6c-f2c0-4770-8d35-50e60ecf39e9</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Total # of miners?]]></title>
-            <description><![CDATA[<article><h1>Total # of miners?</h1><p>Is there any way to find out the total no.of mining nodes in the Bitcoin network? In case of mining pools, the devices present in each pool.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/46585/total-of-miners</link>
-            <guid isPermaLink="false">d3a6c144-e4a8-48ad-bf36-ec3a590bc043</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum Price Technical Analysis - Double Bottom Formation? - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Ethereum Price Technical Analysis - Double Bottom Formation? - NEWSBTC</h1><p>Ethereum price is currently struggling against the US dollar, but as long as it is above the $10.80 level it may bounce again. Ethereum price failed to retain the bullish bias against the US Dollar and faced offers near $11.50.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/559625dddfc00aad92777bb23cac8bf5/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F19031957%2FEthereum16.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/19/ethereum-price-technical-analysis-double-bottom-formation/</link>
-            <guid isPermaLink="false">275c388a-6a05-428c-b259-e6c55326295f</guid>
-            <pubDate>Tue, 19 Jul 2016 13:36:08 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Creating empty blocks vs creating full blocks]]></title>
             <description><![CDATA[<article><h1>Creating empty blocks vs creating full blocks</h1><p>Yes, you are correct that miners get to decide whether to include transactions in their block that they're mining. The protocol itself doesn't force them to include any transactions. Instead, they have a financial incentive to include transactions because they can collect transaction fees and profit more.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
@@ -74,6 +53,27 @@
             <description><![CDATA[<article><h1>Blockchain Asset Investment Platform Lawnmower Now Available Worldwide</h1><p>Lawnmower was once touted as one of the biggest Bitcoin and blockchain applications in the world. Ever since that time, the company seemed to go through a rough patch, removing some popular features. But the new website and apps will help their idea back on track.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4bf0f64788cbfa2d4fbd7562f0a15092/croprotate.png?cropheight=951&cropwidth=1200&degrees=0&input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2FLawnmower.png&x=0&y=0"></article>]]></description>
             <link>http://themerkle.com/blockchain-asset-investment-platform-lawnmower-now-available-worldwide/</link>
             <guid isPermaLink="false">2a7a2d7a-1764-46c4-acbe-ee4334e49f83</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A significant amount of communication for Bitcoin occurs on Reddit. Vested interests have learned to game Reddit's voting system to push certain agendas. It's a form of social engineering. Essentially the problem is: We lack decentralized communication platforms to mitigate the social engineering. * /r/btc]]></title>
+            <description><![CDATA[<article><h1>A significant amount of communication for Bitcoin occurs on Reddit. Vested interests have learned to game Reddit's voting system to push certain agendas. It's a form of social engineering. Essentially the problem is: We lack decentralized communication platforms to mitigate the social engineering. * /r/btc</h1><p>It's actually a flaw with *Reddit* **that the discussion can be manipulated like this. This is what happened in \/r/bitcoin starting about...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
+            <link>https://www.reddit.com/r/btc/comments/4tg3v3/a_significant_amount_of_communication_for_bitcoin/</link>
+            <guid isPermaLink="false">1e9cfeb3-d458-4a5e-b8a5-68935b8e1f2e</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Watch; Scalping the Morning Session - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Watch; Scalping the Morning Session - NEWSBTC</h1><p>Here's a look at what we are focusing on in the bitcoin price this morning. For this morning's analysis, we're going to shift back to the fifteen minute charts from the five, just so as we can get a little bit of perspective on the bitcoin price action seen last night.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a7c0c58bd1db6d802a4b9bdc398b898d/croprotate.png?cropheight=691&cropwidth=1341&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F19084925%2FScreen-Shot-2016-07-19-at-09.41.19.png&x=0&y=0"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/19/bitcoin-price-watch-scalping-morning-session/</link>
+            <guid isPermaLink="false">653e116b-7560-4c53-af96-99cab924947f</guid>
+            <pubDate>Tue, 19 Jul 2016 13:36:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drachmae Travel Introduces Blockchain Travel Competition and Investment Tool for Globetrotters - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Drachmae Travel Introduces Blockchain Travel Competition and Investment Tool for Globetrotters - NEWSBTC</h1><p>Drachmae Travel Introduces Blockchain Travel Competition and Investment Tool for Globetrotters | Bitcoin PR Buzz ­ Drachmae Travel Club, an exclusive blockchain travel portal is conducting a competition for travelers. The 'Bitcoin Altcoin and Blockchain Competition' requires participating travelers to record the travel details and expenses incurred during their trips in the last year.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d75dfca3ab4a48598470c31b8154a257/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F19094037%2FDrachmae-Travel-Club-1080x675.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/19/drachmae-travel-introduces-blockchain-travel-competition-investment-tool-globetrotters/</link>
+            <guid isPermaLink="false">12ea230e-f9d1-4f80-84d2-3be5105018a5</guid>
             <pubDate>Tue, 19 Jul 2016 13:36:07 GMT</pubDate>
         </item>
     </channel>
