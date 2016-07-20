@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 13:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 13:20:08 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Call for $50,000 Ether Coder Hackathon, In Time For Ethereum Hard Fork]]></title>
+            <description><![CDATA[<article><h1>Call for $50,000 Ether Coder Hackathon, In Time For Ethereum Hard Fork</h1><p>An invitation for applications to participate in a $50,000 Ether coder hackathon was launched. The announcement of the 5-week hackathon is coming in time for the Ethereum hard fork planned to occur at block 1,920,000, which should be on July 20 or 21 depending on time zone.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5f2b34f425696187f531fd6c07ddcef5/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lOGRmMDFiN2U1YWIwOGY2MDc2OTYwMjEwMWU5NDZlYy5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/call-for-50000-ether-coder-hackathon-in-time-for-ethereum-hard-fork</link>
+            <guid isPermaLink="false">ac9d7743-6b4e-4a2d-995c-adfcd2d3c6d7</guid>
+            <pubDate>Wed, 20 Jul 2016 13:19:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chinese Mining Giant Bitmain Acquihires Bitcoin Wallet Blocktrail | Finance Magnates]]></title>
             <description><![CDATA[<article><h1>Chinese Mining Giant Bitmain Acquihires Bitcoin Wallet Blocktrail | Finance Magnates</h1><p>Bitmain, the world's largest bitcoin mining hardware producer, has acquired Blocktrail, a developer of a multi-platform bitcoin Wallet, API, and Block explorer. The Beijing-based mining giant aims to not only merge Blocktrail's platform into BTC.com, its bitcoin block explorer service, but also utilize Blocktrail's talent, which has joined Bitmain as part of the deal.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bc65a6324764a749d540da116088d8fd/noop.jpg?input=http%3A%2F%2Fwww.financemagnates.com%2Fwp-content%2Fuploads%2F2015%2F10%2Fmining.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>A resolution calling for a pro-bitcoin national policy was just introduced in Congress. | Coin Center</h1><p>A resolution calling for a pro-bitcoin national policy was just introduced in Congress. The bi-partisan H.R. 835 was introduced by Rep. Adam Kinzinger and co-sponsored by Rep. Tony Cardenas.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e5eb1418c48cd73d23520a1bfaa2f55b/noop.jpg?input=http%3A%2F%2Fcoincenter.org%2Ftheme%2Fbarffle%2Fimages%2Fauthors%2Fneeraj-agrawal.jpg"></article>]]></description>
             <link>http://coincenter.org/link/a-resolution-calling-for-a-pro-bitcoin-national-policy-was-just-introduced-in-congress</link>
             <guid isPermaLink="false">b584b56d-bbb7-465e-932c-b7c039080a66</guid>
-            <pubDate>Wed, 20 Jul 2016 03:30:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ether.Camp Announces $50,000 Contest to Build the next Killer Blockchain-Based Application - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Ether.Camp Announces $50,000 Contest to Build the next Killer Blockchain-Based Application - NEWSBTC</h1><p>Press Release: The popular Ethereum blockchain explorer and smart contract analysis tool invites developers, entrepreneurs and enthusiasts to participate in their upcoming hackathon. July 19, 2016, Toronto, Canada - has announced the launch of its second annual hackathon. The popular Ethereum block explorer and smart contacts analysis tool provider invites everyone with the ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/54c77e8ca22637340b2357ac55aeb1f1/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F19195910%2FEther.camp-image-1080x675.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/19/ether-camp-announces-50000-contest-build-next-killer-blockchain-based-application/</link>
-            <guid isPermaLink="false">376efc09-1d8a-4877-9948-da68e5e228c6</guid>
             <pubDate>Wed, 20 Jul 2016 03:30:20 GMT</pubDate>
         </item>
     </channel>
