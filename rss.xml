@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 03:31:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 03:30:22 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Charlie Shrem Is Home From Prison and Moving 'Onward']]></title>
-            <description><![CDATA[<article><h1>Charlie Shrem Is Home From Prison and Moving 'Onward'</h1><p>Charlie Shrem has been released from prison and is quite happy to be out. In a blog post written on his personal website, he thanked the hundreds of people who showed him support while being locked up in Lewisburg Federal Prison Camp in Pennsylvania.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/70806368449ac0494d6692dc97e805af/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fcharlie2016.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/charlie-shrem-home-moving-onward/</link>
-            <guid isPermaLink="false">ed594618-dd87-440e-9090-fbf977f03b5b</guid>
-            <pubDate>Wed, 20 Jul 2016 03:30:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Charlie Shrem Released From Prison, Enjoying the 'Small Things']]></title>
-            <description><![CDATA[<article><h1>Charlie Shrem Released From Prison, Enjoying the 'Small Things'</h1><p>Charlie Shrem, former CEO of early bitcoin exchange BitInstant, has been released from prison after serving a sentence for money laundering and unlicensed money transmission. Also read: Breakout Gaming Launches Competitive eSports Platform Shrem announced his release (which actually happened a few weeks ago) in a blog post on his home page, titled " Onward."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/73c292ccb66db515002230dd007ca3db/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F07%2FCharlie-Shrem-suit.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/charlie-shrem-released-prison/</link>
-            <guid isPermaLink="false">cfb868b9-3e60-4b4c-b563-327c973a17a3</guid>
-            <pubDate>Wed, 20 Jul 2016 03:30:18 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[70% of nodes accept Bloom filters, despite DoS attack vector?]]></title>
             <description><![CDATA[<article><h1>70% of nodes accept Bloom filters, despite DoS attack vector?</h1><p>Could someone explain why so many Bitcoin nodes allow Bloom filtering given that DoS attacks exist [1], [2] for such nodes? According to bitnodes.21.co, right now 3879 nodes out of the total of 5515</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>https://www.cryptocoinsnews.com/support-digital-currencies-blockchain-fintech-us-congress-tells-govt/</link>
             <guid isPermaLink="false">32cfe475-4079-4cbf-a6a2-d23f8a9f0c0d</guid>
             <pubDate>Tue, 19 Jul 2016 18:39:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Scam Site Alert - HashBX]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Scam Site Alert - HashBX</h1><p>For those bitcoin users who have ever wanted to purchase "the powers" of cloud mining, HashBX might be the company for you. That is, assuming you don't mind taking a significant risk with the potential for losing all of your money shortly. This is yet another cloud mining company with zero evidence of them owning any hashpower whatsoever.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/64480c1d111668e308a1234dd93f8316/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_381612565-1.jpg"></article>]]></description>
+            <link>http://themerkle.com/bitcoin-scam-site-alert-hashbx/</link>
+            <guid isPermaLink="false">8d188982-6599-43a5-a5c1-6d53bf58b1a3</guid>
+            <pubDate>Tue, 19 Jul 2016 18:39:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Central Bankers' Bold New Idea: Print Bitcoins]]></title>
+            <description><![CDATA[<article><h1>The Central Bankers' Bold New Idea: Print Bitcoins</h1><p>When it comes to bitcoin and digital currencies, central banks might be considering the adage: "If you can't beat them, join them." In a research paper published on Monday, economists at the Bank of England advocated that central banks issue their own kind of digital currency. Using the U.S.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a859403c7e65b9bfe4c06aba80a3c164/noop.jpg?input=https%3A%2F%2Fsi.wsj.net%2Fpublic%2Fresources%2Fimages%2FBN-OP664_2sHvH_G_20160623063903.jpg"></article>]]></description>
+            <link>http://www.wsj.com/articles/the-central-bankers-bold-new-idea-print-bitcoins-1468936751</link>
+            <guid isPermaLink="false">b2e005da-033f-48d1-ae42-be54765e645c</guid>
+            <pubDate>Tue, 19 Jul 2016 18:39:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
