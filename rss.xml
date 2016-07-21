@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 02:35:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 02:35:58 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Dash Presenting Solution to Decentralized Banking]]></title>
-            <description><![CDATA[<article><h1>Dash Presenting Solution to Decentralized Banking</h1><p>For cryptocurrency Dash, presenting at d10e next week, the goal is to have people walk away realizing that there is a lot more that can be done with cryptocurrency or digital currency than bitcoin has been able to achieve thus far, says Ryan Taylor, head of finance at Dash.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/950df792072fc39f7ff38beff87dfd9c/croprotate.png?cropheight=600&cropwidth=792&degrees=0&input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F01%2Fdash-logo-square.png&x=4&y=0"></article>]]></description>
-            <link>http://bitcoinist.net/dash-solution-decentralized-banking/</link>
-            <guid isPermaLink="false">00d6f2f1-49bd-4229-9bd0-93c109e0adb4</guid>
-            <pubDate>Thu, 21 Jul 2016 02:35:13 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Weekly 2016 July 20: Bitcoin Halvening changes little, Ethereum successful hardfork, Bitcoiner travels around the world, Pokemon on the blockchain and Charlie Shrem released]]></title>
             <description><![CDATA[<article><h1>Bitcoin Weekly 2016 July 20: Bitcoin Halvening changes little, Ethereum successful hardfork, Bitcoiner travels around the world, Pokemon on the blockchain and Charlie Shrem released</h1><p>The Bitcoin "halvening" happened last week-an event within the Bitcoin protocol where a new Bitcoin mining era started with the mining reward dropping to 12.5 BTC from 25 BTC. Speculation before the event held that something might happen to the market, economy or community; but so far, very little has changed in reaction.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1b1391354f7dce19970543cd0e0c8b1b/noop.jpg?input=http%3A%2F%2Fsiliconangle.com%2Ffiles%2F2015%2F07%2Fethereum-wallpaper-800x500.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Blockchains: Focusing on Bitcoin Misses the Real Revolution in Digital Trust</h1><p>In 2008, short of sending a suitcase full of cash, there was essentially just one way for an individual to send money between, say, the United States and Europe. You had to wire the money through a mainstream financial service, like Western Union or a bank.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1c3afa776188624bf0c152c40d70eaa3/noop.jpg?input=http%3A%2F%2Fmedia2.govtech.com%2Fimages%2Fshutterstock-blockchain-cryptocurrency.jpg"></article>]]></description>
             <link>http://www.govtech.com/opinion/Blockchains-Focusing-on-Bitcoin-Misses-the-Real-Revolution-in-Digital-Trust.html</link>
             <guid isPermaLink="false">5ae3dcd1-63b8-4ff2-8e89-29248d44b098</guid>
+            <pubDate>Wed, 20 Jul 2016 13:19:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Affected Users Can Now Recover Their Steemit Account]]></title>
+            <description><![CDATA[<article><h1>Affected Users Can Now Recover Their Steemit Account</h1><p>The Steemit platform breach that occurred last week is still being resolved as we speak. The operators of the platform announced a new security announcement, as account recovery has now officially begun. There are a few simple steps users need to take to access their old account again.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6cc651cc55b7a8d700f3aae07f8cc054/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_403708555.jpg"></article>]]></description>
+            <link>http://themerkle.com/affected-users-can-now-recover-their-steemit-account/</link>
+            <guid isPermaLink="false">4d4330b2-6da9-4beb-9b0b-1ded95cb1d1f</guid>
             <pubDate>Wed, 20 Jul 2016 13:19:38 GMT</pubDate>
         </item>
     </channel>
