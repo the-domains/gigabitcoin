@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 13:43:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 13:43:42 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ethereum Price Technical Analysis - Buying Worked, Further Gains Eyed - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Ethereum Price Technical Analysis - Buying Worked, Further Gains Eyed - NEWSBTC</h1><p>Ethereum price retained its bullish bias against the US Dollar, and my yesterday's idea did well. Now, can ETH/USD trade further higher? Ethereum price retained its bullish bias against the US Dollar, and my yesterday's idea did well. Now, can ETH/USD trade further higher?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b2e1b3fee8099ffc6cdde81ac5707fc3/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F21032347%2FEthereum18.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/21/ethereum-price-technical-analysis-buying-worked-gains-eyed/</link>
+            <guid isPermaLink="false">4dd5f098-c88f-4e83-8633-5fc2f134fcc9</guid>
+            <pubDate>Thu, 21 Jul 2016 13:42:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Maximum # of hashes for finding a block?]]></title>
             <description><![CDATA[<article><h1>Maximum # of hashes for finding a block?</h1><p>Since nonce is a 32 bit number, the maximum value of nonce can only be 2147483647. So, if a miner doesn't find the target hash within this number, what happens?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>What is the ethereum hard fork and how it was possible?</h1><p>Answer: The hard fork was a change in the Ethereum protocol to block the access of the theDAO attacker from June 19 to the funds. All his addresses where blacklisted and the funds were transfered into an account where they can be reclaimed by theDAO token holders. The Hard Fork was possible beca...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
             <link>https://www.quora.com/What-is-the-ethereum-hard-fork-and-how-it-was-possible</link>
             <guid isPermaLink="false">053af462-22a1-4cb5-95b0-9b8a24a20b1f</guid>
-            <pubDate>Thu, 21 Jul 2016 13:42:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Given the hard fork in Ethereum, what will happen to the value of the DAO currency?]]></title>
-            <description><![CDATA[<article><h1>Given the hard fork in Ethereum, what will happen to the value of the DAO currency?</h1><p>Answer: The value of the DAO behaves currently like Econ 101 textbook. The conversion price of DAO is 100:1 ETH and the price is 9.94 milli-Ether. So there is a Gap of .06 mETH which can be explained by transaction fees and a little opportunity costs The value of DAO will move seamlessly with t...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
-            <link>https://www.quora.com/Given-the-hard-fork-in-Ethereum-what-will-happen-to-the-value-of-the-DAO-currency</link>
-            <guid isPermaLink="false">d7af7687-1f17-47ce-8698-1f9b80861a4e</guid>
             <pubDate>Thu, 21 Jul 2016 13:42:43 GMT</pubDate>
         </item>
     </channel>
