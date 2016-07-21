@@ -4,8 +4,43 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 13:43:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 13:43:37 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Maximum # of hashes for finding a block?]]></title>
+            <description><![CDATA[<article><h1>Maximum # of hashes for finding a block?</h1><p>Since nonce is a 32 bit number, the maximum value of nonce can only be 2147483647. So, if a miner doesn't find the target hash within this number, what happens?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46636/maximum-of-hashes-for-finding-a-block</link>
+            <guid isPermaLink="false">0554c43d-fa2e-4434-b9c8-897cb7af36b6</guid>
+            <pubDate>Thu, 21 Jul 2016 13:42:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>My hope is that we start to see hard forks as an elegant upgrade/voting mechanism, not something to be feared that results in multiple coins</p>]]></description>
+            <link>https://twitter.com/brian_armstrong/status/755854156070424576</link>
+            <guid isPermaLink="false">745d2925-2a55-49de-a243-474367128d63</guid>
+            <pubDate>Thu, 21 Jul 2016 13:42:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Foss Force Acknowledges Cryptocurrency-based ROKOS Operating System For Raspberry Pi]]></title>
+            <description><![CDATA[<article><h1>Foss Force Acknowledges Cryptocurrency-based ROKOS Operating System For Raspberry Pi</h1><p>A few months ago, we posted an article about a new operating system designed specifically for the Raspberry Pi devices. ROKOS, as this system is called, is of particular interest to RPi users who favor cryptocurrencies. After going through several releases over the past few months, the ROKOS operating system has become a viable contender for any other Raspberry Pi distribution.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7f2ad5876b0b08089dd17bcac9065a77/croprotate.jpg?cropheight=464&cropwidth=800&degrees=0&input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2FROKOS.jpg&x=0&y=65"></article>]]></description>
+            <link>http://themerkle.com/foss-force-acknowledges-cryptocurrency-based-rokos-operating-system-for-raspberry-pi/</link>
+            <guid isPermaLink="false">66f9a5c2-bdf9-4279-9993-ef2f96c2e433</guid>
+            <pubDate>Thu, 21 Jul 2016 13:42:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bank Of England Paper Quantifies Benefits Of Central Bank Issued Digital Currency]]></title>
+            <description><![CDATA[<article><h1>Bank Of England Paper Quantifies Benefits Of Central Bank Issued Digital Currency</h1><p>A staff working paper written for the Bank of England postulates that central bank issued digital currency (CBDC) of 30% of GDP could permanently raise GDP by as much as 3% from lower real interest rates, taxes and monetary transaction costs, according to a recently published paper.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/292bba98c423991e88940ae35d1907c2/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2015%2F11%2FBank-of-England.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bank-england-paper-quantifies-benefits-central-bank-issued-digital-currency/</link>
+            <guid isPermaLink="false">df20b6b7-caef-4b80-a082-a007c013cc4e</guid>
+            <pubDate>Thu, 21 Jul 2016 13:42:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BITCOIN NEWS, PRICE & ANALYSIS - NEWSBTC.COM]]></title>
+            <description><![CDATA[<article><h1>BITCOIN NEWS, PRICE & ANALYSIS - NEWSBTC.COM</h1><p>NewsBTC is a Bitcoin news service that covers cryptocurrency news, technical analysis and forecasts for bitcoin, litecoin, dash, doge & digital currencies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43cfc6d43a55ea4f964a522ebe2781b17191ab0c.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/21/bitcoin-price-watch-heres-whats-morning-6/</link>
+            <guid isPermaLink="false">4de2f387-8d7a-4d6e-af60-c9a3b8d38305</guid>
+            <pubDate>Thu, 21 Jul 2016 13:42:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Banks abandon the Caribbean, local bitcoin exchange experiences 33% increase in users every month since February]]></title>
             <description><![CDATA[<article><h1>Banks abandon the Caribbean, local bitcoin exchange experiences 33% increase in users every month since February</h1><p>Smaller, poorer countries are being abandoned by big banks in an exodus commonly referred to as "de-risking" or "de-banking." In the Caribbean, where many small countries with poorer populations reside close to each other, the problem is getting so bad that local businesses regularly have a hard time receiving remittances and paying suppliers outside of their own country, even when their trading partner is just the next island over.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ae8084c9f750f41287cea91fe8f556c2/noop.png?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FResizedImage360528-Trade-percentage-of-GDP.png"></article>]]></description>
@@ -39,41 +74,6 @@
             <description><![CDATA[<article><h1>Given the hard fork in Ethereum, what will happen to the value of the DAO currency?</h1><p>Answer: The value of the DAO behaves currently like Econ 101 textbook. The conversion price of DAO is 100:1 ETH and the price is 9.94 milli-Ether. So there is a Gap of .06 mETH which can be explained by transaction fees and a little opportunity costs The value of DAO will move seamlessly with t...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
             <link>https://www.quora.com/Given-the-hard-fork-in-Ethereum-what-will-happen-to-the-value-of-the-DAO-currency</link>
             <guid isPermaLink="false">d7af7687-1f17-47ce-8698-1f9b80861a4e</guid>
-            <pubDate>Thu, 21 Jul 2016 13:42:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum Hard Fork Goes Smoothly, Its Market Value Back to $1 bln]]></title>
-            <description><![CDATA[<article><h1>Ethereum Hard Fork Goes Smoothly, Its Market Value Back to $1 bln</h1><p>The Ethereum project has returned to its $1 bln market value fold after the reset Thursday, July 21. It is an aftermath effect of the hard fork to recover the stolen funds by a hack of the DAO platform. The hard fork was reported completed on Wednesday July 20 with several congratulatory messages pouring in.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9f2e6a103e27f77a7252d0d704758aab/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMGQ1MDJhMTMxYjdhYzM1MGVkN2EwZGIwODdhYWEzZS5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/ethereum-hard-fork-goes-smoothly-its-market-value-back-to-1-bln</link>
-            <guid isPermaLink="false">9afbb0ef-991d-4644-bbe6-3824e69c9d71</guid>
-            <pubDate>Thu, 21 Jul 2016 13:42:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HSBC Senior Official Arrested For Currency Benchmark Rigging]]></title>
-            <description><![CDATA[<article><h1>HSBC Senior Official Arrested For Currency Benchmark Rigging</h1><p>The past 18 months have been rather troubling for banks all over the world. Various investigations have resulted in US$3.1bn in fines. The financial ecosystem is facing another setback, as the HSBC global head of FX trading has been arrested at JFK airport earlier this week.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4e332f2613e6bef9f2db7e9e959cbc60/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F21095756%2Fshutterstock_257508301.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/21/hsbc-senior-official-arrested-currency-benchmark-rigging/</link>
-            <guid isPermaLink="false">49ab1008-16dc-41d3-9e26-6ead6dd2b211</guid>
-            <pubDate>Thu, 21 Jul 2016 13:42:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Does Argentina Need More Bitcoins or Larger Banknotes?]]></title>
-            <description><![CDATA[<article><h1>Does Argentina Need More Bitcoins or Larger Banknotes?</h1><p>Inflation and corruption are two major problems afflicting Argentina and other Latin American countries, such as Brazil and Venezuela. If leaders of these countries wish to solve these problems, they should be advised to think outside the box, shift paradigms, and boldly explore the benefits that new technologies, such as Bitcoin and its blockchain, offer.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d35639489444a3a97c4e037f4e096932/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fpesos-500.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/argentina-need-bitcoins-larger-banknotes/</link>
-            <guid isPermaLink="false">3d1af0e7-3805-4440-b8ea-9305358315ff</guid>
-            <pubDate>Thu, 21 Jul 2016 13:42:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Central Bankers: If You Can't Beat Bitcoin, Print it and Control it]]></title>
-            <description><![CDATA[<article><h1>Central Bankers: If You Can't Beat Bitcoin, Print it and Control it</h1><p>Ahead of a session of key cryptocurrency experts in the UK witnessing before the Economic Affairs Committee of the Parliament on Tuesday July 19 to explore blockchain technology, the Bank of England has released a research paper that studied the macroeconomic consequences of issuing central bank digital currency (CBDC).</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/93023cf30cb8f41edbf9d5156f4cf9fd/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iNmNkNjRmYTRlY2I3MzFjZGNjNGYxMzM4MTkzYWQwOS5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/central-bankers-if-you-cant-beat-bitcoin-print-it-and-control-it</link>
-            <guid isPermaLink="false">b4322c98-71e2-4704-ab09-44552ce92d56</guid>
-            <pubDate>Thu, 21 Jul 2016 13:42:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin mining companies operating in Chelan County will have to deal with higher electricity tariffs]]></title>
-            <description><![CDATA[<article><h1>Bitcoin mining companies operating in Chelan County will have to deal with higher electricity tariffs</h1><p>In light of the recent bitcoin halving event, mining companies have it significantly more difficult when it comes down to mining digital currency. According to recent reports, it seems like a new rate for electricity has just been approved by the Chelan County Public Utility District workers this week.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/60145440fa1a5db112fbe01b8dc4dd0f/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_234023125.jpg"></article>]]></description>
-            <link>http://themerkle.com/bitcoin-mining-companies-operating-in-chelan-county-will-have-to-deal-with-higher-electricity-tariffs/</link>
-            <guid isPermaLink="false">1de31ea2-c0a5-48fc-af3a-dffbc24edaca</guid>
             <pubDate>Thu, 21 Jul 2016 13:42:43 GMT</pubDate>
         </item>
     </channel>
