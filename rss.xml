@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 13:43:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 13:43:36 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>My hope is that we start to see hard forks as an elegant upgrade/voting mechanism, not something to be feared that results in multiple coins</p>]]></description>
-            <link>https://twitter.com/brian_armstrong/status/755854156070424576</link>
-            <guid isPermaLink="false">745d2925-2a55-49de-a243-474367128d63</guid>
-            <pubDate>Thu, 21 Jul 2016 13:42:44 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Foss Force Acknowledges Cryptocurrency-based ROKOS Operating System For Raspberry Pi]]></title>
             <description><![CDATA[<article><h1>Foss Force Acknowledges Cryptocurrency-based ROKOS Operating System For Raspberry Pi</h1><p>A few months ago, we posted an article about a new operating system designed specifically for the Raspberry Pi devices. ROKOS, as this system is called, is of particular interest to RPi users who favor cryptocurrencies. After going through several releases over the past few months, the ROKOS operating system has become a viable contender for any other Raspberry Pi distribution.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7f2ad5876b0b08089dd17bcac9065a77/croprotate.jpg?cropheight=464&cropwidth=800&degrees=0&input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2FROKOS.jpg&x=0&y=65"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Ethereum Hard Fork Goes Smoothly, Its Market Value Back to $1 bln</h1><p>The Ethereum project has returned to its $1 bln market value fold after the reset Thursday, July 21. It is an aftermath effect of the hard fork to recover the stolen funds by a hack of the DAO platform. The hard fork was reported completed on Wednesday July 20 with several congratulatory messages pouring in.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9f2e6a103e27f77a7252d0d704758aab/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iMGQ1MDJhMTMxYjdhYzM1MGVkN2EwZGIwODdhYWEzZS5qcGc%3D.jpg"></article>]]></description>
             <link>https://cointelegraph.com/news/ethereum-hard-fork-goes-smoothly-its-market-value-back-to-1-bln</link>
             <guid isPermaLink="false">9afbb0ef-991d-4644-bbe6-3824e69c9d71</guid>
+            <pubDate>Thu, 21 Jul 2016 13:42:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HSBC Senior Official Arrested For Currency Benchmark Rigging]]></title>
+            <description><![CDATA[<article><h1>HSBC Senior Official Arrested For Currency Benchmark Rigging</h1><p>The past 18 months have been rather troubling for banks all over the world. Various investigations have resulted in US$3.1bn in fines. The financial ecosystem is facing another setback, as the HSBC global head of FX trading has been arrested at JFK airport earlier this week.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4e332f2613e6bef9f2db7e9e959cbc60/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F21095756%2Fshutterstock_257508301.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/21/hsbc-senior-official-arrested-currency-benchmark-rigging/</link>
+            <guid isPermaLink="false">49ab1008-16dc-41d3-9e26-6ead6dd2b211</guid>
             <pubDate>Thu, 21 Jul 2016 13:42:43 GMT</pubDate>
         </item>
     </channel>
