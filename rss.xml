@@ -4,8 +4,50 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 02:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 02:36:01 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What does Softbank's acquisition of ARM mean in regards to the future of the blockchain?]]></title>
+            <description><![CDATA[<article><h1>What does Softbank's acquisition of ARM mean in regards to the future of the blockchain?</h1><p>I'm a gun owner. I support restrictions on who can obtain arms, a thorough background check and required membership in a chartered club (with dues, regular training, safety meetings, etc.) without which, no guns can be obtained.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/What-does-Softbanks-acquisition-of-ARM-mean-in-regards-to-the-future-of-the-blockchain</link>
+            <guid isPermaLink="false">8294e255-4640-4fed-8a03-8460a7918366</guid>
+            <pubDate>Thu, 21 Jul 2016 02:35:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rejecting Today's Hard Fork, the Ethereum Classic Project Continues on the Original Chain: Here's Why]]></title>
+            <description><![CDATA[<article><h1>Rejecting Today's Hard Fork, the Ethereum Classic Project Continues on the Original Chain: Here's Why</h1><p>Ethereum hard forked today. As per what seemed to be the popular demand, the protocol rules have been updated incompatibly with the existing Ethereum protocol. Users have essentially moved to a new blockchain and left the old one behind. At time of publication, well over 90 percent of hash power on the Ethereum network had moved to the new chain.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8b64c16b5d843ebda57c97b30cc45b3f/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Frejecting-today-s-hard-fork-the-ethereum-classic-project-continues-on-the-original-chain-here-s-why.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/rejecting-today-s-hard-fork-the-ethereum-classic-project-continues-on-the-original-chain-here-s-why-1469038808</link>
+            <guid isPermaLink="false">881657ea-11ee-4288-a50b-f8c4b9c2da37</guid>
+            <pubDate>Thu, 21 Jul 2016 02:35:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does the bitcoin testnet3 network support Segwit and OP_CSV?]]></title>
+            <description><![CDATA[<article><h1>Does the bitcoin testnet3 network support Segwit and OP_CSV?</h1><p>As far as I know, Segregated Witness and OP_CHECKSEQUENCEVERIFY are the last features needed to be able to fully implement a trustless bi-directional payment channel, from start to finish. (Technic...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46606/does-the-bitcoin-testnet3-network-support-segwit-and-op-csv</link>
+            <guid isPermaLink="false">1721bfbb-bde6-4e95-8744-39a297f9d3ea</guid>
+            <pubDate>Thu, 21 Jul 2016 02:35:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Petition Pushes CFTC to Clarify Rules on Blockchain 'Delivery' - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Petition Pushes CFTC to Clarify Rules on Blockchain 'Delivery' - CoinDesk</h1><p>US law firm Steptoe & Johnson LLP has filed a petition with the Commodity Futures Trading Commission (CFTC), calling on the agency to provide more clarity regarding the definition of "delivery" in blockchain-based transactions. Signed by Steptoe partner Micah Green and senior policy advisor (and former CFTC commissioner) Michael Dunn, the petition centers around actions the agency took against Hong Kong-based bitcoin exchange Bitfinex in June.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0abe19d43051741d4aef494dbc5e7963/croprotate.jpg?cropheight=1000&cropwidth=1500&degrees=0&input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2Fshutterstock_311143217-e1469041938277.jpg&x=0&y=0"></article>]]></description>
+            <link>http://www.coindesk.com/petition-cftc-clarify-blockchain-rules-delivery/</link>
+            <guid isPermaLink="false">82f72145-83d2-4d28-91e5-ca9781e9ba19</guid>
+            <pubDate>Thu, 21 Jul 2016 02:35:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IBM Launches Blockchain Cloud Services on High Security Server, LinuxONE]]></title>
+            <description><![CDATA[<article><h1>IBM Launches Blockchain Cloud Services on High Security Server, LinuxONE</h1><p>IBM has announced a cloud service for organizations requiring a secure environment for blockchain networks. According to the company, the service, which allows clients to test and run blockchain projects that handle private data securely, is ideal for organizations in regulated industries that need strong compliance measures.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/89196f5f503f33fad9763b840bfde6d3/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fibm-launches-blockchain-cloud-services-on-high-security-server-linuxone.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/ibm-launches-blockchain-cloud-services-on-high-security-server-linuxone-1469043762</link>
+            <guid isPermaLink="false">38695c1c-9076-4722-9a3c-ab7ff5f7e430</guid>
+            <pubDate>Thu, 21 Jul 2016 02:35:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Now it's Bitcoin's turn. Eth's hard fork was a success. It didn't even take hours to sort out (let alone days). It took about 1 minute. This goes to show that hard forks can be much safer than some FUD pushers will have you think. * /r/btc]]></title>
+            <description><![CDATA[<article><h1>Now it's Bitcoin's turn. Eth's hard fork was a success. It didn't even take hours to sort out (let alone days). It took about 1 minute. This goes to show that hard forks can be much safer than some FUD pushers will have you think. * /r/btc</h1><p>Now let's do 2mb (or 8mb) for Bitcoin! It's a million times easier than anyone from the "other side" will have you believe.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
+            <link>https://www.reddit.com/r/btc/comments/4tr8ir/now_its_bitcoins_turn_eths_hard_fork_was_a/</link>
+            <guid isPermaLink="false">a8678f41-bec0-4a5e-9623-461490144b99</guid>
+            <pubDate>Thu, 21 Jul 2016 02:35:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nearly Half of All DAO Funds Withdrawn After Ethereum Hard Fork - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Nearly Half of All DAO Funds Withdrawn After Ethereum Hard Fork - CoinDesk</h1><p>Forty-three percent, or nearly half of all funds, associated with The DAO have now been withdrawn by former project investors. The activity comes hours after developers on the ethereum network executed a hard fork of its blockchain, a network change meant to specifically reverse the failure of The DAO project and move funds tied to its compromised smart contracts into a new account.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/80a873418b71fcae191c6cdc1f172045/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2Fshutterstock_297195692.jpg"></article>]]></description>
@@ -33,48 +75,6 @@
             <link>http://imgur.com/J2Vg4ln</link>
             <guid isPermaLink="false">deed9f79-aec5-485a-aef6-7d8366657dcd</guid>
             <pubDate>Thu, 21 Jul 2016 02:35:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Weekly 2016 July 20: Bitcoin Halvening changes little, Ethereum successful hardfork, Bitcoiner travels around the world, Pokemon on the blockchain and Charlie Shrem released]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Weekly 2016 July 20: Bitcoin Halvening changes little, Ethereum successful hardfork, Bitcoiner travels around the world, Pokemon on the blockchain and Charlie Shrem released</h1><p>The Bitcoin "halvening" happened last week-an event within the Bitcoin protocol where a new Bitcoin mining era started with the mining reward dropping to 12.5 BTC from 25 BTC. Speculation before the event held that something might happen to the market, economy or community; but so far, very little has changed in reaction.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1b1391354f7dce19970543cd0e0c8b1b/noop.jpg?input=http%3A%2F%2Fsiliconangle.com%2Ffiles%2F2015%2F07%2Fethereum-wallpaper-800x500.jpg"></article>]]></description>
-            <link>http://siliconangle.com/blog/2016/07/20/bitcoin-weekly-2016-july-20-bitcoin-halvening-changes-little-ethereum-successful-hardfork-bitcoiner-travels-around-the-world-pokemon-on-the-blockchain-and-charlie-shrem-released/</link>
-            <guid isPermaLink="false">206ca4a8-c769-440c-b09e-89f9ec644964</guid>
-            <pubDate>Thu, 21 Jul 2016 02:35:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lightning network and lightweight clients]]></title>
-            <description><![CDATA[<article><h1>Lightning network and lightweight clients</h1><p>How will the lightning network handle lightweight clients? Most steps during the payment process in an LN channel don't actually require full knowledge of the blockchain or even the unconfirmed (mempool) transactions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/46618/lightning-network-and-lightweight-clients</link>
-            <guid isPermaLink="false">120bde22-bb37-4d86-ac5e-f0cb5256ba04</guid>
-            <pubDate>Thu, 21 Jul 2016 02:35:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are any block chain companies hiring or is Ethereum too young for startups to be at that level?]]></title>
-            <description><![CDATA[<article><h1>Are any block chain companies hiring or is Ethereum too young for startups to be at that level?</h1><p>I remember this one time our soccer ball got stuck in a tree at recess (second grade). After a long period of our entire class jumping or throwing other things at the tree to try to knock it down, the event turned into a class effort even with the teacher involved.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
-            <link>https://www.quora.com/Are-any-block-chain-companies-hiring-or-is-Ethereum-too-young-for-startups-to-be-at-that-level</link>
-            <guid isPermaLink="false">c886dad6-d60c-415d-99bf-40afa0c9f633</guid>
-            <pubDate>Wed, 20 Jul 2016 13:19:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Technical Analysis for 07/20/2016 - Steady Uptrend - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 07/20/2016 - Steady Uptrend - NEWSBTC</h1><p>Bitcoin price found support at the bottom of its ascending channel and looks prime for another test of resistance. Bitcoin Price Key Highlights Bitcoin price found support at the bottom of its ascending channel and looks prime for another test of resistance.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6421c4440df72e3284b2e6681a261627/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F20042415%2F160720_bitcoin.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/20/bitcoin-price-technical-analysis-07202016-steady-uptrend/</link>
-            <guid isPermaLink="false">c31f7f17-cdaa-4301-a2a4-ec99cdc7c5ec</guid>
-            <pubDate>Wed, 20 Jul 2016 13:19:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[14 Books That Changed The Way I Think]]></title>
-            <description><![CDATA[<article><h1>14 Books That Changed The Way I Think</h1><p>I enjoy seeing book lists from other people, so I thought I'd create one of my own. These books changed the way I think by giving me a new mental model to understand the world. I don't agree (or disagree) with all the ideas in these books.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0eeb02c1efc337e873549a969ed68c00/noop.png?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*pmKu7HI5lbBmtdTWB8_upg.png"></article>]]></description>
-            <link>http://gigabitcoin.xyz/14-books-that-changed-the-way-i-think/index.html</link>
-            <guid isPermaLink="false">e54ac24d-d727-4eb7-87e4-f2ebeae8fa1e</guid>
-            <pubDate>Wed, 20 Jul 2016 13:19:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum Price Technical Analysis - Is This A Break We Needed? - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Ethereum Price Technical Analysis - Is This A Break We Needed? - NEWSBTC</h1><p>Ethereum price traded higher intraday, and looking at the current technical indicators it looks like it may trade further higher. Ethereum price traded higher intraday, and looking at the current technical indicators it looks like it may trade further higher. Ethereum price managed to move higher against the US Dollar and broke a major resistance area.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d2113e92c63e6779e7911c68aa65f356/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F20034210%2FEthereum17.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/20/ethereum-price-technical-analysis-break-needed/</link>
-            <guid isPermaLink="false">9150321c-a5e5-4efe-8c65-c93435a1dd2c</guid>
-            <pubDate>Wed, 20 Jul 2016 13:19:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
