@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 02:37:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 02:37:14 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin Fees for Transactions | bitcoinfees.21.co]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Fees for Transactions | bitcoinfees.21.co</h1><p>Predicting bitcoin fees for transactions. Fees are displayed in Satoshis/byte of data. Miners usually include transactions with the highest fees first.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5785a887f0575aee79a1ff201d136d58/noop.png?input=http%3A%2F%2Fbitcoinfees.21.co%2Fassets%2Fimages%2F21_black_logo_64x64.png"></article>]]></description>
-            <link>https://bitcoinfees.21.co/</link>
-            <guid isPermaLink="false">2963f1ac-52d8-43a4-ac67-eb2e7a57f75d</guid>
-            <pubDate>Thu, 21 Jul 2016 02:35:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitwala Enables Ether Users to Make Cheap International Transfers]]></title>
-            <description><![CDATA[<article><h1>Bitwala Enables Ether Users to Make Cheap International Transfers</h1><p>Bitwala, a prominent European Bitcoin startup, has launched a feature which allows users of Ether, Dash, Litecoin, and Dogecoin to pay bills, top-up bitcoin debit cards, and make international USD and SEPA payments with altcoins. Over the past year, Bitwala has been focused in bringing solid infrastructure for Bitcoin users internationally by providing various methods of using and transferring digital currencies.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0fb429cfcf9956a79e37631eb02201b1/noop.jpeg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F20152516%2F687474703a2f2f692e696d6775722e636f6d2f344f686877776f2e6a7067.jpeg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/20/bitwala-enables-ether-users-make-cheap-international-transfers/</link>
-            <guid isPermaLink="false">5e29c579-dbac-47fd-b860-0fa9a467bfc9</guid>
-            <pubDate>Thu, 21 Jul 2016 02:35:17 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Ethereum Executes Blockchain Hard Fork to Return DAO Investor Funds - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Ethereum Executes Blockchain Hard Fork to Return DAO Investor Funds - CoinDesk</h1><p>The much anticipated hard fork of the ethereum blockchain has been implemented, giving those building on the decentralized application network at least the potential for stability after weeks of controversy and sometimes terse disagreements in the wider community. At approximately 14:30 UTC today, China-based ethereum miner BW.com mined the ethereum blockchain's 192,000th block.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a50d74c96d120e5ed595b11ae8cd5b64/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2Fsplit-fork-e1469023790340.jpg"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>Bank of England: Digital Currency Can Raise GDP 'By Almost 3%'</h1><p>The Bank Of England (BoE) has stated a "central bank digital currency" (CBDC) could raise the UK's GDP "by almost 3%." Also read: Bitcoin 'More Stable Than Euro and Pound' After Record Brexit Trading In a lengthy new report published this week, the Bank studies the feasibility of introducing a CBDC, as well as the likely implications it would be have for the economy.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6b97999fead505956772b133ea09bd83/croprotate.jpg?cropheight=798&cropwidth=1280&degrees=0&input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fboe.jpg&x=0&y=0"></article>]]></description>
             <link>https://news.bitcoin.com/bank-england-digital-currency-raise-gdp/</link>
             <guid isPermaLink="false">3b8f7778-8595-4d46-aee9-b79712544b45</guid>
+            <pubDate>Thu, 21 Jul 2016 02:35:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum Co-Founder Taylor Gerring: Hard Fork Will Make Network More Resilient]]></title>
+            <description><![CDATA[<article><h1>Ethereum Co-Founder Taylor Gerring: Hard Fork Will Make Network More Resilient</h1><p>On the eve of the hard fork scheduled for 20-21 July, we interviewed Taylor Gerring, one of co-founders of Ethereum Foundation. He has also served on the Board of Directors for Ethereum Foundation and is currently an International Speaker and Blockchain Consultant CT: Why Ethereum?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1ad63ae0dfe9389e1b7bff1cb0d37ec5/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy80OTU1YjA1MTlmNzNjZjJlMjEwYTE4ODdlYzA3YjViOC5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/ethereum-co-founder-taylor-gerring-hard-fork-will-make-network-more-resilient</link>
+            <guid isPermaLink="false">115a011c-03e5-4774-a353-d5e254b50b5e</guid>
+            <pubDate>Thu, 21 Jul 2016 02:35:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What value stores can be exchanged for bitcoin purely pseudonymously?]]></title>
+            <description><![CDATA[<article><h1>What value stores can be exchanged for bitcoin purely pseudonymously?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top What can I trade with bitcoin without having to give out private details like name and address?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46622/what-value-stores-can-be-exchanged-for-bitcoin-purely-pseudonymously</link>
+            <guid isPermaLink="false">38130ba9-100e-4e12-ad06-a78773a1a260</guid>
             <pubDate>Thu, 21 Jul 2016 02:35:15 GMT</pubDate>
         </item>
     </channel>
