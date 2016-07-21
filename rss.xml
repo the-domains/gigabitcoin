@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 05:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 05:09:33 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Ethereum Hard Fork & Ethereum Classic]]></title>
+            <description><![CDATA[<article><h1>The Ethereum Hard Fork & Ethereum Classic</h1><p>The Ethereum Hard-Fork went as smoothly as possible. The event took place at Jul-20-2016 01:20:40 PM UTC and it was received quite well by the community, according to the price charts. Ethereum kept rising hours before the Hard-Fork and it kept on doing so after.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/77119d45bad94339a6b1b9c97ae7186d/noop.png?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2FEthereum.png"></article>]]></description>
+            <link>http://themerkle.com/the-ethereum-hard-fork-ethereum-classic/</link>
+            <guid isPermaLink="false">c524fad1-4555-4418-b4cb-200fb328a0ad</guid>
+            <pubDate>Thu, 21 Jul 2016 05:09:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How To Buy Bitcoin & Ethereum Quickly: VIDEO]]></title>
             <description><![CDATA[<article><h1>How To Buy Bitcoin & Ethereum Quickly: VIDEO</h1><p>The volume of questions I receive from readers and viewers about how to buy Bitcoin, and how to acquire secondplace cryptocurrency Ether, has definitely picked up in recent weeks. The public is interested in crypto again - maybe it was the recent block halving, or maybe it's the summer weather finally loosening pursestrings...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ded041e9bc4f49d1333e9725d60db542/noop.jpg?input=http%3A%2F%2Fi.huffpost.com%2Fgen%2F1454955%2Fimages%2Fo-BITCOIN-facebook.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://bravenewcoin.com/news/machines-that-learn-will-decimate-human-jobs-or-will-they/</link>
             <guid isPermaLink="false">c2b6dd88-9bbb-429b-a8ee-3e0b78f51cd7</guid>
             <pubDate>Thu, 21 Jul 2016 05:09:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Elements of DAO in Dash]]></title>
-            <description><![CDATA[<article><h1>The Elements of DAO in Dash</h1><p>Editor's note: It looks like The DAO is no longer with us. However, the future development of decentralized communities may again lead to a creation of new blockchain-based DAOs. In the article below the author shows the existing mechanisms for decentralized management in yet another popular blockchain-project called Dash.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/da09aac9062e3a8233afea41fc44f74a/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F03%2Fbitcoinscience02.png"></article>]]></description>
-            <link>http://forklog.net/the-elements-of-dao-in-dash/</link>
-            <guid isPermaLink="false">00cba3db-104e-4c5c-9075-46fd075478f0</guid>
-            <pubDate>Thu, 21 Jul 2016 02:35:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
