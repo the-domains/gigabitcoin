@@ -4,29 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 02:36:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 02:36:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[What value stores can be exchanged for bitcoin purely pseudonymously?]]></title>
-            <description><![CDATA[<article><h1>What value stores can be exchanged for bitcoin purely pseudonymously?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. It's 100% free, no registration required. Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top What can I trade with bitcoin without having to give out private details like name and address?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/46622/what-value-stores-can-be-exchanged-for-bitcoin-purely-pseudonymously</link>
-            <guid isPermaLink="false">38130ba9-100e-4e12-ad06-a78773a1a260</guid>
-            <pubDate>Thu, 21 Jul 2016 02:35:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Updated ccMiner 1.8 fork by tpruvot With LBRY Support]]></title>
-            <description><![CDATA[<article><h1>Updated ccMiner 1.8 fork by tpruvot With LBRY Support</h1><p>While LBRY is still in Beta and you need to request an invitation in order to be able to get early access to the platform (currently only available for Mac OSX and Linux), people have been mining the LBRY Credits (LBC) for a while now on AMD via the dedicated sgminer fork or on CPU, but today tpruvot has updated his ccMiner fork ( source) with the final 1.8 release that adds support for LBRY Credits mining on Nvidia GPUs as well.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9de279d01d9d2f1e45be5341a2b124b1/noop.jpg?input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fccminer-1-8-tpruvot-lbry-580x293.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/8125-updated-ccminer-1-8-fork-by-tpruvot-with-lbry-support/</link>
-            <guid isPermaLink="false">dd97d019-6356-4bfe-a0dc-4e56ee21412d</guid>
-            <pubDate>Thu, 21 Jul 2016 02:35:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is]]></title>
-            <description><![CDATA[<article><h1>Is</h1><p>Are large cryptocurrency companies and exchanges watching how you use your Bitcoin? A Coinbase customer was threatened with account closure when attempting to use a gambling site.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/232623b1073ba63f4ac99ac17ed59080/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yYzFmZmNkMDk0MjZkYzY5OWU1MTcyNTEyNzVmMjk4MC5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/is-big-bitcoin-watching-how-you-spend-your-cryptocurrency</link>
-            <guid isPermaLink="false">b9411aa2-de0c-404e-86c8-80941d36b10e</guid>
-            <pubDate>Thu, 21 Jul 2016 02:35:15 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Washington State Utility Raises Power Rates on Bitcoin Miners - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Washington State Utility Raises Power Rates on Bitcoin Miners - CoinDesk</h1><p>A Washington State utility is raising rates on bitcoin miners, months after a dispute with the local industry began over its power usage. The Chelan County Public Utility District (PUD) announced earlier this week that, effective January 2017, electrical rates will rise for so-called "high-density load customers", or those that use 250 kilowatt hours per square foot per year.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/33c9ea8d28db9f757938108ff43a0bd0/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2FChelan.jpg"></article>]]></description>
@@ -75,6 +54,27 @@
             <link>https://bitcoinmagazine.com/articles/rejecting-today-s-hard-fork-the-ethereum-classic-project-continues-on-the-original-chain-here-s-why-1469038808</link>
             <guid isPermaLink="false">881657ea-11ee-4288-a50b-f8c4b9c2da37</guid>
             <pubDate>Thu, 21 Jul 2016 02:35:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does the bitcoin testnet3 network support Segwit and OP_CSV?]]></title>
+            <description><![CDATA[<article><h1>Does the bitcoin testnet3 network support Segwit and OP_CSV?</h1><p>As far as I know, Segregated Witness and OP_CHECKSEQUENCEVERIFY are the last features needed to be able to fully implement a trustless bi-directional payment channel, from start to finish. (Technic...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46606/does-the-bitcoin-testnet3-network-support-segwit-and-op-csv</link>
+            <guid isPermaLink="false">1721bfbb-bde6-4e95-8744-39a297f9d3ea</guid>
+            <pubDate>Thu, 21 Jul 2016 02:35:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Petition Pushes CFTC to Clarify Rules on Blockchain 'Delivery' - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Petition Pushes CFTC to Clarify Rules on Blockchain 'Delivery' - CoinDesk</h1><p>US law firm Steptoe & Johnson LLP has filed a petition with the Commodity Futures Trading Commission (CFTC), calling on the agency to provide more clarity regarding the definition of "delivery" in blockchain-based transactions. Signed by Steptoe partner Micah Green and senior policy advisor (and former CFTC commissioner) Michael Dunn, the petition centers around actions the agency took against Hong Kong-based bitcoin exchange Bitfinex in June.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0abe19d43051741d4aef494dbc5e7963/croprotate.jpg?cropheight=1000&cropwidth=1500&degrees=0&input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2Fshutterstock_311143217-e1469041938277.jpg&x=0&y=0"></article>]]></description>
+            <link>http://www.coindesk.com/petition-cftc-clarify-blockchain-rules-delivery/</link>
+            <guid isPermaLink="false">82f72145-83d2-4d28-91e5-ca9781e9ba19</guid>
+            <pubDate>Thu, 21 Jul 2016 02:35:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IBM Launches Blockchain Cloud Services on High Security Server, LinuxONE]]></title>
+            <description><![CDATA[<article><h1>IBM Launches Blockchain Cloud Services on High Security Server, LinuxONE</h1><p>IBM has announced a cloud service for organizations requiring a secure environment for blockchain networks. According to the company, the service, which allows clients to test and run blockchain projects that handle private data securely, is ideal for organizations in regulated industries that need strong compliance measures.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/89196f5f503f33fad9763b840bfde6d3/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fibm-launches-blockchain-cloud-services-on-high-security-server-linuxone.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/ibm-launches-blockchain-cloud-services-on-high-security-server-linuxone-1469043762</link>
+            <guid isPermaLink="false">38695c1c-9076-4722-9a3c-ab7ff5f7e430</guid>
+            <pubDate>Thu, 21 Jul 2016 02:35:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
