@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 02:37:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 02:37:27 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Ethereum Successfully Hardforks]]></title>
-            <description><![CDATA[<article><h1>Ethereum Successfully Hardforks</h1><p>Ethereum has achieved what some said was impossible. A controversial hardfork has just successfully completed. At block 1,920,000 a split occurred which lasted barely seconds: Ethereum's price jumped yesterday when the fork became fairly certain.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4aad239317080dc97a6eb6b9d8045f7a/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FRoad-split-fork.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/ethereum-successfully-hardforks/</link>
-            <guid isPermaLink="false">5df0fa52-9245-42b7-a779-62f9fd1ba069</guid>
-            <pubDate>Thu, 21 Jul 2016 02:35:19 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No Passwords Stolen During Ubuntu Forums Data Breach]]></title>
             <description><![CDATA[<article><h1>No Passwords Stolen During Ubuntu Forums Data Breach</h1><p>A few days ago, the Ubuntu Forums were breached by unknown assailants. A total of two million user accounts were stolen, albeit there is no need to worry just yet. User passwords are not compromised, as the assailants only obtained random text strings stored in the database.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/53e80730de689b52dcd12fd4b53a3c3a/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2FUbuntu-Forums.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>British Telecom Causes Nationwide UK Online Banking Outage</h1><p>Although online banking is gaining in popularity, the number of outages customers have to deal with continues to increase. For once, the banks themselves were not to blame for today's outage, as the problem was caused by BT, the largest ISP in the region.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6945f28fafc3ab0e4a7196172b76390f/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_177915284.jpg"></article>]]></description>
             <link>http://themerkle.com/british-telecom-causes-nationwide-uk-online-banking-outage/</link>
             <guid isPermaLink="false">099e577c-7f9e-4876-be6e-c2d636514676</guid>
+            <pubDate>Thu, 21 Jul 2016 02:35:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Caught In Commodities Down-Draft]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Caught In Commodities Down-Draft</h1><p>Bitcoin price is caught in a market-wide down-draft and has fallen through the boards of a once promising channel of advance. It looks like we're heading back to the consolidation support floor and, then, back to the trade planning drawing board. This analysis is provided by xbt.social with a 3-hour delay.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6f6b07bdffaba8cb819024645ee814fd/noop.png?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FSelection_20160720_001.png"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-price-caught-commodities-draft/</link>
+            <guid isPermaLink="false">572c766d-fcba-4a0e-b9e9-21f788acdb27</guid>
             <pubDate>Thu, 21 Jul 2016 02:35:15 GMT</pubDate>
         </item>
     </channel>
