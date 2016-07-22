@@ -4,13 +4,20 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 14:36:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 14:36:39 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Love this!]]></title>
             <description><![CDATA[<article><h1>Love this!</h1><p>object Object]</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a21f351e05527b67e1e98d51a1ae3bef/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Ffit%2Fc%2F60%2F60%2F0*MNE6WT-T1PbUdqkc.jpeg"></article>]]></description>
             <link>http://gigabitcoin.xyz/love-this/index.html</link>
             <guid isPermaLink="false">7263034e-16f2-4c3e-b6c4-d0c54ce1c83d</guid>
+            <pubDate>Fri, 22 Jul 2016 14:34:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum Price Technical Analysis - ETH Preparing For Break - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Ethereum Price Technical Analysis - ETH Preparing For Break - NEWSBTC</h1><p>Ethereum price is currently trading with a positive bias against the US Dollar, and if the current trend remains intact more gains are likely. Ethereum price is currently trading with a positive bias against the US Dollar, and if the current trend remains intact more gains are likely.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/327728d07da270a9f3bcfa3a3a905e61/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F22031940%2FEthereum19.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/22/ethereum-price-technical-analysis-eth-preparing-break/</link>
+            <guid isPermaLink="false">ec75793c-8698-421a-aaf0-d96c708b81ee</guid>
             <pubDate>Fri, 22 Jul 2016 14:34:30 GMT</pubDate>
         </item>
         <item>
@@ -68,13 +75,6 @@
             <link>http://www.newsbtc.com/2016/07/22/bitcoin-price-watch-strange-nights-action/</link>
             <guid isPermaLink="false">37ff36ee-cd04-470e-ba1c-b96096c6de7a</guid>
             <pubDate>Fri, 22 Jul 2016 14:34:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bank of England Knocks Down Using Bitcoin as Form of Currency]]></title>
-            <description><![CDATA[<article><h1>Bank of England Knocks Down Using Bitcoin as Form of Currency</h1><p>Bitcoin has been on an impressive run of positive energy, as of late. Integration of the Segregated Witness algorithm has begun, apparently without fault. Same goes for the ' Bitcoin halving,' which has also shown no ill effects to the market to this point.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dd5a63bd9fb177ce73f0cb5024b15dcd/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83MjE1OTlmNTc1N2NhYTM0ZTYyZjc0NDAwOGQyYWM5ZS5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/bank-of-england-knocks-down-using-bitcoin-as-form-of-currency</link>
-            <guid isPermaLink="false">23ef36c7-d940-451b-a0d4-ba929926a050</guid>
-            <pubDate>Fri, 22 Jul 2016 14:34:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
