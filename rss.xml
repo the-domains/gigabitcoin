@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 23:40:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 23:40:26 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Mycelium Wallet Will Soon Integrate Dash]]></title>
-            <description><![CDATA[<article><h1>Mycelium Wallet Will Soon Integrate Dash</h1><p>The popular Bitcoin wallet Mycelium has just announced it will soon integrate the privacy-centric cryptocurrency Dash. The implementation of the Dash token will allow Mycelium users to buy, sell and hold Dash within their wallet.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7774641c538e76034d03c68912146fe6/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FMycelium-Wallet-Will-Soon-Integrate-Dash.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/mycelium-integrate-dash/</link>
-            <guid isPermaLink="false">38a1990a-12ce-494a-bce9-28cf09260732</guid>
-            <pubDate>Fri, 22 Jul 2016 23:40:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Banks Around The World Face Another Stress Test Next Week]]></title>
-            <description><![CDATA[<article><h1>Banks Around The World Face Another Stress Test Next Week</h1><p>Bitcoiners may want to pay close attention to the major bank stress test which is set to take place next week. All of the central banks in the world will participate in this test, and the outcome is anybody's guess at this stage.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2d0990e899c4f580fbed7ed64032a43e/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_350572712.jpg"></article>]]></description>
-            <link>http://themerkle.com/banks-around-the-world-face-another-stress-test-next-week/</link>
-            <guid isPermaLink="false">224fa1af-e7e2-4971-ba8d-5314cc978754</guid>
-            <pubDate>Fri, 22 Jul 2016 23:40:10 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Why is Bitcoin Going Up? (And will it Continue...)]]></title>
             <description><![CDATA[<article><h1>Why is Bitcoin Going Up? (And will it Continue...)</h1><p>The following post reflects the opinion of the author and is not to be seen as any investment advice. Whenever investing in Bitcoin (or anything else) you are putting your money at risk and should do this at your own risk. In short, THIS IS NOT INVESTMENT ADICE!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d15217767911946670b6e0a06585c4c1/noop.jpg?input=https%3A%2F%2F99bitcoins.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_452820088.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>http://www.bbc.com/news/technology-36865208</link>
             <guid isPermaLink="false">2eb4a8f1-5388-4a7b-a50b-181349fe3310</guid>
             <pubDate>Fri, 22 Jul 2016 23:40:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Erns & Young Report: Prepare For Blockchain 'Critical Mass']]></title>
+            <description><![CDATA[<article><h1>Erns & Young Report: Prepare For Blockchain 'Critical Mass'</h1><p>Ernst & Young (EY), the third largest multinational professional services firm, believes blockchain technology is poised for critical mass. In its Also Read: 'Radical Political Decentralization' Could End Nation States latest report, "Blockchain Reaction: Tech companies plan for critical mass," the company explains how tech firms will experience impact through the blockchain's "potential-rich, but still immature, technology."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c0cfe23c14505a2c3d5be8dccf381a4a/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FEY-Report-Prepare-For-Blockchain-Critical-Mass.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/ey-report-blockchain-critical-mass/</link>
+            <guid isPermaLink="false">93a3adc2-18ae-41d6-bc49-7aa590174b42</guid>
+            <pubDate>Fri, 22 Jul 2016 23:40:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moody's Clients Working on 120 Blockchain Projects, Report Shows - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Moody's Clients Working on 120 Blockchain Projects, Report Shows - CoinDesk</h1><p>As many as 120 blockchain-related projects are being undertaken by governments and companies rated by credit agency Moody's, new data shows. Many of the projects have been publicly disclosed, and the report cites initiatives like the Hyperledger Projects as well as both regional and global finance consortiums as major drivers of issuer participation.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/22cccce631892c05b9694eaf5e75c683/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2Fmoodys-e1469222719765.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/moodys-120-blockchain-projects-report/</link>
+            <guid isPermaLink="false">c14e7437-6181-45fc-a541-549deb72ed54</guid>
+            <pubDate>Fri, 22 Jul 2016 23:40:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
