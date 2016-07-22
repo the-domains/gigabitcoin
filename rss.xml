@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 14:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 14:35:18 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blockchain in finance and management fields. Fintech and govtech cases at Blockchain Conference Kiev]]></title>
+            <description><![CDATA[<article><h1>Blockchain in finance and management fields. Fintech and govtech cases at Blockchain Conference Kiev</h1><p>On 23 September Kyiv will become a meeting point for financiers, IT specialists and entrepreneurs with successful experience of working with blockchain. What problems can blockchain solve in the finance sphere and total asset management - will be discussed by speakers of the third annual Blockchain & Bitcoin Conference Kiev.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/76fdaae3c16beaa9c31fe0cbb50adbac/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F22100736%2F800%25D1%2585500_bit_a_Stream.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/22/blockchain-finance-management-fields-fintech-govtech-cases-blockchain-conference-kiev/</link>
+            <guid isPermaLink="false">4f7c934a-db90-4466-b9ca-c4382ca9e3bf</guid>
+            <pubDate>Fri, 22 Jul 2016 14:34:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Siamining With New Stratum Mining Protocol for Siacoin]]></title>
             <description><![CDATA[<article><h1>Siamining With New Stratum Mining Protocol for Siacoin</h1><p>The Siamining mining pool for Siacoin (SC) we have written about recently has also added Stratum support. Their Stratum implementation however is a bit different from the one that Suprnova has introduced a few days ago for their mining pool and thus requires users to use a different version of sgminer.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b4b60d91ed0395c722b79d15c6d60b37/noop.jpg?input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fsgminer-stratum-siamining-580x293.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>More Fintech Regulation Is Coming To Thailand</h1><p>Regulation, whether it is in Fintech or cryptocurrency, seems to be inevitable moving forward. Thailand is the latest country to consider Fintech regulation, which will impact bitcoin and other cryptocurrencies in the country as well. The country's central bank wants more regulation to protect customers and prevent systemic risks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3193de7f0d1fbc33794057fd4d11fee6/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_246524761.jpg"></article>]]></description>
             <link>http://themerkle.com/more-fintech-regulation-is-coming-to-thailand/</link>
             <guid isPermaLink="false">16b45c40-d317-4065-af3e-13486dff222f</guid>
-            <pubDate>Fri, 22 Jul 2016 14:34:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ripple Blockchain Payment from Canada to Germany Takes 20 Seconds]]></title>
-            <description><![CDATA[<article><h1>Ripple Blockchain Payment from Canada to Germany Takes 20 Seconds</h1><p>A blockchain payment due to a collaboration between Canadian financial institution ATB Financial, German software multinational SAP, blockchain startup Ripple Labs and Geman bank ReiseBank AG has demonstrated the potential of blockchain technology, wherein an international payment took 20 seconds as opposed to several working days.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fe9f8277dafb352a89db77650dedf104/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FMobile-transfer.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/ripple-blockchain-payment-transfer/</link>
-            <guid isPermaLink="false">be341148-8687-4732-abb5-28f02d88ae41</guid>
             <pubDate>Fri, 22 Jul 2016 14:34:27 GMT</pubDate>
         </item>
     </channel>
