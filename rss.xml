@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 13:43:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 02:43:57 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Can KickassTorrents Make a Comeback? - TorrentFreak]]></title>
+            <description><![CDATA[<article><h1>Can KickassTorrents Make a Comeback? - TorrentFreak</h1><p>Founded in 2009, KickassTorrents (KAT) grew out to become the largest torrent site on the Internet with millions of visitors a day. As a result, copyright holders and law enforcement have taken aim at the site in recent years.</p></article>]]></description>
+            <link>https://torrentfreak.com/can-kickasstorrents-make-a-comeback-160721/</link>
+            <guid isPermaLink="false">b38c7b42-42d9-4968-aa2e-c940549c1719</guid>
+            <pubDate>Fri, 22 Jul 2016 02:43:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ethereum Price Technical Analysis - Buying Worked, Further Gains Eyed - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Ethereum Price Technical Analysis - Buying Worked, Further Gains Eyed - NEWSBTC</h1><p>Ethereum price retained its bullish bias against the US Dollar, and my yesterday's idea did well. Now, can ETH/USD trade further higher? Ethereum price retained its bullish bias against the US Dollar, and my yesterday's idea did well. Now, can ETH/USD trade further higher?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b2e1b3fee8099ffc6cdde81ac5707fc3/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F21032347%2FEthereum18.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitwala to offer the world's cheapest international transfers via Ether, Litecoin, Dash and Dogecoin</h1><p>Bitwala, the popular European-based bill payment service that allows people to pay their bills via bitcoin has just announced that they'll soon offer the cheapest international money transfers for Dash, Ether, Dogecoin and Litecoin users.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cdb7b4476e421c362601380e3970cda1/croprotate.jpg?cropheight=853&cropwidth=1505&degrees=0&input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fbitwala.jpg&x=0&y=0"></article>]]></description>
             <link>http://themerkle.com/bitwala-to-offer-the-worlds-cheapest-international-transfers-via-ether-litecoin-dash-and-dogecoin/</link>
             <guid isPermaLink="false">e7fefd43-8240-4409-9f21-d5356992c0a4</guid>
-            <pubDate>Thu, 21 Jul 2016 13:42:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is the ethereum hard fork and how it was possible?]]></title>
-            <description><![CDATA[<article><h1>What is the ethereum hard fork and how it was possible?</h1><p>Answer: The hard fork was a change in the Ethereum protocol to block the access of the theDAO attacker from June 19 to the funds. All his addresses where blacklisted and the funds were transfered into an account where they can be reclaimed by theDAO token holders. The Hard Fork was possible beca...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
-            <link>https://www.quora.com/What-is-the-ethereum-hard-fork-and-how-it-was-possible</link>
-            <guid isPermaLink="false">053af462-22a1-4cb5-95b0-9b8a24a20b1f</guid>
             <pubDate>Thu, 21 Jul 2016 13:42:43 GMT</pubDate>
         </item>
     </channel>
