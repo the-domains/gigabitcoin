@@ -4,29 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 18:41:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 18:40:45 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Question on interpreter.cpp in Bitcoin core - set_success method]]></title>
-            <description><![CDATA[<article><h1>Question on interpreter.cpp in Bitcoin core - set_success method</h1><p>https://github.com/bitcoin/bitcoin/blob/master/src/script/interpreter.cpp Line 22 => Where is declare "ScriptError" ? What does the "*" mean ? "inline bool set_success(ScriptError* r...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/46215/question-on-interpreter-cpp-in-bitcoin-core-set-success-method</link>
-            <guid isPermaLink="false">75f0b377-2b16-499e-ba13-0afd893bc344</guid>
-            <pubDate>Sat, 23 Jul 2016 18:39:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Venezuela's Biggest Bitcoin Exchange Resumes Operations]]></title>
-            <description><![CDATA[<article><h1>Venezuela's Biggest Bitcoin Exchange Resumes Operations</h1><p>Surbitcoin, the biggest Bitcoin exchange in Venezuela has resumed normal operations. On July 14th the exchange managed to unfreeze one of its fiat bank accounts and reestablish its API integration with Banesco (the biggest financial entity in Venezuela). The Bitcoin exchange announced the successful relaunch of its Fiat gateway.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/70766715be6050d4bc12d6686e13380a/croprotate.png?cropheight=301&cropwidth=1250&degrees=0&input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2FSurBitcoin.png&x=0&y=29"></article>]]></description>
-            <link>http://themerkle.com/venezuelas-biggest-bitcoin-exchange-resumes-operations/</link>
-            <guid isPermaLink="false">354b2a6a-4453-4a83-9ec1-bb59ce89301b</guid>
-            <pubDate>Sat, 23 Jul 2016 18:39:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>I think im finally done with /r/bitcoin. It's been a fun few years, but it's become a stagnant pool of vitriol and groupthink :( #bitcoin</p>]]></description>
-            <link>https://twitter.com/ErikVoorhees/status/756558243346866176</link>
-            <guid isPermaLink="false">49f028e8-3bfa-4b7e-b478-f183d29fe630</guid>
-            <pubDate>Sat, 23 Jul 2016 18:39:51 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Moody's new report identifies 25 top blockchain use cases, from a list of 120]]></title>
             <description><![CDATA[<article><h1>Moody's new report identifies 25 top blockchain use cases, from a list of 120</h1><p>Moody's Investors Service (MIS) recently released a detailed report that names 120 blockchain projects being explored by various companies. The bond credit rating business then offers 25 top use cases for blockchain technology. The report, "Credit Strategy -- Blockchain Technology: Robust, Cost-effective Applications Key to Unlocking Blockchain's Potential Credit Benefits," explores how blockchain tech potentially can improve record-keeping and transactional efficiencies across many different processes and industries.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3d3919c7769c204ae63cbd113f060c05/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-new-york-skyscrapers.jpg"></article>]]></description>
@@ -39,13 +18,6 @@
             <description><![CDATA[<article><h1>Profile Hijacking Exploit On PayPal.me Has Been Fixed</h1><p>Whenever an online payment giant has a critical flaw, the world looks very different all of a sudden. A vulnerability in the PayPal.me site has been patched recently. By using this exploit, an assailant could change a user's profile without needing their permission to do so.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8dd9375fd46b7a8afa83150519d7846c/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_432439231.jpg"></article>]]></description>
             <link>http://themerkle.com/profile-hijacking-exploit-on-paypal-me-has-been-fixed/</link>
             <guid isPermaLink="false">b8dad158-8a3d-4e50-9379-1534e4ed88c7</guid>
-            <pubDate>Sat, 23 Jul 2016 18:39:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KYC Dilemma: US Secret Service Seizes $13k from Coinbase Customer]]></title>
-            <description><![CDATA[<article><h1>KYC Dilemma: US Secret Service Seizes $13k from Coinbase Customer</h1><p>The United States Secret Service (USSS) has seized more than 25 bitcoins from a Coinbase account and seemingly converted them automatically to $13,000 USD, it has emerged. Also read: Coinbase Integrates PayPal to Broaden its Reach In an official notification dated today, USSS announced that on June 3 it had taken control of "$13,138.12 in U.S.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/383f7eb2eb2eaeb4ad7029971f3050a6/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FBorder-seizure.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/us-secret-service-seizes-coinbase/</link>
-            <guid isPermaLink="false">2c33dcd5-cd07-46c5-96b4-b5328d810164</guid>
             <pubDate>Sat, 23 Jul 2016 18:39:51 GMT</pubDate>
         </item>
         <item>
@@ -74,6 +46,34 @@
             <description><![CDATA[<article><h1>Reserve Bank of India to study blockchain applications | HolyTransaction</h1><p>In fact, a bank deputy governor encouraged other Indian banks to collaborate within a research group previously created by the central bank on blockchain projects. "Cloud-based computing, blockchain processing technologies and virtualization of IT systems are a few examples which hold potential for being used in a big way ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/33681aececd15fa1ff8058519838ff41/noop.png?input=https%3A%2F%2F4.bp.blogspot.com%2F-t30k39hIvL0%2FV5NGzHKpa0I%2FAAAAAAAAApk%2FFWf-PK9NU9ArXEqXgXKS_LSop3-fb8wFACLcB%2Fw1200-h630-p-nu%2FUntitled%252Bdesign.png"></article>]]></description>
             <link>http://blog.holytransaction.com/2016/07/reserve-bank-of-india-to-study.html</link>
             <guid isPermaLink="false">60798bf5-4e7a-4443-95fa-d7dfbf34fd04</guid>
+            <pubDate>Sat, 23 Jul 2016 18:39:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blockchain Based NetCents and PayPal Integration Takes Off, Beta Testing is On]]></title>
+            <description><![CDATA[<article><h1>Blockchain Based NetCents and PayPal Integration Takes Off, Beta Testing is On</h1><p>Online payment platform, focused on capturing the migration from cash to digital currency by utilizing innovative blockchain technology to provide payment solutions, NetCents has announced the launch of its newly updated Enterprise Solutions Payment Gateway.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/159b72b87e26c32c1b4b5883c65d8bb6/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy82MWQ0NTJkYTZjZjBlNThkNDY4MGY5MDIzNzAzYzIwZS5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/blockchain-based-netcents-and-paypal-integration-takes-off-beta-testing-is-on</link>
+            <guid isPermaLink="false">954ad925-b6c0-4cf6-b74e-58c81b975746</guid>
+            <pubDate>Sat, 23 Jul 2016 18:39:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin: The Trust Anchor in a Sea of Blockchains - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Bitcoin: The Trust Anchor in a Sea of Blockchains - CoinDesk</h1><p>Bitcoin has a number of properties that give it utility (and thus value)  such as  trustlessness, permissionlessness, transparency, and immutability. When you broaden your perspective of bitcoin from a currency and payment system to that of a secure historical ledger, it becomes clear that these properties, in conjunction with each other, can enable powerful applications.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b509d61611f9dc74824b04a9ddf2be32/croprotate.jpg?cropheight=1934&cropwidth=2900&degrees=0&input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2Fshutterstock_56610454-e1469033911875.jpg&x=0&y=0"></article>]]></description>
+            <link>http://www.coindesk.com/bitcoin-the-trust-anchor-in-a-sea-of-blockchains/</link>
+            <guid isPermaLink="false">aa81f688-a726-4a9f-bac8-d4c89f71ebb5</guid>
+            <pubDate>Sat, 23 Jul 2016 18:39:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alibaba Continues Expansion Plan Through M-Daq Investment]]></title>
+            <description><![CDATA[<article><h1>Alibaba Continues Expansion Plan Through M-Daq Investment</h1><p>Interesting things are happening in the Fintech sector, even though not all of these events are picked up by major media outlets. Alipay, the payment spinoff of the Alibaba group, has made an investment in M-Daq. Or to be more precise, Ant Financial, who runs Alipay, has made the investment in this Singapore-based startup.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4a87e28898470fe3c8d06a42515f2e16/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_265259816.jpg"></article>]]></description>
+            <link>http://themerkle.com/alibaba-continues-expansion-plan-through-m-daq-investment/</link>
+            <guid isPermaLink="false">38b40a0e-1f8b-414b-a158-8b6b0f120d4e</guid>
+            <pubDate>Sat, 23 Jul 2016 18:39:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Master Plan, Part Deux]]></title>
+            <description><![CDATA[<article><h1>Master Plan, Part Deux</h1><p>The first master plan that I wrote 10 years ago is now in the final stages of completion. It wasn't all that complicated and basically consisted of: Create a low volume car, which would necessarily be expensive Use that money to develop a medium volume car at a lower price Use that money to create an affordable, high volume car Provide solar power.</p></article>]]></description>
+            <link>https://www.tesla.com/blog/master-plan-part-deux</link>
+            <guid isPermaLink="false">c9646721-0f36-42e5-9285-2a560ad162ac</guid>
             <pubDate>Sat, 23 Jul 2016 18:39:50 GMT</pubDate>
         </item>
     </channel>
