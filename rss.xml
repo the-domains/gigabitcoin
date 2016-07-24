@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 21:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 21:09:34 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tor Contributor Leaves Network, Crucial Node Stops Running]]></title>
+            <description><![CDATA[<article><h1>Tor Contributor Leaves Network, Crucial Node Stops Running</h1><p>A veteran contributor to the Also read: Civic's $1 Million Identity Fraud Protection Tor Network has announced his intention to cut all ties with the software. In addition to his leaving, a crucial node within the network will be deactivated as well.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/38279266586dee4c8e05833c96944754/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2F14fc0317df9cce5a06e1f98aad5041f8.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/tor-contributor-node-stops/</link>
+            <guid isPermaLink="false">3a7e2fbb-4e87-4e91-9f22-2361c469b87c</guid>
+            <pubDate>Sun, 24 Jul 2016 21:09:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What if Bernie Sanders Had Raised Money for Blockchain Startups Instead]]></title>
+            <description><![CDATA[<article><h1>What if Bernie Sanders Had Raised Money for Blockchain Startups Instead</h1><p>Bernie Sanders led an impressive campaign run mostly off of small donations, though he failed to help the poor. If he had invested that money in cryptocurrency, the world would be a much better place.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f88fdfe9723bde9ec3638d98decb67ac/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy80Y2NiMTIxZDBiMDdkZTU3ZGI3YTFhMTRmMWZhNGE5My5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/what-if-bernie-sanders-had-raised-money-for-blockchain-startups-instead</link>
+            <guid isPermaLink="false">a1f5e090-2b03-4003-ae90-2b8a09f04619</guid>
+            <pubDate>Sun, 24 Jul 2016 21:09:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Plutus Tap & Pay Raises $1 Million in Crowdfunding - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Plutus Tap & Pay Raises $1 Million in Crowdfunding - NEWSBTC</h1><p>Plutus, the London-based cryptocurrency payment platform has raised over 1 million within 9 days of launching the crowdfunding campaign. Read more... Plutus, the Tap & Pay contactless cryptocurrency payment solution provider has successfully raised over $1 million in less than 10 days.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b7f288f0df60a644c0594c46b863cbe9/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F24134718%2FScreen-Shot-2016-07-24-at-6.16.34-PM.png"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://www.cryptocoinsnews.com/beyond-hype-blockchain-really-bring-payments/</link>
             <guid isPermaLink="false">1dd14b2e-1589-4f79-97c6-4c2efddbf957</guid>
             <pubDate>Sun, 24 Jul 2016 04:33:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tor Project Loses Top Contributor And Bridge Authority Feature]]></title>
-            <description><![CDATA[<article><h1>Tor Project Loses Top Contributor And Bridge Authority Feature</h1><p>The Tor project continues to make headlines all over the world, even though the news is rather mixed these days. The most recent update regarding Tor saw one of their veteran contributors leave the project after shutting down a critical network node.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0f38b0e4da849b6c04aa6ada7fa0c0b2/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_291383204.jpg"></article>]]></description>
-            <link>http://themerkle.com/tor-project-loses-top-contributor-and-bridge-authority-feature/</link>
-            <guid isPermaLink="false">9b1e3790-02cd-4c65-971a-414b61785906</guid>
-            <pubDate>Sun, 24 Jul 2016 04:33:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BITCOIN NEWS, PRICE & ANALYSIS - NEWSBTC.COM]]></title>
-            <description><![CDATA[<article><h1>BITCOIN NEWS, PRICE & ANALYSIS - NEWSBTC.COM</h1><p>NewsBTC is a Bitcoin news service that covers cryptocurrency news, technical analysis and forecasts for bitcoin, litecoin, dash, doge & digital currencies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43cfc6d43a55ea4f964a522ebe2781b17191ab0c.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/23/bitcoin-becomes-new-hot-commodity-large-investors/</link>
-            <guid isPermaLink="false">a29ca8de-25b4-438c-ad9d-e01f1ddc9554</guid>
-            <pubDate>Sun, 24 Jul 2016 04:33:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
