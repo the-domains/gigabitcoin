@@ -7,6 +7,13 @@
         <lastBuildDate>Sun, 24 Jul 2016 04:34:15 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[BitPay Upgrades Design, Introduces Modal Invoice - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>BitPay Upgrades Design, Introduces Modal Invoice - NEWSBTC</h1><p>BitPay has introduced a new modal invoice feature to improve the user experience for users making bitcoin payments on BitPay supported merchant sites.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c3f94dc34630ac393a44be964935e5e0/noop.gif?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F23191531%2FModal-Invoice-Pay-Demo-1024x606.gif"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/23/bitpay-upgrades-design-introduces-modal-invoice/</link>
+            <guid isPermaLink="false">521702de-0bc3-4c82-8a80-177c11a05ae1</guid>
+            <pubDate>Sun, 24 Jul 2016 04:33:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cryptocurrency Prices Rise As G20 Prepares For Global Economy Meeting]]></title>
             <description><![CDATA[<article><h1>Cryptocurrency Prices Rise As G20 Prepares For Global Economy Meeting</h1><p>The G20 has a concrete plan to make sure any negative impact by the Brexit can be nipped in the bud at an early stage. Despite their good ideas, the actual defenses against recession will have to be bolstered first.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/be39bfce81ff164beb3828c922e7e8bf/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_285394388.jpg"></article>]]></description>
             <link>http://themerkle.com/cryptocurrency-prices-rise-as-g20-prepares-for-global-economy-meeting/</link>
@@ -68,13 +75,6 @@
             <link>http://www.newsbtc.com/2016/07/23/cash-inflow-emerging-markets-can-positive-bitcoin/</link>
             <guid isPermaLink="false">56276cf6-72ca-442e-a263-094f0de7168a</guid>
             <pubDate>Sun, 24 Jul 2016 04:33:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Question on interpreter.cpp in Bitcoin core - set_success method]]></title>
-            <description><![CDATA[<article><h1>Question on interpreter.cpp in Bitcoin core - set_success method</h1><p>https://github.com/bitcoin/bitcoin/blob/master/src/script/interpreter.cpp Line 22 => Where is declare "ScriptError" ? What does the "*" mean ? "inline bool set_success(ScriptError* r...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/46215/question-on-interpreter-cpp-in-bitcoin-core-set-success-method</link>
-            <guid isPermaLink="false">75f0b377-2b16-499e-ba13-0afd893bc344</guid>
-            <pubDate>Sat, 23 Jul 2016 18:39:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
