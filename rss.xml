@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 21:09:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 21:09:37 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Andrew Huang and Edward Snowden Work On Privacy-Centric iPhone Hardware Solution]]></title>
+            <description><![CDATA[<article><h1>Andrew Huang and Edward Snowden Work On Privacy-Centric iPhone Hardware Solution</h1><p>Edward Snowden is a hero to everyone who takes privacy even remotely serious. It is positive to see his involvement in the "Against the Law" project, designed to ensure iPhones remain spy-proof. A better and more stable future needs to be built for all of us, and privacy will play a critical role in the process.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/60699cd3556edba0b2a68cb3c8335e76/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_404482279.jpg"></article>]]></description>
+            <link>http://themerkle.com/andrew-huang-and-edward-snowden-work-on-privacy-centric-iphone-hardware-solution/</link>
+            <guid isPermaLink="false">062bc483-1c8d-4716-80b6-311a0ca34763</guid>
+            <pubDate>Sun, 24 Jul 2016 21:09:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tor Contributor Leaves Network, Crucial Node Stops Running]]></title>
             <description><![CDATA[<article><h1>Tor Contributor Leaves Network, Crucial Node Stops Running</h1><p>A veteran contributor to the Also read: Civic's $1 Million Identity Fraud Protection Tor Network has announced his intention to cut all ties with the software. In addition to his leaving, a crucial node within the network will be deactivated as well.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/38279266586dee4c8e05833c96944754/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2F14fc0317df9cce5a06e1f98aad5041f8.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><img src="https://i.redd.it/v02ol0yaavax.png"></article>]]></description>
             <link>https://i.redd.it/v02ol0yaavax.png</link>
             <guid isPermaLink="false">470a9a3b-05a3-40c5-8e51-39e207885a87</guid>
-            <pubDate>Sun, 24 Jul 2016 04:33:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beyond The Hype: What Blockchain Really Bring To Payments]]></title>
-            <description><![CDATA[<article><h1>Beyond The Hype: What Blockchain Really Bring To Payments</h1><p>Banks have not prepared to retain control of customers and merchant payment interfaces in the face of blockchain or distributed ledger, according to managing consultant firm Bain & Company white paper. Such technology removes intermediaries, simplifies counterparty connections and records data in a tamper-proof manner.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1aaaa3c1f5196a6e427e049b1a733629f57829ba.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/beyond-hype-blockchain-really-bring-payments/</link>
-            <guid isPermaLink="false">1dd14b2e-1589-4f79-97c6-4c2efddbf957</guid>
             <pubDate>Sun, 24 Jul 2016 04:33:38 GMT</pubDate>
         </item>
     </channel>
