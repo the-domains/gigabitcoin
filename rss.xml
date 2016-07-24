@@ -7,13 +7,6 @@
         <lastBuildDate>Sun, 24 Jul 2016 21:09:34 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Why the Buy-Side Should Get Off the Blockchain Sidelines - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Why the Buy-Side Should Get Off the Blockchain Sidelines - CoinDesk</h1><p>Blockchains have attracted significant interest in the financial sector, a rare occurrence for a new technology in an industry not known for being at the forefront of technological innovation. However, dig a little deeper into where the interest is coming from, and you'll see a host of sell-side financial institutions and back-office groups working on prototypes.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d6794945e7848731827bd9cb9de334b6/croprotate.jpg?cropheight=997&cropwidth=1500&degrees=0&input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2Fsidelines-soccer-e1469204973613.jpg&x=0&y=0"></article>]]></description>
-            <link>http://www.coindesk.com/buy-side-get-off-blockchain-sidelines/</link>
-            <guid isPermaLink="false">90a21415-d2d3-4c58-aa34-8aefdb323d34</guid>
-            <pubDate>Sun, 24 Jul 2016 21:09:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bitcoin Price Decline Complete?]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Decline Complete?</h1><p>Bitcoin price decline is on hold as the market chooses the upside. Is this the start of a new advance, or merely advance in a correction? This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member? Join now.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/066cd70dd2b9a1af954deebc72c9f748/noop.png?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FSelection_20160724_003.png"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/bitcoin-price-decline-complete/</link>
@@ -75,6 +68,13 @@
             <link>http://bitcoinist.net/ethereum-classic-jumps-into-top-10-altcoins-in-less-than-a-day/</link>
             <guid isPermaLink="false">26aa43f3-eb21-40ae-bb89-18d5ef83c27b</guid>
             <pubDate>Sun, 24 Jul 2016 21:09:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BitPay Upgrades Design, Introduces Modal Invoice - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>BitPay Upgrades Design, Introduces Modal Invoice - NEWSBTC</h1><p>BitPay has introduced a new modal invoice feature to improve the user experience for users making bitcoin payments on BitPay supported merchant sites.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c3f94dc34630ac393a44be964935e5e0/noop.gif?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F23191531%2FModal-Invoice-Pay-Demo-1024x606.gif"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/23/bitpay-upgrades-design-introduces-modal-invoice/</link>
+            <guid isPermaLink="false">521702de-0bc3-4c82-8a80-177c11a05ae1</guid>
+            <pubDate>Sun, 24 Jul 2016 04:33:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
