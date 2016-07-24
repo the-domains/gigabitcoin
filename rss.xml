@@ -4,8 +4,64 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 18:40:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 04:34:14 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BITCOIN NEWS, PRICE & ANALYSIS - NEWSBTC.COM]]></title>
+            <description><![CDATA[<article><h1>BITCOIN NEWS, PRICE & ANALYSIS - NEWSBTC.COM</h1><p>NewsBTC is a Bitcoin news service that covers cryptocurrency news, technical analysis and forecasts for bitcoin, litecoin, dash, doge & digital currencies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43cfc6d43a55ea4f964a522ebe2781b17191ab0c.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/23/bitcoin-becomes-new-hot-commodity-large-investors/</link>
+            <guid isPermaLink="false">a29ca8de-25b4-438c-ad9d-e01f1ddc9554</guid>
+            <pubDate>Sun, 24 Jul 2016 04:33:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Release - Open source software - replacing hardware wallets with image {]]></title>
+            <description><![CDATA[<article><h1>Release - Open source software - replacing hardware wallets with image {</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dc8268a539f04429cd7839b5979150cf/noop?input=https%3A%2F%2Fip.bitcointalk.org%2F%3Fu%3Dhttp%253A%252F%252Fi.imgur.com%252FrqQv6f1.jpg%26t%3D566%26c%3D09KvMY4SrItUlQ"></article>]]></description>
+            <link>https://bitcointalk.org/index.php?topic=1562481.msg15680124</link>
+            <guid isPermaLink="false">3fdb7d14-6e4a-48da-bf15-4ed8743961f1</guid>
+            <pubDate>Sun, 24 Jul 2016 04:33:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum Price Weekly Analysis - Can ETH Bulls Break This? - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Ethereum Price Weekly Analysis - Can ETH Bulls Break This? - NEWSBTC</h1><p>Ethereum price had a good week against the US Dollar. Going forward, we need to see whether it can continue to gain pace or correct lower. Ethereum price had a good week against the US Dollar. Going forward, we need to see whether it can continue to gain pace or correct lower.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d7b6edd77f3a5a8853db81f3aad67dd5/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F24035153%2FEthereum20.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/24/ethereum-price-weekly-analysis-can-eth-bulls-break/</link>
+            <guid isPermaLink="false">d5c37bfb-3f9a-460e-ac37-831d8621b7ce</guid>
+            <pubDate>Sun, 24 Jul 2016 04:33:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Podcast Episode 6 is Here: Interview with Andrew Vegetabile - Bitcoinist.net]]></title>
+            <description><![CDATA[<article><h1>Podcast Episode 6 is Here: Interview with Andrew Vegetabile - Bitcoinist.net</h1><p>We sat down with Andrew Vegetabile for the episode 6 of the Bitcoinist Podcast, And discussed the Litecoin Roadmap, Their recent trademark fight, Steem, the DAO Hardfork, and more. Subscribe via RSS feed, Soundcloud, gPodder, Stitcher, or have a listen here: The podcast is in full swing again, so subscribe with whatever service you prefer, and rest assured that new content is on it's way.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bb121e0fc9bc4bbc9f09bf6d4431c98f/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F07%2Fpodcast-splash.png"></article>]]></description>
+            <link>http://bitcoinist.net/podcast-episode-6-is-here-interview-with-andrew-vegetabile/</link>
+            <guid isPermaLink="false">37abea19-909f-46f4-ba6e-e13cc3b0ef4e</guid>
+            <pubDate>Sun, 24 Jul 2016 04:33:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cash Inflow In Emerging Markets Can Be Positive For Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Cash Inflow In Emerging Markets Can Be Positive For Bitcoin</h1><p>Jamie Anderson, a managing principal at Tierra Funds, seems convinced there is data showing these countries are recovering. At the same time, these inflows are only a drop of water on the boiling plate at this stage. For those people who were dreaming of a cashless future, that situation will not become a reality anytime soon.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e04da2aefd84cdd187a6fe19ab24dfd6/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F23154627%2Fshutterstock_211804684.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/23/cash-inflow-emerging-markets-can-positive-bitcoin/</link>
+            <guid isPermaLink="false">56276cf6-72ca-442e-a263-094f0de7168a</guid>
+            <pubDate>Sun, 24 Jul 2016 04:33:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Question on interpreter.cpp in Bitcoin core - set_success method]]></title>
+            <description><![CDATA[<article><h1>Question on interpreter.cpp in Bitcoin core - set_success method</h1><p>https://github.com/bitcoin/bitcoin/blob/master/src/script/interpreter.cpp Line 22 => Where is declare "ScriptError" ? What does the "*" mean ? "inline bool set_success(ScriptError* r...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46215/question-on-interpreter-cpp-in-bitcoin-core-set-success-method</link>
+            <guid isPermaLink="false">75f0b377-2b16-499e-ba13-0afd893bc344</guid>
+            <pubDate>Sat, 23 Jul 2016 18:39:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Venezuela's Biggest Bitcoin Exchange Resumes Operations]]></title>
+            <description><![CDATA[<article><h1>Venezuela's Biggest Bitcoin Exchange Resumes Operations</h1><p>Surbitcoin, the biggest Bitcoin exchange in Venezuela has resumed normal operations. On July 14th the exchange managed to unfreeze one of its fiat bank accounts and reestablish its API integration with Banesco (the biggest financial entity in Venezuela). The Bitcoin exchange announced the successful relaunch of its Fiat gateway.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/70766715be6050d4bc12d6686e13380a/croprotate.png?cropheight=301&cropwidth=1250&degrees=0&input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2FSurBitcoin.png&x=0&y=29"></article>]]></description>
+            <link>http://themerkle.com/venezuelas-biggest-bitcoin-exchange-resumes-operations/</link>
+            <guid isPermaLink="false">354b2a6a-4453-4a83-9ec1-bb59ce89301b</guid>
+            <pubDate>Sat, 23 Jul 2016 18:39:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I think im finally done with /r/bitcoin. It's been a fun few years, but it's become a stagnant pool of vitriol and groupthink :( #bitcoin</p>]]></description>
+            <link>https://twitter.com/ErikVoorhees/status/756558243346866176</link>
+            <guid isPermaLink="false">49f028e8-3bfa-4b7e-b478-f183d29fe630</guid>
+            <pubDate>Sat, 23 Jul 2016 18:39:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Moody's new report identifies 25 top blockchain use cases, from a list of 120]]></title>
             <description><![CDATA[<article><h1>Moody's new report identifies 25 top blockchain use cases, from a list of 120</h1><p>Moody's Investors Service (MIS) recently released a detailed report that names 120 blockchain projects being explored by various companies. The bond credit rating business then offers 25 top use cases for blockchain technology. The report, "Credit Strategy -- Blockchain Technology: Robust, Cost-effective Applications Key to Unlocking Blockchain's Potential Credit Benefits," explores how blockchain tech potentially can improve record-keeping and transactional efficiencies across many different processes and industries.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3d3919c7769c204ae63cbd113f060c05/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-new-york-skyscrapers.jpg"></article>]]></description>
@@ -19,62 +75,6 @@
             <link>http://themerkle.com/profile-hijacking-exploit-on-paypal-me-has-been-fixed/</link>
             <guid isPermaLink="false">b8dad158-8a3d-4e50-9379-1534e4ed88c7</guid>
             <pubDate>Sat, 23 Jul 2016 18:39:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UnionPay Trumps Visa In Payment Value Processed During 2015]]></title>
-            <description><![CDATA[<article><h1>UnionPay Trumps Visa In Payment Value Processed During 2015</h1><p>Credit cards are the most common type of payment method found in the world today. While most people know companies such as Visa and MasterCard by heart, neither of these is the market leader. New research by RBRB goes to show UnionPay is the largest card company in the world based on value processed.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/355875a5e8e86d6c6574df7c654ddaba/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_294768341.jpg"></article>]]></description>
-            <link>http://themerkle.com/unionpay-trumps-visa-in-payment-value-processed-during-2015/</link>
-            <guid isPermaLink="false">ce35f4e2-789e-4e75-9cee-c6acb6b71247</guid>
-            <pubDate>Sat, 23 Jul 2016 18:39:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reserve Bank of India Nudges Banks To Develop Blockchain Apps]]></title>
-            <description><![CDATA[<article><h1>Reserve Bank of India Nudges Banks To Develop Blockchain Apps</h1><p>India is quickly becoming an interesting country to keep an eye on when it comes to Bitcoin and blockchain. It is evident the region is focusing heavily on regulation, but the government also wants to explore the potential of blockchain applications.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f095a9c26832ff28954e10f373e33215/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_69797209.jpg"></article>]]></description>
-            <link>http://themerkle.com/reserve-bank-of-india-nudges-banks-to-develop-blockchain-apps/</link>
-            <guid isPermaLink="false">33efdb11-b3b3-477f-b407-944431078c9c</guid>
-            <pubDate>Sat, 23 Jul 2016 18:39:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dash, Considered Alternative to Bitcoin, Integrates into Mycelium]]></title>
-            <description><![CDATA[<article><h1>Dash, Considered Alternative to Bitcoin, Integrates into Mycelium</h1><p>As teams behind Mycelium and Dash announced a partnership that will see the eighth most valued cryptocurrency available for sale and purchase on one of the highest rated software wallets, a top Dash official sees a new trend in the cryptocurrency market.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b61669504a54b1638d909e95794a64b3/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yMzAxMGJlNTc3MzkyMGM1MWQ2OWZlMWM0ZGEyOTJiNy5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/dash-considered-alternative-to-bitcoin-integrates-into-mycelium</link>
-            <guid isPermaLink="false">95b45265-f997-4b09-be95-f59fe3a007a5</guid>
-            <pubDate>Sat, 23 Jul 2016 18:39:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reserve Bank of India to study blockchain applications | HolyTransaction]]></title>
-            <description><![CDATA[<article><h1>Reserve Bank of India to study blockchain applications | HolyTransaction</h1><p>In fact, a bank deputy governor encouraged other Indian banks to collaborate within a research group previously created by the central bank on blockchain projects. "Cloud-based computing, blockchain processing technologies and virtualization of IT systems are a few examples which hold potential for being used in a big way ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/33681aececd15fa1ff8058519838ff41/noop.png?input=https%3A%2F%2F4.bp.blogspot.com%2F-t30k39hIvL0%2FV5NGzHKpa0I%2FAAAAAAAAApk%2FFWf-PK9NU9ArXEqXgXKS_LSop3-fb8wFACLcB%2Fw1200-h630-p-nu%2FUntitled%252Bdesign.png"></article>]]></description>
-            <link>http://blog.holytransaction.com/2016/07/reserve-bank-of-india-to-study.html</link>
-            <guid isPermaLink="false">60798bf5-4e7a-4443-95fa-d7dfbf34fd04</guid>
-            <pubDate>Sat, 23 Jul 2016 18:39:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain Based NetCents and PayPal Integration Takes Off, Beta Testing is On]]></title>
-            <description><![CDATA[<article><h1>Blockchain Based NetCents and PayPal Integration Takes Off, Beta Testing is On</h1><p>Online payment platform, focused on capturing the migration from cash to digital currency by utilizing innovative blockchain technology to provide payment solutions, NetCents has announced the launch of its newly updated Enterprise Solutions Payment Gateway.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/159b72b87e26c32c1b4b5883c65d8bb6/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy82MWQ0NTJkYTZjZjBlNThkNDY4MGY5MDIzNzAzYzIwZS5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/blockchain-based-netcents-and-paypal-integration-takes-off-beta-testing-is-on</link>
-            <guid isPermaLink="false">954ad925-b6c0-4cf6-b74e-58c81b975746</guid>
-            <pubDate>Sat, 23 Jul 2016 18:39:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin: The Trust Anchor in a Sea of Blockchains - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Bitcoin: The Trust Anchor in a Sea of Blockchains - CoinDesk</h1><p>Bitcoin has a number of properties that give it utility (and thus value)  such as  trustlessness, permissionlessness, transparency, and immutability. When you broaden your perspective of bitcoin from a currency and payment system to that of a secure historical ledger, it becomes clear that these properties, in conjunction with each other, can enable powerful applications.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b509d61611f9dc74824b04a9ddf2be32/croprotate.jpg?cropheight=1934&cropwidth=2900&degrees=0&input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2Fshutterstock_56610454-e1469033911875.jpg&x=0&y=0"></article>]]></description>
-            <link>http://www.coindesk.com/bitcoin-the-trust-anchor-in-a-sea-of-blockchains/</link>
-            <guid isPermaLink="false">aa81f688-a726-4a9f-bac8-d4c89f71ebb5</guid>
-            <pubDate>Sat, 23 Jul 2016 18:39:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alibaba Continues Expansion Plan Through M-Daq Investment]]></title>
-            <description><![CDATA[<article><h1>Alibaba Continues Expansion Plan Through M-Daq Investment</h1><p>Interesting things are happening in the Fintech sector, even though not all of these events are picked up by major media outlets. Alipay, the payment spinoff of the Alibaba group, has made an investment in M-Daq. Or to be more precise, Ant Financial, who runs Alipay, has made the investment in this Singapore-based startup.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4a87e28898470fe3c8d06a42515f2e16/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_265259816.jpg"></article>]]></description>
-            <link>http://themerkle.com/alibaba-continues-expansion-plan-through-m-daq-investment/</link>
-            <guid isPermaLink="false">38b40a0e-1f8b-414b-a158-8b6b0f120d4e</guid>
-            <pubDate>Sat, 23 Jul 2016 18:39:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Master Plan, Part Deux]]></title>
-            <description><![CDATA[<article><h1>Master Plan, Part Deux</h1><p>The first master plan that I wrote 10 years ago is now in the final stages of completion. It wasn't all that complicated and basically consisted of: Create a low volume car, which would necessarily be expensive Use that money to develop a medium volume car at a lower price Use that money to create an affordable, high volume car Provide solar power.</p></article>]]></description>
-            <link>https://www.tesla.com/blog/master-plan-part-deux</link>
-            <guid isPermaLink="false">c9646721-0f36-42e5-9285-2a560ad162ac</guid>
-            <pubDate>Sat, 23 Jul 2016 18:39:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
