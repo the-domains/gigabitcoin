@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 04:34:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 04:34:14 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="https://i.redd.it/v02ol0yaavax.png"></article>]]></description>
+            <link>https://i.redd.it/v02ol0yaavax.png</link>
+            <guid isPermaLink="false">470a9a3b-05a3-40c5-8e51-39e207885a87</guid>
+            <pubDate>Sun, 24 Jul 2016 04:33:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Beyond The Hype: What Blockchain Really Bring To Payments]]></title>
             <description><![CDATA[<article><h1>Beyond The Hype: What Blockchain Really Bring To Payments</h1><p>Banks have not prepared to retain control of customers and merchant payment interfaces in the face of blockchain or distributed ledger, according to managing consultant firm Bain & Company white paper. Such technology removes intermediaries, simplifies counterparty connections and records data in a tamper-proof manner.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1aaaa3c1f5196a6e427e049b1a733629f57829ba.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Venezuela's Biggest Bitcoin Exchange Resumes Operations</h1><p>Surbitcoin, the biggest Bitcoin exchange in Venezuela has resumed normal operations. On July 14th the exchange managed to unfreeze one of its fiat bank accounts and reestablish its API integration with Banesco (the biggest financial entity in Venezuela). The Bitcoin exchange announced the successful relaunch of its Fiat gateway.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/70766715be6050d4bc12d6686e13380a/croprotate.png?cropheight=301&cropwidth=1250&degrees=0&input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2FSurBitcoin.png&x=0&y=29"></article>]]></description>
             <link>http://themerkle.com/venezuelas-biggest-bitcoin-exchange-resumes-operations/</link>
             <guid isPermaLink="false">354b2a6a-4453-4a83-9ec1-bb59ce89301b</guid>
-            <pubDate>Sat, 23 Jul 2016 18:39:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>I think im finally done with /r/bitcoin. It's been a fun few years, but it's become a stagnant pool of vitriol and groupthink :( #bitcoin</p>]]></description>
-            <link>https://twitter.com/ErikVoorhees/status/756558243346866176</link>
-            <guid isPermaLink="false">49f028e8-3bfa-4b7e-b478-f183d29fe630</guid>
             <pubDate>Sat, 23 Jul 2016 18:39:51 GMT</pubDate>
         </item>
     </channel>
