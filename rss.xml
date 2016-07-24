@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 04:34:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 04:33:42 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[BITCOIN NEWS, PRICE & ANALYSIS - NEWSBTC.COM]]></title>
-            <description><![CDATA[<article><h1>BITCOIN NEWS, PRICE & ANALYSIS - NEWSBTC.COM</h1><p>NewsBTC is a Bitcoin news service that covers cryptocurrency news, technical analysis and forecasts for bitcoin, litecoin, dash, doge & digital currencies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43cfc6d43a55ea4f964a522ebe2781b17191ab0c.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/23/bitcoin-becomes-new-hot-commodity-large-investors/</link>
-            <guid isPermaLink="false">a29ca8de-25b4-438c-ad9d-e01f1ddc9554</guid>
-            <pubDate>Sun, 24 Jul 2016 04:33:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Release - Open source software - replacing hardware wallets with image {]]></title>
-            <description><![CDATA[<article><h1>Release - Open source software - replacing hardware wallets with image {</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dc8268a539f04429cd7839b5979150cf/noop?input=https%3A%2F%2Fip.bitcointalk.org%2F%3Fu%3Dhttp%253A%252F%252Fi.imgur.com%252FrqQv6f1.jpg%26t%3D566%26c%3D09KvMY4SrItUlQ"></article>]]></description>
-            <link>https://bitcointalk.org/index.php?topic=1562481.msg15680124</link>
-            <guid isPermaLink="false">3fdb7d14-6e4a-48da-bf15-4ed8743961f1</guid>
-            <pubDate>Sun, 24 Jul 2016 04:33:37 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Ethereum Price Weekly Analysis - Can ETH Bulls Break This? - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Ethereum Price Weekly Analysis - Can ETH Bulls Break This? - NEWSBTC</h1><p>Ethereum price had a good week against the US Dollar. Going forward, we need to see whether it can continue to gain pace or correct lower. Ethereum price had a good week against the US Dollar. Going forward, we need to see whether it can continue to gain pace or correct lower.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d7b6edd77f3a5a8853db81f3aad67dd5/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F24035153%2FEthereum20.png"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>http://themerkle.com/profile-hijacking-exploit-on-paypal-me-has-been-fixed/</link>
             <guid isPermaLink="false">b8dad158-8a3d-4e50-9379-1534e4ed88c7</guid>
             <pubDate>Sat, 23 Jul 2016 18:39:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KYC Dilemma: US Secret Service Seizes $13k from Coinbase Customer]]></title>
+            <description><![CDATA[<article><h1>KYC Dilemma: US Secret Service Seizes $13k from Coinbase Customer</h1><p>The United States Secret Service (USSS) has seized more than 25 bitcoins from a Coinbase account and seemingly converted them automatically to $13,000 USD, it has emerged. Also read: Coinbase Integrates PayPal to Broaden its Reach In an official notification dated today, USSS announced that on June 3 it had taken control of "$13,138.12 in U.S.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/383f7eb2eb2eaeb4ad7029971f3050a6/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FBorder-seizure.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/us-secret-service-seizes-coinbase/</link>
+            <guid isPermaLink="false">2c33dcd5-cd07-46c5-96b4-b5328d810164</guid>
+            <pubDate>Sat, 23 Jul 2016 18:39:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UnionPay Trumps Visa In Payment Value Processed During 2015]]></title>
+            <description><![CDATA[<article><h1>UnionPay Trumps Visa In Payment Value Processed During 2015</h1><p>Credit cards are the most common type of payment method found in the world today. While most people know companies such as Visa and MasterCard by heart, neither of these is the market leader. New research by RBRB goes to show UnionPay is the largest card company in the world based on value processed.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/355875a5e8e86d6c6574df7c654ddaba/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_294768341.jpg"></article>]]></description>
+            <link>http://themerkle.com/unionpay-trumps-visa-in-payment-value-processed-during-2015/</link>
+            <guid isPermaLink="false">ce35f4e2-789e-4e75-9cee-c6acb6b71247</guid>
+            <pubDate>Sat, 23 Jul 2016 18:39:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
