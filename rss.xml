@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 05:38:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 05:38:11 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin News for the week of 7/18/16]]></title>
+            <description><![CDATA[<article><h1>Bitcoin News for the week of 7/18/16</h1><p>Welcome to our weekly bitcoin news recap, where we cover top headlines and stories in the world of bitcoin each week. We take another look at the price of bitcoin this week which has been very stable since the halving when the block reward reduced by 50%.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7c12012154bfd1110d7ba4a2d1f5e202/croprotate.png?cropheight=547&cropwidth=828&degrees=0&input=https%3A%2F%2Fblog.blockchain.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fbitcoin-markets-price-7-22-2016.png&x=0&y=5"></article>]]></description>
+            <link>https://blog.blockchain.com/2016/07/24/bitcoin-news-for-the-week-of-71816/</link>
+            <guid isPermaLink="false">aae7d07b-6d7d-4d7e-b6e3-9f4317baa5dd</guid>
+            <pubDate>Mon, 25 Jul 2016 05:37:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin vs USD vs Gold: Here's Why Bitcoin Wins]]></title>
             <description><![CDATA[<article><h1>Bitcoin vs USD vs Gold: Here's Why Bitcoin Wins</h1><p>This post was originally posted on January 2015. Now, 18 months later it's time to revisit the facts: Bitcoin's price is on a downtrend, the dollar is strong, and even Microsoft's adoption combined with a crumbling ruble isn't picking up the slack.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5be1ee868232df8876f25b07b590ef58/noop.jpg?input=http%3A%2F%2F99bitcoins.com%2Fwp-content%2Fuploads%2F2015%2F01%2FBureau-of-Engraving-Capitol-Escapes-3.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>München: Amokschütze soll sich Tatwaffe im Darknet besorgt haben - SPIEGEL ONLINE</h1><p>Der 18-jährige David S., der in München neun Menschen erschoss, hat sich seine Waffe offenbar über das Internet verschafft. Einem Medienbericht zufolge stammt sie aus der Slowakei. Der Amokschütze von München hat seine Tat nach Informationen der "Süddeutschen Zeitung" offenbar mit einer reaktivierten Theaterwaffe ausgeführt. Die Waffe trage ein Prüfzeichen aus der Slowakei.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7718236cbb84f23594b001c614758648304af49.jpg"></article>]]></description>
             <link>http://www.spiegel.de/panorama/justiz/amokschuetze-von-muenchen-tatwaffe-aus-dem-darknet-a-1104461.html</link>
             <guid isPermaLink="false">34e97d56-d750-4e3f-ac06-177be6842c94</guid>
-            <pubDate>Mon, 25 Jul 2016 00:02:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ether.Camp Holds Ethereum Hackathon with $50,000 Grand Prize]]></title>
-            <description><![CDATA[<article><h1>Ether.Camp Holds Ethereum Hackathon with $50,000 Grand Prize</h1><p>Ethereum blockchain explorer has kicked off its second-annual hackathon, featuring a grand prize of $50,000 and "significant rewards" for runners-up. Disclaimer: This article was provided by Bitcoin PR Buzz. Bitcoinist is not affiliated with the firms represented by Bitcoin PR Buzz and is not responsible for their products and/or services.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c6bbecb53894d8c28222dce9481376ee/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F07%2FEther.camp-vertical-banner.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/ether-camp-ethereum-hackathon/</link>
-            <guid isPermaLink="false">8893c399-6cb2-478e-b597-794fcf078ca7</guid>
             <pubDate>Mon, 25 Jul 2016 00:02:51 GMT</pubDate>
         </item>
     </channel>
