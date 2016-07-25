@@ -4,8 +4,50 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 17:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 22:49:33 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How do I generate multiple address with a master public key in pybitcointools?]]></title>
+            <description><![CDATA[<article><h1>How do I generate multiple address with a master public key in pybitcointools?</h1><p>I'm goofing around with this fork of pybitcointools and I got stock with generating multiple address for receiving coins with a master public key. So far, this is what I have: import bitcoin as btc</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46657/how-do-i-generate-multiple-address-with-a-master-public-key-in-pybitcointools</link>
+            <guid isPermaLink="false">73364a0a-a6cd-436b-9ed8-e7a936116cc1</guid>
+            <pubDate>Mon, 25 Jul 2016 22:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand Authority Posts Warning About Bitcoin Exchange IGOT]]></title>
+            <description><![CDATA[<article><h1>New Zealand Authority Posts Warning About Bitcoin Exchange IGOT</h1><p>The Financial Markets Authority (FMA) of New Zealand has noted it has received complaints from New Zealand based clients of igot, an Australia-based bitcoin exchange, about igot's failure to repay clients in accordance with their instructions. Igot is not registered or required to be registered to provide financial services in New Zealand.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/caa7a9b42bc291eb18545f89eb55e011/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F03%2FWarning-sign-snow.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/new-zealand-authority-posts-warning-about-bitcoin-exchange-igot/</link>
+            <guid isPermaLink="false">c6486429-cd00-4e9e-b19c-8314184ba55e</guid>
+            <pubDate>Mon, 25 Jul 2016 17:11:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum Went From Trustless To A Political Ecosystem Since The Hard Fork]]></title>
+            <description><![CDATA[<article><h1>Ethereum Went From Trustless To A Political Ecosystem Since The Hard Fork</h1><p>There still seems to be a lot of confusion regarding the outcome of the Ethereum hard fork. The majority of the focus has been on ensuring The DAO investors will be reimbursed after a hacker exploit a code bug allowing him to drain tens of millions of dollars from the project.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ffb12fb783bf076c30c2fabce1525671/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_248942326.jpg"></article>]]></description>
+            <link>http://themerkle.com/ethereum-went-from-trustless-to-a-political-ecosystem-since-the-hard-fork/</link>
+            <guid isPermaLink="false">f9634acd-7066-4f06-9bdf-6a78c3deafe2</guid>
+            <pubDate>Mon, 25 Jul 2016 17:11:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["No More Ransom" Initiative Wants To End Ransomware]]></title>
+            <description><![CDATA[<article><h1>"No More Ransom" Initiative Wants To End Ransomware</h1><p>The fight against ransomware is in full effect, as some of the biggest players in the industry are teaming up. A new collaboration between Intel, Kaspersky, and Europol, seeks to shut down down ransomware once and for all.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5880837e0f005ff3dd7613f550463b8b/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_52453840.jpg"></article>]]></description>
+            <link>http://themerkle.com/no-more-ransom-initiative-wants-to-end-ransomware/</link>
+            <guid isPermaLink="false">d2960dae-9b1b-4e5f-8f2d-f9624b355949</guid>
+            <pubDate>Mon, 25 Jul 2016 17:11:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[David Seaman: Ethereum Classic 'Little More Than Troll Vaporware']]></title>
+            <description><![CDATA[<article><h1>David Seaman: Ethereum Classic 'Little More Than Troll Vaporware'</h1><p>Bitcoin.com spoke with independent journalist and cryptocurrency enthusiast David Seaman on the Ethereum split, the anti-climatic Bitcoin halving event and why users should stop bullying Coinbase for helping law enforcement snatch the founder of KickAssTorrents.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/21833147ab16094c6cbdd09b202c8ab0/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fseaman.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/ethereum-classic-vaporware-david-seaman/</link>
+            <guid isPermaLink="false">ca9aab3a-dfc5-4b49-aca5-1877f03eafa4</guid>
+            <pubDate>Mon, 25 Jul 2016 17:11:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin not money, Miami judge rules in dismissing laundering charges]]></title>
+            <description><![CDATA[<article><h1>Bitcoin not money, Miami judge rules in dismissing laundering charges</h1><p>Bitcoin does not actually qualify as money, a Miami-Dade judge ruled Monday in throwing out criminal charges against a Miami Beach man charged with illegally selling the virtual currency. Monday's decision came in a case that is being closely watched in tech, financial and legal circles as the popularity of the virtual currency has skyrocketed in recent years.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dcb8ca020fd91b51a3f24c65d67d6d99/noop?input=http%3A%2F%2Fwww.miamiherald.com%2Fnews%2Flocal%2Fcrime%2F7uj33m%2Fpicture91682072%2FALTERNATES%2FLANDSCAPE_1140%2FDSC03430"></article>]]></description>
+            <link>http://www.miamiherald.com/news/local/crime/article91682102.html</link>
+            <guid isPermaLink="false">0e8cd198-af32-410a-8fae-4878159380ba</guid>
+            <pubDate>Mon, 25 Jul 2016 17:11:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gibraltar Stock Exchange Lists First Bitcoin Investment Product]]></title>
             <description><![CDATA[<article><h1>Gibraltar Stock Exchange Lists First Bitcoin Investment Product</h1><p>An asset-backed Exchange Traded Instrument which has invested exclusively in Bitcoin, BitcoinETI, has become the first European regulated product for the leading digital currency after it was approved for admission to listing on the Gibraltar Stock Exchange GSX on 22 July 2015, the Gibraltar-based private limited company has announced.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6b4e9719f27fe83978cda6c533284cc5/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xYTJjZjlkZDM2YjBiZjU4Zjg4ZDliZTVmNmQ4YTJiMS5qcGc%3D.jpg"></article>]]></description>
@@ -33,48 +75,6 @@
             <link>http://themerkle.com/bitcoin-scam-site-warning-10bitz/</link>
             <guid isPermaLink="false">0fbd1098-69e4-49aa-9deb-b4be92a989ca</guid>
             <pubDate>Mon, 25 Jul 2016 17:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Maintain and Repair Dual-X and Other Non-Serviceable GPU Fans]]></title>
-            <description><![CDATA[<article><h1>How to Maintain and Repair Dual-X and Other Non-Serviceable GPU Fans</h1><p>There are a lot of people that use various GPUs for mining with the stock fans that the video card comes with and normally many of these fans start to have issues in just a couple of months or after a year or so.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5ae2da8114e19dee4fc140efc9229a95/croprotate.jpg?cropheight=273&cropwidth=556&degrees=0&input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fsapphire-280x-dual-x-580x290.jpg&x=12&y=8"></article>]]></description>
-            <link>http://cryptomining-blog.com/8138-how-to-maintain-and-repair-dual-x-and-other-non-serviceable-gpu-fans/</link>
-            <guid isPermaLink="false">ac10b4ef-7b4f-44fa-b85d-f14c88115d97</guid>
-            <pubDate>Mon, 25 Jul 2016 17:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 6 best Bitcoin mining software]]></title>
-            <description><![CDATA[<article><h1>The 6 best Bitcoin mining software</h1><p>Are you thinking of joining the Bitcoin mining universe? In case you don't know, you can either mine on your own or as part of a pool.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9314418a7fc1c5e5645c9d2580246d39/noop.jpg?input=https%3A%2F%2F99bitcoins.com%2Fwp-content%2Fuploads%2F2013%2F06%2Fcarousel-getset.jpg"></article>]]></description>
-            <link>https://99bitcoins.com/the-6-best-bitcoin-mining-software/</link>
-            <guid isPermaLink="false">b43b4cc9-e3d0-4e12-bef8-8a5d691cdc2c</guid>
-            <pubDate>Mon, 25 Jul 2016 17:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gibraltar Stock Exchange Introduces Bitcoin Backed ETI - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Gibraltar Stock Exchange Introduces Bitcoin Backed ETI - NEWSBTC</h1><p>Gibraltar Stock Exchange has approved the inclusion of BitcoinETI as a tradable instrument on the exchange platform. Read more... Gibraltar Stock Exchange has announced the introduction of a new Bitcoin backed security into its list of trading instruments. BitcoinETI, with the assigned ticker BTCETI is an asset-backed Exchange Traded Instrument created by Argentarius ETI Management and invested exclusively in Bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3ace4ac9861817f4617bb43628d548bc/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F25154104%2Fgibraltar_001.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/25/gibraltar-stock-exchange-introduces-bitcoin-backed-eti/</link>
-            <guid isPermaLink="false">addfe634-54f7-4c25-96d5-eb064f789252</guid>
-            <pubDate>Mon, 25 Jul 2016 17:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EB141 - Ralph Merkle: Revolutionizing Democracy Using DAOs]]></title>
-            <description><![CDATA[<article><h1>EB141 - Ralph Merkle: Revolutionizing Democracy Using DAOs</h1><p>Legendary scientist and cryptography pioneer Ralph Merkle joined us to discuss his recent paper on DAOs. Merkle examined how the voting mechanisms in today's democracies are flawed and how a decentralized, transparent DAO making decisions using prediction markets could create more efficient democratic systems. Topics covered included: Merkle proofs, Merkle Roots and his early forays into cryptography Blockchains as living organisms Why DAOs will be subject to a Darwinian evolutio...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ccf6c4f8b4023f52ef7941126ca06fae/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1870-8cce390740be52e217ba4e4165e1a5c7618de84c164db0c077e32026d2797627.jpg"></article>]]></description>
-            <link>https://letstalkbitcoin.com/blog/post/eb141-ralph-merkle-revolutionizing-democracy-using-daos</link>
-            <guid isPermaLink="false">13713087-3faa-4d8e-a7b1-739cf710dfa0</guid>
-            <pubDate>Mon, 25 Jul 2016 17:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase CEO: Possibility That Ether Blows Past Bitcoin is Very Real]]></title>
-            <description><![CDATA[<article><h1>Coinbase CEO: Possibility That Ether Blows Past Bitcoin is Very Real</h1><p>While Ether has had a bounce in its value buoyed by the successful hard fork, it has also suffered a split with some miners sticking to the discarded Blockchain and starting their own currency called Ethereum Classic.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f14460d2e5f336e47a4037d5c0e5b79b/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85Y2MxNzEzZmFhNGY0NGIzNTE5NTU5MzhkMDgyZjk4Ni5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/coinbase-ceo-possibility-that-ether-blows-past-bitcoin-is-very-real</link>
-            <guid isPermaLink="false">da2c2c6c-163c-4c95-b6bc-c72c79992c25</guid>
-            <pubDate>Mon, 25 Jul 2016 17:10:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I want to create a contract as a service platform using a blockchain back end. But who's blockchain should I use?]]></title>
-            <description><![CDATA[<article><h1>I want to create a contract as a service platform using a blockchain back end. But who's blockchain should I use?</h1><p>We spent most of our time at this time of year doing anti-poaching work. Two other camps from which anti-poaching patrols had also been active had been attacked shortly before this. Due to the possibility of ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
-            <link>https://www.quora.com/I-want-to-create-a-contract-as-a-service-platform-using-a-blockchain-back-end-But-whos-blockchain-should-I-use</link>
-            <guid isPermaLink="false">f137aaad-4ee5-4b3a-b242-b303d9530f04</guid>
-            <pubDate>Mon, 25 Jul 2016 14:04:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
