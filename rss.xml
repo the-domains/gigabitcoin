@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 17:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 17:11:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EB141 - Ralph Merkle: Revolutionizing Democracy Using DAOs]]></title>
+            <description><![CDATA[<article><h1>EB141 - Ralph Merkle: Revolutionizing Democracy Using DAOs</h1><p>Legendary scientist and cryptography pioneer Ralph Merkle joined us to discuss his recent paper on DAOs. Merkle examined how the voting mechanisms in today's democracies are flawed and how a decentralized, transparent DAO making decisions using prediction markets could create more efficient democratic systems. Topics covered included: Merkle proofs, Merkle Roots and his early forays into cryptography Blockchains as living organisms Why DAOs will be subject to a Darwinian evolutio...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ccf6c4f8b4023f52ef7941126ca06fae/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1870-8cce390740be52e217ba4e4165e1a5c7618de84c164db0c077e32026d2797627.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/eb141-ralph-merkle-revolutionizing-democracy-using-daos</link>
+            <guid isPermaLink="false">13713087-3faa-4d8e-a7b1-739cf710dfa0</guid>
+            <pubDate>Mon, 25 Jul 2016 17:11:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Coinbase CEO: Possibility That Ether Blows Past Bitcoin is Very Real]]></title>
             <description><![CDATA[<article><h1>Coinbase CEO: Possibility That Ether Blows Past Bitcoin is Very Real</h1><p>While Ether has had a bounce in its value buoyed by the successful hard fork, it has also suffered a split with some miners sticking to the discarded Blockchain and starting their own currency called Ethereum Classic.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f14460d2e5f336e47a4037d5c0e5b79b/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85Y2MxNzEzZmFhNGY0NGIzNTE5NTU5MzhkMDgyZjk4Ni5qcGc%3D.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Gains Popularity As Banks Stick To Quantitative Easing</h1><p>Unlike the central banks' quantitative easing policy, the reduction of new funds being pumped into the Bitcoin ecosystem is stabilizing the price. It is not the first time some experts are pointing towards Bitcoin as an asset to keep an eye on whenever financial trouble seems to be looming on the horizon.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/37bebd39bcbdf17078cba4aef8faa077/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F25100459%2Fshutterstock_19602892.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/07/25/bitcoin-gains-popularity-banks-stick-quantitative-easing/</link>
             <guid isPermaLink="false">432dbd2a-5fb9-457e-9a52-f67bc09bd1d9</guid>
-            <pubDate>Mon, 25 Jul 2016 14:04:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Kicking Off The Week - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Kicking Off The Week - NEWSBTC</h1><p>Here's a look at what we are focusing on in the bitcoin price this morning. So that's the weekend over, and it's time to get back to our intraday bitcoin price analysis. Things were pretty good last week, as conditions afforded us numerous opportunities to get in and out of the markets on volume driven volatility.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cc63c05ded5bef156bcac9f9f68bb835/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F25105132%2FScreen-Shot-2016-07-25-at-11.39.03.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/25/bitcoin-price-watch-kicking-off-week/</link>
-            <guid isPermaLink="false">36ca716b-a8d9-4485-b90e-1ad44607d23d</guid>
             <pubDate>Mon, 25 Jul 2016 14:04:09 GMT</pubDate>
         </item>
     </channel>
