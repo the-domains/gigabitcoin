@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 14:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 14:04:16 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Charity Campaign For Edward Snowden Launched At BitHope]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Charity Campaign For Edward Snowden Launched At BitHope</h1><p>Bitcoin donations platform BitHope.org has posted a petition urging people to donate to Edward Snowden. Remarkably, the petition's authors decided to raise just one BTC to send it to the former contractor of U.S. intelligence. At the moment of writing, they managed to raise 0.7889 BTC.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a47caf80cb46429521734d4c5cdbf859/croprotate.png?cropheight=417&cropwidth=468&degrees=0&input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F06%2F11-1.png&x=18&y=0"></article>]]></description>
+            <link>http://forklog.net/bitcoin-charity-campaign-for-edward-snowden-launched-at-bithope/</link>
+            <guid isPermaLink="false">743380e3-c6ba-41c4-83a6-c4afe40c6b99</guid>
+            <pubDate>Mon, 25 Jul 2016 14:04:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[German Media Falsely Links Bitcoin and Darknet To Munich Shooting]]></title>
             <description><![CDATA[<article><h1>German Media Falsely Links Bitcoin and Darknet To Munich Shooting</h1><p>All of this seems to be another attempt by mainstream media to discredit Bitcoin and cryptocurrency. Bitcoin is once again making headline news related to a terror attack. According to German media outlets, the weapon used in the Munich shooting has been purchased from the darknet.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/229a8bade1933690098e7aecac89afea/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F25132856%2Fshutterstock_335614106.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.cryptocoinsnews.com/as-mining-expands-will-electricity-consumption-constrain-bitcoin/</link>
             <guid isPermaLink="false">1831a9cf-4347-4874-86df-156ecb37a553</guid>
             <pubDate>Mon, 25 Jul 2016 05:37:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Ethereum Classic," Another Bitcoin Scam]]></title>
-            <description><![CDATA[<article><h1>"Ethereum Classic," Another Bitcoin Scam</h1><p>Ethereum Classic is, in my view, a total and absolute scam by any traditional financial definition of the word "scam." It doesn't have the support of the Ethereum developers, nor of Ethereum creator Vitalik Buterin, making it vaporware and an altcoin created in protest of Ethereum's hard fork decision.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/77cca1a3497abc7aaa9ca951a8d8368e/noop.jpg?input=http%3A%2F%2Fi.huffpost.com%2Fgen%2F1575422%2Fimages%2Fo-BITCOIN-facebook.jpg"></article>]]></description>
-            <link>http://www.huffingtonpost.com/david-seaman/ethereum-classic-another_b_11173314.html</link>
-            <guid isPermaLink="false">cd8eb8d8-6060-405c-a491-bf17756ce9b2</guid>
-            <pubDate>Mon, 25 Jul 2016 02:17:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
