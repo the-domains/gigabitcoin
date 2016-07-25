@@ -7,13 +7,6 @@
         <lastBuildDate>Mon, 25 Jul 2016 14:05:05 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[SovereignBTC #89 Think Win/Win from Seven Habits and Jason King on Decentralized Homeless Outreach]]></title>
-            <description><![CDATA[<article><h1>SovereignBTC #89 Think Win/Win from Seven Habits and Jason King on Decentralized Homeless Outreach</h1><p>In this episode of SovereignBTC, John Bush interviews Jason King of Sean's Outpost about his new project, Unsung, an effort to connect people with excess food with activists looking to help feed the homeless. We talk about Sean's Outpost use of bitcoin to help their philanthropic efforts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/77e797159c4845d52ab1b83869242b07/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1869-f4c9890eb066dd41553edbf9ef9e26b80d6317f8dea335cf5f5d72eeadda8f0b.jpg"></article>]]></description>
-            <link>https://letstalkbitcoin.com/blog/post/sovereignbtc-89-jason-king-on-decentralized-homeless-outreach-and-think-win-win-from-seven-habits</link>
-            <guid isPermaLink="false">dd14bcec-7229-4c49-b906-0b0e406a2dcb</guid>
-            <pubDate>Mon, 25 Jul 2016 14:04:10 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Security Researcher Provides Free Decryption of CTB-Faker Ransomware]]></title>
             <description><![CDATA[<article><h1>Security Researcher Provides Free Decryption of CTB-Faker Ransomware</h1><p>Once again, there is a new type of ransomware in town, which shows a lot of similarities with the once feared CTB-Locker malware strain. However, this tool does something differently, as it uses WinRAR to lock data in password-protected zip files.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/006bf5157c619292d71efbadccbf66f2/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_231434467.jpg"></article>]]></description>
             <link>http://themerkle.com/security-researcher-provides-free-decryption-of-ctb-faker-ransomware/</link>
@@ -49,17 +42,17 @@
             <pubDate>Mon, 25 Jul 2016 14:04:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bitcoin Price Watch; Kicking Off The Week - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Kicking Off The Week - NEWSBTC</h1><p>Here's a look at what we are focusing on in the bitcoin price this morning. So that's the weekend over, and it's time to get back to our intraday bitcoin price analysis. Things were pretty good last week, as conditions afforded us numerous opportunities to get in and out of the markets on volume driven volatility.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cc63c05ded5bef156bcac9f9f68bb835/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F25105132%2FScreen-Shot-2016-07-25-at-11.39.03.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/25/bitcoin-price-watch-kicking-off-week/</link>
-            <guid isPermaLink="false">36ca716b-a8d9-4485-b90e-1ad44607d23d</guid>
-            <pubDate>Mon, 25 Jul 2016 14:04:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Reuters' World-Check Database Selling for Bitcoin After Breach]]></title>
             <description><![CDATA[<article><h1>Reuters' World-Check Database Selling for Bitcoin After Breach</h1><p>According to security researcher and white hat hacker, Chris Vickery, a copy of the World-Check database was leaked online. According to reports , the leaked information is now being sold on the dark net by hackers for a substantial amount of bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/df8a141ec46c77bacfb4156f502be679/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fhack-like-pro-create-nearly-undetectable-covert-channel-with-tunnelshell.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/reuters-world-check-database-breach/</link>
             <guid isPermaLink="false">f9554a71-5b81-42ba-803d-76d8e09c7561</guid>
+            <pubDate>Mon, 25 Jul 2016 14:04:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Watch; Kicking Off The Week - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Watch; Kicking Off The Week - NEWSBTC</h1><p>Here's a look at what we are focusing on in the bitcoin price this morning. So that's the weekend over, and it's time to get back to our intraday bitcoin price analysis. Things were pretty good last week, as conditions afforded us numerous opportunities to get in and out of the markets on volume driven volatility.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cc63c05ded5bef156bcac9f9f68bb835/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F25105132%2FScreen-Shot-2016-07-25-at-11.39.03.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/25/bitcoin-price-watch-kicking-off-week/</link>
+            <guid isPermaLink="false">36ca716b-a8d9-4485-b90e-1ad44607d23d</guid>
             <pubDate>Mon, 25 Jul 2016 14:04:09 GMT</pubDate>
         </item>
         <item>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Gibraltar Lands First European Bitcoin ETI</h1><p>Gibraltar has welcomed Europe's first regulated Bitcoin product in the form of Bitcoin exchange-traded instrument (ETI) BitcoinETI, which will shortly debut on the Gibraltar Stock Exchange (GSX) and Germany's Deutsche Börse. Also read: SolidX Files to Become First Bitcoin ETF on NY Stock Exchange BitcoinETI, which received approval for admission to both exchanges Friday, is an asset-backed ETI invested exclusively in Bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/44d03883355ee3cc2934c0b488087151/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FFahnen-von-Gibraltar-Grossbritannien-und-Europa-wehen-im-Wind-f.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/gibraltar-first-european-bitcoin-eti/</link>
             <guid isPermaLink="false">d8e018ca-5fae-41bd-8455-686f54fa7521</guid>
+            <pubDate>Mon, 25 Jul 2016 14:04:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[German Media Links Bitcoin to Weapon Used in Terror Attack | Finance Magnates]]></title>
+            <description><![CDATA[<article><h1>German Media Links Bitcoin to Weapon Used in Terror Attack | Finance Magnates</h1><p>As Germany is trying to cope with the latest terrorist attack, a suicide bombing in Ansbach, the possible implications of a previous incident are only starting to form. Numerous media reports in the German media are linking Bitcoin to the Munich shooting which might lead to a further crackdown on cryptocurrency use by European governments.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3f37b65c892eef20c416291709d74cd0/noop.jpg?input=http%3A%2F%2Fwww.financemagnates.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fpolizei.jpg"></article>]]></description>
+            <link>http://www.financemagnates.com/cryptocurrency/news/german-media-links-bitcoin-to-weapon-used-in-terror-attack/</link>
+            <guid isPermaLink="false">07e60135-110c-4ebe-b606-559871d9f727</guid>
             <pubDate>Mon, 25 Jul 2016 14:04:09 GMT</pubDate>
         </item>
     </channel>
