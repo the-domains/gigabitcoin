@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 22:49:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 22:49:35 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Michell Espinoza Case: Bitcoin Can't Be Considered as Money - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Michell Espinoza Case: Bitcoin Can't Be Considered as Money - NEWSBTC</h1><p>The judgement in the Michell Espinoza money laundering and illegal bitcoin sales case has declared that Bitcoin can't be considered as money. The recent judgement by the Miami-Dade Circuit Court declares that the popular digital currency, Bitcoin can't be considered as money.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/eea84275dc7bb37721ebb33e4bdccadd/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F05%2F22103937%2Fshutterstock_304657874.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/25/michell-espinoza-laundering-charges-thrown-out/</link>
+            <guid isPermaLink="false">5194ffcd-fd75-4778-b87a-4df0ef4e45d5</guid>
+            <pubDate>Mon, 25 Jul 2016 22:49:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How do I generate multiple address with a master public key in pybitcointools?]]></title>
             <description><![CDATA[<article><h1>How do I generate multiple address with a master public key in pybitcointools?</h1><p>I'm goofing around with this fork of pybitcointools and I got stock with generating multiple address for receiving coins with a master public key. So far, this is what I have: import bitcoin as btc</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Isn't Money, Florida Judge Rules in Laundering Case</h1><p>A landmark criminal case believed to be the first involving a money-laundering charge involving bitcoin has seen its verdict. The criminal charges thrown out, with bitcoin not deemed to qualify as money, according to the ruling judge. Defendant Michell Espinoza was arrested in 201andmd charged with "illegally selling and laundering" $1,500 in bitcoin to an undercover law enforcement officer.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3ba7e8fb3d2a950697d5e78b28846d17/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2014%2F12%2Fbitcoin.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/bitcoin-isnt-money-florida-judge-rules-laundering-case/</link>
             <guid isPermaLink="false">95d6c0b1-f84b-4e22-a43f-9c7d9a7ab6c4</guid>
-            <pubDate>Mon, 25 Jul 2016 17:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Scam Site Warning - 10Bitz]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Scam Site Warning - 10Bitz</h1><p>The time has come to look at yet another Bitcoin Ponzi Scheme, of which there are far more than one can count these days. 10Bitz offers some interesting rewards for investors, but no one should expect any legitimacy from this company whatsoever. Earning 10% daily forever sounds quite appealing, but funds will dry up eventually.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1b2c741507ce7bccb5d88d89819f76c5/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_128290175.jpg"></article>]]></description>
-            <link>http://themerkle.com/bitcoin-scam-site-warning-10bitz/</link>
-            <guid isPermaLink="false">0fbd1098-69e4-49aa-9deb-b4be92a989ca</guid>
             <pubDate>Mon, 25 Jul 2016 17:11:00 GMT</pubDate>
         </item>
     </channel>
