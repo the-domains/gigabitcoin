@@ -7,13 +7,6 @@
         <lastBuildDate>Mon, 25 Jul 2016 17:11:49 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[The 6 best Bitcoin mining software]]></title>
-            <description><![CDATA[<article><h1>The 6 best Bitcoin mining software</h1><p>Are you thinking of joining the Bitcoin mining universe? In case you don't know, you can either mine on your own or as part of a pool.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9314418a7fc1c5e5645c9d2580246d39/noop.jpg?input=https%3A%2F%2F99bitcoins.com%2Fwp-content%2Fuploads%2F2013%2F06%2Fcarousel-getset.jpg"></article>]]></description>
-            <link>https://99bitcoins.com/the-6-best-bitcoin-mining-software/</link>
-            <guid isPermaLink="false">b43b4cc9-e3d0-4e12-bef8-8a5d691cdc2c</guid>
-            <pubDate>Mon, 25 Jul 2016 17:11:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Gibraltar Stock Exchange Introduces Bitcoin Backed ETI - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Gibraltar Stock Exchange Introduces Bitcoin Backed ETI - NEWSBTC</h1><p>Gibraltar Stock Exchange has approved the inclusion of BitcoinETI as a tradable instrument on the exchange platform. Read more... Gibraltar Stock Exchange has announced the introduction of a new Bitcoin backed security into its list of trading instruments. BitcoinETI, with the assigned ticker BTCETI is an asset-backed Exchange Traded Instrument created by Argentarius ETI Management and invested exclusively in Bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3ace4ac9861817f4617bb43628d548bc/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F25154104%2Fgibraltar_001.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/07/25/gibraltar-stock-exchange-introduces-bitcoin-backed-eti/</link>
@@ -75,6 +68,13 @@
             <link>http://motherboard.vice.com/en_uk/read/the-man-behind-bitcoins-45-million-ponzi-scheme-earns-lenient-sentence</link>
             <guid isPermaLink="false">0c928704-3bef-4174-9d60-ca5d8eddc51b</guid>
             <pubDate>Mon, 25 Jul 2016 14:04:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Technical Analysis: Bears Taking Hold of Bitcoin Price]]></title>
+            <description><![CDATA[<article><h1>Technical Analysis: Bears Taking Hold of Bitcoin Price</h1><p>The bitcoin price is ready to fall. After a large sideways lateral market, prices are about to dive to $600, where a new cycle is expected to start, ultimately resulting with a rebound to $820. Also read: Breakout Gaming Making Progress on New eSports Platform Prices are still moving in a lateral pattern, sustaining the $680 level that is persisting at press time.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/965cf8066f8ea34e8d439142135c787b/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F07%2Fbitcoin-july-24-th-long.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/technical-analysis-bear-bitcoin-price/</link>
+            <guid isPermaLink="false">26aace05-0292-4a2a-9ede-4602bfd8a948</guid>
+            <pubDate>Mon, 25 Jul 2016 14:04:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
