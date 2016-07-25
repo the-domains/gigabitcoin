@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 22:49:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 22:50:21 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ethereum's Tale of Two Chains - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Ethereum's Tale of Two Chains - CoinDesk</h1><p>In this opinion piece, Felföldi discusses the emergence of a competing blockchain effort, Ethereum Classic, and why he believes it's important for the project to continue given its implications for blockchains operating on social consensus. Blockchain is not just a huge pile of data created by miners and users.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9e240868ec0f82835c5537478ed6fd88/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2Fnight-day-e1469477025492.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/tale-two-chains-ethereum/</link>
+            <guid isPermaLink="false">f66bbc1b-42e6-4cfa-97ee-fcf515b7d9b8</guid>
+            <pubDate>Mon, 25 Jul 2016 22:49:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Miami Judge Rules Bitcoin Is Not Money; Dismisses Money Laundering, Transmitting Charges]]></title>
+            <description><![CDATA[<article><h1>Miami Judge Rules Bitcoin Is Not Money; Dismisses Money Laundering, Transmitting Charges</h1><p>Miami-Dade Circuit Judge Teresa Pooler has dismissed a money-laundering case involving an alleged "illegal sale" of bitcoins, after declaring that under the laws of the state, the digital currency is not considered to be a form of money.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b012873b9a89e4dc9adce6a34cbd4d4e/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fmiami-judge-rules-bitcoin-is-not-money-dismisses-money-laundering-transmitting-charges.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/miami-judge-rules-bitcoin-is-not-money-dismisses-money-laundering-transmitting-charges-1469471625</link>
+            <guid isPermaLink="false">d9770785-961f-4939-a040-5356ab57b122</guid>
+            <pubDate>Mon, 25 Jul 2016 22:49:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Europe's first regulated bitcoin product launches in Gibraltar]]></title>
+            <description><![CDATA[<article><h1>Europe's first regulated bitcoin product launches in Gibraltar</h1><p>LONDON Europe's first regulated bitcoin product - an asset-backed exchange-traded instrument that will invest exclusively in the digital currency - begins trading this week on the Gibraltar Stock Exchange and Germany's Deutsche Boerse. The Web-based currency can be used to send money instantly around the world, free of charge and with no need for third-party checks.</p></article>]]></description>
+            <link>http://www.reuters.com/article/us-europe-bitcoin-etp-idUSKCN1051JN</link>
+            <guid isPermaLink="false">21c5e088-c7c2-47c6-9a75-65cb3f2d4cd3</guid>
+            <pubDate>Mon, 25 Jul 2016 22:49:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Michell Espinoza Case: Bitcoin Can't Be Considered as Money - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Michell Espinoza Case: Bitcoin Can't Be Considered as Money - NEWSBTC</h1><p>The judgement in the Michell Espinoza money laundering and illegal bitcoin sales case has declared that Bitcoin can't be considered as money. The recent judgement by the Miami-Dade Circuit Court declares that the popular digital currency, Bitcoin can't be considered as money.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/eea84275dc7bb37721ebb33e4bdccadd/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F05%2F22103937%2Fshutterstock_304657874.jpg"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>http://www.miamiherald.com/news/local/crime/article91682102.html</link>
             <guid isPermaLink="false">0e8cd198-af32-410a-8fae-4878159380ba</guid>
             <pubDate>Mon, 25 Jul 2016 17:11:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gibraltar Stock Exchange Lists First Bitcoin Investment Product]]></title>
-            <description><![CDATA[<article><h1>Gibraltar Stock Exchange Lists First Bitcoin Investment Product</h1><p>An asset-backed Exchange Traded Instrument which has invested exclusively in Bitcoin, BitcoinETI, has become the first European regulated product for the leading digital currency after it was approved for admission to listing on the Gibraltar Stock Exchange GSX on 22 July 2015, the Gibraltar-based private limited company has announced.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6b4e9719f27fe83978cda6c533284cc5/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xYTJjZjlkZDM2YjBiZjU4Zjg4ZDliZTVmNmQ4YTJiMS5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/gibraltar-stock-exchange-lists-first-bitcoin-investment-product</link>
-            <guid isPermaLink="false">5a3fec6c-2bed-41e8-8168-fc396728fd7b</guid>
-            <pubDate>Mon, 25 Jul 2016 17:11:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MinerGate Adds Support for Mining Ethereum Classic]]></title>
-            <description><![CDATA[<article><h1>MinerGate Adds Support for Mining Ethereum Classic</h1><p>Minergate, a mining pool and the developer of GUI mining software that supports various mining various cryptocurrencies including bitcoin and Ethereum, is including support for Ethereum classic, the blockchain based on the original Ethereum platform's consensus before the hard fork.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22d3b2170068fcf8fafa20b9d5cdeea2ebfc4cb3.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/minergate-adds-support-mining-ethereum-classic-2/</link>
-            <guid isPermaLink="false">ed466e10-919f-4b4b-84ff-171f2284a7b0</guid>
-            <pubDate>Mon, 25 Jul 2016 17:11:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Isn't Money, Florida Judge Rules in Laundering Case]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Isn't Money, Florida Judge Rules in Laundering Case</h1><p>A landmark criminal case believed to be the first involving a money-laundering charge involving bitcoin has seen its verdict. The criminal charges thrown out, with bitcoin not deemed to qualify as money, according to the ruling judge. Defendant Michell Espinoza was arrested in 201andmd charged with "illegally selling and laundering" $1,500 in bitcoin to an undercover law enforcement officer.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3ba7e8fb3d2a950697d5e78b28846d17/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2014%2F12%2Fbitcoin.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-isnt-money-florida-judge-rules-laundering-case/</link>
-            <guid isPermaLink="false">95d6c0b1-f84b-4e22-a43f-9c7d9a7ab6c4</guid>
-            <pubDate>Mon, 25 Jul 2016 17:11:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
