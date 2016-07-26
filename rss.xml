@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 13:52:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2016 13:53:26 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[While Shrem, Ulbricht Enjoy Cults of Personality, Shavers Abandoned by Bitcoin Community]]></title>
+            <description><![CDATA[<article><h1>While Shrem, Ulbricht Enjoy Cults of Personality, Shavers Abandoned by Bitcoin Community</h1><p>Trendon Shavers earned a lenient sentence through good faith efforts to right the wrongs he did while improperly managing the Bitcoin Savings & Trust, Bitcoin's first federal securities case, according to his sentencing judge. That's news the Bitcoin Community, which has long viewed Shavers as a no more than a fraudster, likely won't heed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/380823b8829b30245ff01932bf4914882d5fc707.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/shrem-ulbricht-shavers-bitcoin/</link>
+            <guid isPermaLink="false">482f91c5-7868-4a9c-8968-692dd3e98f3a</guid>
+            <pubDate>Tue, 26 Jul 2016 13:52:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Case for Ethereum Classic - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>The Case for Ethereum Classic - NEWSBTC</h1><p>The Ethereum hard fork to bail out the DAO Project was successful, but not without its consequences. Many assumed the old chain would simply die, however it has not only survived, but continues to grow under the name Ethereum Classic (ETC). This has forced cryptocurrency investors to make a choice on the immutability issue...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f531011f4b8aec4addc3a91458c8bf69/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F26105154%2FEthereum-Classic-Poloniex.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Is it safe to import my private key into another wallet?</h1><p>I sent some bitcoin to my bitcoin core wallet before it synced, not knowing this sync would take days, and was wondering if i was to import my private key into a different wallet if that would work?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/46652/is-it-safe-to-import-my-private-key-into-another-wallet</link>
             <guid isPermaLink="false">817eb818-4b8b-492c-925f-1d340f8f9898</guid>
-            <pubDate>Tue, 26 Jul 2016 02:25:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Would blockchain voting go well together with proportional representation in elections?]]></title>
-            <description><![CDATA[<article><h1>Would blockchain voting go well together with proportional representation in elections?</h1><p>Answer: Yes, but why would you want proportional representation? It is a weak form of democracy with all the flaws, i.e. gross compromises ("I'll vote for your bad bill if you vote for my good bill"), party politics (obey the bosses or else face a party backed candidate in the next primary elect...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
-            <link>https://www.quora.com/Would-blockchain-voting-go-well-together-with-proportional-representation-in-elections</link>
-            <guid isPermaLink="false">3af18ef5-9cbe-436e-a51a-3978d1dff1af</guid>
             <pubDate>Tue, 26 Jul 2016 02:25:37 GMT</pubDate>
         </item>
     </channel>
