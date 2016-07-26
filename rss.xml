@@ -7,13 +7,6 @@
         <lastBuildDate>Tue, 26 Jul 2016 14:50:00 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[IRC meeting summary for 2016-07-21]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-07-21</h1><p>0.13 has been branched of master since a couple of days. Jeremyrubin has been working on refactoring checkqueue.h including some nice improvements. Cfields has been working on optimizing the sigcache and proposes to work together to come up with a good representative bench for testing improvements.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/07/21/</link>
-            <guid isPermaLink="false">49aa7eaa-e3cd-4657-9b97-b0bc6ce6f310</guid>
-            <pubDate>Tue, 26 Jul 2016 14:47:18 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How do you make fortune with bitcoin?]]></title>
             <description><![CDATA[<article><h1>How do you make fortune with bitcoin?</h1><p>Answer: From my point of view there are two different ways to make fortune with bitcoin. 1. Trading Bitcoin 2. Investing in Cloud Mining First of all, you will not get rich with this until there is some event happening when people really want to buy a lot of coins and the price rises like we had...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
             <link>https://www.quora.com/How-do-you-make-fortune-with-bitcoin</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Can you send amounts that would typically be considered 'dust' through the Lightning Network?</h1><p>Reading through the Lightning Network Paper, it seems that amounts sent through an intermediate node use the Hash Timelocked Output construction. The thing I'm concerned about with HTLCs is that they</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/46730/can-you-send-amounts-that-would-typically-be-considered-dust-through-the-light</link>
             <guid isPermaLink="false">2b382fcb-3691-485c-8cf4-1ea97c3107d1</guid>
+            <pubDate>Tue, 26 Jul 2016 14:47:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Crypto Show with Anthony Di Iorio on Ethereum Classic]]></title>
+            <description><![CDATA[<article><h1>The Crypto Show with Anthony Di Iorio on Ethereum Classic</h1><p>This is a follow up on the recent episode with Anthony regarding the DAO hack. Anthony discusses Ethereum Classic and the possible integration into the Jaxx wallet. As an addition here's an extra episode from last Wednesday we talk with a random caller about Bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2be5e46020ffa90d1e0c143071553cd3/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1871-7236d8769cf04e9b9754c13cf28925383da6346f6691ce54e62b1446a9843d16.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/the-crypto-show-with-anthony-di-iorio-on-ethereum-classic</link>
+            <guid isPermaLink="false">af7a7fb8-9c02-4c9d-a835-2ae66cd0b7f0</guid>
             <pubDate>Tue, 26 Jul 2016 14:47:17 GMT</pubDate>
         </item>
     </channel>
