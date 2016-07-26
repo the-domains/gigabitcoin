@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 04:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2016 13:52:57 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Case for Ethereum Classic - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>The Case for Ethereum Classic - NEWSBTC</h1><p>The Ethereum hard fork to bail out the DAO Project was successful, but not without its consequences. Many assumed the old chain would simply die, however it has not only survived, but continues to grow under the name Ethereum Classic (ETC). This has forced cryptocurrency investors to make a choice on the immutability issue...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f531011f4b8aec4addc3a91458c8bf69/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F26105154%2FEthereum-Classic-Poloniex.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/26/case-ethereum-classic/</link>
+            <guid isPermaLink="false">8826545d-5e9f-407f-8fed-a359983481a0</guid>
+            <pubDate>Tue, 26 Jul 2016 13:52:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gibraltar Stock Exchange welcomes BitcoinETI]]></title>
+            <description><![CDATA[<article><h1>Gibraltar Stock Exchange welcomes BitcoinETI</h1><p>The Gibraltar Stock Exchange welcomes BitcoinETI (ticker: BTCETI), an asset-backed Exchange Traded Instrument that is invested exclusively in bitcoin, making it the first European regulated product for the leading digital currency. The Bitcoin Exchange Traded Instrument (ETI) was approved for admission to listing on GSX on 22-Jul-2015 and will be co-listed on Deutsche Börse this week under the symbol "BTCETI".</p></article>]]></description>
+            <link>https://www.gsx.gi/article/8292/gibraltar-stock-exchange-welcomes-bitcoineti</link>
+            <guid isPermaLink="false">502bfb7f-2aca-485c-acfe-6cf6b9197486</guid>
+            <pubDate>Tue, 26 Jul 2016 04:16:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Technical Analysis for 07/26/2016 - Reversal Formation Seen! - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 07/26/2016 - Reversal Formation Seen! - NEWSBTC</h1><p>Bitcoin price has formed a head and shoulders pattern on its short-term time frame and is currently testing the neckline. Bitcoin Price Key Highlights Bitcoin price has formed a head and shoulders pattern on its short-term time frame and is currently testing the neckline.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2b4d88f926e0d2cd3be7c547bc6085fa/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F26035926%2F160726_bitcoin.png"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://www.quora.com/Would-blockchain-voting-go-well-together-with-proportional-representation-in-elections</link>
             <guid isPermaLink="false">3af18ef5-9cbe-436e-a51a-3978d1dff1af</guid>
             <pubDate>Tue, 26 Jul 2016 02:25:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Researchers Discover Tor Nodes Spying on the Network]]></title>
-            <description><![CDATA[<article><h1>Researchers Discover Tor Nodes Spying on the Network</h1><p>According to a series of tests, over 100 malicious Hidden Service Directories (HSDiers) - nodes in the Tor Network that act as introductory points - have been found snooping on the Also read: Gibraltar Lands First European Bitcoin ETI Tor Network . Researchers Amirali Sanatinia and Guevara Noubir first discovered the snooping services.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/609ed21109adf909f2bbfe06cded815f/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FTor-suits.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/tor-spy-nodes-network/</link>
-            <guid isPermaLink="false">dba634cc-4056-4887-98f7-6ce777fdb995</guid>
-            <pubDate>Tue, 26 Jul 2016 02:25:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Analysis: Bear Junction]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Analysis: Bear Junction</h1><p>Bitcoin price continues teetering on the edge of a precipice. A valiant effort to escape gravity, late on Sunday, has only seen price slump back toward $650. Unless the buyers capitulate, a large decline seems inevitable. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2d124692c3a9a392ceb9e657e6cf18b9/noop.png?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FSelection_20160725_006.png"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-price-analysis-beware-bear/</link>
-            <guid isPermaLink="false">2910c475-29cb-442d-a085-a706478cdfae</guid>
-            <pubDate>Mon, 25 Jul 2016 22:49:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
