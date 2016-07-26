@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 02:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2016 02:25:42 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Would blockchain voting go well together with proportional representation in elections?]]></title>
-            <description><![CDATA[<article><h1>Would blockchain voting go well together with proportional representation in elections?</h1><p>Answer: Yes, but why would you want proportional representation? It is a weak form of democracy with all the flaws, i.e. gross compromises ("I'll vote for your bad bill if you vote for my good bill"), party politics (obey the bosses or else face a party backed candidate in the next primary elect...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
-            <link>https://www.quora.com/Would-blockchain-voting-go-well-together-with-proportional-representation-in-elections</link>
-            <guid isPermaLink="false">3af18ef5-9cbe-436e-a51a-3978d1dff1af</guid>
-            <pubDate>Tue, 26 Jul 2016 02:25:37 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Researchers Discover Tor Nodes Spying on the Network]]></title>
             <description><![CDATA[<article><h1>Researchers Discover Tor Nodes Spying on the Network</h1><p>According to a series of tests, over 100 malicious Hidden Service Directories (HSDiers) - nodes in the Tor Network that act as introductory points - have been found snooping on the Also read: Gibraltar Lands First European Bitcoin ETI Tor Network . Researchers Amirali Sanatinia and Guevara Noubir first discovered the snooping services.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/609ed21109adf909f2bbfe06cded815f/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FTor-suits.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>EU to Register Digital Currency Users, Record Bitcoin Transactions</h1><p>The European Commission has submitted their plans to create a central database of digital currency users. The EU quotes the prevention of terrorist financing and money laundering for the reason behind it. The Commission stated that virtual currency transfers, including Bitcoin, are not monitored or observed by public authorities within the EU and thus, a regulatory framework for digital currency platforms must be established.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2596433af5f46b884a534902800a9d3e/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kZGFjMmM3OTYwYmI4OWExODU1ZDY3NjBmZTc1MjAzMi5qcGc%3D.jpg"></article>]]></description>
             <link>https://cointelegraph.com/news/eu-to-register-digital-currency-users-record-bitcoin-transactions</link>
             <guid isPermaLink="false">978673d5-ab0d-4ca0-90ee-4e8ab599f319</guid>
+            <pubDate>Mon, 25 Jul 2016 22:49:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum Classic (ETC) is the Opposition to Ethereum's Hard Fork]]></title>
+            <description><![CDATA[<article><h1>Ethereum Classic (ETC) is the Opposition to Ethereum's Hard Fork</h1><p>Ehereum (ETH) has successfully hard forked a few days ago and moved on a new chain, however this also brought to life Ethereum Classic (ETC) that continue to run on the old blockchain without any modifications that were made by the forking Ehereum (ETH).</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f0d5f4ad19ffd9aaafd79909b461fdc4/noop.jpg?input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fethereum-classic-logo.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/8156-ethereum-classic-etc-is-the-opposition-to-ethereums-hard-fork/</link>
+            <guid isPermaLink="false">38bcfdea-289c-4255-990f-045b4129c7d7</guid>
             <pubDate>Mon, 25 Jul 2016 22:49:34 GMT</pubDate>
         </item>
     </channel>
