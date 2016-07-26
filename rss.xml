@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 04:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2016 04:16:33 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gibraltar Stock Exchange welcomes BitcoinETI]]></title>
+            <description><![CDATA[<article><h1>Gibraltar Stock Exchange welcomes BitcoinETI</h1><p>The Gibraltar Stock Exchange welcomes BitcoinETI (ticker: BTCETI), an asset-backed Exchange Traded Instrument that is invested exclusively in bitcoin, making it the first European regulated product for the leading digital currency. The Bitcoin Exchange Traded Instrument (ETI) was approved for admission to listing on GSX on 22-Jul-2015 and will be co-listed on Deutsche Börse this week under the symbol "BTCETI".</p></article>]]></description>
+            <link>https://www.gsx.gi/article/8292/gibraltar-stock-exchange-welcomes-bitcoineti</link>
+            <guid isPermaLink="false">502bfb7f-2aca-485c-acfe-6cf6b9197486</guid>
+            <pubDate>Tue, 26 Jul 2016 04:16:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Technical Analysis for 07/26/2016 - Reversal Formation Seen! - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 07/26/2016 - Reversal Formation Seen! - NEWSBTC</h1><p>Bitcoin price has formed a head and shoulders pattern on its short-term time frame and is currently testing the neckline. Bitcoin Price Key Highlights Bitcoin price has formed a head and shoulders pattern on its short-term time frame and is currently testing the neckline.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2b4d88f926e0d2cd3be7c547bc6085fa/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F26035926%2F160726_bitcoin.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/26/bitcoin-price-technical-analysis-07262016-reversal-formation-seen/</link>
+            <guid isPermaLink="false">a5b2d9e6-fcec-475c-bec7-341efd397542</guid>
+            <pubDate>Tue, 26 Jul 2016 04:16:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Agentic Blockchain Consortium Expands To London - Bitcoin News]]></title>
             <description><![CDATA[<article><h1>Agentic Blockchain Consortium Expands To London - Bitcoin News</h1><p>New York-based blockchain consortium Also read: David Seaman: Ethereum Classic 'Little More Than Troll Vaporware' Agentic Group has announced its latest expansion into the UK. The organization, composed of over 35 distributed ledger and cryptocurrency projects, aims to demystify these protocols by providing leadership and R&D opportunities.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/43a0724570e2adfd3d5a126ab4ad902d/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FAgentic-Blockchain-Consortium-Expands-To-London.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://news.bitcoin.com/tor-spy-nodes-network/</link>
             <guid isPermaLink="false">dba634cc-4056-4887-98f7-6ce777fdb995</guid>
             <pubDate>Tue, 26 Jul 2016 02:25:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Analysis: Bear Junction]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Analysis: Bear Junction</h1><p>Bitcoin price continues teetering on the edge of a precipice. A valiant effort to escape gravity, late on Sunday, has only seen price slump back toward $650. Unless the buyers capitulate, a large decline seems inevitable. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2d124692c3a9a392ceb9e657e6cf18b9/noop.png?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FSelection_20160725_006.png"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-price-analysis-beware-bear/</link>
-            <guid isPermaLink="false">2910c475-29cb-442d-a085-a706478cdfae</guid>
-            <pubDate>Mon, 25 Jul 2016 22:49:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gibraltar Stock Exchange to List Bitcoin Investment Product - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Gibraltar Stock Exchange to List Bitcoin Investment Product - CoinDesk</h1><p>A private stock exchange based in Gibraltar is adding an exchange traded instrument (ETI) invested in bitcoin. The BitcoinETI, the Gibraltar Stock Exchange announced today, is being issued by a firm called iStructure PCC PLC, based in Gibraltar. Local firms Argentarius ETI Management Limited and Revoltura Limited were also involved with the issuance.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/db7dbec0eebc0d08af5c5ee34ba4e3b8/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2FGibraltar.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/gibraltar-stock-exchange-bitcoin-investment-product/</link>
-            <guid isPermaLink="false">c35b09dd-82d5-46b5-bfe5-fb04a9cd5b19</guid>
-            <pubDate>Mon, 25 Jul 2016 22:49:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
