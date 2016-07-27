@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 14:43:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2016 14:42:59 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="1/ Earlier today I theorized a mechanism for doubling one&apos;s $XBT balance in light of the #Ethereum fork. Here&apos;s how:pic.twitter.com/zW88ZheyyL" src="https://pbs.twimg.com/media/CoVTRscWcAAlyjT.jpg:large">]]></description>
-            <link>https://twitter.com/desantis/status/758104013766266881</link>
-            <guid isPermaLink="false">7913787b-76a1-4ea0-96af-b3c936433ee6</guid>
-            <pubDate>Wed, 27 Jul 2016 14:41:51 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[A Quick Guide on How to Mine Steem on Windows]]></title>
             <description><![CDATA[<article><h1>A Quick Guide on How to Mine Steem on Windows</h1><p>Steem is a blockchain-based social media platform where anyone can earn rewards by contributing quality content and rating content published by others. You can also mine it using a dedicated CPU miner if you have some spare power that you want to dedicate to supporting the network.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c978644f395587e5df2b1019f37488ed/noop.jpg?input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fsteem-website-580x338.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Bitcoin 'Whales' Vote in Favor of Larger Tx Blocks</h1><p>There are signs a majority of the Bitcoin universe's opinion is shifting in favor of larger transaction blocks, after an overwhelming poll vote. Also read: Kraken Adds Ethereum Classic, Coinbase Slammed for Funds Freeze The issues, and Bitcoiners' reaction to them, were recorded on blockchain opinion polling site Bitcoinocracy.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/072d66e58b1d42012d6fac3da5cff122/croprotate.jpg?cropheight=683&cropwidth=1296&degrees=0&input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fwhale.jpg&x=0&y=0"></article>]]></description>
             <link>https://news.bitcoin.com/bitcoin-whales-vote-larger-tx-blocks/</link>
             <guid isPermaLink="false">9c8d9c74-ee62-4c8c-bc19-a28f0308a789</guid>
+            <pubDate>Wed, 27 Jul 2016 14:41:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Venezuela Turns To Bitcoin Amid Inflation | PYMNTS.com]]></title>
+            <description><![CDATA[<article><h1>Venezuela Turns To Bitcoin Amid Inflation | PYMNTS.com</h1><p>The search for inflation hedges and stability of purchasing power in a world of hyperinflation has led some in Venezuela to turn to the digital currency known as bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/471c956617ef92648e08833612676c98/noop.jpg?input=http%3A%2F%2Fcdn.pymnts.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fbitcoin_twitter-1000x600.jpg"></article>]]></description>
+            <link>http://www.pymnts.com/news/bitcoin-tracker/2016/venezuela-bitcoin-inflation/</link>
+            <guid isPermaLink="false">2f72592e-f709-4ee0-b740-c70b34c1510e</guid>
             <pubDate>Wed, 27 Jul 2016 14:41:50 GMT</pubDate>
         </item>
     </channel>
