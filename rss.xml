@@ -7,13 +7,6 @@
         <lastBuildDate>Wed, 27 Jul 2016 07:24:43 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Australians have an easier way to buy bitcoin after new exchange launches]]></title>
-            <description><![CDATA[<article><h1>Australians have an easier way to buy bitcoin after new exchange launches</h1><p>The first licensed bitcoin exchange to launch in the United States, has just set up shop in Australia. Through Coinbase, Aussies can now buy two digital currencies, bitcoin and ether, using their credit or debit cards through the San Francisco-based company. For the moment, the platform won't allow Australians to sell digital currency, just buy it.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4c54fa67f91fff302598caf555340eb5/noop.jpg?input=http%3A%2F%2Fi.amz.mshcdn.com%2FuxGOoqn9TjYLb71R9MUeBeKoUSo%3D%2F1200x630%2F2016%252F07%252F27%252F57%252Fb676035193c448fa9c7758dd9fe3d0ae.1768c.jpg"></article>]]></description>
-            <link>http://mashable.com/2016/07/26/coinbase-bitcoin-launch-australia/</link>
-            <guid isPermaLink="false">8a27e002-8bc7-4dc2-8fdc-3f5ee4cbe5ec</guid>
-            <pubDate>Wed, 27 Jul 2016 07:24:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[UPDATE: Ether Classic and the Ethereum "Hard Fork"]]></title>
             <description><![CDATA[<article><h1>UPDATE: Ether Classic and the Ethereum "Hard Fork"</h1><p>Due to the developing interest in ETC (Ether Classic or ETHC), we at Gemini would like to keep you informed of our ongoing work to best address the implications of the Ethereum "Hard Fork" which occurred on July 20, 2016 at 13:20:40 UTC.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/71284d29ab3fc1cc1779c28b5ce24b5a/noop.jpg?input=https%3A%2F%2Fgemini.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fearth-from-space-ethc-680x255.jpg"></article>]]></description>
             <link>https://gemini.com/blog/ether-classic-and-the-ethereum-hard-fork/</link>
@@ -75,6 +68,13 @@
             <link>http://bravenewcoin.com/news/ethereum-hard-fork-results-in-two-surviving-cryptocurrencies-both-are-now-trading/</link>
             <guid isPermaLink="false">86f07724-f3a0-4bf8-93cd-27d4b70d0149</guid>
             <pubDate>Tue, 26 Jul 2016 14:47:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mycelium adds Dash; integration will come into effect in Oct.]]></title>
+            <description><![CDATA[<article><h1>Mycelium adds Dash; integration will come into effect in Oct.</h1><p>New York, New York-based one of the world's first and top rated software wallets Mycelium announced last week its integration with open source, decentralized digital currency Dash. The integration ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/37aad2b95f044e58da03ea8665890516/noop.png?input=https%3A%2F%2Fcoinreport.net%2Fwp-content%2Fuploads%2F2016%2F01%2FDash-Logo-SQUARED-150x150.png"></article>]]></description>
+            <link>https://coinreport.net/mycelium-adds-dash-integration-will-come-into-effect-in-oct/</link>
+            <guid isPermaLink="false">f940bcec-5a7e-45fa-8402-ca4649a2256c</guid>
+            <pubDate>Tue, 26 Jul 2016 14:47:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
