@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 07:26:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2016 07:26:45 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Visa Europe Partners for Bitcoin Micropayments Trial - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Visa Europe Partners for Bitcoin Micropayments Trial - CoinDesk</h1><p>Bitcoin micropayments startup SatoshiPay is developing a new proof-of-concept with Visa Europe's innovation unit. Work on the project was first disclosed earlier this year, when Visa Europe Collab said that it was exploring bitcoin micropayments for connected devices. At the time, the company indicated it was looking at use cases like smart light bulbs that could pay for their own electricity.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f7b0e5004e6efaf741f66743ba157778/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2Fpennies-change-e1469545994837.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/visa-europe-bitcoin-micropayments/</link>
-            <guid isPermaLink="false">e583ade2-26cd-4fdb-b448-36bb5d264a95</guid>
-            <pubDate>Wed, 27 Jul 2016 07:24:48 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Price Watch; Flat Action, What's Next? - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Watch; Flat Action, What's Next? - NEWSBTC</h1><p>Here's a look at what we are focusing on in the bitcoin price this evening. In this morning's bitcoin price watch analysis, our primary focus was a tight range, and a strategy that involved using some scalp breakout targets to take advantage of that range.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3f6760abbdf799c276eec2c157bcf57d/croprotate.png?cropheight=693&cropwidth=1194&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F26154430%2FScreen-Shot-2016-07-26-at-16.37.08.png&x=0&y=0"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://cointelegraph.com/news/ether-slumps-ethereum-classic-surges-300-finds-support-with-exchanges-miners</link>
             <guid isPermaLink="false">58121789-bd63-4946-b63d-1cdd3b642a73</guid>
             <pubDate>Wed, 27 Jul 2016 07:24:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[First European-Regulated Bitcoin Product Launched by the Gibraltar Stock Exchange]]></title>
+            <description><![CDATA[<article><h1>First European-Regulated Bitcoin Product Launched by the Gibraltar Stock Exchange</h1><p>The Gibraltar Stock Exchange (GSX) announced the launch of BitcoinETI, an asset-backed Exchange Traded Instrument that is invested exclusively in Bitcoin, making it the first European-regulated product for the leading digital currency. The ETI is listed on GSX with the ticker BTCETI and is in the process of also being co-listed on Deutsche Börse in the coming weeks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d52374cd0dae7efb3734481e81b24645/noop.jpg?input=http%3A%2F%2Fwww.nasdaq.com%2Freference%2Fhiresphotos%2Fnews-photos%2Fbitcoin%2F325x200%2Fbitcoin82.jpg"></article>]]></description>
+            <link>http://www.nasdaq.com/article/first-european-regulated-bitcoin-product-launched-by-the-gibraltar-stock-exchange-cm654982</link>
+            <guid isPermaLink="false">248bd2f8-8939-4e7f-9598-f7354da99be0</guid>
+            <pubDate>Wed, 27 Jul 2016 07:24:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
