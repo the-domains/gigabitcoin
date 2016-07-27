@@ -4,13 +4,20 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 07:26:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2016 07:26:31 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Will Donald Trump's Trade Policies Cause Bitcoin to Soar?]]></title>
             <description><![CDATA[<article><h1>Will Donald Trump's Trade Policies Cause Bitcoin to Soar?</h1><p>At the 2016 Republican Convention, Donald Trump proclaimed that he was going to disentangle the U.S. from bad trade agreements. He confirmed his anti-globalism position when he said, "Americanism, not globalism will be our credo." Furthermore, in an interview, he said that he might pull the U.S. back from its NATO commitments.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06ea2b1c2e2061016c8de3a129ce06ce/noop.png?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FDonald-Trump-Serious-Face.png"></article>]]></description>
             <link>https://news.bitcoin.com/donald-trump-policies-bitcoin/</link>
             <guid isPermaLink="false">d1ae3b30-28fc-4df2-93c4-0f43f4bc5a9d</guid>
+            <pubDate>Wed, 27 Jul 2016 07:24:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[First European-Regulated Bitcoin Product Launched by the Gibraltar Stock Exchange]]></title>
+            <description><![CDATA[<article><h1>First European-Regulated Bitcoin Product Launched by the Gibraltar Stock Exchange</h1><p>The Gibraltar Stock Exchange (GSX) announced the launch of BitcoinETI, an asset-backed Exchange Traded Instrument that is invested exclusively in Bitcoin, making it the first European-regulated product for the leading digital currency. The ETI is listed on GSX with the ticker BTCETI and is in the process of also being co-listed on Deutsche Börse in the coming weeks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a4ab55d3e27904fd47fe000cf86f0f0f/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Ffirst-european-regulated-bitcoin-product-launched-by-the-gibraltar-stock-exchange.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/first-european-regulated-bitcoin-product-launched-by-the-gibraltar-stock-exchange-1469547603</link>
+            <guid isPermaLink="false">0479f5bd-9e75-4c0e-bcd6-171194c27930</guid>
             <pubDate>Wed, 27 Jul 2016 07:24:47 GMT</pubDate>
         </item>
         <item>
@@ -68,13 +75,6 @@
             <link>http://bitcoinist.net/breakout-gaming-board-directors/</link>
             <guid isPermaLink="false">c97c5d60-8a3d-4be5-a3ec-8fc61b404551</guid>
             <pubDate>Wed, 27 Jul 2016 07:24:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coin selection algorithm in Python to optimally select UTXO]]></title>
-            <description><![CDATA[<article><h1>Coin selection algorithm in Python to optimally select UTXO</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/46733/coin-selection-algorithm-in-python-to-optimally-select-utxo</link>
-            <guid isPermaLink="false">6f7aa800-365e-497b-9072-fce70d5ef192</guid>
-            <pubDate>Wed, 27 Jul 2016 07:24:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
