@@ -7,6 +7,13 @@
         <lastBuildDate>Thu, 28 Jul 2016 06:43:16 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Miami Judge Rules That Bitcoin Is Not Money]]></title>
+            <description><![CDATA[<article><h1>Miami Judge Rules That Bitcoin Is Not Money</h1><p>A Miami-Dade judge has ruled that, for purposes of certain Florida statutes, Bitcoin is not, in fact, money. The ruling came in response to what is likely the first of its kind: a criminal case involving Bitcoin and money laundering.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ad43f22f10f25badaba81f6c46154021/croprotate.jpg?cropheight=432&cropwidth=640&degrees=0&input=http%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F450764582%2F640x434.jpg%3Ffit%3Dscale&x=0&y=1"></article>]]></description>
+            <link>http://www.forbes.com/sites/kellyphillipserb/2016/07/27/miami-judge-rules-that-bitcoin-is-not-money/</link>
+            <guid isPermaLink="false">f9fff3c8-454e-48c3-b9cc-2ff6d8363156</guid>
+            <pubDate>Thu, 28 Jul 2016 06:42:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bitcoin Price Technical Analysis for 07/28/2016 - Bounce or Break? - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 07/28/2016 - Bounce or Break? - NEWSBTC</h1><p>Bitcoin price is hovering at the resistance of the short-term descending channel and could be in for a continuation or reversal. Bitcoin Price Key Highlights Bitcoin price is hovering at the resistance of the short-term descending channel and could be in for a continuation or reversal.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bbbe088696d7bf41a0c27bc59d348ad0/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F28042827%2F160728_bitcoin.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/07/28/bitcoin-price-technical-analysis-07282016-bounce-break/</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The Crypto Show meets Bitcoins & Gravy and The Corbett Report</h1><p>This episode we team up with John Barrett of Bitcoins & Gravy and James Corbett of The Corbett Report. Jonathan Mohan also joins in for some insight on ETH vs ETC. With John Barrett we get into his humble beginnings of how he got into Bitcoin and much more.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/758444ee8a6b83efe8cd053e1d08146c/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1872-b3e6b3e33a8aa9de26c54721574cbe4d57d02eadd9c709b75a06023abf9e71e8.jpg"></article>]]></description>
             <link>https://letstalkbitcoin.com/blog/post/the-crypto-show-meets-bitcoins-gravy-and-the-corbett-report</link>
             <guid isPermaLink="false">3d4542bd-e653-4752-b521-bc6a0dc69826</guid>
-            <pubDate>Thu, 28 Jul 2016 06:42:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bitsquare/bitsquare]]></title>
-            <description><![CDATA[<article><h1>bitsquare/bitsquare</h1><p>bitsquare - The decentralized bitcoin exchange</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c5f3b4339b165254bd585694ef524c6d/croprotate?cropheight=296&cropwidth=400&degrees=0&input=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F6928048%3Fv%3D3%26s%3D400&x=0&y=52"></article>]]></description>
-            <link>https://github.com/bitsquare/bitsquare/releases/tag/v0.4.9.1</link>
-            <guid isPermaLink="false">dbc7fa3e-dd43-4cea-bd92-477f1b3e9bc9</guid>
             <pubDate>Thu, 28 Jul 2016 06:42:25 GMT</pubDate>
         </item>
     </channel>
