@@ -4,11 +4,18 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 06:45:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 06:45:52 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Blockchain Researchers Debate Future of Consensus Tech at IBM Event - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Blockchain Researchers Debate Future of Consensus Tech at IBM Event - CoinDesk</h1><p>More than 40 researchers met at a workshop hosted by IBM in Chicago this week to discuss the future of the consensus mechanisms that today form the governance layer for blockchain and distributed ledger technologies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76b14c8a463c77253908b367e0c0f3cbb9a82224.png"></article>]]></description>
+            <link>http://www.coindesk.com/blockchain-research-ibm-distributed-cryptocurrencies-consensus-ledgers/</link>
+            <guid isPermaLink="false">341a5872-775f-48cf-8c6c-23d52760faf0</guid>
+            <pubDate>Thu, 28 Jul 2016 06:42:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How does a Bitcoin exchange work?]]></title>
-            <description><![CDATA[<article><h1>How does a Bitcoin exchange work?</h1><p>Answer: Case 1 Let's say you own 1 Bitcoin on your own Cold Wallet . You now want to exchange said Bitcoin for USD using an exchange. You need to send this Bitcoin to the exchange's own wallet. This transaction will be visible on the Blockchain. The exchange will credit your exchange BTC acco...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
+            <description><![CDATA[<article><h1>How does a Bitcoin exchange work?</h1><p>Answer: Case 1 Let's say you own 1 Bitcoin on your own Cold Wallet . You now want to exchange said Bitcoin for USD using an exchange. You need to send this Bitcoin to the exchange's own wallet. This transaction will be visible on the Blockchain. The exchange will credit your exchange BTC acco...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
             <link>https://www.quora.com/How-does-a-Bitcoin-exchange-work-1</link>
             <guid isPermaLink="false">4e22594b-c56e-4ed5-af08-d0c4017101c9</guid>
             <pubDate>Thu, 28 Jul 2016 06:42:32 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>OK Google, SOS! Android to Send Location Data to First Responders</h1><p>Android will soon automatically send user location data to emergency response services. According to a blog post for Google Europe, users dialing emergency service numbers will be automatically located by using location services and WiFi, with that data transmitted to emergency responders.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dae9f48cf2f715f62b0cecfe4ebcfe46/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xYTNhYjQyNWM1M2RjMDA1MzE1MmU0MDNhN2UxNjU5MS5qcGc%3D.jpg"></article>]]></description>
             <link>https://cointelegraph.com/news/ok-google-sos-android-to-send-location-data-to-first-responders</link>
             <guid isPermaLink="false">59bff520-586c-4e40-b68f-58a4e74204ff</guid>
-            <pubDate>Thu, 28 Jul 2016 06:42:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Darknet Investigations Now a Priority, Says German Federal Police Chief]]></title>
-            <description><![CDATA[<article><h1>Darknet Investigations Now a Priority, Says German Federal Police Chief</h1><p>Investigations in the aftermath of the recent terror attack in Munich which saw nine people killed in a Munich shopping center on Friday will now see darknet markets under the scanner.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5ed075d7c7c417a031cd7b55fad054b0/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2015%2F12%2Fdarknet-image.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/darknet-investigations-prioritized/</link>
-            <guid isPermaLink="false">c85ccb78-9941-47e8-95f5-b0ebab8ff809</guid>
             <pubDate>Thu, 28 Jul 2016 06:42:31 GMT</pubDate>
         </item>
     </channel>
