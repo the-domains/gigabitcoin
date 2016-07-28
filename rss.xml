@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 14:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 14:23:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ethereum Fiasco Justifies Principled Decisions of Bitcoin Developers]]></title>
+            <description><![CDATA[<article><h1>Ethereum Fiasco Justifies Principled Decisions of Bitcoin Developers</h1><p>Ethereum, a network still in its infancy which was introduced on July 30, 2015, is already dealing with a major conflict amongst its community as a result of a hard fork which was implemented without the full consensus of the community.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f069370a13334192d46f9128d1858a7e/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy80NjcwZmY5OWU4OTEwNjAxZTljYTkyY2MwYzRlZGFkZi5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/ethereum-fiasco-justifies-principled-decisions-of-bitcoin-developers</link>
+            <guid isPermaLink="false">dbbc0440-6591-4a8f-b56d-a032779d4311</guid>
+            <pubDate>Thu, 28 Jul 2016 14:22:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Impact From Florida's 'Bitcoin Isn't Money' Ruling Could Be Limited - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Why Impact From Florida's 'Bitcoin Isn't Money' Ruling Could Be Limited - CoinDesk</h1><p>Stephen D Palley is a lawyer in private practice in Washington, DC, focusing on construction, insurance and software development, including blockchain and smart contract design. In this opinion piece, Pally argues that a recent court case in which bitcoin was deemed not be "money" has questionable precdential value despite claims to the contrary.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4b11cef245ff141016d8347e08107077/croprotate.jpg?cropheight=1038&cropwidth=1500&degrees=0&input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2Fbitcoin-computer-e1469668789555.jpg&x=0&y=0"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://forklog.net/ethereum-co-founder-supports-ethereum-classic/</link>
             <guid isPermaLink="false">327627d1-02d5-4b16-af51-abe3831ee32b</guid>
             <pubDate>Thu, 28 Jul 2016 06:42:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockstream Acquires Bitcoin Wallet to Boost Sidechains Development - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Blockstream Acquires Bitcoin Wallet to Boost Sidechains Development - CoinDesk</h1><p>Bitcoin infrastructure architect Blockstream has acquired wallet provider GreenAddress in a move the startup says could impact the development of its signature, still in-development sidechains solution. Following the acquisition, GreenAddress Wallet's team of three developers will continue to work on privacy and security bolstering features for the wallet as well as compatibility for sidechains, a bitcoin infrastructure component that Blockstream has raised $76m in two investment rounds to engineer.</p></article>]]></description>
-            <link>http://www.coindesk.com/blockstream-wallet-greenaddress-sidechains/</link>
-            <guid isPermaLink="false">4937ed2a-96c0-4675-91f6-75a9b785f3b8</guid>
-            <pubDate>Thu, 28 Jul 2016 06:42:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
