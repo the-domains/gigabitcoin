@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 06:44:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 06:44:03 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[New Study Reveals Bitcoin Economy Maturing to Mainstream Enterprise]]></title>
-            <description><![CDATA[<article><h1>New Study Reveals Bitcoin Economy Maturing to Mainstream Enterprise</h1><p>A team of economists from UCL Centre for Blockchain Technologies , Deutsche Bundesbank, University of Wisconsin and The New School have published a research paper titled " The Evolution of the Bitcoin Economy: Extracting and Analyzing the Network of Payment Relationships ."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1b34e8285673866e7aacd68a8c69949f/noop.jpg?input=http%3A%2F%2Fweb.archive.org%2Fweb%2F20160629180553%2Fhttp%3A%2F%2Fwww.nasdaq.com%2Freference%2Fhiresphotos%2Fnews-photos%2Fbitcoin%2F325x200%2Fbitcoin76.jpg"></article>]]></description>
-            <link>http://www.nasdaq.com/article/new-study-reveals-bitcoin-economy-maturing-to-mainstream-enterprise-cm655876</link>
-            <guid isPermaLink="false">5de7b44f-7106-4838-8915-cf258bc60886</guid>
-            <pubDate>Thu, 28 Jul 2016 06:42:29 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[bitcoind and onion listening]]></title>
             <description><![CDATA[<article><h1>bitcoind and onion listening</h1><p>I would like to get Bitcoind to advertise that it is listening on an onion address. However, I do not want to have Bitcoind use a tor socks proxy to connect. I have a special router for tor conne...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Bitcoin investment vehicles</h1><p>Regulated investment vehicles allows regulated investors, like banks and pension funds, to invest to the underlying assets. All terms, fees, transaction clearing times and such are upfront available in BitcoinETI prospectus. Fees generally go towards the asset management processes to ensure integrity and trust of the investment vehicle and prevent Mt.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/46758/bitcoin-investment-vehicles</link>
             <guid isPermaLink="false">d837c4ff-5580-4837-a2b4-1cf391d99293</guid>
+            <pubDate>Thu, 28 Jul 2016 06:42:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Loyyal Creates Blockchain-Style 'Internet of Loyalty' in Dubai]]></title>
+            <description><![CDATA[<article><h1>Loyyal Creates Blockchain-Style 'Internet of Loyalty' in Dubai</h1><p>Dubai is set to host the world's first blockchain loyalty program with the launch of Loyyal, an umbrella scheme aimed at uniting many rewards programs under one banner. Also read: BitOasis Funding Boosts Blockchain Prospects in the Middle East In concert with the Dubai national government, Loyyal will use an "unbundled" blockchain to provide value transfer between loyalty scheme participants.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f7a485f54b0c7e3a8b63f4651ad5af94/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FDubai-Beach.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/loyyal-internet-loyalty-dubai/</link>
+            <guid isPermaLink="false">f92ba847-8e87-4d5f-861e-3f323c3cb6de</guid>
             <pubDate>Thu, 28 Jul 2016 06:42:27 GMT</pubDate>
         </item>
     </channel>
