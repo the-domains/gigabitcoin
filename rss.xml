@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 06:44:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 06:44:18 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[ItBit Hit With String of Departures in Bitcoin-to-Blockchain Transition - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>ItBit Hit With String of Departures in Bitcoin-to-Blockchain Transition - CoinDesk</h1><p>A series of recent departures at itBit have left the company looking much different than it did just a few months ago. Following the release of itBit's enterprise clearing and settlement network Bankchain last year, three directors (and at least three other employees) have gone on to other endeavors.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ddb1f5114b98212c780a9c8e3fef6037/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2Fdeparture-airplain-e1469647343241.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/itbit-exodus-populating-startups-blockchain-expertise/</link>
-            <guid isPermaLink="false">4571c384-2990-4e5a-b644-59e1b3a2e6e3</guid>
-            <pubDate>Thu, 28 Jul 2016 06:42:29 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Blockstream buys bitcoin wallet software provider GreenAddress]]></title>
             <description><![CDATA[<article><h1>Blockstream buys bitcoin wallet software provider GreenAddress</h1><p>Source: Blockstream We're pleased to announce that we've acquired GreenAddress, a leading bitcoin wallet software provider based in Europe. GreenAddress has a demonstrated track record of delivering an industry-leading product that prioritizes security, privacy and convenience. GreenAddress's excellent reputation is the product of a three-person team with a deep commitment to Bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ed3e85169efd9cab7a03a0a86d8fb383/noop.jpg?input=https%3A%2F%2Fwww.finextra.com%2Fabout%2Ffinextratweetbot.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://www.reddit.com/r/Bitcoin/comments/4txus8/hard_fork_proposal_my_marriage_contract_was/</link>
             <guid isPermaLink="false">9225c041-f716-4c27-a832-d63a49a5273a</guid>
             <pubDate>Thu, 28 Jul 2016 06:42:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blockstream Acquires GreenAddress, Bitcoin Wallet Software Provider]]></title>
+            <description><![CDATA[<article><h1>Blockstream Acquires GreenAddress, Bitcoin Wallet Software Provider</h1><p>Addition of Multi-Platform Wallet and Strong Development Team Strengthens Blockstream's Sidechain Platform We're pleased to announce that we've acquired GreenAddress, a leading bitcoin wallet software provider based in Europe. GreenAddress has a demonstrated track record of delivering an industry-leading product that prioritizes security, privacy and convenience.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/371742ab2f83c751d09f1da54a6ee380/noop.jpg?input=https%3A%2F%2Fwww.blockstream.com%2Fwp-content%2Fuploads%2F2014%2F10%2Fb_adam1-150x150.jpg"></article>]]></description>
+            <link>https://blockstream.com/2016/07/27/blockstream-greenaddress-acquisition/</link>
+            <guid isPermaLink="false">b05f7093-be56-4fac-86e6-49f2f0e6b00e</guid>
+            <pubDate>Thu, 28 Jul 2016 06:42:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
