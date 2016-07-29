@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 14:26:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 14:26:13 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How have fungiblity problems affected you in Bitcoin? * /r/Bitcoin]]></title>
+            <description><![CDATA[<article><h1>How have fungiblity problems affected you in Bitcoin? * /r/Bitcoin</h1><p>Privacy and fungiblity are essential components for any money-like system. Without them, your transactions leak information about your...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
+            <link>https://www.reddit.com/r/Bitcoin/comments/4v28jl/how_have_fungiblity_problems_affected_you_in/</link>
+            <guid isPermaLink="false">22eece78-7dc5-4eac-86e1-75a8350fa55e</guid>
+            <pubDate>Fri, 29 Jul 2016 14:23:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ethereum Users Plot 51% Attack on ETC: Has It Gone Too Far?]]></title>
             <description><![CDATA[<article><h1>Ethereum Users Plot 51% Attack on ETC: Has It Gone Too Far?</h1><p>As tensions between the Ethereum Core and Classic communities heat up, some rogue ETH users see the opportunity to 51% attack their new competitor. Also read: Ethereum Creator: Interest in ETC 'Coming From the Bitcoin Side' Going by the pseudonym of Seanz123, the pro-ETH Core user and alleged miner began promoting the idea of a 51% attack against ETC on the forums late on July 27.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/af1981db6f4b96f616bfeafc0bee2102/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FEthereum-world.jpg"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[How do you build an application using blockchain technology?]]></title>
-            <description><![CDATA[<article><h1>How do you build an application using blockchain technology?</h1><p>Answer: As this is to much information to answer in a single post, I will try sharing a link. Hopefully QUORA will support you by allowing you to see this link below. The Best Resources for Learning to Build Bitcoin and Block Chain Applications - ZapChain Magazine</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
+            <description><![CDATA[<article><h1>How do you build an application using blockchain technology?</h1><p>Answer: As this is to much information to answer in a single post, I will try sharing a link. Hopefully QUORA will support you by allowing you to see this link below. The Best Resources for Learning to Build Bitcoin and Block Chain Applications - ZapChain Magazine</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
             <link>https://www.quora.com/How-do-you-build-an-application-using-blockchain-technology</link>
             <guid isPermaLink="false">302bd0e7-ede2-41b2-ba62-927812e324ed</guid>
             <pubDate>Fri, 29 Jul 2016 14:23:56 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Beware of The Latest Blockchain.info Phishing Attack</h1><p>It appears as if there is yet another phishing email being sent out to Blockchain.info users. It is not the first time this takes place in the Bitcoin world, as cryptocurrency owners are a high-profile target for internet criminals these days. The email in question redirects people to Blockshain.info, which is clearly a fake website.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/35ee0fb6c2c441613d94034dfd95505d/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_340224434.jpg"></article>]]></description>
             <link>http://themerkle.com/beware-of-the-latest-blockchain-info-phishing-attack/</link>
             <guid isPermaLink="false">5c804657-1852-4ffc-a8ee-67865f9120b9</guid>
-            <pubDate>Fri, 29 Jul 2016 14:23:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EU wants to create a database of Bitcoin users]]></title>
-            <description><![CDATA[<article><h1>EU wants to create a database of Bitcoin users</h1><p>The end of anonymity for Bitcoin users may be fast approaching as the EU has put forth a proposal that would require anyone using the cryptocurrency in the member states to register on a database.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c89a481b91141a6e9e11bf1d2d12134e/noop.jpg?input=http%3A%2F%2Fbetanews.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fbitcoin-wallet.jpg"></article>]]></description>
-            <link>http://betanews.com/2016/07/29/eu-bitcoin-user-database/</link>
-            <guid isPermaLink="false">887cdb45-65f1-4c4b-8756-695c887e07ae</guid>
             <pubDate>Fri, 29 Jul 2016 14:23:55 GMT</pubDate>
         </item>
     </channel>
