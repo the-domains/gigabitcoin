@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 14:28:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 14:28:14 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is it possible to know the total hashpower backing a currency?]]></title>
+            <description><![CDATA[<article><h1>Is it possible to know the total hashpower backing a currency?</h1><p>There are really two different measurements you have to be concerned with for a particular blockchain: The current difficulty (how much hashing power is currently going into single blocks) The total chainwork of the blockchain or fork of a blockchain The current difficulty is a function of the current target.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46760/is-it-possible-to-know-the-total-hashpower-backing-a-currency</link>
+            <guid isPermaLink="false">e8bd4db1-ba4d-4944-955a-8209b39260ad</guid>
+            <pubDate>Fri, 29 Jul 2016 14:24:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PSA: Do not use an SPV/Lite client to receive high risk transactions. They do not fully verify incoming funds. * /r/Bitcoin]]></title>
+            <description><![CDATA[<article><h1>PSA: Do not use an SPV/Lite client to receive high risk transactions. They do not fully verify incoming funds. * /r/Bitcoin</h1><p>2 points and 143 comments so far on reddit</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/edb4fc568d5c6b880df4906eb0772092/croprotate.jpg?cropheight=216&cropwidth=152&degrees=0&input=https%3A%2F%2Fi.redditmedia.com%2F4xFezp8qybWigpg6WN5gkAuI39AIPdv4jdHijFU4_ns.jpg%3Fw%3D216%26s%3D2b93b2bba7126deaf4c5799d7fca65f7&x=32&y=0"></article>]]></description>
+            <link>https://np.reddit.com/r/Bitcoin/comments/4uybla/psa_do_not_use_an_spvlite_client_to_receive_high/</link>
+            <guid isPermaLink="false">11f96021-a13f-4549-b1c2-dd9588fd1eee</guid>
+            <pubDate>Fri, 29 Jul 2016 14:24:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Probably time to admit that @adam3us @blockstream & Bitcoin Core devs were inconvenient champions to hold the line on the classic hard fork.</p>]]></description>
@@ -61,20 +75,6 @@
             <link>https://cointelegraph.com/news/bitcoin-shower-for-razormind-3000-btc-after-one-week-of-crowdsale</link>
             <guid isPermaLink="false">63c5b081-ff4a-4ec9-99eb-b13c7ad05a80</guid>
             <pubDate>Fri, 29 Jul 2016 14:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="https://media.giphy.com/media/3o6UBpHgaXFDNAuttm/giphy.gif"></article>]]></description>
-            <link>https://media.giphy.com/media/3o6UBpHgaXFDNAuttm/giphy.gif</link>
-            <guid isPermaLink="false">560b929b-7433-4c40-8739-b55a2537a5a4</guid>
-            <pubDate>Fri, 29 Jul 2016 14:23:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoinocracy - Signed by 1KwA4fS4uVuCNjCtMivE7m5ATbv93UZg8V]]></title>
-            <description><![CDATA[<article><h1>Bitcoinocracy - Signed by 1KwA4fS4uVuCNjCtMivE7m5ATbv93UZg8V</h1></article>]]></description>
-            <link>http://bitcoinocracy.com/addresses/1KwA4fS4uVuCNjCtMivE7m5ATbv93UZg8V</link>
-            <guid isPermaLink="false">1de92073-fa9d-46e3-810a-8428d72c2394</guid>
-            <pubDate>Fri, 29 Jul 2016 14:23:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
