@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 14:24:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 14:24:53 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BTC-e Calls Ethereum Classic a Scam]]></title>
+            <description><![CDATA[<article><h1>BTC-e Calls Ethereum Classic a Scam</h1><p>This is quite an interesting statement, as BTC-E claims their users have transferred their own ETC funds to the Poloniex exchange. The world of cryptocurrency seems very divided when it comes to Ethereum and Ethereum Classic right now. Cryptocurrency exchange BTC-e went as far as calling Ethereum Classic a"scam," as they have no plans to support it.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7072c4b288466c8ba43c0f72ae3880f9/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F29100004%2Fshutterstock_409681105-825x510.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/29/btc-e-calls-ethereum-classic-scam/</link>
+            <guid isPermaLink="false">fa830257-d657-445f-8d3d-824921cf06fb</guid>
+            <pubDate>Fri, 29 Jul 2016 14:23:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin average cost/transaction: $0.14. Ethereum: half a cent. Bitcoin median 1st confirmation time: 12 minutes. Ethereum: 12 seconds. * /r/btc]]></title>
             <description><![CDATA[<article><h1>Bitcoin average cost/transaction: $0.14. Ethereum: half a cent. Bitcoin median 1st confirmation time: 12 minutes. Ethereum: 12 seconds. * /r/btc</h1><p>Sources: https://bitcoinfees.21.co/ https://blockchain.info/charts/median-confirmation-time Ethereum A transaction I did today,...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Merkle tree structure for 9 transactions</h1><p>I've been reading the developers documentation, other sources and the good books about Bitcoin. But none of the resources shows a merkle tree with 5 or more leafs. I'm confused, does the bitcoin core</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/46767/merkle-tree-structure-for-9-transactions</link>
             <guid isPermaLink="false">7ad09bfa-6fc8-4468-9d7b-496a8734c65c</guid>
-            <pubDate>Fri, 29 Jul 2016 14:23:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stampery Drops Forked Ethereum Blockchain Support Due To Censorship Concerns]]></title>
-            <description><![CDATA[<article><h1>Stampery Drops Forked Ethereum Blockchain Support Due To Censorship Concerns</h1><p>More and more companies are openly showing their support for Ethereum Classic. To the majority of enterprises in the cryptocurrency world, supporting ETC may not make much sense. But Stampery feels there is a good reason to support the pre-hard fork Ethereum initiative. After all, the company wants to let anyone create verifiable records of their data.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/119f2969a911715264b7d5e4bc4a1c77/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_170961791.jpg"></article>]]></description>
-            <link>http://themerkle.com/stampery-drops-forked-ethereum-blockchain-support-due-to-censorship-concerns/</link>
-            <guid isPermaLink="false">4d95fb57-2a56-4a57-80e8-bc384ad988a3</guid>
             <pubDate>Fri, 29 Jul 2016 14:23:53 GMT</pubDate>
         </item>
     </channel>
