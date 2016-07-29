@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 14:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 14:24:25 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Merkle tree structure for 9 transactions]]></title>
+            <description><![CDATA[<article><h1>Merkle tree structure for 9 transactions</h1><p>I've been reading the developers documentation, other sources and the good books about Bitcoin. But none of the resources shows a merkle tree with 5 or more leafs. I'm confused, does the bitcoin core</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46767/merkle-tree-structure-for-9-transactions</link>
+            <guid isPermaLink="false">7ad09bfa-6fc8-4468-9d7b-496a8734c65c</guid>
+            <pubDate>Fri, 29 Jul 2016 14:23:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stampery Drops Forked Ethereum Blockchain Support Due To Censorship Concerns]]></title>
+            <description><![CDATA[<article><h1>Stampery Drops Forked Ethereum Blockchain Support Due To Censorship Concerns</h1><p>More and more companies are openly showing their support for Ethereum Classic. To the majority of enterprises in the cryptocurrency world, supporting ETC may not make much sense. But Stampery feels there is a good reason to support the pre-hard fork Ethereum initiative. After all, the company wants to let anyone create verifiable records of their data.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/119f2969a911715264b7d5e4bc4a1c77/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_170961791.jpg"></article>]]></description>
+            <link>http://themerkle.com/stampery-drops-forked-ethereum-blockchain-support-due-to-censorship-concerns/</link>
+            <guid isPermaLink="false">4d95fb57-2a56-4a57-80e8-bc384ad988a3</guid>
+            <pubDate>Fri, 29 Jul 2016 14:23:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Researchers Claim Bitcoin's Blockchain Can Be Secured Even if 51% of Miners Are Malicious]]></title>
+            <description><![CDATA[<article><h1>Researchers Claim Bitcoin's Blockchain Can Be Secured Even if 51% of Miners Are Malicious</h1><p>One of the fundamental assumptions of blockchains, whether public or private, is that 51% of actors, especially miners, are honest. Logically, the more actors there are, the more the assumption stands. However, numerous bitcoin developers, including Gregory Maxwell, Peter Todd, Luke-Jr and others, have stated that bitcoin mining is centralized in two or three individuals.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/505963061783516502387ebe0a661e9a/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F06%2FBitcoin-nw.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/researchers-bitcoin-blockchain-secured-inspite-of-51-attack/</link>
+            <guid isPermaLink="false">c9d5ec76-d95c-4843-a6b1-53706284acbe</guid>
+            <pubDate>Fri, 29 Jul 2016 14:23:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[US Senators Seek Blockchain Guidance From CFPB, Federal Reserve in FinTech Letter - CoinDesk]]></title>
             <description><![CDATA[<article><h1>US Senators Seek Blockchain Guidance From CFPB, Federal Reserve in FinTech Letter - CoinDesk</h1><p>Twenty-two US senators have sent a leader to senior government officials and the Federal Reserve requesting information about the regulation and oversight of virtual currencies and blockchain tech. In a letter dated 21st July, the US Senate Committee on Banking, Housing and Urban Affairs wrote that it is seeking to "better understand the way US regulators oversee FinTech and their relationships with federally regulated financial institutions".</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/332ba5ce54b28aec2ec3463dfb3396de/croprotate.jpg?cropheight=947&cropwidth=1500&degrees=0&input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2Fquill-letter-e1469798026140.jpg&x=0&y=0"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>https://nakedsecurity.sophos.com/2016/07/27/is-bitcoin-real-money-florida-judge-says-no/</link>
             <guid isPermaLink="false">85498efb-eeb6-4a2c-90de-a7401405529e</guid>
             <pubDate>Thu, 28 Jul 2016 14:22:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Traders Should Explore Foreign Exchange Arbitrage Opportunities]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Traders Should Explore Foreign Exchange Arbitrage Opportunities</h1><p>Arbitrage in the cryptocurrency world is nothing new under the sun, as various exchanges seem to maintain different prices. However, these gaps are usually a few dollars worth at best. That situation has come to change, as trading Bitcoin or other cryptocurrencies against particular fiat currencies may prove to be far more lucrative than anticipated.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/27d34f738e62afc31821524bbd8f27ed/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_402275173.jpg"></article>]]></description>
-            <link>http://themerkle.com/bitcoin-traders-should-explore-foreign-exchange-arbitrage-opportunities/</link>
-            <guid isPermaLink="false">ad7d5dc6-34f2-4107-82cf-304c85c59329</guid>
-            <pubDate>Thu, 28 Jul 2016 14:22:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Here's Today's Focus - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Here's Today's Focus - NEWSBTC</h1><p>Here's a look at what we are focusing on in the bitcoin price this morning. A look at the daily chart reveals the frustration we've experienced across the last couple of weeks in the bitcoin price. It shows the difference between action throughout May, June and Early-July, and action seen across the last ten to fourteen days.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/52e7e625c8485fb90b965f63161adbfd/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F28084611%2FScreen-Shot-2016-07-28-at-09.43.33.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/28/bitcoin-price-watch-heres-todays-focus/</link>
-            <guid isPermaLink="false">abe854cf-9f8e-463b-b6e6-047dae480c13</guid>
-            <pubDate>Thu, 28 Jul 2016 14:22:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum Classic Price Technical Analysis - Final Showdown - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Ethereum Classic Price Technical Analysis - Final Showdown - NEWSBTC</h1><p>Ethereum classic price may have tempted a few investors, but in my view, it must get stable first before putting money into it. Ethereum classic price may have tempted a few investors, but in my view, it must get stable first before putting money into it.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e76f31e8a294a4cb8e3b03f48fd66e30/croprotate.png?cropheight=906&cropwidth=1816&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F28070957%2FEthereum-Classic.png&x=3&y=0"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/07/28/ethereum-classic-price-technical-analysis-final-showdown/</link>
-            <guid isPermaLink="false">96ebfa59-d88c-4069-81eb-ad59ca45f45a</guid>
-            <pubDate>Thu, 28 Jul 2016 14:22:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
