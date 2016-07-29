@@ -4,11 +4,18 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 14:28:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 14:28:27 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[How can AI be used in conjunction with blockchain technology and what are the potential implications?]]></title>
+            <description><![CDATA[<article><h1>How can AI be used in conjunction with blockchain technology and what are the potential implications?</h1><p>In my experience, there are five kinds of vegetarians:1) Religious vegetarians (Hindu, Jain, 7th Day Adventist, others)2) Ethical vegetarians (either due to animal deaths, or expense of raising meat)3) Health-based ("meat isn't so good for you")4) "I don't like meat"5) Trendy veggies (who will usually claim to be #1 ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/How-can-AI-be-used-in-conjunction-with-blockchain-technology-and-what-are-the-potential-implications</link>
+            <guid isPermaLink="false">4216f146-dff4-4487-bf52-6a0553de2f1d</guid>
+            <pubDate>Fri, 29 Jul 2016 14:24:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How does forking work on Ethereum?]]></title>
-            <description><![CDATA[<article><h1>How does forking work on Ethereum?</h1><p>Answer: First of all, a fork occurs when there are two versions of the software that maintains the ledger and they have different rules. On Ethereum this happened when a state change was added in block 1,920,000. This moved some funds from one smart contract to another. A part of the community d...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cd474c39b6a3668a6d6b037b6b291dca/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.pnge6dde9cfa6e03c43.png"></article>]]></description>
+            <description><![CDATA[<article><h1>How does forking work on Ethereum?</h1><p>Answer: First of all, a fork occurs when there are two versions of the software that maintains the ledger and they have different rules. On Ethereum this happened when a state change was added in block 1,920,000. This moved some funds from one smart contract to another. A part of the community d...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
             <link>https://www.quora.com/How-does-forking-work-on-Ethereum</link>
             <guid isPermaLink="false">5076447e-e45f-4294-8276-641cc7bb6fb0</guid>
             <pubDate>Fri, 29 Jul 2016 14:24:01 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Ethereum Classic: Ethereum's New Ethereum Explained - CoinDesk</h1><p>What started as an attempt to rescue investor funds in a high-profile project has resulted in a schism that has effectively split the community on the second-largest public blockchain. The split is not only psychological. Thanks to the design of public blockchain systems, it is also technical, with competing visions manifesting in two very real blockchains, or versions of the project's transaction history.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9dd08b57fcaa0fad00a9e09d76dec5c3/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2Fbaby-babies-e1469725254895.jpg"></article>]]></description>
             <link>http://www.coindesk.com/ethereum-classic-explained-blockchain/</link>
             <guid isPermaLink="false">8c151990-9224-4dd6-9c44-849887e4baa0</guid>
-            <pubDate>Fri, 29 Jul 2016 14:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On Relay: How Different Bitcoin Developers Are Speeding Up the Network (Part 1)]]></title>
-            <description><![CDATA[<article><h1>On Relay: How Different Bitcoin Developers Are Speeding Up the Network (Part 1)</h1><p>Bitcoin is designed as a peer-to-peer network, where nodes randomly connect to other nodes. Transactions and blocks are transmitted over this network by these nodes, until each has received all. This works quite well, as the distributed model makes Bitcoin relatively censorship-resistant; there is no central point of control to shut down or pressure into compliance.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/917001873ba54662878e7942e25d46ee/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fon-relay-how-different-bitcoin-developers-are-speeding-up-the-network-part.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/on-relay-how-different-bitcoin-developers-are-speeding-up-the-network-part-1469724479</link>
-            <guid isPermaLink="false">b342be90-b831-470d-b021-604ce3b94a20</guid>
             <pubDate>Fri, 29 Jul 2016 14:24:00 GMT</pubDate>
         </item>
     </channel>
