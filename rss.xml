@@ -4,8 +4,64 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jul 2016 21:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2016 21:20:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How Falcon, FIBRE and the Fast Relay Network Speed Up Bitcoin Block Propagation (Part 2)]]></title>
+            <description><![CDATA[<article><h1>How Falcon, FIBRE and the Fast Relay Network Speed Up Bitcoin Block Propagation (Part 2)</h1><p>Bitcoin is designed as a peer-to-peer network, where nodes randomly connect to other nodes. Transactions and blocks are transmitted over this network by these nodes, until each has received all. This works quite well, as the distributed model makes Bitcoin relatively censorship-resistant; there is no central point of control to shut down or pressure into compliance.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bb689022602467bde87add6309ca368e/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fhow-falcon-fibre-and-the-fast-relay-network-speed-up-bitcoin-block-propagation-part.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/how-falcon-fibre-and-the-fast-relay-network-speed-up-bitcoin-block-propagation-part-1469808784</link>
+            <guid isPermaLink="false">07bd581f-a910-48a5-b9b5-720beba81b32</guid>
+            <pubDate>Sat, 30 Jul 2016 21:17:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[French Minister to Speak at 'Parliamentary Blockchain Forum' in Paris - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>French Minister to Speak at 'Parliamentary Blockchain Forum' in Paris - CoinDesk</h1><p>The Parliamentary Blockchain Forum will be held on 4th October at the Maison de la chimie, a conference site located near the French National Assembly, the lower house of the country's legislature. French Minister for Digital Affairs Axelle Lemaire will give closing remarks, an appearance confirmed by the French Finance Ministry when reached.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b00f6d96bd45bac72ed2b521002fe902/croprotate.png?cropheight=837&cropwidth=1500&degrees=0&input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2FScreen-Shot-2016-07-29-at-12.17.18-PM-e1469809213864.png&x=0&y=0"></article>]]></description>
+            <link>http://www.coindesk.com/french-minister-paris-blockchain-event/</link>
+            <guid isPermaLink="false">93bc7453-f67a-44dc-b7e6-3e9a10b998c7</guid>
+            <pubDate>Sat, 30 Jul 2016 21:17:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Are there any PHP frameworks for building bitcoin based blockchain apps?]]></title>
+            <description><![CDATA[<article><h1>Are there any PHP frameworks for building bitcoin based blockchain apps?</h1><p>We called it the Delivery System. It was Liver Night. It was my idea. My seven brothers and sisters and I planned in advance. Mom, Dad and the baby sat to the left of one another. I was at the left of the baby.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/Are-there-any-PHP-frameworks-for-building-bitcoin-based-blockchain-apps</link>
+            <guid isPermaLink="false">85c178c5-8052-4819-870a-1d826a6cec1c</guid>
+            <pubDate>Sat, 30 Jul 2016 21:17:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Mixer: How to Secure Your Identity]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Mixer: How to Secure Your Identity</h1><p>Bitcoin was designed as an anonymous and decentralized currency. But transactions are never truly anonymous, as they are recorded and available on the Blockchain - the distributed ledger which keeps a record of every Bitcoin transaction. When you use Bitcoin to pay for goods and services, you need to provide your name and address to the seller for delivery purposes.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f7b7b02ca21e65b6afa3b74c14f6138f/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iNWZhNTgxMzZjMjM1ZDA0OTE3MDIzM2NkMjU1OTk5Zi5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/bitcoin-mixer-how-to-secure-your-identity</link>
+            <guid isPermaLink="false">12c0dffb-331d-4aab-980a-c2b3a20bf4d0</guid>
+            <pubDate>Sat, 30 Jul 2016 21:17:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I am considering learning all about Ethereum. Will going to the up-and-coming Devcon2 the best and the fastest way to learn Ethereum?]]></title>
+            <description><![CDATA[<article><h1>I am considering learning all about Ethereum. Will going to the up-and-coming Devcon2 the best and the fastest way to learn Ethereum?</h1><p>Nightclubs I am so glad I'm out of my college years and I don't have to pretend to like going clubbing anymore. It took forever to get ready, you'd have to wait in line in the freezing cold, the music was usually awful, you'd have guys pawing at you constantly, the lines for the bathrooms were horrendously long and you can't even hear yourself think.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/I-am-considering-learning-all-about-Ethereum-Will-going-to-the-up-and-coming-Devcon2-the-best-and-the-fastest-way-to-learn-Ethereum</link>
+            <guid isPermaLink="false">98fd0315-ae92-405e-ba0e-d843e429d52f</guid>
+            <pubDate>Sat, 30 Jul 2016 21:17:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BTC-e Officially Calls Ethereum Classic a Scam]]></title>
+            <description><![CDATA[<article><h1>BTC-e Officially Calls Ethereum Classic a Scam</h1><p>One of the world's biggest cryptocurrency exchanges BTC-e has called Ethereum's alternative token ETC a scam in its official statement. The exchange's full statement reads: "Dear Clients! BTC-e's official standpoint on this issue is as follows: Ethereum Classic in the current circumstances is a scam.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/de11b3337fbbdb89bd4a2473a6db6e96/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F04%2Fbitcoinnews06.png"></article>]]></description>
+            <link>http://forklog.net/btc-e-officially-calls-ethereum-classic-a-scam/</link>
+            <guid isPermaLink="false">fbde9a8c-be25-4292-b72d-e3d1e6c3d0fa</guid>
+            <pubDate>Sat, 30 Jul 2016 21:17:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Watch; Profit Taken! - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Watch; Profit Taken! - NEWSBTC</h1><p>Here's a look at what we are focusing on in the bitcoin price this evening. In this morning's bitcoin price analysis, we mixed things up a little bit, and went with a variation on our standard strategy.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8b216235eb0541c3f2752be02e00ecf9/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F29182745%2FScreen-Shot-2016-07-29-at-19.01.392.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/29/34110/</link>
+            <guid isPermaLink="false">b9af0685-f548-44a7-a5e3-40ee6fe49cf4</guid>
+            <pubDate>Sat, 30 Jul 2016 21:17:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Time To Spend Bitcoin During The Steam VR Sale Weekend]]></title>
+            <description><![CDATA[<article><h1>Time To Spend Bitcoin During The Steam VR Sale Weekend</h1><p>Gamers who happen to be Bitcoin enthusiasts may want to close attention to the Steam platform this weekend. With 175 different virtual reality games going on sale this weekend, there are plenty of bargains to be scored. As Steam accepts Bitcoin payments since a few months, this is a great moment to put cryptocurrency on the map in the gaming sector.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b030d8f55e65c030f10b5b7a068a13b7/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_390641047.jpg"></article>]]></description>
+            <link>http://themerkle.com/time-to-spend-bitcoin-during-the-steam-vr-sale-weekend/</link>
+            <guid isPermaLink="false">53b2d6a3-8d71-4675-b740-596706ddfe08</guid>
+            <pubDate>Sat, 30 Jul 2016 21:17:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Zcash Delays Untraceable Cryptocurrency for Additional Code Audits - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Zcash Delays Untraceable Cryptocurrency for Additional Code Audits - CoinDesk</h1><p>The launch of the genesis block for a new cryptocurrency designed to make real the anonymity once thought to be offered by bitcoin has been delayed once again. Zooko Wilcox, early cypherpunk and founder of anonymous cryptocurrency startup Zcash, told CoinDesk yesterday that his startup will likely be pushing back the mining of its blockchain in order to give multiple third-party auditors the time to perform an in-depth code analysis.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d9e23a671cf94df2e1c32d31283f9c23/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2FIMG_2044.jpg"></article>]]></description>
@@ -19,62 +75,6 @@
             <link>https://cointelegraph.com/news/byrne-is-back-overstocks-bitcoin-friendly-ceo-returns-to-company</link>
             <guid isPermaLink="false">250bf548-ce7f-413a-a9e1-aa02ed638f7f</guid>
             <pubDate>Sat, 30 Jul 2016 21:17:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Helicopter Money: Bigger Threat to Currencies Than QE?]]></title>
-            <description><![CDATA[<article><h1>Helicopter Money: Bigger Threat to Currencies Than QE?</h1><p>Quantitative Easing (QE) has so far not produced the runaway inflation some predicted. But before you start feeling comfortable about fiat currency again, central planners have another trick in store, i.e. "helicopter money," a term that's back in vogue thanks to a country that has tried almost everything to stimulate its economy: Japan.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/88b622ce5993bab9327937c6a29faa66/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FHELICOPTER-MONEY-DROP.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/helicopter-money-threat-currencies-qe/</link>
-            <guid isPermaLink="false">9242ba94-05b7-486a-bddf-1adfe7cdd0d3</guid>
-            <pubDate>Sat, 30 Jul 2016 21:17:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Year-long Malvertising Campaign Finally Comes To An End]]></title>
-            <description><![CDATA[<article><h1>Year-long Malvertising Campaign Finally Comes To An End</h1><p>Malvertising is quickly becoming a new trend among hackers and other internet criminals A new attack was recently discovered by security experts, even though the campaign had been running for over a year. With several million hits per day, this was one of the most successful malvertising actions to date.Various types of malware, including ransomware, were spread to unsuspecting users during this time.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f6f783c9d59cd83913cf571fe1c24c48/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fshutterstock_400915399.jpg"></article>]]></description>
-            <link>http://themerkle.com/year-long-malvertising-campaign-finally-comes-to-an-end/</link>
-            <guid isPermaLink="false">7d16beca-9f2b-4aa2-9057-147a3f172e07</guid>
-            <pubDate>Sat, 30 Jul 2016 21:17:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rise of Replay Attacks Intensifies Ethereum Divide - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Rise of Replay Attacks Intensifies Ethereum Divide - CoinDesk</h1><p>The unintended consequences of the ethereum hard fork, and the growing interest among users in having two competing ethereum networks, continued to mount this week as new problems became apparent due to the ongoing popularity of the alternative network.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/071658f48939bdf9cc92187552ec0eb1/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2FBoiling-Water.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/rise-replay-attacks-ethereum-divide/</link>
-            <guid isPermaLink="false">6e705b59-b19a-4846-8072-5326bfde2ca9</guid>
-            <pubDate>Sat, 30 Jul 2016 21:17:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin multi-sign and the amount of storage it required]]></title>
-            <description><![CDATA[<article><h1>Bitcoin multi-sign and the amount of storage it required</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/46778/bitcoin-multi-sign-and-the-amount-of-storage-it-required</link>
-            <guid isPermaLink="false">815c6252-b624-42df-b740-3ca63869cef0</guid>
-            <pubDate>Sat, 30 Jul 2016 21:17:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase CEO Admits There Could Be Bugs in Ethereum Hard fork, Celebrates Combined Value of ETH and ETC]]></title>
-            <description><![CDATA[<article><h1>Coinbase CEO Admits There Could Be Bugs in Ethereum Hard fork, Celebrates Combined Value of ETH and ETC</h1><p>Brian Armstrong, founder and CEO of Coinbase, admitted on Twitter last week there could still be bugs in the Ethereum DAO. This comes after various tweets encouraging the hard fork as a means of updating blockchain systems. "My hope is to see hard forks as an elegant upgrade/voting mechanism, not something to be feared that results in multiple coins," Armstrong wrote on the popular social media platform.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ef7308a72975abd24bf25647d02cdf7c/noop.png?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FEthereum.png"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/coinbase-eth-etc/</link>
-            <guid isPermaLink="false">f113ed9c-b857-45b7-ac00-ff1f4bb6b86e</guid>
-            <pubDate>Sat, 30 Jul 2016 21:17:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is bitcoin dying (July 2016)?]]></title>
-            <description><![CDATA[<article><h1>Is bitcoin dying (July 2016)?</h1><p>Answer (1 of 2): No. It's doing very well, and is getting ready for another melt up. * Business models are being discovered based on cryptocurrencies. The most important being IMO the OpenBazaar. It allows everybody to be it's own ebay without the fess. I think most of OpenBazaar success will c...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
-            <link>https://www.quora.com/Is-bitcoin-dying-July-2016</link>
-            <guid isPermaLink="false">14a66dea-4742-42e6-8c87-869a63f2cff0</guid>
-            <pubDate>Sat, 30 Jul 2016 21:17:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Bitcoin Economy 'Has Grown and Matured,' Study Reveals]]></title>
-            <description><![CDATA[<article><h1>The Bitcoin Economy 'Has Grown and Matured,' Study Reveals</h1><p>Researchers have recently published a Also read: Vancouver Real Estate Tax Hike May Drive More Chinese to Bitcoin paper called "The Evolution of the Bitcoin Economy: Extracting and Analyzing the Network of Payment Relationships," which explains how the Bitcoin protocol is maturing.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/688fa1710f17b9f52c99c338691b0a66/croprotate.jpg?cropheight=770&cropwidth=1290&degrees=0&input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fhourglass.jpg&x=0&y=0"></article>]]></description>
-            <link>https://news.bitcoin.com/study-bitcoin-economy-matured/</link>
-            <guid isPermaLink="false">4fe5bed8-aa3f-4c5d-8564-e6cb7af37a6c</guid>
-            <pubDate>Sat, 30 Jul 2016 21:17:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Move Over Pokemon: AR Game 'Takara' Gives Players Real Money]]></title>
-            <description><![CDATA[<article><h1>Move Over Pokemon: AR Game 'Takara' Gives Players Real Money</h1><p>Forget Pokémon GO (please) - real-life bitcoin collecting game Takara has added support for Counterparty assets. That means you can now pick up an almost-unlimited array of tokens and digital trinkets as you walk around. Also read: Lisk Community Continues Developing Ecosystem Tools, Services Takara, which at this stage is iOS-only, means "treasure" in Japanese.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/540eaafa683fcd65b2d8a6822d3b193f/croprotate.jpg?cropheight=819&cropwidth=969&degrees=0&input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F07%2FTakara-1024x819.jpg&x=24&y=0"></article>]]></description>
-            <link>http://bitcoinist.net/takara-ar-real-money/</link>
-            <guid isPermaLink="false">d9f3c5ba-3eb8-4d8f-be72-0d2ac177a75e</guid>
-            <pubDate>Sat, 30 Jul 2016 21:17:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
