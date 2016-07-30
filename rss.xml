@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jul 2016 21:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2016 21:18:42 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Ethereum Celebrates First Birthday Since Mining Genesis Block]]></title>
-            <description><![CDATA[<article><h1>Ethereum Celebrates First Birthday Since Mining Genesis Block</h1><p>Among everything that is going on in the Ethereum ecosystem right now, one would almost forget today marks the one-year anniversary of Ethereum. On July 20, 2015, the Ethereum Genesis block was generated. Over the course of the past year, many things have happened, both exciting and rather worrisome.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fce4f3df7e19da1e35b62efac78c3c8a/noop.png?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F07%2FEthereum-1.png"></article>]]></description>
-            <link>http://themerkle.com/ethereum-celebrates-first-birthday-since-mining-genesis-block/</link>
-            <guid isPermaLink="false">62b2f703-4cba-4567-91fe-694f77eba215</guid>
-            <pubDate>Sat, 30 Jul 2016 21:17:11 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin: The Most Immutable Ledger of Them All - Bitcoin News]]></title>
             <description><![CDATA[<article><h1>Bitcoin: The Most Immutable Ledger of Them All - Bitcoin News</h1><p>Since the creation of Bitcoin no cryptocurrency or private blockchain has compared to the exponential power of the longest running, immutable, peer-to-peer, distributed ledger. Also Read: Ethereum Hard Fork Gives Birth to a New 'Classic' Coin The Bitcoin blockchain has been the most popular distributed ledger since its inception in 2009.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7ee831808dc8e14cbfa7e6a5e2a89b24/noop.jpeg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fheiro.jpeg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Berlin's Jolocom Takes IoT Data Sharing to the Masses</h1><p>Berlin-based startup Jolocom (jolocom.com)has announced it is in talks with manufacturing giant Philips and others to bring blockchain data sharing into the mainstream. Also read: The Bitcoin Economy 'Has Grown and Matured,' Study Reveals Jolocom, while still at the planning stage with a prototype set for release at the end of the year, wants to combine blockchain with internet of things (IoT) style consumer interconnectivity.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8c32b9bc6f15ac5abae41da054fe6d17/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FInternet-of-Things.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/jolocom-iot-data-sharing-masses/</link>
             <guid isPermaLink="false">e2b58ba7-5091-422f-845b-beaf449b782f</guid>
+            <pubDate>Sat, 30 Jul 2016 21:17:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zimbabwe Central Bank Warns Bitcoin Use; No Regulations Yet]]></title>
+            <description><![CDATA[<article><h1>Zimbabwe Central Bank Warns Bitcoin Use; No Regulations Yet</h1><p>At the annual Digital Payments Conference held at the Meikles Hotel Zimbabwe on July 28, the Reserve Bank of Zimbabwe (RBZ) warned the country's citizens against the various risks involved in using Bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ecf233eb576af6c13940ddc88bbdc892/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85NjhmODNhYjZkYTQ1Zjc3Y2Q4Mzk0NGVmMTJkZDAyZi5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/zimbabwe-central-bank-warns-bitcoin-use-no-regulations-yet</link>
+            <guid isPermaLink="false">bd39f090-8c4c-42e9-b9c0-1550f56b5a51</guid>
             <pubDate>Sat, 30 Jul 2016 21:17:10 GMT</pubDate>
         </item>
     </channel>
