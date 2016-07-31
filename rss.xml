@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jul 2016 18:36:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2016 18:36:07 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Alibaba Group's Ant Financial Creates Blockchain Solution for Philanthropy Sector - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Alibaba Group's Ant Financial Creates Blockchain Solution for Philanthropy Sector - NEWSBTC</h1><p>The new blockchain solution created by Ant Financial will bring in transparency and accountability to philanthropic organizations and charitable institutions. The Chinese billionaire entrepreneur, Jack Ma has forayed in the digital currency technology arena.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/076a1961ebd8409c54f09d073ba49b5a/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F31114434%2Fjack-ma.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/07/31/alibaba-groups-ant-financial-creates-blockchain-solution-for-philanthropy-sector/</link>
+            <guid isPermaLink="false">7d983ae5-3364-4d09-85a0-03e904c14114</guid>
+            <pubDate>Sun, 31 Jul 2016 18:35:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ledger Nano S Review: Can This $65 Device Top Trezor?]]></title>
             <description><![CDATA[<article><h1>Ledger Nano S Review: Can This $65 Device Top Trezor?</h1><p>Bitcoin.com Also read: Open Bitcoin Privacy Project's Top 5 Wallets of 2016 had the chance to review the new Ledger Nano S multi-cryptocurrency hardware wallet. The Nano S is one of the first hardware wallets that is both compatible with Bitcoin and Ethereum.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0373f3d6ca30810403eeed05f172fd3c/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2F13646695_1731184570479217_441088537_o-1024x768.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Are there any PHP frameworks for building bitcoin based blockchain apps?</h1><p>We called it the Delivery System. It was Liver Night. It was my idea. My seven brothers and sisters and I planned in advance. Mom, Dad and the baby sat to the left of one another. I was at the left of the baby.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
             <link>https://www.quora.com/unanswered/Are-there-any-PHP-frameworks-for-building-bitcoin-based-blockchain-apps</link>
             <guid isPermaLink="false">85c178c5-8052-4819-870a-1d826a6cec1c</guid>
-            <pubDate>Sat, 30 Jul 2016 21:17:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Mixer: How to Secure Your Identity]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Mixer: How to Secure Your Identity</h1><p>Bitcoin was designed as an anonymous and decentralized currency. But transactions are never truly anonymous, as they are recorded and available on the Blockchain - the distributed ledger which keeps a record of every Bitcoin transaction. When you use Bitcoin to pay for goods and services, you need to provide your name and address to the seller for delivery purposes.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f7b7b02ca21e65b6afa3b74c14f6138f/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iNWZhNTgxMzZjMjM1ZDA0OTE3MDIzM2NkMjU1OTk5Zi5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/bitcoin-mixer-how-to-secure-your-identity</link>
-            <guid isPermaLink="false">12c0dffb-331d-4aab-980a-c2b3a20bf4d0</guid>
             <pubDate>Sat, 30 Jul 2016 21:17:13 GMT</pubDate>
         </item>
     </channel>
