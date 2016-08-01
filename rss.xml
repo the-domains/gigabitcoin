@@ -4,36 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Aug 2016 13:58:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2016 13:58:14 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin Price Analysis - To fork or not to fork]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Analysis - To fork or not to fork</h1><p>The technical setups posted below use simple trend detection, support and resistance, channels, pattern and candlestick analysis. We aim for high-probability trade setups on BTCUSD and use very few indicators. All charts use BNC's Bitcoin Liquid Index for maximum accuracy. The timeframe for trades is 1 to 7 days, so we'll use 4h candlesticks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a576f4830aeafd0fb94ce8107be95929/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-Bitcoin-Price-Analysis-To-fork-or-not-to-fork-cover.jpg"></article>]]></description>
-            <link>http://bravenewcoin.com/news/bitcoin-price-analysis-to-fork-or-not-to-fork/</link>
-            <guid isPermaLink="false">be7e68e5-be91-4fe9-abdb-c1530e459346</guid>
-            <pubDate>Mon, 01 Aug 2016 13:57:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[French Government Officials To Attend Parliamentary Blockchain Forum In October]]></title>
-            <description><![CDATA[<article><h1>French Government Officials To Attend Parliamentary Blockchain Forum In October</h1><p>Promoting the use cases of blockchain technology and engaging in open conversations is a top priority right now. France could be an interesting providing ground for this technology shortly. A dedicated blockchain conference will take place on October 4, 2016, to bring together blockchain industry leaders and French government representatives.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/59dd6d5a61e0af7ebce24fb88be082da/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_444379750.jpg"></article>]]></description>
-            <link>http://themerkle.com/french-government-officials-to-attend-parliamentary-blockchain-forum-in-october/</link>
-            <guid isPermaLink="false">4693f96a-2393-4901-97fc-e575d36d6ab7</guid>
-            <pubDate>Mon, 01 Aug 2016 13:57:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum Classic Price Technical Analysis - Continuous Gains - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Ethereum Classic Price Technical Analysis - Continuous Gains - NEWSBTC</h1><p>Ethereum classic price recent surge was impressive against Bitcoin, and it looks like there are more upsides left in the short term. Ethereum Classic recent surge was impressive against Bitcoin, and it looks like there are more upsides left in the short term. Ethereum Classic (ETC) moved higher further against Bitcoin and traded as high as 0.0030BTC.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5fba2e558bff41e0e02772793354161f/croprotate.png?cropheight=759&cropwidth=1651&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F01064419%2FEthereum-Classic.png&x=0&y=0"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/01/ethereum-classic-price-technical-analysis-continuous-gains/</link>
-            <guid isPermaLink="false">9e12c31f-0820-425b-b78b-a930016ab3f1</guid>
-            <pubDate>Mon, 01 Aug 2016 13:57:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BITCOIN NEWS, PRICE & ANALYSIS - NEWSBTC.COM]]></title>
-            <description><![CDATA[<article><h1>BITCOIN NEWS, PRICE & ANALYSIS - NEWSBTC.COM</h1><p>NewsBTC is a Bitcoin news service that covers cryptocurrency news, technical analysis and forecasts for bitcoin, litecoin, dash, doge & digital currencies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43cfc6d43a55ea4f964a522ebe2781b17191ab0c.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/01/bitcoin-price-drops-block-size-uncertainty-looms-yet/</link>
-            <guid isPermaLink="false">8b01f9ae-7fe1-4476-b832-71d44e95e661</guid>
-            <pubDate>Mon, 01 Aug 2016 13:57:16 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Coinbase CEO Brian Armstrong States The Company Can Cover All User Deposits]]></title>
             <description><![CDATA[<article><h1>Coinbase CEO Brian Armstrong States The Company Can Cover All User Deposits</h1><p>There has been some concern regarding the solvency of the Coinbase exchange ever since a bug was discovered to receive "free" ETC when buying Ethereum. Many people felt the company was not taking precautionary steps to protect themselves from the replay attack vector.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ae7916239ce9c8753cfa0f5634ea71a8/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_312163277.jpg"></article>]]></description>
@@ -75,6 +47,34 @@
             <link>http://themerkle.com/should-the-ethereum-foundation-sell-their-etc-holdings/</link>
             <guid isPermaLink="false">658c444c-3bcb-4b70-a391-6002e8eb3bb1</guid>
             <pubDate>Mon, 01 Aug 2016 13:57:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How large will bitcoin/blockchain-based transaction fees be in the future?]]></title>
+            <description><![CDATA[<article><h1>How large will bitcoin/blockchain-based transaction fees be in the future?</h1><p>Answer: Depends on which way Bitcoin development takes. If the current core regime has their way, the fees on Bitcoin will be much more, enough to compensate future miners for the drop in their mining rewards. It's hard to say given that BTC/USD will fluctuate given the usefulness of Bitcoin net...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
+            <link>https://www.quora.com/How-large-will-bitcoin-blockchain-based-transaction-fees-be-in-the-future</link>
+            <guid isPermaLink="false">f1d692c8-df33-4d8e-be08-82feb349c7c9</guid>
+            <pubDate>Mon, 01 Aug 2016 13:57:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Fed/FOMC holds meetings to decide on money supply. Core/Blockstream & Chinese miners now hold meetings to decide on money velocity. Both are centralized decision-making. Both are the wrong approach. * /r/btc]]></title>
+            <description><![CDATA[<article><h1>The Fed/FOMC holds meetings to decide on money supply. Core/Blockstream & Chinese miners now hold meetings to decide on money velocity. Both are centralized decision-making. Both are the wrong approach. * /r/btc</h1><p>Having a "max blocksize" effectively imposes a "maximum money velocity" for Bitcoin - needless central economic planning at its worst. We should...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
+            <link>https://www.reddit.com/r/btc/comments/4vfkpr/the_fedfomc_holds_meetings_to_decide_on_money/</link>
+            <guid isPermaLink="false">274989c6-7f6a-4231-90e4-8131e7f44d47</guid>
+            <pubDate>Mon, 01 Aug 2016 13:57:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How will blockchain impact financial services market?]]></title>
+            <description><![CDATA[<article><h1>How will blockchain impact financial services market?</h1><p>1 person wants answers to this question. Be the first to answer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/How-will-blockchain-impact-financial-services-market</link>
+            <guid isPermaLink="false">765be455-381c-4771-8d72-e95b47030409</guid>
+            <pubDate>Mon, 01 Aug 2016 13:57:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Another Major Chinese Exchange Supports Ethereum Classic]]></title>
+            <description><![CDATA[<article><h1>Another Major Chinese Exchange Supports Ethereum Classic</h1><p>China's biggest ETH exchange CHBTC has announced it launches Ethereum Classic trades, Twitter account cnLedger reported. BREAKING: a top CN btc exchange, arguably the largest eth exchange in China, CHBTC just announced to list ETC today. https://t.co/6zbN2Kiu9P - cnLedger (@cnLedger) August 1, 2016 Last week, exchange Yunbi announced it supports Ethereum Classic.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/842fe4a7b7ee40ab195b3362f8d70bd8b25a0214.png"></article>]]></description>
+            <link>http://forklog.net/another-major-chinese-exchange-supports-ethereum-classic/</link>
+            <guid isPermaLink="false">855030a8-d78f-4557-ac39-f36b92b9169f</guid>
+            <pubDate>Mon, 01 Aug 2016 13:57:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
