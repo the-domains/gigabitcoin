@@ -4,20 +4,13 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Aug 2016 01:35:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2016 01:35:39 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Current Local Time in Hong Kong, Hong Kong]]></title>
             <description><![CDATA[<article><h1>Current Local Time in Hong Kong, Hong Kong</h1><p>Current local time in Hong Kong - Hong Kong. Get Hong Kong's weather and area codes, time zone and DST. Explore Hong Kong's sunrise and sunset, moonrise and moonset.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a796612686be9a3973bcac78e3dec6d9/croprotate.php?cropheight=737&cropwidth=1366&degrees=0&input=https%3A%2F%2Fwww.timeanddate.com%2Fscripts%2Fcityog.php%3Ftitle%3DCurrent%2520Local%2520Time%2520in%26city%3DHong%2520Kong%26country%3DHong%2520Kong%26image%3Dhong-kong1&x=0&y=0"></article>]]></description>
             <link>http://www.timeanddate.com/worldclock/hong-kong/hong-kong</link>
             <guid isPermaLink="false">631a82c8-5902-468c-8fbc-42a28426a45e</guid>
-            <pubDate>Mon, 01 Aug 2016 01:34:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="https://i.redd.it/9xtqf9ptclcx.jpg"></article>]]></description>
-            <link>https://i.redd.it/9xtqf9ptclcx.jpg</link>
-            <guid isPermaLink="false">cda81a2e-f8ba-4e01-ac70-741111298191</guid>
             <pubDate>Mon, 01 Aug 2016 01:34:57 GMT</pubDate>
         </item>
         <item>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><img src="https://i.redd.it/end0qpixj9cx.png"></article>]]></description>
             <link>https://i.redd.it/end0qpixj9cx.png</link>
             <guid isPermaLink="false">3fe39542-e63b-4fd2-ab24-36c2f35095f6</guid>
+            <pubDate>Sun, 31 Jul 2016 18:35:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can blockchain remove the need for an SSL certificate authority?]]></title>
+            <description><![CDATA[<article><h1>Can blockchain remove the need for an SSL certificate authority?</h1><p>My first cat, Princess, was rescued by my Dad from several dogs who had treed her. She was approximately 4 months old at the time. When she grew to her full adult size, if she was outside and saw a dog - she would attack it!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/Can-blockchain-remove-the-need-for-an-SSL-certificate-authority</link>
+            <guid isPermaLink="false">de76cdf2-1b4e-4a55-9fb6-6f0d1468ab26</guid>
             <pubDate>Sun, 31 Jul 2016 18:35:23 GMT</pubDate>
         </item>
     </channel>
