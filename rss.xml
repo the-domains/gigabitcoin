@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Aug 2016 13:58:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2016 13:58:15 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BITCOIN NEWS, PRICE & ANALYSIS - NEWSBTC.COM]]></title>
+            <description><![CDATA[<article><h1>BITCOIN NEWS, PRICE & ANALYSIS - NEWSBTC.COM</h1><p>NewsBTC is a Bitcoin news service that covers cryptocurrency news, technical analysis and forecasts for bitcoin, litecoin, dash, doge & digital currencies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43cfc6d43a55ea4f964a522ebe2781b17191ab0c.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/01/bitcoin-price-drops-block-size-uncertainty-looms-yet/</link>
+            <guid isPermaLink="false">8b01f9ae-7fe1-4476-b832-71d44e95e661</guid>
+            <pubDate>Mon, 01 Aug 2016 13:57:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Coinbase CEO Brian Armstrong States The Company Can Cover All User Deposits]]></title>
             <description><![CDATA[<article><h1>Coinbase CEO Brian Armstrong States The Company Can Cover All User Deposits</h1><p>There has been some concern regarding the solvency of the Coinbase exchange ever since a bug was discovered to receive "free" ETC when buying Ethereum. Many people felt the company was not taking precautionary steps to protect themselves from the replay attack vector.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ae7916239ce9c8753cfa0f5634ea71a8/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_312163277.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How will blockchain impact financial services market?</h1><p>1 person wants answers to this question. Be the first to answer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
             <link>https://www.quora.com/unanswered/How-will-blockchain-impact-financial-services-market</link>
             <guid isPermaLink="false">765be455-381c-4771-8d72-e95b47030409</guid>
-            <pubDate>Mon, 01 Aug 2016 13:57:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Another Major Chinese Exchange Supports Ethereum Classic]]></title>
-            <description><![CDATA[<article><h1>Another Major Chinese Exchange Supports Ethereum Classic</h1><p>China's biggest ETH exchange CHBTC has announced it launches Ethereum Classic trades, Twitter account cnLedger reported. BREAKING: a top CN btc exchange, arguably the largest eth exchange in China, CHBTC just announced to list ETC today. https://t.co/6zbN2Kiu9P - cnLedger (@cnLedger) August 1, 2016 Last week, exchange Yunbi announced it supports Ethereum Classic.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/842fe4a7b7ee40ab195b3362f8d70bd8b25a0214.png"></article>]]></description>
-            <link>http://forklog.net/another-major-chinese-exchange-supports-ethereum-classic/</link>
-            <guid isPermaLink="false">855030a8-d78f-4557-ac39-f36b92b9169f</guid>
             <pubDate>Mon, 01 Aug 2016 13:57:15 GMT</pubDate>
         </item>
     </channel>
