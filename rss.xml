@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 01:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 01:23:48 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Falls as Miners Meet Bitcoin Core Developers]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Falls as Miners Meet Bitcoin Core Developers</h1><p>Bitcoin's price dropped by $30 this morning (July 31st, 2016) as market uncertainty increases due to a closed door meeting between Bitcoin miners and Bitcoin Core developers. Details are sparse as no media representatives or independent observers have been invited to arguably the most important bitcoin related meeting in it's almost eight-year history.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8a3e081e5ab4b42d276a60214eb27d5a/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fbitcoin-price-falls-as-miners-and-bitcoin-core-developers-hold-a-closed-door-meeting.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-price-falls-as-miners-meet-bitcoin-core-developers/</link>
+            <guid isPermaLink="false">edd95b37-fa6e-4568-83ed-5cc65a39c97f</guid>
+            <pubDate>Tue, 02 Aug 2016 01:21:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Browser Brave Raises $4.5 Million to Fight Online Ads - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Browser Brave Raises $4.5 Million to Fight Online Ads - CoinDesk</h1><p>The maker of ad-blocking browser Brave has raised $4.5m to expand its effort to let users voluntarily send bitcoin micropayments to their favorite websites in exchange for an ad-free experience.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ee124b0e18b792883604b670232138ae/croprotate.jpg?cropheight=1000&cropwidth=1500&degrees=0&input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fadvertising-online-news-e1470059644819.jpg&x=0&y=0"></article>]]></description>
+            <link>http://www.coindesk.com/bitcoin-browser-brave-raises-4-5-million-to-bridge-publishing-gap/</link>
+            <guid isPermaLink="false">414b2add-f64c-401c-a4e2-d9c5d3025544</guid>
+            <pubDate>Tue, 02 Aug 2016 01:21:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blockchain Can Capitalize Against Vulnerable Medical IT Systems]]></title>
+            <description><![CDATA[<article><h1>Blockchain Can Capitalize Against Vulnerable Medical IT Systems</h1><p>Recently, an increasing number of startups and organizations in the medical industry have proposed numerous projects to secure health data on a Blockchain network.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6f74ce92f2f3bf4310daad173cc3e8d4/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xZjU3MDUzZWU0OWUyNThiMjY0YjdhNWFiYzE4NGEwZC5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/blockchain-can-capitalize-against-vulnerable-medical-it-systems</link>
+            <guid isPermaLink="false">fb8c34cd-797b-4931-908d-bf5729637154</guid>
+            <pubDate>Tue, 02 Aug 2016 01:21:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bank of China HK to Improve Fintech Services and Platforms]]></title>
             <description><![CDATA[<article><h1>Bank of China HK to Improve Fintech Services and Platforms</h1><p>Bank of China Hong Kong (BOCHK), the largest bank of the city, has displayed Hong Kong's explosive demand for online payment and fintech services over the past year.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/81b83b5479dce6626e9dfca952243d61/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F01151604%2FBN-NU177_CBANK__P_20160429120538.jpg"></article>]]></description>
@@ -53,27 +74,6 @@
             <description><![CDATA[<article><h1>Enterprise Software Leader SAP Taps Blockchain to Improve its Products</h1><p>SAP, a multi-national enterprise resource planning software provider, is writing specialized software to allow customers to connect blockchains to its Hana Cloud Platform, which provides an online database for adding new functions to their SAP systems, according to Bloomberg. Juergen Mueller, chief information officer for the Walldorf, Germany-based company, said the blockchain's potential for disruption is huge.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/857cf8f9087485e4351ee12c334dfa08/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FSAP.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/enterprise-software-leader-sap-taps-blockchain-improve-products/</link>
             <guid isPermaLink="false">cf7c8294-6f80-4753-bb81-5272f6e69edb</guid>
-            <pubDate>Tue, 02 Aug 2016 01:21:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Here's What's Next for Bitcoin Wallet GreenAddress After Being Acquired by Blockstream]]></title>
-            <description><![CDATA[<article><h1>Here's What's Next for Bitcoin Wallet GreenAddress After Being Acquired by Blockstream</h1><p>Blockstream announced the acquisition of Bitcoin wallet provider GreenAddress on Wednesday. In a post on the company's official blog, Blockstream President Adam Back noted, "GreenAddress has a demonstrated track record of delivering an industry-leading product that prioritizes security, privacy and convenience."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a344dc564ac3d7d2876a09723d854046/noop.jpg?input=http%3A%2F%2Fwww.nasdaq.com%2Freference%2Fhiresphotos%2Fnews-photos%2Fbitcoin%2F325x200%2Fbitcoin22.jpg"></article>]]></description>
-            <link>http://www.nasdaq.com/article/heres-whats-next-for-bitcoin-wallet-greenaddress-after-being-acquired-by-blockstream-cm658022</link>
-            <guid isPermaLink="false">f8a8f888-0478-487c-95e2-a6981c0204b7</guid>
-            <pubDate>Tue, 02 Aug 2016 01:21:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brave Bitcoin Browser Secures Funding And Announces September Launch]]></title>
-            <description><![CDATA[<article><h1>Brave Bitcoin Browser Secures Funding And Announces September Launch</h1><p>The Brave Bitcoin browser has been attracting a lot of attention as of late. Now that the team has secured US$4.5m in funding, the tentative launch date has been scheduled for September 2016. The company hopes to change the way people browse the internet and think about advertisements on web pages.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8b974761cb303bb9521ef85dc0794860/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2FBrave-Browser-Bitcoin.jpg"></article>]]></description>
-            <link>http://themerkle.com/brave-bitcoin-browser-secures-funding-and-announces-september-launch/</link>
-            <guid isPermaLink="false">f1046ee1-62bd-4b9b-b167-4f9bba2f3c0a</guid>
-            <pubDate>Tue, 02 Aug 2016 01:21:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin: (Surprise!) Central Banks Continue To Miss The Point]]></title>
-            <description><![CDATA[<article><h1>Bitcoin: (Surprise!) Central Banks Continue To Miss The Point</h1><p>Central bankers seem to have one purpose over the last few years, and that is to find out anyway possible to stimulate their respective economies. Over the last 20 years, we have seen stimulus in almost all major geographical economic locations and heading into 2017, Central Bankers are running out of strings they can pull.</p></article>]]></description>
-            <link>http://seekingalpha.com/article/3994119-bitcoin-surprise-central-banks-continue-miss-point</link>
-            <guid isPermaLink="false">8e80bb27-b757-45d6-a344-f5d71d363769</guid>
             <pubDate>Tue, 02 Aug 2016 01:21:11 GMT</pubDate>
         </item>
     </channel>
