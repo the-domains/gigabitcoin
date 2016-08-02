@@ -7,6 +7,13 @@
         <lastBuildDate>Tue, 02 Aug 2016 01:22:02 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Bitcoin Unlimited v0.12.1bu "Xpedited" -:- Official BU Release]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Unlimited v0.12.1bu "Xpedited" -:- Official BU Release</h1><p>Announcing BitcoinUnlimited version 0.12.1bu The second official BU client release spotlights on-chain scaling by building upon Xthin with "Xpedited"...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d66caf2353079dc631c00de120c94733/noop.png?input=https%3A%2F%2Fbitco.in%2Fimg%2Fopengraph.png"></article>]]></description>
+            <link>https://bitco.in/forum/threads/bitcoin-unlimited-v0-12-1bu-%E2%80%9Cxpedited%E2%80%9D-official-bu-release.1350/</link>
+            <guid isPermaLink="false">b35d73e4-f5d5-44c3-bb5c-1d763ec91edb</guid>
+            <pubDate>Tue, 02 Aug 2016 01:21:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Coinbase has all funds to cover user deposits. If you prefer to cntrl you own private keys, see our multisig vaulthttps://www.coinbase.com/multisig</p>]]></description>
             <link>https://twitter.com/brian_armstrong/status/759995925410385920</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The Crypto Show with Simon Dixon, Anthem Blanchard and Cliff Baltzley</h1><p>The whole 2 hrs is spent in cross talk with Simon, Anthem and Cliff. Simon Dixon of Bank to the Future, Anthem Blanchard of Anthem Vaults and Cliff Baltzley of StashCrypto. We cover a whole host of topics regarding each of the companies represented. Special attention paid to the Texas Gold Suppository.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4ac11e4ed55385482c007d0011b626ac/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1875-9d9ee5dc082d5de3988a95c4a8892e44c9e8d419fd438652b84c876de5abc858.jpg"></article>]]></description>
             <link>https://letstalkbitcoin.com/blog/post/the-crypto-show-with-simon-dixon-anthem-blanchard-and-cliff-baltzley</link>
             <guid isPermaLink="false">e36298aa-02dc-4b72-956d-618f6ce7772d</guid>
-            <pubDate>Mon, 01 Aug 2016 13:57:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Analysis - To fork or not to fork]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Analysis - To fork or not to fork</h1><p>The technical setups posted below use simple trend detection, support and resistance, channels, pattern and candlestick analysis. We aim for high-probability trade setups on BTCUSD and use very few indicators. All charts use BNC's Bitcoin Liquid Index for maximum accuracy. The timeframe for trades is 1 to 7 days, so we'll use 4h candlesticks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a576f4830aeafd0fb94ce8107be95929/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-Bitcoin-Price-Analysis-To-fork-or-not-to-fork-cover.jpg"></article>]]></description>
-            <link>http://bravenewcoin.com/news/bitcoin-price-analysis-to-fork-or-not-to-fork/</link>
-            <guid isPermaLink="false">be7e68e5-be91-4fe9-abdb-c1530e459346</guid>
             <pubDate>Mon, 01 Aug 2016 13:57:17 GMT</pubDate>
         </item>
     </channel>
