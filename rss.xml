@@ -4,29 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 01:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 01:22:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Blockchain Revolution is On: Alibaba to Make Donations Trackable]]></title>
-            <description><![CDATA[<article><h1>Blockchain Revolution is On: Alibaba to Make Donations Trackable</h1><p>Alibaba's introduction of tamper-proof Blockchain technology to improve accountability in the Chinese charity industry will boost the trend, particularly among other organizations. The Xinhua News Agency reported that Chinese philanthropy rose 10-fold to $15 billion in the decade through 2014.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6fc1ec918f94459117118a5419f1d11f/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wN2NkNzNkMTVmYWMxZjI0Nzc1ZDhiZDNhNjZhZTBiMy5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/blockchain-revolution-is-on-alibaba-to-make-donations-trackable</link>
-            <guid isPermaLink="false">5fd27189-80a3-44f9-84f2-37b5781e2d85</guid>
-            <pubDate>Tue, 02 Aug 2016 01:21:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Live Trading! - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Live Trading! - NEWSBTC</h1><p>Here's a look at what we are focusing on in the bitcoin price this evening. The day is drawing to a close in Europe, and it's time for us to take a second look at the bitcoin price and see how our strategy played out.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0b00fefaf1bd44746fb63a904a0c3b71/croprotate.png?cropheight=646&cropwidth=1187&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F01182801%2FScreen-Shot-2016-08-01-at-19.19.52.png&x=0&y=0"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/01/bitcoin-price-watch-live-trading-2/</link>
-            <guid isPermaLink="false">c8301f74-f63a-4e0a-8395-c8303de170ac</guid>
-            <pubDate>Tue, 02 Aug 2016 01:21:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Wow, Bitcoin governance collapses into closed technocratic control. Real open governance for crypto still evades us. https://news.hodlhodl.com/news/117</p>]]></description>
-            <link>https://twitter.com/jerallaire/status/759933484475572225</link>
-            <guid isPermaLink="false">f3b6abb9-984d-4fa4-8598-167027eb136a</guid>
-            <pubDate>Tue, 02 Aug 2016 01:21:09 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[UK Politician: 'Act Now' to Save Govt's 'Digital Revolution']]></title>
             <description><![CDATA[<article><h1>UK Politician: 'Act Now' to Save Govt's 'Digital Revolution'</h1><p>The deputy leader of the UK opposition, the Labour Party, has stated the government "must act" to secure the country's digital progress. Also read: 'Bitcoin Browser' Brave Raises $4.5M, Readies for 1.0 Launch Tom Watson, who was the UK's first dedicated minister for digital engagement when Labour was in power, described government processes as undergoing a "digital revolution" but that this was now under threat in the wake of Brexit.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/93617d7b4e410b271be3c79a670a894c/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2F5-Tom-Watson-JasonAlden.jpg"></article>]]></description>
@@ -74,6 +53,27 @@
             <description><![CDATA[<article><h1>Will Bitcoin be limited by the fact that once all Bitcoins are mined there will be the same uneven distribution of wealth that we see tod...</h1><p>Answer: Yes, that's one of the fundamental criticisms of Bitcoin. In fact, the distribution of Bitcoin is already much more uneven compared to the distribution of wealth in the real world. This inequality is considered to be a feature and is built into the Bitcoin mining algorithm: early adopters...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
             <link>https://www.quora.com/Will-Bitcoin-be-limited-by-the-fact-that-once-all-Bitcoins-are-mined-there-will-be-the-same-uneven-distribution-of-wealth-that-we-see-today</link>
             <guid isPermaLink="false">959f6369-0ee5-4a11-8f3b-28f88d0b5b2c</guid>
+            <pubDate>Tue, 02 Aug 2016 01:21:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Unlimited v0.12.1bu "Xpedited" -:- Official BU Release]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Unlimited v0.12.1bu "Xpedited" -:- Official BU Release</h1><p>Announcing BitcoinUnlimited version 0.12.1bu The second official BU client release spotlights on-chain scaling by building upon Xthin with "Xpedited"...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d66caf2353079dc631c00de120c94733/noop.png?input=https%3A%2F%2Fbitco.in%2Fimg%2Fopengraph.png"></article>]]></description>
+            <link>https://bitco.in/forum/threads/bitcoin-unlimited-v0-12-1bu-%E2%80%9Cxpedited%E2%80%9D-official-bu-release.1350/</link>
+            <guid isPermaLink="false">b35d73e4-f5d5-44c3-bb5c-1d763ec91edb</guid>
+            <pubDate>Tue, 02 Aug 2016 01:21:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Coinbase has all funds to cover user deposits. If you prefer to cntrl you own private keys, see our multisig vaulthttps://www.coinbase.com/multisig</p>]]></description>
+            <link>https://twitter.com/brian_armstrong/status/759995925410385920</link>
+            <guid isPermaLink="false">c200ae59-efcd-4d41-950c-996e0215b501</guid>
+            <pubDate>Tue, 02 Aug 2016 01:21:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Baikal Miner Now With ASICs Supporting X11, X13, X14, X15, Quark and Qubit]]></title>
+            <description><![CDATA[<article><h1>Baikal Miner Now With ASICs Supporting X11, X13, X14, X15, Quark and Qubit</h1><p>Baikal Miner started with an interesting X11-based ASIC not too long ago and now they company has just announced two new miners that support multiple algorithms. The new ASIC-based Baikal Mini Miner and Baikal Quadruple Miner offer support for X11, X13, X14, X15, Quark and Qubit algorithms with surprisingly good specifications.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f97b6654d282d15096501f76c16fd8fc/croprotate.jpg?cropheight=691&cropwidth=536&degrees=0&input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fbaikal-1-580x691.jpg&x=24&y=0"></article>]]></description>
+            <link>http://cryptomining-blog.com/8181-baikal-miner-now-with-asics-supporting-x11-x13-x14-x15-quark-and-qubit/</link>
+            <guid isPermaLink="false">19fbb337-6603-42fd-9299-44ae36c54929</guid>
             <pubDate>Tue, 02 Aug 2016 01:21:08 GMT</pubDate>
         </item>
     </channel>
