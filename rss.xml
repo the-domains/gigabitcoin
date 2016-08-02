@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 15:57:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 15:57:42 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Which clients support nLockTime?]]></title>
+            <description><![CDATA[<article><h1>Which clients support nLockTime?</h1><p>I want to use nLockTime, but I don't know what clients support it?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46800/which-clients-support-nlocktime</link>
+            <guid isPermaLink="false">e201f99e-3b29-452b-be72-0d4a57c158bc</guid>
+            <pubDate>Tue, 02 Aug 2016 15:55:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Brazilian Bitcoin Exchange Foxbit Acquires Payment Processor]]></title>
             <description><![CDATA[<article><h1>Brazilian Bitcoin Exchange Foxbit Acquires Payment Processor</h1><p>When it comes to Bitcoin Brazil is one of the leading countries in Latin American by market volume and adoption levels. Today, the biggest Brazilian Bitcoin exchange announced the acquisition of BitInvest, a payment processor. FoxBit is the leading Bitcoin exchange in Latin America by market volume, with over 450 Bitcoins per day in transactions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/704cd1b3d1ce4a257c4b26519e12d405/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fraposa.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitwage continues expansion into South America</h1><p>The Bitwage Invoicing service is built on a simple idea, use bitcoin instead of legacy international payments. Using the service, Brazilian contractors and freelancers can now get paid in a range of foreign currencies, and receive Brazilian real into their local bank account. Bitwage provides a domestic bank account for each of the 30+ supported currencies.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/86e8f0e297e26f185a6fe2ac501941ab/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-cheque.jpg"></article>]]></description>
             <link>http://bravenewcoin.com/news/bitwage-continues-expansion-into-south-america/</link>
             <guid isPermaLink="false">c04cfbdc-cb03-482c-a940-770768afee93</guid>
-            <pubDate>Tue, 02 Aug 2016 15:55:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum Classic Price Technical Analysis - ETC Topping? - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Ethereum Classic Price Technical Analysis - ETC Topping? - NEWSBTC</h1><p>Ethereum classic price continued its uptrend and gained by more than 20%. However, I feel it may be topping soon for a short-term correction. Ethereum classic price continued its uptrend and gained by more than 20%. However, I feel it may be topping soon for a short-term correction.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7afed8b9fce7b085e351192a735e38f6/croprotate.png?cropheight=759&cropwidth=1651&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F02072922%2FEthereum-Classic1.png&x=0&y=0"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/02/ethereum-classic-price-technical-analysis-etc-topping/</link>
-            <guid isPermaLink="false">7d25f2cb-0e26-477f-96e5-9e31b28909d6</guid>
             <pubDate>Tue, 02 Aug 2016 15:55:01 GMT</pubDate>
         </item>
     </channel>
