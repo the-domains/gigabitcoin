@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 01:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 01:21:12 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Children's Aid Organization Unicef Seeks Blockchain Lead - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Children's Aid Organization Unicef Seeks Blockchain Lead - CoinDesk</h1><p>The United Nations Children's Fund (UNICEF) is seeking a software developer and consultant who can help it lead its blockchain efforts. A terms of reference sheet published last week outlines in detail how the international aid organization is seeking to leverage the technology in accordance with its goals to improve child welfare around the world.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2d67c97c46f9d06599209b0a3b827f0c/croprotate.jpg?cropheight=964&cropwidth=1497&degrees=0&input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FUNICEF.jpg&x=0&y=0"></article>]]></description>
-            <link>http://www.coindesk.com/childrens-aid-organization-unicef-seeks-blockchain-lead/</link>
-            <guid isPermaLink="false">6add2279-f9b5-4fcc-a3c0-71be81760291</guid>
-            <pubDate>Tue, 02 Aug 2016 01:21:08 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Ant Financial to Harness Blockchain in Updated Philanthropy App]]></title>
             <description><![CDATA[<article><h1>Ant Financial to Harness Blockchain in Updated Philanthropy App</h1><p>Chinese corporate giant Also read: Liberland: Bitcoin 'Is Truly the Base of Our Economy' Ant Financial, led by billionaire venture capitalist Jack Ma, is introducing blockchain technology to the Alipay donation application. The added feature will utilize a distributed ledger platform to record collected donations.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e6ec43dcea6b1833da2733915f23af96/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FAnt-Financial-Tries-To-Harness-Blockchain-Philanthropy.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Technical Analysis: Weekend Bitcoin Price Drop Explained</h1><p>Bitcoin is falling down to end its current cycle, which will happen when prices drop to the technical reversal level. Also read: Industry Report: No Bitcoin Crime Goes Unpunished Prices have started the dive to $600 and $580 after a large lateral sideways lateral movement that ended the first technical cycle.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/308d2a76de7f67cee9ff1889fbf64f77/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F07%2Fbitcoin-july-31st-long.jpg"></article>]]></description>
             <link>http://bitcoinist.net/technical-analysis-weekend-bitcoin/</link>
             <guid isPermaLink="false">6ed7564a-a7d1-4514-9cba-9736b803f10a</guid>
+            <pubDate>Mon, 01 Aug 2016 13:57:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK's Largest Banks to Charge Negative Interest Rates; Merit of Bitcoin?]]></title>
+            <description><![CDATA[<article><h1>UK's Largest Banks to Charge Negative Interest Rates; Merit of Bitcoin?</h1><p>Over the past few days, some of Britain's major banks including Santander UK, the Royal Bank of Scotland and UK-based commercial bank NatWest have been notifying their customers of potential implementation of negative interest rates on current bank accounts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6100fe6cead1b7de12a09362901d187d/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83MTIwNjUyYTFlMWFjNjk0MTEzYjcwYjkxMDg3MTZlNy5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/uks-largest-banks-to-charge-negative-interest-rates-merit-of-bitcoin</link>
+            <guid isPermaLink="false">983f5755-a0c5-47ce-aee3-500e4bf09f58</guid>
             <pubDate>Mon, 01 Aug 2016 13:57:16 GMT</pubDate>
         </item>
     </channel>
