@@ -4,8 +4,36 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 01:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 01:23:22 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Universities can have their own Bitcoin Nodes thanks to BSafe | HolyTransaction]]></title>
+            <description><![CDATA[<article><h1>Universities can have their own Bitcoin Nodes thanks to BSafe | HolyTransaction</h1><p>Several researchers want to encourage universities to set up bitcoin nodes to allow students and teachers to work and test the blockchain. This private testbed network is called BSafe and it aims at helping the Bitcoin technology proliferate and preventing hacker attacks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/57a9ac9a2abce1d819d70ad4b1014209/noop.png?input=https%3A%2F%2F4.bp.blogspot.com%2F-j2NGPCHg0h4%2FV59V-SlZUjI%2FAAAAAAAAAq8%2Fyo_KR3A98nMibFgh1ENhiY_CrR33t4p-QCLcB%2Fw1200-h630-p-nu%2Fnetwork.png"></article>]]></description>
+            <link>http://blog.holytransaction.com/2016/08/universities-can-have-their-own-bitcoin.html</link>
+            <guid isPermaLink="false">0d4465b4-fb6d-43fa-a4b7-7d0ed19ac80e</guid>
+            <pubDate>Tue, 02 Aug 2016 01:21:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Enterprise Software Leader SAP Taps Blockchain to Improve its Products]]></title>
+            <description><![CDATA[<article><h1>Enterprise Software Leader SAP Taps Blockchain to Improve its Products</h1><p>SAP, a multi-national enterprise resource planning software provider, is writing specialized software to allow customers to connect blockchains to its Hana Cloud Platform, which provides an online database for adding new functions to their SAP systems, according to Bloomberg. Juergen Mueller, chief information officer for the Walldorf, Germany-based company, said the blockchain's potential for disruption is huge.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/857cf8f9087485e4351ee12c334dfa08/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FSAP.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/enterprise-software-leader-sap-taps-blockchain-improve-products/</link>
+            <guid isPermaLink="false">cf7c8294-6f80-4753-bb81-5272f6e69edb</guid>
+            <pubDate>Tue, 02 Aug 2016 01:21:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Here's What's Next for Bitcoin Wallet GreenAddress After Being Acquired by Blockstream]]></title>
+            <description><![CDATA[<article><h1>Here's What's Next for Bitcoin Wallet GreenAddress After Being Acquired by Blockstream</h1><p>Blockstream announced the acquisition of Bitcoin wallet provider GreenAddress on Wednesday. In a post on the company's official blog, Blockstream President Adam Back noted, "GreenAddress has a demonstrated track record of delivering an industry-leading product that prioritizes security, privacy and convenience."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a344dc564ac3d7d2876a09723d854046/noop.jpg?input=http%3A%2F%2Fwww.nasdaq.com%2Freference%2Fhiresphotos%2Fnews-photos%2Fbitcoin%2F325x200%2Fbitcoin22.jpg"></article>]]></description>
+            <link>http://www.nasdaq.com/article/heres-whats-next-for-bitcoin-wallet-greenaddress-after-being-acquired-by-blockstream-cm658022</link>
+            <guid isPermaLink="false">f8a8f888-0478-487c-95e2-a6981c0204b7</guid>
+            <pubDate>Tue, 02 Aug 2016 01:21:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brave Bitcoin Browser Secures Funding And Announces September Launch]]></title>
+            <description><![CDATA[<article><h1>Brave Bitcoin Browser Secures Funding And Announces September Launch</h1><p>The Brave Bitcoin browser has been attracting a lot of attention as of late. Now that the team has secured US$4.5m in funding, the tentative launch date has been scheduled for September 2016. The company hopes to change the way people browse the internet and think about advertisements on web pages.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8b974761cb303bb9521ef85dc0794860/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2FBrave-Browser-Bitcoin.jpg"></article>]]></description>
+            <link>http://themerkle.com/brave-bitcoin-browser-secures-funding-and-announces-september-launch/</link>
+            <guid isPermaLink="false">f1046ee1-62bd-4b9b-b167-4f9bba2f3c0a</guid>
+            <pubDate>Tue, 02 Aug 2016 01:21:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin: (Surprise!) Central Banks Continue To Miss The Point]]></title>
             <description><![CDATA[<article><h1>Bitcoin: (Surprise!) Central Banks Continue To Miss The Point</h1><p>Central bankers seem to have one purpose over the last few years, and that is to find out anyway possible to stimulate their respective economies. Over the last 20 years, we have seen stimulus in almost all major geographical economic locations and heading into 2017, Central Bankers are running out of strings they can pull.</p></article>]]></description>
@@ -47,34 +75,6 @@
             <link>https://news.bitcoin.com/jewish-tradition-law-bitcoin/</link>
             <guid isPermaLink="false">b4b9073b-c3fa-40ec-9cbe-9d4d03a4cb16</guid>
             <pubDate>Tue, 02 Aug 2016 01:21:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2016-07-28]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-07-28</h1><p>Jtimon would like to see the removal of ISM, talked about in last weeks meeting, merged quickly as it is important for other libconsensus refactors. NicolasDorier asks to review/test PR #8422 (Cache hashes), which needs to be merged and backported to 0.13 before segwit release.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/07/28/</link>
-            <guid isPermaLink="false">b8dcbb84-1c9c-4b9f-8812-28be1069d441</guid>
-            <pubDate>Tue, 02 Aug 2016 01:21:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anonymous Blockchain Micropayments Advance With 'Bolt' Proposal - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Anonymous Blockchain Micropayments Advance With 'Bolt' Proposal - CoinDesk</h1><p>Can blockchain micropayments be fast, decentralized and private? That question arguably forms the core of a new white paper penned by researchers at Johns Hopkins University that explores methods for bringing greater anonymity to off-blockchain micropayment networks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/723d56dee1acf9d012af90e7d48eb9d0/croprotate.jpg?cropheight=1000&cropwidth=1500&degrees=0&input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fprivacy-anonymous-e1470066295480.jpg&x=0&y=0"></article>]]></description>
-            <link>http://www.coindesk.com/anonymous-blockchain-micropayments-bolt/</link>
-            <guid isPermaLink="false">b19ce9c1-8729-438b-a8df-00db005f3549</guid>
-            <pubDate>Tue, 02 Aug 2016 01:21:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain Revolution is On: Alibaba to Make Donations Trackable]]></title>
-            <description><![CDATA[<article><h1>Blockchain Revolution is On: Alibaba to Make Donations Trackable</h1><p>Alibaba's introduction of tamper-proof Blockchain technology to improve accountability in the Chinese charity industry will boost the trend, particularly among other organizations. The Xinhua News Agency reported that Chinese philanthropy rose 10-fold to $15 billion in the decade through 2014.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6fc1ec918f94459117118a5419f1d11f/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wN2NkNzNkMTVmYWMxZjI0Nzc1ZDhiZDNhNjZhZTBiMy5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/blockchain-revolution-is-on-alibaba-to-make-donations-trackable</link>
-            <guid isPermaLink="false">5fd27189-80a3-44f9-84f2-37b5781e2d85</guid>
-            <pubDate>Tue, 02 Aug 2016 01:21:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Crackle's New Series StartUp is about GenCoin, the TV Version of Bitcoin? - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Crackle's New Series StartUp is about GenCoin, the TV Version of Bitcoin? - NEWSBTC</h1><p>StartUp, the new series on Crackle is about digital currencies, comparable to bitcoin in many ways. Read more... Ever heard of GenCoin? It is the latest digital currency that's going to hit the screens soon. Yes, that's right. GenCoin is a digital currency created by a group of entrepreneurs in the upcoming series named StartUp.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/04d97d9ec4c74ffc1acf2826df86fdcb/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F01180923%2FScreen-Shot-2016-08-01-at-10.38.36-PM.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/01/crackles-new-series-startup-is-about-gencoin-the-tv-version-of-bitcoin/</link>
-            <guid isPermaLink="false">21398abf-ebab-4fb3-8089-82a12733cd0d</guid>
-            <pubDate>Tue, 02 Aug 2016 01:21:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
