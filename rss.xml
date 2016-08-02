@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 01:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 01:22:05 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Wow, Bitcoin governance collapses into closed technocratic control. Real open governance for crypto still evades us. https://news.hodlhodl.com/news/117</p>]]></description>
+            <link>https://twitter.com/jerallaire/status/759933484475572225</link>
+            <guid isPermaLink="false">f3b6abb9-984d-4fa4-8598-167027eb136a</guid>
+            <pubDate>Tue, 02 Aug 2016 01:21:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[UK Politician: 'Act Now' to Save Govt's 'Digital Revolution']]></title>
             <description><![CDATA[<article><h1>UK Politician: 'Act Now' to Save Govt's 'Digital Revolution'</h1><p>The deputy leader of the UK opposition, the Labour Party, has stated the government "must act" to secure the country's digital progress. Also read: 'Bitcoin Browser' Brave Raises $4.5M, Readies for 1.0 Launch Tom Watson, who was the UK's first dedicated minister for digital engagement when Labour was in power, described government processes as undergoing a "digital revolution" but that this was now under threat in the wake of Brexit.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/93617d7b4e410b271be3c79a670a894c/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2F5-Tom-Watson-JasonAlden.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<p>Coinbase has all funds to cover user deposits. If you prefer to cntrl you own private keys, see our multisig vaulthttps://www.coinbase.com/multisig</p>]]></description>
             <link>https://twitter.com/brian_armstrong/status/759995925410385920</link>
             <guid isPermaLink="false">c200ae59-efcd-4d41-950c-996e0215b501</guid>
-            <pubDate>Tue, 02 Aug 2016 01:21:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Baikal Miner Now With ASICs Supporting X11, X13, X14, X15, Quark and Qubit]]></title>
-            <description><![CDATA[<article><h1>Baikal Miner Now With ASICs Supporting X11, X13, X14, X15, Quark and Qubit</h1><p>Baikal Miner started with an interesting X11-based ASIC not too long ago and now they company has just announced two new miners that support multiple algorithms. The new ASIC-based Baikal Mini Miner and Baikal Quadruple Miner offer support for X11, X13, X14, X15, Quark and Qubit algorithms with surprisingly good specifications.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f97b6654d282d15096501f76c16fd8fc/croprotate.jpg?cropheight=691&cropwidth=536&degrees=0&input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fbaikal-1-580x691.jpg&x=24&y=0"></article>]]></description>
-            <link>http://cryptomining-blog.com/8181-baikal-miner-now-with-asics-supporting-x11-x13-x14-x15-quark-and-qubit/</link>
-            <guid isPermaLink="false">19fbb337-6603-42fd-9299-44ae36c54929</guid>
             <pubDate>Tue, 02 Aug 2016 01:21:08 GMT</pubDate>
         </item>
     </channel>
