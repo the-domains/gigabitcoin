@@ -4,13 +4,20 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 01:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 01:22:14 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[IRC meeting summary for 2016-07-28]]></title>
             <description><![CDATA[<article><h1>IRC meeting summary for 2016-07-28</h1><p>Jtimon would like to see the removal of ISM, talked about in last weeks meeting, merged quickly as it is important for other libconsensus refactors. NicolasDorier asks to review/test PR #8422 (Cache hashes), which needs to be merged and backported to 0.13 before segwit release.</p></article>]]></description>
             <link>https://bitcoincore.org/en/meetings/2016/07/28/</link>
             <guid isPermaLink="false">b8dcbb84-1c9c-4b9f-8812-28be1069d441</guid>
+            <pubDate>Tue, 02 Aug 2016 01:21:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anonymous Blockchain Micropayments Advance With 'Bolt' Proposal - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Anonymous Blockchain Micropayments Advance With 'Bolt' Proposal - CoinDesk</h1><p>Can blockchain micropayments be fast, decentralized and private? That question arguably forms the core of a new white paper penned by researchers at Johns Hopkins University that explores methods for bringing greater anonymity to off-blockchain micropayment networks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/723d56dee1acf9d012af90e7d48eb9d0/croprotate.jpg?cropheight=1000&cropwidth=1500&degrees=0&input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fprivacy-anonymous-e1470066295480.jpg&x=0&y=0"></article>]]></description>
+            <link>http://www.coindesk.com/anonymous-blockchain-micropayments-bolt/</link>
+            <guid isPermaLink="false">b19ce9c1-8729-438b-a8df-00db005f3549</guid>
             <pubDate>Tue, 02 Aug 2016 01:21:10 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Crypto Cannabis Conference 2016 to Examine Bitcoin, Legalization</h1><p>The Crypto Cannabis Conference (CCC) 2016 is hosting its second annual event in Denver, Colorado on October 21-22, 2016. The conference is special in that it works to connect the cannabis and cryptocurrency industries. While Marijuana laws have been changing at the state level, with almost half of the United States adopting medical use statutes, the plant remains illegal at the federal level.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f3c7f4eedf20ff99cd374cd87236bf59/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F07%2FCrypto-Cannabis-Conference-2016.jpg"></article>]]></description>
             <link>http://bitcoinist.net/crypto-cannabis-conference-bitcoin/</link>
             <guid isPermaLink="false">3cc4f750-ca26-4261-aeb7-7dfd246b194b</guid>
-            <pubDate>Tue, 02 Aug 2016 01:21:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How anonymous are bitcoins if I have to buy the bitcoins with something?]]></title>
-            <description><![CDATA[<article><h1>How anonymous are bitcoins if I have to buy the bitcoins with something?</h1><p>Answer: Bitcoins are not anonymous at purchase. To maximize the amount of anonymity that you get you'd have to create an account with bogus details on localbitcoins.com, then purchase from someone and meet with him live in order to complete the transaction. Make sure that after this you don't "t...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
-            <link>https://www.quora.com/How-anonymous-are-bitcoins-if-I-have-to-buy-the-bitcoins-with-something</link>
-            <guid isPermaLink="false">cec8da28-95bd-48b8-9d35-028c9b7ee047</guid>
             <pubDate>Tue, 02 Aug 2016 01:21:09 GMT</pubDate>
         </item>
     </channel>
