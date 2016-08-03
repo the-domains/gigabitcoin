@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 14:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 14:21:27 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[3 Easy Steps to Get Started With Bitcoin]]></title>
+            <description><![CDATA[<article><h1>3 Easy Steps to Get Started With Bitcoin</h1><p>Bitcoin is a paradigm shift that's changing the way we perceive money. It allows individuals to have full control over their finances without needing to go through a bank. Many investors are starting to use bitcoin as a long term store of value and hedge against financial uncertainty.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0f53f6c16e83abace05dae93d22ad721/noop.jpg?input=http%3A%2F%2Fi.huffpost.com%2Fgen%2F4431738%2Fimages%2Fo-BITCOIN-facebook.jpg"></article>]]></description>
+            <link>http://www.huffingtonpost.com/john-rampton/3-easy-steps-to-get-start_b_11302694.html</link>
+            <guid isPermaLink="false">beba4d6b-e340-4a53-8318-2c8219e7ccb6</guid>
+            <pubDate>Wed, 03 Aug 2016 14:16:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Alibaba's Ant Financial Joins Quest for Transparency in Charitable Transactions]]></title>
             <description><![CDATA[<article><h1>Alibaba's Ant Financial Joins Quest for Transparency in Charitable Transactions</h1><p>In February, Bitcoin Magazine reported that Alipay, an online payment platform of the Chinese e-commerce corporation Alibaba Group Holding Ltd., had announced a project based on blockchain technology and cloud services. The announcement indicated the growing interest of Alibaba in distributed ledger technology. Now, it appears that the Chinese giant is gradually committing to the blockchain.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aa4e15f923a4d281bfaeee009b74d710/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Falibaba-s-ant-financial-joins-quest-for-transparency-in-charitable-transactions.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Exclusive: LexisNexis and start-up join to curb bitcoin money-laundering</h1><p>LONDON A company that provides banks with anti-money-laundering controls has teamed up with a bitcoin security firm to try to curb nefarious uses of the digital currency, such as drug trafficking and terrorism financing.</p></article>]]></description>
             <link>http://www.reuters.com/article/us-tech-bitcoin-aml-exclusive-idUSKCN10D21T</link>
             <guid isPermaLink="false">492a4db9-7461-4764-9a44-032abc1c6363</guid>
-            <pubDate>Wed, 03 Aug 2016 14:16:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin to Hardfork? Proposal Sees Grassroots Beginnings]]></title>
-            <description><![CDATA[<article><h1>Bitcoin to Hardfork? Proposal Sees Grassroots Beginnings</h1><p>After a year and a half of debate with no compromise reached, supporters of on-chain scaling, have, seemingly, decided to unilaterally hardfork. A new subreddit, r/btcfork, was announced earlier today, quickly gaining attention and momentum with numerous threads published in just hours after the announcement was made and many bitcoiners joining in the lively debate.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b90afc3f02d8764f279d18aa76a51433/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2Froad-fork-split.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-to-hardfork/</link>
-            <guid isPermaLink="false">ae15a92f-5419-4df0-96d2-7d1f9b58d9e2</guid>
             <pubDate>Wed, 03 Aug 2016 14:16:39 GMT</pubDate>
         </item>
     </channel>
