@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 14:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 14:20:36 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Indacoin: Buying Bitcoin, Litecoin with a Credit Card]]></title>
+            <description><![CDATA[<article><h1>Indacoin: Buying Bitcoin, Litecoin with a Credit Card</h1><p>Indacoin is an exchange service that allows users to buy bitcoin and litecoin with debit or credit cards. With customers across the world, in areas such as the US, Canada, Europe and the CIS region, this platform aims to make bitcoin more accessible to the average person.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/71bbdcda2b42d975c02998958ad96a77/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FIndacoin-Sponsored-Cover.png"></article>]]></description>
+            <link>http://bitcoinist.net/indacoin-bitcoin-credit-card/</link>
+            <guid isPermaLink="false">708c88e3-8c67-4961-86b2-efa8f8d15a86</guid>
+            <pubDate>Wed, 03 Aug 2016 14:16:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Expected Ethereum Hashrate of the New AMD Radeon RX 470 GPUs]]></title>
             <description><![CDATA[<article><h1>Expected Ethereum Hashrate of the New AMD Radeon RX 470 GPUs</h1><p>The new AMD Radeon RX 470 GPUs are supposed to start hitting the market in a few days and since their bigger brother - the RX 480 has turned out to be a good choice for Ethereum mining, although it did not perform that good in other algorithms, people are interested in how well the RX 470 does.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4f52ea18d498e0176b10de8e14e4b702/noop.jpg?input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F08%2Famd-radeon-rx-470-8gb-eth-hashrate-580x422.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.reddit.com/r/btcfork/comments/4vrc6d/we_are_forking/</link>
             <guid isPermaLink="false">1fe9192a-ccc4-4a18-b24d-39c91fc01474</guid>
             <pubDate>Wed, 03 Aug 2016 14:16:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin And Ethereum Are Plummeting: Why?]]></title>
-            <description><![CDATA[<article><h1>Bitcoin And Ethereum Are Plummeting: Why?</h1><p>No one seems to know why the world's #1 and #2 cryptocurrency networks Bitcoin and Ethereum are both plummeting today. Well, okay, this might have something to do with it. In the wake of the Bitfinex exchange hack news, Bitcoin and Ethereum sold off broadly, with Bitcoin down 7.43% over the last 24 hours and Ethereum down a life altering 21.59%.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/802a8c42401990428bf81c786dc16f45/noop.jpg?input=http%3A%2F%2Fi.huffpost.com%2Fgen%2F1080771%2Fimages%2Fo-BITCOIN-VIDEO-facebook.jpg"></article>]]></description>
-            <link>http://www.huffingtonpost.com/david-seaman/bitcoin-and-ethereum-are_b_11308876.html</link>
-            <guid isPermaLink="false">e1e98a23-0450-4aaf-ae6d-6bb0339e1f37</guid>
-            <pubDate>Wed, 03 Aug 2016 14:16:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
