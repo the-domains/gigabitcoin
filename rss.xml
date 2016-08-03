@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 14:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 14:21:25 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Alibaba's Ant Financial Joins Quest for Transparency in Charitable Transactions]]></title>
+            <description><![CDATA[<article><h1>Alibaba's Ant Financial Joins Quest for Transparency in Charitable Transactions</h1><p>In February, Bitcoin Magazine reported that Alipay, an online payment platform of the Chinese e-commerce corporation Alibaba Group Holding Ltd., had announced a project based on blockchain technology and cloud services. The announcement indicated the growing interest of Alibaba in distributed ledger technology. Now, it appears that the Chinese giant is gradually committing to the blockchain.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aa4e15f923a4d281bfaeee009b74d710/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Falibaba-s-ant-financial-joins-quest-for-transparency-in-charitable-transactions.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/alibaba-s-ant-financial-joins-quest-for-transparency-in-charitable-transactions-1470159416</link>
+            <guid isPermaLink="false">0035585a-8c02-43bf-9f65-96a7d2d5a683</guid>
+            <pubDate>Wed, 03 Aug 2016 14:16:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>What Bitcoin Core says: "there are many important stakeholders in the ecosystem" What Core does: hosts 2nd private event for only miners</p>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin to Hardfork? Proposal Sees Grassroots Beginnings</h1><p>After a year and a half of debate with no compromise reached, supporters of on-chain scaling, have, seemingly, decided to unilaterally hardfork. A new subreddit, r/btcfork, was announced earlier today, quickly gaining attention and momentum with numerous threads published in just hours after the announcement was made and many bitcoiners joining in the lively debate.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b90afc3f02d8764f279d18aa76a51433/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2Froad-fork-split.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/bitcoin-to-hardfork/</link>
             <guid isPermaLink="false">ae15a92f-5419-4df0-96d2-7d1f9b58d9e2</guid>
-            <pubDate>Wed, 03 Aug 2016 14:16:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Indacoin: Buying Bitcoin, Litecoin with a Credit Card]]></title>
-            <description><![CDATA[<article><h1>Indacoin: Buying Bitcoin, Litecoin with a Credit Card</h1><p>Indacoin is an exchange service that allows users to buy bitcoin and litecoin with debit or credit cards. With customers across the world, in areas such as the US, Canada, Europe and the CIS region, this platform aims to make bitcoin more accessible to the average person.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/71bbdcda2b42d975c02998958ad96a77/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FIndacoin-Sponsored-Cover.png"></article>]]></description>
-            <link>http://bitcoinist.net/indacoin-bitcoin-credit-card/</link>
-            <guid isPermaLink="false">708c88e3-8c67-4961-86b2-efa8f8d15a86</guid>
             <pubDate>Wed, 03 Aug 2016 14:16:39 GMT</pubDate>
         </item>
     </channel>
