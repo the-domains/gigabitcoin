@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 14:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 14:21:11 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Miners and Developers Meet in California to]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Miners and Developers Meet in California to</h1><p>What was thought by some to be a secret meeting of Bitcoin miners and Bitcoin Core developers turned out to look more like a company retreat than anything else, according to those in attendance.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ec6a8218f252ca375075588ce834828d/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fbitcoin-miners-and-developers-meet-in-california-to-improve-communications.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/bitcoin-miners-and-developers-meet-in-california-to-improve-communications-1470158657</link>
+            <guid isPermaLink="false">d4cfb408-7b0d-4794-944f-73dde3fe37c9</guid>
+            <pubDate>Wed, 03 Aug 2016 14:16:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Satoshi Forest Homeless Outreach Program Threatened by Judge]]></title>
             <description><![CDATA[<article><h1>Satoshi Forest Homeless Outreach Program Threatened by Judge</h1><p>Bitcoin.com Also read: 'Decentralized Uber' App Delivers 1,000 Meals in Austin, Texas recently spoke with Michael Kimberl of Sean's Outpost concerning an upcoming threat against the Satoshi Forest sanctuary's livelihood by neighboring property owners and Escambia County officials.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/07da606e9bd33497f3b8a3ee90e71ad9/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FSO.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Expected Ethereum Hashrate of the New AMD Radeon RX 470 GPUs</h1><p>The new AMD Radeon RX 470 GPUs are supposed to start hitting the market in a few days and since their bigger brother - the RX 480 has turned out to be a good choice for Ethereum mining, although it did not perform that good in other algorithms, people are interested in how well the RX 470 does.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4f52ea18d498e0176b10de8e14e4b702/noop.jpg?input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F08%2Famd-radeon-rx-470-8gb-eth-hashrate-580x422.jpg"></article>]]></description>
             <link>http://cryptomining-blog.com/8186-expected-ethereum-hashrate-of-the-new-amd-radeon-rx-470-gpus/</link>
             <guid isPermaLink="false">12c11908-7240-4d36-917a-086f6a3913da</guid>
-            <pubDate>Wed, 03 Aug 2016 14:16:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitfinex security breach: Trading will be halted as well as all crypto deposits/withdrawals * /r/Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Bitfinex security breach: Trading will be halted as well as all crypto deposits/withdrawals * /r/Bitcoin</h1><p>Today we discovered a security breach that requires us to halt all trading on Bitfinex, as well as halt all digital token deposits to and...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
-            <link>https://www.reddit.com/r/Bitcoin/comments/4vtuxo/bitfinex_security_breach_trading_will_be_halted/</link>
-            <guid isPermaLink="false">256aa95b-4e8a-4bdc-b0e7-1a8c22ae91bb</guid>
             <pubDate>Wed, 03 Aug 2016 14:16:38 GMT</pubDate>
         </item>
     </channel>
