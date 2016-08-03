@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 14:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 14:18:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How can I verify my merkle root function is correct?]]></title>
+            <description><![CDATA[<article><h1>How can I verify my merkle root function is correct?</h1><p>I've started playing with Bitcoin on a more technical level recently (I'm an experienced software developer but just a user of Bitcoin up until now). I'm trying to implement a function to calculate a</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/46843/how-can-i-verify-my-merkle-root-function-is-correct</link>
+            <guid isPermaLink="false">a6b0b67d-9403-46b2-9bf5-f570e0199e1a</guid>
+            <pubDate>Wed, 03 Aug 2016 14:16:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UNICEF Seeks Developer for Innovation Projects including Blockchain's Humanitarian Uses]]></title>
+            <description><![CDATA[<article><h1>UNICEF Seeks Developer for Innovation Projects including Blockchain's Humanitarian Uses</h1><p>UNICEF is looking for a software developer/consultant in New York City for an 11.5-month assignment in its Office of Innovation. The developer will assist in the development of blockchain's humanitarian uses, according to a posted notice. The developer will help create products to solve problems in developing nations.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/743f56f1bddb869327dd1131ef77bea4/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FUNICEF-Seeks-Developer-For-Innovation-Projects.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/unicef-seeks-developer-for-innovation-projects-including-blockchains-humanitarian-uses/</link>
+            <guid isPermaLink="false">490989ba-fdb2-4255-ac86-c22caac8addc</guid>
+            <pubDate>Wed, 03 Aug 2016 14:16:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitfinex executive says 119,756 bitcoin stolen from Hong Kong exchange]]></title>
             <description><![CDATA[<article><h1>Bitfinex executive says 119,756 bitcoin stolen from Hong Kong exchange</h1><p>Technology | Wed Aug 3, 2016 2:29am EDT HONG KONG Nearly 120,000 bitcoin has been stolen from the exchange platform Bitfinex in Hong Kong, an executive from the bourse said on Wednesday. Zane Tackett, Director of Community & Product Development, was speaking to Reuters after the digital currency exchange suspended trading after it discovered a security breach.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e97add1cee49d9d0a7f087204eafc069359e468.png"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Grafana</h1></article>]]></description>
             <link>http://p2sh.info/dashboard/db/p2sh-statistics</link>
             <guid isPermaLink="false">2fe78a28-9c43-4b4a-ac22-d7f71a86d33e</guid>
-            <pubDate>Wed, 03 Aug 2016 14:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[United Pharmacies Launches Bitcoin Payment Method for Convenience and Anonymity]]></title>
-            <description><![CDATA[<article><h1>United Pharmacies Launches Bitcoin Payment Method for Convenience and Anonymity</h1><p>United Pharmacies has joined the list of retailing outlets that accept bitcoin as a form of payment. United Pharmacies sells drugs whose o rder for personal use is legal in most countries including the U.S. and the U.K.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f2845ac6004bbc19e3545957abb60cc6/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FUnited-Pharmacies-Launch-Bitcoin-Payment.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/convenience-anonymity-key-to-united-pharmacies-addition-of-bitcoin-as-a-payment-method/</link>
-            <guid isPermaLink="false">f2027875-238f-423e-bdd8-135b3c742b15</guid>
-            <pubDate>Wed, 03 Aug 2016 14:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LexisNexis Aiming To Stop Bitcoin Bad Guys | PYMNTS.com]]></title>
-            <description><![CDATA[<article><h1>LexisNexis Aiming To Stop Bitcoin Bad Guys | PYMNTS.com</h1><p>Bitcoin appeals to many different people, including the nefarious ones that like the anonymity associated with digital currency. LexisNexis, the company that provides banks with anti-money laundering controls, is aiming to stop the bad guys in their tracks when using bitcoin for illegal activities and is teaming up with London startup Elliptic to do so.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5416b23e329c3d7c3c7c4b92397b7027/noop.jpg?input=http%3A%2F%2Fcdn.pymnts.com%2Fwp-content%2Fuploads%2F2016%2F08%2Flexisnexis_bitcoin-1000x600.jpg"></article>]]></description>
-            <link>http://www.pymnts.com/news/bitcoin-tracker/2016/lexisnexis-bitcoin-elliptic/</link>
-            <guid isPermaLink="false">db55e988-7f14-4ced-bf51-37fc2392527d</guid>
             <pubDate>Wed, 03 Aug 2016 14:16:00 GMT</pubDate>
         </item>
     </channel>
