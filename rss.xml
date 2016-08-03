@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 14:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 14:21:57 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Troubled Waters for Coinbase: Increasing Fees, Neglection of ETC, and Rumors about Insolvency]]></title>
+            <description><![CDATA[<article><h1>Troubled Waters for Coinbase: Increasing Fees, Neglection of ETC, and Rumors about Insolvency</h1><p>As probably everyone knows now, Coinbase intends to quadruple its fees effective as of August 5 this year. Having failed to provide any explanation for such abrupt upsurge of charges, the exchange now faces yet another string of critical statements from across the community.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c962ef9a79faf1dc5e7cb464b254632ffee5c505.png"></article>]]></description>
+            <link>http://forklog.net/troubled-waters-for-coinbase-increasing-fees-neglection-of-etc-and-rumors-about-insolvency/</link>
+            <guid isPermaLink="false">a9e31cdc-cf2d-478c-998b-894f5e1ec826</guid>
+            <pubDate>Wed, 03 Aug 2016 14:16:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[United Pharmacies Begin Accepting Bitcoin Payments]]></title>
             <description><![CDATA[<article><h1>United Pharmacies Begin Accepting Bitcoin Payments</h1><p>The online drug store and medical platform United Pharmacies has officially introduced Bitcoin as its newest payment method, offering 10% discount for all drugs and products listed on its store. United Pharmacies is one of the few firms in the pharmaceutical industry to offer Bitcoin as one of its main forms of payment because of the strict Know-Your-Customer (KYC) regulations imposed on companies in the industry.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/53b6b9f271f6c4a9c8567ce6ec618b1f/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zMGQ5NWQxNTc3OTNhNzVlNDMwMTRmYTA3N2QzMjQ0MS5qcGc%3D.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<p>What Bitcoin Core says: "there are many important stakeholders in the ecosystem" What Core does: hosts 2nd private event for only miners</p>]]></description>
             <link>https://twitter.com/ofnumbers/status/760125284595085312</link>
             <guid isPermaLink="false">6c04fbde-5b11-495b-b96a-5b3e5bb665e9</guid>
-            <pubDate>Wed, 03 Aug 2016 14:16:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Miners and Developers Meet in California to]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Miners and Developers Meet in California to</h1><p>What was thought by some to be a secret meeting of Bitcoin miners and Bitcoin Core developers turned out to look more like a company retreat than anything else, according to those in attendance.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ec6a8218f252ca375075588ce834828d/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fbitcoin-miners-and-developers-meet-in-california-to-improve-communications.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/bitcoin-miners-and-developers-meet-in-california-to-improve-communications-1470158657</link>
-            <guid isPermaLink="false">d4cfb408-7b0d-4794-944f-73dde3fe37c9</guid>
             <pubDate>Wed, 03 Aug 2016 14:16:53 GMT</pubDate>
         </item>
     </channel>
