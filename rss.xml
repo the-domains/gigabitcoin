@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 14:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 14:19:30 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[We are forking. * /r/btcfork]]></title>
-            <description><![CDATA[<article><h1>We are forking. * /r/btcfork</h1><p>As you may or may not know, there are some people in the community that now feel the only way forward for bitcoin is a hardfork split. A split...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
-            <link>https://www.reddit.com/r/btcfork/comments/4vrc6d/we_are_forking/</link>
-            <guid isPermaLink="false">1fe9192a-ccc4-4a18-b24d-39c91fc01474</guid>
-            <pubDate>Wed, 03 Aug 2016 14:16:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin And Ethereum Are Plummeting: Why?]]></title>
-            <description><![CDATA[<article><h1>Bitcoin And Ethereum Are Plummeting: Why?</h1><p>No one seems to know why the world's #1 and #2 cryptocurrency networks Bitcoin and Ethereum are both plummeting today. Well, okay, this might have something to do with it. In the wake of the Bitfinex exchange hack news, Bitcoin and Ethereum sold off broadly, with Bitcoin down 7.43% over the last 24 hours and Ethereum down a life altering 21.59%.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/802a8c42401990428bf81c786dc16f45/noop.jpg?input=http%3A%2F%2Fi.huffpost.com%2Fgen%2F1080771%2Fimages%2Fo-BITCOIN-VIDEO-facebook.jpg"></article>]]></description>
-            <link>http://www.huffingtonpost.com/david-seaman/bitcoin-and-ethereum-are_b_11308876.html</link>
-            <guid isPermaLink="false">e1e98a23-0450-4aaf-ae6d-6bb0339e1f37</guid>
-            <pubDate>Wed, 03 Aug 2016 14:16:37 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Remote Mining - Dealing with Security Issues]]></title>
             <description><![CDATA[<article><h1>Remote Mining - Dealing with Security Issues</h1><p>Whatever the reason, many of us often leave our PCs on even when we are not at home. For regular users, the reason might be a big download or a render of a large file. On the other hand, for a miner, it is logical that you need your rigs working as much as possible without any interruptions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/64f45db299fd3c7bd5eb6df33083460f/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Flaptop-mobile.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>https://www.quora.com/What-are-some-best-articles-or-tutorials-to-understand-blockchain-of-bitcoin</link>
             <guid isPermaLink="false">5c6ccb12-8b23-4784-974e-1cedbdb41721</guid>
             <pubDate>Wed, 03 Aug 2016 14:16:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Technical Analysis for 08/03/2016 - Bulls to Return? - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 08/03/2016 - Bulls to Return? - NEWSBTC</h1><p>Bitcoin price is testing a long-term support area, with technical indicators hinting at a continuation of the climb. Bitcoin Price Key Highlights Bitcoin price is testing a long-term support area, with technical indicators hinting at a continuation of the climb.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3f14ef6a538a8bf64b9d1aede24e0e19/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F03041745%2F160803_bitcon.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/03/bitcoin-price-technical-analysis-08032016-bulls-return/</link>
+            <guid isPermaLink="false">f1639fe6-ef19-417c-8f94-4bf609f3cefb</guid>
+            <pubDate>Wed, 03 Aug 2016 14:16:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Tumbles After Security Breach]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Tumbles After Security Breach</h1><p>Bitcoin is tumbling in trade after one of the largest exchanges for the digital currency says it has been hacked, with about $65M worth stolen. Bloomberg's Yuji Nakamura reports on "Trending Business." (Source: Bloomberg)</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f08e90145cff98fc1d9006456c86bd19/noop.jpg?input=http%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiNqjCefhHbvE%2Fv5%2F-1x-1.jpg"></article>]]></description>
+            <link>http://www.bloomberg.com/news/videos/2016-08-03/bitcoin-tumbles-after-security-breach</link>
+            <guid isPermaLink="false">53ce46ac-778c-46e3-b880-62ce26ad3b28</guid>
+            <pubDate>Wed, 03 Aug 2016 14:16:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
