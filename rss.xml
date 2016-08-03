@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 14:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 14:18:01 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Arduous Task of Regulating Bitcoin]]></title>
+            <description><![CDATA[<article><h1>The Arduous Task of Regulating Bitcoin</h1><p>Regulatory uncertainty will continue to inhibit the widespread adoption of cryptocurrencies. Though the U.S. federal government has made progress in regulating cryptocurrencies, uncertainty and ambiguity at the state level will be more difficult to overcome. Blockchain, the technology underpinning cryptocurrencies, will have a greater impact than the cryptocurrencies derived from it.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5b72baf937e5a0fc088f92420a99afa8/noop.jpg?input=https%3A%2F%2Fwww.stratfor.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fstratfor_full%2Fpublic%2Fmain%2Fimages%2Fsidebar-currencies.jpg%3Fitok%3D7zIdjgK1"></article>]]></description>
+            <link>https://www.stratfor.com/analysis/arduous-task-regulating-bitcoin</link>
+            <guid isPermaLink="false">e15b7468-e4ea-4e53-b6f6-cd0f97494b7d</guid>
+            <pubDate>Wed, 03 Aug 2016 14:16:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Far Away is The Next Global Financial Collapse?]]></title>
             <description><![CDATA[<article><h1>How Far Away is The Next Global Financial Collapse?</h1><p>At the same time, people may look back on the impending financial collapse in a few years from now, and say "We should have seen it coming". Over the past few months, there has been a lot of speculation regarding a new financial crisis.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43cfc6d43a55ea4f964a522ebe2781b17191ab0c.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>LEOcoin, an Entrepreneur's Alternative for Bitcoin Moves to Proof of Stake</h1><p>August 1, 2016 - LEOcoin, the cryptocurrency created by London-based LEOcoin Foundation has made an important change to its protocol to make it more robust and user-friendly. The organization reports successful migration from the previously used Proof of Work consensus protocol, similar to that of Bitcoin to a more efficient Proof of Stake consensus protocol.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48d6f1098c95aac9c288795a74e4a3c9/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F03124319%2FLEOcoin-1-1080x675.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/08/03/leocoin-entrepreneur-alternative-bitcoin-moves-proof-of-stake/</link>
             <guid isPermaLink="false">081d2b3d-780c-42d8-8c5c-03626b626c53</guid>
-            <pubDate>Wed, 03 Aug 2016 14:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Slump Factors: EU Regulation, Halving, ETC, Scaling Issue]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Slump Factors: EU Regulation, Halving, ETC, Scaling Issue</h1><p>Aside the Bitfinex hack which is explicable, every time there is a drop in the price of Bitcoin - as we have seen in recent days - several unfounded factors tend to crop up to provide plausible cause. This article was written to look at issues that affect Bitcoin price and yet defy a collective reasoning of consensus among many users.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/906657d34c581425c5fa88fd56d725eb/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy80NWRkNjcxYzQ1NDMzMDM4YjRlYmZkOGVjM2JiODQ4Ny5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/bitcoin-slump-factors-eu-regulation-halving-etc-scaling-issue</link>
-            <guid isPermaLink="false">9f7ab64a-49bc-4a60-a8bb-c71aa866b9e9</guid>
             <pubDate>Wed, 03 Aug 2016 14:16:00 GMT</pubDate>
         </item>
     </channel>
