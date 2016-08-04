@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 05:48:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 05:48:19 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Watch; A Slow Day's Session - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Watch; A Slow Day's Session - NEWSBTC</h1><p>Here's a look at what we are focusing on in the bitcoin price this evening. In this morning's bitcoin price watch analysis, our primary focus was the forming of a triangle, a classical charting pattern, and the implications of this triangle from our strategy throughout the day.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/da6a29ce1d2c343ea282712a1bea6cfa/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F03182013%2FScreen-Shot-2016-08-03-at-19.15.57.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/03/bitcoin-price-watch-slow-days-session/</link>
+            <guid isPermaLink="false">8ece0209-7ed7-4db9-8634-e860702a73d2</guid>
+            <pubDate>Thu, 04 Aug 2016 05:46:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How can bitcoins be stolen when the underlying blockchain is supposed to track all transfers?]]></title>
+            <description><![CDATA[<article><h1>How can bitcoins be stolen when the underlying blockchain is supposed to track all transfers?</h1><p>Answer (1 of 2): Bitcoin are often stolen because someone found the password/passphrase that locked your satoshis. In Bitcoin system, everyone can see other's wallets (Here Bitcoin Block Explorer - Blockchain.info). However that does not mean that you have access to them. Every Bitcoin address i...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f557cc6fb54fd6464415c28e49775bc4f78a527b.png"></article>]]></description>
+            <link>https://www.quora.com/How-can-bitcoins-be-stolen-when-the-underlying-blockchain-is-supposed-to-track-all-transfers</link>
+            <guid isPermaLink="false">0066e3d0-8fef-4479-8cff-42b1ac77319f</guid>
+            <pubDate>Thu, 04 Aug 2016 05:46:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hackers steal bitcoins worth millions in attack on exchange]]></title>
+            <description><![CDATA[<article><h1>Hackers steal bitcoins worth millions in attack on exchange</h1><p>The exchange, Bitfinex, responded by halting trading, deposits and withdrawals, prompting a plunge in the Bitcoin price. "We are investigating the breach to determine what happened, but we know that some of our users have had their bitcoins stolen," the company said in a blog post on Wednesday.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/da8ca45287434c0f4341c81401f4f7f4/noop.jpg?input=http%3A%2F%2Fi2.cdn.turner.com%2Fmoney%2Fdam%2Fassets%2F141109141631-24-hours-on-bitcoin-1024x576.jpg"></article>]]></description>
+            <link>http://money.cnn.com/2016/08/03/technology/bitcoin-exchange-bitfinex-hacked/index.html</link>
+            <guid isPermaLink="false">88f0c7f3-98f7-4436-85b8-570146109af6</guid>
+            <pubDate>Thu, 04 Aug 2016 05:46:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Decentralized Social Network Yours to Use Lightning Network]]></title>
             <description><![CDATA[<article><h1>Decentralized Social Network Yours to Use Lightning Network</h1><p>Decentralized social network Yours is closing in on its launch. Currently, the team gives away invites to anyone who had provided their e-mail on the project's landing page. The invites will be distributed within the next few weeks, however, it's still unknown whether there's a limited number thereof.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a6182f1f910d32d760579ab82fd4da6c/croprotate.png?cropheight=168&cropwidth=700&degrees=0&input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2015%2F05%2Flogo_light.png&x=0&y=10"></article>]]></description>
@@ -53,27 +74,6 @@
             <description><![CDATA[<article><img src="http://imgur.com/IqaX6vh.jpg"></article>]]></description>
             <link>https://i.imgur.com/IqaX6vh.jpg</link>
             <guid isPermaLink="false">821db851-cb22-4199-9ea5-98b67148182c</guid>
-            <pubDate>Thu, 04 Aug 2016 05:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Elliptic Partners with Security Firm for Bitcoin AML Platform]]></title>
-            <description><![CDATA[<article><h1>Elliptic Partners with Security Firm for Bitcoin AML Platform</h1><p>According to Reuters, Also read: Bitfinex Hack: US Regulation 'Prevented Cold Storage Use' a new partnership between LexisNexis and the London-based Elliptic aims to pool resources to prevent illicit bitcoin use and monitor money laundering through bank-grade tracking capabilities. LexisNexis Risk Solutions is a member of the multinational analytics firm RELX Group.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a28d707e02939d50de021cd42ad2acac/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FTwo-Tech-Firms-Build-a-Bank-Grade-Bitcoin-AML-Platform.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/elliptic-bitcoin-aml-platform/</link>
-            <guid isPermaLink="false">c298aed4-f3de-4987-94ef-ed55d3a2e1e2</guid>
-            <pubDate>Thu, 04 Aug 2016 05:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rootstock's Merge-Mining to Strengthen Bitcoin Network, Miners]]></title>
-            <description><![CDATA[<article><h1>Rootstock's Merge-Mining to Strengthen Bitcoin Network, Miners</h1><p>Several of the most influential Bitcoin companies have expressed their support to promote Smart Contracts over the Bitcoin network by participating in the RSK Federation. They include Bitcointoyou, Bitex, Bitfinex, bitFlyer, Bitgo, Bitoasis, Bitpay, Bitso, Bits of Gold, Bitstamp, Blockchain, Blockchain Intelligence Group, Blocktrail, BTCC, BitKan, JAXX, SurBTC, CoinBR, Huobi, OKCoin, Paycase, Tether, Unocoin, and Xapo.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0317aed42293f6260fdb8f3200d8ff76/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wODY0N2RiZDkxZmRhOTM2OWEzNGMzOGYyYjc5YjJjOC5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/rootstocks-merge-mining-to-strengthen-bitcoin-network-miners</link>
-            <guid isPermaLink="false">4a0119cd-3feb-4945-90c3-6dc969b11f62</guid>
-            <pubDate>Thu, 04 Aug 2016 05:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Credit Suisse Report Explores Blockchain Impact on 14 Public Stocks - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Credit Suisse Report Explores Blockchain Impact on 14 Public Stocks - CoinDesk</h1><p>New research from financial services giant Credit Suisse has identified four industries where it believes blockchain tech could have the biggest impact. The 135-page report, released today, highlights four areas where the technology can potentially lead to disruption - payments, capital markets, financial services, and media.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a0b2dba0b14655fd28261a7b7e6a34a1/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fstocks--e1470253026395.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/credit-suiss-blockchain-impact-stock-performance/</link>
-            <guid isPermaLink="false">6f4a40aa-0b8c-4e8a-8cd9-fa4aed9c453e</guid>
             <pubDate>Thu, 04 Aug 2016 05:45:55 GMT</pubDate>
         </item>
     </channel>
