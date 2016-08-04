@@ -4,50 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 05:47:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 05:46:49 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[E.U. Representatives Clarify the Proposed Anti-Money Laundering Directive]]></title>
-            <description><![CDATA[<article><h1>E.U. Representatives Clarify the Proposed Anti-Money Laundering Directive</h1><p>Last month, the European Commission published a draft directive proposing to extend anti-money laundering (AML) regulation to both virtual currency exchange services and custodial wallet providers. The draft suggests that many Bitcoin companies operating within the European Union will need to apply know-your-customer (KYC) types of checks on their users, to be enforced by 2017.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c02dc0741b97a63c15391e7982ad4731/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fe-u-representatives-clarify-the-proposed-anti-money-laundering-directive.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/e-u-representatives-clarify-the-proposed-anti-money-laundering-directive-1470242294</link>
-            <guid isPermaLink="false">7992416b-bee1-40cb-968d-f9aae68aedf7</guid>
-            <pubDate>Thu, 04 Aug 2016 05:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Too Many Hacks! Waterhole to Tackle Blockchain Security Problems]]></title>
-            <description><![CDATA[<article><h1>Too Many Hacks! Waterhole to Tackle Blockchain Security Problems</h1><p>Despite being hailed as the best for security, accountability and resilience, Blockchain initiatives seem quite exposed to all sorts of malicious actors. Mt.Gox collapse has become a byword, but there are other, more recent examples, such as The DAO attack, and the ensuing ETH vs. ETC feud, or the HashOcean hack.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0cef554762d9043052ff321f1ba59515/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83ZjMwMDY3OWE1Njk2OWYzNWMzYjEwMDk0ZTI3OTZhZC5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/too-many-hacks-waterhole-to-tackle-blockchain-security-problems</link>
-            <guid isPermaLink="false">b166d157-2d07-4249-ab2d-ddae34bb6367</guid>
-            <pubDate>Thu, 04 Aug 2016 05:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Faster HODLminer and a New Mining Pool For It Now Available]]></title>
-            <description><![CDATA[<article><h1>New Faster HODLminer and a New Mining Pool For It Now Available</h1><p>Recently HodlCoin (HODL) has implemented a hardfork that changed the way mining works for the coin essentially driving away miners in favor of the people that already hold the coin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/74daf58e9b32b70532d5f543b9cfa67a/noop.jpg?input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fhodlminer-optiminer-fork-580x293.jpg"></article>]]></description>
-            <link>http://cryptomining-blog.com/8196-new-faster-hodlminer-and-a-new-mining-pool-for-it-now-available/</link>
-            <guid isPermaLink="false">8932139c-f619-46be-aaf8-191834688e62</guid>
-            <pubDate>Thu, 04 Aug 2016 05:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="http://imgur.com/IqaX6vh.jpg"></article>]]></description>
-            <link>https://i.imgur.com/IqaX6vh.jpg</link>
-            <guid isPermaLink="false">821db851-cb22-4199-9ea5-98b67148182c</guid>
-            <pubDate>Thu, 04 Aug 2016 05:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Elliptic Partners with Security Firm for Bitcoin AML Platform]]></title>
-            <description><![CDATA[<article><h1>Elliptic Partners with Security Firm for Bitcoin AML Platform</h1><p>According to Reuters, Also read: Bitfinex Hack: US Regulation 'Prevented Cold Storage Use' a new partnership between LexisNexis and the London-based Elliptic aims to pool resources to prevent illicit bitcoin use and monitor money laundering through bank-grade tracking capabilities. LexisNexis Risk Solutions is a member of the multinational analytics firm RELX Group.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a28d707e02939d50de021cd42ad2acac/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FTwo-Tech-Firms-Build-a-Bank-Grade-Bitcoin-AML-Platform.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/elliptic-bitcoin-aml-platform/</link>
-            <guid isPermaLink="false">c298aed4-f3de-4987-94ef-ed55d3a2e1e2</guid>
-            <pubDate>Thu, 04 Aug 2016 05:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rootstock's Merge-Mining to Strengthen Bitcoin Network, Miners]]></title>
-            <description><![CDATA[<article><h1>Rootstock's Merge-Mining to Strengthen Bitcoin Network, Miners</h1><p>Several of the most influential Bitcoin companies have expressed their support to promote Smart Contracts over the Bitcoin network by participating in the RSK Federation. They include Bitcointoyou, Bitex, Bitfinex, bitFlyer, Bitgo, Bitoasis, Bitpay, Bitso, Bits of Gold, Bitstamp, Blockchain, Blockchain Intelligence Group, Blocktrail, BTCC, BitKan, JAXX, SurBTC, CoinBR, Huobi, OKCoin, Paycase, Tether, Unocoin, and Xapo.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0317aed42293f6260fdb8f3200d8ff76/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wODY0N2RiZDkxZmRhOTM2OWEzNGMzOGYyYjc5YjJjOC5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/rootstocks-merge-mining-to-strengthen-bitcoin-network-miners</link>
-            <guid isPermaLink="false">4a0119cd-3feb-4945-90c3-6dc969b11f62</guid>
-            <pubDate>Thu, 04 Aug 2016 05:45:55 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Credit Suisse Report Explores Blockchain Impact on 14 Public Stocks - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Credit Suisse Report Explores Blockchain Impact on 14 Public Stocks - CoinDesk</h1><p>New research from financial services giant Credit Suisse has identified four industries where it believes blockchain tech could have the biggest impact. The 135-page report, released today, highlights four areas where the technology can potentially lead to disruption - payments, capital markets, financial services, and media.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a0b2dba0b14655fd28261a7b7e6a34a1/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fstocks--e1470253026395.jpg"></article>]]></description>
@@ -75,6 +33,48 @@
             <link>https://letstalkbitcoin.com/blog/post/dash-across-america-the-journey-begins</link>
             <guid isPermaLink="false">62e96614-7607-4d68-ade7-e048f0d71bab</guid>
             <pubDate>Thu, 04 Aug 2016 05:45:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>An impressive new paper that proposes a way to provide nearly complete anonymity for all Bitcoin transactions. https://download.wpsoftware.net/bitcoin/wizardry/mimblewimble.txt ...</p>]]></description>
+            <link>https://www.twitter.com/balajis/status/760639347271962629</link>
+            <guid isPermaLink="false">0e42577c-025d-4370-823e-975a6f2eabc7</guid>
+            <pubDate>Thu, 04 Aug 2016 05:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="https://i.redd.it/kprlital36dx.jpg"></article>]]></description>
+            <link>https://i.redd.it/kprlital36dx.jpg</link>
+            <guid isPermaLink="false">91f1e45f-f189-4e26-b6e5-df3fb84910a0</guid>
+            <pubDate>Thu, 04 Aug 2016 05:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.S. Presidential Race, Bitcoin, Moon Express: Your Wednesday Evening Briefing]]></title>
+            <description><![CDATA[<article><h1>U.S. Presidential Race, Bitcoin, Moon Express: Your Wednesday Evening Briefing</h1><p>Good evening. Here's the latest. 1. Donald Trump's campaign has been buoyed by a torrent of small donations over the past month that nearly evened the financial playing field with Mrs. Clinton. His war chest now boasts $74 million in cash.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bddce37b14af736fa09a7c97e3f96cb9/noop.jpg?input=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2016%2F08%2F03%2Fnytnow%2F03eveningss-slide-KD72%2F03eveningss-slide-KD72-facebookJumbo.jpg"></article>]]></description>
+            <link>http://news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=us&amp;usg=AFQjCNEbXWMQI_Dcsan_6lTCKoaZw-dicw&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52779173020393&amp;ei=CnuiV6DaFsGshAGt65-YAQ&amp;url=http://www.nytimes.com/2016/08/03/nytnow/us-presidential-race-bitcoin-moon-express-your-wednesday-evening-briefing.html</link>
+            <guid isPermaLink="false">3d793bdf-4a3a-4e8c-a07d-f19953e76d58</guid>
+            <pubDate>Thu, 04 Aug 2016 05:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Millions' Worth of Bitcoin Stolen in Hacking of Exchange in Hong Kong]]></title>
+            <description><![CDATA[<article><h1>Millions' Worth of Bitcoin Stolen in Hacking of Exchange in Hong Kong</h1><p>HONG KONG - The digital currency Bitcoin plunged on Wednesday after Bitfinex, an exchange based in Hong Kong, said it had been hacked and funds stolen. The exchange said it had halted trading, deposits and withdrawals while it investigated which users had been affected.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e85f4828de1463ec75290b0a93734689/noop.jpg?input=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2016%2F08%2F03%2Fbusiness%2F04db-bitcoin%2F04db-bitcoin-facebookJumbo.jpg"></article>]]></description>
+            <link>http://news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=us&amp;usg=AFQjCNFC4ZrGUQftf2ht5NdEWV8PD41-Zw&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52779171837324&amp;ei=G4miV8jwJsGshAGt65-YAQ&amp;url=http://www.nytimes.com/2016/08/04/business/dealbook/bitcoin-bitfinex-hacked.html</link>
+            <guid isPermaLink="false">885a9cf6-61f1-4412-ad0b-1d2816b21c1d</guid>
+            <pubDate>Thu, 04 Aug 2016 05:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>PSA: Do not download fake Bitcoin Wallet app from the Apple appstore! Bitcoin Wallet is only available for Android and BlackBerry OS.</p>]]></description>
+            <link>https://twitter.com/bitcoin_wallet/status/760814150217895937</link>
+            <guid isPermaLink="false">0fdb1c58-ddb2-4c07-9a91-7fe08ee13f7e</guid>
+            <pubDate>Thu, 04 Aug 2016 05:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bet on MMA with Bitcoin: UFC Fight Night 21 - Bitcoinist.net]]></title>
+            <description><![CDATA[<article><h1>Bet on MMA with Bitcoin: UFC Fight Night 21 - Bitcoinist.net</h1><p>The best way to bet on sports online is with bitcoin. Many traditional online sportsbooks now accept bitcoin and also offer deposit bonuses for using the currency. You can also use the "pure" bitcoin sportsbooks that provide the quickest deposits and withdraws in the industry.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8f426ea3b85b0773142d5a1bf4342d9f/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F07%2Fbitcoinist_mma.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/bet-on-mma-with-bitcoin-ufc-fight-night-21/</link>
+            <guid isPermaLink="false">d90858c7-faf4-47b7-8b21-d844e6b0e170</guid>
+            <pubDate>Thu, 04 Aug 2016 05:45:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
