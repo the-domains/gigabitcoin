@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 14:55:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 14:55:22 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitfinex Publishes a Plan for the Exchange's Revival]]></title>
+            <description><![CDATA[<article><h1>Bitfinex Publishes a Plan for the Exchange's Revival</h1><p>Cryptocurrency exchange Bitfinex plans to gradually recover access for users in the wake of a hack and theft of 120k BTC. The exchange's administration has reiterated its statement that the team is working on reviving all functions. Currently, users may check their balance, however, trading, withdrawal and depositing are not available as for now.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/029c2a84573adffe48d5aab4ac2ebf59/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F04%2F13.png"></article>]]></description>
+            <link>http://forklog.net/bitfinex-publishes-a-plan-for-the-exchanges-revival/</link>
+            <guid isPermaLink="false">a12da55b-0f1a-4170-9a8d-d98b48c341ac</guid>
+            <pubDate>Thu, 04 Aug 2016 14:54:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What is the value of one Bitcoin in USD?]]></title>
             <description><![CDATA[<article><h1>What is the value of one Bitcoin in USD?</h1><p>I was once on a domestic U.S. flight and an 80-year old Italian couple sat behind me. While we were at the gate the man asked the stewardess, in very broken 'Italianglish' "scusi, where e lavatorio?" (excuse me, where is the lavatory?). The stewardess pointed towards the front of the cabin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2fb81fb5bcd4c440dee2d03fb2acc3c6/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.png2801ad8885530345.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Jaxx</h1><p>Note: Depending on your system settings, the operating system might warn you that "Jaxx can't be opened because it comes from an unidentified developer."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b55a81ae86c3cb89f084f4a30fce6ed0/noop.png?input=https%3A%2F%2Fjaxx.io%2Fimages%2FCapture.PNG"></article>]]></description>
             <link>http://jaxx.io</link>
             <guid isPermaLink="false">00fb64fd-b361-42b5-9e1b-1a4876a31929</guid>
-            <pubDate>Thu, 04 Aug 2016 14:54:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Home]]></title>
-            <description><![CDATA[<article><h1>Home</h1><p>Cascading disruption</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2c4da88fd529cde237c3da685abc7557/noop.jpg?input=https%3A%2F%2Fiohk.io%2Fimages%2Fiohk-symbol.jpg"></article>]]></description>
-            <link>http://iohk.io</link>
-            <guid isPermaLink="false">84999105-dbad-4bfd-8b69-52eea334b932</guid>
             <pubDate>Thu, 04 Aug 2016 14:54:41 GMT</pubDate>
         </item>
     </channel>
