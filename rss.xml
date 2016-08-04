@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 05:48:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 05:48:00 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Swedish FinTech Stakeholder SEB Invests in Coinify]]></title>
-            <description><![CDATA[<article><h1>Swedish FinTech Stakeholder SEB Invests in Coinify</h1><p>Danish-based bitcoin company, Coinify, has attracted a new FinTech investor, helping to increase its blockchain payment services in Europe. After joining a $4 million Series A funding round, Swedish banking investor, Skandinaviska Enskilda Banken, also known as SEB, now owns part of Coinify.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1528bcec37ad294128e0c5dfa38d17a7/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FSwedish-FinTech-Stakeholder-SEB-Invests-in-Coinify.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/fintech-company-turns-attention-blockchain-fight-fraud/</link>
-            <guid isPermaLink="false">5fbe5483-85e3-4adc-833d-f5cde95ad617</guid>
-            <pubDate>Thu, 04 Aug 2016 05:45:56 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[The Bitfinex Bitcoin Hack: What We Know (And Don't Know) - CoinDesk]]></title>
             <description><![CDATA[<article><h1>The Bitfinex Bitcoin Hack: What We Know (And Don't Know) - CoinDesk</h1><p>More than $60m worth of bitcoin was stolen from one of the world's largest digital currency exchanges yesterday, and nearly 24 hours later, the event is still shrouded in mystery. What is clear, though, is that the impact is far-reaching.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/90a0f55a43e90b80bdbe67fe8fe3857f/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FQuestion-Mark.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Elliptic Partners With LexisNexis on Bitcoin Analysis - CoinDesk</h1><p>Blockchain analytics startup Elliptic has integrated with LexisNexis, a move that provides the startup's clients with access to the vendor's global money laundering database. The hope, the companies say, is to provide financial services firms with data on bitcoins transactions so that they can avoid interacting with parties tied to money laundering or other perceived to illicit activities.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1023e5a4be125dcb48a003cec3f1095d/noop.jpg?input=http%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F04%2Fbalaji-srinivasan-headshot.jpg"></article>]]></description>
             <link>http://www.coindesk.com/elliptic-partners-with-risk-controls-firm-on-bitcoin-analysis/</link>
             <guid isPermaLink="false">2787804c-4a87-4202-850c-5394d320fbef</guid>
+            <pubDate>Thu, 04 Aug 2016 05:45:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Swedish Bank Joins Bitcoin Processor's $4 Million Series A - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Swedish Bank Joins Bitcoin Processor's $4 Million Series A - CoinDesk</h1><p>Swedish banking giant SEB Group and a Danish venture capital firm have invested $4m in Coinify, a digital currency payment processor based in Copenhagen. The Series A round included support from SEB as well as SEED Capital, an early-stage venture firm based in Denmark and an existing investor in the bitcoin startup.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/56539db85be98e8d4bdce88fe2f71bf6/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FBankhus_90_2010.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/coinify-series-a-4-million/</link>
+            <guid isPermaLink="false">558d412c-7587-4cd7-a783-b8ba4964934e</guid>
             <pubDate>Thu, 04 Aug 2016 05:45:55 GMT</pubDate>
         </item>
     </channel>
