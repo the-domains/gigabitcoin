@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 05:48:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 05:48:46 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[How to Make Bitcoin Thefts Impossible]]></title>
-            <description><![CDATA[<article><h1>How to Make Bitcoin Thefts Impossible</h1><p>The list of bitcoin thefts is far too long. Over the past, almost, eight years, we can roughly estimate $1 billion or more have been stolen. Each time, there is devastation for the individuals involved and the wider community as bitcoin's security is brought to the forefront.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9f89e9c0ea7f82e3376d1dc564240435/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FHow-to-Make-Bitcoin-Thefts-Impossible.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/how-to-make-bitcoin-thefts-impossible/</link>
-            <guid isPermaLink="false">1a673afa-224e-488e-87ca-6faf2b88e4e9</guid>
-            <pubDate>Thu, 04 Aug 2016 05:46:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Decline Bounces From $465]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Decline Bounces From $465</h1><p>Bitcoin price slammed through several layers of support to hit a previous long-term resistance level at $465. Although the market seems to have found a bottom, there is not yet any technical reason to believe the decline is complete. Now is the time to count your money and sit out of the market for a few days or weeks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d714cec72d9bbe1a1109182824c75a3c/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FBitcoin-Price-Decline-Bounces-From-465-1.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-price-decline-bounces-465/</link>
-            <guid isPermaLink="false">4011535e-e4ec-4337-bad6-12dadbde3180</guid>
-            <pubDate>Thu, 04 Aug 2016 05:46:11 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Did CFTC Regulations Prevent Bitfinex From Offering Cold Storage?]]></title>
             <description><![CDATA[<article><h1>Did CFTC Regulations Prevent Bitfinex From Offering Cold Storage?</h1><p>Some notable experts claim that this regulatory framework presented by the CFTC may have prevented Bitfinex from using cold storage. On June 2, the U.S. Commodity Futures Trading Commission (CFTC) fined Bitfinex US$75,000 for handling illegal off-exchange financial retail commodity transactions without registering as a futures commission merchant.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e39efec23cd678e0dcf9693ff7264ebc/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F03155227%2Fo-BITCOIN-facebook1.jpg"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><img src="https://i.redd.it/0rj7e6ixj3dx.jpg"></article>]]></description>
             <link>https://i.redd.it/0rj7e6ixj3dx.jpg</link>
             <guid isPermaLink="false">66e642ad-2d4b-4e3b-bb27-02e21541a74a</guid>
+            <pubDate>Thu, 04 Aug 2016 05:46:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rapid7 Researchers Pinpoint Point-of-Sale Vulnerabilities]]></title>
+            <description><![CDATA[<article><h1>Rapid7 Researchers Pinpoint Point-of-Sale Vulnerabilities</h1><p>None of these attacks should be possible in this capacity, yet the majority of point-of-sale devices is vulnerable to this type of attack. Most people are well aware of how using credit cards is becoming a significant security risk these days. Not just online, where data breaches are running rampant these days.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ccb0faa45c1c0e2af7723738c05cd4ae/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F03101541%2Fshutterstock_411184423-825x510.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/03/rapid7-researchers-pinpoint-point-sale-vulnerabilities/</link>
+            <guid isPermaLink="false">e29942c5-d890-4143-9bc4-5e95137c83f7</guid>
+            <pubDate>Thu, 04 Aug 2016 05:46:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is Craig Wright the bitcoin genius?]]></title>
+            <description><![CDATA[<article><h1>Is Craig Wright the bitcoin genius?</h1><p>Is Craig Wright the multimillionaire genius behind bitcoin: the digital currency now worth over £8bn and threatening to do for banks what Uber did to cab offices? Or does he just really want people to believe he is? Earlier this year, we were granted an interview with Wright.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0175175319a3312e3943390f24bac0e2/noop.jpg?input=http%3A%2F%2Fgq-images.s3.amazonaws.com%2F72%2Fbb%2F611bf5e0.jpg"></article>]]></description>
+            <link>http://www.gq-magazine.co.uk/article/craig-wright-bitcoin-interview</link>
+            <guid isPermaLink="false">7cd02641-5e49-4262-b75e-3b0c70c42d7b</guid>
             <pubDate>Thu, 04 Aug 2016 05:46:07 GMT</pubDate>
         </item>
     </channel>
