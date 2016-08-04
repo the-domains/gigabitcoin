@@ -4,13 +4,20 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 14:57:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 14:57:25 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ShapeShift Introduces New Ethereum Splitter Tool]]></title>
             <description><![CDATA[<article><h1>ShapeShift Introduces New Ethereum Splitter Tool</h1><p>ShapeShift, the popular instant cryptocurrency exchange platform, has added a new feature. For quite some time now, there has been confusion on how users can separate their Ethereum and Ethereum Classic coins correctly. Ethereum Splitter, as this new feature is called, takes care of this problem automatically.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6e80d86a26a563a2247f17c349ef056f/noop.png?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2FEthereum-Splitter.png"></article>]]></description>
             <link>http://themerkle.com/shapeshift-introduces-new-ethereum-splitter-tool/</link>
             <guid isPermaLink="false">20646850-b406-4e52-8ab7-02d44908d5e7</guid>
+            <pubDate>Thu, 04 Aug 2016 14:54:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin's unhackable. Bitcoin banks? Not so.]]></title>
+            <description><![CDATA[<article><h1>Bitcoin's unhackable. Bitcoin banks? Not so.</h1><p>There was a major heist today worth at one point $77 million. No guns, no getaway cars, though, it was all done digitally. In fact, there were no dollars either, it was a theft of digital currency: Bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d78847da1bf8363861ae27350fc5bb5a/noop.jpg?input=http%3A%2F%2Fcms.marketplace.org%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fprimary-image-900x500%2Fpublic%2FGettyImages-166302862.jpg%3Fitok%3DuJcE2RcS"></article>]]></description>
+            <link>http://www.marketplace.org/2016/08/03/world/bitcoin</link>
+            <guid isPermaLink="false">c41426fc-4182-447a-b09a-5ea5187520d3</guid>
             <pubDate>Thu, 04 Aug 2016 14:54:58 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitfinex Hack to Blame for Massive Bitcoin Price Drop</h1><p>After a steady week of hovering in the $650 range, the bitcoin price has been dealt a massive blow. Investors and enthusiasts were shocked to discover that the world's favorite coin had fallen by more than $100 into the low $500s.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0235dde9b4fc755bea413b0176e6b6b5/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2Fbitfinexoutagesplash.png"></article>]]></description>
             <link>http://bitcoinist.net/bitfinex-hack-bitcoin-drop/</link>
             <guid isPermaLink="false">9c77862b-3f3f-48cb-987d-3a97593559c8</guid>
-            <pubDate>Thu, 04 Aug 2016 14:54:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ransomware Is Now Spreading Through Computer Shortcut Files]]></title>
-            <description><![CDATA[<article><h1>Ransomware Is Now Spreading Through Computer Shortcut Files</h1><p>Ransomware is such a big threat these days; it seems to be looming around every corner on the Internet. While most types of malware are downloaded to the computer or another device directly, some of the newer forms are hiding in shortcuts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/af0a616269dc2226600dd6095d32202e/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_433282057.jpg"></article>]]></description>
-            <link>http://themerkle.com/ransomware-is-now-spreading-through-computer-shortcut-files/</link>
-            <guid isPermaLink="false">1bba79e9-ecbf-4647-b0ba-14d104b7a0a6</guid>
             <pubDate>Thu, 04 Aug 2016 14:54:55 GMT</pubDate>
         </item>
     </channel>
