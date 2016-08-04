@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 14:56:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 14:56:25 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[VCAP Crowdsale to Fund the First Ever Cryptocurrency Crowdfunded Feature Film]]></title>
+            <description><![CDATA[<article><h1>VCAP Crowdsale to Fund the First Ever Cryptocurrency Crowdfunded Feature Film</h1><p>August 3, 2016, New York - Vulture Capital, the cryptocurrency arm of Hedley Productions has recently announced the launch of its own Ethereum based VCAP cryptocurrency crowdsale. With this crowdsale, Vulture Capital is looking forward to produce the first feature film of its kind funded by cryptocurrency.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/93900bd1d23c4d1c1fd3cf4b87bc5d4f/croprotate.png?cropheight=306&cropwidth=1000&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F04100425%2FVCAP.png&x=0&y=155"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/04/vcap-crowdsale-to-fund-the-first-ever-cryptocurrency-crowdfunded-feature-film/</link>
+            <guid isPermaLink="false">be9511cc-edd7-4863-8a81-9ebd1ba8a604</guid>
+            <pubDate>Thu, 04 Aug 2016 14:54:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Failed Mobile Banking Initiative In India Creates New Bitcoin Opportunity]]></title>
             <description><![CDATA[<article><h1>Failed Mobile Banking Initiative In India Creates New Bitcoin Opportunity</h1><p>As of May 2016, a total of 3.7 million mobile transactions were recorded since the launch nearly two years prior. Even though there has been a significant increase in mobile device usage among residents of India, mobile banking will not be coming anytime soon.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d70cc38209db94de4b9931a39acf5023/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F04095038%2Fshutterstock_395463412.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Mimblewimble Paper Proposes 'Near Complete' Bitcoin Anonymity</h1><p>21inc's Balaji S. Srinivasan recently pointed out an interesting paper that proposes to anonymize all Bitcoin transactions. The process is called Mimblewimble, and it prevents the blockchain from broadcasting user information. Also read: Bitcoin Price Dives 22% After $60 Million Bitfinex Hack The paper written by Tom Elvis Jedusor published on July 19 gives a comprehensive new outlook on the anonymization of Bitcoin transactions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/836c619002af9423ed2f97a5eea1977d/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FMimblewimble-Paper-Focuses-On-Bitcoin-Anonymity.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/mimblewimble-bitcoin-anonymity/</link>
             <guid isPermaLink="false">12cf3f3f-ec5b-4814-8e53-0cb13bc46031</guid>
-            <pubDate>Thu, 04 Aug 2016 14:54:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Are Bitfinex And BitGo Hiding From The Public?]]></title>
-            <description><![CDATA[<article><h1>What Are Bitfinex And BitGo Hiding From The Public?</h1><p>Over the past 24 hours, there has been plenty of speculation regarding the involvement of BitGo in the Bitfinex hack. Interestingly enough, the company seems to get away scot-free, as their internal investigation revealed no breach. But at the same time, they are the responsible party for co-signing every transaction taking place on the exchange platform.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4556aedf835bd5da4b5589acddfe21b0/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_248927497.jpg"></article>]]></description>
-            <link>http://themerkle.com/what-are-bitfinex-and-bitgo-hiding-from-the-public/</link>
-            <guid isPermaLink="false">3cf632df-7751-40dc-8583-54b6e179c6af</guid>
             <pubDate>Thu, 04 Aug 2016 14:54:44 GMT</pubDate>
         </item>
     </channel>
