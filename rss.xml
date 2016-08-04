@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 14:55:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 14:55:19 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Let's Talk Bitcoin LIVE! 10-11:30am Pacific August 4th Immutability vs Consensus]]></title>
+            <description><![CDATA[<article><h1>Let's Talk Bitcoin LIVE! 10-11:30am Pacific August 4th Immutability vs Consensus</h1><p>The Ethereum Immutability vs Consensus Debate On this special LIVE episode of Let's Talk Bitcoin! Join Adam B. Levine, Stephanie Murphy, Andreas Antonopoulos, Martin Köppelmann of Gnosis, Anthony Di Iorio of Jaxx and Charles Hoskinson of IOHK for a discussion and moderated debate about the future of Ethereum.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7a7e9d8a93cbe0cd6368aedf4664100b/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1879-55a123a4b8a4b7c4dec58b1e4180f89ae66c72c669d01fa94f3b4a66f2ad4e03.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/lets-talk-bitcoin-live-10-1130am-pacific-august-4th-immutability-vs-consensus</link>
+            <guid isPermaLink="false">2591d599-45d8-4e10-96ef-1de769a593d9</guid>
+            <pubDate>Thu, 04 Aug 2016 14:54:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GNOSIS - the decentralized prediction market software]]></title>
             <description><![CDATA[<article><h1>GNOSIS - the decentralized prediction market software</h1><p>Based on the next generation crypto currency network Ethereum. Make complex predictions with an easy to use prediction market.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/eff3e669763116baf8b532a275101723/noop.png?input=http%3A%2F%2Fgnosis.pm%2Fstatic%2Flandingpage%2Fimg%2Fprediction-img.ad93fa4534e6.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The Future of IoT: Blockchain Biometrics with HYPR</h1><p>Biometrics is a new and effective trend in the security industry. HYPR deploys biometrics in financial applications, but also adds the benefits of decentralized technology to enable enterprises to eliminate passwords and replace them with biometrics.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/af299052a6a79c31add5133ce17f8d0d/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F05%2FHYPR-CEO-interview-Cover.png"></article>]]></description>
             <link>http://bitcoinist.net/future-iot-blockchain-hypr/</link>
             <guid isPermaLink="false">35ee3511-853a-4e84-909b-f0f9ddd0031a</guid>
-            <pubDate>Thu, 04 Aug 2016 05:46:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Key Hires Should Help Put Digital Asset Holdings On The Global Map]]></title>
-            <description><![CDATA[<article><h1>New Key Hires Should Help Put Digital Asset Holdings On The Global Map</h1><p>Digital Asset Holdings is a well-respected name in the world of blockchain development. Thanks to a series of strategic partnerships and acquisitions, the company headed by Blythe Masters has been making a name for itself. But the company also wants to establish a presence around the world, and several key senior hires have been made.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3b5adef8ea608314016954a7a52eae9c/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_330560387.jpg"></article>]]></description>
-            <link>http://themerkle.com/new-key-hires-should-help-put-digital-asset-holdings-on-the-global-map/</link>
-            <guid isPermaLink="false">cc29694d-3c43-437a-bda9-91c30fe77daa</guid>
             <pubDate>Thu, 04 Aug 2016 05:46:17 GMT</pubDate>
         </item>
     </channel>
