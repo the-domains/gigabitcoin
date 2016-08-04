@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 05:48:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 05:48:28 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="https://i.redd.it/0rj7e6ixj3dx.jpg"></article>]]></description>
+            <link>https://i.redd.it/0rj7e6ixj3dx.jpg</link>
+            <guid isPermaLink="false">66e642ad-2d4b-4e3b-bb27-02e21541a74a</guid>
+            <pubDate>Thu, 04 Aug 2016 05:46:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rapid7 Researchers Pinpoint Point-of-Sale Vulnerabilities]]></title>
             <description><![CDATA[<article><h1>Rapid7 Researchers Pinpoint Point-of-Sale Vulnerabilities</h1><p>None of these attacks should be possible in this capacity, yet the majority of point-of-sale devices is vulnerable to this type of attack. Most people are well aware of how using credit cards is becoming a significant security risk these days. Not just online, where data breaches are running rampant these days.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ccb0faa45c1c0e2af7723738c05cd4ae/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F03101541%2Fshutterstock_411184423-825x510.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The Bitfinex Bitcoin Hack: What We Know (And Don't Know) - CoinDesk</h1><p>More than $60m worth of bitcoin was stolen from one of the world's largest digital currency exchanges yesterday, and nearly 24 hours later, the event is still shrouded in mystery. What is clear, though, is that the impact is far-reaching.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/90a0f55a43e90b80bdbe67fe8fe3857f/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FQuestion-Mark.jpg"></article>]]></description>
             <link>http://www.coindesk.com/bitfinex-bitcoin-hack-know-dont-know/</link>
             <guid isPermaLink="false">1cc55774-29bb-4eb0-a83f-fe24e7487573</guid>
-            <pubDate>Thu, 04 Aug 2016 05:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[E.U. Representatives Clarify the Proposed Anti-Money Laundering Directive]]></title>
-            <description><![CDATA[<article><h1>E.U. Representatives Clarify the Proposed Anti-Money Laundering Directive</h1><p>Last month, the European Commission published a draft directive proposing to extend anti-money laundering (AML) regulation to both virtual currency exchange services and custodial wallet providers. The draft suggests that many Bitcoin companies operating within the European Union will need to apply know-your-customer (KYC) types of checks on their users, to be enforced by 2017.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c02dc0741b97a63c15391e7982ad4731/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fe-u-representatives-clarify-the-proposed-anti-money-laundering-directive.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/e-u-representatives-clarify-the-proposed-anti-money-laundering-directive-1470242294</link>
-            <guid isPermaLink="false">7992416b-bee1-40cb-968d-f9aae68aedf7</guid>
             <pubDate>Thu, 04 Aug 2016 05:45:55 GMT</pubDate>
         </item>
     </channel>
