@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 04:35:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 04:35:38 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LEOcoin Migrates to Proof of Stake, Announces New Products]]></title>
+            <description><![CDATA[<article><h1>LEOcoin Migrates to Proof of Stake, Announces New Products</h1><p>LEOcoin, calling itself "the bitcoin like cryptocurrency for entrepreneurs," has transitioned to a Proof of Stake mining algorithm after completing its Proof of Work phase. In addition to this mining transition, the project has added new products to its portfolio. Disclaimer: This article was provided by Bitcoin PR Buzz.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1cdd5b281f2bbc1aadb37eaa8c08fcb2/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FLEOcoin-PR-Buzz-Cover.png"></article>]]></description>
+            <link>http://bitcoinist.net/leocoin-proof-stake-new-products/</link>
+            <guid isPermaLink="false">e8bdf5d8-ee46-44da-a12b-5e2a2c8f6fcf</guid>
+            <pubDate>Fri, 05 Aug 2016 04:35:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Technical Analysis - Pulling Up to $600? - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis - Pulling Up to $600? - NEWSBTC</h1><p>Bitcoin price could retrace to the $600 area of interest before resuming its drop to the recent lows. Bitcoin Price Key Highlights Bitcoin price could retrace to the $600 area of interest before resuming its drop to the recent lows.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2202c99784d3f9a544955ec429f3f2f2/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F05041657%2F160805_bitcoin.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://bitcoinist.net/bitfinex-sinks-bitcoin-market/</link>
             <guid isPermaLink="false">fad29092-d598-4970-a233-62d6904e98c3</guid>
             <pubDate>Fri, 05 Aug 2016 02:43:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; We Got Some Action! - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; We Got Some Action! - NEWSBTC</h1><p>here's a look at what we are focusing on in the bitcoin price this evening We've spent the last week or so wishing for some volatility in the bitcoin price, and today we finally got some during the European session.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c8eae81176309ef799b1b779b3ccd6c6/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F04180352%2FScreen-Shot-2016-08-04-at-18.59.24.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/04/bitcoin-price-watch-got-action/</link>
-            <guid isPermaLink="false">83e65276-e381-40d6-902b-4024f16e8461</guid>
-            <pubDate>Fri, 05 Aug 2016 02:43:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
