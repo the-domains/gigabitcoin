@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 02:44:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 02:44:17 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BitGo Insurance Blog Taken down as Bitfinex Fiasco Continues - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>BitGo Insurance Blog Taken down as Bitfinex Fiasco Continues - NEWSBTC</h1><p>BitGo has allegedly removed a previous blog post about its Bitcoin insurance policy following the recent Bitfinex incident where bitcoins were stolen from BitGo powered wallets. Since Bitfinex lost over $72 million worth of bitcoins in the recent security breach, the focus is now being turned towards its wallet provider as well.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/135709e45621c72ea319e076637104fe/noop.png?input=https%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2015%2F06%2FBITGO-BITFINEX.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/04/bitgo-bitfinex-hacking-fiasco/</link>
+            <guid isPermaLink="false">ad65399f-eeee-47f6-abe6-d53e655d5ee1</guid>
+            <pubDate>Fri, 05 Aug 2016 02:43:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TAO Network Launches Crowdsale for DAO Development Platform]]></title>
+            <description><![CDATA[<article><h1>TAO Network Launches Crowdsale for DAO Development Platform</h1><p>The TAO network has announced the launch of a public crowdsale for its tokens. Calling itself a "future-proof" Bitcoin-based DAO platform, TAO network aims to provide tools for building decentralized applications. Disclaimer: This article was provided by Bitcoin PR Buzz.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d6a0c560dd0c65923a2e9b32e935749e/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FTAO-network.png"></article>]]></description>
+            <link>http://bitcoinist.net/tao-network-crowdsale/</link>
+            <guid isPermaLink="false">1e209796-af82-48c2-b0f4-f2ed53a6005f</guid>
+            <pubDate>Fri, 05 Aug 2016 02:43:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin wallet file location in smartphone]]></title>
             <description><![CDATA[<article><h1>Bitcoin wallet file location in smartphone</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://news.bitcoin.com/patrick-byrne-grow-new-leadership/</link>
             <guid isPermaLink="false">a24091bc-fe1a-469a-b4b0-2fdb51ec6850</guid>
             <pubDate>Fri, 05 Aug 2016 02:43:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ShapeShift Introduces New Ethereum Splitter Tool]]></title>
-            <description><![CDATA[<article><h1>ShapeShift Introduces New Ethereum Splitter Tool</h1><p>ShapeShift, the popular instant cryptocurrency exchange platform, has added a new feature. For quite some time now, there has been confusion on how users can separate their Ethereum and Ethereum Classic coins correctly. Ethereum Splitter, as this new feature is called, takes care of this problem automatically.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6e80d86a26a563a2247f17c349ef056f/noop.png?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2FEthereum-Splitter.png"></article>]]></description>
-            <link>http://themerkle.com/shapeshift-introduces-new-ethereum-splitter-tool/</link>
-            <guid isPermaLink="false">20646850-b406-4e52-8ab7-02d44908d5e7</guid>
-            <pubDate>Thu, 04 Aug 2016 14:54:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin's unhackable. Bitcoin banks? Not so.]]></title>
-            <description><![CDATA[<article><h1>Bitcoin's unhackable. Bitcoin banks? Not so.</h1><p>There was a major heist today worth at one point $77 million. No guns, no getaway cars, though, it was all done digitally. In fact, there were no dollars either, it was a theft of digital currency: Bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d78847da1bf8363861ae27350fc5bb5a/noop.jpg?input=http%3A%2F%2Fcms.marketplace.org%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fprimary-image-900x500%2Fpublic%2FGettyImages-166302862.jpg%3Fitok%3DuJcE2RcS"></article>]]></description>
-            <link>http://www.marketplace.org/2016/08/03/world/bitcoin</link>
-            <guid isPermaLink="false">c41426fc-4182-447a-b09a-5ea5187520d3</guid>
-            <pubDate>Thu, 04 Aug 2016 14:54:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
