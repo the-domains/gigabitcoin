@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 13:36:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 13:36:28 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Four New Bitcoin ATMs Make Coinsource America's Largest Operator]]></title>
+            <description><![CDATA[<article><h1>Four New Bitcoin ATMs Make Coinsource America's Largest Operator</h1><p>Coinbase has become America's largest bitcoin operator after announcing it has installed four new ATMs in the month of July, bringing the total number to 42 across seven states. The Texas-based company's latest additions include new bitcoin ATMs in New York, Nevada, and Pennsylvania with one installed in Staten Island, one in Las Vegas, and two in Philadelphia.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/22003d1427964c7ee79a17848e5ace8e/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FFour-New-Bitcoin-ATMs-Make-Coinsource-Americas-Largest-Operator.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/four-new-bitcoin-atms-make-coinsource-americas-largest-operator/</link>
+            <guid isPermaLink="false">efb5aad1-7cf4-472e-955c-8ceda5543a5a</guid>
+            <pubDate>Fri, 05 Aug 2016 13:35:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Casper May Cause Centralized Staking By Rich Ethereum Holders]]></title>
             <description><![CDATA[<article><h1>Casper May Cause Centralized Staking By Rich Ethereum Holders</h1><p>The Ethereum developers have unveiled some more details regarding the Casper release. As part of this release, Ethereum will also transition from proof-of-work to proof-of-take. Securing the network at that time will be of the utmost importance, as PoS is inherently more prone to network attacks compared to PoW.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d82c7934c95ab6abd31ac2386870000a/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_329205053.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.newsbtc.com/2016/08/05/westpac-reinventure-double-australian-fintech-startup-effort/</link>
             <guid isPermaLink="false">297cbda4-3732-48e5-8059-d9227543e7c7</guid>
             <pubDate>Fri, 05 Aug 2016 13:35:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vanbex Group Presenting at Pacific Crest Technology Forum]]></title>
-            <description><![CDATA[<article><h1>Vanbex Group Presenting at Pacific Crest Technology Forum</h1><p>Vancouver, B.C., August 4, 2016 - Vanbex Group, a leading provider of blockchain solutions and communications strategies, announced today that president, Lisa Cheng, will be presenting at the 18th annual Pacific Crest Securities' Global Technology Leadership Forum being held in Vail, Colorado from Aug. 7-9. Disclaimer: This is a press release.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a6dc4f40be323dbd3dc12ffac10c6f51/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FVanbex-logo.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/vanbex-group-pacific-crest-technology/</link>
-            <guid isPermaLink="false">6ce49666-507b-4310-b1f7-cfe2d9430c5c</guid>
-            <pubDate>Fri, 05 Aug 2016 13:35:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
