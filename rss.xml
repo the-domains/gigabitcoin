@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 19:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 19:21:47 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[BitGo Claims Its Software Not at Fault during Bitfinex Hack]]></title>
-            <description><![CDATA[<article><h1>BitGo Claims Its Software Not at Fault during Bitfinex Hack</h1><p>BitGo has declared that its systems were not breached, and its software functioned correctly during the Bitfinex hack. Co-founder and CEO at BitGo, Mike Belshe, wrote on the company's blog saying: Our job is to protect your Bitcoin and continue to improve the security of the service.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bbb4ba2de9e624ad39db351ad335814d/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FBitGo-Claims-Its-Software-Not-at-Fault-during-Bitfinex-Hack-1.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitgo-claims-software-not-fault-bitfinex-hack/</link>
-            <guid isPermaLink="false">b052b05a-d99f-4a08-b275-a5456ab84463</guid>
-            <pubDate>Fri, 05 Aug 2016 19:20:43 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Blockchain Revolution Comes to Canada, Vanbex Partners NetCents]]></title>
             <description><![CDATA[<article><h1>Blockchain Revolution Comes to Canada, Vanbex Partners NetCents</h1><p>Electronic payments technology company, NetCents has partnered with professional services firm Vanbex to provide what it claims to be a streamlined, full, end-to-end innovative financial services platform. This partnership was announced in a press release on August 3 2016 where it says that the union allows both companies to utilize each other's strengths in order to develop the next generation of financial transactions by utilizing the emerging technology, the Blockchain.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c45ef69ec03d30e668b7fd579ded1aba/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hOTdhNjUyZWI5YmEyYWI2Zjc2NWIyOGE2YWFlYmJkMC5qcGc%3D.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Bitcoin Price Watch; Volatility For The Weekend - NEWSBTC</h1><p>Here's a look at what we are focusing on in the bitcoin price this evening. In this morning's analysis, we stated that we hoped for a bit of action during today's session so we could get on short term volatility.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/96481361590327a081eba4848dd7a4ef/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F05175025%2FScreen-Shot-2016-08-05-at-18.41.41.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/08/05/bitcoin-price-watch-volatility-weekend/</link>
             <guid isPermaLink="false">2b12e366-5d6a-47e7-ad88-e593d2a4be9a</guid>
+            <pubDate>Fri, 05 Aug 2016 19:20:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What the Bitfinex Hack Means for Bitcoin Multi-Sig Security - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>What the Bitfinex Hack Means for Bitcoin Multi-Sig Security - CoinDesk</h1><p>"With our BitGo wallet solution it becomes impossible for our users to lose their bitcoins due to us being hacked or stealing them." So wrote Bitfinex CFO Giancarlo Devasini about the bitcoin exchange's then-new multi-signature security architecture roughly a year before $60m was stolen in one of the industry's highest-profile hacks to date.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0626a0d0aefb60bc7d1fc2ff3c54aa83/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Flock-broken-e1470410259834.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/bitcoin-bitfinex-hack-multi-sig/</link>
+            <guid isPermaLink="false">c6c2b0f7-74a2-422e-9331-5466cffb271a</guid>
             <pubDate>Fri, 05 Aug 2016 19:20:42 GMT</pubDate>
         </item>
     </channel>
