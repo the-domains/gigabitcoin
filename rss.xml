@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 13:36:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 13:36:22 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Kim Dotcom's Mega & Bitcoin 'Baby' Will Be Born This January]]></title>
-            <description><![CDATA[<article><h1>Kim Dotcom's Mega & Bitcoin 'Baby' Will Be Born This January</h1><p>Kim Dotcom is a well-known person in the cyber world as the founder of the now defunct file-sharing service Megaupload. Now, Dotcom is not only creating a new sharing service called Mega 2.0 but has made it well known that Bitcoin will be a major part of the platform.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/38926a56cd3c2044e67f77211239a858/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fkimdotcom.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/mega-bitcoin-baby/</link>
-            <guid isPermaLink="false">25555986-c16a-463e-bda5-ea55d1deec00</guid>
-            <pubDate>Fri, 05 Aug 2016 13:35:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Who codes Bitcoin? 378 people have made 11,292 commits & 159 releases it keeps going Number of "thank yous" to the devs: not enough</p>]]></description>
-            <link>https://www.twitter.com/brucefenton/status/761254447783747585</link>
-            <guid isPermaLink="false">1106a560-8862-48d1-a9c6-0e424230e20b</guid>
-            <pubDate>Fri, 05 Aug 2016 13:35:28 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitfinex 'Leaning Towards' Bail-In, Haircut for All BTC Traders]]></title>
             <description><![CDATA[<article><h1>Bitfinex 'Leaning Towards' Bail-In, Haircut for All BTC Traders</h1><p>As it tries to mitigate the effects of last week's theft of nearly $68 million, Hong Kong exchange Bitfinex has announced it may make all Bitcoin traders using its service pay the price.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1fedb02ec8f48da3942c32c394583b30/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fhaircut.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>http://fortune.com/2016/08/05/bitcoin-megaupload-kim-dotcom/</link>
             <guid isPermaLink="false">65199965-62ff-4f64-a97d-1a17f2b70f66</guid>
             <pubDate>Fri, 05 Aug 2016 13:35:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Bottom line: Bitcoin bad, Blockchain better,' claims Credit Suisse]]></title>
+            <description><![CDATA[<article><h1>'Bottom line: Bitcoin bad, Blockchain better,' claims Credit Suisse</h1><p>Founded in 1856, Credit Suisse is a leading global private bank and wealth manager. The company reported $1.25 trillion under management in 2016, has operations in about 50 countries, and 47,180 employees from over 150 different nations. The company's Equity Research team recently released an in depth report on blockchain, "Shared ledger technology and the impact on stocks."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a78904721afb6f8655f4176e9b6dfe37/noop.png?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-credit-suisse-banner.png"></article>]]></description>
+            <link>http://bravenewcoin.com/news/bottom-line-bitcoin-bad-blockchain-better-claims-credit-suisse/</link>
+            <guid isPermaLink="false">6aa9fc8c-b9bc-45ae-8e98-b0728b7fcbeb</guid>
+            <pubDate>Fri, 05 Aug 2016 13:35:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LEOcoin Migrates to Proof of Stake, Announces New Products]]></title>
+            <description><![CDATA[<article><h1>LEOcoin Migrates to Proof of Stake, Announces New Products</h1><p>LEOcoin, calling itself "the bitcoin like cryptocurrency for entrepreneurs," has transitioned to a Proof of Stake mining algorithm after completing its Proof of Work phase. In addition to this mining transition, the project has added new products to its portfolio. Disclaimer: This article was provided by Bitcoin PR Buzz.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1cdd5b281f2bbc1aadb37eaa8c08fcb2/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FLEOcoin-PR-Buzz-Cover.png"></article>]]></description>
+            <link>http://bitcoinist.net/leocoin-proof-stake-new-products/</link>
+            <guid isPermaLink="false">e8bdf5d8-ee46-44da-a12b-5e2a2c8f6fcf</guid>
+            <pubDate>Fri, 05 Aug 2016 04:35:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
