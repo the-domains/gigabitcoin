@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Aug 2016 22:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2016 22:15:51 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[OP_CHECKSIG: reasoning behind construction of message to be signed]]></title>
-            <description><![CDATA[<article><h1>OP_CHECKSIG: reasoning behind construction of message to be signed</h1><p>I've closely studied the deservedly famous OP_CHECKSIG explanation found here, including the diagram found here. That explanation details how to construct the message that is signed via ECDSA, prod...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/47902/op-checksig-reasoning-behind-construction-of-message-to-be-signed</link>
-            <guid isPermaLink="false">19f5ad71-fee4-411d-8a0e-b6e62fb43531</guid>
-            <pubDate>Sat, 06 Aug 2016 22:15:10 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[PSA: Bitcoin Spoof Apps & Phishing Attempts on the Rise]]></title>
             <description><![CDATA[<article><h1>PSA: Bitcoin Spoof Apps & Phishing Attempts on the Rise</h1><p>Bitcoin users need to be awfully careful when downloading wallets and surfing the web. Currently, there are quite a few methods of stealing cryptocurrency floating around, such ass Also read: Blocknet: Exit Centralized Exchanges Now Amid 'Damaged Confidence' spoof wallets on Apple's App Store, and phishing emails claiming to be from the recently-hacked Bitfinex exchange.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b85cd2ec785e81c7c7c433114cae1696/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FBitcoin-Spoof-Apps-Phishing-Attempts-Rise.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://bitcoinist.net/casinority-casinos-safe-gambling/</link>
             <guid isPermaLink="false">d4652700-97aa-4ccd-9554-d48087b80545</guid>
             <pubDate>Sat, 06 Aug 2016 17:28:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ulterior States [IamSatoshi Documentary]]]></title>
+            <description><![CDATA[<article><h1>Ulterior States [IamSatoshi Documentary]</h1><p>Ulterior States A Film By Tomer Kantor - An IamSatoshi Production Tip BTC: 1NkMgKPdwP63q5LFQW84dczJthFWYLwkoW http://www.iamsatoshi.com/ulterior-states-documentary Featuring (alphabetically): Andreas Antonopoulos Julian Assange Jessi Baker Adam Cleary Matt Corallo Sven Desai Kyle Drake Stephen Early Mark Edge Chris Ellis Rick Falkvinge Paul Gordon Ian Grigg Vinay Gupta Jonathan Harrison Daniel Hassan Garrick Hileman Denis Jaromil Roio John Karanja Toni Lane Simon Lelieveldt Nadav Rosenberg Brett Scott Lui Smyth Elizabeth Starks Amir Taaki Robin Teigland Peter Todd Julia Tourianski Sveinn Valfells Erik Voorhees Cody Wilson Titles Design: Louis Chang Poster Design: Ofer Kantor Ulterior States, an IamSatoshi production, is an argumentative documentary project.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5d03686309622292a49e732a124ca0a9/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FyQGQXy0RIIo%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>http://www.youtube.com/watch?v=yQGQXy0RIIo</link>
+            <guid isPermaLink="false">30d4f1d0-b8dc-4628-9378-690e7edc8edb</guid>
+            <pubDate>Sat, 06 Aug 2016 16:49:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
