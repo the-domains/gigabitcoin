@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Aug 2016 15:01:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2016 15:01:36 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Should You Put Your Bitcoin in...a Bank?]]></title>
+            <description><![CDATA[<article><h1>Should You Put Your Bitcoin in...a Bank?</h1><p>As Bitfinex, the digital-currency exchange that suffered a debilitating hack this week, tries to determine if it can go on, a wider question is again being asked about bitcoin: Is it really a better mousetrap? On Tuesday, Hong Kong-based Bitfinex was the victim of a hack that led to the theft of about 200,000 bitcoins worth $65 million from its digital vaults.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/614dc1d4634b664af133788bdbd0527d/noop.jpg?input=https%3A%2F%2Fsi.wsj.net%2Fpublic%2Fresources%2Fimages%2FBN-PG682_0805bi_G_20160805142343.jpg"></article>]]></description>
+            <link>http://www.wsj.com/articles/should-you-put-your-bitcoin-in-a-bank-1470422031</link>
+            <guid isPermaLink="false">9d3a30d9-4d8c-493e-90ef-2f29a24e7757</guid>
+            <pubDate>Sat, 06 Aug 2016 14:59:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ethereum Experts Debate Merits of Two Ethereum Chains]]></title>
             <description><![CDATA[<article><h1>Ethereum Experts Debate Merits of Two Ethereum Chains</h1><p>Although a large proportion of the Ethereum community believed the recent hard fork would result in one chain that the entire community could get behind, it's clear that a segment of Ethereum enthusiasts would like to see a strict adherence to the original concept of code as law.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d67c7e176565344fa9dd8578d0b287fd/croprotate.jpg?cropheight=550&cropwidth=720&degrees=0&input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fethereum-experts-debate-merits-of-two-ethereum-chains.jpg&x=128&y=0"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>In Bitcoin's Barry Silbert, A Prosecution Waiting To Happen</h1><p>As readers may already know, I used my space here to draw attention to Barry Silbert's Ethereum Classic scam. You can read that coverage here and here. A source assures me Classic meets the loose definition of a scam: it is in no way Ethereum.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c9c8b6a4679f97f822bd782fa80a42e76519a50.jpg"></article>]]></description>
             <link>http://www.huffingtonpost.com/david-seaman/in-bitcoins-barry-silbert_b_11353372.html</link>
             <guid isPermaLink="false">f9544550-9b5d-4213-ae98-89a4db5c7547</guid>
-            <pubDate>Sat, 06 Aug 2016 14:59:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitfinex Alerts Users of Phishing Emails]]></title>
-            <description><![CDATA[<article><h1>Bitfinex Alerts Users of Phishing Emails</h1><p>Bitfinex has alerted of phishing emails being circulated from an address that is made to appear to be one of its email addresses. The distressed company notes in a blog post on its website that the email is not from any @bitfinex.com address but from @ibitfinex.com, stressing the additional i.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a36897a2c50327d0e3e24f00d9ddc87e/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FBitfinex-Alerts-Users-of-Phishing-Emails.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitfinex-alerts-users-of-phishing-emails/</link>
-            <guid isPermaLink="false">ee4fac96-5381-42cd-8ce4-f99754ea2a4a</guid>
             <pubDate>Sat, 06 Aug 2016 14:59:22 GMT</pubDate>
         </item>
     </channel>
