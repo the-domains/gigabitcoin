@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Aug 2016 03:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2016 03:23:53 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Theft And Mayhem In The Bitcoin World]]></title>
+            <description><![CDATA[<article><h1>Theft And Mayhem In The Bitcoin World</h1><p>The schadenfreude of Bitcoin enthusiasts over Ethereum's recent troubles ended abruptly last week. A major Bitcoin exchange, Bitfinex, was hacked and nearly 120,000 BTC (around $60m) was stolen. The price of Bitcoin promptly crashed, and Bitfinex was forced to suspend trading. Suddenly, Ethereum was not the only basket case cryptocurrency [...]</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/33a4b346ad97e07bc37f391bed8fc33c/noop.jpg?input=http%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F585467666%2F640x434.jpg%3Ffit%3Dscale"></article>]]></description>
+            <link>http://www.forbes.com/sites/francescoppola/2016/08/06/theft-and-mayhem-in-the-bitcoin-world/</link>
+            <guid isPermaLink="false">1de9c923-ee2e-4260-87ff-ed95be10ecce</guid>
+            <pubDate>Sun, 07 Aug 2016 03:23:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Stability is Not what Bitcoin Needs and Why Big Business Should Move Into It]]></title>
             <description><![CDATA[<article><h1>Why Stability is Not what Bitcoin Needs and Why Big Business Should Move Into It</h1><p>Most Popular 4.BrExit Implications for UK Stock Market, Sterling GBP, House Prices and UK Politics...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dfbb8bff3336449811d2db41cc0938e3/noop.png?input=http%3A%2F%2Fwww.marketoracle.co.uk%2Fimages%2F2016%2FAug%2Fbitcoin.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Can my Bitcoin transactions be tracked in India?</h1><p>I was hired to be a landscape foreman (I was so freaking excited) And one day seven of my eight crewmembers didn't show up for a job. When the came the next day I asked each one why.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2fb81fb5bcd4c440dee2d03fb2acc3c6/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.png2801ad8885530345.png"></article>]]></description>
             <link>https://www.quora.com/Can-my-Bitcoin-transactions-be-tracked-in-India</link>
             <guid isPermaLink="false">fd5a1089-f01b-4e3a-afc5-d494c2fb07f8</guid>
-            <pubDate>Sat, 06 Aug 2016 22:15:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Between Past and Future: Bitcoin Price Settles around $570]]></title>
-            <description><![CDATA[<article><h1>Between Past and Future: Bitcoin Price Settles around $570</h1><p>Abrupt plunging of bitcoin price in the wake of a ruthless attack by an equally ruthless hacker who had stolen nearly 120,000 BTC from Bitfinex has surprisingly benefited the cryptocurrency in a way. The descension of bitcoin that lasted for more than two weeks changed into freefalling after the Bitfinex failure.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6c9504d2fdbe8e135b0d7790e9a9fbbc/noop.jpg?input=https%3A%2F%2Fi.imgflip.com%2F18ejkf.jpg"></article>]]></description>
-            <link>http://forklog.net/between-past-and-future-bitcoin-price-settles-around-570/</link>
-            <guid isPermaLink="false">a381188d-625d-4df8-87f0-1e01cad200ae</guid>
             <pubDate>Sat, 06 Aug 2016 22:15:09 GMT</pubDate>
         </item>
     </channel>
