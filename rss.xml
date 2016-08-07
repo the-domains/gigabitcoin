@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Aug 2016 17:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2016 17:10:20 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[More Anonymity Features Are Coming To Ethereum]]></title>
+            <description><![CDATA[<article><h1>More Anonymity Features Are Coming To Ethereum</h1><p>Many people automatically assume Bitcoin users want to remain anonymous when conducting business online. With a wider variety of tools to do so, a certain level of privacy can be established. But Ethereum users seem less inclined to rely on external services such as Tor or mixers, as some future releases should help achieve greater anonymity by default.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a3d6336229d8dfc7e24874f36fb9742d/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_361256273.jpg"></article>]]></description>
+            <link>http://themerkle.com/more-anonymity-features-are-coming-to-ethereum/</link>
+            <guid isPermaLink="false">3b45eaaa-6913-4add-9086-04951926a048</guid>
+            <pubDate>Sun, 07 Aug 2016 17:09:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[7 Million ETC Locked In Child DAO Will Become Spendable Soon]]></title>
             <description><![CDATA[<article><h1>7 Million ETC Locked In Child DAO Will Become Spendable Soon</h1><p>However, one user also pointed out how the person controlling this funds does not seem inclined to dump the currency on the market. Instead, he wants to use the funds to fund future ETC development. Although the Ethereum hard fork has taken care of the problems caused by The DAO hacker, not all of the funds has been secured just yet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43cfc6d43a55ea4f964a522ebe2781b17191ab0c.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Recent Exchange Hack Calls For Better Safeguards For Bitcoin</h1><p>The recent bitcoin exchange hack underscores the vulnerability of bitcoin exchanges, an issue that needs to be addressed if bitcoin is to gain a larger following, according to Megan McArdle, a Bloomberg columnist. (McArdle most likely referred to Bitfinex.)</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4d5fd0413de41304d0e9a511e06d2134/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FRecent-Exchange-Hack-Calls-For-Better-Safeguards-For-Bitcoin.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/recent-exchange-hack-calls-for-better-safeguards-for-bitcoin/</link>
             <guid isPermaLink="false">b47e06ff-1fb2-4384-9df1-e50c701071b6</guid>
-            <pubDate>Sun, 07 Aug 2016 17:09:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin ATM Network Coinsource Upgrades Service as it Expands Across U.S | Finance Magnates]]></title>
-            <description><![CDATA[<article><h1>Bitcoin ATM Network Coinsource Upgrades Service as it Expands Across U.S | Finance Magnates</h1><p>Coinsource, the American Bitcoin ATM network, has reported that it installed four new machines in July as it is starting to upgrade to service to offer "Two Way" (USD/BTC and BTC/USD) exchange options. Take the lead from today's leaders. FM London Summit, 14-15 November, 2016. Register here!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e1d1348e549a504cac5c9558c09130db/noop.jpg?input=http%3A%2F%2Fwww.financemagnates.com%2Fwp-content%2Fuploads%2F2015%2F10%2Famerica_flag_880x400.jpg"></article>]]></description>
-            <link>http://www.financemagnates.com/cryptocurrency/news/bitcoin-atm-network-coinsource-upgrades-service-as-it-expands-across-u-s/</link>
-            <guid isPermaLink="false">91a56436-d09c-4f5c-9340-42b1f723a47b</guid>
             <pubDate>Sun, 07 Aug 2016 17:09:21 GMT</pubDate>
         </item>
     </channel>
