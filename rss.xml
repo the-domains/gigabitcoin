@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Aug 2016 17:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2016 17:09:55 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[How easy is it to operate a bitcoin exchange?]]></title>
-            <description><![CDATA[<article><h1>How easy is it to operate a bitcoin exchange?</h1><p>Answer: It's damn hard. The highest issue is security, you've probably seen how many have been hacked since the internet started. The security department needs a lot of funds, the coding department needs a lot of funds, and you also need to spend A LOT on marketing, because there's a lot of comp...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2fb81fb5bcd4c440dee2d03fb2acc3c6/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.png2801ad8885530345.png"></article>]]></description>
-            <link>https://www.quora.com/How-easy-is-it-to-operate-a-bitcoin-exchange</link>
-            <guid isPermaLink="false">3cfde6c0-c432-4f25-ae7b-a48a8a39a6af</guid>
-            <pubDate>Sun, 07 Aug 2016 17:09:21 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Roger Ver: Market Viewed Ethereum Fork As Good]]></title>
             <description><![CDATA[<article><h1>Roger Ver: Market Viewed Ethereum Fork As Good</h1><p>According to Roger Ver, the outcome of Ethereum's hard fork was considered a good thing by the market.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7ea4245e98fb18593dc486666c79c5d5/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lZjZmZDkxNWNiZTI2NTVkMzc3OTE0OGRiYzJkNTA4Yi5qcGc%3D.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Bitfinex Users to Lose 36%</h1><p>Following the theft of ~$70Mn worth of bitcoins on 2nd August, Bitfinex has calculated how much each customer would stand to lose: 36%. Bitfinex has cancelled all withdrawals, open orders and open funding offers. All financed positions were settled based on a published settlement price.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9f01298b59c4b2d14c0ab2f87f41f765/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wN2ZkYzViNjljMGQwMTU5OWFkZTdkYWI1MmIzYmE2MS5qcGc%3D.jpg"></article>]]></description>
             <link>https://cointelegraph.com/news/bitfinex-users-to-lose-36</link>
             <guid isPermaLink="false">fb63337f-6314-48fa-9752-24eede7fc5d2</guid>
+            <pubDate>Sun, 07 Aug 2016 17:09:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In Opinion: Is this the end for bitcoin-for-cash sales?]]></title>
+            <description><![CDATA[<article><h1>In Opinion: Is this the end for bitcoin-for-cash sales?</h1><p>This article first appeared on the Cato Institute site. On July 25, Miami-Dade County, Florida, circuit judge Teresa Pooler dismissed money-laundering charges against Michell Espinoza, a local bitcoin seller. Try Newsweek: Subscription offers The decision is a welcome pause on the road to financial serfdom.</p></article>]]></description>
+            <link>http://europe.newsweek.com/end-line-bitcoin-cash-sales-487047</link>
+            <guid isPermaLink="false">d8887fb6-2b83-46bc-8a3e-f5edba460ffc</guid>
             <pubDate>Sun, 07 Aug 2016 17:09:20 GMT</pubDate>
         </item>
     </channel>
