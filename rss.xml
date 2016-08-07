@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Aug 2016 03:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2016 03:24:14 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[wallet notification not working for multisig address]]></title>
+            <description><![CDATA[<article><h1>wallet notification not working for multisig address</h1><p>I am new in bitcoin. I started research about bitcoin(Couple of days ago) for my project.I setup bitcoin node on my linux server and it is fully synchronized. here is my bitcoin.conf prune=600</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/47908/wallet-notification-not-working-for-multisig-address</link>
+            <guid isPermaLink="false">e29b5e92-ca7f-4e93-905c-40668418a1d7</guid>
+            <pubDate>Sun, 07 Aug 2016 03:23:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Market Roundup: Kim Dotcom, Bitfinex and Other Musings]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Market Roundup: Kim Dotcom, Bitfinex and Other Musings</h1><p>Volatility has returned to the digital currency space this month, as a massive security breach in one of bitcoin's largest exchanges triggered panic-selling in the market, while Kim Dotcom recently teased about his upcoming Megaupload 2.0 project. Bitcoin exchange Bitfinex recently said it was considering a plan to spread losses among all its users after a high-profile ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7c80cd1f5cb3c246550031dbcdcbc88d/noop.jpg?input=http%3A%2F%2Fwww.economiccalendar.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fbitcoin-btc-usd-2.jpg"></article>]]></description>
+            <link>http://www.economiccalendar.com/2016/08/06/bitcoin-market-roundup-kim-dotcom-bitfinex-and-other-musings/</link>
+            <guid isPermaLink="false">0b01b49e-4eca-4e79-b4d0-659500c39785</guid>
+            <pubDate>Sun, 07 Aug 2016 03:23:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amid Blockchain Hype, Is There Still a Place for Litecoin? - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Amid Blockchain Hype, Is There Still a Place for Litecoin? - CoinDesk</h1><p>Once heralded as the "silver to bitcoin's gold", the developers behind the long-running digital currency litecoin are seeking to reestablish the project's prior position as the world's second most popular cryptocurrency. Breaking a long lull in project announcements, litecoin's core developers and the Litecoin Association, a Texas-based non-profit advocacy group for the technology, revealed a new roadmap earlier this summer.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/df1d89f8f3b8325fe1665087f0e191ce/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fshutterstock_202842373-e1470432118154.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/amid-blockchain-hype-still-place-litecoin/</link>
+            <guid isPermaLink="false">f74b07c6-1ffe-4065-9564-01bee0db50c3</guid>
+            <pubDate>Sun, 07 Aug 2016 03:23:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BetKing.io Offers New Casino Titles From Major Developers]]></title>
             <description><![CDATA[<article><h1>BetKing.io Offers New Casino Titles From Major Developers</h1><p>Disclaimer: This article was provided by Bitcoin PR Buzz. Bitcoinist is not affiliated with the firm's represented by Bitcoin PR Buzz and is not responsible for their products and/or services. The casino has added four new games from Booming Games to its list of over 80 slot games provided by Booming Games and Endorphina.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/17305cb7aa2e1ad763e1271ad621a951/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F07%2FBetKing-Screenshot-Bitcoin-PR-Buzz-cover.png"></article>]]></description>
@@ -53,27 +74,6 @@
             <description><![CDATA[<article><h1>The Theory of a Blockchain Circular Economy - CoinDesk</h1><p>William Mougayar is the author of "The Business Blockchain", and a board advisor to the Ethereum Foundation, the non-profit that oversees the development of one of two blockchains seeking to popularize the software. In this opinion piece, Mougayar offers his thoughts on the how blockchains and digital currency could change the way we work and how we are compensated.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4a05cc2318c59bb1484908e6b14d5d07/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fshutterstock_244832941.jpg"></article>]]></description>
             <link>http://www.coindesk.com/the-theory-of-a-blockchain-circular-economy-and-the-future-of-work/</link>
             <guid isPermaLink="false">621537ea-0f35-4dc4-8940-f72ab9ce4fbb</guid>
-            <pubDate>Sat, 06 Aug 2016 22:15:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gatecoin to Resume Trading and Funding Activity]]></title>
-            <description><![CDATA[<article><h1>Gatecoin to Resume Trading and Funding Activity</h1><p>Gatecoin has recently announced its plans to reopen all activity on Wednesday, August 17th and it will do so without any trading fees September 1st, 2016, in what seems to be an effort to draw clients back to the Hong Kong-based exchange.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1b180edc16598698858efe14ef12bcb1/noop.png?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fk2j1ZoDO.png"></article>]]></description>
-            <link>http://themerkle.com/gatecoin-to-resume-trading-and-funding-activity/</link>
-            <guid isPermaLink="false">cb606734-d128-4965-940a-5e9fa4d7020c</guid>
-            <pubDate>Sat, 06 Aug 2016 22:15:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Savings Firm Magnr Suspends Trading to Evaluate Security - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Savings Firm Magnr Suspends Trading to Evaluate Security - NEWSBTC</h1><p>Magnr, the Bitcoin savings bank and trading platform recently suspended its activities for a short time to re-evaluate its security features following the Bitfinex incident. The recent incident with Bitcoin has got a lot of Bitcoin companies on high alert. Many digital currency companies have started to re-evaluate their security.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cba44392b60cac0153e7a73b1b9457c9/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F06200357%2FScreen-Shot-2016-08-07-at-12.33.04-AM.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/06/bitcoin-savings-firm-magnr-suspends-trading-to-evaluate-security/</link>
-            <guid isPermaLink="false">d32ac52f-e538-486d-be1e-c171bcb9b7e3</guid>
-            <pubDate>Sat, 06 Aug 2016 22:15:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OP_CHECKSIG: reasoning behind construction of message to be signed]]></title>
-            <description><![CDATA[<article><h1>OP_CHECKSIG: reasoning behind construction of message to be signed</h1><p>I've closely studied the deservedly famous OP_CHECKSIG explanation found here, including the diagram found here. That explanation details how to construct the message that is signed via ECDSA, prod...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/47902/op-checksig-reasoning-behind-construction-of-message-to-be-signed</link>
-            <guid isPermaLink="false">19f5ad71-fee4-411d-8a0e-b6e62fb43531</guid>
             <pubDate>Sat, 06 Aug 2016 22:15:10 GMT</pubDate>
         </item>
     </channel>
