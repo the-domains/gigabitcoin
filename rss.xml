@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Aug 2016 17:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2016 17:09:50 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Another Successful Trial For Ukrainian Blockchain-based Auction System]]></title>
+            <description><![CDATA[<article><h1>Another Successful Trial For Ukrainian Blockchain-based Auction System</h1><p>Blockchain technology is captivating audiences all over the world. Not too long ago, Ukrainian developers have put together a blockchain-based auction platform While there was an initial success for this project, things went rather quiet ever since. But the city of Bila Tserkva has auctioned off some local public property while using the Auction 3.0 blockchain platform.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/902afe8f9f7653094248471ada8d64b7/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_179214254.jpg"></article>]]></description>
+            <link>http://themerkle.com/another-successful-trial-for-ukrainian-blockchain-based-auction-system/</link>
+            <guid isPermaLink="false">fd6cdcff-25bb-410c-8317-9fafc27867ab</guid>
+            <pubDate>Sun, 07 Aug 2016 17:09:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Risky Business: Tor Project Reorganizes After Sexual Misconduct Scandal]]></title>
             <description><![CDATA[<article><h1>Risky Business: Tor Project Reorganizes After Sexual Misconduct Scandal</h1><p>The Tor Project has completely restructured following a sexual abuse scandal that caused one of its top developers to resign. The incident revolved around Jacob Appelbaum, a developer for Tor who was also involved with Wikileaks and Edward Snowden. Appelbaum was accused of aggressive behavior towards several employees, including of a sexual nature.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2392a41a9a7ad0bbaeab43565dcbda27/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85YTcyMjkyODgyMjNmMGRhNDY4Y2M5NDQ1NjRjYTNiYS5qcGc%3D.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>wallet notification not working for multisig address</h1><p>I am new in bitcoin. I started research about bitcoin(Couple of days ago) for my project.I setup bitcoin node on my linux server and it is fully synchronized. here is my bitcoin.conf prune=600</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/47908/wallet-notification-not-working-for-multisig-address</link>
             <guid isPermaLink="false">e29b5e92-ca7f-4e93-905c-40668418a1d7</guid>
-            <pubDate>Sun, 07 Aug 2016 03:23:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Market Roundup: Kim Dotcom, Bitfinex and Other Musings]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Market Roundup: Kim Dotcom, Bitfinex and Other Musings</h1><p>Volatility has returned to the digital currency space this month, as a massive security breach in one of bitcoin's largest exchanges triggered panic-selling in the market, while Kim Dotcom recently teased about his upcoming Megaupload 2.0 project. Bitcoin exchange Bitfinex recently said it was considering a plan to spread losses among all its users after a high-profile ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7c80cd1f5cb3c246550031dbcdcbc88d/noop.jpg?input=http%3A%2F%2Fwww.economiccalendar.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fbitcoin-btc-usd-2.jpg"></article>]]></description>
-            <link>http://www.economiccalendar.com/2016/08/06/bitcoin-market-roundup-kim-dotcom-bitfinex-and-other-musings/</link>
-            <guid isPermaLink="false">0b01b49e-4eca-4e79-b4d0-659500c39785</guid>
             <pubDate>Sun, 07 Aug 2016 03:23:51 GMT</pubDate>
         </item>
     </channel>
