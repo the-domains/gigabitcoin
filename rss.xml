@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Aug 2016 17:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2016 17:09:48 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How Peercoin Got A Boost From Bitcoin's Halving - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>How Peercoin Got A Boost From Bitcoin's Halving - CoinDesk</h1><p>Bitcoin mining is perhaps best viewed as a speculative endeavor. Miners take electricity and turn it into bitcoin, hoping that they can generate a profit when the cost of producing the digital currency is less than the amount spent on power.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6eee3cfc1e92e6c245f27b8b261ca7d1/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Frabbit-hat-e1470339773303.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/how-peercoin-got-a-boost-from-bitcoins-halving/</link>
+            <guid isPermaLink="false">38bbba9f-e04b-4a22-8845-edafef213983</guid>
+            <pubDate>Sun, 07 Aug 2016 17:09:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Another Successful Trial For Ukrainian Blockchain-based Auction System]]></title>
             <description><![CDATA[<article><h1>Another Successful Trial For Ukrainian Blockchain-based Auction System</h1><p>Blockchain technology is captivating audiences all over the world. Not too long ago, Ukrainian developers have put together a blockchain-based auction platform While there was an initial success for this project, things went rather quiet ever since. But the city of Bila Tserkva has auctioned off some local public property while using the Auction 3.0 blockchain platform.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/902afe8f9f7653094248471ada8d64b7/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_179214254.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>3 Liverpool Men Jailed For Blowing Up Bank ATMs</h1><p>Attacks like these can also be used against Bitcoin ATMs, albeit they are a far less popular target for assailants. Automated teller machines are far from secure devices, as they are often targeted by hackers and other criminals But in some countries, things get taken to the very next level.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/046cf473409dae1c8e2136bc01987f07/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F06205623%2Fshutterstock_425632216.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/08/06/3-liverpool-men-jailed-blowing-bank-atms/</link>
             <guid isPermaLink="false">57a434cf-5ebb-48a8-9846-7eec4db982e0</guid>
-            <pubDate>Sun, 07 Aug 2016 03:23:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[wallet notification not working for multisig address]]></title>
-            <description><![CDATA[<article><h1>wallet notification not working for multisig address</h1><p>I am new in bitcoin. I started research about bitcoin(Couple of days ago) for my project.I setup bitcoin node on my linux server and it is fully synchronized. here is my bitcoin.conf prune=600</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/47908/wallet-notification-not-working-for-multisig-address</link>
-            <guid isPermaLink="false">e29b5e92-ca7f-4e93-905c-40668418a1d7</guid>
             <pubDate>Sun, 07 Aug 2016 03:23:51 GMT</pubDate>
         </item>
     </channel>
