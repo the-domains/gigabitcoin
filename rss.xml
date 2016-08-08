@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 14:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 14:13:28 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Apple Lists Another Fake Bitcoin Wallet In Their App Store]]></title>
+            <description><![CDATA[<article><h1>Apple Lists Another Fake Bitcoin Wallet In Their App Store</h1><p>It is not the first time fake Bitcoin wallet applications are made available in the Apple App Store either. Malicious Bitcoin wallets on mobile devices are a bigger threat than most people give it credit for.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b37f10c0ba82bd93fc4dd6d1cc474d3d/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F08095143%2Fshutterstock_250627222.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/08/apple-lists-another-fake-bitcoin-wallet-app-store/</link>
+            <guid isPermaLink="false">3321e03a-19e4-4000-b100-e7a01d7b25da</guid>
+            <pubDate>Mon, 08 Aug 2016 14:12:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Breakaway Ukraine Region Decides Official Future is Bitcoin]]></title>
             <description><![CDATA[<article><h1>Breakaway Ukraine Region Decides Official Future is Bitcoin</h1><p>Regions in eastern Ukraine are formalizing the use of cryptocurrency to bypass economic sanctions, it has emerged. The Donbass region, which since 2014 has been mostly controlled by a rebel government with support from Russia, is looking to stabilize its economy and attract investment via increased use of decentralized technology.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c0f6b09ab57ce366a4b8299388356af9/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fdontesk.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.cryptocoinsnews.com/bitspark-partners-vitaxel-group-launch-remittance-platform-malaysia/</link>
             <guid isPermaLink="false">b3272309-a841-4397-a195-c9bd8be01e65</guid>
             <pubDate>Mon, 08 Aug 2016 14:12:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zcash's 'Baby ZoE' Can Send Ether Anonymously]]></title>
-            <description><![CDATA[<article><h1>Zcash's 'Baby ZoE' Can Send Ether Anonymously</h1><p>The developers of Zcash are on a mission to provide anonymity to cryptocurrency transactions and the team Also read: Zooko Wilcox, CEO of Zcash, The 'Privacy-Preserving' Variant of Bitcoin has been working with Ethereum developers to create the 'HTTPS' for Bitcoin's internet of money.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/accbf4e2d4ce2088be70554a9566ef5c/noop.jpeg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fanon.jpeg"></article>]]></description>
-            <link>https://news.bitcoin.com/zcash-baby-zoe-ether-anonymous/</link>
-            <guid isPermaLink="false">26c21aec-c245-4407-a931-076b242d7bac</guid>
-            <pubDate>Mon, 08 Aug 2016 14:12:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
