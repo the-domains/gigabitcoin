@@ -4,7 +4,7 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 14:49:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 14:49:41 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[MarilynJean Interactive Inc (OTCMKTS:MJMI) Is Today's Bitcoin Focus]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Mon, 08 Aug 2016 14:48:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Canadian Vending Machines Will Support Apple Pay Soon]]></title>
+            <description><![CDATA[<article><h1>Canadian Vending Machines Will Support Apple Pay Soon</h1><p>Many people see Bitcoin as the answer to mobile payment struggles all over the world. However, Apple Pay should not be discounted either, as the company is now coming to Canadian vending machines. It would be great to use cryptocurrency when purchasing something from a vending machine, but that seems a dream for now.</p><img src="http://themerkle.com/wp-content/uploads/2016/08/shutterstock_172675634.jpg"></article>]]></description>
+            <link>http://themerkle.com/canadian-vending-machines-will-support-apple-pay-soon/</link>
+            <guid isPermaLink="false">84a21362-d950-4cff-80b6-20259bb97316</guid>
+            <pubDate>Mon, 08 Aug 2016 14:48:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bitfinex Slowly Getting Back Online after Users Suffer 36% Loss]]></title>
-            <description><![CDATA[<article><h1>Bitfinex Slowly Getting Back Online after Users Suffer 36% Loss</h1><p>Bitfinex has announced that it is slowly getting back online after announcing to its users that they will lose 36 percent of their assets. Last week the Hong Kong-based bitcoin exchange suffered a security breach which saw $65 million worth of bitcoins stolen and the price of bitcoin plummeting 20 percent.</p><img src="https://www.cryptocoinsnews.com/wp-content/uploads/2016/08/Bitfinex-Slowly-Getting-Back-Online-after-Users-Suffer-36-Loss.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Bitfinex Slowly Getting Back Online after Users Suffer 36% Loss</h1><p>Bitfinex has announced that it is slowly getting back online after announcing to its users that they will lose 36 percent of their assets. Last week the Hong Kong-based bitcoin exchange suffered a security breach which saw $65 million worth of bitcoins stolen and the price of bitcoin plummeting 20 percent.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0ed89ae15f259c074c6592ce07384be7/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FBitfinex-Slowly-Getting-Back-Online-after-Users-Suffer-36-Loss.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/bitfinex-slowly-getting-back-online-users-suffer-36-loss/</link>
             <guid isPermaLink="false">22d9a0a7-e672-4d21-bdff-42fd584c0e80</guid>
             <pubDate>Mon, 08 Aug 2016 14:48:32 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.newsbtc.com/2016/08/08/bitcoin-price-technical-analysis-08082016-bitcoin-bears-waiting/</link>
             <guid isPermaLink="false">594a0bc5-c323-4e78-87ff-458d23dc1335</guid>
             <pubDate>Mon, 08 Aug 2016 14:12:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum Price Technical Analysis - Buying ETH Worked - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Ethereum Price Technical Analysis - Buying ETH Worked - NEWSBTC</h1><p>Ethereum price gained momentum over the weekend against the US Dollar, and it looks like further upsides are possible in the near term. Ethereum price gained momentum over the weekend against the US Dollar, and it looks like further upsides are possible in the near term.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ef053b596d8149894ac2817f19a3acce/croprotate.png?cropheight=757&cropwidth=1663&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F08031657%2FEthereum6.png&x=0&y=2"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/08/ethereum-price-technical-analysis-buying-eth-worked/</link>
-            <guid isPermaLink="false">da5600bf-bc8a-43b8-b230-c91377d0f44f</guid>
-            <pubDate>Mon, 08 Aug 2016 14:12:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
