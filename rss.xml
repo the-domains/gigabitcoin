@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 17:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 17:21:25 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Despite Recent Hacks, Bitcoin Remains The Superhero]]></title>
-            <description><![CDATA[<article><h1>Despite Recent Hacks, Bitcoin Remains The Superhero</h1><p>The Bitcoin market is maturing. This is shown by the relative stability noticed in recent times which could be as a result of certain factors that have come into play especially within the past year. Prior to this year, Bitcoin was subject to volatile swings in its value.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/45e378ddc0fe95e43aecec79b9cc17c9/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iYWQ3MWU5NjNhNGE3NzRmZjY0MTQ3OGFjOGE3MTdmYy5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/despite-recent-hacks-bitcoin-remains-the-superhero</link>
-            <guid isPermaLink="false">613ed5e5-1b38-4ca4-a138-a67df939f39b</guid>
-            <pubDate>Tue, 09 Aug 2016 17:21:13 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[UK Gambling Regulator Clarifies Digital Currency Rules - CoinDesk]]></title>
             <description><![CDATA[<article><h1>UK Gambling Regulator Clarifies Digital Currency Rules - CoinDesk</h1><p>The UK's gambling regulator has clarified its rules for digital currencies. In an update to its codes of practice issued this July, the UK Gambling Commission ( UKGC) outlined how licensees can implement appropriate policies for so-called cash equivalents, a definition under which digital currencies are captured.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1c125d3f4ea5fc77f44b422bfd608935/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fgambling-gaming-e1470746038738.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://bitcoinmagazine.com/articles/is-blockchain-powered-copyright-protection-possible-1470758430</link>
             <guid isPermaLink="false">a5c9bd26-33e3-46a3-831f-b22c674789af</guid>
             <pubDate>Tue, 09 Aug 2016 17:21:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KIBO to Provide Integrated Lottery Games Built on Ethereum Smart Contracts]]></title>
+            <description><![CDATA[<article><h1>KIBO to Provide Integrated Lottery Games Built on Ethereum Smart Contracts</h1><p>Lottery players worldwide will soon be able to compete for winnings in games that operate transparently over the Internet and receive payment immediately in cryptocurrency. Players will have access to full information on draws, wins and other transactions within the system. The system provides transparency of all processes, which indicates it offers fair play.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a6813e42ac414c80748ca5ffe01bc37b/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FKIBO-to-Provide-Integrated-Lottery-Games-Built-on-Ethereum-Smart-Contracts.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/kibo-to-provide-integrated-lottery-games-built-on-ethereum-smart-contracts/</link>
+            <guid isPermaLink="false">6854fc68-349f-4cda-8cb3-822722986ce8</guid>
+            <pubDate>Tue, 09 Aug 2016 13:32:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
