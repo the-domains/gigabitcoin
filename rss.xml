@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 13:32:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 13:32:38 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Malicious Bitcoin Wallets on iOS Cause US$20k in Losses]]></title>
+            <description><![CDATA[<article><h1>Malicious Bitcoin Wallets on iOS Cause US$20k in Losses</h1><p>The recent developments regarding malicious Bitcoin wallets appearing in the Apple App Store has many people on edge right now. Several users have reported funds being stolen from them, and the totals are adding up quickly. So far, one of the addresses identified as being used by these malicious web wallets contains over US$20,000 in Bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/63b53fa19450ab1b87c9dcdd6f21363b/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_439008748.jpg"></article>]]></description>
+            <link>http://themerkle.com/malicious-bitcoin-wallets-on-ios-cause-us20k-in-losses/</link>
+            <guid isPermaLink="false">ac347ed5-e617-4818-b53d-9177f695dc9f</guid>
+            <pubDate>Tue, 09 Aug 2016 13:32:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CoinOffering Uses Smart Contracts To Issue Company Shares As Ethereum Tokens]]></title>
             <description><![CDATA[<article><h1>CoinOffering Uses Smart Contracts To Issue Company Shares As Ethereum Tokens</h1><p>Many exciting things are taking place in the blockchain ecosystem right now. CoinOffering is the first company that will issue its shares as Ethereum tokens. This Marshall Islands-registered company is not confined to the online space either, as they operate in the legal field as well.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/23734e985b41acbe18d43e7c5e10ed5f/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_245412238.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.forbes.com/sites/laurashin/2016/08/09/how-the-blockchain-alliance-helps-law-enforcement-with-bitcoin-crime-and-developments-like-the-dao/</link>
             <guid isPermaLink="false">33741eaa-119b-4a96-9b43-f7bbbcf38511</guid>
             <pubDate>Tue, 09 Aug 2016 13:31:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CoinOffering Links Virtual and Legal Worlds with Shares on the Ethereum Blockchain]]></title>
-            <description><![CDATA[<article><h1>CoinOffering Links Virtual and Legal Worlds with Shares on the Ethereum Blockchain</h1><p>CoinOffering has become the very first registered company to offer legal cryptographic shares in the form of tokens on the Ethereum blockchain linking the virtual and legal worlds. In a press release, CoinOffering explained that it is a unique project that incorporates the Ethereum blockchain and regulated economy.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5b3a74bf9ec78221e9781ed10f095ee4/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FCoinOffering-First-to-Link-Virtual-and-Legal-Worlds-with-Legal-Cryptoshares-on-the-Ethereum-Blockchain.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/coinoffering-first-company-legal-cryptoshares-ethereum-blockchain/</link>
-            <guid isPermaLink="false">d7205a5e-9c8c-45a9-9def-767d931b9d61</guid>
-            <pubDate>Tue, 09 Aug 2016 13:31:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
