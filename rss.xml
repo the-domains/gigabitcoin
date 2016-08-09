@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 17:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 17:21:13 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Centralized Exchanges are "Honeypots for Thieves", Says Expert]]></title>
-            <description><![CDATA[<article><h1>Centralized Exchanges are "Honeypots for Thieves", Says Expert</h1><p>Hackers exploit the middleman in centralized exchanges which is a central point of failure. No hacker can penetrate Bitsquare's decentralized platform as they did with Bitfinex because of the presence of a middleman figure, says Mihail Mihaylov, Bitsquare's Chief Decentralist. Mihaylov says to CoinTelegraph: "Traditional centralized exchanges are honeypots for thieves.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d2de44f9fb5b506923440001eb60f676/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85MzNiM2ZmNTZiNzlmMDI1ZTYxMzcwZmU3ZWVhYzBlMi5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/centralized-exchanges-are-honeypots-for-thieves-says-expert</link>
-            <guid isPermaLink="false">51f5e5c8-68a8-402e-93ac-64cf44cfd645</guid>
-            <pubDate>Tue, 09 Aug 2016 17:21:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2016-08-04]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-08-04</h1><p>A few developers and miners met eachother in San Francisco where they went to Standford university to meet with Dan Boneh, a researcher in applied cryptography and computer security. Although not short term development related, the transcript made by kanzure has a very high signal-to-noise ratio.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/08/04/</link>
-            <guid isPermaLink="false">5930746d-4919-4a1f-b9b4-b562f76ea196</guid>
-            <pubDate>Tue, 09 Aug 2016 17:21:09 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Is Blockchain-Powered Copyright Protection Possible?]]></title>
             <description><![CDATA[<article><h1>Is Blockchain-Powered Copyright Protection Possible?</h1><p>The many uses and proposed uses for blockchain technology include smart contracts, decentralized payment systems, insurance claims, supply chain management, health records management, land title registration, energy grid management and now protection from copyright infringement. Websites like Blockai, Pixsy, TinEye, Ascribe, Mediachain and Proof of Existence promise to use blockchain technology to register and protect against copyright infringement.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/50477771c046c489b41d632abf75efe1/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fis-blockchain-powered-copyright-protection-possible.jpg"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>US Marshals announce $1.6 million bitcoin auction</h1><p>The U.S. Marshals Service (USMS) recently announced a new bitcoin auction. Just over 2,719 bitcoins are to be sold to a single winner on Monday, 22 August. Worth about $1.6 million at current market rates, the coins come from "various federal criminal, civil and administrative cases," according to the Marshals Service.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ff98f46a31d199808c047cd740b154d1/croprotate.jpg?cropheight=270&cropwidth=400&degrees=0&input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-judge-gavel-and-handcuffs.jpg&x=0&y=67"></article>]]></description>
             <link>http://bravenewcoin.com/news/us-marshals-announce-16-million-bitcoin-auction/</link>
             <guid isPermaLink="false">a32f90fa-231e-4ead-8ed2-375cbab410e6</guid>
+            <pubDate>Tue, 09 Aug 2016 13:32:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Go! AR Geocaching Game Takara Lets You Collect Counterparty Tokens | Finance Magnates]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Go! AR Geocaching Game Takara Lets You Collect Counterparty Tokens | Finance Magnates</h1><p>Takara, the first Bitcoin geocaching game for iOS devices, has added support for tokens thanks to Counterparty - the platform developing smart contracts for the Bitcoin blockchain. With the recent worldwide craze for mobile augmented reality gaming launched by Pokémon Go this may help introduce the value of cryptocurrency and blockchain assets to new people looking for prizes they can use beyond just a single app.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/80329fcf516056faaa73bfd04978d5d1/noop.jpg?input=http%3A%2F%2Fwww.financemagnates.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fpokemon-go.jpg"></article>]]></description>
+            <link>http://www.financemagnates.com/cryptocurrency/interview/bitcoin-go-geocaching-game-takara-lets-you-collect-counterparty-tokens/</link>
+            <guid isPermaLink="false">7a06a3a9-3a6b-4714-b68a-c2d4e21baeb2</guid>
+            <pubDate>Tue, 09 Aug 2016 13:32:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australia's Postal Service Reveals 3 Blockchain Use-Cases]]></title>
+            <description><![CDATA[<article><h1>Australia's Postal Service Reveals 3 Blockchain Use-Cases</h1><p>According to Also read: Blythe Masters' Firm to Build ASX Blockchain, Raises $52 Million , the postal service in Australia is looking into developing blockchain platforms to ease into the global acceleration of digital identity services.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c09c280433ba41125fc7ee34115c280d/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Faus-post.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/australia-postal-3-blockchain-use-cases/</link>
+            <guid isPermaLink="false">c0384908-bea0-4b31-baa0-bbc1a3532f72</guid>
             <pubDate>Tue, 09 Aug 2016 13:32:01 GMT</pubDate>
         </item>
     </channel>
