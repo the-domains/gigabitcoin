@@ -7,13 +7,6 @@
         <lastBuildDate>Tue, 09 Aug 2016 05:27:00 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Nobody will upload to any other cloud after Megaupload's Bitcache goes live. 100 million Bitcache wallets. Bitcoin = $2000+ 2017</p>]]></description>
-            <link>https://twitter.com/KimDotcom/status/761380995824168960</link>
-            <guid isPermaLink="false">b5d9fb6b-8962-46cc-813b-3aed479fa11a</guid>
-            <pubDate>Tue, 09 Aug 2016 05:26:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Why do services like abra build on top of the Bitcoin blockchain instead of building their own blockchain?]]></title>
             <description><![CDATA[<article><h1>Why do services like abra build on top of the Bitcoin blockchain instead of building their own blockchain?</h1><p>I visited my dad during my last summer vacation of high school. He was living in a nice, gated mobile home park at the time. One day we were driving into the mobile home park and a friend of my dad's flagged us down at the gate.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2fb81fb5bcd4c440dee2d03fb2acc3c6/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.png2801ad8885530345.png"></article>]]></description>
             <link>https://www.quora.com/unanswered/Why-do-services-like-abra-build-on-top-of-the-Bitcoin-blockchain-instead-of-building-their-own-blockchain</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Australia to Tighten Controls over Cryptocurrency</h1><p>Australia is about to become one of the first countries to use anti-terrorism laws in relation to cryptocurrency. The latter's anonymity may make it attractive to terrorist organizations, representatives of Australia's financial intelligence say.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7e3ae77b2a4348f2b4775bc17668c6db/croprotate.png?cropheight=375&cropwidth=500&degrees=0&input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F08%2F3.png&x=0&y=14"></article>]]></description>
             <link>http://forklog.net/australia-to-tighten-controls-over-cryptocurrency/</link>
             <guid isPermaLink="false">4da208f7-8f21-4e7a-8965-a13d6c5dc5cc</guid>
+            <pubDate>Tue, 09 Aug 2016 03:11:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australian Postal service will use blockchain | HolyTransaction]]></title>
+            <description><![CDATA[<article><h1>Australian Postal service will use blockchain | HolyTransaction</h1><p>Australian Postal service will use blockchain applications to solve problems related to identity. According to a recent report published by ZDNet , the Postal Service wants to create a private blockchain to be used for accreditation and e-voting. The company revealed this project back in March, when CEO Ahmed Fahour explained use cases related to digital identity.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/19f9b9a2d898bbc5ae965af4031ac394/noop.png?input=https%3A%2F%2F2.bp.blogspot.com%2F-9gkvGE8IqVc%2FV6i-KaLcFII%2FAAAAAAAAAsI%2FByt2gATHjvkdKk0HIylAW1VE-GalrMJ5gCLcB%2Fw1200-h630-p-nu%2FFlag_of_Australia_%252528converted%252529.svg.png"></article>]]></description>
+            <link>http://blog.holytransaction.com/2016/08/australian-postal-service-will-use.html</link>
+            <guid isPermaLink="false">1f3519ba-1266-4770-a541-27f9084d73c4</guid>
             <pubDate>Tue, 09 Aug 2016 03:11:18 GMT</pubDate>
         </item>
     </channel>
