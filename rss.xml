@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 03:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 03:12:56 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin 'Hacker Residency' to Launch in New York - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Bitcoin 'Hacker Residency' to Launch in New York - CoinDesk</h1><p>A bitcoin development training program will launch in New York City this September to teach new developers the basics of the protocol. While bitcoin might not be the easiest software to master today, bitcoin R&D group Chaincode Labs believes it can help mitigate this issue by giving developers an option to learn in an environment that is more supportive and interactive than current online materials can offer.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/03cda3973d0dd3ea513e8ba39eb23c56/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fdevelopers-e1470674399334.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/bitcoin-hacker-residency-new-york/</link>
-            <guid isPermaLink="false">f11f8845-331e-4faf-9843-e6186612242b</guid>
-            <pubDate>Tue, 09 Aug 2016 03:11:18 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[White Hat Team Recovers 7 Million ETC From DAO Thief]]></title>
             <description><![CDATA[<article><h1>White Hat Team Recovers 7 Million ETC From DAO Thief</h1><p>The White Hat Team, whose current members are publicly unknown, has successfully recovered more than seven million ETC, currently valued at around $16 million, by transferring the funds to an address whitelisted by the DAO curator who is known to be working with WHT or has transferred curatorship to WHT.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/88babc1468b6ae5f6674cf850d382041/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kYzFhNGZlY2RjMzBiOWZmZmZkMjMxMjg1NTRkN2UwYy5qcGc%3D.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Cashaa: Free, P2P Global Cash Transfers for the Unbanked</h1><p>Bitcoin.com spoke with Also read: Blocknet: Exit Centralized Exchanges Now Amid 'Damaged Confidence' Kumar Gaurav, Bitcoin.com (BC): Can you tell our readers a little about what Cashaa is? co-founder, and CEO for the Bitcoin remittance platform Cashaa (cashaa.com) BC: How did you get involved with remittance applications and blockchain technology?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a19f50c940b985fac7da200e213cc842/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FCn_WDNLWAAA1dnu-1024x768.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/cashaa-free-p2p-global-unbanked/</link>
             <guid isPermaLink="false">088d929a-ae57-44f9-bbb6-6af16c0e3c7c</guid>
+            <pubDate>Tue, 09 Aug 2016 03:11:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Payments Firm Qiwi Could Transition to Blockchain By 2021 - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Payments Firm Qiwi Could Transition to Blockchain By 2021 - CoinDesk</h1><p>Russian payments firm Qiwi now estimates it could upgrade its core database to a distributed ledger system by 2021. In an interview with Rambler News Service , a representative for the company said that this projection is in line with estimates that the full transition to any new technology takes about three years after a successful trial.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/47887746d957820dea946de1fbfd27c3/noop.png?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FScreen-Shot-2016-08-08-at-2.54.19-PM.png"></article>]]></description>
+            <link>http://www.coindesk.com/qiwi-payments-blockchain-transition-2021/</link>
+            <guid isPermaLink="false">0f8dbd2c-943b-4d95-8d3e-d5bebf76db31</guid>
             <pubDate>Tue, 09 Aug 2016 03:11:17 GMT</pubDate>
         </item>
     </channel>
