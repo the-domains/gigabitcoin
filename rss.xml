@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 03:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 03:12:02 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blockchain Implementation by ASX Questioned by Australian Media - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Blockchain Implementation by ASX Questioned by Australian Media - NEWSBTC</h1><p>The Australian press has questioned the decision of ASX to implement blockchain technology in the light of recent Bitfinex security breach. Read more... The Bitfinex security breach, which closely followed the hacking incidents faced by Shapeshift and Gatecoin has shaken the finance community.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8b79b577cb71602323d664abbdebcc7d/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F05%2F10183232%2FASX22.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/08/asx-blockchain-project-questioned/</link>
+            <guid isPermaLink="false">2c4c3a62-a5ca-4ef8-9c04-250d3248c7dd</guid>
+            <pubDate>Tue, 09 Aug 2016 03:11:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Buy Bitcoin while cheap. Like right now. Trust me.</p>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Dash Across America: Why We Do What We Do and Run-ins with the Cops on the Way to Jackalope</h1><p>In this edition of SovereignBTC, the Blush Family is on their Dash Across America road trip heading to Arizona for the Jacakalope Freedom Festival when they have a couple run-ins with the police. John and Cat also share how they got in to crypto-currency and bitcoin and why they regularly embark on crypto only road trips.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/41ee7986d6d4fac105c4f4442bf34ee7/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1883-44911b326d8bff4c0865affdd396f940977db851a6e4386c2e274c639e70eb03.jpg"></article>]]></description>
             <link>https://letstalkbitcoin.com/blog/post/dash-across-america-why-we-do-what-we-do-and-run-ins-with-the-cops-on-the-way-to-jackalope</link>
             <guid isPermaLink="false">457006d3-0555-4300-aa4a-985fdf9ff433</guid>
-            <pubDate>Tue, 09 Aug 2016 03:11:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hacked Bitcoin exchange Bitfinex will reduce balances by 36% to distribute losses amongst all users]]></title>
-            <description><![CDATA[<article><h1>Hacked Bitcoin exchange Bitfinex will reduce balances by 36% to distribute losses amongst all users</h1><p>Late last week we reported that Bitfinex, a popular Hong Kong-based Bitcoin exchange was hacked, losing about $70M worth of customer's bitcoin. The loss caused the price of Bitcoin to drop about 20%, and it still hasn't fully recovered to pre-hack levels.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7a519dc1242c4d92fa3ad8c1a6cde5a6/noop?input=https%3A%2F%2Ftctechcrunch2011.files.wordpress.com%2F2015%2F01%2Fbitcoin.jpg%26h%3D400%26crop%3D1"></article>]]></description>
-            <link>https://techcrunch.com/2016/08/08/hacked-bitcoin-exchange-bitfinex-will-reduce-balances-by-36-to-distribute-losses-amongst-all-users/</link>
-            <guid isPermaLink="false">39e461fb-746a-48d0-9e7c-b1575f5433fc</guid>
             <pubDate>Tue, 09 Aug 2016 03:11:15 GMT</pubDate>
         </item>
     </channel>
