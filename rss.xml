@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 17:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 17:22:01 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The Coinbase Dilemma: Regulations vs Customer Satisfaction]]></title>
-            <description><![CDATA[<article><h1>The Coinbase Dilemma: Regulations vs Customer Satisfaction</h1><p>A Coinbase customer complains about the poor response from Coinbase customer support as the platfrom shuts down his account citing FinCEN regulations. Read more... The advancement in technology has drastically changed the travel patterns of an average human. People cover more miles, across geographies due to the increased need to travel for business and pleasure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9de99c1008cf70834ead230f9afe476c1c45eae8.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/09/coinbase-dilemma-regulations-customer-satisfaction/</link>
-            <guid isPermaLink="false">18fe3844-b63a-4b4a-9d69-62c72ba082ff</guid>
-            <pubDate>Tue, 09 Aug 2016 17:21:13 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Why are zero fee transactions not being included in blocks that are not full?]]></title>
             <description><![CDATA[<article><h1>Why are zero fee transactions not being included in blocks that are not full?</h1><p>Today, I sent a Bitcoin payment but it has not been included in a block for about 10 hours now. The payment had the following characteristics: ~0.1 BTC 222 bytes One UTXO as an input (I used coin</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://cointelegraph.com/news/centralized-exchanges-are-honeypots-for-thieves-says-expert</link>
             <guid isPermaLink="false">51f5e5c8-68a8-402e-93ac-64cf44cfd645</guid>
             <pubDate>Tue, 09 Aug 2016 17:21:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2016-08-04]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-08-04</h1><p>A few developers and miners met eachother in San Francisco where they went to Standford university to meet with Dan Boneh, a researcher in applied cryptography and computer security. Although not short term development related, the transcript made by kanzure has a very high signal-to-noise ratio.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/08/04/</link>
+            <guid isPermaLink="false">5930746d-4919-4a1f-b9b4-b562f76ea196</guid>
+            <pubDate>Tue, 09 Aug 2016 17:21:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
