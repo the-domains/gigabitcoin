@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 13:39:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 13:39:50 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wallets that support payment channels?]]></title>
+            <description><![CDATA[<article><h1>Wallets that support payment channels?</h1><p>I know that maybe it's a bit early to start asking Wallets to implement Lightning Network connections even if the majority don't support SegregatedWitness yet. But how about Payment Channels? In t...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/47959/wallets-that-support-payment-channels</link>
+            <guid isPermaLink="false">6db1d4a5-14b8-4d18-8c93-a202bf7fa689</guid>
+            <pubDate>Wed, 10 Aug 2016 13:37:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>California's digital currency bill has been amended with all new language that if unchanged we will have to oppose http://www.leginfo.ca.gov/pub/15-16/bill/asm/ab_1301-1350/ab_1326_bill_20160808_amended_sen_v94.pdf ...</p>]]></description>
+            <link>https://twitter.com/jerrybrito/status/762991479782535168</link>
+            <guid isPermaLink="false">4c8a766e-fc11-4330-9f7c-eb436db443e6</guid>
+            <pubDate>Wed, 10 Aug 2016 13:37:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BTC-E May Be Vulnerable To A Funds Duplication Bug]]></title>
+            <description><![CDATA[<article><h1>BTC-E May Be Vulnerable To A Funds Duplication Bug</h1><p>In the light of the Bitfinex hack, other cryptocurrency exchanges are facing a lot of scrutiny right now. BTC-E is being targeted by some people who want to exploit the exchange and see if they can obtain free funds.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/646ad77431ea94dcd58b8ddb28351630/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_371467279.jpg"></article>]]></description>
+            <link>http://themerkle.com/btc-e-may-be-vulnerable-to-a-funds-duplication-bug/</link>
+            <guid isPermaLink="false">8b6d06e5-a182-4c33-aa33-8822028f5b95</guid>
+            <pubDate>Wed, 10 Aug 2016 13:37:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ethereum Classic Price Technical Analysis - Continue Selling ETC - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Ethereum Classic Price Technical Analysis - Continue Selling ETC - NEWSBTC</h1><p>Ethereum classic price moved down against Bitcoin, and formed a new weekly low. ETC/BTC currently remains under selling pressure. Ethereum classic price moved down against Bitcoin, and formed a new weekly low. ETC/BTC currently remains under selling pressure. Ethereum classic price remained in a downtrend against Bitcoin, and it looks like it may continue to move down.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6c728342ec8e4139af5e44a65ed83091/croprotate.png?cropheight=757&cropwidth=1663&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F10055002%2FEthereum-Classic7.png&x=0&y=2"></article>]]></description>
@@ -53,27 +74,6 @@
             <description><![CDATA[<article><h1>Another Malicious Breadwallet Clone Appears In The Apple App Store</h1><p>More and more fake Bitcoin wallets continue to pop up in the Apple App Store. Things have gotten so out of hand; it appears there is a new one every single day now. The latest malicious app is called Breadwallet - Bitcoin Wallet by Bitcoin Wallet, and should be avoided at all costs.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/17b422503e26152170078b7034407557/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_273074102.jpg"></article>]]></description>
             <link>http://themerkle.com/another-malicious-breadwallet-clone-appears-in-the-apple-app-store/</link>
             <guid isPermaLink="false">9bfaf3b1-6bfe-4178-8f65-154dd4e5a2fe</guid>
-            <pubDate>Wed, 10 Aug 2016 13:37:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Copay & GreenAddress Scramble to Stop Google from Storing Your Private Keys]]></title>
-            <description><![CDATA[<article><h1>Copay & GreenAddress Scramble to Stop Google from Storing Your Private Keys</h1><p>Bitpay's open source wallet Copay announced Tuesday that they have fixed a security flaw in Android phones running version six, codenamed 'Marshmallow.' Simultaneously, popular Bitcoin web and mobile wallet, GreenAddress, has encountered the same problem and is actively working on a solution.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8780f4d5acd8d212674781f45a17dd54/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FCloudPrivacy.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/copay-greenaddress-private-keys-cloud/</link>
-            <guid isPermaLink="false">2b4e5b25-b068-4696-bcb9-de8b63fcdc4f</guid>
-            <pubDate>Wed, 10 Aug 2016 13:37:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitwala Releases App Messenger, Allows Sending Bitcoin via Chat]]></title>
-            <description><![CDATA[<article><h1>Bitwala Releases App Messenger, Allows Sending Bitcoin via Chat</h1><p>Bitwala users can now chat and make payments at the same time on a new messenger designed to improve customer's experience on the platform. Bitwala is a service which makes bank transfers on behalf of users, who can send money abroad and pay bills with Bitcoin in 17 currencies.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/38c657fd01ca09fdb4702c0ba3f66970/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wOWVjODdjMTVlMWI4MzRjMDY4MTU0NmNmMWJmOGIwZS5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/bitwala-releases-app-messenger-allows-sending-bitcoin-via-chat</link>
-            <guid isPermaLink="false">9ed5bed8-68bc-48ae-8f29-8666388ce450</guid>
-            <pubDate>Wed, 10 Aug 2016 13:37:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blogger David Seaman Calls Ethereum Classic a Scam; Questions Silbert's and CoinDesk's Roles]]></title>
-            <description><![CDATA[<article><h1>Blogger David Seaman Calls Ethereum Classic a Scam; Questions Silbert's and CoinDesk's Roles</h1><p>David Seaman, a crypto blogger, has written a blog in the Huffington Post saying that sources have told him authorities are examining Barry Silbert's role with Ethereum Classic, which Seaman considers a scam. In another Huffington Post blog, Seaman claims CoinDesk, which Silbert's Digital Currency Group has acquired, is promoting Ethereum Classic.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3ccf89207401d90b08cb3995a1d45a3c/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FBlogger-David-Seaman-Calls-Ethereum-Classic-a-Scam-Questions-Silberts-and-CoinDesks-Roles-1.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/blogger-david-seaman-calls-ethereum-classic-a-scam-questions-silberts-and-coindesks-roles/</link>
-            <guid isPermaLink="false">141281ff-b933-420f-bf66-49248d7066c6</guid>
             <pubDate>Wed, 10 Aug 2016 13:37:50 GMT</pubDate>
         </item>
     </channel>
