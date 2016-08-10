@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 04:30:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 04:30:59 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chaincode Initiates Bitcoin 'Hacker Residency' - Bitcoin News]]></title>
+            <description><![CDATA[<article><h1>Chaincode Initiates Bitcoin 'Hacker Residency' - Bitcoin News</h1><p>A new Also read: USMS to Auction 2,719 Seized Bitcoins This Month hacker residency will be taking place in New York City this September with help from Bitcoin developer Matt Corallo. The four-week R&D program will be hosted by Chaincode Labs and will provide an environment for Bitcoin education, development, and project building.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c5ea09214dcae0aa0cba7b24a329ec72/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FChaincode-Initiates-Bitcoin-Hacker-Residency.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/chaincode-bitcoin-hacker-residency/</link>
+            <guid isPermaLink="false">552e7097-d952-409e-a3a6-91345b870362</guid>
+            <pubDate>Wed, 10 Aug 2016 04:30:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Technical Analysis for 08/10/2016 - Stuck in a Range! - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 08/10/2016 - Stuck in a Range! - NEWSBTC</h1><p>Bitcoin price is settling inside a range but technical indicators seem to be hinting at an upside breakout. Bitcoin Price Key Highlights Bitcoin price is settling inside a range but technical indicators seem to be hinting at an upside breakout.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9fd05bafa70a4bad82056f06477046ef/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F10031921%2F160810_bitconi.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Counterparty and Bitcoin Apps Have Fun With Crypto</h1><p>The burgeoning online gaming industry is turning its attention to incorporating digital currencies, including bitcoin, into various platforms to get people excited about blockchain and the use of the digital currency.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1a39eb344647ee156c6cf2b4dd46b383/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fcounterparty-and-bitcoin-apps-have-fun-with-crypto.jpg"></article>]]></description>
             <link>https://bitcoinmagazine.com/articles/counterparty-and-bitcoin-apps-have-fun-with-crypto-1470761687</link>
             <guid isPermaLink="false">92ce0cb1-fa3f-475a-8634-580bb4e6d3f5</guid>
-            <pubDate>Wed, 10 Aug 2016 02:45:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Secure Bitcoin Exchanges, or Why All Hope Is Not Lost]]></title>
-            <description><![CDATA[<article><h1>How to Secure Bitcoin Exchanges, or Why All Hope Is Not Lost</h1><p>Last week's Bitfinex hack, in which Bitcoin's leading exchange lost almost 120,000 bitcoins valued some $70 million USD at the time, represented a depressing realization for the Bitcoin community. Where many had hoped that multi-million dollar hacks and loss of customers funds were a thing of the past, it became clear that storing bitcoins on an exchange is still not as secure as it perhaps should be.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4406c5834f4bbe0c319cf1834efd4847/noop.jpg?input=http%3A%2F%2Fwww.nasdaq.com%2Freference%2Fhiresphotos%2Fnews-photos%2Fbitcoin%2F325x200%2Fbitcoin16.jpg"></article>]]></description>
-            <link>http://www.nasdaq.com/article/how-to-secure-bitcoin-exchanges-or-why-all-hope-is-not-lost-cm662716</link>
-            <guid isPermaLink="false">16d5882b-4349-424b-a696-1883f1d363a3</guid>
             <pubDate>Wed, 10 Aug 2016 02:45:21 GMT</pubDate>
         </item>
     </channel>
