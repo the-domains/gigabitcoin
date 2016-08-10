@@ -7,13 +7,6 @@
         <lastBuildDate>Wed, 10 Aug 2016 13:38:39 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Bitfinex Will Resume Trading and Withdrawals in The Next 36 Hours]]></title>
-            <description><![CDATA[<article><h1>Bitfinex Will Resume Trading and Withdrawals in The Next 36 Hours</h1><p>By the look of things, the Bitfinex exchange is preparing to fully launch their trading platform in the next 36 hours. From the information we have received, it seems both withdrawals and trading will be enabled at the same time.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0f397e1e841bd35d037aa059cab9d946/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_192480983.jpg"></article>]]></description>
-            <link>http://themerkle.com/bitfinex-will-resume-trading-and-withdrawals-in-the-next-36-hours/</link>
-            <guid isPermaLink="false">93d5fdbe-adc2-4a73-a89d-21f819d60654</guid>
-            <pubDate>Wed, 10 Aug 2016 13:37:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article><img src="http://imgur.com/PgEhYWI.jpg"></article>]]></description>
             <link>http://i.imgur.com/PgEhYWI.jpg</link>
@@ -75,6 +68,13 @@
             <link>http://www.newsbtc.com/2016/08/10/bitcoin-price-technical-analysis-08102016-stuck-range/</link>
             <guid isPermaLink="false">df6e4a0e-53da-44bc-b38d-467c7f00dcb7</guid>
             <pubDate>Wed, 10 Aug 2016 04:30:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Watch; Here Are Tonight's Key Levels - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Watch; Here Are Tonight's Key Levels - NEWSBTC</h1><p>Here's a look at what we are focusing on in the bitcoin price this evening. It's coming to the end of the European session now, and it is time to take a look at the bitcoin price for the second time today.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ff5cfc0f4d44f06e70b24d23ee5f10ad/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F09184217%2FScreen-Shot-2016-08-09-at-19.39.00.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/09/bitcoin-price-watch-tonights-key-levels-3/</link>
+            <guid isPermaLink="false">5edf0c00-46ed-4aaa-bdad-a48a93cc65c8</guid>
+            <pubDate>Wed, 10 Aug 2016 02:45:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
