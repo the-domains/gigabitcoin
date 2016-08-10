@@ -4,8 +4,64 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 13:38:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 13:38:48 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Do multi-PoW currencies open up additional attack vectors on a blockchain?]]></title>
+            <description><![CDATA[<article><h1>Do multi-PoW currencies open up additional attack vectors on a blockchain?</h1><p>I'm curious if there has been any technical evaluations of the vulnerabilities of cryptocurrencies that utilize more than one proof of work algorithm - for instance, myriadcoin or huntercoin. Myri...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/47961/do-multi-pow-currencies-open-up-additional-attack-vectors-on-a-blockchain</link>
+            <guid isPermaLink="false">a034f28c-4c09-4fab-abfb-430971a66b41</guid>
+            <pubDate>Wed, 10 Aug 2016 13:37:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[$16 million worth of bitcoin to be auctioned by U.S.]]></title>
+            <description><![CDATA[<article><h1>$16 million worth of bitcoin to be auctioned by U.S.</h1><p>The U.S. Marshals Service (USMS) said on Monday it intends to auction $16 million worth of bitcoin (or nearly $16.1 million) confiscated during several cases, reports Reuters. The amount of the ove...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/80f7c11e5004ff2b191eada1637cdb04/noop.jpg?input=https%3A%2F%2Fcoinreport.net%2Fwp-content%2Fuploads%2F2014%2F07%2FUnited_States_Marshals_Service_Seal-150x150.jpg"></article>]]></description>
+            <link>https://coinreport.net/16-million-worth-of-bitcoin-auction-by-usms/</link>
+            <guid isPermaLink="false">038b31d0-47dc-4c20-a4ec-eb004d8436e0</guid>
+            <pubDate>Wed, 10 Aug 2016 13:37:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Watch; Scalping The European Session - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Watch; Scalping The European Session - NEWSBTC</h1><p>Here's a look at what we are focusing on in the bitcoin price this morning. It is Wednesday morning, and time to take a look at what happened to the bitcoin price over the night, and how we can interpret this action moving into today's European session.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/39cc61d63674c8ccbb406246e0fd3888/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F10104036%2FScreen-Shot-2016-08-10-at-11.28.15.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/10/bitcoin-price-watch-scalping-european-session/</link>
+            <guid isPermaLink="false">e2cecfd5-261e-45e6-9ad4-900be82a718e</guid>
+            <pubDate>Wed, 10 Aug 2016 13:37:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Another Malicious Breadwallet Clone Appears In The Apple App Store]]></title>
+            <description><![CDATA[<article><h1>Another Malicious Breadwallet Clone Appears In The Apple App Store</h1><p>More and more fake Bitcoin wallets continue to pop up in the Apple App Store. Things have gotten so out of hand; it appears there is a new one every single day now. The latest malicious app is called Breadwallet - Bitcoin Wallet by Bitcoin Wallet, and should be avoided at all costs.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/17b422503e26152170078b7034407557/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_273074102.jpg"></article>]]></description>
+            <link>http://themerkle.com/another-malicious-breadwallet-clone-appears-in-the-apple-app-store/</link>
+            <guid isPermaLink="false">9bfaf3b1-6bfe-4178-8f65-154dd4e5a2fe</guid>
+            <pubDate>Wed, 10 Aug 2016 13:37:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Copay & GreenAddress Scramble to Stop Google from Storing Your Private Keys]]></title>
+            <description><![CDATA[<article><h1>Copay & GreenAddress Scramble to Stop Google from Storing Your Private Keys</h1><p>Bitpay's open source wallet Copay announced Tuesday that they have fixed a security flaw in Android phones running version six, codenamed 'Marshmallow.' Simultaneously, popular Bitcoin web and mobile wallet, GreenAddress, has encountered the same problem and is actively working on a solution.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8780f4d5acd8d212674781f45a17dd54/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FCloudPrivacy.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/copay-greenaddress-private-keys-cloud/</link>
+            <guid isPermaLink="false">2b4e5b25-b068-4696-bcb9-de8b63fcdc4f</guid>
+            <pubDate>Wed, 10 Aug 2016 13:37:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitwala Releases App Messenger, Allows Sending Bitcoin via Chat]]></title>
+            <description><![CDATA[<article><h1>Bitwala Releases App Messenger, Allows Sending Bitcoin via Chat</h1><p>Bitwala users can now chat and make payments at the same time on a new messenger designed to improve customer's experience on the platform. Bitwala is a service which makes bank transfers on behalf of users, who can send money abroad and pay bills with Bitcoin in 17 currencies.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/38c657fd01ca09fdb4702c0ba3f66970/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wOWVjODdjMTVlMWI4MzRjMDY4MTU0NmNmMWJmOGIwZS5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/bitwala-releases-app-messenger-allows-sending-bitcoin-via-chat</link>
+            <guid isPermaLink="false">9ed5bed8-68bc-48ae-8f29-8666388ce450</guid>
+            <pubDate>Wed, 10 Aug 2016 13:37:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blogger David Seaman Calls Ethereum Classic a Scam; Questions Silbert's and CoinDesk's Roles]]></title>
+            <description><![CDATA[<article><h1>Blogger David Seaman Calls Ethereum Classic a Scam; Questions Silbert's and CoinDesk's Roles</h1><p>David Seaman, a crypto blogger, has written a blog in the Huffington Post saying that sources have told him authorities are examining Barry Silbert's role with Ethereum Classic, which Seaman considers a scam. In another Huffington Post blog, Seaman claims CoinDesk, which Silbert's Digital Currency Group has acquired, is promoting Ethereum Classic.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3ccf89207401d90b08cb3995a1d45a3c/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FBlogger-David-Seaman-Calls-Ethereum-Classic-a-Scam-Questions-Silberts-and-CoinDesks-Roles-1.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/blogger-david-seaman-calls-ethereum-classic-a-scam-questions-silberts-and-coindesks-roles/</link>
+            <guid isPermaLink="false">141281ff-b933-420f-bf66-49248d7066c6</guid>
+            <pubDate>Wed, 10 Aug 2016 13:37:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Volume in Venezuela Surging Amid Hyperinflation]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Volume in Venezuela Surging Amid Hyperinflation</h1><p>So far, three Bitcoin exchanges have established themselves in Venezuela. SurBitcoin is by far the biggest, whereas Yabit and Cryptobuyer are relatively new on the scene. Bitcoin remains one of the most popular commodities in all of Venezuela. The country is plagued by hyperinflation, and consumers have very restricted access to financial assets.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4b945d44e3ff83572eb98f024d5ecc5f/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F10095535%2Fshutterstock_369151262.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/10/bitcoin-volume-venezuela-surging-amid-hyperinflation/</link>
+            <guid isPermaLink="false">8120e8aa-60dc-4417-971e-98fd143b2b63</guid>
+            <pubDate>Wed, 10 Aug 2016 13:37:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitfinex]]></title>
             <description><![CDATA[<article><h1>Bitfinex</h1><p>The largest and most advanced cryptocurrencies exchange</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2a46780c100373045a4fcbb71a59bd3e/noop.png?input=https%3A%2F%2Fwww.bitfinex.com%2Fassets%2Fbfx-stacked.png"></article>]]></description>
@@ -19,62 +75,6 @@
             <link>http://cryptomining-blog.com/8207-mining-performance-of-msi-gaming-x-amd-radeon-rx-470-4gb/</link>
             <guid isPermaLink="false">83a2f5e0-6106-41fe-bcdb-4bd72e394c49</guid>
             <pubDate>Wed, 10 Aug 2016 13:37:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Antonopoulos: Your Keys, Your Bitcoin. Not Your Keys, Not Your Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Antonopoulos: Your Keys, Your Bitcoin. Not Your Keys, Not Your Bitcoin</h1><p>In the wake of yet another hack which rocked the Bitcoin community on a massive scale, Andreas Antonopoulos, a known Bitcoin and security entrepreneur, told Cointelegraph where it's safer to keep your Bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cbf4fb2b442e98bf03c2b737b5148762/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy80YTZlMzIxNjY5NDViMTI4ZTZmYmMxNjkyMmIyODY4ZS5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/antonopoulos-your-keys-your-bitcoin-not-your-keys-not-your-bitcoin</link>
-            <guid isPermaLink="false">b40e09a6-f85d-44d7-bd61-1e26ecad37bc</guid>
-            <pubDate>Wed, 10 Aug 2016 13:37:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apple Kicks Fake Bitcoin Apps Out Of Store | PYMNTS.com]]></title>
-            <description><![CDATA[<article><h1>Apple Kicks Fake Bitcoin Apps Out Of Store | PYMNTS.com</h1><p>Apple is reportedly gearing up to stem the influx of counterfeit bitcoin wallets that are showing up in the App Store. According to a report, in the last week or so, more than 10 counterfeit bitcoin apps have made it into the App Store, with some of them designed to steal bitcoin from users that are worth thousands of dollars.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/684694f6dc4e0100749e21db3f2523dc/croprotate.jpg?cropheight=600&cropwidth=904&degrees=0&input=http%3A%2F%2Fcdn.pymnts.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fapple-appstore-bitcoin-1000x600.jpg&x=48&y=0"></article>]]></description>
-            <link>http://www.pymnts.com/apple/2016/apple-fake-bitcoin-apps-app-store/</link>
-            <guid isPermaLink="false">b4ed1d38-f68c-4410-9537-dcdb3547feea</guid>
-            <pubDate>Wed, 10 Aug 2016 13:37:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[As Bitcoin Technology Makes Inroads, One Law Firm Launches Multidisciplinary Blockchain Practice]]></title>
-            <description><![CDATA[<article><h1>As Bitcoin Technology Makes Inroads, One Law Firm Launches Multidisciplinary Blockchain Practice</h1><p>International law firm Steptoe and Johnson launches a multidisciplinary blockchain practice that serves companies affected by the new technology in industries as varied as energy, intellectual property and government affairs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7618d18b9137f33fc5682e24a1af78eab9a45899.jpg"></article>]]></description>
-            <link>http://www.forbes.com/sites/laurashin/2016/08/09/as-bitcoin-technology-makes-inroads-one-law-firm-launches-multidisciplinary-blockchain-practice/</link>
-            <guid isPermaLink="false">9d9f649a-c703-4f67-8468-963e7e371667</guid>
-            <pubDate>Wed, 10 Aug 2016 13:37:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Transactions Are Currency Transactions, Russia's Tax Office Says - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Transactions Are Currency Transactions, Russia's Tax Office Says - CoinDesk</h1><p>Russia's tax agency is encouraging its citizens to report the purchase or sale of digital currencies as currency transactions. In a tax letter obtained by CoinDesk dated this May, the Ministry of Finance's Federal Tax Service responded to an electronic query on the subject in which it issued new guidance.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/51ab631e69e52279af55989a13d48dc7/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Frubles-russia-e1470829130293.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/bitcoin-currency-russia-ministry-finance-tax/</link>
-            <guid isPermaLink="false">9580fc08-6e36-4d2b-b4c9-bef267188f7e</guid>
-            <pubDate>Wed, 10 Aug 2016 13:37:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Remittance Startup Launches Bitwala Messenger]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Remittance Startup Launches Bitwala Messenger</h1><p>The web app messenger lets customers interact with each other, and also send funds by entering a command in the conversation windows. Innovation is a driving factor in the world of Bitcoin and cryptocurrency. Bitwala, a company, focusing on sending money quickly and safely by using the Bitcoin network, has introduced their new messenger feature.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/36c63b97c44b12416866f6cb6e82b4d1/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F10132101%2FBitwala-Messenger.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/10/bitcoin-remittance-startup-launches-bitwala-messenger/</link>
-            <guid isPermaLink="false">36db151b-2bad-4c31-b6a3-00d734aecd41</guid>
-            <pubDate>Wed, 10 Aug 2016 13:37:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitfinex Will Resume Trading and Withdrawals in The Next 36 Hours]]></title>
-            <description><![CDATA[<article><h1>Bitfinex Will Resume Trading and Withdrawals in The Next 36 Hours</h1><p>By the look of things, the Bitfinex exchange is preparing to fully launch their trading platform in the next 36 hours. From the information we have received, it seems both withdrawals and trading will be enabled at the same time.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0f397e1e841bd35d037aa059cab9d946/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_192480983.jpg"></article>]]></description>
-            <link>http://themerkle.com/bitfinex-will-resume-trading-and-withdrawals-in-the-next-36-hours/</link>
-            <guid isPermaLink="false">93d5fdbe-adc2-4a73-a89d-21f819d60654</guid>
-            <pubDate>Wed, 10 Aug 2016 13:37:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="http://imgur.com/PgEhYWI.jpg"></article>]]></description>
-            <link>http://i.imgur.com/PgEhYWI.jpg</link>
-            <guid isPermaLink="false">9ca97ab3-a5db-42ab-a13d-148b10f61992</guid>
-            <pubDate>Wed, 10 Aug 2016 13:37:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bank of America, HSBC Unveil Blockchain Supply Chain Project - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Bank of America, HSBC Unveil Blockchain Supply Chain Project - CoinDesk</h1><p>Banking giants Bank of America and HSBC have teamed up with the Singapore government's IT and telecom agency on a project that applies blockchain to trade finance. Announced today, Bank of America, HSBC and the Infocomm Development Authority of Singapore (IDA) revealed they have built a blockchain application based on the Hyperledger protocol that aims to replicate the letter of credit (LC) transaction process between banks, exporters and importers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/131f28ed0c3735d64f7e5842ba9f1f78/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fshipping-boat-e1470831477383.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/hsbc-bank-america-blockchain-supply-chain/</link>
-            <guid isPermaLink="false">04f2773e-0110-40e2-ab2d-78b1fdfa130f</guid>
-            <pubDate>Wed, 10 Aug 2016 13:37:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
