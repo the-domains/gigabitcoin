@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 13:38:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 13:38:39 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[15 R3 Members Trial Distributed Ledger Tech for Trade Finance - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>15 R3 Members Trial Distributed Ledger Tech for Trade Finance - CoinDesk</h1><p>Banking consortium R3CEV revealed today that 15 of its members have completed a distributed ledger trial focused on applications in trade finance. The test reportedly focused on how its distributed ledger platform Corda could be used in accounts receivable invoicing and letter-of-credit (LC) transactions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0bbe2a7f656a666e3c1b77a0271edcd4/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F02%2Ftrade-market-e1454625350754.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/15-r3-members-trial-distributed-ledger-tech-trade-finance/</link>
+            <guid isPermaLink="false">02712755-3cea-4c85-ab76-f2230530a844</guid>
+            <pubDate>Wed, 10 Aug 2016 13:37:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Loss of Bitcoins in Bitfinex Could be Deducted on US Tax Returns]]></title>
+            <description><![CDATA[<article><h1>Loss of Bitcoins in Bitfinex Could be Deducted on US Tax Returns</h1><p>Following the hack at Bitfinex, many people stand to lose money as the company spreads losses among users. A 36% haircut was announced, but some users claimed even bigger losses. American tax accountant Daniel Winters explains how the IRS could allow U.S. taxpayers to deduct their losses from the Bitfinex hack.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5313b4bf90bd804fa12eed680459cba9/noop.png?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FIRS-banner.png"></article>]]></description>
+            <link>https://news.bitcoin.com/bitfinex-hack-deducted-us-tax/</link>
+            <guid isPermaLink="false">8a44ab9e-0995-4baf-9452-311b0f295731</guid>
+            <pubDate>Wed, 10 Aug 2016 13:37:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Venezuela's Hyperinflation Sees Record Highs of Bitcoin Use]]></title>
             <description><![CDATA[<article><h1>Venezuela's Hyperinflation Sees Record Highs of Bitcoin Use</h1><p>The month of July saw a high number of bitcoin transactions in Venezuela with August achieving a new record high as more people turn to the digital currency as the country continues to tackle the inflation of Bolivar. Venezuela is a country that is blighted by hyperinflation.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/16ba4f86a4bdfbc1ba1947e2e2bfc46b/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FIs-California-Set-to-Get-Its-Own-BitLicense-768x506.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.coindesk.com/bitfinex-examined-bitcoin-exchange/</link>
             <guid isPermaLink="false">e376b9e1-c3c4-4437-83ff-4daa0ce33202</guid>
             <pubDate>Wed, 10 Aug 2016 02:45:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why do services like abra build on top of the Bitcoin blockchain instead of building their own blockchain?]]></title>
-            <description><![CDATA[<article><h1>Why do services like abra build on top of the Bitcoin blockchain instead of building their own blockchain?</h1><p>Most services like Abra do not build on only the blockchain. Instead, they build on many different payment rails, including the traditional banking system. The Abra-like services largely provide a better user experience on the front-end, and routing optimization (for cost, speed, etc.) on the back-end.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2fb81fb5bcd4c440dee2d03fb2acc3c6/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.png2801ad8885530345.png"></article>]]></description>
-            <link>https://www.quora.com/Why-do-services-like-abra-build-on-top-of-the-Bitcoin-blockchain-instead-of-building-their-own-blockchain</link>
-            <guid isPermaLink="false">ac926ab0-d8f6-4b02-8c9d-7dcb4578983f</guid>
-            <pubDate>Wed, 10 Aug 2016 02:45:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Isle of Man Blockchain proof of concept project | HolyTransaction]]></title>
-            <description><![CDATA[<article><h1>Isle of Man Blockchain proof of concept project | HolyTransaction</h1><p>A few days ago the Mann government revealed that it is working on a blockchain proof of concept project. Announced on the Financial News , this plan started thanks to a collaboration with the blockchain startup Credits. The Blockchain proof of concept aims at exploring the possibility of the distributed ledger to be used for Internet of Things (IoT) devices.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7441d2bc4216ea8fdf87d6a8fa70d430/noop.jpg?input=https%3A%2F%2F4.bp.blogspot.com%2F-5OAFjTDLRhg%2FV6n-wpd_1_I%2FAAAAAAAAAsk%2FKV-_oc2GHekq2dXWN9TcnktDSPqq7otIgCLcB%2Fw1200-h630-p-nu%2Fisle_of_man_map1.jpg"></article>]]></description>
-            <link>http://blog.holytransaction.com/2016/08/isle-of-man-blockchain-proof-of-concept.html</link>
-            <guid isPermaLink="false">61d47c34-2620-457d-b23c-17f20cbcf907</guid>
-            <pubDate>Wed, 10 Aug 2016 02:45:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
