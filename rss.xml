@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 02:46:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 02:46:07 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Eyes $600 as Trader Optimism Returns - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Eyes $600 as Trader Optimism Returns - CoinDesk</h1><p>The price of bitcoin continues to test $600 following a high-profile exchange hack that has left a wake of uncertainty for traders. Bitcoin prices reached a high of $598.64 this weekend, but since then have largely traded tightly in the $560 to $580 range, CoinDesk USD Bitcoin Price Index (BPI) figures reveal.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a20684f7c1ab88954fb5c2aa7bb8d4da/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fdollar-markets-hook-e1470776362434.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/bitcoin-price-eyes-600-trader-optimism-returns/</link>
+            <guid isPermaLink="false">284ac03b-4619-493f-b1a4-383c1f11108f</guid>
+            <pubDate>Wed, 10 Aug 2016 02:45:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The U.S. government is selling $1.6 million worth of seized bitcoins this month]]></title>
+            <description><![CDATA[<article><h1>The U.S. government is selling $1.6 million worth of seized bitcoins this month</h1><p>The U.S. government is selling 2,700 bitcoin, valued at nearly $1.6 million based on current exchange rates, later this month. The U.S. Marshals Service, the enforcement arm of federal courts, is holding an auction for the seized bitcoins on August 22; bidders must register by August 17 in order to participate.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b62032037ba3e37a185916cd8c3973fc/noop.jpg?input=http%3A%2F%2Ficdn3.digitaltrends.com%2Fimage%2Fbitcoin-13-1200x630-c.jpg"></article>]]></description>
+            <link>http://www.digitaltrends.com/computing/us-government-auctions-off-2700-bitcoin/</link>
+            <guid isPermaLink="false">57d331f9-6181-4798-b96e-3fe6c73ad917</guid>
+            <pubDate>Wed, 10 Aug 2016 02:45:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Biglaw Firm Opens Bitcoin Practice]]></title>
             <description><![CDATA[<article><h1>Biglaw Firm Opens Bitcoin Practice</h1><p>Bitcoin, the preferred currency of both the nerd you cheated off in ninth grade and his crystal meth dealer, is one of those technologies that just won't go away. The "cryptocurrency" discovered by computational "digging" brings goldbugs that one delicious step closer to a privatized monetary supply full of wild speculative bubbles and devastating crashes, just like Ayn Rand would have wanted.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/18e142e40eebcf07dd9bb41f5e45c861/noop.jpg?input=http%3A%2F%2Fabovethelaw.com%2Fwp-content%2Fuploads%2F2016%2F07%2FBitcoin_statistic_coin-300x300.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>USA to Host Yet Another Silk Road Bitcoins Auction</h1><p>The USMS has announced a new auction to sell bitcoins seized under several criminal proceedings, including Silk Road. The auction is to take place on August 22. Overall amount of bitcoins to be sold comprises 2,718 (nearly $1.6 million at current exchange rate).</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/59620370b687dd34e1ac3043a35fafdf/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F08%2Fbitcoinnews01.png"></article>]]></description>
             <link>http://forklog.net/usa-to-host-yet-another-silk-road-bitcoins-auction/</link>
             <guid isPermaLink="false">38c85031-1744-4948-aff1-f9229a3ca5e8</guid>
-            <pubDate>Tue, 09 Aug 2016 17:21:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Coinbase Dilemma: Regulations vs Customer Satisfaction]]></title>
-            <description><![CDATA[<article><h1>The Coinbase Dilemma: Regulations vs Customer Satisfaction</h1><p>A Coinbase customer complains about the poor response from Coinbase customer support as the platfrom shuts down his account citing FinCEN regulations. Read more... The advancement in technology has drastically changed the travel patterns of an average human. People cover more miles, across geographies due to the increased need to travel for business and pleasure.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9de99c1008cf70834ead230f9afe476c1c45eae8.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/09/coinbase-dilemma-regulations-customer-satisfaction/</link>
-            <guid isPermaLink="false">18fe3844-b63a-4b4a-9d69-62c72ba082ff</guid>
-            <pubDate>Tue, 09 Aug 2016 17:21:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why are zero fee transactions not being included in blocks that are not full?]]></title>
-            <description><![CDATA[<article><h1>Why are zero fee transactions not being included in blocks that are not full?</h1><p>Today, I sent a Bitcoin payment but it has not been included in a block for about 10 hours now. The payment had the following characteristics: ~0.1 BTC 222 bytes One UTXO as an input (I used coin</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/47944/why-are-zero-fee-transactions-not-being-included-in-blocks-that-are-not-full</link>
-            <guid isPermaLink="false">62e5c69b-68bf-4e81-b7ba-bb8a8e0662b3</guid>
             <pubDate>Tue, 09 Aug 2016 17:21:13 GMT</pubDate>
         </item>
     </channel>
