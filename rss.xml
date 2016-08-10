@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 02:46:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 02:46:09 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Isle of Man Blockchain proof of concept project | HolyTransaction]]></title>
+            <description><![CDATA[<article><h1>Isle of Man Blockchain proof of concept project | HolyTransaction</h1><p>A few days ago the Mann government revealed that it is working on a blockchain proof of concept project. Announced on the Financial News , this plan started thanks to a collaboration with the blockchain startup Credits. The Blockchain proof of concept aims at exploring the possibility of the distributed ledger to be used for Internet of Things (IoT) devices.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7441d2bc4216ea8fdf87d6a8fa70d430/noop.jpg?input=https%3A%2F%2F4.bp.blogspot.com%2F-5OAFjTDLRhg%2FV6n-wpd_1_I%2FAAAAAAAAAsk%2FKV-_oc2GHekq2dXWN9TcnktDSPqq7otIgCLcB%2Fw1200-h630-p-nu%2Fisle_of_man_map1.jpg"></article>]]></description>
+            <link>http://blog.holytransaction.com/2016/08/isle-of-man-blockchain-proof-of-concept.html</link>
+            <guid isPermaLink="false">61d47c34-2620-457d-b23c-17f20cbcf907</guid>
+            <pubDate>Wed, 10 Aug 2016 02:45:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to Secure Bitcoin Exchanges, or Why All Hope Is Not Lost]]></title>
             <description><![CDATA[<article><h1>How to Secure Bitcoin Exchanges, or Why All Hope Is Not Lost</h1><p>Last week's Bitfinex hack, in which Bitcoin's leading exchange lost almost 120,000 bitcoins valued some $70 million USD at the time, represented a depressing realization for the Bitcoin community. Where many had hoped that multi-million dollar hacks and loss of customers funds were a thing of the past, it became clear that storing bitcoins on an exchange is still not as secure as it perhaps should be.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3d1be25ad334bc6eb45d131a409c3722/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fhow-to-secure-bitcoin-exchanges-or-why-all-hope-is-not-lost.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Ex-Cop Caught in Undercover Sting Pleads Guilty to Selling Bitcoin Mining Hardware</h1><p>A former New Jersey police officer is reported to have plead guilty to attempting to sell stolen bitcoin mining hardware, according to NJ.com. Vincent Saggese, 34, is reported to have admitted to meeting an undercover agent last year where he is alleged to have tried selling computer equipment including bitcoin mining equipment from KnC Miner.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d65a02c4de5ce67a55f950d5301ccbf1/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FEx-Cop-Caught-in-Undercover-Sting-Pleads-Guilty-to-Selling-Bitcoin-Mining-Hardware.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/ex-cop-caught-undercover-sting-pleads-guilty-selling-bitcoin-mining-hardware/</link>
             <guid isPermaLink="false">4005af20-cd47-4f20-9a19-928439f4e769</guid>
-            <pubDate>Wed, 10 Aug 2016 02:45:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The $65 million Bitfinex hack shows that it is impossible to tell a good bitcoin company from a bad one]]></title>
-            <description><![CDATA[<article><h1>The $65 million Bitfinex hack shows that it is impossible to tell a good bitcoin company from a bad one</h1><p>Bitcoin suffered yet another blow last week when Bitfinex, one of the cryptocurrency's largest exchanges, suffered a hack that cost its users about $65 million. Every one of its investors saw their funds suddenly drop by 36%, as the company decided to "socialize" the losses.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/edd3a3a61699faffb7cd2f8cc5487173/noop.jpg?input=https%3A%2F%2Fi2.wp.com%2Fqzprod.files.wordpress.com%2F2016%2F08%2Fbitcoin-baloons.jpg%3Ffit%3D440%252C330%26ssl%3D1"></article>]]></description>
-            <link>http://qz.com/753958/the-65-million-bitfinex-hack-shows-that-it-is-impossible-to-tell-a-good-bitcoin-company-from-a-bad-one/</link>
-            <guid isPermaLink="false">7da8d4d2-48dc-457b-9cda-353af6047add</guid>
             <pubDate>Wed, 10 Aug 2016 02:45:20 GMT</pubDate>
         </item>
     </channel>
