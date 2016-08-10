@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 02:46:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 02:46:12 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitfinex Examined: Inside the Troubled Bitcoin Exchange's History - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Bitfinex Examined: Inside the Troubled Bitcoin Exchange's History - CoinDesk</h1><p>As news major bitcoin exchange Bitfinex was robbed of more than $60m continues to echo across the media, less clear for many is who - and what - is at the center of this story. Based in Hong Kong, Bitfinex was the largest bitcoin exchange by US dollar volume prior to the hack.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d16b78673ad35309b7c4d6a68d6cb108/noop.png?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FScreen-Shot-2016-08-09-at-1.06.12-PM-e1470762430875.png"></article>]]></description>
-            <link>http://www.coindesk.com/bitfinex-examined-bitcoin-exchange/</link>
-            <guid isPermaLink="false">e376b9e1-c3c4-4437-83ff-4daa0ce33202</guid>
-            <pubDate>Wed, 10 Aug 2016 02:45:22 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Why do services like abra build on top of the Bitcoin blockchain instead of building their own blockchain?]]></title>
             <description><![CDATA[<article><h1>Why do services like abra build on top of the Bitcoin blockchain instead of building their own blockchain?</h1><p>Most services like Abra do not build on only the blockchain. Instead, they build on many different payment rails, including the traditional banking system. The Abra-like services largely provide a better user experience on the front-end, and routing optimization (for cost, speed, etc.) on the back-end.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2fb81fb5bcd4c440dee2d03fb2acc3c6/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.png2801ad8885530345.png"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>California to Get Its Own Version of BitLicense ? - NEWSBTC</h1><p>As California legislature prepares to vote on the Bitcoin License bill, Electronic Frontier Foundation expresses its concerns about its impact on Bitcoin ecosystem. Read more... The State of California is all set to follow New York's footsteps. The Golden State has drafted a new digital currency regulation along the lines of New York's BitLicense and it will be voted upon soon.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe69710b3192efe55d4d1d8c11c47d5f325aea93.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/08/09/california-to-get-its-own-version-of-bitlicense/</link>
             <guid isPermaLink="false">129266b5-dfcd-4145-9628-24369e6883ae</guid>
+            <pubDate>Wed, 10 Aug 2016 02:45:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will The New Australian Financial Cyber Unit Focus On Bitcoin?]]></title>
+            <description><![CDATA[<article><h1>Will The New Australian Financial Cyber Unit Focus On Bitcoin?</h1><p>The Australian government has unveiled its plans to create a new cyber intelligence unit to take on terrorist financing and money laundering. To be more precise, this new unit will primarily target online payment methods, to reduce fraud. But it is not unlikely they will keep a close eye on Bitcoin as well.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c8aa72137062afc04b0eebf0d70be791/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_383087761.jpg"></article>]]></description>
+            <link>http://themerkle.com/will-the-new-australian-financial-cyber-unit-focus-on-bitcoin/</link>
+            <guid isPermaLink="false">e6ac04b0-a5a0-45c4-99d5-fc8e80709095</guid>
             <pubDate>Wed, 10 Aug 2016 02:45:20 GMT</pubDate>
         </item>
     </channel>
