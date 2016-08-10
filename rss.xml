@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 02:45:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 02:46:06 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jaxx To Be First Dash Wallet for iOS - Bitcoinist.net]]></title>
+            <description><![CDATA[<article><h1>Jaxx To Be First Dash Wallet for iOS - Bitcoinist.net</h1><p>Jaxx, the "multi-token and multi-platform blockchain wallet" is expanding this week to include support for Dash, according to its developers. This is indeed notable news as the Decentral team builds out support for more cryptocurrencies. Also read: Industry Report: News Surrounding Bitfinex Gets Weirder The news is significant as Jaxx.io will become the first Dash wallet for the iOS platform.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/53708e968d5642650f6e8df36f7b3599/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FScreen-Shot-2016-08-10-at-6.00.14-AM.png"></article>]]></description>
+            <link>http://bitcoinist.net/jaxx-to-be-first-dash-wallet-for-ios/</link>
+            <guid isPermaLink="false">d2d72897-a4a2-4dab-b2cf-103d45591973</guid>
+            <pubDate>Wed, 10 Aug 2016 02:45:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I know how to create tech with mass appeal. I've done it for 20 years. #Bitcache will take #Bitcoin to the masses.pic.twitter.com/ECveM0qRXN</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.cryptocoinsnews.com/brexit-britains-lead-fintech-sector-hub-still-shaky/</link>
             <guid isPermaLink="false">a879a6b9-0af7-4847-b03b-6ab5fa7aab17</guid>
             <pubDate>Tue, 09 Aug 2016 17:21:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Core Ramps up Efforts to Compete with ETH]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Core Ramps up Efforts to Compete with ETH</h1><p>Three Bitcoin Core developers, Alex Morcos, Suhas Daftuar and Matt Corallo, have announced a month-long "Hacker Residency" for established developers with, preferably, bitcoin experience. The event is organized by Chaincode Labs, "a New York City-based research and development group that explores cryptocurrencies and other peer-to-peer decentralized systems" according to their website.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/69e49d64913a267ed0912f5d46d62be2/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FBitcoin-Core-Ramps-up-Efforts-to-Compete-with-ETH.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-core-ramps-up-efforts-to-compete-with-eth/</link>
-            <guid isPermaLink="false">8a37e8ee-970a-4424-946e-3c77d357f795</guid>
-            <pubDate>Tue, 09 Aug 2016 17:21:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
