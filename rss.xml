@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 13:38:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 13:38:43 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Another Malicious Breadwallet Clone Appears In The Apple App Store]]></title>
+            <description><![CDATA[<article><h1>Another Malicious Breadwallet Clone Appears In The Apple App Store</h1><p>More and more fake Bitcoin wallets continue to pop up in the Apple App Store. Things have gotten so out of hand; it appears there is a new one every single day now. The latest malicious app is called Breadwallet - Bitcoin Wallet by Bitcoin Wallet, and should be avoided at all costs.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/17b422503e26152170078b7034407557/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_273074102.jpg"></article>]]></description>
+            <link>http://themerkle.com/another-malicious-breadwallet-clone-appears-in-the-apple-app-store/</link>
+            <guid isPermaLink="false">9bfaf3b1-6bfe-4178-8f65-154dd4e5a2fe</guid>
+            <pubDate>Wed, 10 Aug 2016 13:37:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Copay & GreenAddress Scramble to Stop Google from Storing Your Private Keys]]></title>
             <description><![CDATA[<article><h1>Copay & GreenAddress Scramble to Stop Google from Storing Your Private Keys</h1><p>Bitpay's open source wallet Copay announced Tuesday that they have fixed a security flaw in Android phones running version six, codenamed 'Marshmallow.' Simultaneously, popular Bitcoin web and mobile wallet, GreenAddress, has encountered the same problem and is actively working on a solution.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8780f4d5acd8d212674781f45a17dd54/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FCloudPrivacy.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>As Bitcoin Technology Makes Inroads, One Law Firm Launches Multidisciplinary Blockchain Practice</h1><p>International law firm Steptoe and Johnson launches a multidisciplinary blockchain practice that serves companies affected by the new technology in industries as varied as energy, intellectual property and government affairs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7618d18b9137f33fc5682e24a1af78eab9a45899.jpg"></article>]]></description>
             <link>http://www.forbes.com/sites/laurashin/2016/08/09/as-bitcoin-technology-makes-inroads-one-law-firm-launches-multidisciplinary-blockchain-practice/</link>
             <guid isPermaLink="false">9d9f649a-c703-4f67-8468-963e7e371667</guid>
-            <pubDate>Wed, 10 Aug 2016 13:37:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Transactions Are Currency Transactions, Russia's Tax Office Says - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Transactions Are Currency Transactions, Russia's Tax Office Says - CoinDesk</h1><p>Russia's tax agency is encouraging its citizens to report the purchase or sale of digital currencies as currency transactions. In a tax letter obtained by CoinDesk dated this May, the Ministry of Finance's Federal Tax Service responded to an electronic query on the subject in which it issued new guidance.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/51ab631e69e52279af55989a13d48dc7/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Frubles-russia-e1470829130293.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/bitcoin-currency-russia-ministry-finance-tax/</link>
-            <guid isPermaLink="false">9580fc08-6e36-4d2b-b4c9-bef267188f7e</guid>
             <pubDate>Wed, 10 Aug 2016 13:37:48 GMT</pubDate>
         </item>
     </channel>
