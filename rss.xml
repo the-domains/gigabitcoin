@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 02:46:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 02:46:07 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Yes, it's back. Yes, it's bad. California's Anti-Virtual Currency Bill, AB 1326. #KillItWithFire http://bit.ly/2aI92B4 #bitcoin</p>]]></description>
-            <link>https://twitter.com/BFEduComm/status/762917055553212416</link>
-            <guid isPermaLink="false">3db52aee-4217-43f2-8813-1a8115d496ed</guid>
-            <pubDate>Wed, 10 Aug 2016 02:45:19 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Jaxx To Be First Dash Wallet for iOS - Bitcoinist.net]]></title>
             <description><![CDATA[<article><h1>Jaxx To Be First Dash Wallet for iOS - Bitcoinist.net</h1><p>Jaxx, the "multi-token and multi-platform blockchain wallet" is expanding this week to include support for Dash, according to its developers. This is indeed notable news as the Decentral team builds out support for more cryptocurrencies. Also read: Industry Report: News Surrounding Bitfinex Gets Weirder The news is significant as Jaxx.io will become the first Dash wallet for the iOS platform.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/53708e968d5642650f6e8df36f7b3599/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FScreen-Shot-2016-08-10-at-6.00.14-AM.png"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://cointelegraph.com/news/despite-recent-hacks-bitcoin-remains-the-superhero</link>
             <guid isPermaLink="false">613ed5e5-1b38-4ca4-a138-a67df939f39b</guid>
             <pubDate>Tue, 09 Aug 2016 17:21:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK Gambling Regulator Clarifies Digital Currency Rules - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>UK Gambling Regulator Clarifies Digital Currency Rules - CoinDesk</h1><p>The UK's gambling regulator has clarified its rules for digital currencies. In an update to its codes of practice issued this July, the UK Gambling Commission ( UKGC) outlined how licensees can implement appropriate policies for so-called cash equivalents, a definition under which digital currencies are captured.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1c125d3f4ea5fc77f44b422bfd608935/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fgambling-gaming-e1470746038738.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/uk-gambling-digital-currency-rules/</link>
+            <guid isPermaLink="false">1f3b7b04-7795-4b25-95c1-96824e9e76e7</guid>
+            <pubDate>Tue, 09 Aug 2016 17:21:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
