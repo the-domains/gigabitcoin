@@ -7,20 +7,6 @@
         <lastBuildDate>Thu, 11 Aug 2016 04:45:46 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Int'l Law Firm Expands Blockchain Practice, Accepts Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Int'l Law Firm Expands Blockchain Practice, Accepts Bitcoin</h1><p>International law firm Steptoe & Johnson LLP announced on Tuesday that it has expanded its blockchain law practice into a multi-disciplinary practice. The aim of the expansion is to help clients in all industries learn and prepare their businesses for blockchain applications. Also, the firm announced that it will soon accept bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e5b328836a2dd00b078759e82f88baa0/noop.png?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Flaw1.png"></article>]]></description>
-            <link>https://news.bitcoin.com/law-firm-blockchain-practice/</link>
-            <guid isPermaLink="false">9ea69932-ef08-4c7b-812a-d5adea8e6a93</guid>
-            <pubDate>Thu, 11 Aug 2016 04:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Industry Report: Bitfinex Forces Customers to Pay for Hack Losses]]></title>
-            <description><![CDATA[<article><h1>Industry Report: Bitfinex Forces Customers to Pay for Hack Losses</h1><p>Another Silk Road auction is taking place, Bitfinex is covering its losses, and a new class on Bitcoin is set to begin. Want to catch up on your latest digital currency news? Take a look at the stories below.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0235dde9b4fc755bea413b0176e6b6b5/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2Fbitfinexoutagesplash.png"></article>]]></description>
-            <link>http://bitcoinist.net/bitfinex-customer-losses/</link>
-            <guid isPermaLink="false">5f1be13b-619c-476c-8973-66332cf5b5aa</guid>
-            <pubDate>Thu, 11 Aug 2016 04:44:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bitcoin users losing money to hackers, shutdowns - Independent.ie]]></title>
             <description><![CDATA[<article><h1>Bitcoin users losing money to hackers, shutdowns - Independent.ie</h1><p>More than one in six bitcoin users worldwide has lost money as a result of hackers or exchange shutdowns, a new survey by an Irish company has found. A poll of 770 bitcoin users from 68 countries around the world, including Ireland, reveals that thousands of euro worth of bitcoin has been reported lost or stolen as a result of cyber hacking or from users losing access to their online wallets.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6b24b95c563f79d773d01e7e7db88461/noop.jpg?input=http%3A%2F%2Fwww.independent.ie%2Fbusiness%2Farticle31080538.ece%2FALTERNATES%2Fh342%2F2015-03-20_bus_7933013_I1.JPG"></article>]]></description>
             <link>http://www.independent.ie/business/irish/bitcoin-users-losing-money-to-hackers-shutdowns-34955529.html</link>
@@ -75,6 +61,20 @@
             <link>http://gigabitcoin.xyz/anti-fragile-blockchain/index.html</link>
             <guid isPermaLink="false">fdec0cca-0713-4bad-9b9a-82c48cf8a7f1</guid>
             <pubDate>Thu, 11 Aug 2016 04:44:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opening Remarks - Canadian Senate Testimony on Bitcoin - Decentralize Today]]></title>
+            <description><![CDATA[<article><h1>Opening Remarks - Canadian Senate Testimony on Bitcoin - Decentralize Today</h1><p>First published in October 2014 Thank you, chair and committee members. I appreciate this opportunity to contribute to these proceedings about digital currency. My experience is primarily in information security and network architecture. I have a Master's degree in networks and distributed systems and have worked in this field since 1992.</p></article>]]></description>
+            <link>https://decentralize.today/opening-remarks-canadian-senate-testimony-on-bitcoin-eb77f696ee5e</link>
+            <guid isPermaLink="false">485ae158-2195-41fe-b605-6c68e0937ab2</guid>
+            <pubDate>Thu, 11 Aug 2016 04:44:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article></article>]]></description>
+            <link>http://www.bizjournals.com/albuquerque/news/2016/08/10/abq-businesses-finding-pros-and-cons-using-bitcoin.html</link>
+            <guid isPermaLink="false">53e45e28-ce35-41ce-8e79-cb63b4c587ce</guid>
+            <pubDate>Thu, 11 Aug 2016 01:59:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
