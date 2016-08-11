@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 02:01:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 02:01:35 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Blockchainization of Kolionovo Farm Halves the Prices for Its Products]]></title>
-            <description><![CDATA[<article><h1>Blockchainization of Kolionovo Farm Halves the Prices for Its Products</h1><p>According to the head and founder of Kolionovo farm Mikhail Shlyapnikov, blockchanization and real-life operation of the farm in 'friends only' mode, the organization managed to halve its retail prices for loyal customers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d020831b1fdddd7e055fa4d9f8a80bb8dea4842.png"></article>]]></description>
-            <link>http://forklog.net/blockchainization-of-kolionovo-farm-halves-the-prices-for-its-products/</link>
-            <guid isPermaLink="false">ba7f04a4-47f7-44dc-b6ca-f65bbdaa0ead</guid>
-            <pubDate>Thu, 11 Aug 2016 01:59:44 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Should I be concerned about the safety of Bitcoin?]]></title>
             <description><![CDATA[<article><h1>Should I be concerned about the safety of Bitcoin?</h1><p>Answer (1 of 4): No. Well, yes, but this has nothing to do with the story mentioned in the linked article. If you look at the current title of the article, you'll see it reads "Bitcoin exchange customers lose..." "Bitcoin exchange customers". That is, customers of a specific Bitcoin exchange, "Bi...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2fb81fb5bcd4c440dee2d03fb2acc3c6/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.png2801ad8885530345.png"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://www.coindesk.com/california-scraps-licenses-in-latest-digitcal-currency-bill-proposal/</link>
             <guid isPermaLink="false">6e6050b1-c117-4ece-9a2d-ff918a17d61f</guid>
             <pubDate>Thu, 11 Aug 2016 01:59:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[French Startup Bitit to Launch New Bitcoin Buying Platform]]></title>
+            <description><![CDATA[<article><h1>French Startup Bitit to Launch New Bitcoin Buying Platform</h1><p>Bitit is a French Bitcoin startup which keeps reinventing itself. After making a big splash by letting users buy Bitcoin through a Bitit code redeemable into Bitcoins, and with cash in 100K+ local stores, Bitit is now proposing a new killer platform which lets you buy Bitcoins in few seconds.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7dbfd1f8dca183ea78cb24e382128dba/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wMjZhOTA5Mzc0N2YyY2M4YWNmYjQyOWViNmYyOTMyMi5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/french-startup-bitit-to-launch-new-bitcoin-buying-platform</link>
+            <guid isPermaLink="false">7db638ba-cc1e-4eb6-a04e-304d291b83fc</guid>
+            <pubDate>Thu, 11 Aug 2016 01:59:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
