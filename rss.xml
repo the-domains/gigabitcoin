@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 02:00:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 02:00:14 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>@NicolasDorier The Bitcoin Surprise: When you wake up and notice your Bitcoin book is translated to Indonesian: http://bit.ly/2b4LgO0</p>]]></description>
-            <link>https://twitter.com/nopara73/status/763160577682182144</link>
-            <guid isPermaLink="false">004be3ff-5369-446b-bde1-c0ae96f7ad5d</guid>
-            <pubDate>Thu, 11 Aug 2016 01:59:40 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Celebrate Bitfinex&apos; return! Get 20% off on your next TREZOR. Apply code &quot;bitfinex&quot; at checkout. Limited time only!pic.twitter.com/i9LeFrwgUy" src="https://pbs.twimg.com/media/Cpg4RJEWIAAF69_.jpg:large">]]></description>
@@ -75,6 +68,13 @@
             <link>https://www.reddit.com/r/Bitcoin/comments/4wxyhj/snowden_tweets_private_key_hash_then_deletes_it/</link>
             <guid isPermaLink="false">371a736c-e523-4bf0-86b5-8ff0146cdb73</guid>
             <pubDate>Wed, 10 Aug 2016 13:37:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum Price Technical Analysis - Targets Achieved, Buy Dips More? - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Ethereum Price Technical Analysis - Targets Achieved, Buy Dips More? - NEWSBTC</h1><p>Ethereum price continued to gain traction against the US Dollar, and it looks like the idea of buying dips may still work in the short term. Ethereum price continued to gain traction against the US Dollar, and it looks like the idea of buying dips may still work in the short term.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/55693a5ca37f29e818c50704d3fab19c/croprotate.png?cropheight=757&cropwidth=1663&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F10032159%2FEthereum8.png&x=0&y=2"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/10/ethereum-price-technical-analysis-targets-achieved-buy-dips/</link>
+            <guid isPermaLink="false">6a8b05b2-046f-4ec2-b335-859de6e1e7ec</guid>
+            <pubDate>Wed, 10 Aug 2016 13:37:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
