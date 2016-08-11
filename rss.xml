@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 13:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 13:14:18 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blockchains and the Question of Data Reliance - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Blockchains and the Question of Data Reliance - CoinDesk</h1><p>Kesem Frank is a former blockchain specialist at Deloitte and COO and co-founder of nuco, a blockchain startup aiming to transform digital infrastructure. In this opinion piece, Frank explores how blockchains could come to play the role of a trusted digital arbiter, and why this may be essential to global consumer protection as the Internet of Things comes of age.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/213892bf156d3e6fecd6e16773db6dab/noop.png?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FScreen-Shot-2016-08-11-at-7.43.03-AM-e1470915908395.png"></article>]]></description>
+            <link>http://www.coindesk.com/blockchains-question-data-reliance/</link>
+            <guid isPermaLink="false">8499ed1e-7035-48f4-8f9c-bb28fd494aba</guid>
+            <pubDate>Thu, 11 Aug 2016 13:13:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Authorities Hint At Potential Bitcoin Taxation In Russia]]></title>
+            <description><![CDATA[<article><h1>Authorities Hint At Potential Bitcoin Taxation In Russia</h1><p>Bitcoin in Russia will never be a favorite combination by the look of things. Even though the government and central bank want to explore blockchain technology, using cryptocurrency is a different matter altogether. For now, it seems like the Russian tax authorities want to have all Bitcoin operations reported.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fe370a07b2b3716bdaa6ceb096f76994/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_188429918.jpg"></article>]]></description>
+            <link>http://themerkle.com/authorities-hint-at-potential-bitcoin-taxation-in-russia/</link>
+            <guid isPermaLink="false">7d4b45ce-c2e2-4b27-ad39-27cc75488917</guid>
+            <pubDate>Thu, 11 Aug 2016 13:13:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jaxx Wallet to Integrate Dash]]></title>
+            <description><![CDATA[<article><h1>Jaxx Wallet to Integrate Dash</h1><p>The Jaxx wallet prepares to integrate with Dash over the next couple days. Jaxx, a multi-coin, multi-platform wallet that supports cross-platform integration, as well as ShapeShift exchange integration. Anthony Di Iorio CEO of Decentral, the company that makes Jaxx, announced via Reddit the coming integration.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/72f36cc780a20d4f6ef4034e2c3c9594/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yYWZhODEwNWRjNTJjMmQyYTI3MWU1ZWU3MWRhMDFlZC5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/jaxx-wallet-to-integrate-dash</link>
+            <guid isPermaLink="false">2fd12217-6dd6-46af-a8be-2204d0195fa8</guid>
+            <pubDate>Thu, 11 Aug 2016 13:13:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Attention Californians - Call your congressman/woman and let them know how you feel about AB-136! * /r/Bitcoin]]></title>
             <description><![CDATA[<article><h1>Attention Californians - Call your congressman/woman and let them know how you feel about AB-136! * /r/Bitcoin</h1><p>AB-1326 A lot of calls can make a difference, I just called my local office and it took 2 minutes. Here's a site to check who your local Rep...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>http://gigabitcoin.xyz/failure-is-an-option/index.html</link>
             <guid isPermaLink="false">e0c99e2c-8f6d-47e8-95bd-e692769ed2db</guid>
             <pubDate>Thu, 11 Aug 2016 04:44:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Dumb Networks Are Better]]></title>
-            <description><![CDATA[<article><h1>Why Dumb Networks Are Better</h1><p>In computer and communications networks, decentralization leads to faster innovation, greater openness, and lower cost. Decentralization creates the conditions for competition and diversity in the services the network provides. But how can you tell if a network is decentralized, and what makes it more likely to be decentralized?</p></article>]]></description>
-            <link>http://gigabitcoin.xyz/why-dumb-networks-are-better/index.html</link>
-            <guid isPermaLink="false">3f11b246-5523-4b03-b8d5-dea8ecf5b6fe</guid>
-            <pubDate>Thu, 11 Aug 2016 04:44:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin security model: Trust by computation]]></title>
-            <description><![CDATA[<article><h1>Bitcoin security model: Trust by computation</h1><p>First February 2014 in O'Reilly Radar Bitcoin is a distributed consensus network that maintains a secure and trusted distributed ledger through a process called "proof-of-work." Bitcoin fundamentally inverts the trust mechanism of a distributed system. Traditionally, as we see in payment and banking systems, trust is achieved through access control, by carefully vetting participants and excluding bad actors.</p></article>]]></description>
-            <link>http://gigabitcoin.xyz/bitcoin-security-model-trust-by-computation/index.html</link>
-            <guid isPermaLink="false">2ba47f4b-aca3-442d-8c41-3ef63539f9b8</guid>
-            <pubDate>Thu, 11 Aug 2016 04:44:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Great comments John, thanks.]]></title>
-            <description><![CDATA[<article><h1>Great comments John, thanks.</h1><p>Great comments John, thanks. All valid points. I wouldn't consider this article an exhaustive analysis of the incentives and the impact of segwit, so thanks for offering additional analysis. I especially appreciate the input about rewarding full nodes, something that other chains have incorporated in their design and could potentially be a useful addition for a future upgrade of bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f01f29ae29b418baee6a537ea9c33e7e/noop.png?input=https%3A%2F%2Fcdn-images-1.medium.com%2Ffit%2Fc%2F60%2F60%2F0*tTZN03LAxAD9moWf.png"></article>]]></description>
-            <link>http://gigabitcoin.xyz/great-comments-john-thanks/index.html</link>
-            <guid isPermaLink="false">1fa84703-497e-44a1-899b-8802c1b8976b</guid>
-            <pubDate>Thu, 11 Aug 2016 04:44:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
