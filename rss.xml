@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 04:45:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 04:45:49 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Failure is an option]]></title>
+            <description><![CDATA[<article><h1>Failure is an option</h1><p>First in March 2014, in the immediate wake of the failure of Japan-based bitcoin exchange Mt.Gox In the free market, failure is always an option. The United States has one of the world's most vibrant entrepreneurial cultures, where millions of people start small businesses, create new products and invent new technology.</p></article>]]></description>
+            <link>http://gigabitcoin.xyz/failure-is-an-option/index.html</link>
+            <guid isPermaLink="false">e0c99e2c-8f6d-47e8-95bd-e692769ed2db</guid>
+            <pubDate>Thu, 11 Aug 2016 04:44:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Dumb Networks Are Better]]></title>
             <description><![CDATA[<article><h1>Why Dumb Networks Are Better</h1><p>In computer and communications networks, decentralization leads to faster innovation, greater openness, and lower cost. Decentralization creates the conditions for competition and diversity in the services the network provides. But how can you tell if a network is decentralized, and what makes it more likely to be decentralized?</p></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Russian Payment Company QIWI Considers Switching To Blockchain</h1><p>Interesting things are happening in the |Russian digital currency ecosystem these days. Even though the country wants to ban Bitcoin and cryptocurrency, they are not opposed to digital currency by any means. While we may not see a BitRuble anytime soon, the government is working together with QIWI, a payment provider eyeing blockchain technology.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/da867c18ae47383d18d93db07b2d4599/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2FQIWI.jpg"></article>]]></description>
             <link>http://themerkle.com/russian-payment-company-qiwi-considers-switching-to-blockchain/</link>
             <guid isPermaLink="false">7aa2125e-94f0-4fa8-8357-4a6841226361</guid>
-            <pubDate>Thu, 11 Aug 2016 01:59:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Three Russian Exchanges Suspected of Defrauding User Funds]]></title>
-            <description><![CDATA[<article><h1>Three Russian Exchanges Suspected of Defrauding User Funds</h1><p>The Russian-speaking fraction of bitcoin community discusses possible pocketing of user ETC tokens by three popular exchanges originating from the Russian sector of the internet, namely Exmo, Livecoin, and BTC-e. The discussion kicked off with the entry by alexlogin at Bitcointalk titled "EXMO EXCHANGE ARE SCAMMERS!", where the user lamented about the exchange's dubious behavior.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/199d4112e709e587971a064370a5d1ea823530ff.png"></article>]]></description>
-            <link>http://forklog.net/three-russian-exchanges-suspected-of-defrauding-user-funds/</link>
-            <guid isPermaLink="false">7f95f7c3-fd62-480b-95b1-2701d10886aa</guid>
             <pubDate>Thu, 11 Aug 2016 01:59:44 GMT</pubDate>
         </item>
     </channel>
