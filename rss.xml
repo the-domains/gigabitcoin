@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 02:01:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 02:00:45 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitfinex Exchange to Resume Bitcoin Trading Today - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Bitfinex Exchange to Resume Bitcoin Trading Today - CoinDesk</h1><p>Bitfinex has announced it will resume trading and withdrawals more than a week after it was robbed of more than $60m in bitcoin. Trading functionality will be reinstated at 16:00 UTC, the exchange said in a new update. All listed currency pairs will be brought online for trading and withdrawals will be enabled for bitcoin, ether, classic ether and USD.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/09dcf018fed4858333463106b1216f08/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FPower.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/bitfinex-bitcoin-exchange-resume-trading/</link>
-            <guid isPermaLink="false">4c4c7af4-4d8b-4a0e-9979-84e94536a87b</guid>
-            <pubDate>Thu, 11 Aug 2016 01:59:43 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[IBM to Launch One of the Largest Blockchain Implementations in the World]]></title>
             <description><![CDATA[<article><h1>IBM to Launch One of the Largest Blockchain Implementations in the World</h1><p>IBM has been in the IT business for over 100 years and they have been a dominant force in all this time. Over the years the company has made a mark on several areas in which it has come up with innovative ideas and products.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/74a7f2a3b13de763070c7cbd8fec0b1d/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81OGFjMTQ2YWRlMjgwNzhkYjI3OGQxYTA2NDNmMjZhNS5qcGc%3D.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Dash Accepted Here! BlockPay POS System Integrates with Dash</h1><p>BlockPay has debuted a zero-fee merchant system with cryptocurrency integration, including Dash. The BlockPay is a point-of-sale (POS) system which accepts a wide variety of cryptocurrencies for zero fees, as well as traditional debit and credit cards. Among these is Dash, a cryptocurrency which places a strong emphasis on day-to-day usability, hence the name as a portmanteau of "digital" and "cash."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6c12305ed94717d88588b212b354cf6d/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lYWMzMmIxZmZjNzhhZTc2MjZhMmViMzFiZWYwMDQzNS5qcGc%3D.jpg"></article>]]></description>
             <link>https://cointelegraph.com/news/dash-accepted-here-blockpay-pos-system-integrates-with-dash</link>
             <guid isPermaLink="false">af64fe33-0ad0-4ea6-bda1-39b12636ab25</guid>
+            <pubDate>Thu, 11 Aug 2016 01:59:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[XCOINS.IO Automates the Process of Making Money with Bitcoin - Press Release]]></title>
+            <description><![CDATA[<article><h1>XCOINS.IO Automates the Process of Making Money with Bitcoin - Press Release</h1><p>Menlo Park, CA, August 5, 2016 - xCoins.io completed three months of testing of its innovative automated bitcoin system. It is not a secret that one of the most profitable ways of making money with bitcoin is selling it on peer-to-peer exchange websites at high premium.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c29c2afe08d28e0b50caba5c380db13c/noop.png?input=http%3A%2F%2Fwww.coindesk.com%2Fwp-content%2Fthemes%2Fcoindesk2%2Fimages%2Flogo-coindesk-square-x2.png"></article>]]></description>
+            <link>http://www.coindesk.com/press-releases/xcoins-io-automates-process-making-money-bitcoin/</link>
+            <guid isPermaLink="false">5bc8456a-298d-4096-960a-0f42298fa24a</guid>
             <pubDate>Thu, 11 Aug 2016 01:59:41 GMT</pubDate>
         </item>
     </channel>
