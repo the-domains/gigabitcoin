@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 04:45:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 04:45:45 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Great comments John, thanks.]]></title>
+            <description><![CDATA[<article><h1>Great comments John, thanks.</h1><p>Great comments John, thanks. All valid points. I wouldn't consider this article an exhaustive analysis of the incentives and the impact of segwit, so thanks for offering additional analysis. I especially appreciate the input about rewarding full nodes, something that other chains have incorporated in their design and could potentially be a useful addition for a future upgrade of bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f01f29ae29b418baee6a537ea9c33e7e/noop.png?input=https%3A%2F%2Fcdn-images-1.medium.com%2Ffit%2Fc%2F60%2F60%2F0*tTZN03LAxAD9moWf.png"></article>]]></description>
+            <link>http://gigabitcoin.xyz/great-comments-john-thanks/index.html</link>
+            <guid isPermaLink="false">1fa84703-497e-44a1-899b-8802c1b8976b</guid>
+            <pubDate>Thu, 11 Aug 2016 04:44:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Segregated Witness and aligning economic incentives with resource costs - Decentralize Today]]></title>
             <description><![CDATA[<article><h1>Segregated Witness and aligning economic incentives with resource costs - Decentralize Today</h1><p>Bitcoin mining nodes and full nodes incur costs for the resources used to support the bitcoin network and the blockchain. As the scale of bitcoin increases, so does the cost of resources (CPU, network bandwidth, disk space, memory). Miners are compensated for these costs through fees that are proportional to the size (in bytes) of each transaction.</p></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Should I be concerned about the safety of Bitcoin?</h1><p>Answer (1 of 4): No. Well, yes, but this has nothing to do with the story mentioned in the linked article. If you look at the current title of the article, you'll see it reads "Bitcoin exchange customers lose..." "Bitcoin exchange customers". That is, customers of a specific Bitcoin exchange, "Bi...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2fb81fb5bcd4c440dee2d03fb2acc3c6/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.png2801ad8885530345.png"></article>]]></description>
             <link>https://www.quora.com/Should-I-be-concerned-about-the-safety-of-Bitcoin</link>
             <guid isPermaLink="false">36db9889-8594-4d6b-bca8-bb6bcf2550c2</guid>
-            <pubDate>Thu, 11 Aug 2016 01:59:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Do you think the bitcoin system is "evil" as Paul Krugman suggests?]]></title>
-            <description><![CDATA[<article><h1>Do you think the bitcoin system is "evil" as Paul Krugman suggests?</h1><p>Answer: Here is the article that OP is mentioning: Bitcoin Is Evil From the article, Krugman states: To be successful, money must be both a medium of exchange and a reasonably stable store of value. Ignoring the myriad legal/regulatory issues raised by cryptocurrencies, I believe that Bitcoin i...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2fb81fb5bcd4c440dee2d03fb2acc3c6/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.png2801ad8885530345.png"></article>]]></description>
-            <link>https://www.quora.com/Do-you-think-the-bitcoin-system-is-%E2%80%9Cevil%E2%80%9D-as-Paul-Krugman-suggests</link>
-            <guid isPermaLink="false">7a8805f3-3baa-49bb-9871-ed4062b29109</guid>
             <pubDate>Thu, 11 Aug 2016 01:59:44 GMT</pubDate>
         </item>
     </channel>
