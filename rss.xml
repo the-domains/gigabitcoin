@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 13:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 13:14:20 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin vs Paypal, A fork in the road]]></title>
+            <description><![CDATA[<article><h1>Bitcoin vs Paypal, A fork in the road</h1><p>According to this link, PayPal processes 4.9 Billion transactions per year.According to this graph, Bitcoin processes about 80 Million transactions per year. This is about 1.6% of what PayPal's volume is.When we compare the graph above to the one below showing an ever rising transaction fee, it is clear that the Bitcoin network has been operating at maximum capacity since around the beginning of this year.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1396651447185eb34a0e45df4f1abb37/noop.jpg?input=https%3A%2F%2Fforum.bitcoin.com%2Ftwitterlogo.jpg"></article>]]></description>
+            <link>https://forum.bitcoin.com/bitcoin-discussion/bitcoin-vs-paypal-a-fork-in-the-road-t9777.html</link>
+            <guid isPermaLink="false">25fc5f53-3a40-43dc-af8a-bf08b9a2df61</guid>
+            <pubDate>Thu, 11 Aug 2016 13:13:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russian Tax Authorities Recommend Reporting Bitcoin Operations]]></title>
+            <description><![CDATA[<article><h1>Russian Tax Authorities Recommend Reporting Bitcoin Operations</h1><p>This May, Russia's Federal Tax Service (FTS) received an internet request from a cryptocurrency user who asked it to clarify whether it's necessary to provide reports on cryptocurrency buy/sell operations between residents and non-residents. The FTS's response outlines some interesting issues in this grey legal zone.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1be3fc3dcf7eb5361b15f5700f2b3950/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F06%2FRu1.png"></article>]]></description>
+            <link>http://forklog.net/russian-tax-authorities-recommend-reporting-bitcoin-operations/</link>
+            <guid isPermaLink="false">c8b8729a-111a-4f9a-a870-2abca1086cba</guid>
+            <pubDate>Thu, 11 Aug 2016 13:13:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[R3CEV Successfully Tests Corda Blockchain]]></title>
             <description><![CDATA[<article><h1>R3CEV Successfully Tests Corda Blockchain</h1><p>Bank consortium R3CEV has announced it successfully completed testing blockchain technology for usage in settlements between international financial organizations. Fifteen members of the consortium took part in the test: Barclays, BBVA, BNP Paribas, Commonwealth Bank of Australia, Danske Bank, ING Bank, Intesa Sanpaolo, Natixis, Nordea, Scotiabank, UBS, UniCredit, US Bank and Wells Fargo.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/72506797668abf3faaa716151552619d/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F03%2Fblockchain03.png"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Jered Kenna joins TradeZero, as the exchange launches Dark Pool trading</h1><p>One of Bitcoin's earliest entrepreneurs, Jered Kenna, has joined TradeZero as the head of the company's new Digital Currency Exchange division. Based in the Bahamas, and licensed and regulated by the local Securities Commission, TradeZero provides direct market access to US exchanges.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ae13a7373c40bfb3fa4e5df1a6899dec/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-trading-platform-Cover.jpg"></article>]]></description>
             <link>http://bravenewcoin.com/news/jered-kenna-joins-tradezero-as-the-exchange-launches-dark-pool-trading/</link>
             <guid isPermaLink="false">b4873a7c-cffd-4259-8c93-ff916a9316ab</guid>
-            <pubDate>Thu, 11 Aug 2016 13:13:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Authorities Hint At Potential Bitcoin Taxation In Russia]]></title>
-            <description><![CDATA[<article><h1>Authorities Hint At Potential Bitcoin Taxation In Russia</h1><p>Bitcoin in Russia will never be a favorite combination by the look of things. Even though the government and central bank want to explore blockchain technology, using cryptocurrency is a different matter altogether. For now, it seems like the Russian tax authorities want to have all Bitcoin operations reported.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fe370a07b2b3716bdaa6ceb096f76994/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_188429918.jpg"></article>]]></description>
-            <link>http://themerkle.com/authorities-hint-at-potential-bitcoin-taxation-in-russia/</link>
-            <guid isPermaLink="false">7d4b45ce-c2e2-4b27-ad39-27cc75488917</guid>
-            <pubDate>Thu, 11 Aug 2016 13:13:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jaxx Wallet to Integrate Dash]]></title>
-            <description><![CDATA[<article><h1>Jaxx Wallet to Integrate Dash</h1><p>The Jaxx wallet prepares to integrate with Dash over the next couple days. Jaxx, a multi-coin, multi-platform wallet that supports cross-platform integration, as well as ShapeShift exchange integration. Anthony Di Iorio CEO of Decentral, the company that makes Jaxx, announced via Reddit the coming integration.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/72f36cc780a20d4f6ef4034e2c3c9594/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yYWZhODEwNWRjNTJjMmQyYTI3MWU1ZWU3MWRhMDFlZC5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/jaxx-wallet-to-integrate-dash</link>
-            <guid isPermaLink="false">2fd12217-6dd6-46af-a8be-2204d0195fa8</guid>
             <pubDate>Thu, 11 Aug 2016 13:13:42 GMT</pubDate>
         </item>
     </channel>
