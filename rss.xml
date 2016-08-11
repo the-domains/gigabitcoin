@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 04:45:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 04:45:46 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why Dumb Networks Are Better]]></title>
+            <description><![CDATA[<article><h1>Why Dumb Networks Are Better</h1><p>In computer and communications networks, decentralization leads to faster innovation, greater openness, and lower cost. Decentralization creates the conditions for competition and diversity in the services the network provides. But how can you tell if a network is decentralized, and what makes it more likely to be decentralized?</p></article>]]></description>
+            <link>http://gigabitcoin.xyz/why-dumb-networks-are-better/index.html</link>
+            <guid isPermaLink="false">3f11b246-5523-4b03-b8d5-dea8ecf5b6fe</guid>
+            <pubDate>Thu, 11 Aug 2016 04:44:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin security model: Trust by computation]]></title>
+            <description><![CDATA[<article><h1>Bitcoin security model: Trust by computation</h1><p>First February 2014 in O'Reilly Radar Bitcoin is a distributed consensus network that maintains a secure and trusted distributed ledger through a process called "proof-of-work." Bitcoin fundamentally inverts the trust mechanism of a distributed system. Traditionally, as we see in payment and banking systems, trust is achieved through access control, by carefully vetting participants and excluding bad actors.</p></article>]]></description>
+            <link>http://gigabitcoin.xyz/bitcoin-security-model-trust-by-computation/index.html</link>
+            <guid isPermaLink="false">2ba47f4b-aca3-442d-8c41-3ef63539f9b8</guid>
+            <pubDate>Thu, 11 Aug 2016 04:44:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Great comments John, thanks.]]></title>
             <description><![CDATA[<article><h1>Great comments John, thanks.</h1><p>Great comments John, thanks. All valid points. I wouldn't consider this article an exhaustive analysis of the incentives and the impact of segwit, so thanks for offering additional analysis. I especially appreciate the input about rewarding full nodes, something that other chains have incorporated in their design and could potentially be a useful addition for a future upgrade of bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f01f29ae29b418baee6a537ea9c33e7e/noop.png?input=https%3A%2F%2Fcdn-images-1.medium.com%2Ffit%2Fc%2F60%2F60%2F0*tTZN03LAxAD9moWf.png"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Three Russian Exchanges Suspected of Defrauding User Funds</h1><p>The Russian-speaking fraction of bitcoin community discusses possible pocketing of user ETC tokens by three popular exchanges originating from the Russian sector of the internet, namely Exmo, Livecoin, and BTC-e. The discussion kicked off with the entry by alexlogin at Bitcointalk titled "EXMO EXCHANGE ARE SCAMMERS!", where the user lamented about the exchange's dubious behavior.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/199d4112e709e587971a064370a5d1ea823530ff.png"></article>]]></description>
             <link>http://forklog.net/three-russian-exchanges-suspected-of-defrauding-user-funds/</link>
             <guid isPermaLink="false">7f95f7c3-fd62-480b-95b1-2701d10886aa</guid>
-            <pubDate>Thu, 11 Aug 2016 01:59:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchainization of Kolionovo Farm Halves the Prices for Its Products]]></title>
-            <description><![CDATA[<article><h1>Blockchainization of Kolionovo Farm Halves the Prices for Its Products</h1><p>According to the head and founder of Kolionovo farm Mikhail Shlyapnikov, blockchanization and real-life operation of the farm in 'friends only' mode, the organization managed to halve its retail prices for loyal customers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d020831b1fdddd7e055fa4d9f8a80bb8dea4842.png"></article>]]></description>
-            <link>http://forklog.net/blockchainization-of-kolionovo-farm-halves-the-prices-for-its-products/</link>
-            <guid isPermaLink="false">ba7f04a4-47f7-44dc-b6ca-f65bbdaa0ead</guid>
-            <pubDate>Thu, 11 Aug 2016 01:59:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Should I be concerned about the safety of Bitcoin?]]></title>
-            <description><![CDATA[<article><h1>Should I be concerned about the safety of Bitcoin?</h1><p>Answer (1 of 4): No. Well, yes, but this has nothing to do with the story mentioned in the linked article. If you look at the current title of the article, you'll see it reads "Bitcoin exchange customers lose..." "Bitcoin exchange customers". That is, customers of a specific Bitcoin exchange, "Bi...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2fb81fb5bcd4c440dee2d03fb2acc3c6/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.png2801ad8885530345.png"></article>]]></description>
-            <link>https://www.quora.com/Should-I-be-concerned-about-the-safety-of-Bitcoin</link>
-            <guid isPermaLink="false">36db9889-8594-4d6b-bca8-bb6bcf2550c2</guid>
             <pubDate>Thu, 11 Aug 2016 01:59:44 GMT</pubDate>
         </item>
     </channel>
