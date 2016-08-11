@@ -7,13 +7,6 @@
         <lastBuildDate>Thu, 11 Aug 2016 02:00:13 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[R3, 15 Consortium Members Complete Prototypes on Using Smart Contracts for Trade Finance]]></title>
-            <description><![CDATA[<article><h1>R3, 15 Consortium Members Complete Prototypes on Using Smart Contracts for Trade Finance</h1><p>The R3 consortium has disclosed that it has worked with over 15 of its member banks to complete two distributed ledger technology prototypes. They demonstrate how the technology can address the key challenges facing the $45 billion global trade finance industry.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0654ada504e7610194d81ec3a220a00c/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FR3-15-Consortium-Members-Complete-Prototypes-on-Using-Smart-Contracts-for-Trade-Finance.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/r3-15-consortium-members-complete-prototypes-on-using-smart-contracts-for-trade-finance/</link>
-            <guid isPermaLink="false">0e33b89e-c762-4df2-a759-7f151eb93326</guid>
-            <pubDate>Thu, 11 Aug 2016 01:59:40 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>@NicolasDorier The Bitcoin Surprise: When you wake up and notice your Bitcoin book is translated to Indonesian: http://bit.ly/2b4LgO0</p>]]></description>
             <link>https://twitter.com/nopara73/status/763160577682182144</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Building The Bridge: Why Compliance Is Key To Digital Currency's Success - Stories From Coinbase</h1><p>I occasionally see people in the digital currency industry question the value of compliance. By this I mean working with regulators, law enforcement, banks, etc. This isn't surprising given that many of the early adopters of bitcoin are privacy advocates, and much of the world of compliance is about knowing your customer.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3c118ca55969b40194c57c251481d519/noop.png?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*Cp-c_65YLGpFqJN8YUSLjw.png"></article>]]></description>
             <link>http://gigabitcoin.xyz/building-the-bridge-why-compliance-is-key-to-digital-curren/index.html</link>
             <guid isPermaLink="false">a372f2b2-25dc-4c96-832b-f620d4a63eb7</guid>
+            <pubDate>Wed, 10 Aug 2016 13:37:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Snowden tweets private key hash, then deletes it, why? * /r/Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Snowden tweets private key hash, then deletes it, why? * /r/Bitcoin</h1><p>Bitcoin is the currency of the Internet: a distributed, worldwide, decentralized digital money. Unlike traditional currencies such as dollars, bitcoins are issued and managed without any central authority whatsoever: there is no government, company, or bank in charge of Bitcoin. As such, it is more resistant to wild inflation and corrupt banks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
+            <link>https://www.reddit.com/r/Bitcoin/comments/4wxyhj/snowden_tweets_private_key_hash_then_deletes_it/</link>
+            <guid isPermaLink="false">371a736c-e523-4bf0-86b5-8ff0146cdb73</guid>
             <pubDate>Wed, 10 Aug 2016 13:37:52 GMT</pubDate>
         </item>
     </channel>
