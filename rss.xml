@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 02:49:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 02:49:34 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Hack Upends World of 700% Yields]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Hack Upends World of 700% Yields</h1><p>For years, Tian Jia made the kind of returns on his money that investors in the rest of the world could only dream of. The 29-year-old Beijing-based programmer had $440,000 on deposit at the Hong Kong bitcoin exchange Bitfinex until last week and, on good days, would wake up to find a couple thousand more dollars in his account than when he went to sleep.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6095d2bf9a4255589f543a763eddf6c3/noop.jpg?input=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fie4FApYQY_uE%2Fv2%2F-1x-1.jpg"></article>]]></description>
+            <link>http://www.bloomberg.com/news/articles/2016-08-11/bitcoin-hack-upends-world-of-700-yields</link>
+            <guid isPermaLink="false">d19922f5-2a60-4503-b533-4d6d245dcd5a</guid>
+            <pubDate>Fri, 12 Aug 2016 02:48:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bank Of England's RSCoin: A Hybrid Digital Currency To Improve Global Trade]]></title>
             <description><![CDATA[<article><h1>Bank Of England's RSCoin: A Hybrid Digital Currency To Improve Global Trade</h1><p>RSCoin, a cryptocurrency controlled by the Bank of England for the purpose of strengthening the country's economy and global trade, combines the benefits of distributed ledger technology with the control of traditional, centrally managed currencies, according to The Deal Room, a financial news website.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5fd1e8213046cd68fa71140204c819c9/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FSurvey-Male-Dominated-Market-Bitcoin-Users-Lose-Money-to-Hackers-Exchange-Shutdowns-768x506.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Consumers Not Trusting Mobile Wallets Is Bad News For Bitcoin</h1><p>The recent influx of malicious mobile Bitcoin wallet son the Apple App Store is not reassuring any potential interest cryptocurrency users. The news could not come at a worse time either, considering consumers have issues with trusting mobile wallets by default. A recent survey by Episerver goes to show 78% of respondents worry about security more than anything.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3d0dbbfcab159246efd4541015c4ffa2/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_247059376.jpg"></article>]]></description>
             <link>http://themerkle.com/consumers-not-trusting-mobile-wallets-is-bad-news-for-bitcoin/</link>
             <guid isPermaLink="false">cc35e0e5-f107-4138-9d38-801b9728a923</guid>
-            <pubDate>Thu, 11 Aug 2016 13:56:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum Scaling Advances With 'First' Off-Blockchain Payments - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Ethereum Scaling Advances With 'First' Off-Blockchain Payments - CoinDesk</h1><p>A team of ethereum developers has successfully completed what they say is the first off-blockchain transaction on the decentralized application network. Sent from Copenhagen, Denmark, to Mumbai, India, the test saw the developers behind micropayments project Raiden send ether via clients operated by members in those cities last week.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/53b9d16bbcd541e513d9ee3b36290afb/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fmoon-e1470866200738.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/ethereum-scaling-advances-first-off-blockchain-payments/</link>
-            <guid isPermaLink="false">9a70cc5f-5f2d-4a54-abac-86249ca0d177</guid>
             <pubDate>Thu, 11 Aug 2016 13:56:42 GMT</pubDate>
         </item>
     </channel>
