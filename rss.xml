@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 02:50:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 02:50:20 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Exchanges are Risky, Where to Store Your Bitcoin? Practical Tips]]></title>
+            <description><![CDATA[<article><h1>Exchanges are Risky, Where to Store Your Bitcoin? Practical Tips</h1><p>To prevent more cases of theft and security breaches in the future, Bitcoin users must implement alternative solutions and strategies to control their own money. Here are some simple yet effective methods. The Bitfinex security breach, which led to the cumulative loss of nearly US$70 million, has become a painful but important realization for most Bitcoin users in the community.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ebc65953958e30657d127cf9ab818775/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83YzI5MjNjOGI1MDNlYjRiZWU2NjdlNjM1MmY4ODVjNC5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/exchanges-are-risky-where-to-store-your-bitcoin-practical-tips</link>
+            <guid isPermaLink="false">cb7260b6-3045-451e-8c1f-02dd51b0530a</guid>
+            <pubDate>Fri, 12 Aug 2016 02:48:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Here is why Internet currency bitcoin will never be digital gold]]></title>
             <description><![CDATA[<article><h1>Here is why Internet currency bitcoin will never be digital gold</h1><p>Bitcoin may be the new big thing in global currencies, but don't count on it replacing the old, boring store of value, now or ever. New paradigms often create market bubbles. They are a new technology or idea that will change the world and, along the way, offer investors unlimited profits.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9b647de04ba628785273e9548ff11a4097624ac.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Banks Buy Bitcoin as Ransomware Wreaks Havoc - NEWSBTC</h1><p>The increase in ransomware attacks on banks has forced them to buy bitcoin. Read more... Who would have imagined that traditional banks would be buying Bitcoin so soon? The answer is - probably no one. The recent increase in Bitcoin ransomware attacks on banks and financial institutions has forced them to take this extreme step.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e5a167332c0cfb22ac9c573b400b4034/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F02212831%2Fransomware-kaspersky.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/08/11/banks-buy-bitcoin-ransomware-wreaks-havoc/</link>
             <guid isPermaLink="false">b31dc4dd-577e-4ef5-8f53-822301b6d5b5</guid>
-            <pubDate>Fri, 12 Aug 2016 02:48:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Satoshi Nakamoto Institute]]></title>
-            <description><![CDATA[<article><h1>Satoshi Nakamoto Institute</h1><p>Satoshi Nakamoto wrote: >> I've been working on a new electronic cash system that's fully >> peer-to-peer, with no trusted third party. >> >> The paper is available at: >> http://www.bitcoin.org/bitcoin.pdf > >We very, very much need such a system, but the way I understand your >proposal, it does not seem to scale to the required size.</p></article>]]></description>
-            <link>http://satoshi.nakamotoinstitute.org/emails/cryptography/2/</link>
-            <guid isPermaLink="false">e2d42c43-c1e4-4b2c-9868-65d31a438642</guid>
             <pubDate>Fri, 12 Aug 2016 02:48:58 GMT</pubDate>
         </item>
     </channel>
