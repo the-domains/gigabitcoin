@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 02:49:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 02:49:53 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Satoshi Nakamoto Institute]]></title>
-            <description><![CDATA[<article><h1>Satoshi Nakamoto Institute</h1><p>Satoshi Nakamoto wrote: >> I've been working on a new electronic cash system that's fully >> peer-to-peer, with no trusted third party. >> >> The paper is available at: >> http://www.bitcoin.org/bitcoin.pdf > >We very, very much need such a system, but the way I understand your >proposal, it does not seem to scale to the required size.</p></article>]]></description>
-            <link>http://satoshi.nakamotoinstitute.org/emails/cryptography/2/</link>
-            <guid isPermaLink="false">e2d42c43-c1e4-4b2c-9868-65d31a438642</guid>
-            <pubDate>Fri, 12 Aug 2016 02:48:58 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Chain Inc. Announces Partnership with the Initiative for Cryptocurrency and Contracts - Bitcoinist.net]]></title>
             <description><![CDATA[<article><h1>Chain Inc. Announces Partnership with the Initiative for Cryptocurrency and Contracts - Bitcoinist.net</h1><p>The enterprise software company, Also read: Coinbase AMA: 'ETC Was Replay Attacked on Coinbase' Chain inc. or "Chain" for short, has announced a partnership with the Initiative for Cryptocurrency and Contracts (IC3). Chain works together with financial companies to help develop blockchain infrastructures for blockchain-based business solutions. .</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cf200a0b328387b6a2f0155395d13d46/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2Fblockchain-handshake.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>New Research Shows Dark Net Markets Are Growing - Bitcoinist.net</h1><p>A new report, commissioned by the Dutch government, shows that online drug markets have grown since 2013 despite an uptick in major crackdowns since that time. Also read: Technical Analysis: Correction Over, Time For Bitcoin Price to Skyrocket The report was requested by the Netherlands government to determine how drug markets have fared in the years after Silk Road's demise.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0d743093298cbba26858a7a9fce4aa0a/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2Fmoneypills.jpg"></article>]]></description>
             <link>http://bitcoinist.net/new-research-suggests-dark-net-markets-are-still-growing/</link>
             <guid isPermaLink="false">0a088edd-c414-453a-a3a7-5a1be39d6eaf</guid>
+            <pubDate>Fri, 12 Aug 2016 02:48:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who is the best blockchain specialist?]]></title>
+            <description><![CDATA[<article><h1>Who is the best blockchain specialist?</h1><p>Hitchhiker's guide to the galaxy. It's wonderfully weird. A few Quotes.... "Space," it says, "is big. Really big. You just won't believe how vastly, hugely, mindbogglingly big it is. I mean, you may think it's a long way down the road to the chemist's, but that's just peanuts to space."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2fb81fb5bcd4c440dee2d03fb2acc3c6/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.png2801ad8885530345.png"></article>]]></description>
+            <link>https://www.quora.com/unanswered/Who-is-the-best-blockchain-specialist</link>
+            <guid isPermaLink="false">77b44761-1205-4b40-8d71-f77c28801b74</guid>
             <pubDate>Fri, 12 Aug 2016 02:48:56 GMT</pubDate>
         </item>
     </channel>
