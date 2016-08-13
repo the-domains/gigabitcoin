@@ -4,29 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Aug 2016 16:56:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2016 16:55:57 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="https://i.redd.it/2g3e80lor6ex.jpg"></article>]]></description>
-            <link>https://i.redd.it/2g3e80lor6ex.jpg</link>
-            <guid isPermaLink="false">a13b477b-a850-4d5d-ba16-11075cc59246</guid>
-            <pubDate>Sat, 13 Aug 2016 16:55:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Corda Will Support Digital Currencies, R3 Confirms]]></title>
-            <description><![CDATA[<article><h1>Corda Will Support Digital Currencies, R3 Confirms</h1><p>R3's Corda distributed ledger platform will support digital currencies later, a spokesperson for the financial innovation company has confirmed. Corda was used by R3 and over 15 of its consortium member banks to successfully complete two prototypes that demonstrate how distributed ledger technology can address the key challenges facing the $45 billion global trade finance industry.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e7ecbbf578b7000fa44375db3efc15f1/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy80NGE3M2I2NTEzYmU5ZjUyYWRkNTZiNjgzMWE4NDMwYS5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/corda-will-support-digital-currencies-r3-confirms</link>
-            <guid isPermaLink="false">da042ad7-e1eb-4289-9020-2c439753c638</guid>
-            <pubDate>Sat, 13 Aug 2016 16:55:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Blockchain to Rewrite the Financial Infrastructure's Future]]></title>
-            <description><![CDATA[<article><h1>Report: Blockchain to Rewrite the Financial Infrastructure's Future</h1><p>Blockchain technology is expected to change the way financial organizations conduct business with banks implementing distributed ledger technology (DLT) projects by 2017, according to the World Economic Forum.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2e13b8411c6e71920d344eeffd7f3f1e/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FRussia-Reverses-Plan-to-Penalize-Bitcoin-Use-768x506.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/report-blockchain-rewrite-financial-infrastructures-future/</link>
-            <guid isPermaLink="false">6a6e033f-b854-4d97-83eb-75fe7e95f8e8</guid>
-            <pubDate>Sat, 13 Aug 2016 16:55:53 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Polls: Iceland's Pro-Bitcoin Pirate Party to Take Power]]></title>
             <description><![CDATA[<article><h1>Polls: Iceland's Pro-Bitcoin Pirate Party to Take Power</h1><p>Iceland pro-Bitcoin Pirate Party is set to have a role in the country's next government in October, polls suggest, looking to gain around 25% of the national vote. Also read: Pirate Party Gains Favor as Trust in Iceland Government Crumbles The party, whose parliamentary group leader Birgitta Jónsdóttir said she would make the country a "Switzerland of bits" if it came to power, now has a shot at governance, experts say.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2d3f17697bf2f40057223d473ccfed44/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2F1445703604354226.jpg"></article>]]></description>
@@ -75,6 +54,27 @@
             <link>http://www.coindesk.com/russian-bitcoin-penalties-abandon-report/</link>
             <guid isPermaLink="false">239ef2a3-46ac-49f7-a142-72546a9bd967</guid>
             <pubDate>Sat, 13 Aug 2016 05:49:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Purse Releases Open-Source Wallet Code for 'Philosophical Reasons']]></title>
+            <description><![CDATA[<article><h1>Purse Releases Open-Source Wallet Code for 'Philosophical Reasons'</h1><p>Bitcoin shopping platform Purse.io just announced the release of its wallet code into open-source as well as a browser-based full node to improve platform security following the Bitfinex hack. Also read: Former Tradehill Founder Starts Another Bitcoin Dark Pool Purse has added some new features to the platform such as a new tracking system, added packing/shipping data, and improved its user interface.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/52679bacb13a23039e45b1bfe8acf177/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FPurses-Bcoin-an-Open-Source-Alternative-to-Privatized-Solutions.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/purse-open-source-philosophical-reasons/</link>
+            <guid isPermaLink="false">5b5a7b83-f5e3-42af-b766-b5da612c0d87</guid>
+            <pubDate>Sat, 13 Aug 2016 05:49:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hyperledger Blockchain Project to Elect New Tech Committee - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Hyperledger Blockchain Project to Elect New Tech Committee - CoinDesk</h1><p>Election season has begun for the Hyperledger project, the open-source, Linux Foundation-led blockchain initiative. The project is preparing to elect a new technical steering committee (TSC) as well as a new chairperson for that committee this month, a move that comes less than a year after the Hyperledger project publicly launched in December of 2015 as a way to create a "business blockchain" for use by enterprises.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ca885abc4e2179ae5b749d1503e3cc07/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fvote-button-e1471017274972.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/hyperledger-blockchain-project-elect-new-tech-committee/</link>
+            <guid isPermaLink="false">68cdc5f9-c0c8-4023-8001-15ac38e8c2f0</guid>
+            <pubDate>Sat, 13 Aug 2016 05:49:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Looking for a Bitcoin Alternative? Here are 6 Coins to Consider]]></title>
+            <description><![CDATA[<article><h1>Looking for a Bitcoin Alternative? Here are 6 Coins to Consider</h1><p>Top Alternatives to Bitcoin Bitcoin is the king of digital currencies, at least for the time being. There are several competing digital currencies, however, that could one day rival bitcoin. Many of these currencies claim to offer certain technical advantages over bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7839459c521f656febf03a7d45453b1a/noop.jpg?input=https%3A%2F%2F99bitcoins.com%2Fwp-content%2Fuploads%2F2014%2F01%2Faltcoins-explained.jpg"></article>]]></description>
+            <link>https://99bitcoins.com/bitcoin-alternative-6-coins/</link>
+            <guid isPermaLink="false">e658007f-b64d-471e-b0e3-2d5809b4de93</guid>
+            <pubDate>Sat, 13 Aug 2016 05:49:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
