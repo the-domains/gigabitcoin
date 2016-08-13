@@ -4,43 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Aug 2016 05:51:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2016 05:50:23 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Progress On Hardfork Proposals Following The Segwit Blocksize Increase]]></title>
-            <description><![CDATA[<article><h1>Progress On Hardfork Proposals Following The Segwit Blocksize Increase</h1><p>With segwit getting close to its initial testnet release in Bitcoin Core v0.13.0 - expected to be followed soon by a mainnet release in Bitcoin Core v0.13.1 - I thought it'd be a good idea to go over work being done on a potential hard-fork to follow it, should the Bitcoin community decide to accept the segwit proposal.</p></article>]]></description>
-            <link>https://petertodd.org/2016/hardforks-after-the-segwit-blocksize-increase</link>
-            <guid isPermaLink="false">dc67fdad-5dfb-456b-be42-008556d99979</guid>
-            <pubDate>Sat, 13 Aug 2016 05:49:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK Gambling Commission Views Bitcoin as Cash Equivalent]]></title>
-            <description><![CDATA[<article><h1>UK Gambling Commission Views Bitcoin as Cash Equivalent</h1><p>The question on whether Bitcoin is money or not has immense implications - with respect to anti-money laundering regulations, taxation, legal arguments, etc. The UK Gambling Commission has just made its views on this issue clear. The UK Gambling Commission is an independent body, sponsored by the UK Department for Culture, Media and Sports.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f2d0e58f7bea033d8d3054c09dd32c6f/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84Yjk1ZDk4OTFhNjJmYTQ0NDYwMTViMjA5MTVlODZhNC5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/uk-gambling-commission-views-bitcoin-as-cash-equivalent</link>
-            <guid isPermaLink="false">16c677d7-a1ab-44c1-9f8b-f0d22eadb4e0</guid>
-            <pubDate>Sat, 13 Aug 2016 05:49:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Users File FBI Petition Against Kraken, Complain About Stolen Funds]]></title>
-            <description><![CDATA[<article><h1>Users File FBI Petition Against Kraken, Complain About Stolen Funds</h1><p>CoinTelegraph continues to receive complaints from Kraken users over reportedly stolen funds. This week they created a mail group for a public petition which is being planned to be forwarded to the FBI Cybercrime division. They want Kraken to confess their guilt and make a refund.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/04d26862fc46202e23e296dbbb52907e/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zNWQzOWJlOThkNjE0YTE0NDZlN2RmYTg5NjlmNWZlZC5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/users-file-fbi-petition-against-kraken-complain-about-stolen-funds</link>
-            <guid isPermaLink="false">d29d38e9-965a-4982-be92-0dcd03adfe37</guid>
-            <pubDate>Sat, 13 Aug 2016 05:49:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eat or Be Eaten: Token Empowers Banks in Complying with PSD2]]></title>
-            <description><![CDATA[<article><h1>Eat or Be Eaten: Token Empowers Banks in Complying with PSD2</h1><p>Silicon Valley's Token takes the first step in leading European banks towards secure API banking with an opening of the office in London. The fintech world is buzzing about PSD2. With the deadline for its implementation approaching, European banks have started to realize the magnitude of the proposed changes in regulations and try to decide upon a strategy which would allow them to react to these changes accordingly.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1466ee6d445879e5e310e49c7f015613/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xMjY0MDliM2IyNzBkMzc5M2Q3NjcwNDMwNzk5YTFhMy5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/eat-or-be-eaten-token-empowers-banks-in-complying-with-psd2</link>
-            <guid isPermaLink="false">d4916651-a8eb-485d-b098-51980ead19c4</guid>
-            <pubDate>Sat, 13 Aug 2016 05:49:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Russian Government to Abandon Penalties for Bitcoin Use - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Report: Russian Government to Abandon Penalties for Bitcoin Use - CoinDesk</h1><p>The news comes from a report issued today by Russian news agency in which it asserts that representatives from the country's Ministry of Finance, central bank and other government bureaus are increasingly supportive of this action. According to the report, representatives from these groups are planning to submit a report to Russian President Vladimir Putin containing this recommendation sometime in 2016.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/51b305f08b9d2f15d83a3139dc6de56e/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fball-paper-e1471014175603.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/russian-bitcoin-penalties-abandon-report/</link>
-            <guid isPermaLink="false">239ef2a3-46ac-49f7-a142-72546a9bd967</guid>
-            <pubDate>Sat, 13 Aug 2016 05:49:05 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Purse Releases Open-Source Wallet Code for 'Philosophical Reasons']]></title>
             <description><![CDATA[<article><h1>Purse Releases Open-Source Wallet Code for 'Philosophical Reasons'</h1><p>Bitcoin shopping platform Purse.io just announced the release of its wallet code into open-source as well as a browser-based full node to improve platform security following the Bitfinex hack. Also read: Former Tradehill Founder Starts Another Bitcoin Dark Pool Purse has added some new features to the platform such as a new tracking system, added packing/shipping data, and improved its user interface.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/52679bacb13a23039e45b1bfe8acf177/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FPurses-Bcoin-an-Open-Source-Alternative-to-Privatized-Solutions.jpg"></article>]]></description>
@@ -75,6 +40,41 @@
             <link>http://forklog.net/russia-abandons-bitcoin-penalization-plans/</link>
             <guid isPermaLink="false">2f2a8d44-84ff-4829-87c8-d83770351603</guid>
             <pubDate>Sat, 13 Aug 2016 05:49:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to turn a profit by hacking yourself. * /r/Bitcoin]]></title>
+            <description><![CDATA[<article><h1>How to turn a profit by hacking yourself. * /r/Bitcoin</h1><p>First increase your market share by advertising bleeding edge segregated wallets that "exceed" hot/cold wallet security, and claim that all user...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
+            <link>https://www.reddit.com/r/Bitcoin/comments/4wnotk/how_to_turn_a_profit_by_hacking_yourself/</link>
+            <guid isPermaLink="false">49dc62a6-2496-4b9e-affc-29e380edf9c4</guid>
+            <pubDate>Sat, 13 Aug 2016 05:49:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Or Ethereum, Which Blockchain Is Right For Your Startup?]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Or Ethereum, Which Blockchain Is Right For Your Startup?</h1><p>Visual Representation Of A Blockchain The past couple months have been quite the roller coaster in the world of public blockchains. $125 million has been stolen and the communities of Bitcoin and Ethereum have been scrambling to pick up the pieces. First there was the $50m Ether heist from The DAO, a [...]</p></article>]]></description>
+            <link>http://www.forbes.com/sites/jonathanchester/2016/08/12/bitcoin-or-ethereum-which-blockchain-is-right-for-your-startup/</link>
+            <guid isPermaLink="false">2014e50a-73d1-4c7c-8906-181bb26a22c3</guid>
+            <pubDate>Sat, 13 Aug 2016 05:49:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Banks Are Scared of Blockchain]]></title>
+            <description><![CDATA[<article><h1>Why Banks Are Scared of Blockchain</h1><p>According to law experts in South Africa, most banks are scared of blockchain for its power to disrupt their sector. A Senior Associate at Norton Rose Fulbright in Johannesburg, Nerushka Bowan, said the adoption of blockchain among banks has the potential to disrupt the global banking industry.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5cb1d28ce38378f0a9f2465cd55172b3/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FWhy-Banks-Are-Scared-of-Blockchain.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/banks-scared-blockchain/</link>
+            <guid isPermaLink="false">17ee0c40-3c61-44a8-9e32-29bd1ccd4902</guid>
+            <pubDate>Sat, 13 Aug 2016 05:49:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unbalkanizing the Blockchain Ecosystem: Emergence of Semantic Blockchain]]></title>
+            <description><![CDATA[<article><h1>Unbalkanizing the Blockchain Ecosystem: Emergence of Semantic Blockchain</h1><p>In a recent interview Bitcoin core developer Jeff Garzik proffered a vision of the Blockchain development phase now underway, in which he described "a mesh network of cross-chain smart contracts". To those familiar with the ideas of the Semantic Web and the global ecosystem of Linked Data these concepts should sound startlingly familiar.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5696d623aa60f191bb912a5bf1a39267/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy80YTJhMzNjNDMyOWQzOTBkZDc1N2Q4ZjMzOTA4Njg0Zi5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/unbalkanizing-the-blockchain-ecosystem-emergence-of-semantic-blockchain</link>
+            <guid isPermaLink="false">578432bf-cfe5-460c-93f3-cf6c4e0a25a8</guid>
+            <pubDate>Sat, 13 Aug 2016 05:49:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[bitcoin/bitcoin]]></title>
+            <description><![CDATA[<article><h1>bitcoin/bitcoin</h1><p>bitcoin - Bitcoin Core integration/staging tree</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/41863ba74127e15c1822d2a383105ea6/noop?input=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F528860%3Fv%3D3%26s%3D400"></article>]]></description>
+            <link>https://github.com/bitcoin/bitcoin/releases/tag/v0.13.0rc3</link>
+            <guid isPermaLink="false">d731f5c5-425b-414c-992e-5656776d1d5c</guid>
+            <pubDate>Sat, 13 Aug 2016 05:49:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
