@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Aug 2016 18:56:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2016 21:29:56 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why the latest bitcoin hack should make you worried about your money]]></title>
+            <description><![CDATA[<article><h1>Why the latest bitcoin hack should make you worried about your money</h1><p>The digital currency markets repeatedly remind us of a tired but true maxim: your money is only as secure as the bank that guards it. After a recent hack resulted in the theft of $70 million worth of bitcoin, Hong Kong-based Bitfinex caused a minor panic when it announced it would spread the losses equally among all its customers, even those whose holdings weren't touched.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8cdba46f1ebc290455790068c22575d8/noop.jpg?input=http%3A%2F%2Fmedia.salon.com%2F2016%2F08%2Fbitcoins2-620x412.jpg"></article>]]></description>
+            <link>http://www.salon.com/2016/08/13/why-the-latest-bitcoin-hack-should-make-you-worried-about-your-money/</link>
+            <guid isPermaLink="false">01bf460a-3380-4e98-87d9-da74accd80e8</guid>
+            <pubDate>Sat, 13 Aug 2016 21:29:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ethereum Developers Attempt to Dump Over 7 Mil ETCs into Exchanges - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Ethereum Developers Attempt to Dump Over 7 Mil ETCs into Exchanges - NEWSBTC</h1><p>The role of few Ethereum developers is speculated in the recent attempt to exchange over 7 million ETC's retrieved from the DAOs associated with the recent attack. Read more... Did the Ethereum Foundation secretly try to kill its sibling rival Ethereum Classic? The question may never be answered.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8dffcf5024cc4e5b0a44482305cfe7c1/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F13185952%2FScreen-Shot-2016-08-13-at-11.29.25-PM.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>MaidSafe Unveils Public Alpha Version of the SAFE Network</h1><p>It has been coming for a very long time, but Maidsafe has finally released the Alpha version of their SAFE Network. After going through five months of rigorous testing and a total of eight test nets, the team feels this solution is ready to be tested by the general public.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5e2e283b3eedaa7635a50f147b386884/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2015%2F12%2Fmaidsafe-logo.jpg"></article>]]></description>
             <link>http://themerkle.com/maidsafe-unveils-public-alpha-version-of-the-safe-network/</link>
             <guid isPermaLink="false">df36e6e0-c9f2-4ab0-b995-2ec814809d45</guid>
-            <pubDate>Sat, 13 Aug 2016 16:55:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lawyers: Legal Options Possible for Bitfinex Customers]]></title>
-            <description><![CDATA[<article><h1>Lawyers: Legal Options Possible for Bitfinex Customers</h1><p>Bitfinex customers who got socked for a 36 percent loss on account of the recent hack could have legal recourse against the Hong Kong exchange, according to lawyers from Kobre & Kim, a global law firm, CNBC reported. The Hong Kong exchange, due to the attack's indiscriminate nature, opted to charge all customers 36 percent, CCN reported.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4836bd4211863574ad14d307b3eb5522/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FLawyers-Legal-Options-Possible-for-Bitfinex-Customers.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/lawyers-legal-options-possible-for-bitfinex-customers/</link>
-            <guid isPermaLink="false">ca228cf7-acef-4e03-a8e7-28e24f32e6b5</guid>
             <pubDate>Sat, 13 Aug 2016 16:55:55 GMT</pubDate>
         </item>
     </channel>
