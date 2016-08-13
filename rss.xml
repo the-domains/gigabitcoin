@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Aug 2016 16:55:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2016 16:56:22 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Corda Will Support Digital Currencies, R3 Confirms]]></title>
+            <description><![CDATA[<article><h1>Corda Will Support Digital Currencies, R3 Confirms</h1><p>R3's Corda distributed ledger platform will support digital currencies later, a spokesperson for the financial innovation company has confirmed. Corda was used by R3 and over 15 of its consortium member banks to successfully complete two prototypes that demonstrate how distributed ledger technology can address the key challenges facing the $45 billion global trade finance industry.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e7ecbbf578b7000fa44375db3efc15f1/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy80NGE3M2I2NTEzYmU5ZjUyYWRkNTZiNjgzMWE4NDMwYS5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/corda-will-support-digital-currencies-r3-confirms</link>
+            <guid isPermaLink="false">da042ad7-e1eb-4289-9020-2c439753c638</guid>
+            <pubDate>Sat, 13 Aug 2016 16:55:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Report: Blockchain to Rewrite the Financial Infrastructure's Future]]></title>
             <description><![CDATA[<article><h1>Report: Blockchain to Rewrite the Financial Infrastructure's Future</h1><p>Blockchain technology is expected to change the way financial organizations conduct business with banks implementing distributed ledger technology (DLT) projects by 2017, according to the World Economic Forum.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2e13b8411c6e71920d344eeffd7f3f1e/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FRussia-Reverses-Plan-to-Penalize-Bitcoin-Use-768x506.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://news.bitcoin.com/purse-open-source-philosophical-reasons/</link>
             <guid isPermaLink="false">5b5a7b83-f5e3-42af-b766-b5da612c0d87</guid>
             <pubDate>Sat, 13 Aug 2016 05:49:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hyperledger Blockchain Project to Elect New Tech Committee - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Hyperledger Blockchain Project to Elect New Tech Committee - CoinDesk</h1><p>Election season has begun for the Hyperledger project, the open-source, Linux Foundation-led blockchain initiative. The project is preparing to elect a new technical steering committee (TSC) as well as a new chairperson for that committee this month, a move that comes less than a year after the Hyperledger project publicly launched in December of 2015 as a way to create a "business blockchain" for use by enterprises.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ca885abc4e2179ae5b749d1503e3cc07/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fvote-button-e1471017274972.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/hyperledger-blockchain-project-elect-new-tech-committee/</link>
-            <guid isPermaLink="false">68cdc5f9-c0c8-4023-8001-15ac38e8c2f0</guid>
-            <pubDate>Sat, 13 Aug 2016 05:49:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
