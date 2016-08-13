@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Aug 2016 21:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2016 21:30:22 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Proof-of-DDoS: A 'Malicious' New Consensus Mechanism]]></title>
+            <description><![CDATA[<article><h1>Proof-of-DDoS: A 'Malicious' New Consensus Mechanism</h1><p>A University of Colorado assistant professor and a Ph.D. student from the University of Michigan have formulated a new Altcoin that has an unusual consensus mechanism. The theoretical Also read: Purse Releases Open-Source Wallet Code for 'Philosophical Reasons' cryptocurrency, dubbed "DDoSCoin," pays attackers for participating in distributed denial of service (DDoS) attacks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/16098997d6ab0deb1f899fb02a374c67/noop.jpeg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FDDoS-skull.jpeg"></article>]]></description>
+            <link>https://news.bitcoin.com/proof-ddos-malicious-consensus/</link>
+            <guid isPermaLink="false">4ac465c2-8b9f-468a-9234-2e3e32aa575e</guid>
+            <pubDate>Sat, 13 Aug 2016 21:29:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why the latest bitcoin hack should make you worried about your money]]></title>
             <description><![CDATA[<article><h1>Why the latest bitcoin hack should make you worried about your money</h1><p>The digital currency markets repeatedly remind us of a tired but true maxim: your money is only as secure as the bank that guards it. After a recent hack resulted in the theft of $70 million worth of bitcoin, Hong Kong-based Bitfinex caused a minor panic when it announced it would spread the losses equally among all its customers, even those whose holdings weren't touched.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8cdba46f1ebc290455790068c22575d8/noop.jpg?input=http%3A%2F%2Fmedia.salon.com%2F2016%2F08%2Fbitcoins2-620x412.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Why are redeeming inputs themselves scripts?</h1><p>When redeeming a UTXO it is necessary to provide certain values such as a public key and a signature. These values come in the form of a script. First, the value providing scriptSig script runs.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/48003/why-are-redeeming-inputs-themselves-scripts</link>
             <guid isPermaLink="false">e554bcfd-769b-43e9-af21-5f518e406be2</guid>
-            <pubDate>Sat, 13 Aug 2016 16:55:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How do I buy Bitcoin in India?]]></title>
-            <description><![CDATA[<article><h1>How do I buy Bitcoin in India?</h1><p>Answer: In India you can easily buy bitcoin online from BuyUcoin by following these simple steps Step 1 - Fill the get purchase Id form on here on BuyUcoin in which fill out all necessary information like name , address etc . Step 2 - Then we will verify your information and provide you Purchas...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2fb81fb5bcd4c440dee2d03fb2acc3c6/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.png2801ad8885530345.png"></article>]]></description>
-            <link>https://www.quora.com/How-do-I-buy-Bitcoin-in-India</link>
-            <guid isPermaLink="false">232ba2e5-7702-481f-8f3c-a7b1829526bb</guid>
             <pubDate>Sat, 13 Aug 2016 16:55:55 GMT</pubDate>
         </item>
     </channel>
