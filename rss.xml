@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Aug 2016 04:07:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2016 04:50:14 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>It's official: I have joined @Blockstream to work on L2 protocols https://blockstream.com/2016/08/12/welcoming-new-team-members/ ...</p>]]></description>
+            <link>https://twitter.com/Snyke/status/764431491610906624</link>
+            <guid isPermaLink="false">5b220af9-e40a-44e6-8aeb-f26bfb80b861</guid>
+            <pubDate>Sun, 14 Aug 2016 04:50:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Network Engineer Tries to Thwart UK Bill That Plans to Expand Surveillance State - Bitcoinist.net]]></title>
             <description><![CDATA[<article><h1>Network Engineer Tries to Thwart UK Bill That Plans to Expand Surveillance State - Bitcoinist.net</h1><p>As the UK parliament is on the precipice of passing a new surveillance bill into law, one British engineer is trying to halt its progress through an anonymizing system that runs on top of the Tor anonymity network.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d70c2bdd1ef59d95f6897639224e7afc/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2Fbinary_11_pixabay-11.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Caribbean-oriented Bitcoin Wallet Caricoin Is Quite Successful</h1><p>But there is more, as Caricoin allows users to pay for goods and services sold by thousands of online retailers. When looking at things from a broader perspective, there are quite a few digital currency initiatives in circulation already. Caricoin, a project that has not made any headlines outside of the Caribbean, has been pretty successful so far.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d8ecec6afec9c1667942332882edefff/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F13194519%2Fshutterstock_125565929.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/08/13/caribbean-oriented-bitcoin-wallet-caricoin-quite-successful/</link>
             <guid isPermaLink="false">664c65d0-259c-47ab-9ccf-da1ffc56f39b</guid>
-            <pubDate>Sat, 13 Aug 2016 21:29:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Proof-of-DDoS: A 'Malicious' New Consensus Mechanism]]></title>
-            <description><![CDATA[<article><h1>Proof-of-DDoS: A 'Malicious' New Consensus Mechanism</h1><p>A University of Colorado assistant professor and a Ph.D. student from the University of Michigan have formulated a new Altcoin that has an unusual consensus mechanism. The theoretical Also read: Purse Releases Open-Source Wallet Code for 'Philosophical Reasons' cryptocurrency, dubbed "DDoSCoin," pays attackers for participating in distributed denial of service (DDoS) attacks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/16098997d6ab0deb1f899fb02a374c67/noop.jpeg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FDDoS-skull.jpeg"></article>]]></description>
-            <link>https://news.bitcoin.com/proof-ddos-malicious-consensus/</link>
-            <guid isPermaLink="false">4ac465c2-8b9f-468a-9234-2e3e32aa575e</guid>
             <pubDate>Sat, 13 Aug 2016 21:29:53 GMT</pubDate>
         </item>
     </channel>
