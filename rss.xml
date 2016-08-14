@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Aug 2016 04:06:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2016 04:07:27 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Network Engineer Tries to Thwart UK Bill That Plans to Expand Surveillance State - Bitcoinist.net]]></title>
+            <description><![CDATA[<article><h1>Network Engineer Tries to Thwart UK Bill That Plans to Expand Surveillance State - Bitcoinist.net</h1><p>As the UK parliament is on the precipice of passing a new surveillance bill into law, one British engineer is trying to halt its progress through an anonymizing system that runs on top of the Tor anonymity network.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d70c2bdd1ef59d95f6897639224e7afc/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2Fbinary_11_pixabay-11.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/one-engineer-attempts-to-thwart-uk-bill-that-plans-to-expand-surveillance-state/</link>
+            <guid isPermaLink="false">e194635d-f8f1-491c-9da2-0f8154974c68</guid>
+            <pubDate>Sun, 14 Aug 2016 04:06:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Court Awards Damages Against OKCoin, Says It Operates Illegally]]></title>
             <description><![CDATA[<article><h1>Court Awards Damages Against OKCoin, Says It Operates Illegally</h1><p>A Chinese civil court has awarded damages against the parent company of popular bitcoin exchange OKCoin, saying the business is improperly registered and facilitates criminal money-laundering. Also read: Network Engineer Tries to Thwart UK Bill That Plans to Expand Surveillance State It is the first major court ruling against a bitcoin exchange in China, which could have ramifications for other Bitcoin businesses in the country.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/474667ef97d97d7f32ef51acb7c9f23f/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FChinese-Yuan.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Proof-of-DDoS: A 'Malicious' New Consensus Mechanism</h1><p>A University of Colorado assistant professor and a Ph.D. student from the University of Michigan have formulated a new Altcoin that has an unusual consensus mechanism. The theoretical Also read: Purse Releases Open-Source Wallet Code for 'Philosophical Reasons' cryptocurrency, dubbed "DDoSCoin," pays attackers for participating in distributed denial of service (DDoS) attacks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/16098997d6ab0deb1f899fb02a374c67/noop.jpeg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FDDoS-skull.jpeg"></article>]]></description>
             <link>https://news.bitcoin.com/proof-ddos-malicious-consensus/</link>
             <guid isPermaLink="false">4ac465c2-8b9f-468a-9234-2e3e32aa575e</guid>
-            <pubDate>Sat, 13 Aug 2016 21:29:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the latest bitcoin hack should make you worried about your money]]></title>
-            <description><![CDATA[<article><h1>Why the latest bitcoin hack should make you worried about your money</h1><p>The digital currency markets repeatedly remind us of a tired but true maxim: your money is only as secure as the bank that guards it. After a recent hack resulted in the theft of $70 million worth of bitcoin, Hong Kong-based Bitfinex caused a minor panic when it announced it would spread the losses equally among all its customers, even those whose holdings weren't touched.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8cdba46f1ebc290455790068c22575d8/noop.jpg?input=http%3A%2F%2Fmedia.salon.com%2F2016%2F08%2Fbitcoins2-620x412.jpg"></article>]]></description>
-            <link>http://www.salon.com/2016/08/13/why-the-latest-bitcoin-hack-should-make-you-worried-about-your-money/</link>
-            <guid isPermaLink="false">01bf460a-3380-4e98-87d9-da74accd80e8</guid>
             <pubDate>Sat, 13 Aug 2016 21:29:53 GMT</pubDate>
         </item>
     </channel>
