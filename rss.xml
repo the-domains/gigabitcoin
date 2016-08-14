@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Aug 2016 19:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2016 19:11:18 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[How do you build a bitcoin side chain?]]></title>
-            <description><![CDATA[<article><h1>How do you build a bitcoin side chain?</h1><p>I'm grilling out on the porch. I hear a noise, and look around. A BIG black bear has been following his nose, sees me between him and his BBQ, made a sort of "humph!" and froze, staring at me. He's about 15 feet away, on the three steps up to the porch.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2fb81fb5bcd4c440dee2d03fb2acc3c6/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.png2801ad8885530345.png"></article>]]></description>
-            <link>https://www.quora.com/How-do-you-build-a-bitcoin-side-chain</link>
-            <guid isPermaLink="false">29caf203-4286-4b03-ba59-21aa619477eb</guid>
-            <pubDate>Sun, 14 Aug 2016 19:10:43 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Investment 2016: Is It Worth It?]]></title>
             <description><![CDATA[<article><h1>Bitcoin Investment 2016: Is It Worth It?</h1><p>Bitcoin Investment 2016 - Bitcoin is still ascending, seemingly growing in value every day, as well as popularity. The fact is that with the increasing globalization and diversity of economic markets, a universally accessible currency with a set value like the Bitcoin is tremendously valuable.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2533725890653a6e5305c21955127f34/noop.jpg?input=https%3A%2F%2F99bitcoins.com%2Fwp-content%2Fuploads%2F2015%2F09%2Fshutterstock_310309553-1.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Passphrase.Io Now Supports Hyperlinks And Images</h1><p>Some people may remember the PassPhrase.io service, an online notepad which uses the same technological concept as a brain wallet. The company behind this project has been working hard on updating their service over the past few months. In the latest update, Passphrase.io added support for links, formatted text, and even images.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/79ff85731078995735b2b6b6ca497de0/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_273640295.jpg"></article>]]></description>
             <link>http://themerkle.com/passphrase-io-now-supports-hyperlinks-and-images/</link>
             <guid isPermaLink="false">e89530c4-5aa2-4a3a-ab90-490007525101</guid>
+            <pubDate>Sun, 14 Aug 2016 15:44:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Transaction Detection With PHP]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Transaction Detection With PHP</h1><p>I Hope this isn't a duplicated, however I couldn't find anything about this anywhere. Anyways, I am searching for a way of detecting Bitcoin transactions to a given address. I stumbled across Lazy ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/48006/bitcoin-transaction-detection-with-php</link>
+            <guid isPermaLink="false">bf4ceed4-56ad-4cbb-b04c-ddf59ecf5415</guid>
             <pubDate>Sun, 14 Aug 2016 15:44:18 GMT</pubDate>
         </item>
     </channel>
