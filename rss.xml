@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Aug 2016 15:44:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2016 15:44:22 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HEAT raises 1632 BTC worth of digital currency investment]]></title>
+            <description><![CDATA[<article><h1>HEAT raises 1632 BTC worth of digital currency investment</h1><p>Self-appointed Generation 3.0 cryptocurrency platform HEAT has raised 1632 BTCs worth of various cryptocurrencies during their four-week crowdfunding period that closed midnight August 9, according...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4a185b06b7a36ff98a59a725675076e4/noop.jpg?input=https%3A%2F%2Fcoinreport.net%2Fwp-content%2Fuploads%2F2016%2F08%2FHeat-Ledger-logo-SQUARED.jpg"></article>]]></description>
+            <link>https://coinreport.net/heat-raises-1632-btc/</link>
+            <guid isPermaLink="false">575a2c89-a58d-4f42-815b-a997839badb2</guid>
+            <pubDate>Sun, 14 Aug 2016 15:44:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Shopawl accepting ETH, LTC, DOGE, DSH; teenage CEO offers only 1% fee to readers]]></title>
             <description><![CDATA[<article><h1>Shopawl accepting ETH, LTC, DOGE, DSH; teenage CEO offers only 1% fee to readers</h1><p>You may have heard about Shopawl.com, a drop-shipping startup that allows shoppers to make purchases with bitcoin on one of China's biggest online shopping sites, Banggood.com. Now, the startup is ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b532959c0edc5cd92d311146eff84a8c/noop.jpg?input=https%3A%2F%2Fcoinreport.net%2Fwp-content%2Fuploads%2F2016%2F08%2FShopawl-logo-150x150.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Troyan Virus Turns Linux Servers into Bitcoin Miners</h1><p>A new and dangerous computer virus has been targeting Linux servers, its goal: to turn computer servers into Bitcoin miners. The attack is aimed at environments running the Redis NoSQL database, the virus is also able to probe the network interfaces of its hosts to propagate itself.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9c28bab91181e9945cb127b16ec0973a/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2014%2F04%2Fcomputervirus.jpg"></article>]]></description>
             <link>http://themerkle.com/troyan-virus-turns-linux-servers-into-bitcoin-miners/</link>
             <guid isPermaLink="false">b4703300-6085-415d-bc3b-030d7fa9edd8</guid>
-            <pubDate>Sun, 14 Aug 2016 01:31:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Prices Steady after Volatile Start to the Month]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Prices Steady after Volatile Start to the Month</h1><p>The value of bitcoin traded within a narrow range Saturday, as the market stabilized after a high profile security breach triggered a large selloff of the digital currency at the start of August. The BTC/USD was trading around $586.00 on Saturday, according to CoinDesk. The digital currency was trading in the middle of its daily ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bc50bc37e9002ec4e4cd76b7a095933a/noop.jpg?input=http%3A%2F%2Fwww.economiccalendar.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fbitcoin-app-btcusd.jpg"></article>]]></description>
-            <link>http://www.economiccalendar.com/2016/08/13/bitcoin-prices-steady-after-volatile-start-to-the-month/</link>
-            <guid isPermaLink="false">3e4dd560-9c4f-4761-b0af-7a0d29f43d2a</guid>
             <pubDate>Sun, 14 Aug 2016 01:31:52 GMT</pubDate>
         </item>
     </channel>
