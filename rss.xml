@@ -7,6 +7,13 @@
         <lastBuildDate>Sun, 14 Aug 2016 15:46:08 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[The Bitcoin Podcast: TBP79 - Infrastructure for a Seven Billion World]]></title>
+            <description><![CDATA[<article><h1>The Bitcoin Podcast: TBP79 - Infrastructure for a Seven Billion World</h1><p>Vinay Gupta is a technologist, inventor, futurist, systems theorist, and global resilience guru whose life's work focuses on how to ensure the long-term survival and flourishing of the human race. It was stimulating conversation about a wide variety of topics. In addition, we run a character piece of Steven McKie, a brilliant mind working at Purse.io and Yours.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/933484e2310e7b5175a8d3221adaa0ef/noop.jpg?input=http%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F4%2F3%2F7%2F0%2F4370454b3c71bec4%2Fheight_250_width_250_overlay_79itunes.jpg"></article>]]></description>
+            <link>http://thebitcoinpodcast.libsyn.com/tbp79-infrastructure-for-a-seven-billion-world</link>
+            <guid isPermaLink="false">9d7edf94-208d-4565-b95c-3174b6d0a993</guid>
+            <pubDate>Sun, 14 Aug 2016 15:44:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[World Economic Forum Report on Blockchain's Role in the Future of Financial Infrastructure - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>World Economic Forum Report on Blockchain's Role in the Future of Financial Infrastructure - NEWSBTC</h1><p>The recent World Economic Forum report showcases the importance of blockchain technology in the future of financial infrastructure. Read more... A comprehensive report by the World Economic Forum released yesterday reiterates the importance of blockchain technology in global finance. The 129-page report presents the findings of an in-depth analysis of nine different use cases of the distributed ledger technology.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b7d18d5d48c8ad0dd894d46f7aa870b5/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F13214528%2FScreen-Shot-2016-08-14-at-2.14.59-AM.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/08/14/world-economic-forum-report-on-blockchain-and-financial-infrastructure/</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Scam Site Warning - Xabo</h1><p>Any investment platform promising significant profits should be avoided at all costs. This is particularly true for the Bitcoin sector, as cryptocurrency investments cannot be refunded or charged back through traditional means. Xabo offers up to 50% monthly returns on one's investments, which seems highly unlikely.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0e65bba048b8bc037fb7efb62b330589/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_385726267.jpg"></article>]]></description>
             <link>http://themerkle.com/bitcoin-scam-site-warning-xabo/</link>
             <guid isPermaLink="false">6691afd7-0465-477b-9be0-4714a2ecf41c</guid>
-            <pubDate>Sun, 14 Aug 2016 15:44:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Researchers Reveal Altcoin to Reward Participating in DDoS Attacks]]></title>
-            <description><![CDATA[<article><h1>Researchers Reveal Altcoin to Reward Participating in DDoS Attacks</h1><p>A pair of researchers has developed a cryptocurrency called DDoSCoin that rewards users for participating in distributed denial of service (DDoS) attacks. The currency only works when the user's computer targets a TLS-enabled website. TLS stands for Transport Layer Security, a cryptographic protocol for secure Internet communication.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3444b78e260425ec2390cd151acc2928/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FResearchers-Reveal-Altcoin-to-Reward-Participating-in-DDoS-Attacks.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/researchers-reveal-altcoin-to-reward-participating-in-ddos-attacks/</link>
-            <guid isPermaLink="false">3475f663-a17d-4289-88c8-7ba76cf9699a</guid>
             <pubDate>Sun, 14 Aug 2016 15:44:18 GMT</pubDate>
         </item>
     </channel>
