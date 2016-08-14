@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Aug 2016 23:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2016 23:15:45 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How was transaction a4bfa8ab6435ae5f25dae9d89e4eb67dfa94283ca751f393c1ddc5a837bbc31b mined?]]></title>
+            <description><![CDATA[<article><h1>How was transaction a4bfa8ab6435ae5f25dae9d89e4eb67dfa94283ca751f393c1ddc5a837bbc31b mined?</h1><p>"Relayed" and "mined" are completely separate processes and should not be conflated. The transaction is valid, so it was perfectly fine to mine it (i.e. include it in a valid block). "Standard" is a more restrictive requirement, and as you say, this transaction is not standard.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/48030/how-was-transaction-a4bfa8ab6435ae5f25dae9d89e4eb67dfa94283ca751f393c1ddc5a837bb</link>
+            <guid isPermaLink="false">f9daefa5-ffeb-40b4-8691-dfb2ddcbccee</guid>
+            <pubDate>Sun, 14 Aug 2016 23:15:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Experts think bitcoin's tech is the future of finance]]></title>
+            <description><![CDATA[<article><h1>Experts think bitcoin's tech is the future of finance</h1><p>Weforum's report says large central banks have already begun looking at how the blockchain can transform the way they move money, especially between countries. It will allow them to do more secure and faster transactions that also cost less than they do today.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/59a396e18cacbe4e5722b099d38766e6/noop?input=https%3A%2F%2Fs.aolcdn.com%2Fdims5%2Famp%3A6b7cca25aeb6551565c17b4116287f75457f7934%2Ft%3A1200%2C630%2Fq%3A80%2F%3Furl%3Dhttps%253A%252F%252Fs.aolcdn.com%252Fdims-shared%252Fdims3%252FGLOB%252Fcrop%252F2128x1303%252B0%252B105%252Fresize%252F1600x980%2521%252Fformat%252Fjpg%252Fquality%252F85%252Fhttps%253A%252F%252Fs.aolcdn.com%252Fhss%252Fstorage%252Fmidas%252F68b3c55d9d80d2eace8878ee5ff34b51%252F203968452%252F530566774.jpg"></article>]]></description>
+            <link>https://www.engadget.com/2016/08/14/bitcoin-blockchain-finance-experts/</link>
+            <guid isPermaLink="false">40787dc8-1733-4757-b7a2-30e26c384a60</guid>
+            <pubDate>Sun, 14 Aug 2016 23:15:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A friend of mine put bitcoin mining software on a CubeSat that's currently in low earth orbit. He's technically the first human to mine space for profit. * /r/Bitcoin]]></title>
             <description><![CDATA[<article><h1>A friend of mine put bitcoin mining software on a CubeSat that's currently in low earth orbit. He's technically the first human to mine space for profit. * /r/Bitcoin</h1><p>He said they had extra resources on a CubeSat and thought it would be amusing. I don't think anyone is getting rich on this however. Just thought...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Beginner's Guide to Mining Bitcoins</h1><p>One of the biggest problems I ran into when I was looking to start mining Bitcoin for investment and profit was most of the sites were written for the advanced user. I am not a professional coder, I have no experience with Ubuntu, Linux and minimal experience with Mac.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8b93c2d3df10c83a722d7708db77d925/noop.jpg?input=https%3A%2F%2F99bitcoins.com%2Fwp-content%2Fuploads%2F2016%2F07%2Funnamed-file-66.jpg"></article>]]></description>
             <link>https://99bitcoins.com/beginners-guide-to-mining/</link>
             <guid isPermaLink="false">bcb92aa5-8c95-4847-94ce-d0704de34231</guid>
-            <pubDate>Sun, 14 Aug 2016 19:10:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Caricoin Brings Bitcoin To The Caribbean]]></title>
-            <description><![CDATA[<article><h1>Caricoin Brings Bitcoin To The Caribbean</h1><p>One of the most interesting trends in Bitcoin's development has been that it seems to thrive in struggling economies or, more specifically, economies in which people have limited access to bank accounts. This first became apparent in Greece, where a decade-long financial crisis has recently led some citizens to go about adopting cryptocurrency as a primary means of storing and transferring funds.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2533725890653a6e5305c21955127f34/noop.jpg?input=https%3A%2F%2F99bitcoins.com%2Fwp-content%2Fuploads%2F2015%2F09%2Fshutterstock_310309553-1.jpg"></article>]]></description>
-            <link>https://99bitcoins.com/caricoin-bitcoin-caribbean/</link>
-            <guid isPermaLink="false">4bb212a2-2dfc-4987-88bd-a39df3b81175</guid>
-            <pubDate>Sun, 14 Aug 2016 19:10:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dash Surpasses US$13 Mark And Becomes More Valuable Than Ethereum]]></title>
-            <description><![CDATA[<article><h1>Dash Surpasses US$13 Mark And Becomes More Valuable Than Ethereum</h1><p>Cryptocurrency enthusiasts who have been keeping an eye on the Dash price as of late will have noticed there has been a very strong uptrend Right now, one Dash is worth US$13.54, which is quite a difference from slightly below US$10 just a few days ago.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b660453e233ee1dde3a5d48bec3b8917/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_27683200.jpg"></article>]]></description>
-            <link>http://themerkle.com/dash-surpasses-us13-mark-and-becomes-more-valuable-than-ethereum/</link>
-            <guid isPermaLink="false">16bee954-b66c-4ef9-aec2-51b6fe8ab2b1</guid>
             <pubDate>Sun, 14 Aug 2016 19:10:43 GMT</pubDate>
         </item>
     </channel>
