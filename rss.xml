@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Aug 2016 01:32:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2016 01:32:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[China Needs To Sort Out Its Corporate Debt, IMF Says]]></title>
+            <description><![CDATA[<article><h1>China Needs To Sort Out Its Corporate Debt, IMF Says</h1><p>With so much volatility in fiat currency and stock markets, traditional debt-relief solutions are not a valuable option either. Interesting things are happening in the world of traditional finance these days. China, while often seen as a prosperous economy, has received a stern warning from the IMF.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/decad562c692bb1fc79bea1c98de000e/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F13204944%2Fshutterstock_294020753.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/13/china-needs-sort-corporate-debt-imf-says/</link>
+            <guid isPermaLink="false">398ca2db-5353-4530-89fc-7524f12f6e5e</guid>
+            <pubDate>Sun, 14 Aug 2016 01:31:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can bitcoins be legally counterfeited?]]></title>
+            <description><![CDATA[<article><h1>Can bitcoins be legally counterfeited?</h1><p>Answer (1 of 2): Yes and No If you have the very very very large computational power then it is possible to make counterfeit coin. But in specification it is assumed that the majority of computational power comes from honest nodes. And upto now such seems true. But theoretically it is possible.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2fb81fb5bcd4c440dee2d03fb2acc3c6/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.png2801ad8885530345.png"></article>]]></description>
+            <link>https://www.quora.com/Can-bitcoins-be-legally-counterfeited</link>
+            <guid isPermaLink="false">00807a57-9d65-4bf0-b3ab-f34de42b51c3</guid>
+            <pubDate>Sun, 14 Aug 2016 01:31:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Troyan Virus Turns Linux Servers into Bitcoin Miners]]></title>
             <description><![CDATA[<article><h1>Troyan Virus Turns Linux Servers into Bitcoin Miners</h1><p>A new and dangerous computer virus has been targeting Linux servers, its goal: to turn computer servers into Bitcoin miners. The attack is aimed at environments running the Redis NoSQL database, the virus is also able to probe the network interfaces of its hosts to propagate itself.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9c28bab91181e9945cb127b16ec0973a/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2014%2F04%2Fcomputervirus.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://www.onlinevolunteering.org/en/node/415083</link>
             <guid isPermaLink="false">a0f70ee0-7f4e-41eb-adc8-69de4dd8811c</guid>
             <pubDate>Sat, 13 Aug 2016 21:29:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum Developers Attempt to Dump Over 7 Mil ETCs into Exchanges - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Ethereum Developers Attempt to Dump Over 7 Mil ETCs into Exchanges - NEWSBTC</h1><p>The role of few Ethereum developers is speculated in the recent attempt to exchange over 7 million ETC's retrieved from the DAOs associated with the recent attack. Read more... Did the Ethereum Foundation secretly try to kill its sibling rival Ethereum Classic? The question may never be answered.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8dffcf5024cc4e5b0a44482305cfe7c1/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F13185952%2FScreen-Shot-2016-08-13-at-11.29.25-PM.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/13/ethereum-developers-attempts-etc-dump/</link>
-            <guid isPermaLink="false">749f3149-d7d3-4489-b00b-55e7222aa478</guid>
-            <pubDate>Sat, 13 Aug 2016 18:56:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CoPay Mobile Wallet May Integrate Gift Card Option Soon]]></title>
-            <description><![CDATA[<article><h1>CoPay Mobile Wallet May Integrate Gift Card Option Soon</h1><p>Bitcoin wallets make it easy for users to store, spend, and receive cryptocurrency on their favorite device. Particularly mobile wallets add a major convenience factor, both of novice and advanced users. Copay, the mobile wallet solution that hardly makes headlines, seems to offer gift card integration shortly.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a9d38edba77abe2051489d7358d29896/noop.png?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2FCopay.png"></article>]]></description>
-            <link>http://themerkle.com/copay-mobile-wallet-may-integrate-gift-card-option-soon/</link>
-            <guid isPermaLink="false">af3c2ee4-9ec8-4679-862d-c74ef417c395</guid>
-            <pubDate>Sat, 13 Aug 2016 18:56:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
