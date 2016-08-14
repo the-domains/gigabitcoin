@@ -4,8 +4,64 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Aug 2016 15:45:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2016 15:45:39 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Transaction Detection With PHP]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Transaction Detection With PHP</h1><p>I Hope this isn't a duplicated, however I couldn't find anything about this anywhere. Anyways, I am searching for a way of detecting Bitcoin transactions to a given address. I stumbled across Lazy ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/48006/bitcoin-transaction-detection-with-php</link>
+            <guid isPermaLink="false">bf4ceed4-56ad-4cbb-b04c-ddf59ecf5415</guid>
+            <pubDate>Sun, 14 Aug 2016 15:44:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Power Ledger trials blockchain-based energy grid and market near Perth]]></title>
+            <description><![CDATA[<article><h1>Power Ledger trials blockchain-based energy grid and market near Perth</h1><p>Australian energy startup Power Ledger announced on Thursday that its trials have commenced using blockchain technology to "put power in the pockets of electricity consumers." People in Perth and across southwest Australia may soon have the power to buy, sell or swap excess solar energy with anyone connected to the Western Power network, if trials that began yesterday prove successful.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/825390e367df8a47049f13944a547ef7/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-Solar-tracker-panels.jpg"></article>]]></description>
+            <link>http://bravenewcoin.com/news/power-ledger-trials-blockchain-based-energy-grid-and-market-near-perth/</link>
+            <guid isPermaLink="false">3d23a67a-2a12-46a0-9bf6-634a1c10b208</guid>
+            <pubDate>Sun, 14 Aug 2016 15:44:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[For the Lulz! DDoSCoin that Pays for Taking Part in DDoS Attacks - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>For the Lulz! DDoSCoin that Pays for Taking Part in DDoS Attacks - NEWSBTC</h1><p>DDoSCoin, a unique cryptocurrency that can be mined by taking part in DDoS attacks. Read more... Digital currencies don't always have to be serious business. While there are concerns about the impact of Bitcoin mining on the environment, two researchers have come up with an innovative way of mining digital currency.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1838bd78817a28d9a00f0428ea665c44/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F13224012%2Fddoscoin.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/14/ddoscoin-pays-participating-ddos-attacks/</link>
+            <guid isPermaLink="false">b04a368f-0d02-45ac-aba2-4e50138a7cbd</guid>
+            <pubDate>Sun, 14 Aug 2016 15:44:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BitAddress.Org Invalid Certificate Issue Seems To be Resolved]]></title>
+            <description><![CDATA[<article><h1>BitAddress.Org Invalid Certificate Issue Seems To be Resolved</h1><p>Users of the BitAddress.org website may have noticed there seems to be something wrong with the website. A lot of people are reporting the platform is using an invalid SSL certificate. This is not good news for this online Bitcoin wallet service, and for now, it remains unclear as to what is going on exactly.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/428b79399783ffe6d182e8756e66ae79/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_299939162.jpg"></article>]]></description>
+            <link>http://themerkle.com/bitaddress-org-invalid-certificate-issue-seems-to-be-resolved/</link>
+            <guid isPermaLink="false">466006de-77a6-4cc8-ae11-f0dc4928cca8</guid>
+            <pubDate>Sun, 14 Aug 2016 15:44:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Podcast: Infrastructure for a Seven Billion World]]></title>
+            <description><![CDATA[<article><h1>Podcast: Infrastructure for a Seven Billion World</h1><p>Vinay Gupta is basically a 21st-century Übermensch whose work and identity are not easy to pithily summarize. He's a technologist, inventor, futurist, systems theorist, and global resilience guru whose life's work focuses on how to ensure the long-term survival and flourishing of the human race.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3000e3f1ffbcc50b4ed36a3d7d38bb51/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83YjM3MGNlMjM2OGNlY2FkNTY4ZjhkNmNiNmUzMWY4Zi5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/podcast-infrastructure-for-a-seven-billion-world</link>
+            <guid isPermaLink="false">30207ed5-f459-4079-a822-e9be93437fb9</guid>
+            <pubDate>Sun, 14 Aug 2016 15:44:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Scam Site Warning - Xabo]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Scam Site Warning - Xabo</h1><p>Any investment platform promising significant profits should be avoided at all costs. This is particularly true for the Bitcoin sector, as cryptocurrency investments cannot be refunded or charged back through traditional means. Xabo offers up to 50% monthly returns on one's investments, which seems highly unlikely.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0e65bba048b8bc037fb7efb62b330589/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_385726267.jpg"></article>]]></description>
+            <link>http://themerkle.com/bitcoin-scam-site-warning-xabo/</link>
+            <guid isPermaLink="false">6691afd7-0465-477b-9be0-4714a2ecf41c</guid>
+            <pubDate>Sun, 14 Aug 2016 15:44:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Researchers Reveal Altcoin to Reward Participating in DDoS Attacks]]></title>
+            <description><![CDATA[<article><h1>Researchers Reveal Altcoin to Reward Participating in DDoS Attacks</h1><p>A pair of researchers has developed a cryptocurrency called DDoSCoin that rewards users for participating in distributed denial of service (DDoS) attacks. The currency only works when the user's computer targets a TLS-enabled website. TLS stands for Transport Layer Security, a cryptographic protocol for secure Internet communication.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3444b78e260425ec2390cd151acc2928/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FResearchers-Reveal-Altcoin-to-Reward-Participating-in-DDoS-Attacks.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/researchers-reveal-altcoin-to-reward-participating-in-ddos-attacks/</link>
+            <guid isPermaLink="false">3475f663-a17d-4289-88c8-7ba76cf9699a</guid>
+            <pubDate>Sun, 14 Aug 2016 15:44:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Singapore Banking Industry Looks to Fintech & Blockchain]]></title>
+            <description><![CDATA[<article><h1>Singapore Banking Industry Looks to Fintech & Blockchain</h1><p>The Singapore banking industry is hot for fintech and blockchain technology. The United Overseas Bank (UOB) recently had its accelerator program FinLab on August 3, which included participating in financial technology solutions and "smart contracts as a service."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fe5b74f12cefc9b3bab58f486b4567bf/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Focb.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/singapore-banking-industry-blockchain/</link>
+            <guid isPermaLink="false">00b4556c-bb55-41d4-ace8-6b78b4437375</guid>
+            <pubDate>Sun, 14 Aug 2016 15:44:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Blockchain Strategy is A Must For Every Corporation]]></title>
             <description><![CDATA[<article><h1>A Blockchain Strategy is A Must For Every Corporation</h1><p>It is clear the lack of understanding blockchain technology is to blame for this seemingly indifferent attitude towards the future. For enterprises all over the world, the pressing question is whether or not they need to develop a blockchain strategy. Some experts feel this technology has no first mover advantage, as it has not been proven yet.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/344cdfdad44cae4fb0f5b5887aaa4d1d/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F14100813%2Fshutterstock_425066752.jpg"></article>]]></description>
@@ -19,62 +75,6 @@
             <link>https://cointelegraph.com/news/blockchaininfo-wallets-pass-100-million-transactions</link>
             <guid isPermaLink="false">f39f31ac-3319-4f2b-a7d3-2b89d0a2461c</guid>
             <pubDate>Sun, 14 Aug 2016 15:44:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin's technology has a surprising fan: IBM]]></title>
-            <description><![CDATA[<article><h1>Bitcoin's technology has a surprising fan: IBM</h1><p>Bitcoin has a bad rap as the preferred currency of drug dealers. But that isn't stopping IBM and some of the world's most conservative businesses from tapping into its technological underpinnings. Specifically, Big Blue is interested in the blockchain -- the mechanism Bitcoin uses to publicly record transactions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/94a03db2a2f2f6bc34e0f6e459606adf/noop.jpg?input=https%3A%2F%2Fcnet1.cbsistatic.com%2Fimg%2Fb3WbgoMp8Ta3ZroxEqWBupoaiD0%3D%2F670x503%2F2016%2F08%2F12%2F62ca1d28-2ef1-4b0f-8272-69e5e0e6e72b%2F20160811-ibm-research-arvind-krishna-001.jpg"></article>]]></description>
-            <link>http://www.cnet.com/news/ibm-blockchain-bitcoins-technology-surprising-fan/</link>
-            <guid isPermaLink="false">47c189bb-0ed1-42f2-9a73-8a3e5b0539f6</guid>
-            <pubDate>Sun, 14 Aug 2016 15:44:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dual-Mining Can Be A Very Profitable Business With Good Hardware]]></title>
-            <description><![CDATA[<article><h1>Dual-Mining Can Be A Very Profitable Business With Good Hardware</h1><p>Cryptocurrency enthusiasts who show an interest in mining at home have a few different options at their disposal today. One of the more particularly attractive options is to dual-mine Ethereum together with either Decred or Siacoin. Since all of these currencies use the same mining algorithm, there is very little code setup required to get started.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/471e6e10d11b16e5804a0e8e54ce3ee6/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_142778230.jpg"></article>]]></description>
-            <link>http://themerkle.com/dual-mining-can-be-a-very-profitable-business-with-good-hardware/</link>
-            <guid isPermaLink="false">f4c99f11-4e9d-4714-9d80-23ee4e0bd6a1</guid>
-            <pubDate>Sun, 14 Aug 2016 15:44:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GNUNet and Netsukuku Are Potential Tor Alternatives]]></title>
-            <description><![CDATA[<article><h1>GNUNet and Netsukuku Are Potential Tor Alternatives</h1><p>GNUnet prides itself on being security- and anonymity-centric in its current form. Furthermore, GNUnet is a medium-latency network, whereas Tor or Freenet are both low-latency networks. Ever since the governments around the world started cracking down on the usage of Tor, users have been looking for viable alternatives.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/eda902b963627f41c3b2532c91191eda/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F14130209%2Fshutterstock_349970117.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/14/gnunet-netsukuku-potential-tor-alternatives/</link>
-            <guid isPermaLink="false">6f68e8f1-8a14-4dfb-98bc-69998c8bbf3c</guid>
-            <pubDate>Sun, 14 Aug 2016 15:44:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitfury to Ukraine, ETC Independence and Russian Mercy. Cryptospace News, August 8 - 14]]></title>
-            <description><![CDATA[<article><h1>Bitfury to Ukraine, ETC Independence and Russian Mercy. Cryptospace News, August 8 - 14</h1><p>The return of Bitfinex and the never-ending story of Ethereum Classic have become the main news of the week. Also featuring in ForkLog's weekly overview are new initiatives in blockchain realm, and other cryptocurrency-related news. Bitcoin's price managed to do without calamities this week, and no extraordinary fluctuations were there to be seen.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cf68e4798b63cb79fb3f981ba0cf1a87/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F06%2Fbitcoindigest01.png"></article>]]></description>
-            <link>http://forklog.net/bitfury-goes-to-ukraine-etc-independence-and-russian-torquemadas-cryptospace-news-august-8-14/</link>
-            <guid isPermaLink="false">6d9859e6-f829-420e-a9c1-58ab70e6b6f1</guid>
-            <pubDate>Sun, 14 Aug 2016 15:44:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is it possible to mine bitcoin with my PC in 2016?]]></title>
-            <description><![CDATA[<article><h1>Is it possible to mine bitcoin with my PC in 2016?</h1><p>Answer (1 of 3): Can i do mining with a normal PC? Yes. You can. Now, you'll say can I mine one bitcoin a week? No, not possible. You will effectively compete against all computational resources on Earth, that are now cracking this nut. If I can estimate, a humble home PC will produce around 1...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2fb81fb5bcd4c440dee2d03fb2acc3c6/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.png2801ad8885530345.png"></article>]]></description>
-            <link>https://www.quora.com/Is-it-possible-to-mine-bitcoin-with-my-PC-in-2016</link>
-            <guid isPermaLink="false">5b413827-85a9-4eee-83c6-95d72ddf1c87</guid>
-            <pubDate>Sun, 14 Aug 2016 15:44:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In a blockchain how does a miner "validates each transaction" in a block (before carrying on with the PoW)?]]></title>
-            <description><![CDATA[<article><h1>In a blockchain how does a miner "validates each transaction" in a block (before carrying on with the PoW)?</h1><p>Answer: I will answer by considering the "Bitcoin's blockchain" rules. Here is the algorithm each nodes mining have to run to check if a block is correct: And to algorithm to check if a transaction is correct For more information about the validation process, I suggest you to read the bitcoin ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2fb81fb5bcd4c440dee2d03fb2acc3c6/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.png2801ad8885530345.png"></article>]]></description>
-            <link>https://www.quora.com/In-a-blockchain-how-does-a-miner-validates-each-transaction-in-a-block-before-carrying-on-with-the-PoW</link>
-            <guid isPermaLink="false">9f554409-4472-4b8b-8ede-191fa1bb182a</guid>
-            <pubDate>Sun, 14 Aug 2016 15:44:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Decentralization & Governance: Can Bitcoin Have Both? - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Decentralization & Governance: Can Bitcoin Have Both? - CoinDesk</h1><p>Ariel Deschapell is content manager for blockchain real estate startup Ubitquity, and a recent Henry Hazlitt fellow at the Foundation for Economic Education. In this opinion piece, Deschapell argues that in order to solve issues around decentralized governance, the blockchain community must ask difficult questions about what kind of decentralization solutions need.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fd3f64873855d728c5a98aa7779328e8/noop.png?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FScreen-Shot-2016-08-12-at-11.31.23-AM.png"></article>]]></description>
-            <link>http://www.coindesk.com/decentralized-proven-otherwise/</link>
-            <guid isPermaLink="false">ba922067-0e54-4d82-98bc-5e16b5fdea48</guid>
-            <pubDate>Sun, 14 Aug 2016 15:44:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How is operating on the bitcoin blockchain more expensive for abra than using their other built-in payment rails?]]></title>
-            <description><![CDATA[<article><h1>How is operating on the bitcoin blockchain more expensive for abra than using their other built-in payment rails?</h1><p>Answer: It depends on the underlying technology the payment system is using. Bitcoin is a distributed system. So for it to work correctly a lot of processing power is needed to make the coins fairly(as the algorithm increases the difficulty when the coin base increases read Difficulty - Bitcoin W...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2fb81fb5bcd4c440dee2d03fb2acc3c6/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.png2801ad8885530345.png"></article>]]></description>
-            <link>https://www.quora.com/How-is-operating-on-the-bitcoin-blockchain-more-expensive-for-abra-than-using-their-other-built-in-payment-rails</link>
-            <guid isPermaLink="false">db0717bb-4627-43c3-bc6b-1d26b7683c76</guid>
-            <pubDate>Sun, 14 Aug 2016 15:44:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
