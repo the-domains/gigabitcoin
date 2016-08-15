@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Aug 2016 01:35:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2016 01:36:22 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[If I know a Bitcoin address, what's the simplest way to recover bitcoins from it?]]></title>
+            <description><![CDATA[<article><h1>If I know a Bitcoin address, what's the simplest way to recover bitcoins from it?</h1><p>My parents separated when I was three and officially split up when I was five. After divorcing my mom, my Dad remarried several times. My relationship with my father's women was odd. There was this ever present, jealous tension that I never knew quite what to do with. I wasn't "another woman".</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2fb81fb5bcd4c440dee2d03fb2acc3c6/noop.png?input=https%3A%2F%2Fqsf.ec.quoracdn.net%2F-images.new_grid.fb_share_default.png2801ad8885530345.png"></article>]]></description>
+            <link>https://www.quora.com/If-I-know-a-Bitcoin-address-whats-the-simplest-way-to-recover-bitcoins-from-it</link>
+            <guid isPermaLink="false">6e099b8c-516d-424a-a997-71032af6ae6e</guid>
+            <pubDate>Mon, 15 Aug 2016 01:35:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Can you "undo" an nlockTime transaction by spending a single UTXO of it before lockTime's block happens?]]></title>
             <description><![CDATA[<article><h1>Can you "undo" an nlockTime transaction by spending a single UTXO of it before lockTime's block happens?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Let's say I have a wallet X with money from 3 unspent outputs (UTXOs) A, B and C.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin's Rallying Again-But Isn't Getting Much Attention Anymore</h1><p>Lack of media and public interest bode poorly for the long-term future of the virtual currency, even though it has regained much of the value it lost in 2014.... But the rest of the world appears to have lost interest.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fc2907324ba68c0e2580f184e3117e37/noop.png?input=https%3A%2F%2F99bitcoins.com%2Fwp-content%2Fuploads%2F2010%2F12%2Fbitcoin-obituary.png"></article>]]></description>
             <link>https://99bitcoins.com/bitcoins-rallying-again-but-isnt-getting-much-attention-anymore/</link>
             <guid isPermaLink="false">7ca0dc9a-8a47-4321-ac8c-4848019087f3</guid>
-            <pubDate>Sun, 14 Aug 2016 19:10:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who Accepts Bitcoins As Payment? List of Companies]]></title>
-            <description><![CDATA[<article><h1>Who Accepts Bitcoins As Payment? List of Companies</h1><p>Who accept bitcoins as payment? Bitcoins are taking over the crypto-currency marketplace. They're the largest and most well-known digital currency. Many large companies are accepting bitcoins as a legitimate source of funds. They allow their online products to be bought with bitcoins.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2533725890653a6e5305c21955127f34/noop.jpg?input=https%3A%2F%2F99bitcoins.com%2Fwp-content%2Fuploads%2F2015%2F09%2Fshutterstock_310309553-1.jpg"></article>]]></description>
-            <link>https://99bitcoins.com/who-accepts-bitcoins-payment-companies-stores-take-bitcoins/</link>
-            <guid isPermaLink="false">117597c8-4b86-4fbc-909c-ad30e8c28afb</guid>
             <pubDate>Sun, 14 Aug 2016 19:10:44 GMT</pubDate>
         </item>
     </channel>
