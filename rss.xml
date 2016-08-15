@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Aug 2016 13:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2016 13:14:57 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin News for the week of 8/8/16]]></title>
+            <description><![CDATA[<article><h1>Bitcoin News for the week of 8/8/16</h1><p>Welcome to our weekly bitcoin news recap, where we cover top headlines and stories in the world of bitcoin each week. This week we saw news from The New York Times about how the World Economic Forum predicts that blockchain technology will eventually play a significant role in the global financial system.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ae66c210de4e32816fd372981a8f4f81/noop.jpg?input=https%3A%2F%2Fblog.blockchain.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fwef-blockchain.jpg"></article>]]></description>
+            <link>https://blog.blockchain.com/2016/08/14/bitcoin-news-for-the-week-of-8816/</link>
+            <guid isPermaLink="false">2ea16f4e-90a1-435d-be36-d451f243e590</guid>
+            <pubDate>Mon, 15 Aug 2016 13:12:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Can you build an application on a separate blockchain from bitcoin? If so, what are the pros and cons of doing this?]]></title>
             <description><![CDATA[<article><h1>Can you build an application on a separate blockchain from bitcoin? If so, what are the pros and cons of doing this?</h1><p>Answer (1 of 3): Option 1. You can use Bitcoin's blockchain software as it is and create your own permissionless blockchain. It will be a distributed system and a network with open membership. PROS: 1. Consistency. 2.Availability. 3. Tolerance to network partitions. 4. Tolerance to malicious atta...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c997b4320132562dc28a70646dfe779f/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-custom-t-5900-600x315-xrdffzwndsjehgxeynkrxgdmgdpefgek.jpeg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Security Behind Bitcoin Online Gambling</h1><p>Bitcoin experts now believe that the ruling will give the virtual currency a much needed boos First up, a little background. The original Bitcoin was launched by secretive and elusive computer programmer, Satoshi Nakamoto in 2008.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d33607ff1e27e9d2547ef538b598f00f/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F15075733%2Fbitcoin_abstract.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/08/15/security-behind-bitcoin-online-gambling/</link>
             <guid isPermaLink="false">a3d42be5-d225-49fa-a803-d36a81c63703</guid>
-            <pubDate>Mon, 15 Aug 2016 13:12:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mimblewimble: A Stripped-Down Bitcoin Version Improves Privacy, Fungibility and Scalability]]></title>
-            <description><![CDATA[<article><h1>Mimblewimble: A Stripped-Down Bitcoin Version Improves Privacy, Fungibility and Scalability</h1><p>A slimming down of the bitcoin protocol called Mimblewimble generates a blinding factor that can prove ownership of bitcoins, making private keys unnecessary, and offering a solution to the need to balance bitcoin privacy against fungibility while also improving scalability, according to a white paper that appeared mysteriously on a bitcoin research site authored by a person using a pseudonym, according to Nasdaq.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dc71757aec6be6f2ef1b6e07757aed36/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FMimblewimble-A-Stripped-Down-Bitcoin-Version-Improves-Privacy-Fungibility-and-Scalability.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/mimblewimble-a-stripped-down-bitcoin-version-improves-privacy-fungibility-and-scalability/</link>
-            <guid isPermaLink="false">4d099e57-ff17-4c17-8a2b-933ada928512</guid>
             <pubDate>Mon, 15 Aug 2016 13:12:56 GMT</pubDate>
         </item>
     </channel>
