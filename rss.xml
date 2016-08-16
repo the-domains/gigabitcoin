@@ -4,8 +4,50 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Aug 2016 06:00:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2016 06:00:44 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Technical Analysis for 08/16/2016 - Short-Term Reversal Pattern? - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 08/16/2016 - Short-Term Reversal Pattern? - NEWSBTC</h1><p>Bitcoin price could be due for a short-term uptrend once it confirms this reversal formation, but technical indicators are suggesting otherwise. Bitcoin Price Key Highlights Bitcoin price could be due for a short-term uptrend once it confirms this reversal formation, but technical indicators are suggesting otherwise.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0ac83d68f249a7f9a9d9e6258df785d6/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F16022815%2F160816_bitcoin.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/16/bitcoin-price-technical-analysis-08162016-short-term-reversal-pattern/</link>
+            <guid isPermaLink="false">8cf063f3-1820-4472-b7b8-bc778ae0efaa</guid>
+            <pubDate>Tue, 16 Aug 2016 06:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2016-08-11]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-08-11</h1><p>Jtimon asked for some codereview on PR #8493 (Untested: libconsensus: Expose VerifyHeader) Jl2012 has suggested some changes to prevent DoS attacks with segwit (PR #8499), sipa asks what the opinions are on adding a per txin witness size limit policy.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/08/11/</link>
+            <guid isPermaLink="false">4d1b64e4-450c-4dba-866c-b05d31d117e5</guid>
+            <pubDate>Tue, 16 Aug 2016 06:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hacking group offers 'stolen NSA cyber-weapons' in bitcoin auction]]></title>
+            <description><![CDATA[<article><h1>Hacking group offers 'stolen NSA cyber-weapons' in bitcoin auction</h1><p>A hacking collective calling itself 'Shadow Brokers' claims to have hacked an NSA affiliate and obtained a set of US government spying and surveillance tools - which it is now willing to auction off for at least half a billion dollars in Bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8961daa94a9ca25d3297255ce383b30f/noop.jpg?input=https%3A%2F%2Fimg.rt.com%2Ffiles%2F2016.08%2Farticle%2F57b26391c46188b1208b45b4.jpg"></article>]]></description>
+            <link>https://www.rt.com/usa/356081-hackers-nsa-spying-tools/</link>
+            <guid isPermaLink="false">12558a00-8914-4a09-995f-5fd4f7fa5905</guid>
+            <pubDate>Tue, 16 Aug 2016 06:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin security is more than multisig]]></title>
+            <description><![CDATA[<article><h1>Bitcoin security is more than multisig</h1><p>Following the Bitfinex hack it's become apparent that people don't really understand bitcoin's multisig feature. There seems to be a lot of confusion over what multisig is and isn't, what it inherently does or does not do.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5f61712ab08c4447931cc500e8cef714/croprotate.jpeg?cropheight=304&cropwidth=400&degrees=0&input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-1J8Fmw0oES1cAj28siK6Ovw.jpeg&x=0&y=48"></article>]]></description>
+            <link>http://bravenewcoin.com/news/bitcoin-security-is-more-than-multisig/</link>
+            <guid isPermaLink="false">fe1e4d23-cea9-40d8-b1ee-0c4c3e9a3c9c</guid>
+            <pubDate>Tue, 16 Aug 2016 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NSA's Hacking Group Hacked! Bunch of Private Hacking Tools Leaked Online]]></title>
+            <description><![CDATA[<article><h1>NSA's Hacking Group Hacked! Bunch of Private Hacking Tools Leaked Online</h1><p>It seems like the NSA has been HACKED! An unknown hacker or a group of hackers just claimed to have hacked into " Equation Group" -- a cyber-attack group allegedly associated with the United States intelligence organization NSA -- and dumped a bunch of its hacking tools (malware, private exploits, and hacking tools) online.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3550ffa8ba990c64eb1a351de778e443/noop.png?input=https%3A%2F%2F2.bp.blogspot.com%2F-_YANTNdqS0M%2FV7H7c08SVgI%2FAAAAAAAApLs%2FvBdMflmleREiPRM04wCdA2jhq4pCDHANwCLcB%2Fs1600%2Fnsa-hacked.png"></article>]]></description>
+            <link>https://thehackernews.com/2016/08/nsa-hacking-tools.html</link>
+            <guid isPermaLink="false">8bfa5565-8da9-4d8e-9b8a-5deab312adfb</guid>
+            <pubDate>Tue, 16 Aug 2016 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is blockchain dead?]]></title>
+            <description><![CDATA[<article><h1>Is blockchain dead?</h1><p>Answer (1 of 2): From what i have read and know about it. Bitcoin and some other crypto currencies may die due to technical issues (limited no of transactions per second), frauds and security problems. But the concept of blockchain is much more valuable and there is lot of hope and talk in financ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/80b1aa101e41ccfcae999444d2c3324a/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-474217-200-zwcxhtgvljaxgmzkvklgejzxtnlxqjxc.jpeg"></article>]]></description>
+            <link>https://www.quora.com/Is-blockchain-dead</link>
+            <guid isPermaLink="false">e31f9282-e486-41da-853d-b25044749c3a</guid>
+            <pubDate>Tue, 16 Aug 2016 06:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Sluggish, But Technical Indicators Still Bullish - Bitcoinist.net]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Sluggish, But Technical Indicators Still Bullish - Bitcoinist.net</h1><p>Since our last price piece Also read: Bet on MMA with Bitcoin: UFC 202, McGregor vs. Diaz , Bitcoin was finding itself creeping along a downwards trajectory, dipping down to $560. However, having stabilized, the price seems to have stalled out around the $570 mark at press time.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/73ae637b3ff691268107ece0d8268a0f/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2Fbitcoin-august-14th-long1.jpg"></article>]]></description>
@@ -33,48 +75,6 @@
             <link>https://cointelegraph.com/news/despite-bearish-price-action-over-the-weekend-bitcoin-remains-in-a-trading-range</link>
             <guid isPermaLink="false">ddcfea94-372c-4e03-af79-7453a7c4f483</guid>
             <pubDate>Tue, 16 Aug 2016 02:10:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[As Bitcoin Debates Block Size, Multinationals Make Blockchain Progress]]></title>
-            <description><![CDATA[<article><h1>As Bitcoin Debates Block Size, Multinationals Make Blockchain Progress</h1><p>While the Bitcoin Community debates the merits of a bigger block size so as to accommodate more transactions per second (the current rate is approximately 7 transactions per second), the world's largest corporations - from financial institutions to technology firms - have entered into the blockchain industry with new ideas and protocols to ensure the proliferation of the blockchain.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/717bdd3b118b66d8787d3d0b538b65df/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FAs-Bitcoin-Debates-Block-Size-Multinationals-Make-Blockchain-Progress.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-block-size-blockchain/</link>
-            <guid isPermaLink="false">31c739fc-41bb-42a6-a485-117d1718de3a</guid>
-            <pubDate>Tue, 16 Aug 2016 02:10:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Denver Hosts 2nd Annual Crypto Cannabis Conference]]></title>
-            <description><![CDATA[<article><h1>Denver Hosts 2nd Annual Crypto Cannabis Conference</h1><p>the Also read: Cannabis Entrepreneurs Should Use Bitcoin as Legalization Grows Crypto Cannabis Conference is holding its second annual conference in Denver, Colorado - where cannabis is legalized for recreational use. The cannabis industry is growing exponentially in the U.S., and this year many states are on the path to legalize marijuana.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8d1082e5ba7b6c6d15fb63b7344a6ee0/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2F2nd-Annual-Crypto-Cannabis-Conference-Comes-To-Denver.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/denver-2nd-crypto-cannabis-conference/</link>
-            <guid isPermaLink="false">e17fd82e-a0f1-4a5e-9c51-cd390c58455f</guid>
-            <pubDate>Tue, 16 Aug 2016 02:10:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Anatomy of a Bitcoin Scam - Bitclub Network Analyzed]]></title>
-            <description><![CDATA[<article><h1>The Anatomy of a Bitcoin Scam - Bitclub Network Analyzed</h1><p>Over the past few weeks I have been seeing these ads for a company called "BitClub Network" on my Facebook feed.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ed91b69d58996a95b2fccc4756ee6be5/noop.png?input=https%3A%2F%2F99bitcoins.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fbcn-registration-809x1024.png"></article>]]></description>
-            <link>https://99bitcoins.com/anatomy-bitcoin-scam-bitclub-network-analyzed/</link>
-            <guid isPermaLink="false">58a5a873-a5c2-4c7b-b4a3-80478e39068d</guid>
-            <pubDate>Tue, 16 Aug 2016 02:10:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Exchange OKCoin Fined in Money Laundering Case - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Exchange OKCoin Fined in Money Laundering Case - NEWSBTC</h1><p>Chinese Bitcoin exchange OKCoin was recently fined for unknowingly aiding money laundering operations on its platform. The Beijing-based company, which records the maximum daily Bitcoin volume, has been ordered by the Heilongjiang Provincial Court to cough up 627,569 Yuan (around $94,000) in damages. As per the ruling, OKCoin had flawed AML and KYC policies in ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a233ac264fe885211777944b0d01195e/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F15142016%2FSupreme-China-Court.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/15/china-okcoin-exchange-fined/</link>
-            <guid isPermaLink="false">c56331fe-1769-47a3-ab80-02f98a1292d1</guid>
-            <pubDate>Tue, 16 Aug 2016 02:10:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MSG_CMPCT_BLOCK enum value is already in use · Issue #8500 · bitcoin/bitcoin]]></title>
-            <description><![CDATA[<article><h1>MSG_CMPCT_BLOCK enum value is already in use · Issue #8500 · bitcoin/bitcoin</h1><p>Compact blocks MSG_CMPCT_BLOCK enum value is already in use. It is used as MSG_THINBLOCK for xthin blocks. The existing type MSG_THINBLOCK is already in use and widely deployed: In Bitcoin XT, Bit...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b696cc3884d30c2452a19db83e9ae3bd/noop?input=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F92707%3Fv%3D3%26s%3D400"></article>]]></description>
-            <link>https://github.com/bitcoin/bitcoin/issues/8500</link>
-            <guid isPermaLink="false">5e991856-7269-476c-9e76-d6c2ae10d87a</guid>
-            <pubDate>Tue, 16 Aug 2016 02:10:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[United Nations Wants Volunteers to Spread Bitcoin in Africa]]></title>
-            <description><![CDATA[<article><h1>United Nations Wants Volunteers to Spread Bitcoin in Africa</h1><p>The United Nations is seeking applications for volunteers to help spread Bitcoin adoption in Africa. Posted in an ad on OnlineVolunteering.org, the UN's volunteer portal, the post calls for qualified candidates to volunteer their time to help educate the youth of Sierra Leone about Bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/da3f275c724400028a0596fa88784692/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNjAwYWY0ZGU1MTU3NGQzOTJiZjQ5ZTg5OTBiNTkzOC5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/united-nations-wants-volunteers-to-spread-bitcoin-in-africa</link>
-            <guid isPermaLink="false">1e734a60-7f9b-469d-b47a-b4dbee58409d</guid>
-            <pubDate>Tue, 16 Aug 2016 02:10:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
