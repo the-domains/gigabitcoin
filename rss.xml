@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Aug 2016 19:37:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2016 19:37:25 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Watch; Stop Loss Hit! - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Watch; Stop Loss Hit! - NEWSBTC</h1><p>Here's a look at what we are focusing on in the bitcoin price this evening. The markets have just about drawn to a close now out of Europe, and once again we had a pretty active day in the bitcoin price.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/525557434f360b1ec01130f96e206ab9/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F16190823%2FScreen-Shot-2016-08-16-at-20.02.01.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/16/bitcoin-price-watch-stop-loss-hit-2/</link>
+            <guid isPermaLink="false">cc405d98-bfb7-40be-b462-e98a4f9b2e79</guid>
+            <pubDate>Tue, 16 Aug 2016 19:36:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is the Bitcoin Price in for a Massive Bull Run? - Bitcoinist.net]]></title>
+            <description><![CDATA[<article><h1>Is the Bitcoin Price in for a Massive Bull Run? - Bitcoinist.net</h1><p>Following a heavy drop, the bitcoin price showed signs of recovery last week when it ascended to $590. Now, bitcoin has dropped again and is hovering around $580 at press time. Also read: Silk Road Auction Could Help Bitcoin Price Bounce Back Bitcoin has likely found a comfortable place to reside for the time being.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0fc383d69d8bc0d44cf451c9b4b7cd4d/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2Fbear-bull-finance.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/bitcoin-price-massive-bull-run/</link>
+            <guid isPermaLink="false">ee904350-fc0c-4e16-ab88-ee4ef3c3e1cb</guid>
+            <pubDate>Tue, 16 Aug 2016 19:36:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Companies Who Reimburse Losses Stay Alive]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Companies Who Reimburse Losses Stay Alive</h1><p>A recent blog post from Xapo called Also read: Bitfinex 'Leaning Towards' Bail-In, Haircut for All BTC Traders "What happens if Xapo gets hacked?" the company discusses the unfortunate Bitfinex heist that took place on August 2, 2016. Xapo says that if they were compromised the company would cover the losses from its own reserve.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3ce4118593302f2c70358cfecc3e4a19/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FBitcoin-Companies-Who-Reimburse-losses-Stay-Alive.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/bitcoin-reimburse-losses-stay-alive/</link>
+            <guid isPermaLink="false">61fb36d9-5b49-4a48-b4d8-02fdbfe47e05</guid>
+            <pubDate>Tue, 16 Aug 2016 19:36:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[World Economic Forum Examines How Blockchain Can Reshape Financial Services]]></title>
             <description><![CDATA[<article><h1>World Economic Forum Examines How Blockchain Can Reshape Financial Services</h1><p>On August 11, 2016, the World Economic Forum (WEF) released a 300-page report entitled " The future of financial infrastructure: An ambitious look at how blockchain can reshape financial services," exploring how the financial sector "could overcome current-state pain points through distributed ledger technology (DLT)."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/02f2bddd8faaa9084703a6c5b2f8aea7/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fworld-economic-forum-examines-how-blockchain-can-reshape-financial-services.jpg"></article>]]></description>
@@ -53,27 +74,6 @@
             <description><![CDATA[<article><h1>Airbitz Opens Bitcoin to Third Party Apps with Plugin API</h1><p>The San Diego-based wallet company Airbitz has just announced the release of its Bitcoin wallet Plugin API for third party applications and services.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/343590fb2dc04aaad43fe025069b5807/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FAirbitz-Releases-Bitcoin-Wallet-Plugin-API-for-Third-Parties.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/airbitz-bitcoin-third-apps-plugin-api/</link>
             <guid isPermaLink="false">1816d204-9fad-4cb8-ba31-1562c1af01db</guid>
-            <pubDate>Tue, 16 Aug 2016 16:49:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sending confidential transaction amount to the receiver]]></title>
-            <description><![CDATA[<article><h1>Sending confidential transaction amount to the receiver</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top In confidential transaction proposed by Maxwell, instead of transaction amounts we use pedersen commitments to hide the amount and add the range proof to the transaction to prevent overflow.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/48064/sending-confidential-transaction-amount-to-the-receiver</link>
-            <guid isPermaLink="false">80b96d5b-12ff-4484-bf68-11eb01accec6</guid>
-            <pubDate>Tue, 16 Aug 2016 16:49:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Study Shows Bitcoin and Blockchain Investments Near $300 Million in First Six Months]]></title>
-            <description><![CDATA[<article><h1>Study Shows Bitcoin and Blockchain Investments Near $300 Million in First Six Months</h1><p>A study conducted by Juniper Research has found that the total value of Venture Capital (VC) blockchain and bitcoin investments totalled $290 million in the first six months of 2016.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9aec0aa4d12f55c6f35c5cfb41f1c93d/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FStudy-Shows-Bitcoin-and-Blockchain-Investments-Near-300-Million-in-First-Six-Months.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/study-shows-bitcoin-blockchain-investments-near-300-million-first-six-months/</link>
-            <guid isPermaLink="false">0f070058-d5e6-416e-999f-2034ca7a7b7f</guid>
-            <pubDate>Tue, 16 Aug 2016 16:49:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kraken Сites Phishing Not Breach on its Exchange]]></title>
-            <description><![CDATA[<article><h1>Kraken Сites Phishing Not Breach on its Exchange</h1><p>The Kraken support team has drawn to the attention of Cointelegraph its recent blogpost in response to various claims of compromised accounts and stolen funds on the exchange. In the last month, CoinTelegraph received two separate mails from alleged Kraken users who claim their accounts were compromised after a reported security breach on the Kraken system.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9a6aa97100ae61dbf1fe2ed5fe1323c1/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81NWFjYjkyYzk0N2ZiNTgxYjU5NGViNDY3NGYzNzRjMi5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/kraken-sites-phishing-not-breach-on-its-exchange</link>
-            <guid isPermaLink="false">53d43de6-c963-4843-b3b2-31e496ad5be4</guid>
             <pubDate>Tue, 16 Aug 2016 16:49:17 GMT</pubDate>
         </item>
     </channel>
