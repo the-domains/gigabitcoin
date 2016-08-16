@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Aug 2016 14:27:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2016 14:27:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jaxx Wallet Now Stores DASH, Advanced Features Coming]]></title>
+            <description><![CDATA[<article><h1>Jaxx Wallet Now Stores DASH, Advanced Features Coming</h1><p>Jaxx will now officially support DASH as one of their 4 cryptocurrency assets in one wallet. Meanwhile, the price of Dash has tested new heights of over $14 USD on the news.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7774641c538e76034d03c68912146fe6/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F07%2FMycelium-Wallet-Will-Soon-Integrate-Dash.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/jaxx-dash-features-coming/</link>
+            <guid isPermaLink="false">516589c2-b10f-439c-a83f-d769bda88272</guid>
+            <pubDate>Tue, 16 Aug 2016 14:26:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[UN Looking For Bitcoin Gurus In Africa | PYMNTS.com]]></title>
             <description><![CDATA[<article><h1>UN Looking For Bitcoin Gurus In Africa | PYMNTS.com</h1><p>Bitcoin is going more mainstream in Africa, if the United Nations has anything to do with it. On the United Nation's OnlineVolunteering.org website, the agency said it is looking for volunteers to help boost the adoption of the digital currency in Africa.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aad52974f2a0ebe3ae9cba7c6cc7f8bc/noop.jpg?input=http%3A%2F%2Fcdn.pymnts.com%2Fwp-content%2Fuploads%2F2016%2F08%2FUN-bitcoinvolunteers-1000x600.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Will Bitcoin Ever Make It To The Olympics?</h1><p>The 2016 Rio Olympics present a compelling platform to promote Bitcoin in Brazil, as well as on an international scale. Even though most people would look no further than using Bitcoin for gambling purposes, there are plenty of opportunities waiting to be explored.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/726c9dfc15083a43a397e014e3f1bcdf/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_281637872.jpg"></article>]]></description>
             <link>http://themerkle.com/will-bitcoin-ever-make-it-to-the-olympics/</link>
             <guid isPermaLink="false">80bbac99-923a-400f-a7b1-4ed954a27d46</guid>
-            <pubDate>Tue, 16 Aug 2016 14:26:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tether and its Partners To Disrupt Conventional Trading On Bitcoin Blockchain]]></title>
-            <description><![CDATA[<article><h1>Tether and its Partners To Disrupt Conventional Trading On Bitcoin Blockchain</h1><p>In disrupting the legacy financial systems, Tether Inc. in conjunction with partner exchanges have announced the launch of EURT, a "euro-coin" which is tradeable and transferable over the Bitcoin blockchain. The partners involved in this latest development are Omnipotent Layer Foundation, who specialise in developing Blockchain-based technologies, and peer-to-peer cryptocurrency platform, OpenLedger.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2c0e71c31a016c0adc6f29f230ef29c8/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xNjVjMmE0NmUwYzNhMmZiOTY1YjFlZmJjYWQyN2RiYS5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/tether-and-its-partners-to-disrupt-conventional-trading-on-bitcoin-blockchain</link>
-            <guid isPermaLink="false">79e6045e-35f5-493f-9778-ede4afdb9098</guid>
             <pubDate>Tue, 16 Aug 2016 14:26:49 GMT</pubDate>
         </item>
     </channel>
