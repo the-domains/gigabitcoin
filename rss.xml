@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Aug 2016 19:37:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2016 19:37:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[World Economic Forum Examines How Blockchain Can Reshape Financial Services]]></title>
+            <description><![CDATA[<article><h1>World Economic Forum Examines How Blockchain Can Reshape Financial Services</h1><p>On August 11, 2016, the World Economic Forum (WEF) released a 300-page report entitled " The future of financial infrastructure: An ambitious look at how blockchain can reshape financial services," exploring how the financial sector "could overcome current-state pain points through distributed ledger technology (DLT)."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/02f2bddd8faaa9084703a6c5b2f8aea7/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fworld-economic-forum-examines-how-blockchain-can-reshape-financial-services.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/world-economic-forum-examines-how-blockchain-can-reshape-financial-services-1471367839</link>
+            <guid isPermaLink="false">bf723c1c-8de6-4893-9950-72189a461a03</guid>
+            <pubDate>Tue, 16 Aug 2016 19:36:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[UK Fraud Office Comments on 'Increasing' Bitcoin Use By Criminals - CoinDesk]]></title>
             <description><![CDATA[<article><h1>UK Fraud Office Comments on 'Increasing' Bitcoin Use By Criminals - CoinDesk</h1><p>A criminal investigatory unit in the UK has said that it is seeing an increase in the use of bitcoin by criminals. In response to an information request, the UK Serious Fraud Office, an independent agency within the UK government, disclosed the stance in new comments addressing whether it believes bitcoin is "being used" in criminal activity.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e0c769053184ba8d6153401887729a8c/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FCrime.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Kraken Сites Phishing Not Breach on its Exchange</h1><p>The Kraken support team has drawn to the attention of Cointelegraph its recent blogpost in response to various claims of compromised accounts and stolen funds on the exchange. In the last month, CoinTelegraph received two separate mails from alleged Kraken users who claim their accounts were compromised after a reported security breach on the Kraken system.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9a6aa97100ae61dbf1fe2ed5fe1323c1/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81NWFjYjkyYzk0N2ZiNTgxYjU5NGViNDY3NGYzNzRjMi5qcGc%3D.jpg"></article>]]></description>
             <link>https://cointelegraph.com/news/kraken-sites-phishing-not-breach-on-its-exchange</link>
             <guid isPermaLink="false">53d43de6-c963-4843-b3b2-31e496ad5be4</guid>
-            <pubDate>Tue, 16 Aug 2016 16:49:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tether Launches 'Euro-Coin' Trading on the Bitcoin Blockchain]]></title>
-            <description><![CDATA[<article><h1>Tether Launches 'Euro-Coin' Trading on the Bitcoin Blockchain</h1><p>Just like its USD counterpart, Tether Euros (EURT) bridge fiat currency with the Bitcoin blockchain along with the ability to use for SEPA transfer, debit card payments as well as trading EURT/USDT pairs over OmniDex. Also read: Monetizing the Web with Bitcoin is a Win/Win Tether Inc.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b7eed96b16859553e5b79198562e8005/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fbitcoin-europe-eu.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/tether-euro-coin-trading-bitcoin/</link>
-            <guid isPermaLink="false">f18367df-e682-41d6-aec8-ede297710bd1</guid>
             <pubDate>Tue, 16 Aug 2016 16:49:17 GMT</pubDate>
         </item>
     </channel>
