@@ -4,36 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Aug 2016 02:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2016 02:11:16 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The Anatomy of a Bitcoin Scam - Bitclub Network Analyzed]]></title>
-            <description><![CDATA[<article><h1>The Anatomy of a Bitcoin Scam - Bitclub Network Analyzed</h1><p>Over the past few weeks I have been seeing these ads for a company called "BitClub Network" on my Facebook feed.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ed91b69d58996a95b2fccc4756ee6be5/noop.png?input=https%3A%2F%2F99bitcoins.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fbcn-registration-809x1024.png"></article>]]></description>
-            <link>https://99bitcoins.com/anatomy-bitcoin-scam-bitclub-network-analyzed/</link>
-            <guid isPermaLink="false">58a5a873-a5c2-4c7b-b4a3-80478e39068d</guid>
-            <pubDate>Tue, 16 Aug 2016 02:10:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Exchange OKCoin Fined in Money Laundering Case - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Exchange OKCoin Fined in Money Laundering Case - NEWSBTC</h1><p>Chinese Bitcoin exchange OKCoin was recently fined for unknowingly aiding money laundering operations on its platform. The Beijing-based company, which records the maximum daily Bitcoin volume, has been ordered by the Heilongjiang Provincial Court to cough up 627,569 Yuan (around $94,000) in damages. As per the ruling, OKCoin had flawed AML and KYC policies in ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a233ac264fe885211777944b0d01195e/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F15142016%2FSupreme-China-Court.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/15/china-okcoin-exchange-fined/</link>
-            <guid isPermaLink="false">c56331fe-1769-47a3-ab80-02f98a1292d1</guid>
-            <pubDate>Tue, 16 Aug 2016 02:10:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MSG_CMPCT_BLOCK enum value is already in use · Issue #8500 · bitcoin/bitcoin]]></title>
-            <description><![CDATA[<article><h1>MSG_CMPCT_BLOCK enum value is already in use · Issue #8500 · bitcoin/bitcoin</h1><p>Compact blocks MSG_CMPCT_BLOCK enum value is already in use. It is used as MSG_THINBLOCK for xthin blocks. The existing type MSG_THINBLOCK is already in use and widely deployed: In Bitcoin XT, Bit...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b696cc3884d30c2452a19db83e9ae3bd/noop?input=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F92707%3Fv%3D3%26s%3D400"></article>]]></description>
-            <link>https://github.com/bitcoin/bitcoin/issues/8500</link>
-            <guid isPermaLink="false">5e991856-7269-476c-9e76-d6c2ae10d87a</guid>
-            <pubDate>Tue, 16 Aug 2016 02:10:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[United Nations Wants Volunteers to Spread Bitcoin in Africa]]></title>
-            <description><![CDATA[<article><h1>United Nations Wants Volunteers to Spread Bitcoin in Africa</h1><p>The United Nations is seeking applications for volunteers to help spread Bitcoin adoption in Africa. Posted in an ad on OnlineVolunteering.org, the UN's volunteer portal, the post calls for qualified candidates to volunteer their time to help educate the youth of Sierra Leone about Bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/da3f275c724400028a0596fa88784692/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNjAwYWY0ZGU1MTU3NGQzOTJiZjQ5ZTg5OTBiNTkzOC5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/united-nations-wants-volunteers-to-spread-bitcoin-in-africa</link>
-            <guid isPermaLink="false">1e734a60-7f9b-469d-b47a-b4dbee58409d</guid>
-            <pubDate>Tue, 16 Aug 2016 02:10:20 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Video Casino - A traditional Bitcoin Casino - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitcoin Video Casino - A traditional Bitcoin Casino - NEWSBTC</h1><p>Bitcoinvideocasino.com is a provably fair gambling site offering the best traditional casino experience in the whole Bitcoin gambling Industry. Players can try out any of the site games first with test credits before venturing with Bitcoin. Bitcoinvideocasino.com also offers users the chance to be able to gamble with a completely anonymous profile.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2ee7cf109bbc9dd7bd8a3ae9baaf32292b27479.jpg"></article>]]></description>
@@ -75,6 +47,34 @@
             <link>https://cointelegraph.com/news/is-blockchain-the-missing-link-for-internet-of-things</link>
             <guid isPermaLink="false">24e4c9aa-8e3f-488a-9af5-343acd72c94a</guid>
             <pubDate>Tue, 16 Aug 2016 02:10:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UN Seeks Two 'Tech Geeks' for Bitcoin Fundraising]]></title>
+            <description><![CDATA[<article><h1>UN Seeks Two 'Tech Geeks' for Bitcoin Fundraising</h1><p>The United Nations Volunteers (UNV) program is looking for two volunteers to help one of the organizations they are working with to research and train two of their staff members on how to use bitcoins for fundraising immediately.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c6a15f44e61b949510a5cc3a3d2fa347/noop.png?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fglobe.png"></article>]]></description>
+            <link>https://news.bitcoin.com/un-seeks-two-geeks-bitcoin-fundraising/</link>
+            <guid isPermaLink="false">48444cd6-c137-462b-a6d5-5f7f975f741e</guid>
+            <pubDate>Tue, 16 Aug 2016 02:10:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cryptsy CEO Denies He Stole From His Own Exchange - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Cryptsy CEO Denies He Stole From His Own Exchange - CoinDesk</h1><p>Cryptsy CEO Paul Vernon has fired back at allegations he moved millions of dollars in funds from the now-defunct digital currency exchange to personal accounts. In new statements, Vernon told CoinDesk that the finding, issued by the court-appointed receiver earlier this month, is "misleading", arguing instead that the contested money movements came as a result of mingling business and personal accounts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4495679ee83d7eb8d0c0b698bf8950b7/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FVernon.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/cryptsy-ceo-exchange-stole-denies-charges/</link>
+            <guid isPermaLink="false">ae784dae-575e-4fdb-a34d-a1e20834af57</guid>
+            <pubDate>Tue, 16 Aug 2016 02:10:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vegas Casino - Get a Welcome Bonus up to 2 BTC - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Vegas Casino - Get a Welcome Bonus up to 2 BTC - NEWSBTC</h1><p>Online gambling is one of the most successful industries in the web. Since Bitcoin first appeared there have been a lot of gambling sites popping out. Many of these sites have seen the potential of this new digital currency and tried to implement a new business model where Bitcoin was the central key.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a0947051103bea1e76ed70a8d0d0bc88/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F14155016%2FVegasCasino1.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/15/vegas-casino-get-welcome-bonus-2-btc/</link>
+            <guid isPermaLink="false">65bb8d0e-771f-4522-8478-702f26f8e9d0</guid>
+            <pubDate>Tue, 16 Aug 2016 02:10:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bankrupt KnCMiner Bought By an Unknown Party - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bankrupt KnCMiner Bought By an Unknown Party - NEWSBTC</h1><p>The now bankrupt Swedish Bitcoin company, KnCMiner has been bought by an unknown buyer. Further information awaited... There is always someone ready to make the best out of things that didn't work out for others. KnCMiner seems to have found that someone. According to recent reports, the Swedish Bitcoin mining firm has been purchased by an unknown buyer.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/afc39f62a961dfdd8372bd34025da20f/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2015%2F12%2F13100022%2FKnC-Miner-to-Setup-Another-Data-Center-in-the-Arctic.-newsbtc-bitcoin-news.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/15/kncminer-bought-by-unknown-party/</link>
+            <guid isPermaLink="false">4d9451d2-23b5-4e4c-82fe-12a6c60e6aa8</guid>
+            <pubDate>Tue, 16 Aug 2016 02:10:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
