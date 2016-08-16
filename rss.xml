@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Aug 2016 02:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2016 02:11:39 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MSG_CMPCT_BLOCK enum value is already in use · Issue #8500 · bitcoin/bitcoin]]></title>
+            <description><![CDATA[<article><h1>MSG_CMPCT_BLOCK enum value is already in use · Issue #8500 · bitcoin/bitcoin</h1><p>Compact blocks MSG_CMPCT_BLOCK enum value is already in use. It is used as MSG_THINBLOCK for xthin blocks. The existing type MSG_THINBLOCK is already in use and widely deployed: In Bitcoin XT, Bit...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b696cc3884d30c2452a19db83e9ae3bd/noop?input=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F92707%3Fv%3D3%26s%3D400"></article>]]></description>
+            <link>https://github.com/bitcoin/bitcoin/issues/8500</link>
+            <guid isPermaLink="false">5e991856-7269-476c-9e76-d6c2ae10d87a</guid>
+            <pubDate>Tue, 16 Aug 2016 02:10:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[United Nations Wants Volunteers to Spread Bitcoin in Africa]]></title>
             <description><![CDATA[<article><h1>United Nations Wants Volunteers to Spread Bitcoin in Africa</h1><p>The United Nations is seeking applications for volunteers to help spread Bitcoin adoption in Africa. Posted in an ad on OnlineVolunteering.org, the UN's volunteer portal, the post calls for qualified candidates to volunteer their time to help educate the youth of Sierra Leone about Bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/da3f275c724400028a0596fa88784692/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNjAwYWY0ZGU1MTU3NGQzOTJiZjQ5ZTg5OTBiNTkzOC5qcGc%3D.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Cryptsy CEO Denies He Stole From His Own Exchange - CoinDesk</h1><p>Cryptsy CEO Paul Vernon has fired back at allegations he moved millions of dollars in funds from the now-defunct digital currency exchange to personal accounts. In new statements, Vernon told CoinDesk that the finding, issued by the court-appointed receiver earlier this month, is "misleading", arguing instead that the contested money movements came as a result of mingling business and personal accounts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4495679ee83d7eb8d0c0b698bf8950b7/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FVernon.jpg"></article>]]></description>
             <link>http://www.coindesk.com/cryptsy-ceo-exchange-stole-denies-charges/</link>
             <guid isPermaLink="false">ae784dae-575e-4fdb-a34d-a1e20834af57</guid>
-            <pubDate>Tue, 16 Aug 2016 02:10:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vegas Casino - Get a Welcome Bonus up to 2 BTC - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Vegas Casino - Get a Welcome Bonus up to 2 BTC - NEWSBTC</h1><p>Online gambling is one of the most successful industries in the web. Since Bitcoin first appeared there have been a lot of gambling sites popping out. Many of these sites have seen the potential of this new digital currency and tried to implement a new business model where Bitcoin was the central key.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a0947051103bea1e76ed70a8d0d0bc88/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F14155016%2FVegasCasino1.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/15/vegas-casino-get-welcome-bonus-2-btc/</link>
-            <guid isPermaLink="false">65bb8d0e-771f-4522-8478-702f26f8e9d0</guid>
             <pubDate>Tue, 16 Aug 2016 02:10:18 GMT</pubDate>
         </item>
     </channel>
