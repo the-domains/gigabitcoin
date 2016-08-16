@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Aug 2016 19:37:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2016 19:37:27 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Our CoinShuffle implementation is finally working! https://live.blockcypher.com/btc-testnet/tx/fe68ebbbec06746a26d4038b500b3b9450b91f9e5c0935304b18fe13ec3eccbd/ ...</p>]]></description>
+            <link>https://twitter.com/myceliumcom/status/765214573616037888</link>
+            <guid isPermaLink="false">4b348a6f-1f59-4643-9f9b-4b774a5c8ac5</guid>
+            <pubDate>Tue, 16 Aug 2016 19:36:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin naysers are wrong, says former SEC chief | News.Markets]]></title>
+            <description><![CDATA[<article><h1>Bitcoin naysers are wrong, says former SEC chief | News.Markets</h1><p>Those predicting its imminent demise are mistaken, says Levitt. A former chairman of the US Securities and Exchange Commission has launched a stout defence of the bitcoin virtual currency against those who forecast that it is certain to fail. Writing in American Banker, Arthur Levitt says: "Naysayers love to nay.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bfa8b2323e7d1a6253712e9769472de2/noop.jpg?input=https%3A%2F%2Fnews.markets%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_197898926.jpg"></article>]]></description>
+            <link>https://news.markets/bitcoin/bitcoin-naysers-wrong-says-former-sec-chief-24242/</link>
+            <guid isPermaLink="false">d7f9a841-86fb-4bf8-9d3f-d1d2bc7dfce9</guid>
+            <pubDate>Tue, 16 Aug 2016 19:36:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How is Bitcoin Actually Stolen? Theft Prevention]]></title>
+            <description><![CDATA[<article><h1>How is Bitcoin Actually Stolen? Theft Prevention</h1><p>The successful US$65 million dollar hacking attack launched on the Bitfinex trading platform left the community to question the security measures of the multi-signature technology implemented by the exchange. It also triggered a relatively simple yet important argument; how is Bitcoin actually stolen? To begin with, let's tackle the fundamentals of the security breach of Bitfinex.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d0654d0ce6151840847df640b2911813/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lODM4ZDZkNzNhMzNiZWEyY2Q4ZGMyZTNhOGMxMjc5OS5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/how-is-bitcoin-actually-stolen-theft-prevention</link>
+            <guid isPermaLink="false">ae4d068e-66f4-41a5-b288-68ef8fe51d75</guid>
+            <pubDate>Tue, 16 Aug 2016 19:36:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Watch; Stop Loss Hit! - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Watch; Stop Loss Hit! - NEWSBTC</h1><p>Here's a look at what we are focusing on in the bitcoin price this evening. The markets have just about drawn to a close now out of Europe, and once again we had a pretty active day in the bitcoin price.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/525557434f360b1ec01130f96e206ab9/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F16190823%2FScreen-Shot-2016-08-16-at-20.02.01.png"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>https://letstalkbitcoin.com/blog/post/eb144-charles-hoskinson-alex-chepurnoy-iohk-scorex-and-the-case-for-ethereum-classic</link>
             <guid isPermaLink="false">ae503752-569a-4058-88e4-7764a4879710</guid>
             <pubDate>Tue, 16 Aug 2016 16:49:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMPORTANT: A fake breadwallet app was just added to the Apple Store. Please be cautious, we're contacting Apple about it. * /r/Bitcoin]]></title>
-            <description><![CDATA[<article><h1>IMPORTANT: A fake breadwallet app was just added to the Apple Store. Please be cautious, we're contacting Apple about it. * /r/Bitcoin</h1><p>Edit**: The fake app was taken off the store The impersonator app uses the same title and icon as the real app. The real app has breadwallet...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/45753a9c85bec937d71c93cb61398bbd/croprotate.jpg?cropheight=168&cropwidth=176&degrees=0&input=https%3A%2F%2Fi.redditmedia.com%2FaB6Z0IyJwPTtBRgyA-DL4YCJj35Kf0ovtJaF_xIAfE4.jpg%3Fw%3D320%26s%3Dc29702a443f310f3ec9516f2193fa8c5&x=72&y=0"></article>]]></description>
-            <link>https://www.reddit.com/r/Bitcoin/comments/4x0iga/important_a_fake_breadwallet_app_was_just_added/</link>
-            <guid isPermaLink="false">263e1c5c-a9a9-47aa-8e08-9dd1f9f92661</guid>
-            <pubDate>Tue, 16 Aug 2016 16:49:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Does the Open-Source Model Enable Bitcoin-Stealing Wallet Apps?]]></title>
-            <description><![CDATA[<article><h1>Does the Open-Source Model Enable Bitcoin-Stealing Wallet Apps?</h1><p>According to an Apple Insider report published on August 9, a disturbing trend has emerged on Apple's App Store as a series of malicious copycats of well-known Bitcoin wallet apps became available to download. Some of the fake wallets looked quite similar to the real thing but were specifically tweaked to steal bitcoins from unsuspecting users.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5e32a7d5d980d35e1f9636505a8351e9/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fdoes-the-open-source-model-enable-bitcoin-stealing-wallet-apps.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/does-the-open-source-model-enable-bitcoin-stealing-wallet-apps-1471355655</link>
-            <guid isPermaLink="false">99f6dc37-b399-4258-9eff-af2cd4a803b7</guid>
-            <pubDate>Tue, 16 Aug 2016 16:49:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Airbitz Opens Bitcoin to Third Party Apps with Plugin API]]></title>
-            <description><![CDATA[<article><h1>Airbitz Opens Bitcoin to Third Party Apps with Plugin API</h1><p>The San Diego-based wallet company Airbitz has just announced the release of its Bitcoin wallet Plugin API for third party applications and services.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/343590fb2dc04aaad43fe025069b5807/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FAirbitz-Releases-Bitcoin-Wallet-Plugin-API-for-Third-Parties.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/airbitz-bitcoin-third-apps-plugin-api/</link>
-            <guid isPermaLink="false">1816d204-9fad-4cb8-ba31-1562c1af01db</guid>
-            <pubDate>Tue, 16 Aug 2016 16:49:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
