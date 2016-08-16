@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Aug 2016 06:00:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2016 06:00:48 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dash Supply Cap?]]></title>
+            <description><![CDATA[<article><h1>Dash Supply Cap?</h1><p>A while back, a friend told me dash had the same supply limit that bitcoin had of 21 mil. I read on wiki recently that it's now 19 mil. Estimated 19 million coins maximum, with a 7,1% decrease...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/48048/dash-supply-cap</link>
+            <guid isPermaLink="false">6fd2adac-4c51-42b0-93e2-a45439915cc9</guid>
+            <pubDate>Tue, 16 Aug 2016 06:00:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article><img src="https://i.redd.it/vmbkfv9mp5fx.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>New KnCMiner Owners Seek to Revive Bitcoin Firm With Acquisition - CoinDesk</h1><p>A preliminary sale that would find bitcoin mining firm KnCMiner continuing under new ownership has been approved, according to those close to the deal. Speaking to CoinDesk, court-appointed receiver Nils Åberg today confirmed that a sales agreement was reached on Friday with a Swedish firm called GoGreenLight.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/888b9bb92e3566512cb0ba2bca9b9f90/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2014%2F06%2Fkncminer-cloud-mining.jpg"></article>]]></description>
             <link>http://www.coindesk.com/knc-miner-acquisition-gogreenlight/</link>
             <guid isPermaLink="false">ae29d103-de32-44f7-b3b5-231e3440a79c</guid>
-            <pubDate>Tue, 16 Aug 2016 02:10:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tickets Are On Sale For Bitcoin Scalability Workshop In Italy]]></title>
-            <description><![CDATA[<article><h1>Tickets Are On Sale For Bitcoin Scalability Workshop In Italy</h1><p>It appears as if a new Scaling Bitcoin event has been scheduled for October 8th and 9th of 2016. This new event will take place in Milan, Italy, and solely focus on Bitcoin scalability workshops. It is the third time a Scaling Bitcoin Workshop will be held.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3b1cc440dc93d9e766d5e27b8cbb980b/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_230282092.jpg"></article>]]></description>
-            <link>http://themerkle.com/tickets-are-on-sale-for-bitcoin-scalability-workshop-in-italy/</link>
-            <guid isPermaLink="false">ed06f608-03c9-473b-b663-c4f90819f1a7</guid>
             <pubDate>Tue, 16 Aug 2016 02:10:21 GMT</pubDate>
         </item>
     </channel>
