@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Aug 2016 02:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2016 02:12:07 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Anatomy of a Bitcoin Scam - Bitclub Network Analyzed]]></title>
+            <description><![CDATA[<article><h1>The Anatomy of a Bitcoin Scam - Bitclub Network Analyzed</h1><p>Over the past few weeks I have been seeing these ads for a company called "BitClub Network" on my Facebook feed.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ed91b69d58996a95b2fccc4756ee6be5/noop.png?input=https%3A%2F%2F99bitcoins.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fbcn-registration-809x1024.png"></article>]]></description>
+            <link>https://99bitcoins.com/anatomy-bitcoin-scam-bitclub-network-analyzed/</link>
+            <guid isPermaLink="false">58a5a873-a5c2-4c7b-b4a3-80478e39068d</guid>
+            <pubDate>Tue, 16 Aug 2016 02:10:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Exchange OKCoin Fined in Money Laundering Case - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Exchange OKCoin Fined in Money Laundering Case - NEWSBTC</h1><p>Chinese Bitcoin exchange OKCoin was recently fined for unknowingly aiding money laundering operations on its platform. The Beijing-based company, which records the maximum daily Bitcoin volume, has been ordered by the Heilongjiang Provincial Court to cough up 627,569 Yuan (around $94,000) in damages. As per the ruling, OKCoin had flawed AML and KYC policies in ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a233ac264fe885211777944b0d01195e/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F15142016%2FSupreme-China-Court.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/15/china-okcoin-exchange-fined/</link>
+            <guid isPermaLink="false">c56331fe-1769-47a3-ab80-02f98a1292d1</guid>
+            <pubDate>Tue, 16 Aug 2016 02:10:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MSG_CMPCT_BLOCK enum value is already in use · Issue #8500 · bitcoin/bitcoin]]></title>
             <description><![CDATA[<article><h1>MSG_CMPCT_BLOCK enum value is already in use · Issue #8500 · bitcoin/bitcoin</h1><p>Compact blocks MSG_CMPCT_BLOCK enum value is already in use. It is used as MSG_THINBLOCK for xthin blocks. The existing type MSG_THINBLOCK is already in use and widely deployed: In Bitcoin XT, Bit...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b696cc3884d30c2452a19db83e9ae3bd/noop?input=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F92707%3Fv%3D3%26s%3D400"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://cointelegraph.com/news/is-blockchain-the-missing-link-for-internet-of-things</link>
             <guid isPermaLink="false">24e4c9aa-8e3f-488a-9af5-343acd72c94a</guid>
             <pubDate>Tue, 16 Aug 2016 02:10:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UN Seeks Two 'Tech Geeks' for Bitcoin Fundraising]]></title>
-            <description><![CDATA[<article><h1>UN Seeks Two 'Tech Geeks' for Bitcoin Fundraising</h1><p>The United Nations Volunteers (UNV) program is looking for two volunteers to help one of the organizations they are working with to research and train two of their staff members on how to use bitcoins for fundraising immediately.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c6a15f44e61b949510a5cc3a3d2fa347/noop.png?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fglobe.png"></article>]]></description>
-            <link>https://news.bitcoin.com/un-seeks-two-geeks-bitcoin-fundraising/</link>
-            <guid isPermaLink="false">48444cd6-c137-462b-a6d5-5f7f975f741e</guid>
-            <pubDate>Tue, 16 Aug 2016 02:10:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cryptsy CEO Denies He Stole From His Own Exchange - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Cryptsy CEO Denies He Stole From His Own Exchange - CoinDesk</h1><p>Cryptsy CEO Paul Vernon has fired back at allegations he moved millions of dollars in funds from the now-defunct digital currency exchange to personal accounts. In new statements, Vernon told CoinDesk that the finding, issued by the court-appointed receiver earlier this month, is "misleading", arguing instead that the contested money movements came as a result of mingling business and personal accounts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4495679ee83d7eb8d0c0b698bf8950b7/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FVernon.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/cryptsy-ceo-exchange-stole-denies-charges/</link>
-            <guid isPermaLink="false">ae784dae-575e-4fdb-a34d-a1e20834af57</guid>
-            <pubDate>Tue, 16 Aug 2016 02:10:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
