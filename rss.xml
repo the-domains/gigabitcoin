@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Aug 2016 06:00:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2016 06:00:42 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[NSA's Hacking Group Hacked! Bunch of Private Hacking Tools Leaked Online]]></title>
-            <description><![CDATA[<article><h1>NSA's Hacking Group Hacked! Bunch of Private Hacking Tools Leaked Online</h1><p>It seems like the NSA has been HACKED! An unknown hacker or a group of hackers just claimed to have hacked into " Equation Group" -- a cyber-attack group allegedly associated with the United States intelligence organization NSA -- and dumped a bunch of its hacking tools (malware, private exploits, and hacking tools) online.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3550ffa8ba990c64eb1a351de778e443/noop.png?input=https%3A%2F%2F2.bp.blogspot.com%2F-_YANTNdqS0M%2FV7H7c08SVgI%2FAAAAAAAApLs%2FvBdMflmleREiPRM04wCdA2jhq4pCDHANwCLcB%2Fs1600%2Fnsa-hacked.png"></article>]]></description>
-            <link>https://thehackernews.com/2016/08/nsa-hacking-tools.html</link>
-            <guid isPermaLink="false">8bfa5565-8da9-4d8e-9b8a-5deab312adfb</guid>
-            <pubDate>Tue, 16 Aug 2016 06:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Is blockchain dead?]]></title>
             <description><![CDATA[<article><h1>Is blockchain dead?</h1><p>Answer (1 of 2): From what i have read and know about it. Bitcoin and some other crypto currencies may die due to technical issues (limited no of transactions per second), frauds and security problems. But the concept of blockchain is much more valuable and there is lot of hope and talk in financ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/80b1aa101e41ccfcae999444d2c3324a/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-474217-200-zwcxhtgvljaxgmzkvklgejzxtnlxqjxc.jpeg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Bitcoin Exchange OKCoin Fined in Money Laundering Case - NEWSBTC</h1><p>Chinese Bitcoin exchange OKCoin was recently fined for unknowingly aiding money laundering operations on its platform. The Beijing-based company, which records the maximum daily Bitcoin volume, has been ordered by the Heilongjiang Provincial Court to cough up 627,569 Yuan (around $94,000) in damages. As per the ruling, OKCoin had flawed AML and KYC policies in ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a233ac264fe885211777944b0d01195e/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F15142016%2FSupreme-China-Court.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/08/15/china-okcoin-exchange-fined/</link>
             <guid isPermaLink="false">c56331fe-1769-47a3-ab80-02f98a1292d1</guid>
+            <pubDate>Tue, 16 Aug 2016 02:10:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MSG_CMPCT_BLOCK enum value is already in use · Issue #8500 · bitcoin/bitcoin]]></title>
+            <description><![CDATA[<article><h1>MSG_CMPCT_BLOCK enum value is already in use · Issue #8500 · bitcoin/bitcoin</h1><p>Compact blocks MSG_CMPCT_BLOCK enum value is already in use. It is used as MSG_THINBLOCK for xthin blocks. The existing type MSG_THINBLOCK is already in use and widely deployed: In Bitcoin XT, Bit...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b696cc3884d30c2452a19db83e9ae3bd/noop?input=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F92707%3Fv%3D3%26s%3D400"></article>]]></description>
+            <link>https://github.com/bitcoin/bitcoin/issues/8500</link>
+            <guid isPermaLink="false">5e991856-7269-476c-9e76-d6c2ae10d87a</guid>
             <pubDate>Tue, 16 Aug 2016 02:10:20 GMT</pubDate>
         </item>
     </channel>
