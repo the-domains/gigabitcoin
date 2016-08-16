@@ -4,13 +4,41 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Aug 2016 19:37:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2016 19:37:39 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is a hash pre-image as it is used for the breach remedy?]]></title>
+            <description><![CDATA[<article><h1>What is a hash pre-image as it is used for the breach remedy?</h1><p>Until this afternoon I thought the anti-cheat transactions or breach remedies built on the exit-transaction of the counterparty. Apparently, they build on something called a "hash pre-image". What...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/48053/what-is-a-hash-pre-image-as-it-is-used-for-the-breach-remedy</link>
+            <guid isPermaLink="false">ad1a21cd-bb7a-43e8-998c-52cca0e6e1ea</guid>
+            <pubDate>Tue, 16 Aug 2016 19:36:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Our CoinShuffle implementation is finally working! https://live.blockcypher.com/btc-testnet/tx/fe68ebbbec06746a26d4038b500b3b9450b91f9e5c0935304b18fe13ec3eccbd/ ...</p>]]></description>
+            <link>https://twitter.com/myceliumcom/status/765214573616037888</link>
+            <guid isPermaLink="false">4b348a6f-1f59-4643-9f9b-4b774a5c8ac5</guid>
+            <pubDate>Tue, 16 Aug 2016 19:36:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin naysers are wrong, says former SEC chief | News.Markets]]></title>
             <description><![CDATA[<article><h1>Bitcoin naysers are wrong, says former SEC chief | News.Markets</h1><p>Those predicting its imminent demise are mistaken, says Levitt. A former chairman of the US Securities and Exchange Commission has launched a stout defence of the bitcoin virtual currency against those who forecast that it is certain to fail. Writing in American Banker, Arthur Levitt says: "Naysayers love to nay.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bfa8b2323e7d1a6253712e9769472de2/noop.jpg?input=https%3A%2F%2Fnews.markets%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_197898926.jpg"></article>]]></description>
             <link>https://news.markets/bitcoin/bitcoin-naysers-wrong-says-former-sec-chief-24242/</link>
             <guid isPermaLink="false">d7f9a841-86fb-4bf8-9d3f-d1d2bc7dfce9</guid>
+            <pubDate>Tue, 16 Aug 2016 19:36:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hacking Group Claims It Dumped NSA-Linked Files, Demands One Million BTC]]></title>
+            <description><![CDATA[<article><h1>Hacking Group Claims It Dumped NSA-Linked Files, Demands One Million BTC</h1><p>A hacking group called The Shadow Brokers has claimed to have hacked a group linked to the National Security Agency (NSA) and is asking for 1 million bitcoins ($568 million) to return files after having dumped some of the files, according to Motherboard.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5ae9621b6496183a50fe732b7cae1af0/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FHacking-Group-Claims-It-Dumped-NSA-Linked-Files-Demands-One-Million-BTC.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/hacking-group-claims-it-dumped-nsa-linked-files-demands-1-m-btc/</link>
+            <guid isPermaLink="false">748316ed-a468-4daa-8adb-3de1a52399c8</guid>
+            <pubDate>Tue, 16 Aug 2016 19:36:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plane Maker Airbus Joins Hyperledger Blockchain Project - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Plane Maker Airbus Joins Hyperledger Blockchain Project - CoinDesk</h1><p>French airplane manufacturer Airbus has joined the Hyperledger Project, the Linux Foundation-led blockchain initiative begun earlier this year. The Toulouse-based manufacturer, which last year beat Boeing to sell more than 1,000 aircraft, is expected to "actively contribute" to the initiative, which also counts companies such as IBM, Intel and JPMorgan among its membership.</p><img src="https://media.coindesk.com/uploads/2016/08/Airbus-1.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/airbus-hyperledger-blockchain-project/</link>
+            <guid isPermaLink="false">d7382345-6a86-4a40-9b7d-ffdcbba77bba</guid>
             <pubDate>Tue, 16 Aug 2016 19:36:56 GMT</pubDate>
         </item>
         <item>
@@ -47,34 +75,6 @@
             <link>https://bitcoinmagazine.com/articles/world-economic-forum-examines-how-blockchain-can-reshape-financial-services-1471367839</link>
             <guid isPermaLink="false">bf723c1c-8de6-4893-9950-72189a461a03</guid>
             <pubDate>Tue, 16 Aug 2016 19:36:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK Fraud Office Comments on 'Increasing' Bitcoin Use By Criminals - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>UK Fraud Office Comments on 'Increasing' Bitcoin Use By Criminals - CoinDesk</h1><p>A criminal investigatory unit in the UK has said that it is seeing an increase in the use of bitcoin by criminals. In response to an information request, the UK Serious Fraud Office, an independent agency within the UK government, disclosed the stance in new comments addressing whether it believes bitcoin is "being used" in criminal activity.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e0c769053184ba8d6153401887729a8c/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FCrime.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/uk-serious-fraud-investigate-bitcoin-crimes/</link>
-            <guid isPermaLink="false">b354df93-afbf-4f8c-a7fe-4ab51e202b11</guid>
-            <pubDate>Tue, 16 Aug 2016 19:36:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[California Delays Plan to Regulate Bitcoin Businesses - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>California Delays Plan to Regulate Bitcoin Businesses - CoinDesk</h1><p>California's legislature has once again shelved a plan to regulate businesses in the digital currency industry. Reintroduced after nearly a year of dormancy earlier this month, Assembly Bill 1326 has now been referred back to the state's Rules Committee and Banking and Finance Committee - effectively freezing its progress.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3fee9ffabde4c5cb50b8449cc0615f48/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fcalifornia-legislature-e1471373381102.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/california-bitcoin-regulation-bill-delayed/</link>
-            <guid isPermaLink="false">39a23268-ab78-457e-aa37-41a185c713cb</guid>
-            <pubDate>Tue, 16 Aug 2016 19:36:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EB144 - Charles Hoskinson & Alex Chepurnoy: IOHK, Scorex And The Case For Ethereum Classic]]></title>
-            <description><![CDATA[<article><h1>EB144 - Charles Hoskinson & Alex Chepurnoy: IOHK, Scorex And The Case For Ethereum Classic</h1><p>From BitShares to his central role during the inception of Ethereum Charles Hoskinson has continually influenced key projects in the blockchain and cryptocurrency space. After departing the Ethereum project in 2014, he has recently stepped back into the limelight by pledging support and resources to turn the fledgling Ethereum fork ETC into a viable project.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fe3df75313484e30516d61e7d9a1227c/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1891-a893c16fe0cb5fa1b765c00269601cfd9db2c2ca7d73740eeb4dbae03f5f11f8.jpg"></article>]]></description>
-            <link>https://letstalkbitcoin.com/blog/post/eb144-charles-hoskinson-alex-chepurnoy-iohk-scorex-and-the-case-for-ethereum-classic</link>
-            <guid isPermaLink="false">ae503752-569a-4058-88e4-7764a4879710</guid>
-            <pubDate>Tue, 16 Aug 2016 16:49:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMPORTANT: A fake breadwallet app was just added to the Apple Store. Please be cautious, we're contacting Apple about it. * /r/Bitcoin]]></title>
-            <description><![CDATA[<article><h1>IMPORTANT: A fake breadwallet app was just added to the Apple Store. Please be cautious, we're contacting Apple about it. * /r/Bitcoin</h1><p>Edit**: The fake app was taken off the store The impersonator app uses the same title and icon as the real app. The real app has breadwallet...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/45753a9c85bec937d71c93cb61398bbd/croprotate.jpg?cropheight=168&cropwidth=176&degrees=0&input=https%3A%2F%2Fi.redditmedia.com%2FaB6Z0IyJwPTtBRgyA-DL4YCJj35Kf0ovtJaF_xIAfE4.jpg%3Fw%3D320%26s%3Dc29702a443f310f3ec9516f2193fa8c5&x=72&y=0"></article>]]></description>
-            <link>https://www.reddit.com/r/Bitcoin/comments/4x0iga/important_a_fake_breadwallet_app_was_just_added/</link>
-            <guid isPermaLink="false">263e1c5c-a9a9-47aa-8e08-9dd1f9f92661</guid>
-            <pubDate>Tue, 16 Aug 2016 16:49:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
