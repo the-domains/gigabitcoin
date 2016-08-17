@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 13:39:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 13:39:30 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The hack of an NSA malware staging server is not unprecedented, but the publication of the take is. Here's what you need to know: (1/x)</p>]]></description>
+            <link>https://twitter.com/Snowden/status/765513662597623808</link>
+            <guid isPermaLink="false">2c6788b3-da66-407b-9d8d-e56e56e4930b</guid>
+            <pubDate>Wed, 17 Aug 2016 13:38:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Watch; Here's What's On Today - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Watch; Here's What's On Today - NEWSBTC</h1><p>Here's a look at what we are focusing on in the bitcoin price this morning. So, it's Wednesday morning, and time to get things kicked off with the first of our twice daily bitcoin price watch analysis. Overnight action was relatively flat, and we didn't manage to get into any positions with the range we had highlighted.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e86e196501d20543fdd713562147e2b3/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F17094212%2FScreen-Shot-2016-08-17-at-10.33.22.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Gregory Maxwell: "Vitalik Buterin Ran A Quantum Computer Scam"</h1><p>Complex ideas and concepts are difficult to explain, let alone making anyone see the need to address them. Yet for some reason, Buterin felt he had the tools at his disposal to convince people to give him money for this project. Being a public figure in the cryptocurrency world comes with prestige and personal attacks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f5e81e8c300104f4dae7d634c48dd7d7/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F17095023%2Fshutterstock_301778630.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/08/17/gregory-maxwell-vitalik-buterin-ran-quantum-computer-scam/</link>
             <guid isPermaLink="false">4af3be8a-bfe2-4c34-9f3b-760d2980d8fa</guid>
-            <pubDate>Wed, 17 Aug 2016 13:38:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Researchers Uncover Cerber as Largest Ransomware-As-A-Service Ring]]></title>
-            <description><![CDATA[<article><h1>Researchers Uncover Cerber as Largest Ransomware-As-A-Service Ring</h1><p>Check Point researchers have discovered the sophisticated organization of Cerber, a Ransomware-as-a-Service (RaaS), which is reported to have had a total estimated profit of $195,000 in July alone. Based on data collected by the researchers they found that the RaaS ring currently runs 161 active campaigns, infecting around 150,000 victims in 201 countries in the month of July.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ca273fdf0776b1f025459a66adb0de21/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FResearchers-Uncover-Cerber-as-Largest-Ransomware-As-A-Service-Ring.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/90571-2/</link>
-            <guid isPermaLink="false">1b3eab7b-53d9-4755-b4dc-6159e7604b39</guid>
             <pubDate>Wed, 17 Aug 2016 13:38:46 GMT</pubDate>
         </item>
     </channel>
