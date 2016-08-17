@@ -4,57 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 02:51:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 02:51:00 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[How is the divisibility of Bitcoin useful?]]></title>
-            <description><![CDATA[<article><h1>How is the divisibility of Bitcoin useful?</h1><p>Answer: If (still a huge if) a bitcoin (BTC) goes up in value tremendously (e.g. $100,000/BTC) you'd want to subdivide a coin to buy something less than the full value of a BTC. Also, subdividing a BTC allows for fees to be collected by the validating nodes a.k.a. miners.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/87785482e71795662128073b8ca89052/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-3544-200-DDa210tdHWnSwW0GbWfobW5lRxdVxTS3.jpeg"></article>]]></description>
-            <link>https://www.quora.com/How-is-the-divisibility-of-Bitcoin-useful</link>
-            <guid isPermaLink="false">81501d0d-2f58-40b8-9997-aa2d02f0902b</guid>
-            <pubDate>Wed, 17 Aug 2016 02:50:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can you build a PayPal-like electronic balance system on top of a sidechain connected to the bitcoin blockchain?]]></title>
-            <description><![CDATA[<article><h1>Can you build a PayPal-like electronic balance system on top of a sidechain connected to the bitcoin blockchain?</h1><p>Answer (1 of 2): Yes, through the blockchain API this ability is available also it is worth noting that PayPal and coinbase actually does just this, however, if you are looking for an alternate service provider this model would work as well but would take many dollars to build out and support.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/60c3e8250adb7a18fd1b1eb2733a5ade/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-custom-t-782-600x315-cijthbjyogtebzaxzobbgdehzhehbdvo.jpeg"></article>]]></description>
-            <link>https://www.quora.com/Can-you-build-a-PayPal-like-electronic-balance-system-on-top-of-a-sidechain-connected-to-the-bitcoin-blockchain</link>
-            <guid isPermaLink="false">683883f0-86b3-4839-8532-507bd4dd40fa</guid>
-            <pubDate>Wed, 17 Aug 2016 02:50:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aten Coin's NAC Offers Support for US Blockchain Bill]]></title>
-            <description><![CDATA[<article><h1>Aten Coin's NAC Offers Support for US Blockchain Bill</h1><p>NAC, the organization behind the "first-generation compliant digital currency" Aten Coin, has come out in support of the recent United States House Resolution 835, which proposes national policy to promote "alternative non-fiat currencies." This article was provided by Bitcoin PR Buzz.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1334cba0bdbb59c7fff6826b8b0c40f4/croprotate.png?cropheight=600&cropwidth=531&degrees=0&input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FAten-Coin.png&x=125&y=0"></article>]]></description>
-            <link>http://bitcoinist.net/nac-support-blockchain-bill/</link>
-            <guid isPermaLink="false">af0c4300-9a7a-47bd-93ca-b9ab25f55cc2</guid>
-            <pubDate>Wed, 17 Aug 2016 02:50:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PSA: Full nodes should run a tor hidden service, it costs nothing and improves the network * /r/Bitcoin]]></title>
-            <description><![CDATA[<article><h1>PSA: Full nodes should run a tor hidden service, it costs nothing and improves the network * /r/Bitcoin</h1><p>Right now there are only 129 nodes available through their own tor hidden services: https://bitnodes.21.co/nodes/?q=.onion Since Core 0.12...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/47614fb72b6a31760bccb51b85b5e71e/noop.jpg?input=https%3A%2F%2Fi.redditmedia.com%2FQh6xIOsZU5M-_rB-fOxoZIoPtYVrMLvaJrkVcSYuLxs.jpg%3Fw%3D216%26s%3D5965b607814bfff4efa8c6393482468d"></article>]]></description>
-            <link>https://www.reddit.com/r/Bitcoin/comments/4xqfpz/psa_full_nodes_should_run_a_tor_hidden_service_it/</link>
-            <guid isPermaLink="false">89a581ef-9a6a-4ac8-a41a-69ed6c0b1ffb</guid>
-            <pubDate>Wed, 17 Aug 2016 02:50:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jaxx to Support the 7th Largest Cryptocurrency, DASH Soon - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Jaxx to Support the 7th Largest Cryptocurrency, DASH Soon - NEWSBTC</h1><p>Jaxx multi-platform cryptocurrency wallet will soon support Dash alongside Bitcoin, Ethereum, and DAO soon. Read more... Jaxx cryptocurrency wallet users now have another reason to rejoice. The online wallet service provider has recently announced that it will include support for Dash on iPhone. Jaxx, created by Decentral Inc.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/984ad675abb46aeb4e8540bf2054ee78/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F16193039%2FScreen-Shot-2016-08-16-at-11.59.25-PM.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/16/jaxx-to-support-dash-soon/</link>
-            <guid isPermaLink="false">b735711c-e600-46ad-9d05-75fb495c1e1c</guid>
-            <pubDate>Wed, 17 Aug 2016 02:50:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bank Insider: Cryptofinance Will Not Be the End of Wall Street]]></title>
-            <description><![CDATA[<article><h1>Bank Insider: Cryptofinance Will Not Be the End of Wall Street</h1><p>Finance and banking has seen its fair share of innovation over the centuries, and Bitcoin and its blockchain technology are already making a new chapter in this history. To get a better sense of how the industry views this innovation, I interviewed the head of Technology Risk for the Wealth & Investment Management portion of Wells Fargo Bank, Jimmie Lenz.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ae75d82fe1e94d3c7c944ad5748956ef/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fwells.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/bank-insider-cryptofinance-wall-street/</link>
-            <guid isPermaLink="false">3971011a-8ebe-4189-84f6-d25f476be9f6</guid>
-            <pubDate>Wed, 17 Aug 2016 02:50:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hackers claim to have stolen cyberweapons from NSA, demand 1 million Bitcoin in exchange - TechRepublic]]></title>
-            <description><![CDATA[<article><h1>Hackers claim to have stolen cyberweapons from NSA, demand 1 million Bitcoin in exchange - TechRepublic</h1><p>A hacking group called The Shadow Brokers claims to have acquired hacking tools from a group linked to the US National Security Agency (NSA), and is now asking for 1 million Bitcoin (about $568 million) in an auction in exchange for the information.</p></article>]]></description>
-            <link>http://www.techrepublic.com/article/hackers-claim-to-have-stolen-cyberweapons-from-nsa-demand-1-million-bitcoin-in-exchange/</link>
-            <guid isPermaLink="false">632844c8-31ce-4b58-b73d-c4418a8b7e1d</guid>
-            <pubDate>Wed, 17 Aug 2016 02:50:19 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article></article>]]></description>
@@ -75,6 +26,55 @@
             <link>https://i.redd.it/mjrjzxcposfx.png</link>
             <guid isPermaLink="false">2057c1ab-e418-4425-9f4f-6d66fff08dbb</guid>
             <pubDate>Wed, 17 Aug 2016 02:50:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SAFE Crossroads Podcast #33, Alpha Release]]></title>
+            <description><![CDATA[<article><h1>SAFE Crossroads Podcast #33, Alpha Release</h1><p>In this Episode We have a chat with Francis Brunelle, a returning guest, about the recent Alpha Release of the MaidSafe Client, and a lot more about the state and progress of the SAFE Network project. Magic Word Listen for the magic word, and submit it to your LetsTalkBitcoin.com account to claim a share of this week's listener award distribution of LTBcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/afd3f56b04034834803f7a7699fcb966/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1893-ed2ea477b9b544ea58b4bc6e6db91c40e3751f40ae2f51a3122ed2e80447b938.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/safe-crossroads-podcast-33-alpha-release</link>
+            <guid isPermaLink="false">9977f9d9-47b3-4db9-9704-25ae5f2fbaf8</guid>
+            <pubDate>Wed, 17 Aug 2016 02:50:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is a hash pre-image as it is used for the breach remedy?]]></title>
+            <description><![CDATA[<article><h1>What is a hash pre-image as it is used for the breach remedy?</h1><p>Until this afternoon I thought the anti-cheat transactions or breach remedies built on the exit-transaction of the counterparty. Apparently, they build on something called a "hash pre-image". What...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/48053/what-is-a-hash-pre-image-as-it-is-used-for-the-breach-remedy</link>
+            <guid isPermaLink="false">ad1a21cd-bb7a-43e8-998c-52cca0e6e1ea</guid>
+            <pubDate>Tue, 16 Aug 2016 19:36:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Our CoinShuffle implementation is finally working! https://live.blockcypher.com/btc-testnet/tx/fe68ebbbec06746a26d4038b500b3b9450b91f9e5c0935304b18fe13ec3eccbd/ ...</p>]]></description>
+            <link>https://twitter.com/myceliumcom/status/765214573616037888</link>
+            <guid isPermaLink="false">4b348a6f-1f59-4643-9f9b-4b774a5c8ac5</guid>
+            <pubDate>Tue, 16 Aug 2016 19:36:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin naysers are wrong, says former SEC chief | News.Markets]]></title>
+            <description><![CDATA[<article><h1>Bitcoin naysers are wrong, says former SEC chief | News.Markets</h1><p>Those predicting its imminent demise are mistaken, says Levitt. A former chairman of the US Securities and Exchange Commission has launched a stout defence of the bitcoin virtual currency against those who forecast that it is certain to fail. Writing in American Banker, Arthur Levitt says: "Naysayers love to nay.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bfa8b2323e7d1a6253712e9769472de2/noop.jpg?input=https%3A%2F%2Fnews.markets%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_197898926.jpg"></article>]]></description>
+            <link>https://news.markets/bitcoin/bitcoin-naysers-wrong-says-former-sec-chief-24242/</link>
+            <guid isPermaLink="false">d7f9a841-86fb-4bf8-9d3f-d1d2bc7dfce9</guid>
+            <pubDate>Tue, 16 Aug 2016 19:36:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hacking Group Claims It Dumped NSA-Linked Files, Demands One Million BTC]]></title>
+            <description><![CDATA[<article><h1>Hacking Group Claims It Dumped NSA-Linked Files, Demands One Million BTC</h1><p>A hacking group called The Shadow Brokers has claimed to have hacked a group linked to the National Security Agency (NSA) and is asking for 1 million bitcoins ($568 million) to return files after having dumped some of the files, according to Motherboard.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5ae9621b6496183a50fe732b7cae1af0/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FHacking-Group-Claims-It-Dumped-NSA-Linked-Files-Demands-One-Million-BTC.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/hacking-group-claims-it-dumped-nsa-linked-files-demands-1-m-btc/</link>
+            <guid isPermaLink="false">748316ed-a468-4daa-8adb-3de1a52399c8</guid>
+            <pubDate>Tue, 16 Aug 2016 19:36:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plane Maker Airbus Joins Hyperledger Blockchain Project - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Plane Maker Airbus Joins Hyperledger Blockchain Project - CoinDesk</h1><p>French airplane manufacturer Airbus has joined the Hyperledger Project, the Linux Foundation-led blockchain initiative begun earlier this year. The Toulouse-based manufacturer, which last year beat Boeing to sell more than 1,000 aircraft, is expected to "actively contribute" to the initiative, which also counts companies such as IBM, Intel and JPMorgan among its membership.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5db5677d5bcd94c0191ebd5208ea3241/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FAirbus-1.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/airbus-hyperledger-blockchain-project/</link>
+            <guid isPermaLink="false">d7382345-6a86-4a40-9b7d-ffdcbba77bba</guid>
+            <pubDate>Tue, 16 Aug 2016 19:36:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How is Bitcoin Actually Stolen? Theft Prevention]]></title>
+            <description><![CDATA[<article><h1>How is Bitcoin Actually Stolen? Theft Prevention</h1><p>The successful US$65 million dollar hacking attack launched on the Bitfinex trading platform left the community to question the security measures of the multi-signature technology implemented by the exchange. It also triggered a relatively simple yet important argument; how is Bitcoin actually stolen? To begin with, let's tackle the fundamentals of the security breach of Bitfinex.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d0654d0ce6151840847df640b2911813/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lODM4ZDZkNzNhMzNiZWEyY2Q4ZGMyZTNhOGMxMjc5OS5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/how-is-bitcoin-actually-stolen-theft-prevention</link>
+            <guid isPermaLink="false">ae4d068e-66f4-41a5-b288-68ef8fe51d75</guid>
+            <pubDate>Tue, 16 Aug 2016 19:36:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
