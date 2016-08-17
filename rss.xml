@@ -7,6 +7,13 @@
         <lastBuildDate>Wed, 17 Aug 2016 17:12:59 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Gartner: Blockchain Hype Cycle Hits Peak - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Gartner: Blockchain Hype Cycle Hits Peak - CoinDesk</h1><p>Blockchain has hit the peak of its hype cycle according to Gartner. That's the key finding from a new report, issued this week, that asserts the emerging technology is at a stage in its development where users and the public are suffering from "inflated expectations" about its benefits.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b4b0a139256ad6948ba3e39f4dbc278f/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Frollercoaster-loop-e1471449374156.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/gartner-blockchain-hits-hype-cycle-peak/</link>
+            <guid isPermaLink="false">783571f0-8bc9-4830-87d8-8c499c5ea210</guid>
+            <pubDate>Wed, 17 Aug 2016 17:12:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Is long term Bitcoin investment better than Ethereum (forked or without forked) investment?]]></title>
             <description><![CDATA[<article><h1>Is long term Bitcoin investment better than Ethereum (forked or without forked) investment?</h1><p>Answer: I've never been a fan of currencies, hence I will tell you that long term investments in currencies don't seem logical to me. The reason why you invest is because you perceive that the financial asset will generate more income for you than you pay for it.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8443762c66aa02631b4037c32a3b70cf/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-44949-200-Go1JlbcA7Pi8qngadNsUDgXwKG9ofE5R.jpeg"></article>]]></description>
             <link>https://www.quora.com/Is-long-term-Bitcoin-investment-better-than-Ethereum-forked-or-without-forked-investment</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Researchers Developed a System to Find Zero-Day Exploits</h1><p>Researchers from Arizona State University created a way that makes gathering data from dark net markets and forums easy, and it helps identify new emerging cyber threats as they are released. The system utilizes search engines and dark net sites through the Tor network, and the researchers say they have found 30 marketplaces, and over 20 forums where black hat hackers reside.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ad5e9db9937c00a438cce4fe1e98721a/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_279464831.jpg"></article>]]></description>
             <link>http://themerkle.com/researchers-developed-a-system-to-find-zero-day-exploits/</link>
             <guid isPermaLink="false">fa26ff75-c0ac-45ff-9329-25baa8ad43cf</guid>
-            <pubDate>Wed, 17 Aug 2016 13:38:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>The hack of an NSA malware staging server is not unprecedented, but the publication of the take is. Here's what you need to know: (1/x)</p>]]></description>
-            <link>https://twitter.com/Snowden/status/765513662597623808</link>
-            <guid isPermaLink="false">2c6788b3-da66-407b-9d8d-e56e56e4930b</guid>
             <pubDate>Wed, 17 Aug 2016 13:38:47 GMT</pubDate>
         </item>
     </channel>
