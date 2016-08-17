@@ -7,6 +7,20 @@
         <lastBuildDate>Wed, 17 Aug 2016 02:50:59 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Hackers claim to have stolen cyberweapons from NSA, demand 1 million Bitcoin in exchange - TechRepublic]]></title>
+            <description><![CDATA[<article><h1>Hackers claim to have stolen cyberweapons from NSA, demand 1 million Bitcoin in exchange - TechRepublic</h1><p>A hacking group called The Shadow Brokers claims to have acquired hacking tools from a group linked to the US National Security Agency (NSA), and is now asking for 1 million Bitcoin (about $568 million) in an auction in exchange for the information.</p></article>]]></description>
+            <link>http://www.techrepublic.com/article/hackers-claim-to-have-stolen-cyberweapons-from-nsa-demand-1-million-bitcoin-in-exchange/</link>
+            <guid isPermaLink="false">632844c8-31ce-4b58-b73d-c4418a8b7e1d</guid>
+            <pubDate>Wed, 17 Aug 2016 02:50:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article></article>]]></description>
+            <link>http://blog.kraken.com/post/148976188862/kraken-phishing-warning</link>
+            <guid isPermaLink="false">db7f5879-2e83-41e2-88d3-0041ae6f4777</guid>
+            <pubDate>Wed, 17 Aug 2016 02:50:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Is electrum bitcoin wallet anonymous/untraceable?]]></title>
             <description><![CDATA[<article><h1>Is electrum bitcoin wallet anonymous/untraceable?</h1><p>My mother has been the driving force in my life. As a boy hailing from a conservative middle class "Marwari" (one of the castes from Northern India) family, I had to put up a fight for a trivial thing like choosing science stream for my career as my family members used to say that a Marwari boy has no place in the world of science.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8c0ab686073a4a4d4694665ada406087/noop?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-qimg-8028aeac62a5028cbc9d7dcd2f568470-c%3Fconvert_to_webp%3Dtrue"></article>]]></description>
             <link>https://www.quora.com/Is-electrum-bitcoin-wallet-anonymous-untraceable</link>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Plane Maker Airbus Joins Hyperledger Blockchain Project - CoinDesk</h1><p>French airplane manufacturer Airbus has joined the Hyperledger Project, the Linux Foundation-led blockchain initiative begun earlier this year. The Toulouse-based manufacturer, which last year beat Boeing to sell more than 1,000 aircraft, is expected to "actively contribute" to the initiative, which also counts companies such as IBM, Intel and JPMorgan among its membership.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5db5677d5bcd94c0191ebd5208ea3241/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FAirbus-1.jpg"></article>]]></description>
             <link>http://www.coindesk.com/airbus-hyperledger-blockchain-project/</link>
             <guid isPermaLink="false">d7382345-6a86-4a40-9b7d-ffdcbba77bba</guid>
-            <pubDate>Tue, 16 Aug 2016 19:36:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How is Bitcoin Actually Stolen? Theft Prevention]]></title>
-            <description><![CDATA[<article><h1>How is Bitcoin Actually Stolen? Theft Prevention</h1><p>The successful US$65 million dollar hacking attack launched on the Bitfinex trading platform left the community to question the security measures of the multi-signature technology implemented by the exchange. It also triggered a relatively simple yet important argument; how is Bitcoin actually stolen? To begin with, let's tackle the fundamentals of the security breach of Bitfinex.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d0654d0ce6151840847df640b2911813/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lODM4ZDZkNzNhMzNiZWEyY2Q4ZGMyZTNhOGMxMjc5OS5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/how-is-bitcoin-actually-stolen-theft-prevention</link>
-            <guid isPermaLink="false">ae4d068e-66f4-41a5-b288-68ef8fe51d75</guid>
-            <pubDate>Tue, 16 Aug 2016 19:36:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Stop Loss Hit! - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Stop Loss Hit! - NEWSBTC</h1><p>Here's a look at what we are focusing on in the bitcoin price this evening. The markets have just about drawn to a close now out of Europe, and once again we had a pretty active day in the bitcoin price.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/525557434f360b1ec01130f96e206ab9/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F16190823%2FScreen-Shot-2016-08-16-at-20.02.01.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/16/bitcoin-price-watch-stop-loss-hit-2/</link>
-            <guid isPermaLink="false">cc405d98-bfb7-40be-b462-e98a4f9b2e79</guid>
             <pubDate>Tue, 16 Aug 2016 19:36:56 GMT</pubDate>
         </item>
     </channel>
