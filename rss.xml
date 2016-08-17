@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 05:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 05:19:53 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BTCfork/BTC-Forks-Roadmap]]></title>
+            <description><![CDATA[<article><h1>BTCfork/BTC-Forks-Roadmap</h1><p>BTC-Forks-Roadmap - A place to discuss and create the BTC Forks Roadmap</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f6ca6624840be79a37c6fb26c6e6712d/noop?input=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F20826420%3Fv%3D3%26s%3D400"></article>]]></description>
+            <link>https://github.com/BTCfork/BTC-Forks-Roadmap/blob/master/Proposals/BTC%20Forks%20Roadmap%20Proposal.md</link>
+            <guid isPermaLink="false">4c39ac5c-fb5f-4ff2-8f74-9630368ef4aa</guid>
+            <pubDate>Wed, 17 Aug 2016 05:19:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Working on adding support for @ledgerHQ and @BitcoinTrezor.pic.twitter.com/0eoeWHmU6P" src="https://pbs.twimg.com/media/Cp-sA3WWcAAw56q.jpg:large">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article></article>]]></description>
             <link>http://blog.kraken.com/post/148976188862/kraken-phishing-warning</link>
             <guid isPermaLink="false">db7f5879-2e83-41e2-88d3-0041ae6f4777</guid>
-            <pubDate>Wed, 17 Aug 2016 02:50:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is electrum bitcoin wallet anonymous/untraceable?]]></title>
-            <description><![CDATA[<article><h1>Is electrum bitcoin wallet anonymous/untraceable?</h1><p>My mother has been the driving force in my life. As a boy hailing from a conservative middle class "Marwari" (one of the castes from Northern India) family, I had to put up a fight for a trivial thing like choosing science stream for my career as my family members used to say that a Marwari boy has no place in the world of science.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8c0ab686073a4a4d4694665ada406087/noop?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-qimg-8028aeac62a5028cbc9d7dcd2f568470-c%3Fconvert_to_webp%3Dtrue"></article>]]></description>
-            <link>https://www.quora.com/Is-electrum-bitcoin-wallet-anonymous-untraceable</link>
-            <guid isPermaLink="false">f25a3128-074d-4370-a7ca-11e352d656d1</guid>
             <pubDate>Wed, 17 Aug 2016 02:50:19 GMT</pubDate>
         </item>
     </channel>
