@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 13:38:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 13:38:30 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Does Dash Have a Coin Cap, or Is It Infinitely Inflationary?]]></title>
+            <description><![CDATA[<article><h1>Does Dash Have a Coin Cap, or Is It Infinitely Inflationary?</h1><p>Whether a coin has a maximum supply (like Bitcoin's 21 million) or is infinitely inflationary (like Ethereum) has significant effects on that coin's usage. For example, people tend to save that which is limited in supply, and that they tend to spend that which is inflationary in supply.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4fc29d451f0a5d9965d682166cae44e4/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2Fdash-supply.png"></article>]]></description>
+            <link>http://bitcoinist.net/dash-cap-inflationary/</link>
+            <guid isPermaLink="false">117c413b-8783-4169-9608-e61c66c661e9</guid>
+            <pubDate>Thu, 18 Aug 2016 13:36:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Bitcoin Podcast: TBP80 - A Means to an End]]></title>
+            <description><![CDATA[<article><h1>The Bitcoin Podcast: TBP80 - A Means to an End</h1><p>Part 2 of the Steven McKie character piece is concluded. In addition, this episode we are talking with Max Kordek, the founder of a new decentralized platform called Lisk. Since the launch of Lisk there was a lot of confusion about what it really is, and what it enables people to do in the future.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/499d619ab02eb128c848d379bb92588c/noop.jpg?input=http%3A%2F%2Fstatic.libsyn.com%2Fp%2Fassets%2F7%2Ff%2F8%2F4%2F7f84f0c0d5e48342%2Fheight_250_width_250_overlay_80itunes.jpg"></article>]]></description>
+            <link>http://thebitcoinpodcast.libsyn.com/tbp80-a-means-to-an-end</link>
+            <guid isPermaLink="false">11b96145-edac-4890-8ace-e746d8d163ed</guid>
+            <pubDate>Thu, 18 Aug 2016 13:36:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I've developed an algorithm that trades Bitcoin. I want to start a fund. What should I do next?]]></title>
             <description><![CDATA[<article><h1>I've developed an algorithm that trades Bitcoin. I want to start a fund. What should I do next?</h1><p>Answer (1 of 3): Starting with 1-2 bitcoin, trade your algo quietly for a year. If it shows amazing performance then put more of your own money in and continue. If it shows mediocre performance, try raise a fund. That's what the pros do.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/625b588d429b8b111707443b86d96fbb/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-custom-t-6815-600x315-yxkfgzsliamduhcujtnggvbowygdsmtj.jpeg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>KeepKey and Shapeshift team up for dynamic and secure cryptocurrency trading</h1><p>KeepKey and ShapeShift recently announced a partnership to create the first fully trustless, highly secure, process for trading cryptocurrencies. According to KeepKey, beta testing will begin next week. - ShapeShift Formed in mid-2014, ShapeShift was founded by early bitcoin entrepreneur Erik Voorhees.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b0989c975735f792b320516601334a6b/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-KeepKey-Integration-Cover.jpg"></article>]]></description>
             <link>http://bravenewcoin.com/news/keepkey-and-shapeshift-team-up-for-dynamic-and-secure-cryptocurrency-trading/</link>
             <guid isPermaLink="false">6b8cf8e1-4fc4-45ff-ab1f-52f7a353411f</guid>
-            <pubDate>Thu, 18 Aug 2016 13:36:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase and GDAX Control 3.5% Of The Entire Ethereum Supply]]></title>
-            <description><![CDATA[<article><h1>Coinbase and GDAX Control 3.5% Of The Entire Ethereum Supply</h1><p>There is a lot of talk going on about Ethereum switching to proof-of-take at some point in the future. While this will significantly reduce the inflation in the ecosystem, it will also pose a new set of challenges. To put this into perspective, Coinbase and GDAX now control 3.5% of the entire Ethereum supply.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/375fb2c271645b2bf7148f187890c88b/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_118589488.jpg"></article>]]></description>
-            <link>http://themerkle.com/coinbase-and-gdax-control-3-5-of-the-entire-ethereum-supply/</link>
-            <guid isPermaLink="false">7b038d99-483e-4952-8e70-1381c84ce4ca</guid>
-            <pubDate>Thu, 18 Aug 2016 13:36:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BTC Relay wants Bitcoin and Ethereum to hang out together]]></title>
-            <description><![CDATA[<article><h1>BTC Relay wants Bitcoin and Ethereum to hang out together</h1><p>Ever since Ethereum went live about a year ago there have been critics who questioned the need to launch another Blockchain with its own cryptographic token to secure the network. But it doesn't mean that both blockchains can't succeed or interoperate, states Joseph Chow, creator of BTC Relay.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c00993daf6b1bd5a552437518b1c523f/noop.jpg?input=http%3A%2F%2Fd.ibtimes.co.uk%2Fen%2Ffull%2F1542632%2Feth.jpg"></article>]]></description>
-            <link>http://www.ibtimes.co.uk/btc-relay-wants-bitcoin-ethereum-hang-out-together-1576706</link>
-            <guid isPermaLink="false">2b404c4a-3ab6-4c5a-923e-beb537484c01</guid>
             <pubDate>Thu, 18 Aug 2016 13:36:06 GMT</pubDate>
         </item>
     </channel>
