@@ -4,29 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 03:39:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 03:39:14 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Ethereum Prediction Market Service Takes First Steps With Beta Launch - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Ethereum Prediction Market Service Takes First Steps With Beta Launch - CoinDesk</h1><p>A new prediction market platform is set to go live on the ethereum network this week. Called Gnosis, the project will allow users to wager on future events by asking and answering questions about the outcome of sports games or elections.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/542a920d84903442dccbb12d16a9677d/noop.png?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FGnosisscreenshot.png"></article>]]></description>
-            <link>http://www.coindesk.com/ethereum-prediction-market-service-takes-first-steps-beta-launch/</link>
-            <guid isPermaLink="false">cda089c6-4860-423d-8e3c-52476be876b2</guid>
-            <pubDate>Thu, 18 Aug 2016 03:38:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How many bitcoins are there currently in circulation?]]></title>
-            <description><![CDATA[<article><h1>How many bitcoins are there currently in circulation?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top If you are running Bitcoin Core, you can see the total amount in circulation using the RPC call gettxoutsetinfo (in the Bitcoin-Qt debug console, or using bitcoin-cli if you run bitcoind).</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/48085/how-many-bitcoins-are-there-currently-in-circulation</link>
-            <guid isPermaLink="false">c6f64cb5-26cb-4208-a511-c7b67f4bd235</guid>
-            <pubDate>Thu, 18 Aug 2016 03:38:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Are All the High Rollers Moving Their Action to mBit Casino?]]></title>
-            <description><![CDATA[<article><h1>Why Are All the High Rollers Moving Their Action to mBit Casino?</h1><p>August 17, 2016, Curacao - Bitcoin and its underlying technology have been creating waves across the industries with their disruptive nature. Among all the industries, this revolutionary invention has impacted online gambling industry the most. With Bitcoin, it is now possible for the gambling platforms to offer instant withdrawal options to their users so that they can receive immediate payouts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/23b74fef5ef3bf2b66352f6d913f43ce/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F17191659%2FmBit-Big-Win.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/17/high-rollers-moving-action-mbit-casino/</link>
-            <guid isPermaLink="false">f46ef7df-e241-48b7-bf3b-50d614c0075a</guid>
-            <pubDate>Thu, 18 Aug 2016 03:38:28 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Stealing bitcoins with badges: How Silk Road's dirty cops got caught]]></title>
             <description><![CDATA[<article><h1>Stealing bitcoins with badges: How Silk Road's dirty cops got caught</h1><p>View more stories DEA Special Agent Carl Force wanted his money-real cash, not just numbers on a screen-and he wanted it fast. It was October 2013, and Force had spent the past couple of years working on a Baltimore-based task force investigating the darknet's biggest drug site, Silk Road.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2d7191c05ae10662495f701fd46f5806/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F07%2Fforce-wrapup-640x360.jpg"></article>]]></description>
@@ -75,6 +54,27 @@
             <link>http://siliconangle.com/blog/2016/08/17/bitcoin-weekly-2016-august-17-bitfinex-hack-interim-report-keepkey-wallet-does-shapeshift-trades-copay-users-can-purchase-amazon-gift-cards/</link>
             <guid isPermaLink="false">9b0fb798-8fd1-42ee-a71c-826d6707e6bb</guid>
             <pubDate>Thu, 18 Aug 2016 03:38:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin 'targeted by state sponsored attackers' say Bitcoin devs]]></title>
+            <description><![CDATA[<article><h1>Bitcoin 'targeted by state sponsored attackers' say Bitcoin devs</h1><p>Bitcoin.org is warning that the Bitcoin Core, the as-close-to-official-as-it-gets version of Blockchain consolidation software and Bitcoin wallets, has likely been compromised. "Bitcoin.org has reason to suspect that the binaries for the upcoming Bitcoin Core release [version 0.13.0] will likely be targeted by state sponsored attackers," the organisation says in a post that does not elaborate which state may be be behind the threat or the nature of any attack.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/907f390b945a39bfb25eb1df251c49c7/noop.jpg?input=https%3A%2F%2Fregmedia.co.uk%2F2015%2F05%2F25%2Fbitcoin_punch_card.jpg%3Fx%3D1200%26y%3D794"></article>]]></description>
+            <link>http://www.theregister.co.uk/2016/08/18/bitcoin_targeted_by_state_sponsored_attackers_say_bitcoin_devs/</link>
+            <guid isPermaLink="false">7b9c3819-cb03-4eeb-b357-c8801798a1d2</guid>
+            <pubDate>Thu, 18 Aug 2016 03:38:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How can blockchain technology impact the travel industry?]]></title>
+            <description><![CDATA[<article><h1>How can blockchain technology impact the travel industry?</h1><p>Blockchain is a shared public ledger underlying the Bitcoin network. It chains transactions together in blocks which are then encrypted. This makes these transactions extremely difficult for hackers to access the information. It also creates a permanent record of all payments as blockchains exist forever and can't be removed.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e8d5b7def645451c5c4328c97f2687f7/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-custom-t-1393740-600x315-tjtbwiqofezszbgbqrtunqerutuchpmn.jpeg"></article>]]></description>
+            <link>https://www.quora.com/How-can-blockchain-technology-impact-the-travel-industry</link>
+            <guid isPermaLink="false">57a9804e-33cb-4419-b207-fef70c3a1feb</guid>
+            <pubDate>Thu, 18 Aug 2016 03:38:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitfinex Recovers Bitcoin Volume But Perception Battle Rages On - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Bitfinex Recovers Bitcoin Volume But Perception Battle Rages On - CoinDesk</h1><p>Since a high-profile hack, Bitfinex has reclaimed its position as the top USD/BTC exchange, but questions about its future remain.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8cea6fdc88bc83407bc4087795e87f8f/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fdoctor-scale-e1471477804319.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/bitfinex-bitcoin-recovers-volume-perception-battle-rages/</link>
+            <guid isPermaLink="false">1d98008e-efef-4b16-837d-18b23ce308d3</guid>
+            <pubDate>Thu, 18 Aug 2016 03:38:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
