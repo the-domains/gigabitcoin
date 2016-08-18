@@ -7,13 +7,6 @@
         <lastBuildDate>Thu, 18 Aug 2016 03:39:13 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[How many bitcoins are there currently in circulation?]]></title>
-            <description><![CDATA[<article><h1>How many bitcoins are there currently in circulation?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top If you are running Bitcoin Core, you can see the total amount in circulation using the RPC call gettxoutsetinfo (in the Bitcoin-Qt debug console, or using bitcoin-cli if you run bitcoind).</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/48085/how-many-bitcoins-are-there-currently-in-circulation</link>
-            <guid isPermaLink="false">c6f64cb5-26cb-4208-a511-c7b67f4bd235</guid>
-            <pubDate>Thu, 18 Aug 2016 03:38:28 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Why Are All the High Rollers Moving Their Action to mBit Casino?]]></title>
             <description><![CDATA[<article><h1>Why Are All the High Rollers Moving Their Action to mBit Casino?</h1><p>August 17, 2016, Curacao - Bitcoin and its underlying technology have been creating waves across the industries with their disruptive nature. Among all the industries, this revolutionary invention has impacted online gambling industry the most. With Bitcoin, it is now possible for the gambling platforms to offer instant withdrawal options to their users so that they can receive immediate payouts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/23b74fef5ef3bf2b66352f6d913f43ce/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F17191659%2FmBit-Big-Win.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/08/17/high-rollers-moving-action-mbit-casino/</link>
@@ -75,6 +68,13 @@
             <link>http://www.theregister.co.uk/2016/08/18/bitcoin_targeted_by_state_sponsored_attackers_say_bitcoin_devs/</link>
             <guid isPermaLink="false">7b9c3819-cb03-4eeb-b357-c8801798a1d2</guid>
             <pubDate>Thu, 18 Aug 2016 03:38:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How can blockchain technology impact the travel industry?]]></title>
+            <description><![CDATA[<article><h1>How can blockchain technology impact the travel industry?</h1><p>Blockchain is a shared public ledger underlying the Bitcoin network. It chains transactions together in blocks which are then encrypted. This makes these transactions extremely difficult for hackers to access the information. It also creates a permanent record of all payments as blockchains exist forever and can't be removed.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e8d5b7def645451c5c4328c97f2687f7/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-custom-t-1393740-600x315-tjtbwiqofezszbgbqrtunqerutuchpmn.jpeg"></article>]]></description>
+            <link>https://www.quora.com/How-can-blockchain-technology-impact-the-travel-industry</link>
+            <guid isPermaLink="false">57a9804e-33cb-4419-b207-fef70c3a1feb</guid>
+            <pubDate>Thu, 18 Aug 2016 03:38:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
