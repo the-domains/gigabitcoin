@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 03:39:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 03:39:10 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[World Gold Coin Gets Listed on C-CEX Cryptocurrency Exchange]]></title>
-            <description><![CDATA[<article><h1>World Gold Coin Gets Listed on C-CEX Cryptocurrency Exchange</h1><p>August 17, 2016, Hong Kong - World Gold Coin announces its inclusion into the well-known cryptocurrency exchange, C-CEX. The listing now allows cryptocurrency users to trade the new digital currency against Bitcoin and other altcoins. Created by a well-known Hong Kong-based digital currency solutions company, World Gold Coin is already gaining prominence in South East Asia.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6fcd082871b22ecc5ef48bedee191a43/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F17191840%2FWorld-Gold-Coin-WGC-Bitcoin-Alternative-1080x675.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/18/world-gold-coin-gets-listed-c-cex-cryptocurrency-exchange/</link>
-            <guid isPermaLink="false">93052569-6197-4f03-8752-d285b62c411d</guid>
-            <pubDate>Thu, 18 Aug 2016 03:38:27 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Weekly 2016 August 17: Bitfinex hack interim report, KeepKey wallet does ShapeShift trades, Copay users can purchase Amazon gift cards]]></title>
             <description><![CDATA[<article><h1>Bitcoin Weekly 2016 August 17: Bitfinex hack interim report, KeepKey wallet does ShapeShift trades, Copay users can purchase Amazon gift cards</h1><p>It's the week of wallets in the Bitcoin ecosystem with KeepKey and BitPay's Copay both making announcements. The hardware wallet KeepKey just announced a firmware change that allows wallet users to make trades on the ShapeShift cryptocurrency exchange platform (currently for Bitcoin, Litecoin and Dogecoin).</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/18d47bb53f9d9ab5e022793c25aa0c29/noop.jpg?input=http%3A%2F%2Fsiliconangle.com%2Ffiles%2F2016%2F08%2Fbitcoin-wallet-exchange-blockchain-cryptocurrency-800x600.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>UK's Central Bank Fails to Meet Bond-Purchase Target, For First Time</h1><p>UK's Central Bank appeared to be unsuccessful in reaching its government debt bond purchase goal of £1.170 billion. "In itself, that not that much has been offered is not surprising," said Jason Simpson, UK rate strategist at Societe Generale. "It's a little surprising that this comes on the first week ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ef6348fea33c0aba6698bbc558c785d0/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83N2M4MjA5NWFjZjI5YmE0OWViNmVmMmM1NmJiMzE4YS5qcGc%3D.jpg"></article>]]></description>
             <link>https://cointelegraph.com/news/uks-central-bank-fails-to-meet-bond-purchase-target-for-first-time</link>
             <guid isPermaLink="false">d4523b4f-932b-47ea-ba12-999fd87d2c85</guid>
+            <pubDate>Wed, 17 Aug 2016 17:12:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitfinex: Cause of Bitcoin Hack Still 'Unknown' - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Bitfinex: Cause of Bitcoin Hack Still 'Unknown' - CoinDesk</h1><p>Nearly two weeks after losing more than $60m in customer funds, Bitfinex reports it has not yet identified how the theft was carried out. In a statement released earlier today, the exchange reported it had hired Ledger Labs, a blockchain consultancy previously contracted by ShapeShift following its own cybersecurity problems, to both investigate the theft as well as perform a balance sheet audit.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e296256b337a7cffb84813cf6439a9fd/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Flost-confused-e1471442833943.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/bitfinex-most-user-funds-offline/</link>
+            <guid isPermaLink="false">df71885a-0e5e-4c07-9f4b-f063c4995395</guid>
             <pubDate>Wed, 17 Aug 2016 17:12:28 GMT</pubDate>
         </item>
     </channel>
