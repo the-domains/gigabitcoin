@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 00:59:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 01:00:19 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Format of mkey field in encrypted wallet.dat file]]></title>
+            <description><![CDATA[<article><h1>Format of mkey field in encrypted wallet.dat file</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top I am writing a C++ application to scour large files (typically disk images) for wallet.dat files, with the intention of recovering the private keys.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/48070/format-of-mkey-field-in-encrypted-wallet-dat-file</link>
+            <guid isPermaLink="false">bda0513e-b9ae-46f2-b7b6-860a0784aff0</guid>
+            <pubDate>Fri, 19 Aug 2016 00:58:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Man Who Introduced Millions to Bitcoin Says Blockchain Is a Bust]]></title>
             <description><![CDATA[<article><h1>Man Who Introduced Millions to Bitcoin Says Blockchain Is a Bust</h1><p>Stefan Thomas, who introduced millions of people to bitcoin, has had a change of heart. Blockchain, the ledger software that makes the digital currency possible, is too rigid to gain wide adoption, he wrote in an essay titled " The Subtle Tyranny of Blockchain."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/19640c607a0136107038d08b5124afda/noop.jpg?input=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi8KqYq9PVvuI%2Fv1%2F-1x-1.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Address 19BY2XCgbDe6WtTVbTyzM9eR3LYr6VitWK</h1><p>Transactions sent and received from bitcoin address 19BY2XCgbDe6WtTVbTyzM9eR3LYr6VitWK.</p></article>]]></description>
             <link>https://blockchain.info/address/19BY2XCgbDe6WtTVbTyzM9eR3LYr6VitWK</link>
             <guid isPermaLink="false">e38dcbe2-700b-41c6-bf1b-ad05497d204e</guid>
-            <pubDate>Fri, 19 Aug 2016 00:58:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rakuten Acquires Bitcoin Startup Team for Blockchain Lab Launch - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Rakuten Acquires Bitcoin Startup Team for Blockchain Lab Launch - CoinDesk</h1><p>Japanese e-commerce firm Rakuten is opening a blockchain development lab in the UK, a move that follows its acquisition of former employees at bitcoin payments startup Bitnet. Former Bitnet employees Stephen McNamara and Fergal Downey will spearhead the Belfast-based operation, which Rakuten said today will be focused on blockchain technology and FinTech more broadly.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1319a88f5dbf5bd89f4703f5f58a2b79/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FRakuten.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/ratuken-blockchain-lab-acqui-hire/</link>
-            <guid isPermaLink="false">9122f1be-b05c-4add-939c-77c775c1541a</guid>
             <pubDate>Fri, 19 Aug 2016 00:58:43 GMT</pubDate>
         </item>
     </channel>
