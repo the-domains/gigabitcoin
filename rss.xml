@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 08:30:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 08:30:23 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Wretched, Endless Cycle of Bitcoin Hacks]]></title>
+            <description><![CDATA[<article><h1>The Wretched, Endless Cycle of Bitcoin Hacks</h1><p>It seemed bitcoin exchange Bitfinex was doing all the right things. In the end, that didn't stop hackers from stealing $65 million. The latest in a long list of attacks on the digital currency since its birth in 2009 has been particularly vexing for the bitcoin community.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b9256a2069465df3b17fba3bc8df5b06/noop.jpg?input=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiIfSSo7hLknk%2Fv1%2F-1x-1.jpg"></article>]]></description>
+            <link>http://www.bloomberg.com/news/articles/2016-08-17/the-wretched-endless-cycle-of-bitcoin-hacks</link>
+            <guid isPermaLink="false">0e3b0d1f-ad21-4e09-920a-b27ce726d20d</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Bitcoin need to fork BlockStream Their mission & goal is no longer aligned with the community</p>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Rakuten buys struggling bitcoin startup Bitnet to create a 'blockchain research lab'</h1><p>Rakuten has confirmed that it has acquired the assets of Bitnet, a bitcoin wallet startup it invested in, which will be used to create a 'bitcoin lab' for the Japanese retail giant. The transaction is undisclosed but it follows a Wall Street Journal report in July which speculated that a deal was in the works.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0a0b6cdc7f9dd98a8d11e1a7ba308207/noop?input=https%3A%2F%2Ftctechcrunch2011.files.wordpress.com%2F2014%2F12%2Fa-real-bitcoin.jpg%26h%3D400%26crop%3D1"></article>]]></description>
             <link>https://techcrunch.com/2016/08/18/rakuten-buys-struggling-bitcoin-startup-bitnet-to-create-a-blockchain-research-lab/</link>
             <guid isPermaLink="false">58b610d8-7475-4cf1-9647-ea854a504973</guid>
-            <pubDate>Sat, 20 Aug 2016 01:28:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[vDice Brings SatoshiDice-Like Game for Ethereum Users - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>vDice Brings SatoshiDice-Like Game for Ethereum Users - NEWSBTC</h1><p>vDice is the first commercial, on blockchain, betting game for Ethereum. It's a tribute to the super successful SatoshiDICE game; Bitcoin's first big hit. In 2013 the game sold for over 100,000 Bitcoins (approx $100,000,000 on current rates). The creators have delivered a beautiful, working product.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/28b06a73994e39c3b03f03d340d4ed6f/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F19080859%2Fwp-1471590533126.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/19/vdice-brings-satoshidice-like-game-for-ethereum-users/</link>
-            <guid isPermaLink="false">9d8953e2-a049-48e0-9d17-9f6cbbc2eca0</guid>
             <pubDate>Sat, 20 Aug 2016 01:28:45 GMT</pubDate>
         </item>
     </channel>
