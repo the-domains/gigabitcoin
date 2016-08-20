@@ -7,6 +7,13 @@
         <lastBuildDate>Sat, 20 Aug 2016 08:30:39 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Bank of America Merrill Lynch, HSBC, and IDA develop a blockchain prototype solution for trade finance]]></title>
+            <description><![CDATA[<article><h1>Bank of America Merrill Lynch, HSBC, and IDA develop a blockchain prototype solution for trade finance</h1><p>Bank of America Merrill Lynch (BofAML), HSBC, and the Infocomm Development Authority of Singapore (iDA) recently announced that they have jointly developed "a prototype solution built on Blockchain technology that could change the way businesses around the world trade with each other." The Hyperledger project's open source blockchain was chosen to be the backbone of the small consortium.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9dc67eff2f085771afa6e553bb9467e3/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-Blockchain-Graphic-Banner.jpg"></article>]]></description>
+            <link>http://bravenewcoin.com/news/bank-of-america-merrill-lynch-hsbc-and-ida-develop-a-blockchain-prototype-solution-for-trade-finance/</link>
+            <guid isPermaLink="false">314218ef-1123-4b68-93af-c17a6535c1c9</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bitcoin Price Analysis - Selling pressure continues]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Analysis - Selling pressure continues</h1><p>The technical setups posted below use simple trend detection, support and resistance, channels, pattern and candlestick analysis. We aim for high-probability trade setups on BTCUSD and use very few indicators. All charts use BNC's Bitcoin Liquid Index for maximum accuracy. The timeframe for trades is 1 to 7 days, so we'll use 4h candlesticks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d273ee0e1e2b961de580a458c11de4c5/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-Selling-pressure-continues-Sug-2016-Cover.jpg"></article>]]></description>
             <link>http://bravenewcoin.com/news/bitcoin-price-analysis-selling-pressure-continues/</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>NSA's Hacking Group Hacked! Bunch of Private Hacking Tools Leaked Online</h1><p>It seems like the NSA has been HACKED! Update: The NSA Hack - What, When, Where, How, Who & Why? Explained Here. An unknown hacker or a group of hackers just claimed to have hacked into " Equation Group" -- a cyber-attack group allegedly associated with the United States intelligence organization NSA -- and dumped a bunch of its hacking tools (malware, private exploits, and hacking tools) online.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3550ffa8ba990c64eb1a351de778e443/noop.png?input=https%3A%2F%2F2.bp.blogspot.com%2F-_YANTNdqS0M%2FV7H7c08SVgI%2FAAAAAAAApLs%2FvBdMflmleREiPRM04wCdA2jhq4pCDHANwCLcB%2Fs1600%2Fnsa-hacked.png"></article>]]></description>
             <link>https://thehackernews.com/2016/08/nsa-hacking-tools.html</link>
             <guid isPermaLink="false">bf8b6ae2-6142-4525-a89f-9bed2554e407</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Our CoinShuffle implementation is finally working! https://live.blockcypher.com/btc-testnet/tx/fe68ebbbec06746a26d4038b500b3b9450b91f9e5c0935304b18fe13ec3eccbd/ ...</p>]]></description>
-            <link>https://twitter.com/myceliumcom/status/765214573616037888</link>
-            <guid isPermaLink="false">d5e0ac52-d225-4bcc-a2f9-6f21a3a0cd8c</guid>
             <pubDate>Sat, 20 Aug 2016 08:29:49 GMT</pubDate>
         </item>
     </channel>
