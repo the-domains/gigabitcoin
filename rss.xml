@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 01:29:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 01:29:38 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A troll just used bitcoin transactions to Rickroll the NSA hackers - Tech2]]></title>
+            <description><![CDATA[<article><h1>A troll just used bitcoin transactions to Rickroll the NSA hackers - Tech2</h1><p>An anonymous troll used a series of bitcoin transactions to rickroll the Shadow Brokers. The Shadow Brokers are the group that recently hacked the NSA associated threat actor, the Equation Group . The Shadow Brokers are auctioning stolen NSA surveillance tools , which includes zero day exploits .</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/df2dbbfba94edbb97462daa85b4c2125/croprotate.jpg?cropheight=360&cropwidth=624&degrees=0&input=http%3A%2F%2Ftech.firstpost.com%2Fwp-content%2Fuploads%2F2016%2F08%2Ftransactions_shadow_brokers.jpg&x=8&y=0"></article>]]></description>
+            <link>http://tech.firstpost.com/news-analysis/a-troll-just-used-bitcoin-transactions-to-rickroll-the-nsa-hackers-330501.html</link>
+            <guid isPermaLink="false">9a2c1c22-662c-41ee-9470-cc7281ecf986</guid>
+            <pubDate>Sat, 20 Aug 2016 01:28:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Isn't the Safe Store of Wealth Everyone Thinks It Is]]></title>
             <description><![CDATA[<article><h1>Bitcoin Isn't the Safe Store of Wealth Everyone Thinks It Is</h1><p>It seemed bitcoin exchange Bitfinex was doing all the right things. In the end, that didn't stop hackers from stealing $65 million. The latest in a long list of attacks on the digital currency since its birth in 2009 has been particularly vexing for the bitcoin community.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/05059095ed67671e2096f7a912e83b60/noop.jpg?input=http%3A%2F%2Fheatst.com%2Fwp-content%2Fuploads%2F2016%2F02%2FBitcoin-Banner.jpg%3Fw%3D1200%26h%3D630%26crop%3D1%26quality%3D80%26strip%3Dinfo"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>GTX 1070 Optimised: 390X Ethereum Hashing on 140 Watts?</h1><p>The new Nvidia-beta driver package that allows for clock, memory, and voltage adjustments released this week, and I thought it would be interesting to see just how far we can push the EVGA GTX 1070's Ethereum hashing now that we have full control over the hardware.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6bb6e2eab9a397651533f83c1dda3600/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2F1070-optsplash.jpg"></article>]]></description>
             <link>http://bitcoinist.net/gtx-1070-optimized-ethereum/</link>
             <guid isPermaLink="false">f5c05c04-2b18-47ce-a6a3-cd9151dd97b1</guid>
-            <pubDate>Sat, 20 Aug 2016 01:28:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[vDice Support Ethereum Light Wallets - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>vDice Support Ethereum Light Wallets - Bitcoinist.net</h1><p>vDice has announced full support for Ethereum light clients. Specialising in gambling games that exist only on the Ethereum blockchain, they have become the leader in Ethereum Gambling Dapps. The vDice platform is unique in the Ethereum space and the area of digital currency generally. Disclaimer: This is a press release.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/925b4bef74ecb3177802b70716b48e8b/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2Fvdice.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/vdice-support-ethereum-light-wallets/</link>
-            <guid isPermaLink="false">37c1a867-e9c5-451c-a338-4a58d08dd722</guid>
             <pubDate>Sat, 20 Aug 2016 01:28:32 GMT</pubDate>
         </item>
     </channel>
