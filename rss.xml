@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 08:32:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 08:32:06 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bank of England Seeks Digital Currency Research Lead - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Bank of England Seeks Digital Currency Research Lead - CoinDesk</h1><p>The Bank of England is on the hunt for an economist to spearhead its research into a central bank-issued digital currency. According to the job listing, the research lead would play a driving role in its bid to issue a digitized, blockchain-based version of the UK pound - an idea the Bank of England has been exploring since as early as last year.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/051a68c59c378bb836947b550da2f837/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fbank-of-england-england-e1471614646823.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/bank-england-seeks-digital-currency-research-lead/</link>
+            <guid isPermaLink="false">9878312c-4f4c-401f-95ba-70688e9c10fc</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ethereum Classic is Starting to Mobilize - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Ethereum Classic is Starting to Mobilize - CoinDesk</h1><p>Ethereum's original blockchain just won't die. The result of a hard fork of the ethereum network in July, the blockchain has not only survived, but it's evolving into a competing version of the decentralized application platform. Now, supporters of the platform are beginning to mobilize.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f3c8cf73edee6d95bd35b7d51c608431/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FIMG-20160819-WA0029.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Regulators Start To See Bitcoin As "Prosecution Futures"</h1><p>Regulators have mixed feelings towards Bitcoins, a trend that most people have noticed over the past few years. At the same time, there is a growing number of officials who see Bitcoin and blockchain as "prosecution futures", due to the technology making it easy to track funds.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/871ddcf38508b4eaa0e9f5eddfc22603/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_348502235.jpg"></article>]]></description>
             <link>http://themerkle.com/regulators-start-to-see-bitcoin-as-prosecution-futures/</link>
             <guid isPermaLink="false">51fdb38c-9856-4566-a7fe-260fb4d865a9</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lisk Blockchain Platform Could Host Megaupload 2.0 and Steemit]]></title>
-            <description><![CDATA[<article><h1>Lisk Blockchain Platform Could Host Megaupload 2.0 and Steemit</h1><p>Oliver Beddows, CTO of Lisk, has responded in the affirmative to a question on whether the Lisk blockchain is currently able to host a project of Steemit size considering the stability of its network.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/70358e3d9483e7cb826965782af94afc/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yNzQ0YTY5ZTVmY2RmODc5MGVjYWUzMmVmOGYyODlmYi5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/lisk-blockchain-platform-to-host-megaupload-20-and-steemit</link>
-            <guid isPermaLink="false">60e75631-76df-4570-87c8-d484d34a0fae</guid>
             <pubDate>Sat, 20 Aug 2016 08:29:56 GMT</pubDate>
         </item>
     </channel>
