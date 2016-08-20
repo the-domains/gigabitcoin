@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 08:32:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 08:32:38 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[California Lawmaker: Bitcoin Thefts Show Industry Regulation Needed - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>California Lawmaker: Bitcoin Thefts Show Industry Regulation Needed - CoinDesk</h1><p>The state assemblyman behind efforts to regulate digital currency businesses in California cited the $65m hack of Bitfinex this week as evidence of the need for tighter industry controls. In a statement issued following his state's decision to temporarily shelve new rulemakings this year, he said that more time was needed to strike a balance between giving virtual currency businesses a firm foundation and ensuring consumers are protected.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/af8e7c546a48c247b8a82c5cf94faa5b/noop.png?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FScreen-Shot-2016-08-19-at-11.11.26-AM-e1471619581705.png"></article>]]></description>
+            <link>http://www.coindesk.com/california-lawmaker-bitfinex-regulation-needed/</link>
+            <guid isPermaLink="false">309222cc-a88d-42ea-b184-da2f5dddb0d6</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Ponzi Schemer Hints at Dealings With Mt Gox CEO - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Bitcoin Ponzi Schemer Hints at Dealings With Mt Gox CEO - CoinDesk</h1><p>Convicted Ponzi scheme operator Trendon Shavers is now insinuating the major unidentified debtor cited in his defense against the SEC was Mark Karpeles, CEO of the now-defunct bitcoin exchange Mt Gox.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/834d9309654b8bb44d9e14f125ce7435/noop.png?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FScreen-Shot-2016-08-19-at-4.38.16-PM.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>To Go Big on Blockchain, 'Big Four' Firm PwC Thinking Small - CoinDesk</h1><p>To scale up its blockchain work, 'Big Four' audit firm PwC is thinking small with its strategy. PwC FinTech director Geraldine Balaj yesterday revealed fresh details about her firm's plans at Blockchain Conference New York.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a6890926aae5e51604641c22954f2f27/noop.png?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FScreen-Shot-2016-08-18-at-8.11.18-AM-e1471522655667.png"></article>]]></description>
             <link>http://www.coindesk.com/blockchain-big-pwc-micro-consortia/</link>
             <guid isPermaLink="false">6e899f94-d61d-4ca3-a1f0-703e1d43212b</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin.org Warns of Attacks Amid Upcoming Bitcoin Software Release - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Bitcoin.org Warns of Attacks Amid Upcoming Bitcoin Software Release - CoinDesk</h1><p>A new post on the open-source Bitcoin.org website indicates its contributors have reason to believe the online resource may be targeted by malicious actors following an upcoming software release by Bitcoin Core developers. Bitcoin.org contributor Cobra-Bitcoin published a post today in which he indicated that certain resources the website intends to post following the Bitcoin Core development update could be the target of unspecified "state-sponsored attackers".</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/81af34ed377655f749b33cea611a1326/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fred-light-warning-e1471494992936.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/bitcoin-org-warns-expected-attacks-arounds-upcoming-bitcoin-software-release/</link>
-            <guid isPermaLink="false">1833a26c-f490-41ab-a35f-8a9a313cce1d</guid>
             <pubDate>Sat, 20 Aug 2016 08:29:58 GMT</pubDate>
         </item>
     </channel>
