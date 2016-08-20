@@ -4,13 +4,20 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 01:28:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 01:28:48 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Can ACTUS Stop Financial Crises with Blockchain Data Standards?]]></title>
             <description><![CDATA[<article><h1>Can ACTUS Stop Financial Crises with Blockchain Data Standards?</h1><p>The lack of global financial industry data standards for financial instruments has created chaos for digital currency startups and the financial sector as a whole. Even more devastating is the intensification effect this lack of standards has had during recent financial crises.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/209638e3b6f9dcfb35588d625ddf59a7/croprotate.png?cropheight=573&cropwidth=773&degrees=0&input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FData-analysis-web.png&x=13&y=13"></article>]]></description>
             <link>https://news.bitcoin.com/actus-blockchain-data-financial-crises/</link>
             <guid isPermaLink="false">7f616429-69a1-41b1-ad9b-e15e6db55d31</guid>
+            <pubDate>Sat, 20 Aug 2016 01:28:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LEOcoin Foundation Releases Full White Paper for New Token]]></title>
+            <description><![CDATA[<article><h1>LEOcoin Foundation Releases Full White Paper for New Token</h1><p>The LEOcoin Foundation has released a full white paper for its digital currency, which details development so far as well as outlining a roadmap for future progress. Disclaimer: This article was provided by Bitcoin PR Buzz. Bitcoinist is not affiliated with the firms represented by Bitcoin PR Buzz and is not responsible for their products and/or services.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1cdd5b281f2bbc1aadb37eaa8c08fcb2/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FLEOcoin-PR-Buzz-Cover.png"></article>]]></description>
+            <link>http://bitcoinist.net/leocoin-whitepaper-token/</link>
+            <guid isPermaLink="false">bbf0245b-44ae-48ff-aec6-94bc15e9d5de</guid>
             <pubDate>Sat, 20 Aug 2016 01:28:18 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>BitGo CEO Mike Belshe Believes in Bitcoin Despite Bitfinex Hack</h1><p>BitGo's Mike Belshe has said that questions raised about the security of bitcoin with some suggesting that digital currencies can never be secure are wrong. After Mt. Gox, the second biggest security breach of a bitcoin exchange took place earlier this month when the Hong Kong-based Bitfinex halted trading after hackers stole around $70 million worth of users' bitcoins.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/abd993d182495cc0fe176610425d5b50/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FBitGo-CEO-Mike-Belshe-Believes-in-Bitcoin-Despite-Bitfinex-Hack.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/bitgo-ceo-mike-belshe-believes-bitcoin-despite-bitfinex-hack/</link>
             <guid isPermaLink="false">6798bb35-3916-4d3f-9097-4394e6be676a</guid>
-            <pubDate>Fri, 19 Aug 2016 00:58:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Format of mkey field in encrypted wallet.dat file]]></title>
-            <description><![CDATA[<article><h1>Format of mkey field in encrypted wallet.dat file</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top I am writing a C++ application to scour large files (typically disk images) for wallet.dat files, with the intention of recovering the private keys.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/48070/format-of-mkey-field-in-encrypted-wallet-dat-file</link>
-            <guid isPermaLink="false">bda0513e-b9ae-46f2-b7b6-860a0784aff0</guid>
             <pubDate>Fri, 19 Aug 2016 00:58:44 GMT</pubDate>
         </item>
     </channel>
