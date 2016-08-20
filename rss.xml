@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 08:30:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 08:30:45 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Do Lightning Channels have to be resolved before a certain time?]]></title>
-            <description><![CDATA[<article><h1>Do Lightning Channels have to be resolved before a certain time?</h1><p>I seem to remember that Lightning channels could remain open indefinitely with the introduction of CLTV I think instead of "CLTV" you mean "CSV" (as in OP_CSV, BIP112). As far as I know, nobody claimed that OP_CLTV would allow HLTC-style (Lightning) payment channels to stay open indefinitely, but that was definitely a claim of OP_CSV.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/48056/do-lightning-channels-have-to-be-resolved-before-a-certain-time</link>
-            <guid isPermaLink="false">7f00692b-7c8b-40a0-b605-d84ef9bbcdf9</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:52 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[What is a hash pre-image as it is used for the breach remedy?]]></title>
             <description><![CDATA[<article><h1>What is a hash pre-image as it is used for the breach remedy?</h1><p>In the image below from Rusty Russell's Deployable Lightning paper, you can see a visualization of the commitment transactions and their outputs: For each payment in a channel, there are two commitment transactions generate, one for Alice and one for Bob.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f6d7d807e48ea42172fa1df685b43b89/noop.png?input=http%3A%2F%2Fi.stack.imgur.com%2F1mm67.png"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Major stock exchange completes blockchain trial for replacement settlement system</h1><p>Australia's largest Stock Exchange, the Australian Securities Exchange (ASX), recently published its Annual Report, revealing the company's progress and near-future plans for its blockchain, or Distributed Ledger Technology (DLT), projects. ASX is one of the world's leading financial markets, with a total market capitalization of around $1.5 trillion.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e53a6e1bd1fca7bdb4e7089bfb66d4d8/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-Sydney-Harbour-Banner.jpg"></article>]]></description>
             <link>http://bravenewcoin.com/news/major-stock-exchange-completes-blockchain-trial-for-replacement-settlement-system/</link>
             <guid isPermaLink="false">9494c4c4-c1d9-4515-b899-0b328e188d8f</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five Standout Start-Ups Focused Upon Blockchain Trade Finance]]></title>
+            <description><![CDATA[<article><h1>Five Standout Start-Ups Focused Upon Blockchain Trade Finance</h1><p>In Trade Finance there's a lot of activity. HSBC and Bank of America are working with HyperLedger; R3 is trialling with 15 banks based upon Corda; Ripple is working with Standard Chartered and DBS; and JPMorgan have been developing a trade finance trial with Digital Asset Holdings.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/088c61f510db45eeade91cd9c96414b9/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-Five-Standouts-Trade-Finance-Banner.jpg"></article>]]></description>
+            <link>http://bravenewcoin.com/news/five-standout-start-ups-focused-upon-blockchain-trade-finance/</link>
+            <guid isPermaLink="false">3d36b755-1a49-42ef-9884-e8b59b82a742</guid>
             <pubDate>Sat, 20 Aug 2016 08:29:51 GMT</pubDate>
         </item>
     </channel>
