@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 08:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 08:33:46 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I have 100$ and free electricity, how do I start bitcoin mining?]]></title>
+            <description><![CDATA[<article><h1>I have 100$ and free electricity, how do I start bitcoin mining?</h1><p>Answer (1 of 3): To start mining Bitcoin, aside from free electricity, you need a Bitcoin mining hardware which will cost you a lot. 100$ is not enough for that. While 1 Bitcoin now costs more than 500$, it's more practical to buy other cryptocurrencies that are way cheaper than Bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/87785482e71795662128073b8ca89052/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-3544-200-DDa210tdHWnSwW0GbWfobW5lRxdVxTS3.jpeg"></article>]]></description>
+            <link>https://www.quora.com/I-have-100-and-free-electricity-how-do-I-start-bitcoin-mining</link>
+            <guid isPermaLink="false">9771de68-2a07-4615-86b6-32000ad69086</guid>
+            <pubDate>Sat, 20 Aug 2016 08:30:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin.org suspects state-sponsored attacks on the horizon | ZDNet]]></title>
             <description><![CDATA[<article><h1>Bitcoin.org suspects state-sponsored attacks on the horizon | ZDNet</h1><p>Bitcoin.org has warned users to be aware that the upcoming release of Bitcoin Core is likely to be targeted by state-sponsored cyberattackers. The group which manages Bitcoin Core, the client used to keep the virtual currency decentralized while at the same time aims to accept only valid transactions, warned this week that the organization has "reason to suspect" that the binaries used in the next release will become targets.</p></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>GTX 1070 Optimised: 390X Ethereum Hashing on 140 Watts?</h1><p>The new Nvidia-beta driver package that allows for clock, memory, and voltage adjustments released this week, and I thought it would be interesting to see just how far we can push the EVGA GTX 1070's Ethereum hashing now that we have full control over the hardware.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6bb6e2eab9a397651533f83c1dda3600/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2F1070-optsplash.jpg"></article>]]></description>
             <link>http://bitcoinist.net/gtx-1070-optimized-ethereum/</link>
             <guid isPermaLink="false">2daa6beb-9d80-40ee-b06e-25f154841a61</guid>
-            <pubDate>Sat, 20 Aug 2016 08:30:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Core Developer: Chinese Attack on Bitcoin Core Doubtful]]></title>
-            <description><![CDATA[<article><h1>Core Developer: Chinese Attack on Bitcoin Core Doubtful</h1><p>Bitcoin.org, a self-reported objective information site in the Bitcoin space, has warned that the Bitcoin Core wallet - the official wallet of Bitcoin - is ripe for an attack.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4712b1df163083652525d5649d22c634/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FBitcoin-china-flag.png"></article>]]></description>
-            <link>http://bitcoinist.net/bitcoin-core-targeted-china/</link>
-            <guid isPermaLink="false">cdf39f61-a117-482e-9c9d-a719f02bb634</guid>
             <pubDate>Sat, 20 Aug 2016 08:30:03 GMT</pubDate>
         </item>
     </channel>
