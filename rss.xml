@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 08:30:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 08:30:45 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why didn't the difficulty adjust for the first 30,240 blocks?]]></title>
+            <description><![CDATA[<article><h1>Why didn't the difficulty adjust for the first 30,240 blocks?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/48106/why-didnt-the-difficulty-adjust-for-the-first-30-240-blocks</link>
+            <guid isPermaLink="false">bfc335ce-94ee-4f25-95a9-1b27f3292e82</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Format of mkey field in encrypted wallet.dat file]]></title>
             <description><![CDATA[<article><h1>Format of mkey field in encrypted wallet.dat file</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top I am writing a C++ application to scour large files (typically disk images) for wallet.dat files, with the intention of recovering the private keys.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://bravenewcoin.com/news/keepkey-and-shapeshift-team-up-for-dynamic-and-secure-cryptocurrency-trading/</link>
             <guid isPermaLink="false">c198bdde-eb84-4d72-96ef-986e5f8ba92a</guid>
             <pubDate>Sat, 20 Aug 2016 08:29:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hackers auction NSA cyber weapons for bitcoin]]></title>
-            <description><![CDATA[<article><h1>Hackers auction NSA cyber weapons for bitcoin</h1><p>An anonymous hacking group calling themselves the Shadow Brokers are selling hacker tools in what they are calling "the Equation Group Cyber Weapons Auction." The winner gets hacking and exploit tools allegedly stolen from the US National Security Agency (NSA). As a demonstration of their product, the group released 40% of the large cache of files.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0f543b2392e01214ef3e14b97ad696ce/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-NSA-Headquarters.jpg"></article>]]></description>
-            <link>http://bravenewcoin.com/news/hackers-auction-nsa-cyber-weapons-for-bitcoin/</link>
-            <guid isPermaLink="false">c97127eb-92ba-47a7-8a9d-424c383632fe</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
