@@ -4,8 +4,43 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 08:30:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 08:30:39 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Analysis - Selling pressure continues]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Analysis - Selling pressure continues</h1><p>The technical setups posted below use simple trend detection, support and resistance, channels, pattern and candlestick analysis. We aim for high-probability trade setups on BTCUSD and use very few indicators. All charts use BNC's Bitcoin Liquid Index for maximum accuracy. The timeframe for trades is 1 to 7 days, so we'll use 4h candlesticks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d273ee0e1e2b961de580a458c11de4c5/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-Selling-pressure-continues-Sug-2016-Cover.jpg"></article>]]></description>
+            <link>http://bravenewcoin.com/news/bitcoin-price-analysis-selling-pressure-continues/</link>
+            <guid isPermaLink="false">9df8c97c-2756-4703-a5d3-84da89bd0903</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MSG_CMPCT_BLOCK enum value is already in use · Issue #8500 · bitcoin/bitcoin]]></title>
+            <description><![CDATA[<article><h1>MSG_CMPCT_BLOCK enum value is already in use · Issue #8500 · bitcoin/bitcoin</h1><p>Compact blocks MSG_CMPCT_BLOCK enum value is already in use. It is used as MSG_THINBLOCK for xthin blocks. The existing type MSG_THINBLOCK is already in use and widely deployed: In Bitcoin XT, Bit...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b696cc3884d30c2452a19db83e9ae3bd/noop?input=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F92707%3Fv%3D3%26s%3D400"></article>]]></description>
+            <link>https://github.com/bitcoin/bitcoin/issues/8500</link>
+            <guid isPermaLink="false">575c8962-4b7f-4b21-8c87-6e95c2ef5b6a</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Having a bigger market share doesn't give you the right to tell others to recall their products already 6 months on the market because you are too lazy to do fix yours before your release." - Tom Zander demolishing Greg Maxwell's bullshitting technical attempts to "justify" stealing XThin's ID #. * /r/btc]]></title>
+            <description><![CDATA[<article><h1>"Having a bigger market share doesn't give you the right to tell others to recall their products already 6 months on the market because you are too lazy to do fix yours before your release." - Tom Zander demolishing Greg Maxwell's bullshitting technical attempts to "justify" stealing XThin's ID #. * /r/btc</h1><p>Here is Tom Zander responding to Gregory Maxwell's arrogant attempts to justify stealing XThin's ID #: > You should be ashamed of yourselves. >...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d3b5a3ac36fcdde3849e18b34ab3338d/noop.jpg?input=https%3A%2F%2Fi.redditmedia.com%2FO5BtTxnTQ5Yr0S0WKM2ABkqRLsemcQjb6PMT_QjlLuE.jpg%3Fw%3D320%26s%3D895ec6ea9728a003595e9122cb3184dc"></article>]]></description>
+            <link>https://www.reddit.com/r/btc/comments/4xpsev/having_a_bigger_market_share_doesnt_give_you_the/</link>
+            <guid isPermaLink="false">b26d34a2-f776-4f4c-9bf0-0ab211cbd057</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="https://i.redd.it/vmbkfv9mp5fx.png"></article>]]></description>
+            <link>https://i.redd.it/vmbkfv9mp5fx.png</link>
+            <guid isPermaLink="false">c63d12c6-3f07-446c-b8cf-df1577edc56a</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PSA: Full nodes should run a tor hidden service, it costs nothing and improves the network * /r/Bitcoin]]></title>
+            <description><![CDATA[<article><h1>PSA: Full nodes should run a tor hidden service, it costs nothing and improves the network * /r/Bitcoin</h1><p>Right now there are only 129 nodes available through their own tor hidden services: https://bitnodes.21.co/nodes/?q=.onion Since Core 0.12...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/47614fb72b6a31760bccb51b85b5e71e/noop.jpg?input=https%3A%2F%2Fi.redditmedia.com%2FQh6xIOsZU5M-_rB-fOxoZIoPtYVrMLvaJrkVcSYuLxs.jpg%3Fw%3D216%26s%3D5965b607814bfff4efa8c6393482468d"></article>]]></description>
+            <link>https://www.reddit.com/r/Bitcoin/comments/4xqfpz/psa_full_nodes_should_run_a_tor_hidden_service_it/</link>
+            <guid isPermaLink="false">9d29dc46-dfe9-42b1-925a-4ef00d5e235c</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article></article>]]></description>
@@ -40,41 +75,6 @@
             <link>https://twitter.com/myceliumcom/status/765214573616037888</link>
             <guid isPermaLink="false">d5e0ac52-d225-4bcc-a2f9-6f21a3a0cd8c</guid>
             <pubDate>Sat, 20 Aug 2016 08:29:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Working on adding support for @ledgerHQ and @BitcoinTrezor.pic.twitter.com/0eoeWHmU6P" src="https://pbs.twimg.com/media/Cp-sA3WWcAAw56q.jpg:large">]]></description>
-            <link>https://twitter.com/nejc_kodric/status/765521344616361984</link>
-            <guid isPermaLink="false">f4587feb-4770-43e9-8f32-e256be53ac38</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BTCfork/BTC-Forks-Roadmap]]></title>
-            <description><![CDATA[<article><h1>BTCfork/BTC-Forks-Roadmap</h1><p>BTC-Forks-Roadmap - A place to discuss and create the BTC Forks Roadmap</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f6ca6624840be79a37c6fb26c6e6712d/noop?input=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F20826420%3Fv%3D3%26s%3D400"></article>]]></description>
-            <link>https://github.com/BTCfork/BTC-Forks-Roadmap/blob/master/Proposals/BTC%20Forks%20Roadmap%20Proposal.md</link>
-            <guid isPermaLink="false">c2de9f82-9859-4c66-9fb2-582cdbb1d3f1</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="https://i.redd.it/mjrjzxcposfx.png"></article>]]></description>
-            <link>https://i.redd.it/mjrjzxcposfx.png</link>
-            <guid isPermaLink="false">9ca71df3-c65f-4293-9cde-f46b6c0812c4</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>The hack of an NSA malware staging server is not unprecedented, but the publication of the take is. Here's what you need to know: (1/x)</p>]]></description>
-            <link>https://twitter.com/Snowden/status/765513662597623808</link>
-            <guid isPermaLink="false">68941f66-fce4-489b-b022-eda1bf3a4a64</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Airbnb hosts: list on OpenBazaar! * /r/Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Airbnb hosts: list on OpenBazaar! * /r/Bitcoin</h1><p>People around the world are listing their short-term rents on OpenBazaar. Join them! *...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ca4bcfb4fdf2823a6328148fce091302/noop.jpg?input=https%3A%2F%2Fi.redditmedia.com%2FL3chxMykHj9tFyUOzFwpatCUfG0nFsbWiu4pjyyexkQ.jpg%3Fw%3D320%26s%3Db520f2981c8b7bb9f7aa01bae7f4a24f"></article>]]></description>
-            <link>https://www.reddit.com/r/Bitcoin/comments/4y5m80/airbnb_hosts_list_on_openbazaar/</link>
-            <guid isPermaLink="false">4b0b2169-e459-4f09-8873-27f251817a60</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
