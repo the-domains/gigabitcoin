@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 08:30:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 08:30:33 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="https://i.redd.it/mjrjzxcposfx.png"></article>]]></description>
+            <link>https://i.redd.it/mjrjzxcposfx.png</link>
+            <guid isPermaLink="false">9ca71df3-c65f-4293-9cde-f46b6c0812c4</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The hack of an NSA malware staging server is not unprecedented, but the publication of the take is. Here's what you need to know: (1/x)</p>]]></description>
+            <link>https://twitter.com/Snowden/status/765513662597623808</link>
+            <guid isPermaLink="false">68941f66-fce4-489b-b022-eda1bf3a4a64</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Airbnb hosts: list on OpenBazaar! * /r/Bitcoin]]></title>
             <description><![CDATA[<article><h1>Airbnb hosts: list on OpenBazaar! * /r/Bitcoin</h1><p>People around the world are listing their short-term rents on OpenBazaar. Join them! *...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ca4bcfb4fdf2823a6328148fce091302/noop.jpg?input=https%3A%2F%2Fi.redditmedia.com%2FL3chxMykHj9tFyUOzFwpatCUfG0nFsbWiu4pjyyexkQ.jpg%3Fw%3D320%26s%3Db520f2981c8b7bb9f7aa01bae7f4a24f"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>New Snowden documents confirm leaked NSA tools are real</h1><p>Newly released documents from the Edward Snowden archive, published today by The Intercept , confirm what was already suspected this week: some of the NSA's secret malware is out in the open. 16-character string matches up On Saturday, a group going by the name "the Shadow Brokers" began leaking what it said were NSA exploits and scripts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b783ebd6c0d4acec8973bef5761762dc/noop.jpg?input=https%3A%2F%2Fcdn2.vox-cdn.com%2Fthumbor%2FLFyGxajuhQkZSSDs2vdZmBK83z4%3D%2F0x57%3A1100x676%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50448489%2FNSA-photo-by-Trevor-Paglen.0.jpg"></article>]]></description>
             <link>http://www.theverge.com/2016/8/19/12551354/snowden-documents-nsa-hack</link>
             <guid isPermaLink="false">dfabbb85-5675-4673-b8bd-22020d394bfd</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Wretched, Endless Cycle of Bitcoin Hacks]]></title>
-            <description><![CDATA[<article><h1>The Wretched, Endless Cycle of Bitcoin Hacks</h1><p>It seemed bitcoin exchange Bitfinex was doing all the right things. In the end, that didn't stop hackers from stealing $65 million. The latest in a long list of attacks on the digital currency since its birth in 2009 has been particularly vexing for the bitcoin community.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b9256a2069465df3b17fba3bc8df5b06/noop.jpg?input=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiIfSSo7hLknk%2Fv1%2F-1x-1.jpg"></article>]]></description>
-            <link>http://www.bloomberg.com/news/articles/2016-08-17/the-wretched-endless-cycle-of-bitcoin-hacks</link>
-            <guid isPermaLink="false">0e3b0d1f-ad21-4e09-920a-b27ce726d20d</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Bitcoin need to fork BlockStream Their mission & goal is no longer aligned with the community</p>]]></description>
-            <link>https://twitter.com/taylorgerring/status/766681267689578496</link>
-            <guid isPermaLink="false">b43f8281-aa77-4e48-b6ab-43a50d1db204</guid>
             <pubDate>Sat, 20 Aug 2016 08:29:48 GMT</pubDate>
         </item>
     </channel>
