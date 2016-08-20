@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 01:29:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 01:29:42 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Malware Turns Servers into Cryptocurrency Mining Engines]]></title>
+            <description><![CDATA[<article><h1>Malware Turns Servers into Cryptocurrency Mining Engines</h1><p>A malware called Linux.Lady targets Redis servers that have been placed online without passwords and launches a cryptocurrency mining software, according to hackread.com. According to Dr. Web, a Russian software retailer, Linux.Lady uses Google's Go programming language and targets Redis servers that lack passwords from systems administrators.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b1cf6801361567cb68f84ee310fc71c5/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FMalware-Turns-Servers-into-Cryptocurrency-Mining-Engines.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/malware-turns-servers-into-cryptocurrency-mining-engines/</link>
+            <guid isPermaLink="false">82199471-10b4-4332-9fd2-4cd703ae1d51</guid>
+            <pubDate>Sat, 20 Aug 2016 01:28:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Over 30,000 People In India Use Bitcoin For Transactions]]></title>
             <description><![CDATA[<article><h1>Over 30,000 People In India Use Bitcoin For Transactions</h1><p>While it is doubtful Bitcoin will replace the need for physical currencies anytime soon, it complements the existing financial ecosystem quite well. The status of Bitcoin in India has been relatively unsure for quite some time now. Even though the country can benefit a lot from cryptocurrency in their e-commerce and m-commerce sectors, adoption rates were still low.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2efbce218fe40caa808b6b575878a08a/croprotate.jpg?cropheight=452&cropwidth=952&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F19094806%2Fshutterstock_12476728.jpg&x=23&y=35"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.cryptocoinsnews.com/japan-may-left-behind-blockchain-race/</link>
             <guid isPermaLink="false">b8886af9-8dc5-4adb-be1e-ae9621c20b96</guid>
             <pubDate>Sat, 20 Aug 2016 01:28:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TrumpCoin is Real, But Will It Make Crypto Great Again?]]></title>
-            <description><![CDATA[<article><h1>TrumpCoin is Real, But Will It Make Crypto Great Again?</h1><p>A new currency - TrumpCoin - dedicated to supporting Donald Trump's presidency is currently seeking investments as a political action committee (PAC). Also read: Ripple CTO Blasts 'Subtle Tyranny' of Blockchain Hype Support Trump 'Without Giving Away All Your Money' TrumpCoin, which calls itself "the world's first cryptopac," even launched an updated website in its latest incarnation, which features an instructional video on its aims. "Let's make crypto great again," the closing slogan of the video drones.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a7bdac08880f2844302a9be8e4471e81/noop.png?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2F2016_04_06-trump-coin_homepage-3-2230880411.png"></article>]]></description>
-            <link>https://news.bitcoin.com/trumpcoin-real-make-crypto-great/</link>
-            <guid isPermaLink="false">27e75271-5bbb-41fe-81e0-48889afd5413</guid>
-            <pubDate>Sat, 20 Aug 2016 01:28:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
