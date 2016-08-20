@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 08:30:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 08:30:45 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sending confidential transaction amount to the receiver]]></title>
+            <description><![CDATA[<article><h1>Sending confidential transaction amount to the receiver</h1><p>In Elements Alpha, output "amounts" consist of 3 pieces of data: The Petersen commitment to the value, blinded by the blinding factor. The range proof, which can publicly prove that the value is within range [0..2^32-1] units (satoshis) without revealing anything about the blinding factor. An ECDH ephemeral public key of the sender.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/48064/sending-confidential-transaction-amount-to-the-receiver</link>
+            <guid isPermaLink="false">724945a2-ec20-4a39-9275-8d59c45c4260</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why didn't the difficulty adjust for the first 30,240 blocks?]]></title>
+            <description><![CDATA[<article><h1>Why didn't the difficulty adjust for the first 30,240 blocks?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/48106/why-didnt-the-difficulty-adjust-for-the-first-30-240-blocks</link>
+            <guid isPermaLink="false">bfc335ce-94ee-4f25-95a9-1b27f3292e82</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Format of mkey field in encrypted wallet.dat file]]></title>
+            <description><![CDATA[<article><h1>Format of mkey field in encrypted wallet.dat file</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top I am writing a C++ application to scour large files (typically disk images) for wallet.dat files, with the intention of recovering the private keys.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/48070/format-of-mkey-field-in-encrypted-wallet-dat-file</link>
+            <guid isPermaLink="false">cdf01f3d-670c-4094-a0f0-5e33f815fc02</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ethereum Classic Community Navigates a Distinct Path to the Future]]></title>
             <description><![CDATA[<article><h1>Ethereum Classic Community Navigates a Distinct Path to the Future</h1><p>Ethereum Classic started off as what is perhaps best described as a protest movement, opposing a (perceived) bailout of Ethereum's leaderless investment venture, The DAO. But the brand new cryptocurrency, which is actually the continuation of the pre-hard forked Ethereum chain, has since surprised many.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/40dc22ae23e758a235fe370da5e44c17/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fethereum-classic-community-navigates-a-distinct-path-to-the-future.jpg"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>http://bravenewcoin.com/news/gartners-puts-blockchain-at-the-peak-of-inflated-expectations-while-bitcoin-slides-into-the-trough-of-disillusionment/</link>
             <guid isPermaLink="false">e3543383-7fe3-4e8e-b1cf-f6c55bde4ec8</guid>
             <pubDate>Sat, 20 Aug 2016 08:29:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KeepKey and Shapeshift team up for dynamic and secure cryptocurrency trading]]></title>
-            <description><![CDATA[<article><h1>KeepKey and Shapeshift team up for dynamic and secure cryptocurrency trading</h1><p>KeepKey and ShapeShift recently announced a partnership to create the first fully trustless and highly secure process for trading cryptocurrencies. According to KeepKey, beta testing will begin next week. - ShapeShift Formed in mid-2014, ShapeShift was founded by early bitcoin entrepreneur Erik Voorhees.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b0989c975735f792b320516601334a6b/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-KeepKey-Integration-Cover.jpg"></article>]]></description>
-            <link>http://bravenewcoin.com/news/keepkey-and-shapeshift-team-up-for-dynamic-and-secure-cryptocurrency-trading/</link>
-            <guid isPermaLink="false">c198bdde-eb84-4d72-96ef-986e5f8ba92a</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hackers auction NSA cyber weapons for bitcoin]]></title>
-            <description><![CDATA[<article><h1>Hackers auction NSA cyber weapons for bitcoin</h1><p>An anonymous hacking group calling themselves the Shadow Brokers are selling hacker tools in what they are calling "the Equation Group Cyber Weapons Auction." The winner gets hacking and exploit tools allegedly stolen from the US National Security Agency (NSA). As a demonstration of their product, the group released 40% of the large cache of files.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0f543b2392e01214ef3e14b97ad696ce/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-NSA-Headquarters.jpg"></article>]]></description>
-            <link>http://bravenewcoin.com/news/hackers-auction-nsa-cyber-weapons-for-bitcoin/</link>
-            <guid isPermaLink="false">c97127eb-92ba-47a7-8a9d-424c383632fe</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin security is more than multisig]]></title>
-            <description><![CDATA[<article><h1>Bitcoin security is more than multisig</h1><p>Following the Bitfinex hack it's become apparent that people don't really understand bitcoin's multisig feature. There seems to be a lot of confusion over what multisig is and isn't, what it inherently does or does not do.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5f61712ab08c4447931cc500e8cef714/croprotate.jpeg?cropheight=304&cropwidth=400&degrees=0&input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-1J8Fmw0oES1cAj28siK6Ovw.jpeg&x=0&y=48"></article>]]></description>
-            <link>http://bravenewcoin.com/news/bitcoin-security-is-more-than-multisig/</link>
-            <guid isPermaLink="false">98d11910-700e-4b30-bd7c-ce0a922a038c</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
