@@ -4,8 +4,36 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 08:30:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 08:30:32 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Address 19BY2XCgbDe6WtTVbTyzM9eR3LYr6VitWK]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Address 19BY2XCgbDe6WtTVbTyzM9eR3LYr6VitWK</h1><p>Transactions sent and received from bitcoin address 19BY2XCgbDe6WtTVbTyzM9eR3LYr6VitWK.</p></article>]]></description>
+            <link>https://blockchain.info/address/19BY2XCgbDe6WtTVbTyzM9eR3LYr6VitWK</link>
+            <guid isPermaLink="false">80d6cc39-fef0-431f-adef-f23301e26e65</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[0.13.0 Binary Safety Warning]]></title>
+            <description><![CDATA[<article><h1>0.13.0 Binary Safety Warning</h1><p>We strongly recommend that you download that key, which should have a fingerprint of 01EA5486DE18A882D4C2684590C8019E36C2E964. You should securely verify the signature and hashes before running any Bitcoin Core binaries. This is the safest and most secure way of being confident that the binaries you're running are the same ones created by the Core Developers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9da8e724ef82569a35ce516d6961ff57cbe9c21b.png"></article>]]></description>
+            <link>https://bitcoin.org/en/alert/2016-08-17-binary-safety</link>
+            <guid isPermaLink="false">981ae250-7436-4fb6-af26-a22b5f434559</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Classic 1.1.0 Safety warning! High Priority! * /r/btc]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Classic 1.1.0 Safety warning! High Priority! * /r/btc</h1><p>We have reason to suspect that the current binaries for Bitcoin Classic will likely be targeted by Xenu the Dictator of the Galactic...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
+            <link>https://www.reddit.com/r/btc/comments/4yb48t/bitcoin_classic_110_safety_warning_high_priority/</link>
+            <guid isPermaLink="false">df5a1154-3acc-4a68-8c47-1d596ce28bf3</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ELI49: Why is one single person able to change the bitcoin.org website and NOBODY ELSE even knows what tf this is all about? * /r/Bitcoin]]></title>
+            <description><![CDATA[<article><h1>ELI49: Why is one single person able to change the bitcoin.org website and NOBODY ELSE even knows what tf this is all about? * /r/Bitcoin</h1><p>EDIT: To be clear: I'm not worried because one person did it, I'm worried because NOBODY ELSE seemed to know about it.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
+            <link>https://www.reddit.com/r/Bitcoin/comments/4ycryp/eli49_why_is_one_single_person_able_to_change_the/</link>
+            <guid isPermaLink="false">24874c9d-1344-4851-a1cf-18b0ef2f28a3</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New Snowden documents confirm leaked NSA tools are real]]></title>
             <description><![CDATA[<article><h1>New Snowden documents confirm leaked NSA tools are real</h1><p>Newly released documents from the Edward Snowden archive, published today by The Intercept , confirm what was already suspected this week: some of the NSA's secret malware is out in the open. 16-character string matches up On Saturday, a group going by the name "the Shadow Brokers" began leaking what it said were NSA exploits and scripts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b783ebd6c0d4acec8973bef5761762dc/noop.jpg?input=https%3A%2F%2Fcdn2.vox-cdn.com%2Fthumbor%2FLFyGxajuhQkZSSDs2vdZmBK83z4%3D%2F0x57%3A1100x676%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50448489%2FNSA-photo-by-Trevor-Paglen.0.jpg"></article>]]></description>
@@ -46,34 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 08/19/2016 - Watch Out for a Breakout! - NEWSBTC</h1><p>Bitcoin price looks ready to break out of its symmetrical triangle consolidation pattern, which could determine its longer-term direction. Bitcoin Price Key Highlights Bitcoin price looks ready to break out of its symmetrical triangle consolidation pattern, which could determine its longer-term direction.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/241aaf509c1bb11e1cc637fa83a5f2dd/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F19043312%2F160819_bitcoin.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/08/19/bitcoin-price-technical-analysis-08192016-watch-breakout/</link>
             <guid isPermaLink="false">8d43c51c-f73d-4cf2-9bf9-33f3167f2ee2</guid>
-            <pubDate>Sat, 20 Aug 2016 01:28:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article></article>]]></description>
-            <link>http://www.bizjournals.com/albuquerque/news/2016/08/18/local-businesses-exchanging-hard-cash-for-virtual.html</link>
-            <guid isPermaLink="false">2c7611ae-e97d-436d-ad29-8371ef359bfd</guid>
-            <pubDate>Sat, 20 Aug 2016 01:28:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[25 Students Selected for the MIT Intro to Cryptocurrency Bootcamp for People of Color and Women - MIT Media Lab Digital Currency Initiative]]></title>
-            <description><![CDATA[<article><h1>25 Students Selected for the MIT Intro to Cryptocurrency Bootcamp for People of Color and Women - MIT Media Lab Digital Currency Initiative</h1><p>Today, the MIT Digital Currency Initiative is excited to announce the selection of 25 students to attend the first-ever Cryptocurrency Bootcamp at the MIT Media Lab. More than 300 students from 5 continents, 36 U.S. states and 150 universities applied for the opportunity to attend the bootcamp.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aeecf52b00557a38055f7aefeed1673e/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*Z77kxWRVPz4G67jFQEftJA.jpeg"></article>]]></description>
-            <link>http://gigabitcoin.xyz/25-students-selected-for-the-mit-intro-to-cryptocurrency-boo/index.html</link>
-            <guid isPermaLink="false">693f4594-777d-4f2c-b0ba-b91918f2bc14</guid>
-            <pubDate>Sat, 20 Aug 2016 01:28:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum Price Technical Analysis - No Relief For Buyers - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Ethereum Price Technical Analysis - No Relief For Buyers - NEWSBTC</h1><p>Ethereum price ETH popped a few points higher versus the USD, but failed once again to sustain momentum, and traded lower. Ethereum price ETH popped a few points higher versus the USD, but failed once again to sustain momentum, and traded lower. ETH price remained under pressure against the US Dollar, as buyers failed to gain momentum.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c089205da0c8ccee80536c2130acfc75/croprotate.png?cropheight=757&cropwidth=1660&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F19031852%2FEthereum16.png&x=2&y=2"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/19/ethereum-price-technical-analysis-no-relief-buyers/</link>
-            <guid isPermaLink="false">f95f05dc-15e7-4666-8394-1d18fee3e58f</guid>
-            <pubDate>Sat, 20 Aug 2016 01:28:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comedy Forks of Tor Emerge in response to Foundation Drama - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>Comedy Forks of Tor Emerge in response to Foundation Drama - Bitcoinist.net</h1><p>Depending on your perspective and personal political leanings, the heading and course of the Tor Foundation since the ousting of Jacob Appelbaum can be characterised anywhere from "chaotic" to "unmitigated shit-show." Highlights include A smear Campaign levelled a the former project head, controversial restructuring, an exodus of key volunteers, and a marked increase in focus on identity politics within the Foundation's ranks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/99483fd0f8b6b013c5d86c1e1d488a8c/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FTormedy.png"></article>]]></description>
-            <link>http://bitcoinist.net/comedy-tor-forks/</link>
-            <guid isPermaLink="false">e89cf5b9-6089-410c-9c9b-0f91b8f6a86e</guid>
             <pubDate>Sat, 20 Aug 2016 01:28:46 GMT</pubDate>
         </item>
     </channel>
