@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 08:33:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 08:33:40 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Malicious MyEtherWallet Site Clones Collect Over 1,500 ETH]]></title>
-            <description><![CDATA[<article><h1>Malicious MyEtherWallet Site Clones Collect Over 1,500 ETH</h1><p>A few days ago, we reported on the malicious MyEtherWallet platforms which aim to defraud Ethereum users. As it turns out, there are various addresses which have been identified to receive this stolen funds. Unfortunately, some of these addresses contain substantial ETH and ETC balances, showing off the trickery is working.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/20c2a92d37cec6c9bbe96cf42a836185/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_170786756.jpg"></article>]]></description>
-            <link>http://themerkle.com/malicious-myetherwallet-site-clones-collect-over-1500-eth/</link>
-            <guid isPermaLink="false">3c85e27a-552d-4e1c-9e6e-03cfe36889f4</guid>
-            <pubDate>Sat, 20 Aug 2016 08:30:04 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Five Standout Start-Ups Focused Upon Blockchain Trade Finance]]></title>
             <description><![CDATA[<article><h1>Five Standout Start-Ups Focused Upon Blockchain Trade Finance</h1><p>In Trade Finance there's a lot of activity. HSBC and Bank of America are working with HyperLedger; R3 is trialling with 15 banks based upon Corda; Ripple is working with Standard Chartered and DBS; and JPMorgan have been developing a trade finance trial with Digital Asset Holdings.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/088c61f510db45eeade91cd9c96414b9/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-Five-Standouts-Trade-Finance-Banner.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>vDice Support Ethereum Light Wallets - Bitcoinist.net</h1><p>vDice has announced full support for Ethereum light clients. Specialising in gambling games that exist only on the Ethereum blockchain, they have become the leader in Ethereum Gambling Dapps. The vDice platform is unique in the Ethereum space and the area of digital currency generally. Disclaimer: This is a press release.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/925b4bef74ecb3177802b70716b48e8b/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2Fvdice.jpg"></article>]]></description>
             <link>http://bitcoinist.net/vdice-support-ethereum-light-wallets/</link>
             <guid isPermaLink="false">92b8abe1-8826-4f67-8436-8b668dc9a1c5</guid>
+            <pubDate>Sat, 20 Aug 2016 08:30:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opair Launches ICO for "Open and Fair" Cryptocurrency]]></title>
+            <description><![CDATA[<article><h1>Opair Launches ICO for "Open and Fair" Cryptocurrency</h1><p>Disclaimer: This article was provided by Bitcoin PR Buzz. Bitcoinist is not affiliated with the firms represented by Bitcoin PR Buzz and is not responsible for their products and/or services. Founded by Frank H. Rettig, Opair aims to be a cryptocurrency as well as a platform for crowdfunding, Colored Coins, "decentralized debit cards," private chains, smart contracts, and reputation.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9e1d79966bb682677ae007438a6da715/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FOpair-PR-Buzz-cover.png"></article>]]></description>
+            <link>http://bitcoinist.net/opair-ico-cryptocurrency/</link>
+            <guid isPermaLink="false">e351ffc0-4f94-42bd-885b-e7c52629fd8d</guid>
             <pubDate>Sat, 20 Aug 2016 08:30:03 GMT</pubDate>
         </item>
     </channel>
