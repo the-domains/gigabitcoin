@@ -4,77 +4,77 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 08:30:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 08:30:47 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Gartner puts Blockchain at the Peak of Inflated Expectations, while Bitcoin slides into the Trough of Disillusionment]]></title>
-            <description><![CDATA[<article><h1>Gartner puts Blockchain at the Peak of Inflated Expectations, while Bitcoin slides into the Trough of Disillusionment</h1><p>Research powerhouse Gartner Inc. recently announced their "Hype Cycle for Emerging Technologies, 2016," which shows that "Blockchain" is in the Peak of Inflated Expectations phase. According to the Hype Cycle, it will be another 5 to 10 years before blockchain reaches mainstream adoption. The industry specific "Blockchain Technologies and the Programmable Economy," shows Bitcoin is further ahead.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/42e41d46720b05e5166cc16796fdfbec/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-Hype-Cycle-Gartner-Banner.jpg"></article>]]></description>
-            <link>http://bravenewcoin.com/news/gartners-puts-blockchain-at-the-peak-of-inflated-expectations-while-bitcoin-slides-into-the-trough-of-disillusionment/</link>
-            <guid isPermaLink="false">e3543383-7fe3-4e8e-b1cf-f6c55bde4ec8</guid>
+            <title><![CDATA[Dash Across America: Jackalope Recap, Anarchist Justice, Bob Podolsky, and Agorist Hosting]]></title>
+            <description><![CDATA[<article><h1>Dash Across America: Jackalope Recap, Anarchist Justice, Bob Podolsky, and Agorist Hosting</h1><p>In this Dash Across America update, John and Cat share their experience while at Jackalope Freedom Festival, a weeklong camping festival where anarchists and off the grid types gather in the woods to engage in spontaneous order, trade, and fun.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f2a718821acbafd0de348a9c5db87e67/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1890-c0654f27f145a212fcc3e9e9511765ef5264fc438a985f021e3b348896225e3d.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/dash-across-america</link>
+            <guid isPermaLink="false">89ca8643-2bb7-4db6-903d-575523ff3975</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Do Lightning Channels have to be resolved before a certain time?]]></title>
+            <description><![CDATA[<article><h1>Do Lightning Channels have to be resolved before a certain time?</h1><p>I seem to remember that Lightning channels could remain open indefinitely with the introduction of CLTV I think instead of "CLTV" you mean "CSV" (as in OP_CSV, BIP112). As far as I know, nobody claimed that OP_CLTV would allow HLTC-style (Lightning) payment channels to stay open indefinitely, but that was definitely a claim of OP_CSV.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/48056/do-lightning-channels-have-to-be-resolved-before-a-certain-time</link>
+            <guid isPermaLink="false">7f00692b-7c8b-40a0-b605-d84ef9bbcdf9</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is a hash pre-image as it is used for the breach remedy?]]></title>
+            <description><![CDATA[<article><h1>What is a hash pre-image as it is used for the breach remedy?</h1><p>In the image below from Rusty Russell's Deployable Lightning paper, you can see a visualization of the commitment transactions and their outputs: For each payment in a channel, there are two commitment transactions generate, one for Alice and one for Bob.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f6d7d807e48ea42172fa1df685b43b89/noop.png?input=http%3A%2F%2Fi.stack.imgur.com%2F1mm67.png"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/48053/what-is-a-hash-pre-image-as-it-is-used-for-the-breach-remedy</link>
+            <guid isPermaLink="false">4c5b5a56-5d5b-4331-bef8-e898ff31d454</guid>
             <pubDate>Sat, 20 Aug 2016 08:29:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[KeepKey and Shapeshift team up for dynamic and secure cryptocurrency trading]]></title>
-            <description><![CDATA[<article><h1>KeepKey and Shapeshift team up for dynamic and secure cryptocurrency trading</h1><p>KeepKey and ShapeShift recently announced a partnership to create the first fully trustless and highly secure process for trading cryptocurrencies. According to KeepKey, beta testing will begin next week. - ShapeShift Formed in mid-2014, ShapeShift was founded by early bitcoin entrepreneur Erik Voorhees.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b0989c975735f792b320516601334a6b/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-KeepKey-Integration-Cover.jpg"></article>]]></description>
-            <link>http://bravenewcoin.com/news/keepkey-and-shapeshift-team-up-for-dynamic-and-secure-cryptocurrency-trading/</link>
-            <guid isPermaLink="false">c198bdde-eb84-4d72-96ef-986e5f8ba92a</guid>
+            <title><![CDATA[Sending confidential transaction amount to the receiver]]></title>
+            <description><![CDATA[<article><h1>Sending confidential transaction amount to the receiver</h1><p>In Elements Alpha, output "amounts" consist of 3 pieces of data: The Petersen commitment to the value, blinded by the blinding factor. The range proof, which can publicly prove that the value is within range [0..2^32-1] units (satoshis) without revealing anything about the blinding factor. An ECDH ephemeral public key of the sender.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/48064/sending-confidential-transaction-amount-to-the-receiver</link>
+            <guid isPermaLink="false">724945a2-ec20-4a39-9275-8d59c45c4260</guid>
             <pubDate>Sat, 20 Aug 2016 08:29:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hackers auction NSA cyber weapons for bitcoin]]></title>
-            <description><![CDATA[<article><h1>Hackers auction NSA cyber weapons for bitcoin</h1><p>An anonymous hacking group calling themselves the Shadow Brokers are selling hacker tools in what they are calling "the Equation Group Cyber Weapons Auction." The winner gets hacking and exploit tools allegedly stolen from the US National Security Agency (NSA). As a demonstration of their product, the group released 40% of the large cache of files.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0f543b2392e01214ef3e14b97ad696ce/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-NSA-Headquarters.jpg"></article>]]></description>
-            <link>http://bravenewcoin.com/news/hackers-auction-nsa-cyber-weapons-for-bitcoin/</link>
-            <guid isPermaLink="false">c97127eb-92ba-47a7-8a9d-424c383632fe</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:50 GMT</pubDate>
+            <title><![CDATA[Why didn't the difficulty adjust for the first 30,240 blocks?]]></title>
+            <description><![CDATA[<article><h1>Why didn't the difficulty adjust for the first 30,240 blocks?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/48106/why-didnt-the-difficulty-adjust-for-the-first-30-240-blocks</link>
+            <guid isPermaLink="false">bfc335ce-94ee-4f25-95a9-1b27f3292e82</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bitcoin security is more than multisig]]></title>
-            <description><![CDATA[<article><h1>Bitcoin security is more than multisig</h1><p>Following the Bitfinex hack it's become apparent that people don't really understand bitcoin's multisig feature. There seems to be a lot of confusion over what multisig is and isn't, what it inherently does or does not do.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5f61712ab08c4447931cc500e8cef714/croprotate.jpeg?cropheight=304&cropwidth=400&degrees=0&input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-1J8Fmw0oES1cAj28siK6Ovw.jpeg&x=0&y=48"></article>]]></description>
-            <link>http://bravenewcoin.com/news/bitcoin-security-is-more-than-multisig/</link>
-            <guid isPermaLink="false">98d11910-700e-4b30-bd7c-ce0a922a038c</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:50 GMT</pubDate>
+            <title><![CDATA[Format of mkey field in encrypted wallet.dat file]]></title>
+            <description><![CDATA[<article><h1>Format of mkey field in encrypted wallet.dat file</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top I am writing a C++ application to scour large files (typically disk images) for wallet.dat files, with the intention of recovering the private keys.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/48070/format-of-mkey-field-in-encrypted-wallet-dat-file</link>
+            <guid isPermaLink="false">cdf01f3d-670c-4094-a0f0-5e33f815fc02</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[U.S. Department of Homeland Security funds four blockchain companies developing new cyber security technology]]></title>
-            <description><![CDATA[<article><h1>U.S. Department of Homeland Security funds four blockchain companies developing new cyber security technology</h1><p>The U.S. Department of Homeland Security, Science and Technology Directorate, recently unveiled a list of 13 small businesses working towards "the development of new cyber security technology." The companies are part of the 2016 Small Business Innovation Research program. Each was awarded approximately $100,000 in funding, for a total of $1.3 million, and four are using blockchains in their product.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e60cb55dc240849316577f9b2907f9e7/noop.png?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-Department-of-Homeland-Security.png"></article>]]></description>
-            <link>http://bravenewcoin.com/news/u-s-department-of-homeland-security-funds-four-blockchain-companies-developing-new-cyber-security-technology/</link>
-            <guid isPermaLink="false">00cdc70d-8526-4ee3-a857-3c9d9e33c1c4</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:50 GMT</pubDate>
+            <title><![CDATA[Ethereum Classic Community Navigates a Distinct Path to the Future]]></title>
+            <description><![CDATA[<article><h1>Ethereum Classic Community Navigates a Distinct Path to the Future</h1><p>Ethereum Classic started off as what is perhaps best described as a protest movement, opposing a (perceived) bailout of Ethereum's leaderless investment venture, The DAO. But the brand new cryptocurrency, which is actually the continuation of the pre-hard forked Ethereum chain, has since surprised many.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/40dc22ae23e758a235fe370da5e44c17/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fethereum-classic-community-navigates-a-distinct-path-to-the-future.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/ethereum-classic-community-navigates-a-distinct-path-to-the-future-1471620464</link>
+            <guid isPermaLink="false">45b13608-3d19-4c7d-9ae6-4ceefb89d769</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bank of America Merrill Lynch, HSBC, and IDA develop a blockchain prototype solution for trade finance]]></title>
-            <description><![CDATA[<article><h1>Bank of America Merrill Lynch, HSBC, and IDA develop a blockchain prototype solution for trade finance</h1><p>Bank of America Merrill Lynch (BofAML), HSBC, and the Infocomm Development Authority of Singapore (iDA) recently announced that they have jointly developed "a prototype solution built on Blockchain technology that could change the way businesses around the world trade with each other." The Hyperledger project's open source blockchain was chosen to be the backbone of the small consortium.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9dc67eff2f085771afa6e553bb9467e3/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-Blockchain-Graphic-Banner.jpg"></article>]]></description>
-            <link>http://bravenewcoin.com/news/bank-of-america-merrill-lynch-hsbc-and-ida-develop-a-blockchain-prototype-solution-for-trade-finance/</link>
-            <guid isPermaLink="false">314218ef-1123-4b68-93af-c17a6535c1c9</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:50 GMT</pubDate>
+            <title><![CDATA[World Economic Forum Examines How Blockchain Can Reshape Financial Services]]></title>
+            <description><![CDATA[<article><h1>World Economic Forum Examines How Blockchain Can Reshape Financial Services</h1><p>On August 11, 2016, the World Economic Forum (WEF) released a 300-page report entitled " The future of financial infrastructure: An ambitious look at how blockchain can reshape financial services," exploring how the financial sector "could overcome current-state pain points through distributed ledger technology (DLT)."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/02f2bddd8faaa9084703a6c5b2f8aea7/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fworld-economic-forum-examines-how-blockchain-can-reshape-financial-services.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/world-economic-forum-examines-how-blockchain-can-reshape-financial-services-1471367839</link>
+            <guid isPermaLink="false">20941f9b-4718-474c-9564-f5476dfe3dd2</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bitcoin Price Analysis - Selling pressure continues]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Analysis - Selling pressure continues</h1><p>The technical setups posted below use simple trend detection, support and resistance, channels, pattern and candlestick analysis. We aim for high-probability trade setups on BTCUSD and use very few indicators. All charts use BNC's Bitcoin Liquid Index for maximum accuracy. The timeframe for trades is 1 to 7 days, so we'll use 4h candlesticks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d273ee0e1e2b961de580a458c11de4c5/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-Selling-pressure-continues-Sug-2016-Cover.jpg"></article>]]></description>
-            <link>http://bravenewcoin.com/news/bitcoin-price-analysis-selling-pressure-continues/</link>
-            <guid isPermaLink="false">9df8c97c-2756-4703-a5d3-84da89bd0903</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:50 GMT</pubDate>
+            <title><![CDATA[Department of Homeland Security Awards Blockchain Tech Development Grants for Identity Management and Privacy Protection]]></title>
+            <description><![CDATA[<article><h1>Department of Homeland Security Awards Blockchain Tech Development Grants for Identity Management and Privacy Protection</h1><p>In May, Bitcoin Magazine reported that both the Defense Advanced Research Projects Agency (DARPA) of the U.S. Department of Defense (DoD) and NATO have requested proposals for the development of military-related apps built on blockchain technology.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1d2663d4416834a51b60c5ea4dce008d/croprotate.jpg?cropheight=337&cropwidth=990&degrees=0&input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fdepartment-of-homeland-security-awards-blockchain-tech-development-grants-for-identity-management-and-privacy-protection.jpg&x=0&y=113"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/department-of-homeland-security-awards-blockchain-tech-development-grants-for-identity-management-and-privacy-protection-1471551442</link>
+            <guid isPermaLink="false">8b4d73f9-20fc-4bc4-9757-fa8ace3c755b</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MSG_CMPCT_BLOCK enum value is already in use · Issue #8500 · bitcoin/bitcoin]]></title>
-            <description><![CDATA[<article><h1>MSG_CMPCT_BLOCK enum value is already in use · Issue #8500 · bitcoin/bitcoin</h1><p>Compact blocks MSG_CMPCT_BLOCK enum value is already in use. It is used as MSG_THINBLOCK for xthin blocks. The existing type MSG_THINBLOCK is already in use and widely deployed: In Bitcoin XT, Bit...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b696cc3884d30c2452a19db83e9ae3bd/noop?input=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F92707%3Fv%3D3%26s%3D400"></article>]]></description>
-            <link>https://github.com/bitcoin/bitcoin/issues/8500</link>
-            <guid isPermaLink="false">575c8962-4b7f-4b21-8c87-6e95c2ef5b6a</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Having a bigger market share doesn't give you the right to tell others to recall their products already 6 months on the market because you are too lazy to do fix yours before your release." - Tom Zander demolishing Greg Maxwell's bullshitting technical attempts to "justify" stealing XThin's ID #. * /r/btc]]></title>
-            <description><![CDATA[<article><h1>"Having a bigger market share doesn't give you the right to tell others to recall their products already 6 months on the market because you are too lazy to do fix yours before your release." - Tom Zander demolishing Greg Maxwell's bullshitting technical attempts to "justify" stealing XThin's ID #. * /r/btc</h1><p>Here is Tom Zander responding to Gregory Maxwell's arrogant attempts to justify stealing XThin's ID #: > You should be ashamed of yourselves. >...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d3b5a3ac36fcdde3849e18b34ab3338d/noop.jpg?input=https%3A%2F%2Fi.redditmedia.com%2FO5BtTxnTQ5Yr0S0WKM2ABkqRLsemcQjb6PMT_QjlLuE.jpg%3Fw%3D320%26s%3D895ec6ea9728a003595e9122cb3184dc"></article>]]></description>
-            <link>https://www.reddit.com/r/btc/comments/4xpsev/having_a_bigger_market_share_doesnt_give_you_the/</link>
-            <guid isPermaLink="false">b26d34a2-f776-4f4c-9bf0-0ab211cbd057</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="https://i.redd.it/vmbkfv9mp5fx.png"></article>]]></description>
-            <link>https://i.redd.it/vmbkfv9mp5fx.png</link>
-            <guid isPermaLink="false">c63d12c6-3f07-446c-b8cf-df1577edc56a</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:50 GMT</pubDate>
+            <title><![CDATA[Does the Open-Source Model Enable Bitcoin-Stealing Wallet Apps?]]></title>
+            <description><![CDATA[<article><h1>Does the Open-Source Model Enable Bitcoin-Stealing Wallet Apps?</h1><p>According to an Apple Insider report published on August 9, a disturbing trend has emerged on Apple's App Store as a series of malicious copycats of well-known Bitcoin wallet apps became available to download. Some of the fake wallets looked quite similar to the real thing but were specifically tweaked to steal bitcoins from unsuspecting users.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5e32a7d5d980d35e1f9636505a8351e9/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fdoes-the-open-source-model-enable-bitcoin-stealing-wallet-apps.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/does-the-open-source-model-enable-bitcoin-stealing-wallet-apps-1471355655</link>
+            <guid isPermaLink="false">5c526d17-f39f-4970-95ac-c4a207bd2e3f</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
