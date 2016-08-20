@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 08:33:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 08:33:25 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why The Windows Secure Boot Hack Is a Good Thing - Bitcoinist.net]]></title>
+            <description><![CDATA[<article><h1>Why The Windows Secure Boot Hack Is a Good Thing - Bitcoinist.net</h1><p>If you even casually follow security news, you're aware that the key governing Microsoft Secure Boot has been found, exploited, and Secure Boot as a "feature" has been rendered meaningless. I'm here to tell you that this is a good thing.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/29f35953197d79c14b90f00584744f2d/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FSecurebootKey.png"></article>]]></description>
+            <link>http://bitcoinist.net/windows-secure-boot-hack-good/</link>
+            <guid isPermaLink="false">6a04dab5-3046-4452-8570-9571d68c2052</guid>
+            <pubDate>Sat, 20 Aug 2016 08:30:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Japan Risks Falling Behind Amid Blockchain Talent Shortage]]></title>
             <description><![CDATA[<article><h1>Japan Risks Falling Behind Amid Blockchain Talent Shortage</h1><p>While the rest of the globe is on pace to grasp this technology in hopes that it could transform financial markets, Japan is lacking specialized technicians to develop their own blockchain industry. Also read:Popular Bitcoin Investing App Keza to Relaunch Japan has a shortage of developers and programmers that specialize in blockchain technology solutions, according to Reuters.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6bb5c72e80474d082f02c8290c978005/noop.png?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fhelp_wanted.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://news.bitcoin.com/blockchain-lead-vacates-ubs/</link>
             <guid isPermaLink="false">8a56858c-9c3e-44c1-a712-7fed45198516</guid>
             <pubDate>Sat, 20 Aug 2016 08:30:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can ACTUS Stop Financial Crises with Blockchain Data Standards?]]></title>
-            <description><![CDATA[<article><h1>Can ACTUS Stop Financial Crises with Blockchain Data Standards?</h1><p>The lack of global financial industry data standards for financial instruments has created chaos for digital currency startups and the financial sector as a whole. Even more devastating is the intensification effect this lack of standards has had during recent financial crises.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/209638e3b6f9dcfb35588d625ddf59a7/croprotate.png?cropheight=573&cropwidth=773&degrees=0&input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FData-analysis-web.png&x=13&y=13"></article>]]></description>
-            <link>https://news.bitcoin.com/actus-blockchain-data-financial-crises/</link>
-            <guid isPermaLink="false">a10f5117-26c3-4e87-8c63-a742447a9ad0</guid>
-            <pubDate>Sat, 20 Aug 2016 08:30:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
