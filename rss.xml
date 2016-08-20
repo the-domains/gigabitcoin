@@ -7,6 +7,20 @@
         <lastBuildDate>Sat, 20 Aug 2016 08:30:51 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Bitfinex's Lesson: Has the Time for Regulation Arrived?]]></title>
+            <description><![CDATA[<article><h1>Bitfinex's Lesson: Has the Time for Regulation Arrived?</h1><p>In light of the Bitfinex hack and other hacks, the bitcoin community faces the need to improve security and is considering various options, according to a Bloomberg article by Yuji Nakamura and Olga Kharif. The article suggests it may be time for some type of regulation.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aca16b58a4c08a1e072651ab6d06bd64/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FBitfinexs-Lesson-Has-the-Time-for-Regulation-Arrived.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitfinexs-lesson-has-the-time-for-regulation-arrived/</link>
+            <guid isPermaLink="false">83cc907a-3441-42e1-bc78-8a044365fc11</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Malware Turns Servers into Cryptocurrency Mining Engines]]></title>
+            <description><![CDATA[<article><h1>Malware Turns Servers into Cryptocurrency Mining Engines</h1><p>A malware called Linux.Lady targets Redis servers that have been placed online without passwords and launches a cryptocurrency mining software, according to hackread.com. According to Dr. Web, a Russian software retailer, Linux.Lady uses Google's Go programming language and targets Redis servers that lack passwords from systems administrators.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b1cf6801361567cb68f84ee310fc71c5/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FMalware-Turns-Servers-into-Cryptocurrency-Mining-Engines.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/malware-turns-servers-into-cryptocurrency-mining-engines/</link>
+            <guid isPermaLink="false">434bcc90-6937-417f-b5ec-a4e398cc2444</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Japan May Be Left behind in Blockchain Race]]></title>
             <description><![CDATA[<article><h1>Japan May Be Left behind in Blockchain Race</h1><p>Lack of experts may dash Japan's hopes of becoming a vibrant competitor in the blockchain technology sector at the world stage particularly for financial uses. Japan is the world's second largest developed economy with an enviable record as one of the nations that have pioneered technological development.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9f364fb1f259bc50ecedcb5c3850848d/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FJapan-May-Be-Left-behind-in-Blockchain-Race.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/japan-may-left-behind-blockchain-race/</link>
@@ -61,20 +75,6 @@
             <link>https://letstalkbitcoin.com/blog/post/dash-across-america</link>
             <guid isPermaLink="false">89ca8643-2bb7-4db6-903d-575523ff3975</guid>
             <pubDate>Sat, 20 Aug 2016 08:29:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Do Lightning Channels have to be resolved before a certain time?]]></title>
-            <description><![CDATA[<article><h1>Do Lightning Channels have to be resolved before a certain time?</h1><p>I seem to remember that Lightning channels could remain open indefinitely with the introduction of CLTV I think instead of "CLTV" you mean "CSV" (as in OP_CSV, BIP112). As far as I know, nobody claimed that OP_CLTV would allow HLTC-style (Lightning) payment channels to stay open indefinitely, but that was definitely a claim of OP_CSV.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/48056/do-lightning-channels-have-to-be-resolved-before-a-certain-time</link>
-            <guid isPermaLink="false">7f00692b-7c8b-40a0-b605-d84ef9bbcdf9</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is a hash pre-image as it is used for the breach remedy?]]></title>
-            <description><![CDATA[<article><h1>What is a hash pre-image as it is used for the breach remedy?</h1><p>In the image below from Rusty Russell's Deployable Lightning paper, you can see a visualization of the commitment transactions and their outputs: For each payment in a channel, there are two commitment transactions generate, one for Alice and one for Bob.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f6d7d807e48ea42172fa1df685b43b89/noop.png?input=http%3A%2F%2Fi.stack.imgur.com%2F1mm67.png"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/48053/what-is-a-hash-pre-image-as-it-is-used-for-the-breach-remedy</link>
-            <guid isPermaLink="false">4c5b5a56-5d5b-4331-bef8-e898ff31d454</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
