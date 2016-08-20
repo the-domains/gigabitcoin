@@ -7,13 +7,6 @@
         <lastBuildDate>Sat, 20 Aug 2016 08:30:34 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[NSA's Hacking Group Hacked! Bunch of Private Hacking Tools Leaked Online]]></title>
-            <description><![CDATA[<article><h1>NSA's Hacking Group Hacked! Bunch of Private Hacking Tools Leaked Online</h1><p>It seems like the NSA has been HACKED! Update: The NSA Hack - What, When, Where, How, Who & Why? Explained Here. An unknown hacker or a group of hackers just claimed to have hacked into " Equation Group" -- a cyber-attack group allegedly associated with the United States intelligence organization NSA -- and dumped a bunch of its hacking tools (malware, private exploits, and hacking tools) online.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3550ffa8ba990c64eb1a351de778e443/noop.png?input=https%3A%2F%2F2.bp.blogspot.com%2F-_YANTNdqS0M%2FV7H7c08SVgI%2FAAAAAAAApLs%2FvBdMflmleREiPRM04wCdA2jhq4pCDHANwCLcB%2Fs1600%2Fnsa-hacked.png"></article>]]></description>
-            <link>https://thehackernews.com/2016/08/nsa-hacking-tools.html</link>
-            <guid isPermaLink="false">bf8b6ae2-6142-4525-a89f-9bed2554e407</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:49 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Our CoinShuffle implementation is finally working! https://live.blockcypher.com/btc-testnet/tx/fe68ebbbec06746a26d4038b500b3b9450b91f9e5c0935304b18fe13ec3eccbd/ ...</p>]]></description>
             <link>https://twitter.com/myceliumcom/status/765214573616037888</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Bitcoin Address 19BY2XCgbDe6WtTVbTyzM9eR3LYr6VitWK</h1><p>Transactions sent and received from bitcoin address 19BY2XCgbDe6WtTVbTyzM9eR3LYr6VitWK.</p></article>]]></description>
             <link>https://blockchain.info/address/19BY2XCgbDe6WtTVbTyzM9eR3LYr6VitWK</link>
             <guid isPermaLink="false">80d6cc39-fef0-431f-adef-f23301e26e65</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[0.13.0 Binary Safety Warning]]></title>
+            <description><![CDATA[<article><h1>0.13.0 Binary Safety Warning</h1><p>We strongly recommend that you download that key, which should have a fingerprint of 01EA5486DE18A882D4C2684590C8019E36C2E964. You should securely verify the signature and hashes before running any Bitcoin Core binaries. This is the safest and most secure way of being confident that the binaries you're running are the same ones created by the Core Developers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9da8e724ef82569a35ce516d6961ff57cbe9c21b.png"></article>]]></description>
+            <link>https://bitcoin.org/en/alert/2016-08-17-binary-safety</link>
+            <guid isPermaLink="false">981ae250-7436-4fb6-af26-a22b5f434559</guid>
             <pubDate>Sat, 20 Aug 2016 08:29:48 GMT</pubDate>
         </item>
     </channel>
