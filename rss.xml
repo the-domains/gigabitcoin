@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 01:28:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 01:28:56 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Ponzi Schemer Hints at Dealings With Mt Gox CEO - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Ponzi Schemer Hints at Dealings With Mt Gox CEO - CoinDesk</h1><p>Convicted Ponzi scheme operator Trendon Shavers is now insinuating the major unidentified debtor cited in his defense against the SEC was Mark Karpeles, CEO of the now-defunct bitcoin exchange Mt Gox.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/834d9309654b8bb44d9e14f125ce7435/noop.png?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FScreen-Shot-2016-08-19-at-4.38.16-PM.png"></article>]]></description>
+            <link>http://www.coindesk.com/bitcoin-ponzi-schemer-mt-gox-ceo/</link>
+            <guid isPermaLink="false">4c53df63-2d39-43da-9b2b-c58907437cf8</guid>
+            <pubDate>Sat, 20 Aug 2016 01:28:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Can ACTUS Stop Financial Crises with Blockchain Data Standards?]]></title>
             <description><![CDATA[<article><h1>Can ACTUS Stop Financial Crises with Blockchain Data Standards?</h1><p>The lack of global financial industry data standards for financial instruments has created chaos for digital currency startups and the financial sector as a whole. Even more devastating is the intensification effect this lack of standards has had during recent financial crises.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/209638e3b6f9dcfb35588d625ddf59a7/croprotate.png?cropheight=573&cropwidth=773&degrees=0&input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FData-analysis-web.png&x=13&y=13"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://themerkle.com/the-importance-of-security-and-encryption-in-the-online-domain/</link>
             <guid isPermaLink="false">affc39ed-fcef-4037-ad31-fffd36c51967</guid>
             <pubDate>Fri, 19 Aug 2016 03:13:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BitGo CEO Mike Belshe Believes in Bitcoin Despite Bitfinex Hack]]></title>
-            <description><![CDATA[<article><h1>BitGo CEO Mike Belshe Believes in Bitcoin Despite Bitfinex Hack</h1><p>BitGo's Mike Belshe has said that questions raised about the security of bitcoin with some suggesting that digital currencies can never be secure are wrong. After Mt. Gox, the second biggest security breach of a bitcoin exchange took place earlier this month when the Hong Kong-based Bitfinex halted trading after hackers stole around $70 million worth of users' bitcoins.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/abd993d182495cc0fe176610425d5b50/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FBitGo-CEO-Mike-Belshe-Believes-in-Bitcoin-Despite-Bitfinex-Hack.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitgo-ceo-mike-belshe-believes-bitcoin-despite-bitfinex-hack/</link>
-            <guid isPermaLink="false">6798bb35-3916-4d3f-9097-4394e6be676a</guid>
-            <pubDate>Fri, 19 Aug 2016 00:58:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
