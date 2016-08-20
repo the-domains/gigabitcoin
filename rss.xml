@@ -7,6 +7,13 @@
         <lastBuildDate>Sat, 20 Aug 2016 08:30:33 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[BTCfork/BTC-Forks-Roadmap]]></title>
+            <description><![CDATA[<article><h1>BTCfork/BTC-Forks-Roadmap</h1><p>BTC-Forks-Roadmap - A place to discuss and create the BTC Forks Roadmap</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f6ca6624840be79a37c6fb26c6e6712d/noop?input=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F20826420%3Fv%3D3%26s%3D400"></article>]]></description>
+            <link>https://github.com/BTCfork/BTC-Forks-Roadmap/blob/master/Proposals/BTC%20Forks%20Roadmap%20Proposal.md</link>
+            <guid isPermaLink="false">c2de9f82-9859-4c66-9fb2-582cdbb1d3f1</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article><img src="https://i.redd.it/mjrjzxcposfx.png"></article>]]></description>
             <link>https://i.redd.it/mjrjzxcposfx.png</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>ELI49: Why is one single person able to change the bitcoin.org website and NOBODY ELSE even knows what tf this is all about? * /r/Bitcoin</h1><p>EDIT: To be clear: I'm not worried because one person did it, I'm worried because NOBODY ELSE seemed to know about it.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
             <link>https://www.reddit.com/r/Bitcoin/comments/4ycryp/eli49_why_is_one_single_person_able_to_change_the/</link>
             <guid isPermaLink="false">24874c9d-1344-4851-a1cf-18b0ef2f28a3</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Snowden documents confirm leaked NSA tools are real]]></title>
-            <description><![CDATA[<article><h1>New Snowden documents confirm leaked NSA tools are real</h1><p>Newly released documents from the Edward Snowden archive, published today by The Intercept , confirm what was already suspected this week: some of the NSA's secret malware is out in the open. 16-character string matches up On Saturday, a group going by the name "the Shadow Brokers" began leaking what it said were NSA exploits and scripts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b783ebd6c0d4acec8973bef5761762dc/noop.jpg?input=https%3A%2F%2Fcdn2.vox-cdn.com%2Fthumbor%2FLFyGxajuhQkZSSDs2vdZmBK83z4%3D%2F0x57%3A1100x676%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50448489%2FNSA-photo-by-Trevor-Paglen.0.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/8/19/12551354/snowden-documents-nsa-hack</link>
-            <guid isPermaLink="false">dfabbb85-5675-4673-b8bd-22020d394bfd</guid>
             <pubDate>Sat, 20 Aug 2016 08:29:48 GMT</pubDate>
         </item>
     </channel>
