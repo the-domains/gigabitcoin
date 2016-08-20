@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 01:29:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 01:29:02 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Here's Our Weekend Scalp Strategy - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Here's Our Weekend Scalp Strategy - NEWSBTC</h1><p>Here's a look at what we are focusing on in the bitcoin price this evening. This morning, in the first of our twice daily bitcoin price watch pieces, we noted that the week so far had given us plenty to go at, and that this meant we were net up on the markets heading into the final session.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/63e05c2320909b94ccd33ba5b8fb7605/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F19182307%2FScreen-Shot-2016-08-19-at-19.16.34.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/19/bitcoin-price-watch-heres-weekend-scalp-strategy/</link>
-            <guid isPermaLink="false">72a0dc0f-59d8-4834-835a-6428dfb93443</guid>
-            <pubDate>Sat, 20 Aug 2016 01:28:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can we deploy an autonomous contract (or 'smart contract') without blockchain techs?]]></title>
-            <description><![CDATA[<article><h1>Can we deploy an autonomous contract (or 'smart contract') without blockchain techs?</h1><p>Just got rejected from my dream school Columbia. I e-mailed my English teacher and told her the disappointing news. This is how she replies: Lily, I am so, so sorry to hear that. But there are a few very important things to remember. First, you haven't let anyone down!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f9560b832f5d32a8a90cfb53ae210959/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-458279-200-padmkomhvsmvreqlvagsecrfoqbmudsj.jpeg"></article>]]></description>
-            <link>https://www.quora.com/unanswered/Can-we-deploy-an-autonomous-contract-or-smart-contract-without-blockchain-techs</link>
-            <guid isPermaLink="false">14db149e-140b-43af-9c75-afc23c7ac807</guid>
-            <pubDate>Sat, 20 Aug 2016 01:28:20 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Why The Windows Secure Boot Hack Is a Good Thing - Bitcoinist.net]]></title>
             <description><![CDATA[<article><h1>Why The Windows Secure Boot Hack Is a Good Thing - Bitcoinist.net</h1><p>If you even casually follow security news, you're aware that the key governing Microsoft Secure Boot has been found, exploited, and Secure Boot as a "feature" has been rendered meaningless. I'm here to tell you that this is a good thing.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/29f35953197d79c14b90f00584744f2d/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FSecurebootKey.png"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>http://www.coindesk.com/bitcoin-ponzi-schemer-mt-gox-ceo/</link>
             <guid isPermaLink="false">4c53df63-2d39-43da-9b2b-c58907437cf8</guid>
             <pubDate>Sat, 20 Aug 2016 01:28:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can ACTUS Stop Financial Crises with Blockchain Data Standards?]]></title>
+            <description><![CDATA[<article><h1>Can ACTUS Stop Financial Crises with Blockchain Data Standards?</h1><p>The lack of global financial industry data standards for financial instruments has created chaos for digital currency startups and the financial sector as a whole. Even more devastating is the intensification effect this lack of standards has had during recent financial crises.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/209638e3b6f9dcfb35588d625ddf59a7/croprotate.png?cropheight=573&cropwidth=773&degrees=0&input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FData-analysis-web.png&x=13&y=13"></article>]]></description>
+            <link>https://news.bitcoin.com/actus-blockchain-data-financial-crises/</link>
+            <guid isPermaLink="false">7f616429-69a1-41b1-ad9b-e15e6db55d31</guid>
+            <pubDate>Sat, 20 Aug 2016 01:28:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LEOcoin Foundation Releases Full White Paper for New Token]]></title>
+            <description><![CDATA[<article><h1>LEOcoin Foundation Releases Full White Paper for New Token</h1><p>The LEOcoin Foundation has released a full white paper for its digital currency, which details development so far as well as outlining a roadmap for future progress. Disclaimer: This article was provided by Bitcoin PR Buzz. Bitcoinist is not affiliated with the firms represented by Bitcoin PR Buzz and is not responsible for their products and/or services.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1cdd5b281f2bbc1aadb37eaa8c08fcb2/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FLEOcoin-PR-Buzz-Cover.png"></article>]]></description>
+            <link>http://bitcoinist.net/leocoin-whitepaper-token/</link>
+            <guid isPermaLink="false">bbf0245b-44ae-48ff-aec6-94bc15e9d5de</guid>
+            <pubDate>Sat, 20 Aug 2016 01:28:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
