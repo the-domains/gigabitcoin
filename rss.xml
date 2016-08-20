@@ -7,20 +7,6 @@
         <lastBuildDate>Sat, 20 Aug 2016 01:29:01 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Warning! Next Bitcoin Core Version Could be Hacked, Reads Advisory]]></title>
-            <description><![CDATA[<article><h1>Warning! Next Bitcoin Core Version Could be Hacked, Reads Advisory</h1><p>The next version of Bitcoin Core, a popular digital wallet for the cryptocurrency, could be hacked and replaced with a malicious look-alike by state sponsored actors, reads a safety warning. On 17 August, open-source project Bitcoin.org announced the threat on its website.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/addc23d879a3112eec0162cfd26aef56/noop.jpg?input=http%3A%2F%2Fwww.bleepstatic.com%2Fimages%2Fnews%2Fu%2F1011204%2FHacks%2FBitcoin%2520Core%2520(Maybe)%2Fthumb_10307460906_047d444aeb_b_1024.jpg"></article>]]></description>
-            <link>http://www.bleepingcomputer.com/news/security/warning-next-bitcoin-core-version-could-be-hacked-reads-advisory/</link>
-            <guid isPermaLink="false">14e09772-a386-4786-aa90-dd6556afc9d8</guid>
-            <pubDate>Sat, 20 Aug 2016 01:28:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chainalysis: More Ransomware Arrests Are Coming - Bitcoin News]]></title>
-            <description><![CDATA[<article><h1>Chainalysis: More Ransomware Arrests Are Coming - Bitcoin News</h1><p>Ransomware has been on the rise as of late, and it is a cyber security threat a lot of businesses and government services are taking seriously. According to Chainalysis, the blockchain monitoring company, more ransomware-related arrests from law enforcement are on the horizon.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d1d6e3c161e2c8aa4bf9611b330e9e60/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FchalysisCov.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/chainalysis-ransomware-arrests-coming/</link>
-            <guid isPermaLink="false">59116944-780a-4dc4-a922-1f11a9a4d9c6</guid>
-            <pubDate>Sat, 20 Aug 2016 01:28:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[New Snowden documents confirm leaked NSA tools are real]]></title>
             <description><![CDATA[<article><h1>New Snowden documents confirm leaked NSA tools are real</h1><p>Newly released documents from the Edward Snowden archive, published today by The Intercept , confirm what was already suspected this week: some of the NSA's secret malware is out in the open. 16-character string matches up On Saturday, a group going by the name "the Shadow Brokers" began leaking what it said were NSA exploits and scripts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b783ebd6c0d4acec8973bef5761762dc/noop.jpg?input=https%3A%2F%2Fcdn2.vox-cdn.com%2Fthumbor%2FLFyGxajuhQkZSSDs2vdZmBK83z4%3D%2F0x57%3A1100x676%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50448489%2FNSA-photo-by-Trevor-Paglen.0.jpg"></article>]]></description>
             <link>http://www.theverge.com/2016/8/19/12551354/snowden-documents-nsa-hack</link>
@@ -75,6 +61,20 @@
             <link>http://bitcoinist.net/mycelium-may-roll-out-p2p-tumbling-soon/</link>
             <guid isPermaLink="false">65d46239-e828-49b2-870c-66c6c40285f0</guid>
             <pubDate>Sat, 20 Aug 2016 01:28:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the similarities and differences between SWIFT and blockchain?]]></title>
+            <description><![CDATA[<article><h1>What are the similarities and differences between SWIFT and blockchain?</h1><p>Answer: None really. Swift is a messaging standard and a blockchain is a database with some more bells and whistles on top.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dc98ca6989becf34d69b747b047a09bb/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-478194-200-iihxmwcvockpiyoyeuhdguvynmntnsec.jpeg"></article>]]></description>
+            <link>https://www.quora.com/What-are-the-similarities-and-differences-between-SWIFT-and-blockchain</link>
+            <guid isPermaLink="false">903e93bd-84f7-4c5d-9e53-a92dd19f1534</guid>
+            <pubDate>Fri, 19 Aug 2016 04:17:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australian Neighborhood Selling Solar Energy with Blockchain Tech - Bitcoinist.net]]></title>
+            <description><![CDATA[<article><h1>Australian Neighborhood Selling Solar Energy with Blockchain Tech - Bitcoinist.net</h1><p>In the National Lifestyle Villages in Busselton, Australia, a group of homes are Also read: Industry Report: Moscow Gets its First Bitcoin Exchange experimenting with selling excess solar energy over the blockchain. The Australian-based start-up, Power Ledger, is conducting the experiment that will last for 8 weeks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2c4836fdf430555ef2e50b43d57aa212/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2Fsolar-power-steps-940x627-800x600.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/australian-neighborhoods-selling-solar-energy-with-blockchain/</link>
+            <guid isPermaLink="false">ae9b07f2-8819-40f6-800e-8971bc696de6</guid>
+            <pubDate>Fri, 19 Aug 2016 04:17:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
