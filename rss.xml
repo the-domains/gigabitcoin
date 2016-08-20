@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 08:33:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 08:33:13 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ripple CTO Blasts the 'Subtle Tyranny' of Blockchain Hype]]></title>
+            <description><![CDATA[<article><h1>Ripple CTO Blasts the 'Subtle Tyranny' of Blockchain Hype</h1><p>The chief technology officer of Ripple and the guy who introduced Bitcoin to millions of viewers, Stefan Thomas, now has a different attitude concerning blockchain technology. Also read: Japan Risks Falling Behind Amid Blockchain Talent Shortage In a Medium blog post, Stefan Thomas, the creator of the YouTube video "What is Bitcoin?"</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5da631046d7fefeca135370f957f4832/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fchain.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/ripple-cto-blasts-blockchain-hype/</link>
+            <guid isPermaLink="false">324d1ff3-790a-4bdf-a64e-a4c74da94664</guid>
+            <pubDate>Sat, 20 Aug 2016 08:30:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chainalysis: More Ransomware Arrests Are Coming - Bitcoin News]]></title>
             <description><![CDATA[<article><h1>Chainalysis: More Ransomware Arrests Are Coming - Bitcoin News</h1><p>Ransomware has been on the rise as of late, and it is a cyber security threat a lot of businesses and government services are taking seriously. According to Chainalysis, the blockchain monitoring company, more ransomware-related arrests from law enforcement are on the horizon.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d1d6e3c161e2c8aa4bf9611b330e9e60/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FchalysisCov.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Lisk Blockchain Applications Platform Announces the Launch of Lisk Nano - NEWSBTC</h1><p>August 18, 2016, Berlin, Germany - The decentralized blockchain application development platform Lisk has announced the launch of Lisk Nano. Lisk Nano is a lightweight, simple, and fully responsive client software that enables users to access the basic functionalities of the platform on-the-go.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d194817fca1ae2024e2b54f4578a8a15/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F19092849%2FLisk-Nano-1080x600.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/08/19/httpbitcoinprbuzz-comlisk-blockchain-applications-platform-announces-launch-lisk-nano/</link>
             <guid isPermaLink="false">f259b649-d1b8-4ea4-8a58-3c29675186fe</guid>
-            <pubDate>Sat, 20 Aug 2016 08:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UKGC Declares Bitcoin as a Cash Equivalent, Allows Gambling with It - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>UKGC Declares Bitcoin as a Cash Equivalent, Allows Gambling with It - NEWSBTC</h1><p>The UK gambling regulatory body, UKGC has amended its regulations, allowing online casinos to accept and distribute Bitcoin wagers and payouts respectively. Read more... Residents of the United Kingdom now have something to cheer about, especially if they love online gambling.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b59ae298524d3c327617701bb7d6e08e/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F19081503%2Fukgc-casino.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/19/ukgc-declares-bitcoin-as-cash-equivalent/</link>
-            <guid isPermaLink="false">c02a6d96-facf-4936-9d68-ab4174721c07</guid>
             <pubDate>Sat, 20 Aug 2016 08:30:00 GMT</pubDate>
         </item>
     </channel>
