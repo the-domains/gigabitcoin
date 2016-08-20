@@ -7,13 +7,6 @@
         <lastBuildDate>Sat, 20 Aug 2016 01:29:01 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[New Snowden documents confirm leaked NSA tools are real]]></title>
-            <description><![CDATA[<article><h1>New Snowden documents confirm leaked NSA tools are real</h1><p>Newly released documents from the Edward Snowden archive, published today by The Intercept , confirm what was already suspected this week: some of the NSA's secret malware is out in the open. 16-character string matches up On Saturday, a group going by the name "the Shadow Brokers" began leaking what it said were NSA exploits and scripts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b783ebd6c0d4acec8973bef5761762dc/noop.jpg?input=https%3A%2F%2Fcdn2.vox-cdn.com%2Fthumbor%2FLFyGxajuhQkZSSDs2vdZmBK83z4%3D%2F0x57%3A1100x676%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50448489%2FNSA-photo-by-Trevor-Paglen.0.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/8/19/12551354/snowden-documents-nsa-hack</link>
-            <guid isPermaLink="false">50b566cb-1a0a-48ac-8d11-b13f3561c265</guid>
-            <pubDate>Sat, 20 Aug 2016 01:28:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bitcoin Usage Fuels Ransomware Attacks | PYMNTS.com]]></title>
             <description><![CDATA[<article><h1>Bitcoin Usage Fuels Ransomware Attacks | PYMNTS.com</h1><p>As the instances and threat of ransomware continues to wreak havoc on both businesses, governments and individuals around the world, it seems as though bitcoin has found itself closely intertwined with the malicious software. As The Wall Street Journal pointed out on Friday (Aug.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dba1ce328f71825f4f21cf8e3cd8f0b7/noop.jpg?input=http%3A%2F%2Fcdn.pymnts.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fbitcoin-ransomware-connection-1000x600.jpg"></article>]]></description>
             <link>http://www.pymnts.com/news/security-and-risk/2016/bitcoin-preferred-by-cybercriminals-in-ransomware-attacks/</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Australian Neighborhood Selling Solar Energy with Blockchain Tech - Bitcoinist.net</h1><p>In the National Lifestyle Villages in Busselton, Australia, a group of homes are Also read: Industry Report: Moscow Gets its First Bitcoin Exchange experimenting with selling excess solar energy over the blockchain. The Australian-based start-up, Power Ledger, is conducting the experiment that will last for 8 weeks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2c4836fdf430555ef2e50b43d57aa212/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2Fsolar-power-steps-940x627-800x600.jpg"></article>]]></description>
             <link>http://bitcoinist.net/australian-neighborhoods-selling-solar-energy-with-blockchain/</link>
             <guid isPermaLink="false">ae9b07f2-8819-40f6-800e-8971bc696de6</guid>
+            <pubDate>Fri, 19 Aug 2016 04:17:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KNCMiner Has a New Owner: Swedish Entrepreneur to Relaunch Mining Operations]]></title>
+            <description><![CDATA[<article><h1>KNCMiner Has a New Owner: Swedish Entrepreneur to Relaunch Mining Operations</h1><p>KNCMiner sold most of its assets following a bankruptcy procedure three months ago, however, it has now been disclosed that a Swedish company called GoGreenligh has received approval to buy most of the mining venture assets.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06d9e5de4de46d04c78250480f838768/noop.png?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F02%2FKnCMiner.png"></article>]]></description>
+            <link>http://themerkle.com/kncminer-has-a-new-owner-swedish-entrepreneur-to-relaunch-mining-operations/</link>
+            <guid isPermaLink="false">50660aa6-a8a5-4008-88f8-b34bd49dedbe</guid>
             <pubDate>Fri, 19 Aug 2016 04:17:53 GMT</pubDate>
         </item>
     </channel>
