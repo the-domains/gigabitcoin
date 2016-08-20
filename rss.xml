@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 08:30:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 08:30:32 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[0.13.0 Binary Safety Warning]]></title>
+            <description><![CDATA[<article><h1>0.13.0 Binary Safety Warning</h1><p>We strongly recommend that you download that key, which should have a fingerprint of 01EA5486DE18A882D4C2684590C8019E36C2E964. You should securely verify the signature and hashes before running any Bitcoin Core binaries. This is the safest and most secure way of being confident that the binaries you're running are the same ones created by the Core Developers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9da8e724ef82569a35ce516d6961ff57cbe9c21b.png"></article>]]></description>
+            <link>https://bitcoin.org/en/alert/2016-08-17-binary-safety</link>
+            <guid isPermaLink="false">981ae250-7436-4fb6-af26-a22b5f434559</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Classic 1.1.0 Safety warning! High Priority! * /r/btc]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Classic 1.1.0 Safety warning! High Priority! * /r/btc</h1><p>We have reason to suspect that the current binaries for Bitcoin Classic will likely be targeted by Xenu the Dictator of the Galactic...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
+            <link>https://www.reddit.com/r/btc/comments/4yb48t/bitcoin_classic_110_safety_warning_high_priority/</link>
+            <guid isPermaLink="false">df5a1154-3acc-4a68-8c47-1d596ce28bf3</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ELI49: Why is one single person able to change the bitcoin.org website and NOBODY ELSE even knows what tf this is all about? * /r/Bitcoin]]></title>
             <description><![CDATA[<article><h1>ELI49: Why is one single person able to change the bitcoin.org website and NOBODY ELSE even knows what tf this is all about? * /r/Bitcoin</h1><p>EDIT: To be clear: I'm not worried because one person did it, I'm worried because NOBODY ELSE seemed to know about it.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article></article>]]></description>
             <link>http://www.bizjournals.com/albuquerque/news/2016/08/18/local-businesses-exchanging-hard-cash-for-virtual.html</link>
             <guid isPermaLink="false">2c7611ae-e97d-436d-ad29-8371ef359bfd</guid>
-            <pubDate>Sat, 20 Aug 2016 01:28:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[25 Students Selected for the MIT Intro to Cryptocurrency Bootcamp for People of Color and Women - MIT Media Lab Digital Currency Initiative]]></title>
-            <description><![CDATA[<article><h1>25 Students Selected for the MIT Intro to Cryptocurrency Bootcamp for People of Color and Women - MIT Media Lab Digital Currency Initiative</h1><p>Today, the MIT Digital Currency Initiative is excited to announce the selection of 25 students to attend the first-ever Cryptocurrency Bootcamp at the MIT Media Lab. More than 300 students from 5 continents, 36 U.S. states and 150 universities applied for the opportunity to attend the bootcamp.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aeecf52b00557a38055f7aefeed1673e/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*Z77kxWRVPz4G67jFQEftJA.jpeg"></article>]]></description>
-            <link>http://gigabitcoin.xyz/25-students-selected-for-the-mit-intro-to-cryptocurrency-boo/index.html</link>
-            <guid isPermaLink="false">693f4594-777d-4f2c-b0ba-b91918f2bc14</guid>
-            <pubDate>Sat, 20 Aug 2016 01:28:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum Price Technical Analysis - No Relief For Buyers - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Ethereum Price Technical Analysis - No Relief For Buyers - NEWSBTC</h1><p>Ethereum price ETH popped a few points higher versus the USD, but failed once again to sustain momentum, and traded lower. Ethereum price ETH popped a few points higher versus the USD, but failed once again to sustain momentum, and traded lower. ETH price remained under pressure against the US Dollar, as buyers failed to gain momentum.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c089205da0c8ccee80536c2130acfc75/croprotate.png?cropheight=757&cropwidth=1660&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F19031852%2FEthereum16.png&x=2&y=2"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/19/ethereum-price-technical-analysis-no-relief-buyers/</link>
-            <guid isPermaLink="false">f95f05dc-15e7-4666-8394-1d18fee3e58f</guid>
             <pubDate>Sat, 20 Aug 2016 01:28:46 GMT</pubDate>
         </item>
     </channel>
