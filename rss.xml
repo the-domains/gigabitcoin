@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 08:32:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 08:32:36 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Ponzi Schemer Hints at Dealings With Mt Gox CEO - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Ponzi Schemer Hints at Dealings With Mt Gox CEO - CoinDesk</h1><p>Convicted Ponzi scheme operator Trendon Shavers is now insinuating the major unidentified debtor cited in his defense against the SEC was Mark Karpeles, CEO of the now-defunct bitcoin exchange Mt Gox.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/834d9309654b8bb44d9e14f125ce7435/noop.png?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FScreen-Shot-2016-08-19-at-4.38.16-PM.png"></article>]]></description>
+            <link>http://www.coindesk.com/bitcoin-ponzi-schemer-mt-gox-ceo/</link>
+            <guid isPermaLink="false">06195cfe-9f75-44fb-bb71-6eeae26fcb7d</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Ethereum Classic Must Die - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Why Ethereum Classic Must Die - CoinDesk</h1><p>Jacob Eliosoff is a computer programmer and former Wall Street quant who runs Calibrated Markets LLC, a cryptocurrency investment firm with holdings in BTC and ETH. In this opinion piece, Eliosoff discusses why he believes the ethereum community needs to unite around one implementation of the protocol, and why he believes it should be the version that opted for a controversial fork.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/75f0f2e3ccd51cf9de80db1b0fcc1f1e/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Frock-desert-slow-e1471284233869.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin.org Warns of Attacks Amid Upcoming Bitcoin Software Release - CoinDesk</h1><p>A new post on the open-source Bitcoin.org website indicates its contributors have reason to believe the online resource may be targeted by malicious actors following an upcoming software release by Bitcoin Core developers. Bitcoin.org contributor Cobra-Bitcoin published a post today in which he indicated that certain resources the website intends to post following the Bitcoin Core development update could be the target of unspecified "state-sponsored attackers".</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/81af34ed377655f749b33cea611a1326/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fred-light-warning-e1471494992936.jpg"></article>]]></description>
             <link>http://www.coindesk.com/bitcoin-org-warns-expected-attacks-arounds-upcoming-bitcoin-software-release/</link>
             <guid isPermaLink="false">1833a26c-f490-41ab-a35f-8a9a313cce1d</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitfinex Recovers Bitcoin Volume But Perception Battle Rages On - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Bitfinex Recovers Bitcoin Volume But Perception Battle Rages On - CoinDesk</h1><p>One week after losing more than $60m in a high-profile hack, Bitfinex is once again one of the largest bitcoin exchanges by US dollar volume. The Hong Kong-based bitcoin exchange led its competitors in USD/BTC trading over the last week, grabbing more than 20% of the market.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/18c2fb519a1e20d6397549cd6797328e/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fmarket-chart-e1471479284259.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/bitfinex-bitcoin-recovers-volume-perception-battle-rages/</link>
-            <guid isPermaLink="false">af7618b0-b6e9-40ff-9559-ea975d5efb01</guid>
             <pubDate>Sat, 20 Aug 2016 08:29:58 GMT</pubDate>
         </item>
     </channel>
