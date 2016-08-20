@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 01:29:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 01:30:01 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[vDice Brings SatoshiDice-Like Game for Ethereum Users - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>vDice Brings SatoshiDice-Like Game for Ethereum Users - NEWSBTC</h1><p>vDice is the first commercial, on blockchain, betting game for Ethereum. It's a tribute to the super successful SatoshiDICE game; Bitcoin's first big hit. In 2013 the game sold for over 100,000 Bitcoins (approx $100,000,000 on current rates). The creators have delivered a beautiful, working product.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/28b06a73994e39c3b03f03d340d4ed6f/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F19080859%2Fwp-1471590533126.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/19/vdice-brings-satoshidice-like-game-for-ethereum-users/</link>
+            <guid isPermaLink="false">9d8953e2-a049-48e0-9d17-9f6cbbc2eca0</guid>
+            <pubDate>Sat, 20 Aug 2016 01:28:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitfinex's Lesson: Has the Time for Regulation Arrived?]]></title>
             <description><![CDATA[<article><h1>Bitfinex's Lesson: Has the Time for Regulation Arrived?</h1><p>In light of the Bitfinex hack and other hacks, the bitcoin community faces the need to improve security and is considering various options, according to a Bloomberg article by Yuji Nakamura and Olga Kharif. The article suggests it may be time for some type of regulation.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aca16b58a4c08a1e072651ab6d06bd64/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FBitfinexs-Lesson-Has-the-Time-for-Regulation-Arrived.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>UKGC Declares Bitcoin as a Cash Equivalent, Allows Gambling with It - NEWSBTC</h1><p>The UK gambling regulatory body, UKGC has amended its regulations, allowing online casinos to accept and distribute Bitcoin wagers and payouts respectively. Read more... Residents of the United Kingdom now have something to cheer about, especially if they love online gambling.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b59ae298524d3c327617701bb7d6e08e/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F19081503%2Fukgc-casino.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/08/19/ukgc-declares-bitcoin-as-cash-equivalent/</link>
             <guid isPermaLink="false">15066b2a-e1df-49e9-a50f-24e64bc137db</guid>
-            <pubDate>Sat, 20 Aug 2016 01:28:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ripple CTO Blasts the 'Subtle Tyranny' of Blockchain Hype]]></title>
-            <description><![CDATA[<article><h1>Ripple CTO Blasts the 'Subtle Tyranny' of Blockchain Hype</h1><p>The chief technology officer of Ripple and the guy who introduced Bitcoin to millions of viewers, Stefan Thomas, now has a different attitude concerning blockchain technology. Also read: Japan Risks Falling Behind Amid Blockchain Talent Shortage In a Medium blog post, Stefan Thomas, the creator of the YouTube video "What is Bitcoin?"</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5da631046d7fefeca135370f957f4832/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fchain.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/ripple-cto-blasts-blockchain-hype/</link>
-            <guid isPermaLink="false">04cac7b2-bb94-46bc-b595-6af5d0e8e8fd</guid>
             <pubDate>Sat, 20 Aug 2016 01:28:40 GMT</pubDate>
         </item>
     </channel>
