@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 08:33:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 08:33:36 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Industry Report: Moscow Gets its First Bitcoin Exchange]]></title>
+            <description><![CDATA[<article><h1>Industry Report: Moscow Gets its First Bitcoin Exchange</h1><p>Moscow opens its first digital currency exchange, California shelves its plans to regulate bitcoin, and the Bank of England looks to manage cryptocurrency. Want to catch up on the latest digital currency news? Take a look at the stories below.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1e08639e05719c6e72396a0bcf7fe8af/noop.jpg?input=https%3A%2F%2Fd.ibtimes.co.uk%2Fen%2Ffull%2F1487105%2Fbank-england.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/industry-report-moscow-bitcoin/</link>
+            <guid isPermaLink="false">97ce265c-d822-472d-bd9f-1e45543a7d21</guid>
+            <pubDate>Sat, 20 Aug 2016 08:30:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comedy Forks of Tor Emerge in response to Foundation Drama - Bitcoinist.net]]></title>
+            <description><![CDATA[<article><h1>Comedy Forks of Tor Emerge in response to Foundation Drama - Bitcoinist.net</h1><p>Depending on your perspective and personal political leanings, the heading and course of the Tor Foundation since the ousting of Jacob Appelbaum can be characterised anywhere from "chaotic" to "unmitigated shit-show." Highlights include A smear Campaign levelled a the former project head, controversial restructuring, an exodus of key volunteers, and a marked increase in focus on identity politics within the Foundation's ranks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/99483fd0f8b6b013c5d86c1e1d488a8c/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FTormedy.png"></article>]]></description>
+            <link>http://bitcoinist.net/comedy-tor-forks/</link>
+            <guid isPermaLink="false">559dc3a5-f082-4ff7-bdbf-a4ab9937cdd5</guid>
+            <pubDate>Sat, 20 Aug 2016 08:30:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GTX 1070 Optimised: 390X Ethereum Hashing on 140 Watts?]]></title>
             <description><![CDATA[<article><h1>GTX 1070 Optimised: 390X Ethereum Hashing on 140 Watts?</h1><p>The new Nvidia-beta driver package that allows for clock, memory, and voltage adjustments released this week, and I thought it would be interesting to see just how far we can push the EVGA GTX 1070's Ethereum hashing now that we have full control over the hardware.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6bb6e2eab9a397651533f83c1dda3600/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2F1070-optsplash.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Japan Risks Falling Behind Amid Blockchain Talent Shortage</h1><p>While the rest of the globe is on pace to grasp this technology in hopes that it could transform financial markets, Japan is lacking specialized technicians to develop their own blockchain industry. Also read:Popular Bitcoin Investing App Keza to Relaunch Japan has a shortage of developers and programmers that specialize in blockchain technology solutions, according to Reuters.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6bb5c72e80474d082f02c8290c978005/noop.png?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fhelp_wanted.png"></article>]]></description>
             <link>https://news.bitcoin.com/japan-falling-behind-blockchain-shortage/</link>
             <guid isPermaLink="false">8817b0a1-111d-4502-a1d6-093042dd48de</guid>
-            <pubDate>Sat, 20 Aug 2016 08:30:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mycelium May Roll out P2P Tumbling Soon - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>Mycelium May Roll out P2P Tumbling Soon - Bitcoinist.net</h1><p>There's been no official statements as of yet - but it looks like the Mycelium Wallet will be getting built-in peer-to-peer bitcoin mixing/tumbling later this year. The first testnet transaction from devs went out four days ago, and discussion on internal channels confirms that they're working on integrating P2P tumbling into their popular Android wallet.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/430d94232409f3c4f71704647c18ba6c/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FMycelium-Splash.png"></article>]]></description>
-            <link>http://bitcoinist.net/mycelium-may-roll-out-p2p-tumbling-soon/</link>
-            <guid isPermaLink="false">60a42dfd-763c-45bb-9a25-f36e050113ce</guid>
-            <pubDate>Sat, 20 Aug 2016 08:30:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Popular Bitcoin Investing App Keza to Relaunch]]></title>
-            <description><![CDATA[<article><h1>Popular Bitcoin Investing App Keza to Relaunch</h1><p>Keza, the mobile app that allows any Bitcoin holder worldwide to invest in stocks and bonds, is to be resurrected after its acquisition by Philippines company Satoshi Citadel Industries (SCI). Also read: Shapeshift Transforms KeepKey Hardware Wallet into an Exchange The move will see Keza developed closer physically to its initial key target market: amateur investors in emerging economies.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c49ac66f9ef7b926a2aed670c553154f/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2F1200px-Sao_Paulo_Stock_Exchange.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/bitcoin-investing-app-keza-relaunch/</link>
-            <guid isPermaLink="false">2b799c3c-2e3c-4fdb-a1c1-caa68180cbd3</guid>
             <pubDate>Sat, 20 Aug 2016 08:30:02 GMT</pubDate>
         </item>
     </channel>
