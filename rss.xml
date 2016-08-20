@@ -4,8 +4,43 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 08:30:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 08:30:35 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PSA: Full nodes should run a tor hidden service, it costs nothing and improves the network * /r/Bitcoin]]></title>
+            <description><![CDATA[<article><h1>PSA: Full nodes should run a tor hidden service, it costs nothing and improves the network * /r/Bitcoin</h1><p>Right now there are only 129 nodes available through their own tor hidden services: https://bitnodes.21.co/nodes/?q=.onion Since Core 0.12...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/47614fb72b6a31760bccb51b85b5e71e/noop.jpg?input=https%3A%2F%2Fi.redditmedia.com%2FQh6xIOsZU5M-_rB-fOxoZIoPtYVrMLvaJrkVcSYuLxs.jpg%3Fw%3D216%26s%3D5965b607814bfff4efa8c6393482468d"></article>]]></description>
+            <link>https://www.reddit.com/r/Bitcoin/comments/4xqfpz/psa_full_nodes_should_run_a_tor_hidden_service_it/</link>
+            <guid isPermaLink="false">9d29dc46-dfe9-42b1-925a-4ef00d5e235c</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article></article>]]></description>
+            <link>http://blog.kraken.com/post/148976188862/kraken-phishing-warning</link>
+            <guid isPermaLink="false">4af4ed79-b710-4575-b22e-257be35f00da</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://imgur.com/9DAQapr.jpg"></article>]]></description>
+            <link>http://i.imgur.com/9DAQapr.jpg</link>
+            <guid isPermaLink="false">6406948b-8853-4adf-aa00-41112bfbec11</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NSA's Hacking Group Hacked! Bunch of Private Hacking Tools Leaked Online]]></title>
+            <description><![CDATA[<article><h1>NSA's Hacking Group Hacked! Bunch of Private Hacking Tools Leaked Online</h1><p>It seems like the NSA has been HACKED! Update: The NSA Hack - What, When, Where, How, Who & Why? Explained Here. An unknown hacker or a group of hackers just claimed to have hacked into " Equation Group" -- a cyber-attack group allegedly associated with the United States intelligence organization NSA -- and dumped a bunch of its hacking tools (malware, private exploits, and hacking tools) online.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3550ffa8ba990c64eb1a351de778e443/noop.png?input=https%3A%2F%2F2.bp.blogspot.com%2F-_YANTNdqS0M%2FV7H7c08SVgI%2FAAAAAAAApLs%2FvBdMflmleREiPRM04wCdA2jhq4pCDHANwCLcB%2Fs1600%2Fnsa-hacked.png"></article>]]></description>
+            <link>https://thehackernews.com/2016/08/nsa-hacking-tools.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+TheHackersNews+%28The+Hackers+News+-+Security+Blog%29</link>
+            <guid isPermaLink="false">455d7cc0-0ae8-4426-8ef1-177f75ce7481</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NSA's Hacking Group Hacked! Bunch of Private Hacking Tools Leaked Online]]></title>
+            <description><![CDATA[<article><h1>NSA's Hacking Group Hacked! Bunch of Private Hacking Tools Leaked Online</h1><p>It seems like the NSA has been HACKED! Update: The NSA Hack - What, When, Where, How, Who & Why? Explained Here. An unknown hacker or a group of hackers just claimed to have hacked into " Equation Group" -- a cyber-attack group allegedly associated with the United States intelligence organization NSA -- and dumped a bunch of its hacking tools (malware, private exploits, and hacking tools) online.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3550ffa8ba990c64eb1a351de778e443/noop.png?input=https%3A%2F%2F2.bp.blogspot.com%2F-_YANTNdqS0M%2FV7H7c08SVgI%2FAAAAAAAApLs%2FvBdMflmleREiPRM04wCdA2jhq4pCDHANwCLcB%2Fs1600%2Fnsa-hacked.png"></article>]]></description>
+            <link>https://thehackernews.com/2016/08/nsa-hacking-tools.html</link>
+            <guid isPermaLink="false">bf8b6ae2-6142-4525-a89f-9bed2554e407</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Our CoinShuffle implementation is finally working! https://live.blockcypher.com/btc-testnet/tx/fe68ebbbec06746a26d4038b500b3b9450b91f9e5c0935304b18fe13ec3eccbd/ ...</p>]]></description>
@@ -40,41 +75,6 @@
             <link>https://twitter.com/Snowden/status/765513662597623808</link>
             <guid isPermaLink="false">68941f66-fce4-489b-b022-eda1bf3a4a64</guid>
             <pubDate>Sat, 20 Aug 2016 08:29:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Airbnb hosts: list on OpenBazaar! * /r/Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Airbnb hosts: list on OpenBazaar! * /r/Bitcoin</h1><p>People around the world are listing their short-term rents on OpenBazaar. Join them! *...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ca4bcfb4fdf2823a6328148fce091302/noop.jpg?input=https%3A%2F%2Fi.redditmedia.com%2FL3chxMykHj9tFyUOzFwpatCUfG0nFsbWiu4pjyyexkQ.jpg%3Fw%3D320%26s%3Db520f2981c8b7bb9f7aa01bae7f4a24f"></article>]]></description>
-            <link>https://www.reddit.com/r/Bitcoin/comments/4y5m80/airbnb_hosts_list_on_openbazaar/</link>
-            <guid isPermaLink="false">4b0b2169-e459-4f09-8873-27f251817a60</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stealing bitcoins with badges: How Silk Road's dirty cops got caught]]></title>
-            <description><![CDATA[<article><h1>Stealing bitcoins with badges: How Silk Road's dirty cops got caught</h1><p>View more stories DEA Special Agent Carl Force wanted his money-real cash, not just numbers on a screen-and he wanted it fast. It was October 2013, and Force had spent the past couple of years working on a Baltimore-based task force investigating the darknet's biggest drug site, Silk Road.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e6a17235fb2e9007398cb9fc150ea7bf/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F07%2Fforce-wrapup-e1471461145239-640x360.jpg"></article>]]></description>
-            <link>http://arstechnica.com/tech-policy/2016/08/stealing-bitcoins-with-badges-how-silk-roads-dirty-cops-got-caught/</link>
-            <guid isPermaLink="false">46931c76-7b04-4b0c-bdb0-0d7132294637</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="https://i.redd.it/rqscds4vrwfx.png"></article>]]></description>
-            <link>https://i.redd.it/rqscds4vrwfx.png</link>
-            <guid isPermaLink="false">f24e5449-2880-4d47-b05f-3a7e99c17cf3</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Address 19BY2XCgbDe6WtTVbTyzM9eR3LYr6VitWK]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Address 19BY2XCgbDe6WtTVbTyzM9eR3LYr6VitWK</h1><p>Transactions sent and received from bitcoin address 19BY2XCgbDe6WtTVbTyzM9eR3LYr6VitWK.</p></article>]]></description>
-            <link>https://blockchain.info/address/19BY2XCgbDe6WtTVbTyzM9eR3LYr6VitWK</link>
-            <guid isPermaLink="false">80d6cc39-fef0-431f-adef-f23301e26e65</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[0.13.0 Binary Safety Warning]]></title>
-            <description><![CDATA[<article><h1>0.13.0 Binary Safety Warning</h1><p>We strongly recommend that you download that key, which should have a fingerprint of 01EA5486DE18A882D4C2684590C8019E36C2E964. You should securely verify the signature and hashes before running any Bitcoin Core binaries. This is the safest and most secure way of being confident that the binaries you're running are the same ones created by the Core Developers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9da8e724ef82569a35ce516d6961ff57cbe9c21b.png"></article>]]></description>
-            <link>https://bitcoin.org/en/alert/2016-08-17-binary-safety</link>
-            <guid isPermaLink="false">981ae250-7436-4fb6-af26-a22b5f434559</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
