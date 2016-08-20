@@ -21,6 +21,13 @@
             <pubDate>Sat, 20 Aug 2016 08:29:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Crypto Show with Paul Puey of Airbitz and Travis County Republican Chair Robert Morrow on his Presidential bid]]></title>
+            <description><![CDATA[<article><h1>The Crypto Show with Paul Puey of Airbitz and Travis County Republican Chair Robert Morrow on his Presidential bid</h1><p>The first hour is spent talking with Paul Puey of Airbitz on the new API plugin to integrate Airbitz into other apps as mentioned previously this week in an article by Jamie Redman on Bitcoin.com. https://news.bitcoin.com/airbitz-bitcoin-third-apps-plugin-api/ We also touch on Edge Security and the Arcade City, Airbitz partnership.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f26af7091a6d557ce9c4a5bd2c4c2c93/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1894-d275526db9de3bf8ad58e009828c62c6d44515c28982ed351387846a21a01eac.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/the-crypto-show-with-paul-puey-of-airbitz-and-travis-county-republican-chair-robert-morrow-on-his-presidential-bid</link>
+            <guid isPermaLink="false">577ed6a9-3dc8-4f73-8109-261a06289704</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bitcoin.org suspects state-sponsored attacks on the horizon | ZDNet]]></title>
             <description><![CDATA[<article><h1>Bitcoin.org suspects state-sponsored attacks on the horizon | ZDNet</h1><p>Bitcoin.org has warned users to be aware that the upcoming release of Bitcoin Core is likely to be targeted by state-sponsored cyberattackers. The group which manages Bitcoin Core, the client used to keep the virtual currency decentralized while at the same time aims to accept only valid transactions, warned this week that the organization has "reason to suspect" that the binaries used in the next release will become targets.</p></article>]]></description>
             <link>http://www.zdnet.com/article/bitcoin-org-suspects-state-sponsored-attacks-on-the-horizon/</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Sending confidential transaction amount to the receiver</h1><p>In Elements Alpha, output "amounts" consist of 3 pieces of data: The Petersen commitment to the value, blinded by the blinding factor. The range proof, which can publicly prove that the value is within range [0..2^32-1] units (satoshis) without revealing anything about the blinding factor. An ECDH ephemeral public key of the sender.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/48064/sending-confidential-transaction-amount-to-the-receiver</link>
             <guid isPermaLink="false">724945a2-ec20-4a39-9275-8d59c45c4260</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why didn't the difficulty adjust for the first 30,240 blocks?]]></title>
-            <description><![CDATA[<article><h1>Why didn't the difficulty adjust for the first 30,240 blocks?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/48106/why-didnt-the-difficulty-adjust-for-the-first-30-240-blocks</link>
-            <guid isPermaLink="false">bfc335ce-94ee-4f25-95a9-1b27f3292e82</guid>
             <pubDate>Sat, 20 Aug 2016 08:29:51 GMT</pubDate>
         </item>
     </channel>
