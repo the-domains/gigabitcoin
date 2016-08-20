@@ -4,77 +4,77 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 08:30:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 08:30:37 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Zurich Rejects Initiatives in Switzerland by Refusing Bitcoin Payments]]></title>
-            <description><![CDATA[<article><h1>Zurich Rejects Initiatives in Switzerland by Refusing Bitcoin Payments</h1><p>The Swiss capital has taken the stance of refusing to allow bitcoin payments, going against the creativities throughout the country. According to local news outlet, Finanz Und Wirtschaft, there are no plans to implement the digital currency into the city at present.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0e2d072ca3993bd8140a898d03a04828/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FZurich-Rejects-Initiatives-in-Switzerland-by-Refusing-Bitcoin-Payments.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/zurich-rejects-initiatives-switzerland-refusing-bitcoin-payments/</link>
-            <guid isPermaLink="false">b6658c5d-4c96-4cc5-b0fc-5911696656b7</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:53 GMT</pubDate>
+            <title><![CDATA["Having a bigger market share doesn't give you the right to tell others to recall their products already 6 months on the market because you are too lazy to do fix yours before your release." - Tom Zander demolishing Greg Maxwell's bullshitting technical attempts to "justify" stealing XThin's ID #. * /r/btc]]></title>
+            <description><![CDATA[<article><h1>"Having a bigger market share doesn't give you the right to tell others to recall their products already 6 months on the market because you are too lazy to do fix yours before your release." - Tom Zander demolishing Greg Maxwell's bullshitting technical attempts to "justify" stealing XThin's ID #. * /r/btc</h1><p>Here is Tom Zander responding to Gregory Maxwell's arrogant attempts to justify stealing XThin's ID #: > You should be ashamed of yourselves. >...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d3b5a3ac36fcdde3849e18b34ab3338d/noop.jpg?input=https%3A%2F%2Fi.redditmedia.com%2FO5BtTxnTQ5Yr0S0WKM2ABkqRLsemcQjb6PMT_QjlLuE.jpg%3Fw%3D320%26s%3D895ec6ea9728a003595e9122cb3184dc"></article>]]></description>
+            <link>https://www.reddit.com/r/btc/comments/4xpsev/having_a_bigger_market_share_doesnt_give_you_the/</link>
+            <guid isPermaLink="false">b26d34a2-f776-4f4c-9bf0-0ab211cbd057</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bitfinex's Lesson: Has the Time for Regulation Arrived?]]></title>
-            <description><![CDATA[<article><h1>Bitfinex's Lesson: Has the Time for Regulation Arrived?</h1><p>In light of the Bitfinex hack and other hacks, the bitcoin community faces the need to improve security and is considering various options, according to a Bloomberg article by Yuji Nakamura and Olga Kharif. The article suggests it may be time for some type of regulation.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aca16b58a4c08a1e072651ab6d06bd64/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FBitfinexs-Lesson-Has-the-Time-for-Regulation-Arrived.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitfinexs-lesson-has-the-time-for-regulation-arrived/</link>
-            <guid isPermaLink="false">83cc907a-3441-42e1-bc78-8a044365fc11</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:52 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="https://i.redd.it/vmbkfv9mp5fx.png"></article>]]></description>
+            <link>https://i.redd.it/vmbkfv9mp5fx.png</link>
+            <guid isPermaLink="false">c63d12c6-3f07-446c-b8cf-df1577edc56a</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Malware Turns Servers into Cryptocurrency Mining Engines]]></title>
-            <description><![CDATA[<article><h1>Malware Turns Servers into Cryptocurrency Mining Engines</h1><p>A malware called Linux.Lady targets Redis servers that have been placed online without passwords and launches a cryptocurrency mining software, according to hackread.com. According to Dr. Web, a Russian software retailer, Linux.Lady uses Google's Go programming language and targets Redis servers that lack passwords from systems administrators.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b1cf6801361567cb68f84ee310fc71c5/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FMalware-Turns-Servers-into-Cryptocurrency-Mining-Engines.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/malware-turns-servers-into-cryptocurrency-mining-engines/</link>
-            <guid isPermaLink="false">434bcc90-6937-417f-b5ec-a4e398cc2444</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:52 GMT</pubDate>
+            <title><![CDATA[PSA: Full nodes should run a tor hidden service, it costs nothing and improves the network * /r/Bitcoin]]></title>
+            <description><![CDATA[<article><h1>PSA: Full nodes should run a tor hidden service, it costs nothing and improves the network * /r/Bitcoin</h1><p>Right now there are only 129 nodes available through their own tor hidden services: https://bitnodes.21.co/nodes/?q=.onion Since Core 0.12...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/47614fb72b6a31760bccb51b85b5e71e/noop.jpg?input=https%3A%2F%2Fi.redditmedia.com%2FQh6xIOsZU5M-_rB-fOxoZIoPtYVrMLvaJrkVcSYuLxs.jpg%3Fw%3D216%26s%3D5965b607814bfff4efa8c6393482468d"></article>]]></description>
+            <link>https://www.reddit.com/r/Bitcoin/comments/4xqfpz/psa_full_nodes_should_run_a_tor_hidden_service_it/</link>
+            <guid isPermaLink="false">9d29dc46-dfe9-42b1-925a-4ef00d5e235c</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Japan May Be Left behind in Blockchain Race]]></title>
-            <description><![CDATA[<article><h1>Japan May Be Left behind in Blockchain Race</h1><p>Lack of experts may dash Japan's hopes of becoming a vibrant competitor in the blockchain technology sector at the world stage particularly for financial uses. Japan is the world's second largest developed economy with an enviable record as one of the nations that have pioneered technological development.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9f364fb1f259bc50ecedcb5c3850848d/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FJapan-May-Be-Left-behind-in-Blockchain-Race.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/japan-may-left-behind-blockchain-race/</link>
-            <guid isPermaLink="false">3c846e89-716f-474b-a903-42ad9da2a3be</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:52 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article></article>]]></description>
+            <link>http://blog.kraken.com/post/148976188862/kraken-phishing-warning</link>
+            <guid isPermaLink="false">4af4ed79-b710-4575-b22e-257be35f00da</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[FinTech Startup Says Law Enforcement Is Ramping Up Ransomware Arrests]]></title>
-            <description><![CDATA[<article><h1>FinTech Startup Says Law Enforcement Is Ramping Up Ransomware Arrests</h1><p>Chainalysis has stated that ransomware arrests will soon take place targeting cyber criminals behind ransomware attacks. Over the past six months, ransomware attacks have become an issue to government, business and healthcare organizations. In January, CCN reported that three banks and a pharmaceutical company in India had been targeted by a ransomware scheme with the ransom demand in bitcoins.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fa189a7d7298f35906d40d2b721bb57a/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FFinTech-Startup-Says-Law-Enforcement-Is-Ramping-Up-Ransomware-Arrests.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/fintech-startup-says-law-enforcement-ramping-ransomware-arrests/</link>
-            <guid isPermaLink="false">cfdc8479-939c-4f60-ae69-bb3aa6d62f8c</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:52 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://imgur.com/9DAQapr.jpg"></article>]]></description>
+            <link>http://i.imgur.com/9DAQapr.jpg</link>
+            <guid isPermaLink="false">6406948b-8853-4adf-aa00-41112bfbec11</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Magic Internet Money is Finally a Reality - Web3.0 is Here]]></title>
-            <description><![CDATA[<article><h1>Magic Internet Money is Finally a Reality - Web3.0 is Here</h1><p>The coolest thing on earth no one knows about has finally turned into reality a long-held dream in the digital currency space - the Facebook like button where you just click. MetaMask, a spoke of Consensys, has launched a Chrome plugin which on the surface looks too simple, even for my grandma.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/126f52c44436bb05bba23fe0bba8b529/noop.png?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fmetamask-click-and-done.png"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/magic-internet-money-is-finally-a-reality-web3-0-is-here/</link>
-            <guid isPermaLink="false">1afc1303-5a31-4ede-92fb-869920ea79d1</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:52 GMT</pubDate>
+            <title><![CDATA[NSA's Hacking Group Hacked! Bunch of Private Hacking Tools Leaked Online]]></title>
+            <description><![CDATA[<article><h1>NSA's Hacking Group Hacked! Bunch of Private Hacking Tools Leaked Online</h1><p>It seems like the NSA has been HACKED! Update: The NSA Hack - What, When, Where, How, Who & Why? Explained Here. An unknown hacker or a group of hackers just claimed to have hacked into " Equation Group" -- a cyber-attack group allegedly associated with the United States intelligence organization NSA -- and dumped a bunch of its hacking tools (malware, private exploits, and hacking tools) online.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3550ffa8ba990c64eb1a351de778e443/noop.png?input=https%3A%2F%2F2.bp.blogspot.com%2F-_YANTNdqS0M%2FV7H7c08SVgI%2FAAAAAAAApLs%2FvBdMflmleREiPRM04wCdA2jhq4pCDHANwCLcB%2Fs1600%2Fnsa-hacked.png"></article>]]></description>
+            <link>https://thehackernews.com/2016/08/nsa-hacking-tools.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+TheHackersNews+%28The+Hackers+News+-+Security+Blog%29</link>
+            <guid isPermaLink="false">455d7cc0-0ae8-4426-8ef1-177f75ce7481</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Crypto Show with Paul Puey of Airbitz and Travis County Republican Chair Robert Morrow on his Presidential bid]]></title>
-            <description><![CDATA[<article><h1>The Crypto Show with Paul Puey of Airbitz and Travis County Republican Chair Robert Morrow on his Presidential bid</h1><p>The first hour is spent talking with Paul Puey of Airbitz on the new API plugin to integrate Airbitz into other apps as mentioned previously this week in an article by Jamie Redman on Bitcoin.com. https://news.bitcoin.com/airbitz-bitcoin-third-apps-plugin-api/ We also touch on Edge Security and the Arcade City, Airbitz partnership.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f26af7091a6d557ce9c4a5bd2c4c2c93/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1894-d275526db9de3bf8ad58e009828c62c6d44515c28982ed351387846a21a01eac.jpg"></article>]]></description>
-            <link>https://letstalkbitcoin.com/blog/post/the-crypto-show-with-paul-puey-of-airbitz-and-travis-county-republican-chair-robert-morrow-on-his-presidential-bid</link>
-            <guid isPermaLink="false">577ed6a9-3dc8-4f73-8109-261a06289704</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:52 GMT</pubDate>
+            <title><![CDATA[NSA's Hacking Group Hacked! Bunch of Private Hacking Tools Leaked Online]]></title>
+            <description><![CDATA[<article><h1>NSA's Hacking Group Hacked! Bunch of Private Hacking Tools Leaked Online</h1><p>It seems like the NSA has been HACKED! Update: The NSA Hack - What, When, Where, How, Who & Why? Explained Here. An unknown hacker or a group of hackers just claimed to have hacked into " Equation Group" -- a cyber-attack group allegedly associated with the United States intelligence organization NSA -- and dumped a bunch of its hacking tools (malware, private exploits, and hacking tools) online.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3550ffa8ba990c64eb1a351de778e443/noop.png?input=https%3A%2F%2F2.bp.blogspot.com%2F-_YANTNdqS0M%2FV7H7c08SVgI%2FAAAAAAAApLs%2FvBdMflmleREiPRM04wCdA2jhq4pCDHANwCLcB%2Fs1600%2Fnsa-hacked.png"></article>]]></description>
+            <link>https://thehackernews.com/2016/08/nsa-hacking-tools.html</link>
+            <guid isPermaLink="false">bf8b6ae2-6142-4525-a89f-9bed2554e407</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bitcoin.org suspects state-sponsored attacks on the horizon | ZDNet]]></title>
-            <description><![CDATA[<article><h1>Bitcoin.org suspects state-sponsored attacks on the horizon | ZDNet</h1><p>Bitcoin.org has warned users to be aware that the upcoming release of Bitcoin Core is likely to be targeted by state-sponsored cyberattackers. The group which manages Bitcoin Core, the client used to keep the virtual currency decentralized while at the same time aims to accept only valid transactions, warned this week that the organization has "reason to suspect" that the binaries used in the next release will become targets.</p></article>]]></description>
-            <link>http://www.zdnet.com/article/bitcoin-org-suspects-state-sponsored-attacks-on-the-horizon/</link>
-            <guid isPermaLink="false">b12c13fb-fa8c-47f2-ad10-4311d2a93fd5</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:52 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Our CoinShuffle implementation is finally working! https://live.blockcypher.com/btc-testnet/tx/fe68ebbbec06746a26d4038b500b3b9450b91f9e5c0935304b18fe13ec3eccbd/ ...</p>]]></description>
+            <link>https://twitter.com/myceliumcom/status/765214573616037888</link>
+            <guid isPermaLink="false">d5e0ac52-d225-4bcc-a2f9-6f21a3a0cd8c</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SAFE Crossroads Podcast #33, Alpha Release]]></title>
-            <description><![CDATA[<article><h1>SAFE Crossroads Podcast #33, Alpha Release</h1><p>In this Episode We have a chat with Francis Brunelle, a returning guest, about the recent Alpha Release of the MaidSafe Client, and a lot more about the state and progress of the SAFE Network project. Magic Word Listen for the magic word, and submit it to your LetsTalkBitcoin.com account to claim a share of this week's listener award distribution of LTBcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/afd3f56b04034834803f7a7699fcb966/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1893-ed2ea477b9b544ea58b4bc6e6db91c40e3751f40ae2f51a3122ed2e80447b938.jpg"></article>]]></description>
-            <link>https://letstalkbitcoin.com/blog/post/safe-crossroads-podcast-33-alpha-release</link>
-            <guid isPermaLink="false">b5c5d9d1-32e8-4a8c-aab9-109f547fe2b6</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:52 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Working on adding support for @ledgerHQ and @BitcoinTrezor.pic.twitter.com/0eoeWHmU6P" src="https://pbs.twimg.com/media/Cp-sA3WWcAAw56q.jpg:large">]]></description>
+            <link>https://twitter.com/nejc_kodric/status/765521344616361984</link>
+            <guid isPermaLink="false">f4587feb-4770-43e9-8f32-e256be53ac38</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[EB144 - Charles Hoskinson & Alex Chepurnoy: IOHK, Scorex And The Case For Ethereum Classic]]></title>
-            <description><![CDATA[<article><h1>EB144 - Charles Hoskinson & Alex Chepurnoy: IOHK, Scorex And The Case For Ethereum Classic</h1><p>From BitShares to his central role during the inception of Ethereum Charles Hoskinson has continually influenced key projects in the blockchain and cryptocurrency space. After departing the Ethereum project in 2014, he has recently stepped back into the limelight by pledging support and resources to turn the fledgling Ethereum fork ETC into a viable project.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fe3df75313484e30516d61e7d9a1227c/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1891-a893c16fe0cb5fa1b765c00269601cfd9db2c2ca7d73740eeb4dbae03f5f11f8.jpg"></article>]]></description>
-            <link>https://letstalkbitcoin.com/blog/post/eb144-charles-hoskinson-alex-chepurnoy-iohk-scorex-and-the-case-for-ethereum-classic</link>
-            <guid isPermaLink="false">24e2f963-3d04-43b5-a420-0c8d54fb255c</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:52 GMT</pubDate>
+            <title><![CDATA[BTCfork/BTC-Forks-Roadmap]]></title>
+            <description><![CDATA[<article><h1>BTCfork/BTC-Forks-Roadmap</h1><p>BTC-Forks-Roadmap - A place to discuss and create the BTC Forks Roadmap</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f6ca6624840be79a37c6fb26c6e6712d/noop?input=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F20826420%3Fv%3D3%26s%3D400"></article>]]></description>
+            <link>https://github.com/BTCfork/BTC-Forks-Roadmap/blob/master/Proposals/BTC%20Forks%20Roadmap%20Proposal.md</link>
+            <guid isPermaLink="false">c2de9f82-9859-4c66-9fb2-582cdbb1d3f1</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
