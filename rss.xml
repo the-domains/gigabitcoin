@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 01:28:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 01:28:40 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Can ACTUS Stop Financial Crises with Blockchain Data Standards?]]></title>
+            <description><![CDATA[<article><h1>Can ACTUS Stop Financial Crises with Blockchain Data Standards?</h1><p>The lack of global financial industry data standards for financial instruments has created chaos for digital currency startups and the financial sector as a whole. Even more devastating is the intensification effect this lack of standards has had during recent financial crises.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/209638e3b6f9dcfb35588d625ddf59a7/croprotate.png?cropheight=573&cropwidth=773&degrees=0&input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FData-analysis-web.png&x=13&y=13"></article>]]></description>
+            <link>https://news.bitcoin.com/actus-blockchain-data-financial-crises/</link>
+            <guid isPermaLink="false">7f616429-69a1-41b1-ad9b-e15e6db55d31</guid>
+            <pubDate>Sat, 20 Aug 2016 01:28:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Airbnb hosts: list on OpenBazaar! * /r/Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Airbnb hosts: list on OpenBazaar! * /r/Bitcoin</h1><p>People around the world are listing their short-term rents on OpenBazaar. Join them! *...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ca4bcfb4fdf2823a6328148fce091302/noop.jpg?input=https%3A%2F%2Fi.redditmedia.com%2FL3chxMykHj9tFyUOzFwpatCUfG0nFsbWiu4pjyyexkQ.jpg%3Fw%3D320%26s%3Db520f2981c8b7bb9f7aa01bae7f4a24f"></article>]]></description>
+            <link>https://www.reddit.com/r/Bitcoin/comments/4y5m80/airbnb_hosts_list_on_openbazaar/</link>
+            <guid isPermaLink="false">6587fdf5-a4e7-4776-ae9e-d43bcf7c6758</guid>
+            <pubDate>Sat, 20 Aug 2016 01:28:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mycelium May Roll out P2P Tumbling Soon - Bitcoinist.net]]></title>
             <description><![CDATA[<article><h1>Mycelium May Roll out P2P Tumbling Soon - Bitcoinist.net</h1><p>There's been no official statements as of yet - but it looks like the Mycelium Wallet will be getting built-in peer-to-peer bitcoin mixing/tumbling later this year. The first testnet transaction from devs went out four days ago, and discussion on internal channels confirms that they're working on integrating P2P tumbling into their popular Android wallet.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/430d94232409f3c4f71704647c18ba6c/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FMycelium-Splash.png"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Format of mkey field in encrypted wallet.dat file</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top I am writing a C++ application to scour large files (typically disk images) for wallet.dat files, with the intention of recovering the private keys.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/48070/format-of-mkey-field-in-encrypted-wallet-dat-file</link>
             <guid isPermaLink="false">bda0513e-b9ae-46f2-b7b6-860a0784aff0</guid>
-            <pubDate>Fri, 19 Aug 2016 00:58:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man Who Introduced Millions to Bitcoin Says Blockchain Is a Bust]]></title>
-            <description><![CDATA[<article><h1>Man Who Introduced Millions to Bitcoin Says Blockchain Is a Bust</h1><p>Stefan Thomas, who introduced millions of people to bitcoin, has had a change of heart. Blockchain, the ledger software that makes the digital currency possible, is too rigid to gain wide adoption, he wrote in an essay titled " The Subtle Tyranny of Blockchain."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/19640c607a0136107038d08b5124afda/noop.jpg?input=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fi8KqYq9PVvuI%2Fv1%2F-1x-1.jpg"></article>]]></description>
-            <link>http://www.bloomberg.com/news/articles/2016-08-18/man-who-introduced-millions-to-bitcoin-says-blockchain-is-a-bust</link>
-            <guid isPermaLink="false">9520db1c-01df-4837-aec2-edbbcc9ffda5</guid>
-            <pubDate>Fri, 19 Aug 2016 00:58:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Safe, Not Sorry: How to Treat Cloud Mining Right]]></title>
-            <description><![CDATA[<article><h1>Safe, Not Sorry: How to Treat Cloud Mining Right</h1><p>Cloud mining, according to some, is one of the most profitable ways of investing online. Many users are aware of such opportunity and actively use it. Others think that 'making money from nothing' is nothing more than fraud. As always, the truth lies somewhere in between.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/afab67e29136685435a194d65fce8002/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yMDBjNDBiODFkYWQ2OGFlNjhjMGFmYzAzZDFiYjQxYy5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/safe-not-sorry-how-to-treat-cloud-mining-right</link>
-            <guid isPermaLink="false">2e379cd0-96f7-4151-84db-2ededa854029</guid>
             <pubDate>Fri, 19 Aug 2016 00:58:44 GMT</pubDate>
         </item>
     </channel>
