@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 08:30:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 08:30:39 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin security is more than multisig]]></title>
-            <description><![CDATA[<article><h1>Bitcoin security is more than multisig</h1><p>Following the Bitfinex hack it's become apparent that people don't really understand bitcoin's multisig feature. There seems to be a lot of confusion over what multisig is and isn't, what it inherently does or does not do.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5f61712ab08c4447931cc500e8cef714/croprotate.jpeg?cropheight=304&cropwidth=400&degrees=0&input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-1J8Fmw0oES1cAj28siK6Ovw.jpeg&x=0&y=48"></article>]]></description>
-            <link>http://bravenewcoin.com/news/bitcoin-security-is-more-than-multisig/</link>
-            <guid isPermaLink="false">98d11910-700e-4b30-bd7c-ce0a922a038c</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:50 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[U.S. Department of Homeland Security funds four blockchain companies developing new cyber security technology]]></title>
             <description><![CDATA[<article><h1>U.S. Department of Homeland Security funds four blockchain companies developing new cyber security technology</h1><p>The U.S. Department of Homeland Security, Science and Technology Directorate, recently unveiled a list of 13 small businesses working towards "the development of new cyber security technology." The companies are part of the 2016 Small Business Innovation Research program. Each was awarded approximately $100,000 in funding, for a total of $1.3 million, and four are using blockchains in their product.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e60cb55dc240849316577f9b2907f9e7/noop.png?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-Department-of-Homeland-Security.png"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><img src="http://imgur.com/9DAQapr.jpg"></article>]]></description>
             <link>http://i.imgur.com/9DAQapr.jpg</link>
             <guid isPermaLink="false">6406948b-8853-4adf-aa00-41112bfbec11</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NSA's Hacking Group Hacked! Bunch of Private Hacking Tools Leaked Online]]></title>
+            <description><![CDATA[<article><h1>NSA's Hacking Group Hacked! Bunch of Private Hacking Tools Leaked Online</h1><p>It seems like the NSA has been HACKED! Update: The NSA Hack - What, When, Where, How, Who & Why? Explained Here. An unknown hacker or a group of hackers just claimed to have hacked into " Equation Group" -- a cyber-attack group allegedly associated with the United States intelligence organization NSA -- and dumped a bunch of its hacking tools (malware, private exploits, and hacking tools) online.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3550ffa8ba990c64eb1a351de778e443/noop.png?input=https%3A%2F%2F2.bp.blogspot.com%2F-_YANTNdqS0M%2FV7H7c08SVgI%2FAAAAAAAApLs%2FvBdMflmleREiPRM04wCdA2jhq4pCDHANwCLcB%2Fs1600%2Fnsa-hacked.png"></article>]]></description>
+            <link>https://thehackernews.com/2016/08/nsa-hacking-tools.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+TheHackersNews+%28The+Hackers+News+-+Security+Blog%29</link>
+            <guid isPermaLink="false">455d7cc0-0ae8-4426-8ef1-177f75ce7481</guid>
             <pubDate>Sat, 20 Aug 2016 08:29:49 GMT</pubDate>
         </item>
     </channel>
