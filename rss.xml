@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 01:29:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 01:29:43 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ripple CTO Blasts the 'Subtle Tyranny' of Blockchain Hype]]></title>
+            <description><![CDATA[<article><h1>Ripple CTO Blasts the 'Subtle Tyranny' of Blockchain Hype</h1><p>The chief technology officer of Ripple and the guy who introduced Bitcoin to millions of viewers, Stefan Thomas, now has a different attitude concerning blockchain technology. Also read: Japan Risks Falling Behind Amid Blockchain Talent Shortage In a Medium blog post, Stefan Thomas, the creator of the YouTube video "What is Bitcoin?"</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5da631046d7fefeca135370f957f4832/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fchain.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/ripple-cto-blasts-blockchain-hype/</link>
+            <guid isPermaLink="false">04cac7b2-bb94-46bc-b595-6af5d0e8e8fd</guid>
+            <pubDate>Sat, 20 Aug 2016 01:28:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Malware Turns Servers into Cryptocurrency Mining Engines]]></title>
             <description><![CDATA[<article><h1>Malware Turns Servers into Cryptocurrency Mining Engines</h1><p>A malware called Linux.Lady targets Redis servers that have been placed online without passwords and launches a cryptocurrency mining software, according to hackread.com. According to Dr. Web, a Russian software retailer, Linux.Lady uses Google's Go programming language and targets Redis servers that lack passwords from systems administrators.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b1cf6801361567cb68f84ee310fc71c5/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FMalware-Turns-Servers-into-Cryptocurrency-Mining-Engines.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Regulators Start To See Bitcoin As "Prosecution Futures"</h1><p>Regulators have mixed feelings towards Bitcoins, a trend that most people have noticed over the past few years. At the same time, there is a growing number of officials who see Bitcoin and blockchain as "prosecution futures", due to the technology making it easy to track funds.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/871ddcf38508b4eaa0e9f5eddfc22603/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_348502235.jpg"></article>]]></description>
             <link>http://themerkle.com/regulators-start-to-see-bitcoin-as-prosecution-futures/</link>
             <guid isPermaLink="false">ba090e79-4924-425a-8524-9373ced4061c</guid>
-            <pubDate>Sat, 20 Aug 2016 01:28:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Japan May Be Left behind in Blockchain Race]]></title>
-            <description><![CDATA[<article><h1>Japan May Be Left behind in Blockchain Race</h1><p>Lack of experts may dash Japan's hopes of becoming a vibrant competitor in the blockchain technology sector at the world stage particularly for financial uses. Japan is the world's second largest developed economy with an enviable record as one of the nations that have pioneered technological development.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9f364fb1f259bc50ecedcb5c3850848d/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FJapan-May-Be-Left-behind-in-Blockchain-Race.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/japan-may-left-behind-blockchain-race/</link>
-            <guid isPermaLink="false">b8886af9-8dc5-4adb-be1e-ae9621c20b96</guid>
             <pubDate>Sat, 20 Aug 2016 01:28:35 GMT</pubDate>
         </item>
     </channel>
