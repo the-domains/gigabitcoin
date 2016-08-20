@@ -7,13 +7,6 @@
         <lastBuildDate>Sat, 20 Aug 2016 08:31:36 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Kraken Cites Phishing Not Breach on its Exchange]]></title>
-            <description><![CDATA[<article><h1>Kraken Cites Phishing Not Breach on its Exchange</h1><p>The Kraken support team has drawn to the attention of Cointelegraph its recent blogpost in response to various claims of compromised accounts and stolen funds on the exchange. In the last month, CoinTelegraph received two separate mails from alleged Kraken users who claim their accounts were compromised after a reported security breach on the Kraken system.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9a6aa97100ae61dbf1fe2ed5fe1323c1/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81NWFjYjkyYzk0N2ZiNTgxYjU5NGViNDY3NGYzNzRjMi5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/kraken-sites-phishing-not-breach-on-its-exchange</link>
-            <guid isPermaLink="false">200c9135-a2ea-4682-becb-0231d8aa5bfe</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[How is Bitcoin Actually Stolen? Theft Prevention]]></title>
             <description><![CDATA[<article><h1>How is Bitcoin Actually Stolen? Theft Prevention</h1><p>The successful US$65 million dollar hacking attack launched on the Bitfinex trading platform left the community to question the security measures of the multi-signature technology implemented by the exchange. It also triggered a relatively simple yet important argument; how is Bitcoin actually stolen? To begin with, let's tackle the fundamentals of the security breach of Bitfinex.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d0654d0ce6151840847df640b2911813/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lODM4ZDZkNzNhMzNiZWEyY2Q4ZGMyZTNhOGMxMjc5OS5qcGc%3D.jpg"></article>]]></description>
             <link>https://cointelegraph.com/news/how-is-bitcoin-actually-stolen-theft-prevention</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>$50,000 Prize Hackaton Starts 10/10/16, Ether.camp Releases Its Tour Guide</h1><p>Hackers from around the globe will compete for the prize of $50,000 USD during the Hackaton held by Ether.camp who released a tour on their website. According to Ether.camp CEO and founder Roman Mandeleil, the tour is designed to share information about the way the Hackaton will be managed.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ca953a031dc48e88cbbd92fc1acb7ceb/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84ZjA0NjZlYjNjY2NhMWY4MjM5MWI3YWZhMzY5NjNiZS5qcGc%3D.jpg"></article>]]></description>
             <link>https://cointelegraph.com/news/50000-prize-hackaton-starts-101016-ethercamp-releases-its-tour-guide</link>
             <guid isPermaLink="false">228013c7-dd9b-4b49-93bc-968cca1be287</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Safe, Not Sorry: How to Treat Cloud Mining Right]]></title>
+            <description><![CDATA[<article><h1>Safe, Not Sorry: How to Treat Cloud Mining Right</h1><p>Cloud mining, according to some, is one of the most profitable ways of investing online. Many users are aware of such opportunity and actively use it. Others think that 'making money from nothing' is nothing more than fraud. As always, the truth lies somewhere in between.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/afab67e29136685435a194d65fce8002/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yMDBjNDBiODFkYWQ2OGFlNjhjMGFmYzAzZDFiYjQxYy5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/safe-not-sorry-how-to-treat-cloud-mining-right</link>
+            <guid isPermaLink="false">06a6ea0f-b6a3-4ea8-998e-073357dfeaa7</guid>
             <pubDate>Sat, 20 Aug 2016 08:29:54 GMT</pubDate>
         </item>
     </channel>
