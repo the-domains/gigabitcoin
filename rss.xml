@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 08:31:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 08:31:02 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Should Bitcoin Exchange Bitsquare Adopt Reputation System?]]></title>
-            <description><![CDATA[<article><h1>Should Bitcoin Exchange Bitsquare Adopt Reputation System?</h1><p>Despite calls to adopt a decentralised reputation system on its platform, Bitsquare says it will not rely on it even though it is typically used to establish the trustworthiness of users in a network. Some Redditers, have asked for the system to be included as a feature on the platform.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8b2df6083b3145ec2410d47e56bce9dc/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hY2Q1MmYwMDJkZGY5OTNjNGYzNGJjNGM2YzM3YzIzMi5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/should-bitcoin-exchange-bitsquare-adopt-reputation-system</link>
-            <guid isPermaLink="false">171bc609-b048-4264-adb7-aa37855a1ac0</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:54 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[CoinsBank Creates Environment For Mainstream Adoption Of The Blockchain]]></title>
             <description><![CDATA[<article><h1>CoinsBank Creates Environment For Mainstream Adoption Of The Blockchain</h1><p>Originally known as Bit-X, CoinsBank is set for its first Blockchain Party, which will be held on October 6 - 9 2016 in Belek, Turkey. Speaking to Cointelegraph, the CEO at CoinsBank Exchange LP, Ronny Boesing describes the event as a platform which is designed to connect people with the aim of changing the world with Blockchain technology.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aaea169630b072502f67f38439563aa4/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy80NTkzZGQ2MDQ2YmUyOGJmNWI2ZmZjMWFlZTVlMGZhNy5qcGc%3D.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Bitcoin Developers Warn New Core Release Could Be Targeted by State Sponsored Hackers</h1><p>Bitcoin.org, the Bitcoin Core website, has warned users to be vigilant downloading binaries for the upcoming 0.13.0 Bitcoin Core release because it will likely be targeted by state-sponsored attackers. Bitcoin.org does not believe it has the resources to defend against the attack. The Chinese bitcoin community is especially warned.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4801bea45611eabe8812a1e81ea9e31e/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FBitcoin-Developers-Warn-New-Core-Release-Could-Be-Targeted-by-State-Sponsored-Hackers.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/bitcoin-developers-warn-new-core-release-could-be-targeted-by-state-sponsored-hackers/</link>
             <guid isPermaLink="false">2bad16b2-8e81-4080-a2ac-76d1d5322019</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zurich Rejects Initiatives in Switzerland by Refusing Bitcoin Payments]]></title>
+            <description><![CDATA[<article><h1>Zurich Rejects Initiatives in Switzerland by Refusing Bitcoin Payments</h1><p>The Swiss capital has taken the stance of refusing to allow bitcoin payments, going against the creativities throughout the country. According to local news outlet, Finanz Und Wirtschaft, there are no plans to implement the digital currency into the city at present.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0e2d072ca3993bd8140a898d03a04828/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FZurich-Rejects-Initiatives-in-Switzerland-by-Refusing-Bitcoin-Payments.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/zurich-rejects-initiatives-switzerland-refusing-bitcoin-payments/</link>
+            <guid isPermaLink="false">b6658c5d-4c96-4cc5-b0fc-5911696656b7</guid>
             <pubDate>Sat, 20 Aug 2016 08:29:53 GMT</pubDate>
         </item>
     </channel>
