@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 08:31:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 08:31:31 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[How is Bitcoin Actually Stolen? Theft Prevention]]></title>
-            <description><![CDATA[<article><h1>How is Bitcoin Actually Stolen? Theft Prevention</h1><p>The successful US$65 million dollar hacking attack launched on the Bitfinex trading platform left the community to question the security measures of the multi-signature technology implemented by the exchange. It also triggered a relatively simple yet important argument; how is Bitcoin actually stolen? To begin with, let's tackle the fundamentals of the security breach of Bitfinex.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d0654d0ce6151840847df640b2911813/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lODM4ZDZkNzNhMzNiZWEyY2Q4ZGMyZTNhOGMxMjc5OS5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/how-is-bitcoin-actually-stolen-theft-prevention</link>
-            <guid isPermaLink="false">89de03a7-3a82-4552-b6cb-f673df986e95</guid>
-            <pubDate>Sat, 20 Aug 2016 08:29:55 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Introducing Zero Dollar DAOs]]></title>
             <description><![CDATA[<article><h1>Introducing Zero Dollar DAOs</h1><p>A key achievement of the flawed The DAO: its ability to organize a few thousand database entries which gave scattered strangers a shared purpose is now being built upon to aim at something bigger.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/eb5e6096de80128b51decda7d56838aa/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zZTgzZjExYzU2ZDU1ZTFjNDk3NDg1ZWYxYzcyZDM0Ny5qcGc%3D.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Podcast: Max Kordek - A Means to an End</h1><p>Part 2 of the Steven McKie character piece is featured at the top of the show! However, this episode, we also talk with Max Kordek, the founder of a new decentralized platform called Lisk. Lisk had an Initial Coin Offering (ICO) early 2016 and collected 14,000 Bitcoin. You do the math on that.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0842d9acdeb047cf980682a20f43f560/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zOWMwNDNjOGUxNjdjYTkyNjA3MzRmZjM4MzE4MDRhZi5qcGc%3D.jpg"></article>]]></description>
             <link>https://cointelegraph.com/news/podcast-max-kordek-a-means-to-an-end</link>
             <guid isPermaLink="false">b0985f90-64b9-41be-adc2-935854f8ac3c</guid>
+            <pubDate>Sat, 20 Aug 2016 08:29:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wikileaks & Snowden-Verified Leaked NSA Data to Auction for 1 Million Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Wikileaks & Snowden-Verified Leaked NSA Data to Auction for 1 Million Bitcoin</h1><p>An undisclosed group of hackers operating under the alias of "The Shadow Brokers," has hacked another hacking group known as "Equation Group," which many security experts and firms believe is connected to the NSA. The Shadow Brokers have set a price tag of 1 million Bitcoin for the compromised data, which is currently worth US$572 million.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bae6c3a1e6db23927db9914ba3d0fa86/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83NmJkOGJiYjFkZjU3MDE2OTlkNjBkYzViODZmY2JhNS5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/wikileaks-snowden-verified-leaked-nsa-data-to-auction-for-1-million-bitcoin</link>
+            <guid isPermaLink="false">acdb1c96-3c12-4d01-8e3c-7afdd8ce753b</guid>
             <pubDate>Sat, 20 Aug 2016 08:29:54 GMT</pubDate>
         </item>
     </channel>
