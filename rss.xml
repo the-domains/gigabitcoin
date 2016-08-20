@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 01:29:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 01:29:27 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Huobi and OKCoin See Massive Decline in USD Trading Volume]]></title>
-            <description><![CDATA[<article><h1>Huobi and OKCoin See Massive Decline in USD Trading Volume</h1><p>The Bitcoin price is often denominated in its USD value, even though most of the trading volume originates from non_US markets. Particularly Huobi and OKCoin are two exchanges where a lot of BTC/USD trading used to take place. Things have changed over the past few weeks, as both platforms are seeing a lot less volume compared to previous months.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6666c06b0bb6f27bf94e19d721f0d7bb/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_151250966.jpg"></article>]]></description>
-            <link>http://themerkle.com/huobi-and-okcoin-see-massive-decline-in-usd-trading-volume/</link>
-            <guid isPermaLink="false">23e280f6-262f-4374-99c1-6f6d646ddb0f</guid>
-            <pubDate>Sat, 20 Aug 2016 01:28:35 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Regulators Start To See Bitcoin As "Prosecution Futures"]]></title>
             <description><![CDATA[<article><h1>Regulators Start To See Bitcoin As "Prosecution Futures"</h1><p>Regulators have mixed feelings towards Bitcoins, a trend that most people have noticed over the past few years. At the same time, there is a growing number of officials who see Bitcoin and blockchain as "prosecution futures", due to the technology making it easy to track funds.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/871ddcf38508b4eaa0e9f5eddfc22603/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_348502235.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Bank of England Seeks Digital Currency Research Lead - CoinDesk</h1><p>The Bank of England is on the hunt for an economist to spearhead its research into a central bank-issued digital currency. According to the job listing, the research lead would play a driving role in its bid to issue a digitized, blockchain-based version of the UK pound - an idea the Bank of England has been exploring since as early as last year.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/051a68c59c378bb836947b550da2f837/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fbank-of-england-england-e1471614646823.jpg"></article>]]></description>
             <link>http://www.coindesk.com/bank-england-seeks-digital-currency-research-lead/</link>
             <guid isPermaLink="false">4c07faba-ab9f-4ec0-af2f-727bb01b9064</guid>
+            <pubDate>Sat, 20 Aug 2016 01:28:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Should Bitcoin Exchange Bitsquare Adopt Reputation System?]]></title>
+            <description><![CDATA[<article><h1>Should Bitcoin Exchange Bitsquare Adopt Reputation System?</h1><p>Despite calls to adopt a decentralised reputation system on its platform, Bitsquare says it will not rely on it even though it is typically used to establish the trustworthiness of users in a network. Some Redditers, have asked for the system to be included as a feature on the platform.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8b2df6083b3145ec2410d47e56bce9dc/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hY2Q1MmYwMDJkZGY5OTNjNGYzNGJjNGM2YzM3YzIzMi5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/should-bitcoin-exchange-bitsquare-adopt-reputation-system</link>
+            <guid isPermaLink="false">b09a6662-96ab-4cb4-be0c-2aff53e4b080</guid>
             <pubDate>Sat, 20 Aug 2016 01:28:21 GMT</pubDate>
         </item>
     </channel>
