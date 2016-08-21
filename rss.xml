@@ -7,6 +7,20 @@
         <lastBuildDate>Sat, 20 Aug 2016 22:57:59 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Compact Blocks stole XThin's ID #: "When Bitcoin Core used the same ID # for their Compact Block that was already being used by the XThin block, they made it so that any implementation that wants to accept both cannot depend on the identifier as a way to identify the data type." ~ u/chernobyl169 * /r/btc]]></title>
+            <description><![CDATA[<article><h1>Compact Blocks stole XThin's ID #: "When Bitcoin Core used the same ID # for their Compact Block that was already being used by the XThin block, they made it so that any implementation that wants to accept both cannot depend on the identifier as a way to identify the data type." ~ u/chernobyl169 * /r/btc</h1><p>UPDATE: u/chernobyl169 has now [mentioned](https://np.reddit.com/r/btc/comments/4xos5n/compact_blocks_stole_xthins_id_when_bitcoin_core/d6hbqi3)...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
+            <link>https://www.reddit.com/r/btc/comments/4xos5n/compact_blocks_stole_xthins_id_when_bitcoin_core/</link>
+            <guid isPermaLink="false">f0dba4f5-706f-4acb-bb2e-556a812c323e</guid>
+            <pubDate>Sat, 20 Aug 2016 22:57:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Malware Sneaking onto Mac Computers, Bitcoinists be Warned]]></title>
+            <description><![CDATA[<article><h1>New Malware Sneaking onto Mac Computers, Bitcoinists be Warned</h1><p>Some tricky new malware is infecting Mac users by imitating legitimate software. The " Also read: Mycelium May Roll out P2P Tumbling Soon Advanced Mac Cleaner," professes to be an anti-malware tool in order to sneak onto Mac computers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cf63a7f69f0984a0ca31a3381aad1410/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2Fkeyboard_reuters_311.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/mac-malware-bitcoin/</link>
+            <guid isPermaLink="false">df4b381b-3e09-48a9-b115-d6409843119c</guid>
+            <pubDate>Sat, 20 Aug 2016 22:57:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[European Drug Report: Dark Net Rising in Use, Making Drugs Safer]]></title>
             <description><![CDATA[<article><h1>European Drug Report: Dark Net Rising in Use, Making Drugs Safer</h1><p>The Internet has provided a new portal for narcotics customers and suppliers to gain access to illicit drugs, says the European Monitoring Centre for Drugs and Drug Addiction (EMCDDA). According to a Also read: Dark Net Markets Are Booming From Better Quality & Safety research report by the organization, Dark Net Market (DNM) usage is rising in popularity.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1d0a4306a20bb4190e14e8c7ad5c834c/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FDwebCov.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/european-drug-report-dark-net-markets/</link>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>I have 100$ and free electricity, how do I start bitcoin mining?</h1><p>Answer (1 of 3): To start mining Bitcoin, aside from free electricity, you need a Bitcoin mining hardware which will cost you a lot. 100$ is not enough for that. While 1 Bitcoin now costs more than 500$, it's more practical to buy other cryptocurrencies that are way cheaper than Bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/87785482e71795662128073b8ca89052/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-3544-200-DDa210tdHWnSwW0GbWfobW5lRxdVxTS3.jpeg"></article>]]></description>
             <link>https://www.quora.com/I-have-100-and-free-electricity-how-do-I-start-bitcoin-mining</link>
             <guid isPermaLink="false">9771de68-2a07-4615-86b6-32000ad69086</guid>
-            <pubDate>Sat, 20 Aug 2016 08:30:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin.org suspects state-sponsored attacks on the horizon | ZDNet]]></title>
-            <description><![CDATA[<article><h1>Bitcoin.org suspects state-sponsored attacks on the horizon | ZDNet</h1><p>Bitcoin.org has warned users to be aware that the upcoming release of Bitcoin Core is likely to be targeted by state-sponsored cyberattackers. The group which manages Bitcoin Core, the client used to keep the virtual currency decentralized while at the same time aims to accept only valid transactions, warned this week that the organization has "reason to suspect" that the binaries used in the next release will become targets.</p></article>]]></description>
-            <link>http://www.zdnet.com/article/bitcoin-org-suspects-state-sponsored-attacks-on-the-horizon/</link>
-            <guid isPermaLink="false">8a6bad52-9895-43bc-ac66-0df5fb7cd18c</guid>
-            <pubDate>Sat, 20 Aug 2016 08:30:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Malicious MyEtherWallet Site Clones Collect Over 1,500 ETH]]></title>
-            <description><![CDATA[<article><h1>Malicious MyEtherWallet Site Clones Collect Over 1,500 ETH</h1><p>A few days ago, we reported on the malicious MyEtherWallet platforms which aim to defraud Ethereum users. As it turns out, there are various addresses which have been identified to receive this stolen funds. Unfortunately, some of these addresses contain substantial ETH and ETC balances, showing off the trickery is working.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/20c2a92d37cec6c9bbe96cf42a836185/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_170786756.jpg"></article>]]></description>
-            <link>http://themerkle.com/malicious-myetherwallet-site-clones-collect-over-1500-eth/</link>
-            <guid isPermaLink="false">3c85e27a-552d-4e1c-9e6e-03cfe36889f4</guid>
             <pubDate>Sat, 20 Aug 2016 08:30:04 GMT</pubDate>
         </item>
     </channel>
