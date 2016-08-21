@@ -4,77 +4,77 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 22:58:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 22:58:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2016-08-11]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-08-11</h1><p>Jtimon asked for some codereview on PR #8493 (Untested: libconsensus: Expose VerifyHeader) Jl2012 has suggested some changes to prevent DoS attacks with segwit (PR #8499), sipa asks what the opinions are on adding a per txin witness size limit policy.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/08/11/</link>
-            <guid isPermaLink="false">ea883a68-7631-4e9f-9828-da10d3afcb13</guid>
-            <pubDate>Sat, 20 Aug 2016 22:57:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Investment Warning] Bitclub Network Review and Analysis]]></title>
-            <description><![CDATA[<article><h1>[Investment Warning] Bitclub Network Review and Analysis</h1><p>Important Update: Since this post was published I was contacted by Joby Weeks, the founder of Bitclub Network. We basically agreed to disagree. However I decided to rephrase the title of the post from "scam" to "investment warning".</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/39686525dc7a4498588a4f8b6e6f297d/noop.jpg?input=https%3A%2F%2F99bitcoins.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fusersmannamanfoldersjingmedia6f85f0c6-262a-446f-8450-1ea3cc1752d8jingswfplayer-swf.jpg"></article>]]></description>
-            <link>https://99bitcoins.com/anatomy-bitcoin-scam-bitclub-network-analyzed/</link>
-            <guid isPermaLink="false">6bf7fffc-0f3b-4d97-9a1b-cf7c90a80924</guid>
-            <pubDate>Sat, 20 Aug 2016 22:57:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China to Become World's Largest Retail Market Thanks to Ecommerce]]></title>
-            <description><![CDATA[<article><h1>China to Become World's Largest Retail Market Thanks to Ecommerce</h1><p>New data coming from eMarketer's latest worldwide retail forecast shows that this year, China will manage to surpass the US and become the world's largest retail market, with sales of over $4.886 trillion, compared to the average sum of $4.823 trillion in the US.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e6ef4de5b2deab87b8eef73a98f168f6/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FChina-ecommerce.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/china-largest-retail-market-ecommerce/</link>
-            <guid isPermaLink="false">dda46f75-3ecd-45d2-aca9-5d252ca30c54</guid>
-            <pubDate>Sat, 20 Aug 2016 22:57:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deterministic wallet and address generation]]></title>
-            <description><![CDATA[<article><h1>Deterministic wallet and address generation</h1><p>Well, it's a deterministic wallet. There is a function f which for every n∈ℕ returns the nth address that will be produced. An address is basically a hash of a public key (we can neglect the rest it's comprised of but it's deterministic as well).</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/48119/deterministic-wallet-and-address-generation</link>
-            <guid isPermaLink="false">9ff50475-a533-4f8b-97da-b708efff6afb</guid>
-            <pubDate>Sat, 20 Aug 2016 22:57:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Fold App Will Add More Brands In The Coming Months]]></title>
-            <description><![CDATA[<article><h1>The Fold App Will Add More Brands In The Coming Months</h1><p>There are some rumours circulating on the Internet regarding the demise of the Fold app. Contrary to what some people may prefer to believe, the platform is alive and well. Granted, there is a bit of a drought when it comes to finding people willing to sell their gift cards.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dac87b84dc08c888547e73706ebb8cd8/croprotate.jpg?cropheight=304&cropwidth=500&degrees=0&input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2FFold-App.jpg&x=0&y=16"></article>]]></description>
-            <link>http://themerkle.com/the-fold-app-will-add-more-brands-in-the-coming-months/</link>
-            <guid isPermaLink="false">ed1f7331-4246-4e03-8ca6-c0105cc84575</guid>
-            <pubDate>Sat, 20 Aug 2016 22:57:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On Tokens and Crowdsales: How Startups Are Using Blockchain to Raise Capital - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>On Tokens and Crowdsales: How Startups Are Using Blockchain to Raise Capital - CoinDesk</h1><p>Demian Brener is founder and CEO of Smart Contract Solutions, a firm working to provide tools to build businesses using blockchain-based software tokens. In this opinion piece, Brener discusses the different ways startups are seeking to leverage these new creations, and the various business models taking shape in the evolving space.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d049e3a36ae3215b2ceb4fe44540582c/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Ftokens-chips-e1471627416867.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/tokens-crowdsales-startups/</link>
-            <guid isPermaLink="false">bf2a6eb8-926f-458f-a754-b2492ff4b868</guid>
-            <pubDate>Sat, 20 Aug 2016 22:57:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World Gold Coin Trading Added to C-CEX Exchange - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>World Gold Coin Trading Added to C-CEX Exchange - Bitcoinist.net</h1><p>Disclaimer: This article was provided by Bitcoin PR Buzz. Bitcoinist is not affiliated with the firms represented by Bitcoin PR Buzz and is not responsible for their products and/or services. At press time, WGC is trading at C-CEX for 0.00005 BTC. The currency's developers expect the price to rise as more people invest in it through the exchange.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/39b97cef63da7a5c1b27c2fcd50f834f/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FWGC-PR-Buzz-cover.png"></article>]]></description>
-            <link>http://bitcoinist.net/world-gold-coin-c-cex/</link>
-            <guid isPermaLink="false">3491e1d7-815d-49bf-9489-101ba0272af4</guid>
-            <pubDate>Sat, 20 Aug 2016 22:57:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CEX.IO announces 0% maker fee]]></title>
-            <description><![CDATA[<article><h1>CEX.IO announces 0% maker fee</h1><p>UK-based cryptocurrency exchange CEX.IO has announced the launch of a Maker-Taker model. In an email sent to CoinReport, the exchange said that within the new fee schedule, maker fee is set to 0%. ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4546f565272f8c543a872356439d2b83/noop.jpg?input=https%3A%2F%2Fcoinreport.net%2Fwp-content%2Fuploads%2F2016%2F04%2FCEX.IO-logo-150x150.jpg"></article>]]></description>
-            <link>https://coinreport.net/cex-io-announces-0-maker-fee/</link>
-            <guid isPermaLink="false">c4c5a439-73f9-4ccc-bcf9-c8ec1a1ac69f</guid>
-            <pubDate>Sat, 20 Aug 2016 22:57:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain Real Use Case: Land Inventory in Africa and Beyond]]></title>
-            <description><![CDATA[<article><h1>Blockchain Real Use Case: Land Inventory in Africa and Beyond</h1><p>In developing countries the right to own landed properties as a priority can be placed just behind the right to life. Using Nigeria as a typical example, every piece of land is claimed, whether on record or not.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a862474d1b2ae80afe16e8a2ca88ee98/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lODAyYmQxMjQ4M2YxODkyNzE2ZjI2ODNiNTM2YmMxOC5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/blockchain-real-use-case-land-inventory-in-africa-and-beyond</link>
-            <guid isPermaLink="false">0cd62339-868a-4add-a47f-50795f815a0d</guid>
-            <pubDate>Sat, 20 Aug 2016 22:57:17 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Rakuten Confirms Bitnet Acquistion, Announces Blockchain Lab in Belfast - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Rakuten Confirms Bitnet Acquistion, Announces Blockchain Lab in Belfast - NEWSBTC</h1><p>Rakuten, the Japanese ecommerce major has finalized the acquisition of Bitnet. The company has also announced the upcoming launch of a new Blockchain Lab in Belfast, Northern Ireland. The Japanese e-commerce and finance Major, Rakuten has confirmed the acquisition of Bitnet.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/67719bebb80881ea8daef37e8b9d61a6/noop.jpg?input=https%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2014%2F07%2FRakuten-Logo-LG-WD-CNT2.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/08/20/rakuten-confirms-bitnet-acquistion-announces-blockchain-lab-in-belfast/</link>
             <guid isPermaLink="false">c0169a6a-a829-490c-a71a-6516178488d5</guid>
             <pubDate>Sat, 20 Aug 2016 22:57:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Keene, N.H. Food Truck Features Vietnamese Food, Accepts Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Keene, N.H. Food Truck Features Vietnamese Food, Accepts Bitcoin</h1><p>A food truck that specializes in Vietnamese, French and vegetarian food in Keene, N.H. accepts bitcoin, according to Free Keene, a pro-decentralization and pro-bitcoin organization in New Hampshire, a very independence-minded state in the U.S. The food truck features a bitcoin sign and may be the first food truck in the U.S.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/09b64b979366e1619c371ef42f393efc/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2Ffood-truck.jpg.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/keene-n-h-food-truck-features-vietnamese-food-accepts-bitcoin/</link>
+            <guid isPermaLink="false">2b484731-a53a-493e-82ff-bcf8262acdf3</guid>
+            <pubDate>Sat, 20 Aug 2016 22:57:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin.org Suspects State Sponsored Attacks on Bitcoin Core Release - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Bitcoin.org Suspects State Sponsored Attacks on Bitcoin Core Release - NEWSBTC</h1><p>Bitcoin.org has posted a notice on the website warning the Bitcoin community about a potential attack by state-sponsored hackers targeting Bitcoin Core release. Read more... Bitcoin has been in the government's crosshairs across the world since it became popular. Now, a new warning has surfaced on Bitcoin.org - the quasi-official Bitcoin website expressing concerns about a potential threat.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c5f27b95dfa5008bcd20499c48855fac/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2015%2F09%2F30110001%2Fbitcoin-hacking.-Hacker-illustration.-Newsbtc-Bitcoin-news.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/20/bitcoin-org-suspects-state-sponsored-attacks-on-bitcoin-core-release/</link>
+            <guid isPermaLink="false">1417bd69-0a54-497f-9bc8-2bf45f447d76</guid>
+            <pubDate>Sat, 20 Aug 2016 22:57:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Let's Talk Bitcoin! #305 Private Truths Public Knowledge]]></title>
+            <description><![CDATA[<article><h1>Let's Talk Bitcoin! #305 Private Truths Public Knowledge</h1><p>On Todays Episode of Let's Talk Bitcoin, Adam is joined by Martin and Matt of Gnosis.pm to dig into their prediction market platform and what comes next. This episode featured content by Matt, Martin and Adam. Music by Jared Rubens, Editing by Adam B. Levine Views: 738</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7932828f41b236ea81a41bcea772f3f2/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1897-9c7d841fc76794b299169cfe8e0f0caafe9a1eee5c6f10606264b6f2bc5aeb9a.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/lets-talk-bitcoin-305-private-truths-public-knowledge</link>
+            <guid isPermaLink="false">135eae6e-37f9-4039-960d-8ab3e9441e8f</guid>
+            <pubDate>Sat, 20 Aug 2016 22:57:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Compact Blocks stole XThin's ID #: "When Bitcoin Core used the same ID # for their Compact Block that was already being used by the XThin block, they made it so that any implementation that wants to accept both cannot depend on the identifier as a way to identify the data type." ~ u/chernobyl169 * /r/btc]]></title>
+            <description><![CDATA[<article><h1>Compact Blocks stole XThin's ID #: "When Bitcoin Core used the same ID # for their Compact Block that was already being used by the XThin block, they made it so that any implementation that wants to accept both cannot depend on the identifier as a way to identify the data type." ~ u/chernobyl169 * /r/btc</h1><p>UPDATE: u/chernobyl169 has now [mentioned](https://np.reddit.com/r/btc/comments/4xos5n/compact_blocks_stole_xthins_id_when_bitcoin_core/d6hbqi3)...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
+            <link>https://www.reddit.com/r/btc/comments/4xos5n/compact_blocks_stole_xthins_id_when_bitcoin_core/</link>
+            <guid isPermaLink="false">f0dba4f5-706f-4acb-bb2e-556a812c323e</guid>
+            <pubDate>Sat, 20 Aug 2016 22:57:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Malware Sneaking onto Mac Computers, Bitcoinists be Warned]]></title>
+            <description><![CDATA[<article><h1>New Malware Sneaking onto Mac Computers, Bitcoinists be Warned</h1><p>Some tricky new malware is infecting Mac users by imitating legitimate software. The " Also read: Mycelium May Roll out P2P Tumbling Soon Advanced Mac Cleaner," professes to be an anti-malware tool in order to sneak onto Mac computers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cf63a7f69f0984a0ca31a3381aad1410/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2Fkeyboard_reuters_311.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/mac-malware-bitcoin/</link>
+            <guid isPermaLink="false">df4b381b-3e09-48a9-b115-d6409843119c</guid>
+            <pubDate>Sat, 20 Aug 2016 22:57:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[European Drug Report: Dark Net Rising in Use, Making Drugs Safer]]></title>
+            <description><![CDATA[<article><h1>European Drug Report: Dark Net Rising in Use, Making Drugs Safer</h1><p>The Internet has provided a new portal for narcotics customers and suppliers to gain access to illicit drugs, says the European Monitoring Centre for Drugs and Drug Addiction (EMCDDA). According to a Also read: Dark Net Markets Are Booming From Better Quality & Safety research report by the organization, Dark Net Market (DNM) usage is rising in popularity.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1d0a4306a20bb4190e14e8c7ad5c834c/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FDwebCov.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/european-drug-report-dark-net-markets/</link>
+            <guid isPermaLink="false">ad97a01d-e5d0-4ea3-83aa-ee1f96db89f1</guid>
+            <pubDate>Sat, 20 Aug 2016 22:57:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Still Rangebound as Markets Digest Implications of Bitfinex Security Breach]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Still Rangebound as Markets Digest Implications of Bitfinex Security Breach</h1><p>The price of bitcoin rose Saturday, but remained well below last month's levels as investors continued to speculate about the health of the cryptocurrency market following the Bitfinex security breach. The BTC/USD exchange rate climbed 1.2% to $580.56 on Saturday, according to CoinDesk.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9f884a377927d95eeda27416037d6c04/noop.jpg?input=http%3A%2F%2Fwww.economiccalendar.com%2Fwp-content%2Fuploads%2F2016%2F03%2Fbitcoin-2.jpg"></article>]]></description>
+            <link>http://www.economiccalendar.com/2016/08/20/bitcoin-price-still-rangebound-as-markets-digest-implications-of-bitfinex-security-breach/</link>
+            <guid isPermaLink="false">78b6bd11-8d71-4c55-be38-95b7434cd932</guid>
+            <pubDate>Sat, 20 Aug 2016 22:57:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ripple Executive Rails Against Bitcoin in New Essay]]></title>
+            <description><![CDATA[<article><h1>Ripple Executive Rails Against Bitcoin in New Essay</h1><p>Longtime blockchain developer, enthusiast and Ripple executive has warned in a new essay that blockchains could bring about a dystopia. Also read: New Malware Sneaking Onto Mac Computers, Bitcoinists Be Warned Stefan Thomas, Chief Technology Officer at Ripple Labs, a leading private and public ledger company, wrote an essay titled " The Subtle Tyranny of Blockchain ."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1547acc831b6d0204ae7c37804c01250/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FDystopian.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/ripple-rails-bitcoin-essay/</link>
+            <guid isPermaLink="false">11bc7cbf-e144-4005-a97f-d52e00798d4b</guid>
+            <pubDate>Sat, 20 Aug 2016 22:57:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Twitch has re-added Bitcoin payments! This time via Coinbase. * /r/Twitch]]></title>
+            <description><![CDATA[<article><h1>Twitch has re-added Bitcoin payments! This time via Coinbase. * /r/Twitch</h1><p>If you recall, Twitch previously allowed bitcoin payments via the Xsolla payment service, but Xsolla removed the bitcoin option several months...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ba857501739e7a338928219b694fd0b3/noop.png?input=https%3A%2F%2Fi.redditmedia.com%2F_pd8AJrVqFdvBwwibvI9dyz44nMosrQLLbDCD7ukstU.png%3Fw%3D320%26s%3D30ccc055f5de90d462c044bfe6398889"></article>]]></description>
+            <link>https://np.reddit.com/r/Twitch/comments/4ygz9w/twitch_has_readded_bitcoin_payments_this_time_via/</link>
+            <guid isPermaLink="false">4c1299f7-ebcf-45a4-9cb6-7efbf4290d6b</guid>
+            <pubDate>Sat, 20 Aug 2016 22:57:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
