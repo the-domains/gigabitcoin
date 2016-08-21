@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 22:58:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 22:58:30 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Can you build a PayPal-like electronic balance system on top of a sidechain connected to the bitcoin blockchain?]]></title>
+            <description><![CDATA[<article><h1>Can you build a PayPal-like electronic balance system on top of a sidechain connected to the bitcoin blockchain?</h1><p>Answer (1 of 2): Yes, through the blockchain API this ability is available also it is worth noting that PayPal and coinbase actually does just this, however, if you are looking for an alternate service provider this model would work as well but would take many dollars to build out and support.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/60c3e8250adb7a18fd1b1eb2733a5ade/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-custom-t-782-600x315-cijthbjyogtebzaxzobbgdehzhehbdvo.jpeg"></article>]]></description>
+            <link>https://www.quora.com/Can-you-build-a-PayPal-like-electronic-balance-system-on-top-of-a-sidechain-connected-to-the-bitcoin-blockchain</link>
+            <guid isPermaLink="false">44bc7b01-3381-49cd-8352-3383c45db435</guid>
+            <pubDate>Sat, 20 Aug 2016 22:57:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chainalysis Notes 5,000 Suspicious Bitcoin Transactions In The Past year]]></title>
+            <description><![CDATA[<article><h1>Chainalysis Notes 5,000 Suspicious Bitcoin Transactions In The Past year</h1><p>Ransomware has been a plague for quite some time now, yet hardly any culprits seem to be apprehended by law enforcement these days. Chainalysis, a company, specializing in tracking Bitcoin transactions, recently stated how more ransomware-related arrests would be coming soon. Hackers are prone to making mistakes which will eventually come to bite them in the rear.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/14350396853aecfdb78a9b9e4ee359fc/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_99929453.jpg"></article>]]></description>
+            <link>http://themerkle.com/chainalysis-notes-5000-suspicious-bitcoin-transactions-in-the-past-year/</link>
+            <guid isPermaLink="false">463991c9-6641-40be-9164-d653d0734fa3</guid>
+            <pubDate>Sat, 20 Aug 2016 22:57:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin.com Bus Shunned by Las Vegas Bitcoiners Over Politics]]></title>
+            <description><![CDATA[<article><h1>Bitcoin.com Bus Shunned by Las Vegas Bitcoiners Over Politics</h1><p>The Bleish family's "Dash Across America Tour" in the Bitcoin.com bus was derailed yesterday when, during their Las Vegas stop, the organizer of the city's Bitcoin meetup denied them access because of the family's support for Dash. Also read: Blockchain Lead Vacates Position at UBS, Joins BNY Mellon on Steemit.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/66bba48ec3e4db95181f021840e25334/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Froad-closed.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/bitcoin-com-bus-shunned-lv/</link>
+            <guid isPermaLink="false">3f41ef0b-bbde-4f37-8fd0-fb92091ebdf1</guid>
+            <pubDate>Sat, 20 Aug 2016 22:57:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Airbus joined Hyperledger Blockchain Project | HolyTransaction]]></title>
             <description><![CDATA[<article><h1>Airbus joined Hyperledger Blockchain Project | HolyTransaction</h1><p>French airplane firm Airbus joined Hyperledger Blockchain Project, or the Linux Foundation blockchain-related program. Last year Airbus sold more than 1,000 aircraft and now the company is joining the same blockchain project that also sees the participation of firms such as IBM, Red Hat, Intel and JPMorgan.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7f3aa0c8c8d8a0347ec74c7c9ced99c7/noop.png?input=https%3A%2F%2F4.bp.blogspot.com%2F-PnXDme_drrE%2FV7c4qeRxTzI%2FAAAAAAAAAtI%2FpBNRC8gYlxEf6oFttsmMG6M0VKQ4nEuIACLcB%2Fw1200-h630-p-nu%2FScreen-Shot-2016-03-11-at-3.06.44-PM.png"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>http://gigabitcoin.xyz/how-to-run-bitcoin-as-a-tor-hidden-service-on-ubuntu/index.html</link>
             <guid isPermaLink="false">e5969e79-a2d7-4cef-842a-0f26187bd0e3</guid>
             <pubDate>Sat, 20 Aug 2016 22:57:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ripple Labs CTO Warns of Blockchain Dystopia]]></title>
-            <description><![CDATA[<article><h1>Ripple Labs CTO Warns of Blockchain Dystopia</h1><p>Longtime blockchain developer and enthusiast has warned blockchains could bring about a dystopia in new essay. Stefan Thomas, Chief Technology Officer at Ripple Labs, a leading private and public ledger company, wrote an essay titled " The Subtle Tyranny of Blockchain ."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/97e0522e22b19a936b363457c9a26b4e/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2015%2F02%2Fblock-chain.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/ripple-labs-ceo-warns-blockchain-dystopia/</link>
-            <guid isPermaLink="false">8534a774-7b59-448e-b82d-e08821e40f4a</guid>
-            <pubDate>Sat, 20 Aug 2016 22:57:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deutsche Bank Researchers Deem A Stock Market Collapse Necessary To Boost Economy]]></title>
-            <description><![CDATA[<article><h1>Deutsche Bank Researchers Deem A Stock Market Collapse Necessary To Boost Economy</h1><p>Fixing the global economy is a massive task, and no one seems to have a solution for this problem. Deutsche Bank's fixed-income research team feels the only solution is to collapse the stock market in its entirety. A rather bold statement, but the average Bitcoin user will not be surprised by this declaration.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/abef08417a4aeddddde62aaf665b2280/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_227810404.jpg"></article>]]></description>
-            <link>http://themerkle.com/deutsche-bank-researchers-deem-a-stock-market-collapse-necessary-to-boost-economy/</link>
-            <guid isPermaLink="false">2d8c48af-137d-4451-9c24-9a30c95207c7</guid>
-            <pubDate>Sat, 20 Aug 2016 22:57:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[8 Major Bitcoin Debit Cards: How Private and Anonymous Are They?]]></title>
-            <description><![CDATA[<article><h1>8 Major Bitcoin Debit Cards: How Private and Anonymous Are They?</h1><p>CoinTelegraph contacted the eight major providers of Bitcoin debit cards with the question: Can Bitcoin debit cards really be private or anonymous? Below are the results, categorized by region and level of disclosure required. One of the main advantages of using Bitcoin over traditional funding methods is privacy.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/193a35cb1b747f1d40f7ad4c21ff8439/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iOWMzYjBkNGExYjNiOGUxZjFmYTE3MzIyYzEzM2VlYS5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/8-major-bitcoin-debit-cards-how-private-and-anonymous-are-they</link>
-            <guid isPermaLink="false">143fb3dd-2f3c-4c9f-8216-1a99e0dbe819</guid>
-            <pubDate>Sat, 20 Aug 2016 22:57:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
