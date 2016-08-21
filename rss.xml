@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 22:58:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 22:58:41 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is blockchain dead?]]></title>
+            <description><![CDATA[<article><h1>Is blockchain dead?</h1><p>Answer (1 of 3): Probably not, but are smart contracts too vulnerable to be of use? Maybe. The recent hacking of the DAO project has thrown the whole world of Ethereum, blockchain and smart contracts into a frenzy and has many people questioning the validity of the technology. It's a fascinating...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b72efc8660fe4ea9b59ca29de20b1b29/noop?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-qimg-6eb3100223bdcee169625f958b257135-c%3Fconvert_to_webp%3Dtrue"></article>]]></description>
+            <link>https://www.quora.com/Is-blockchain-dead</link>
+            <guid isPermaLink="false">eebdb42a-5dcc-43b8-a649-2227542bb31b</guid>
+            <pubDate>Sat, 20 Aug 2016 22:57:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How can blockchain technologies be applied to patent information?]]></title>
+            <description><![CDATA[<article><h1>How can blockchain technologies be applied to patent information?</h1><p>"Patent-related information may also be managed on blockchains. If not only the details of patents but also their ownership are managed on blockchains, the management of transactions of rights may also become possible on blockchains." (Source: http://www.meti.go.jp/english/pr... p.51) But how?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/80b1aa101e41ccfcae999444d2c3324a/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-474217-200-zwcxhtgvljaxgmzkvklgejzxtnlxqjxc.jpeg"></article>]]></description>
+            <link>https://www.quora.com/unanswered/How-can-blockchain-technologies-be-applied-to-patent-information</link>
+            <guid isPermaLink="false">3abeada9-b451-4acd-baee-eb7bbace0494</guid>
+            <pubDate>Sat, 20 Aug 2016 22:57:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What are the similarities and differences between SWIFT and blockchain?]]></title>
             <description><![CDATA[<article><h1>What are the similarities and differences between SWIFT and blockchain?</h1><p>Do something grand, that will forever be remembered. It's time to make my mark. I want to change the way humanity views the world. There's always another villain. There's always more money. I can't do everything and there's no point in wealth. So I need to do what no one else can.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dc98ca6989becf34d69b747b047a09bb/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-478194-200-iihxmwcvockpiyoyeuhdguvynmntnsec.jpeg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Airbus joined Hyperledger Blockchain Project | HolyTransaction</h1><p>French airplane firm Airbus joined Hyperledger Blockchain Project, or the Linux Foundation blockchain-related program. Last year Airbus sold more than 1,000 aircraft and now the company is joining the same blockchain project that also sees the participation of firms such as IBM, Red Hat, Intel and JPMorgan.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7f3aa0c8c8d8a0347ec74c7c9ced99c7/noop.png?input=https%3A%2F%2F4.bp.blogspot.com%2F-PnXDme_drrE%2FV7c4qeRxTzI%2FAAAAAAAAAtI%2FpBNRC8gYlxEf6oFttsmMG6M0VKQ4nEuIACLcB%2Fw1200-h630-p-nu%2FScreen-Shot-2016-03-11-at-3.06.44-PM.png"></article>]]></description>
             <link>http://blog.holytransaction.com/2016/08/airbus-joined-hyperledger-blockchain.html</link>
             <guid isPermaLink="false">f49f239a-8d12-48a9-9b75-21890e5bf85d</guid>
-            <pubDate>Sat, 20 Aug 2016 22:57:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[After $65 million hack, questions of whether Bitcoin can be safe]]></title>
-            <description><![CDATA[<article><h1>After $65 million hack, questions of whether Bitcoin can be safe</h1><p>It seemed bitcoin exchange Bitfinex was doing all the right things. In the end, that didn't stop hackers from stealing $65 million. The latest in a long list of attacks on the digital currency since its birth in 2009 has been particularly vexing for the bitcoin community.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/97fd001f1ba1a54da17834de46139af7/noop?input=http%3A%2F%2Fwww.trbimg.com%2Fimg-57b5d0ea%2Fturbine%2Fct-bitcoin-security-20160818"></article>]]></description>
-            <link>http://www.chicagotribune.com/business/ct-bitcoin-security-20160818-story.html</link>
-            <guid isPermaLink="false">2bdbb7f2-1c51-4fd4-9480-e6b4bf108be9</guid>
-            <pubDate>Sat, 20 Aug 2016 22:57:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Usage Fuels Ransomware Attacks | PYMNTS.com]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Usage Fuels Ransomware Attacks | PYMNTS.com</h1><p>As the instances and threat of ransomware continues to wreak havoc on both businesses, governments and individuals around the world, it seems as though bitcoin has found itself closely intertwined with the malicious software. As The Wall Street Journal pointed out on Friday (Aug.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dba1ce328f71825f4f21cf8e3cd8f0b7/noop.jpg?input=http%3A%2F%2Fcdn.pymnts.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fbitcoin-ransomware-connection-1000x600.jpg"></article>]]></description>
-            <link>http://www.pymnts.com/news/security-and-risk/2016/bitcoin-preferred-by-cybercriminals-in-ransomware-attacks/</link>
-            <guid isPermaLink="false">dbd86b51-da51-42db-9330-3d669a9b50bd</guid>
             <pubDate>Sat, 20 Aug 2016 22:57:21 GMT</pubDate>
         </item>
     </channel>
