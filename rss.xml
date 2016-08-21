@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 22:58:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 22:58:15 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ripple Labs CTO Warns of Blockchain Dystopia]]></title>
+            <description><![CDATA[<article><h1>Ripple Labs CTO Warns of Blockchain Dystopia</h1><p>Longtime blockchain developer and enthusiast has warned blockchains could bring about a dystopia in new essay. Stefan Thomas, Chief Technology Officer at Ripple Labs, a leading private and public ledger company, wrote an essay titled " The Subtle Tyranny of Blockchain ."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/97e0522e22b19a936b363457c9a26b4e/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2015%2F02%2Fblock-chain.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/ripple-labs-ceo-warns-blockchain-dystopia/</link>
+            <guid isPermaLink="false">8534a774-7b59-448e-b82d-e08821e40f4a</guid>
+            <pubDate>Sat, 20 Aug 2016 22:57:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Deutsche Bank Researchers Deem A Stock Market Collapse Necessary To Boost Economy]]></title>
             <description><![CDATA[<article><h1>Deutsche Bank Researchers Deem A Stock Market Collapse Necessary To Boost Economy</h1><p>Fixing the global economy is a massive task, and no one seems to have a solution for this problem. Deutsche Bank's fixed-income research team feels the only solution is to collapse the stock market in its entirety. A rather bold statement, but the average Bitcoin user will not be surprised by this declaration.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/abef08417a4aeddddde62aaf665b2280/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_227810404.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>IRC meeting summary for 2016-08-11</h1><p>Jtimon asked for some codereview on PR #8493 (Untested: libconsensus: Expose VerifyHeader) Jl2012 has suggested some changes to prevent DoS attacks with segwit (PR #8499), sipa asks what the opinions are on adding a per txin witness size limit policy.</p></article>]]></description>
             <link>https://bitcoincore.org/en/meetings/2016/08/11/</link>
             <guid isPermaLink="false">ea883a68-7631-4e9f-9828-da10d3afcb13</guid>
-            <pubDate>Sat, 20 Aug 2016 22:57:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Investment Warning] Bitclub Network Review and Analysis]]></title>
-            <description><![CDATA[<article><h1>[Investment Warning] Bitclub Network Review and Analysis</h1><p>Important Update: Since this post was published I was contacted by Joby Weeks, the founder of Bitclub Network. We basically agreed to disagree. However I decided to rephrase the title of the post from "scam" to "investment warning".</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/39686525dc7a4498588a4f8b6e6f297d/noop.jpg?input=https%3A%2F%2F99bitcoins.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fusersmannamanfoldersjingmedia6f85f0c6-262a-446f-8450-1ea3cc1752d8jingswfplayer-swf.jpg"></article>]]></description>
-            <link>https://99bitcoins.com/anatomy-bitcoin-scam-bitclub-network-analyzed/</link>
-            <guid isPermaLink="false">6bf7fffc-0f3b-4d97-9a1b-cf7c90a80924</guid>
             <pubDate>Sat, 20 Aug 2016 22:57:18 GMT</pubDate>
         </item>
     </channel>
