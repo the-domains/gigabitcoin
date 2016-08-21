@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 22:58:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 22:58:32 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Could the 21 platform use other blockchains in addition to bitcoin?]]></title>
+            <description><![CDATA[<article><h1>Could the 21 platform use other blockchains in addition to bitcoin?</h1><p>Answer: According to Balaji Srinivasan's launch blog post, probably yes. A bitcoin miner in every device and in every hand > The constant stream of Satoshis provided by a 21 embedded mining chip means that any device with an internet connection can now write to a globally readable, always acce...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/80b1aa101e41ccfcae999444d2c3324a/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-474217-200-zwcxhtgvljaxgmzkvklgejzxtnlxqjxc.jpeg"></article>]]></description>
+            <link>https://www.quora.com/Could-the-21-platform-use-other-blockchains-in-addition-to-bitcoin</link>
+            <guid isPermaLink="false">dea55209-fb60-4a29-b6b5-ae688720d466</guid>
+            <pubDate>Sat, 20 Aug 2016 22:57:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Can you build a PayPal-like electronic balance system on top of a sidechain connected to the bitcoin blockchain?]]></title>
             <description><![CDATA[<article><h1>Can you build a PayPal-like electronic balance system on top of a sidechain connected to the bitcoin blockchain?</h1><p>Answer (1 of 2): Yes, through the blockchain API this ability is available also it is worth noting that PayPal and coinbase actually does just this, however, if you are looking for an alternate service provider this model would work as well but would take many dollars to build out and support.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/60c3e8250adb7a18fd1b1eb2733a5ade/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-custom-t-782-600x315-cijthbjyogtebzaxzobbgdehzhehbdvo.jpeg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Corrupt Silk Road Investigator Shaun Bridges Is Grasping At Straws</h1><p>The situation is not looking all that bright for Shaun Bridges, the corrupt government official who helped bring down Silk Road. While he has filed a new appeal not too long ago, even his own lawyer is not giving the attempt much chance of success.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1cafbd62831be0bbcebc96438aa9fc97/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_148117751.jpg"></article>]]></description>
             <link>http://themerkle.com/corrupt-silk-road-investigator-shaun-bridges-is-grasping-at-straws/</link>
             <guid isPermaLink="false">5f5c9f2a-ef94-4083-8fe8-f8ec3e95c96a</guid>
-            <pubDate>Sat, 20 Aug 2016 22:57:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Run Bitcoin as a Tor Hidden Service on Ubuntu]]></title>
-            <description><![CDATA[<article><h1>How to Run Bitcoin as a Tor Hidden Service on Ubuntu</h1><p>Why should you run a Bitcoin hidden service on your node?* It increases the privacy of other Bitcoin users who are anonymizing their actions via Tor.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/60763b00ae8b54161cf7d7b0cc5227f1/noop.png?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*fX3bjpqH0qmWiKdxbxlRvg.png"></article>]]></description>
-            <link>http://gigabitcoin.xyz/how-to-run-bitcoin-as-a-tor-hidden-service-on-ubuntu/index.html</link>
-            <guid isPermaLink="false">e5969e79-a2d7-4cef-842a-0f26187bd0e3</guid>
             <pubDate>Sat, 20 Aug 2016 22:57:21 GMT</pubDate>
         </item>
     </channel>
