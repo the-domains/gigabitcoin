@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 22:58:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 22:58:52 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Distributed Lab Co-founder: Blockchain Trend Is Going Down]]></title>
-            <description><![CDATA[<article><h1>Distributed Lab Co-founder: Blockchain Trend Is Going Down</h1><p>One of Distributed Lab's co-founder, Pavel Kravchenko, Ph.D. in cryptography, has stated on Steemit that the interest for blockchain technology is gradually fading, and we may expect mass extinction of blockchain startups any moment now. According to Kravchenko, big businesses aren't ready to use blockchain, as it entails expensive modernization of IT infrastructure and implementation of new security policies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfbf58152eb46446d41a2f6d98debcc5f5fe8a78.png"></article>]]></description>
-            <link>http://forklog.net/distributed-lab-co-founder-blockchain-trend-is-going-down/</link>
-            <guid isPermaLink="false">c9d2fbf9-242c-4354-9903-b25c844b462d</guid>
-            <pubDate>Sat, 20 Aug 2016 22:57:25 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin in Venezuela: Troubled Past and Cloudy Future]]></title>
             <description><![CDATA[<article><h1>Bitcoin in Venezuela: Troubled Past and Cloudy Future</h1><p>Bitcoin popularity is gaining steam in Venezuela. More and more of the country's inhabitants see it as an alternative for Bolivar, the Venezuelan currency losings its value at the speed of an express train. Cryptocurrency's popularity amongst locals is confirmed by record-breaking trade volumes at local exchanges.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ea056297462b9db897849d2719c298ff/croprotate.jpg?cropheight=522&cropwidth=1297&degrees=0&input=http%3A%2F%2Fforklog.com%2Fwp-content%2Fuploads%2Fcoin-dance-localbitcoins-VEF-volume-1.jpg&x=16&y=16"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://www.quora.com/Is-blockchain-dead</link>
             <guid isPermaLink="false">eebdb42a-5dcc-43b8-a649-2227542bb31b</guid>
             <pubDate>Sat, 20 Aug 2016 22:57:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How can blockchain technologies be applied to patent information?]]></title>
+            <description><![CDATA[<article><h1>How can blockchain technologies be applied to patent information?</h1><p>"Patent-related information may also be managed on blockchains. If not only the details of patents but also their ownership are managed on blockchains, the management of transactions of rights may also become possible on blockchains." (Source: http://www.meti.go.jp/english/pr... p.51) But how?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/80b1aa101e41ccfcae999444d2c3324a/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-474217-200-zwcxhtgvljaxgmzkvklgejzxtnlxqjxc.jpeg"></article>]]></description>
+            <link>https://www.quora.com/unanswered/How-can-blockchain-technologies-be-applied-to-patent-information</link>
+            <guid isPermaLink="false">3abeada9-b451-4acd-baee-eb7bbace0494</guid>
+            <pubDate>Sat, 20 Aug 2016 22:57:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
