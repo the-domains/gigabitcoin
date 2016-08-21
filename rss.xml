@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 22:58:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 22:58:46 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[I've developed an algorithm that trades Bitcoin. I want to start a fund. What should I do next?]]></title>
-            <description><![CDATA[<article><h1>I've developed an algorithm that trades Bitcoin. I want to start a fund. What should I do next?</h1><p>Black bears are excellent climbers and can almost certainly climb faster than you. It is unlikely for a black bear to chase you except if it is a momma bear with cubs. A mother bear shooes her cubs up a tree for safety. Grizzly bears are lousy climbers but they can run really fast.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2da8a7fbacd988dde66a1131ca8e7b4b/noop?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-qimg-7ebef8e4ee3114e3619eb7b9c3721acb-c%3Fconvert_to_webp%3Dtrue"></article>]]></description>
-            <link>https://www.quora.com/Ive-developed-an-algorithm-that-trades-Bitcoin-I-want-to-start-a-fund-What-should-I-do-next</link>
-            <guid isPermaLink="false">0dff9f6f-d968-4aba-a4f1-3460505076f2</guid>
-            <pubDate>Sat, 20 Aug 2016 22:57:23 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Is electrum bitcoin wallet anonymous/untraceable?]]></title>
             <description><![CDATA[<article><h1>Is electrum bitcoin wallet anonymous/untraceable?</h1><p>I had a horrible experience trying to buy a new Honda at a local dealership. I told them what I wanted, they kept trying to up sell me on a different model. Then it was switching sales guys, to the hard core close. etc. etc.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b37a66680b890209246fca0f34ef77a1/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-custom-t-1664-600x315-qsqrjpalrtsxecupdcvaraiwjnzpabhk.jpeg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Could the 21 platform use other blockchains in addition to bitcoin?</h1><p>Answer: According to Balaji Srinivasan's launch blog post, probably yes. A bitcoin miner in every device and in every hand > The constant stream of Satoshis provided by a 21 embedded mining chip means that any device with an internet connection can now write to a globally readable, always acce...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/80b1aa101e41ccfcae999444d2c3324a/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-474217-200-zwcxhtgvljaxgmzkvklgejzxtnlxqjxc.jpeg"></article>]]></description>
             <link>https://www.quora.com/Could-the-21-platform-use-other-blockchains-in-addition-to-bitcoin</link>
             <guid isPermaLink="false">dea55209-fb60-4a29-b6b5-ae688720d466</guid>
+            <pubDate>Sat, 20 Aug 2016 22:57:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can you build a PayPal-like electronic balance system on top of a sidechain connected to the bitcoin blockchain?]]></title>
+            <description><![CDATA[<article><h1>Can you build a PayPal-like electronic balance system on top of a sidechain connected to the bitcoin blockchain?</h1><p>Answer (1 of 2): Yes, through the blockchain API this ability is available also it is worth noting that PayPal and coinbase actually does just this, however, if you are looking for an alternate service provider this model would work as well but would take many dollars to build out and support.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/60c3e8250adb7a18fd1b1eb2733a5ade/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-custom-t-782-600x315-cijthbjyogtebzaxzobbgdehzhehbdvo.jpeg"></article>]]></description>
+            <link>https://www.quora.com/Can-you-build-a-PayPal-like-electronic-balance-system-on-top-of-a-sidechain-connected-to-the-bitcoin-blockchain</link>
+            <guid isPermaLink="false">44bc7b01-3381-49cd-8352-3383c45db435</guid>
             <pubDate>Sat, 20 Aug 2016 22:57:22 GMT</pubDate>
         </item>
     </channel>
