@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 22:58:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 22:58:13 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[8 Major Bitcoin Debit Cards: How Private and Anonymous Are They?]]></title>
+            <description><![CDATA[<article><h1>8 Major Bitcoin Debit Cards: How Private and Anonymous Are They?</h1><p>CoinTelegraph contacted the eight major providers of Bitcoin debit cards with the question: Can Bitcoin debit cards really be private or anonymous? Below are the results, categorized by region and level of disclosure required. One of the main advantages of using Bitcoin over traditional funding methods is privacy.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/193a35cb1b747f1d40f7ad4c21ff8439/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iOWMzYjBkNGExYjNiOGUxZjFmYTE3MzIyYzEzM2VlYS5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/8-major-bitcoin-debit-cards-how-private-and-anonymous-are-they</link>
+            <guid isPermaLink="false">143fb3dd-2f3c-4c9f-8216-1a99e0dbe819</guid>
+            <pubDate>Sat, 20 Aug 2016 22:57:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Real-world Applications Are A Must For Blockchain Technology in 2017]]></title>
+            <description><![CDATA[<article><h1>Real-world Applications Are A Must For Blockchain Technology in 2017</h1><p>The future of blockchain technology is looking bright, despite looking a bit uncertain. Over the past year, there has been a growing interest in the technology, but still very few projects coming to fruition. Looking ahead to 2017, some things will need to change, as the initial blockchain hype is over.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0c7394f1ebc9eb4dd797586177468033/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_78920362.jpg"></article>]]></description>
+            <link>http://themerkle.com/real-world-applications-are-a-must-for-blockchain-technology-in-2017/</link>
+            <guid isPermaLink="false">a4e53106-2d08-4125-b9a4-ca41b00c45b5</guid>
+            <pubDate>Sat, 20 Aug 2016 22:57:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum Scam Site Warning - Etherfund.biz]]></title>
+            <description><![CDATA[<article><h1>Ethereum Scam Site Warning - Etherfund.biz</h1><p>Scam sites in the cryptocurrency world are not just limited to Bitcoin these days.Ever since Ethereum started gaining in popularity, Internet criminals have created new Ponzi Schemes to try and ride the coattails of this project. EtherFund.biz is an apparent Ponzi Scheme to any level-headed person, yet people continue to fall for their tricks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d32162932ac2a1b95de0993e5e3d076b/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_432630691.jpg"></article>]]></description>
+            <link>http://themerkle.com/ethereum-scam-site-warning-etherfund-biz/</link>
+            <guid isPermaLink="false">91321dcd-fa26-4968-88ce-e485f1ed1958</guid>
+            <pubDate>Sat, 20 Aug 2016 22:57:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Big Bank Blockchain Leads Are Leaving for Startups - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Why Big Bank Blockchain Leads Are Leaving for Startups - CoinDesk</h1><p>Recent months have seen blockchain innovation professionals departing legacy financial institutions for smaller startups, but the motivations driving this shift in the industry are less than clear. To date, it's been one of the less-discussed trends of 2016, given the lack of public dialogue from the major firms affected and the relative quiet of the new startup founders, many of whom are seeking to do business with their former employers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/390b055930ce5ccf73cc24d345576e6c/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fevolution-humans-e1471528582642.jpg"></article>]]></description>
@@ -53,27 +74,6 @@
             <description><![CDATA[<article><h1>China to Become World's Largest Retail Market Thanks to Ecommerce</h1><p>New data coming from eMarketer's latest worldwide retail forecast shows that this year, China will manage to surpass the US and become the world's largest retail market, with sales of over $4.886 trillion, compared to the average sum of $4.823 trillion in the US.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e6ef4de5b2deab87b8eef73a98f168f6/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FChina-ecommerce.jpg"></article>]]></description>
             <link>http://bitcoinist.net/china-largest-retail-market-ecommerce/</link>
             <guid isPermaLink="false">dda46f75-3ecd-45d2-aca9-5d252ca30c54</guid>
-            <pubDate>Sat, 20 Aug 2016 22:57:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deterministic wallet and address generation]]></title>
-            <description><![CDATA[<article><h1>Deterministic wallet and address generation</h1><p>Well, it's a deterministic wallet. There is a function f which for every n∈ℕ returns the nth address that will be produced. An address is basically a hash of a public key (we can neglect the rest it's comprised of but it's deterministic as well).</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/48119/deterministic-wallet-and-address-generation</link>
-            <guid isPermaLink="false">9ff50475-a533-4f8b-97da-b708efff6afb</guid>
-            <pubDate>Sat, 20 Aug 2016 22:57:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Fold App Will Add More Brands In The Coming Months]]></title>
-            <description><![CDATA[<article><h1>The Fold App Will Add More Brands In The Coming Months</h1><p>There are some rumours circulating on the Internet regarding the demise of the Fold app. Contrary to what some people may prefer to believe, the platform is alive and well. Granted, there is a bit of a drought when it comes to finding people willing to sell their gift cards.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dac87b84dc08c888547e73706ebb8cd8/croprotate.jpg?cropheight=304&cropwidth=500&degrees=0&input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2FFold-App.jpg&x=0&y=16"></article>]]></description>
-            <link>http://themerkle.com/the-fold-app-will-add-more-brands-in-the-coming-months/</link>
-            <guid isPermaLink="false">ed1f7331-4246-4e03-8ca6-c0105cc84575</guid>
-            <pubDate>Sat, 20 Aug 2016 22:57:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On Tokens and Crowdsales: How Startups Are Using Blockchain to Raise Capital - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>On Tokens and Crowdsales: How Startups Are Using Blockchain to Raise Capital - CoinDesk</h1><p>Demian Brener is founder and CEO of Smart Contract Solutions, a firm working to provide tools to build businesses using blockchain-based software tokens. In this opinion piece, Brener discusses the different ways startups are seeking to leverage these new creations, and the various business models taking shape in the evolving space.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d049e3a36ae3215b2ceb4fe44540582c/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Ftokens-chips-e1471627416867.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/tokens-crowdsales-startups/</link>
-            <guid isPermaLink="false">bf2a6eb8-926f-458f-a754-b2492ff4b868</guid>
             <pubDate>Sat, 20 Aug 2016 22:57:18 GMT</pubDate>
         </item>
     </channel>
