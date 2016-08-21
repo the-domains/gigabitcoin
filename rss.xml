@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 08:33:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 22:57:21 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Exchanges Should Consider Integrating Microsoft Authenticator]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Exchanges Should Consider Integrating Microsoft Authenticator</h1><p>Keeping in mind how this solution is available on iOS as well, it would make sense for Bitcoin exchanges to integrate it. If there is one thing people should have learned from the Bitfinex hack, it is that security remains of the utmost importance.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e0f49ed33b7dbf26b83c4a39fe86e352/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F20202924%2Fshutterstock_116202553.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/20/34658/</link>
+            <guid isPermaLink="false">97d7e158-d404-44a0-b063-37ee8054b9ed</guid>
+            <pubDate>Sat, 20 Aug 2016 22:57:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lisk Blockchain Applications Platform Announces the Launch of Lisk Nano - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Lisk Blockchain Applications Platform Announces the Launch of Lisk Nano - NEWSBTC</h1><p>August 18, 2016, Berlin, Germany - The decentralized blockchain application development platform Lisk has announced the launch of Lisk Nano. Lisk Nano is a lightweight, simple, and fully responsive client software that enables users to access the basic functionalities of the platform on-the-go.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d194817fca1ae2024e2b54f4578a8a15/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F19092849%2FLisk-Nano-1080x600.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Industry Report: Moscow Gets its First Bitcoin Exchange</h1><p>Moscow opens its first digital currency exchange, California shelves its plans to regulate bitcoin, and the Bank of England looks to manage cryptocurrency. Want to catch up on the latest digital currency news? Take a look at the stories below.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1e08639e05719c6e72396a0bcf7fe8af/noop.jpg?input=https%3A%2F%2Fd.ibtimes.co.uk%2Fen%2Ffull%2F1487105%2Fbank-england.jpg"></article>]]></description>
             <link>http://bitcoinist.net/industry-report-moscow-bitcoin/</link>
             <guid isPermaLink="false">97ce265c-d822-472d-bd9f-1e45543a7d21</guid>
-            <pubDate>Sat, 20 Aug 2016 08:30:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comedy Forks of Tor Emerge in response to Foundation Drama - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>Comedy Forks of Tor Emerge in response to Foundation Drama - Bitcoinist.net</h1><p>Depending on your perspective and personal political leanings, the heading and course of the Tor Foundation since the ousting of Jacob Appelbaum can be characterised anywhere from "chaotic" to "unmitigated shit-show." Highlights include A smear Campaign levelled a the former project head, controversial restructuring, an exodus of key volunteers, and a marked increase in focus on identity politics within the Foundation's ranks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/99483fd0f8b6b013c5d86c1e1d488a8c/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FTormedy.png"></article>]]></description>
-            <link>http://bitcoinist.net/comedy-tor-forks/</link>
-            <guid isPermaLink="false">559dc3a5-f082-4ff7-bdbf-a4ab9937cdd5</guid>
             <pubDate>Sat, 20 Aug 2016 08:30:03 GMT</pubDate>
         </item>
     </channel>
