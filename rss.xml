@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 23:44:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 23:44:49 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rakuten Opens Up a Blockchain Lab in the UK]]></title>
+            <description><![CDATA[<article><h1>Rakuten Opens Up a Blockchain Lab in the UK</h1><p>The Japanese e-commerce firm Rakuten has announced plans to launch a Blockchain technology laboratory located in the United Kingdom, the strategic move comes after Rakuten acquired human talent -and former employees- of the bitcoin startup Bitnet. Stephen McNamara and Fergal Downey will join the Rakuten Blockchain Lab (R.B.L.) offices in Belfast.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ace983414c8dc431288a905768da2c3c3ab8dc3.jpg"></article>]]></description>
+            <link>http://themerkle.com/rakuten-opens-up-a-blockchain-lab-in-the-uk/</link>
+            <guid isPermaLink="false">a8f94d0d-abfe-4116-80cc-bb50758afbe0</guid>
+            <pubDate>Sun, 21 Aug 2016 23:41:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Bank of Tokyo-Mitsubishi and Hitachi to Test a Blockchain-Based System for Check Processing]]></title>
             <description><![CDATA[<article><h1>The Bank of Tokyo-Mitsubishi and Hitachi to Test a Blockchain-Based System for Check Processing</h1><p>The Bank of Tokyo-Mitsubishi UFJ and Hitachi are currently engaged in a collaboration to build and test a blockchain-based system that will process and validate checks payments. The institution and private companies -who focus on technology products and systems- have developed a prototype that will enter a test phase as soon as Monday, August 22.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/02fef799f13f00cf09172efd28488a2b/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F02%2Fshutterstock_311226329.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>'Shadow Brokers' Claim To Have Hacked The NSA's Hackers</h1><p>The "Shadow Brokers" are in the spotlight. The mysterious group has seized the attention of the cybersecurity world with its claim to have stolen code from the Equation Group - a team of hackers who have been tied to the National Security Agency.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/702d106158b8bbf385d3d7aaaaf4054e/noop.jpg?input=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2016%2F08%2F17%2Fap_16174625685687_wide-1fd6768f51f5bcda89533182017e252d7a3bdd37.jpg%3Fs%3D1400"></article>]]></description>
             <link>http://www.npr.org/sections/thetwo-way/2016/08/17/490329015/shadow-brokers-claim-to-have-hacked-the-nsas-hackers?utm_medium=RSS&amp;utm_campaign=bitcoin</link>
             <guid isPermaLink="false">69c7c518-f394-4f92-985d-3af91d75edab</guid>
-            <pubDate>Sun, 21 Aug 2016 15:58:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Ugly Truth Behind Steemit]]></title>
-            <description><![CDATA[<article><h1>The Ugly Truth Behind Steemit</h1><p>You post content, people decide if they like it or not and depending on how 'popular' it is, you get paid. Being able to monetize your content is great and it's about time that we have a way to do it. However, when it comes to Steemit, appearance is deceiving.</p></article>]]></description>
-            <link>http://gigabitcoin.xyz/the-ugly-truth-behind-steemit/index.html</link>
-            <guid isPermaLink="false">83b50b7e-e9bc-4fc7-9e6b-ae27c58dc348</guid>
             <pubDate>Sun, 21 Aug 2016 15:58:41 GMT</pubDate>
         </item>
     </channel>
