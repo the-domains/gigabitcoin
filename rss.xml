@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 22:34:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 22:34:18 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin Markets Remain Stagnant Around $570, Although Conditions Are Slowly Improving]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Markets Remain Stagnant Around $570, Although Conditions Are Slowly Improving</h1><p>We are now in the slowest trading period of the year for both the legacy and cryptocurrency markets, which means volatility and volume should remain light until after the Labor Day weekend in the US. Bitcoin has once again flatlined around the $570 level as the summer doldrums roll on.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6bb2057f7b83c8a8caca9cc6e41875d1/noop.png?input=https%3A%2F%2Fcointelegraph.com%2Fstorage%2Fuploads%2Fview%2Fcf684fa219d46890604742833452b782.png"></article>]]></description>
-            <link>https://cointelegraph.com/news/bitcoin-markets-remain-stagnant-around-570-although-conditions-are-slowly-improving</link>
-            <guid isPermaLink="false">cffda09f-5f2a-47c3-b18c-4d12a3899923</guid>
-            <pubDate>Mon, 22 Aug 2016 22:33:20 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Core 0.13.0 is Released: What's New?]]></title>
             <description><![CDATA[<article><h1>Bitcoin Core 0.13.0 is Released: What's New?</h1><p>Today marks the official release of Bitcoin Core 0.13.0, the thirteenth generation of Bitcoin's reference client as first launched by Satoshi Nakamoto almost eight years ago. Bitcoin Core 0.13.0 was developed by some 100 contributors over a period of about five months.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8d8697f20e202ce7843dfbc82e1e23c9/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fbitcoin-core-is-released-what-s-new.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Beware, Facebook! Decentralised Social Network is Approaching</h1><p>Tel-Aviv based decentralized tech stack development company, Synereo has announced that it will be releasing the Alpha phase of decentralised social network in September. The company claims that this development will allow web applications to exist without centralized servers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f43d56e8541542045fffc4e32e294ce5/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNjJkYjY1N2EwZDY1MmZiYTZkOTZjYmEwNDY1NjJlOC5qcGc%3D.jpg"></article>]]></description>
             <link>https://cointelegraph.com/news/beware-facebook-decentralised-social-network-is-approaching</link>
             <guid isPermaLink="false">484688f4-26c1-4b59-800b-e2056e7d8243</guid>
+            <pubDate>Mon, 22 Aug 2016 22:33:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lisk DAO: When, How and Would it Hardfork?]]></title>
+            <description><![CDATA[<article><h1>Lisk DAO: When, How and Would it Hardfork?</h1><p>Considering that the likelihood of a fork may arise to the Lisk project in the future, a member within its community has raised an open question to what would be the response to the situation - if it happens.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6ba1802c073416c8cb4adafc1744b314/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wNGI1MTgzYmExNDgyOTIzZjkxMzAyNmE4MjlmOTNmNy5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/lisk-dao-when-how-and-would-it-hardfork</link>
+            <guid isPermaLink="false">f5ba844a-3a49-491d-88ad-18beee0b17a2</guid>
             <pubDate>Mon, 22 Aug 2016 22:33:18 GMT</pubDate>
         </item>
     </channel>
