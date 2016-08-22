@@ -7,13 +7,6 @@
         <lastBuildDate>Mon, 22 Aug 2016 22:34:07 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Bitcoin Core 0.13.0 is Released: What's New?]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Core 0.13.0 is Released: What's New?</h1><p>Today marks the official release of Bitcoin Core 0.13.0, the thirteenth generation of Bitcoin's reference client as first launched by Satoshi Nakamoto almost eight years ago. Bitcoin Core 0.13.0 was developed by some 100 contributors over a period of about five months.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d52374cd0dae7efb3734481e81b24645/noop.jpg?input=http%3A%2F%2Fwww.nasdaq.com%2Freference%2Fhiresphotos%2Fnews-photos%2Fbitcoin%2F325x200%2Fbitcoin82.jpg"></article>]]></description>
-            <link>http://www.nasdaq.com/article/bitcoin-core-0130-is-released-whats-new-cm668482</link>
-            <guid isPermaLink="false">6972341d-e7f6-4e12-8a45-7292d78a8fe0</guid>
-            <pubDate>Mon, 22 Aug 2016 22:33:19 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article></article>]]></description>
             <link>https://www.cryptocoinsnews.com/blockchain-technology-sought-curb-trade-conflict-diamonds/</link>
@@ -75,6 +68,13 @@
             <link>https://bitcoinmagazine.com/articles/chain-joins-industry-academia-blockchain-initiative-to-solve-interoperability-and-scalability-issues-1471882821</link>
             <guid isPermaLink="false">b2efb033-3766-4ff0-8063-9ee3a02f0ff4</guid>
             <pubDate>Mon, 22 Aug 2016 22:33:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In Conversation with DECENT Co-Founder Matej Boda]]></title>
+            <description><![CDATA[<article><h1>In Conversation with DECENT Co-Founder Matej Boda</h1><p>NewsBTC recently got the opportunity to speak with Matej Boda, the co-founder of DECENT, a blockchain-based content distribution platform NewsBTC: What makes Decent platform different than its competitors? How publishing platforms, like NewsBTC, could benefit from your services? NewsBTC recently got the opportunity to speak with Matej Boda, the co-founder of DECENT, a blockchain-based content distribution platform.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f31743a0c94e3ea1969890f15408cbd93c797753.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/22/conversation-decent-founder-matej-boda-blockchain/</link>
+            <guid isPermaLink="false">9079641c-739a-43e8-8ee1-ea29019960f0</guid>
+            <pubDate>Mon, 22 Aug 2016 22:33:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
