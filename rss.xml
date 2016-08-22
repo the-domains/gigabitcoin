@@ -4,41 +4,13 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 15:26:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 15:26:27 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[A 'Brave' New Benchmark: Putting the Browser's Hype to the Test]]></title>
-            <description><![CDATA[<article><h1>A 'Brave' New Benchmark: Putting the Browser's Hype to the Test</h1><p>We previously tested a very early build of Brave to see what kind of performance the new browser was packing. The thing is, that build wasn't feature-complete or optimized for release.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a0a84a1f79448d289104bcd317a8a1ae/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FBrowsers.png"></article>]]></description>
-            <link>http://bitcoinist.net/brave-benchmarked-hype/</link>
-            <guid isPermaLink="false">9ef461f5-e263-45b3-b4c3-3475f7dcc75b</guid>
-            <pubDate>Mon, 22 Aug 2016 15:25:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CEX.IO Introduces New Fee Schedule to Improve Bitcoin Trading]]></title>
-            <description><![CDATA[<article><h1>CEX.IO Introduces New Fee Schedule to Improve Bitcoin Trading</h1><p>CEX.IO, the London-based cryptocurrency exchange, has introduced a new feature to its fee schedule, its most recent innovation to encourage higher market liquidity and improve bitcoin trading. The new Maker-Taker fee schedule sets the maker fee to 0%. The 0% maker fee is CEX.IO's latest incentive to make bitcoin trading and commerce easier.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e451bc87eef5db74eae5543240de4b64/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FCEX.IO-logo.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/cex-io-introduces-new-fee-schedule-improve-bitcoin-trading/</link>
-            <guid isPermaLink="false">f2f7f0f3-bf8b-4b1f-a495-dca2b5cb9d34</guid>
-            <pubDate>Mon, 22 Aug 2016 15:25:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Major Turkish Exchange Shuts Down Following Banking Suspension]]></title>
-            <description><![CDATA[<article><h1>Major Turkish Exchange Shuts Down Following Banking Suspension</h1><p>Bitcoin in Turkey has come under renewed pressure as longstanding Turkish exchange BTCTurk has its bank accounts shut down. Also read: Bitwala Steps Up to Replace PayPal with Bitcoin in Turkey BTCTurk, which started trading in 2013, said it was currently trying to refund customer balances in the face of the unexpected withdrawal of banking relations.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f64c125d11d15ce01bb51683ab4c52f6/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fturkey.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/turkish-exchange-banking-suspended/</link>
-            <guid isPermaLink="false">82c91116-cab1-48a1-beb8-ca4ee11c17b4</guid>
-            <pubDate>Mon, 22 Aug 2016 15:25:55 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[UK Blockchain Projects Near Regulatory Approval - CoinDesk]]></title>
             <description><![CDATA[<article><h1>UK Blockchain Projects Near Regulatory Approval - CoinDesk</h1><p>UK regulators are reportedly moving forward with efforts that would find blockchain firms exiting a sandbox program aimed at encouraging innovation. According to a report by The Financial Times , the UK Financial Conduct Authority (FCA) is currently considering whether to approve several blockchain-based products for use by domestic consumers and businesses.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a3fe000bcc2abda28d5959af1d6851a0/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2015%2F07%2FLondon-skyline.jpg"></article>]]></description>
             <link>http://www.coindesk.com/uk-blockchain-regulatory-approval/</link>
             <guid isPermaLink="false">261ef6cb-e724-4df3-b01a-9d6d6117adbf</guid>
-            <pubDate>Mon, 22 Aug 2016 15:25:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[R3, HSBC Experts: Collaboration is Key for Blockchain Potential]]></title>
-            <description><![CDATA[<article><h1>R3, HSBC Experts: Collaboration is Key for Blockchain Potential</h1><p>HSBC and its partner, Bank of America's Merrill Lynch, recently published a proof of concept to demonstrate how Blockchain-powered contracts can be used to replace paper letters of credit which are commonly used in international trade.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/33e3d63c0688e59aeb064da5c9b7c9f7/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81ZTBlMjYxN2QzYzU2NjU4ODA1Mjc1ZDk0ZDBmOTQwOC5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/r3-hsbc-experts-collaboration-is-key-for-blockchain-potential</link>
-            <guid isPermaLink="false">85c2afbb-ab7c-4ad8-bb85-9ae29e743540</guid>
             <pubDate>Mon, 22 Aug 2016 15:25:55 GMT</pubDate>
         </item>
         <item>
@@ -75,6 +47,34 @@
             <link>http://www.coindesk.com/bitfinex-equity-bitcoin-exchange/</link>
             <guid isPermaLink="false">c18f3314-0a85-4fbf-8541-7bd2f3dbd309</guid>
             <pubDate>Mon, 22 Aug 2016 15:25:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EthTrade Offers 25% Monthly Income on Ethereum Investments]]></title>
+            <description><![CDATA[<article><h1>EthTrade Offers 25% Monthly Income on Ethereum Investments</h1><p>A financial management company has promised to offer up to 25% monthly returns on Ethereum investments. A financial management company has promised to offer up to 25% monthly returns on Ethereum investments. EthTrade, as the company is titled, is touted as one of the first Ethereum-based investment projects that exclusively operate with currency pairs Ether/BTC and Ether/USD.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9049f407f39efacf01801c0b62ebb9a7/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F22151415%2Findex_og.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/22/ethtrade-offers-25-monthly-income-ethereum-investments/</link>
+            <guid isPermaLink="false">bbdd3aaa-332f-4d45-895d-3508d33d443a</guid>
+            <pubDate>Mon, 22 Aug 2016 15:25:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Protecting Bitcoin, Blockchained Ukraine, Utopia or Inevitability. Cryptospace News digest, July 25 - 31]]></title>
+            <description><![CDATA[<article><h1>Protecting Bitcoin, Blockchained Ukraine, Utopia or Inevitability. Cryptospace News digest, July 25 - 31</h1><p>This week has passed without any disasters, giving the community a break, though some believe it's a lull before the storm. Anyways, it's interesting to recall the events that built it. By the end of the week, Bitcoin managed to gain some value, and currently it is traded at around $584.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8e6106f404279e0d8400a3575c8605f4/noop.png?input=http%3A%2F%2Fforklog.com%2Fwp-content%2Fuploads%2Fscreenshot-bitcointicker.co-2016-08-21-15-24-30.png"></article>]]></description>
+            <link>http://forklog.net/protecting-bitcoin-blockchained-ukraine-utopia-or-inevitability-cryptospace-news-digest-july-25-31/</link>
+            <guid isPermaLink="false">681e4510-bad5-4fee-9d7e-577bbb748806</guid>
+            <pubDate>Mon, 22 Aug 2016 12:55:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are some amazing facts about Bitcoin?]]></title>
+            <description><![CDATA[<article><h1>What are some amazing facts about Bitcoin?</h1><p>Answer (1 of 2): One of the coolest things about Bitcoin is its origin story and the mystery surrounding Satoshi Nakamoto. To this day, it's still unknown who actually wrote the original Bitcoin whitepaper and developed the initial implementation. Some speculate that it was a group of people all ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/87785482e71795662128073b8ca89052/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-3544-200-DDa210tdHWnSwW0GbWfobW5lRxdVxTS3.jpeg"></article>]]></description>
+            <link>https://www.quora.com/What-are-some-amazing-facts-about-Bitcoin</link>
+            <guid isPermaLink="false">340ff914-768a-4d14-826f-8f37f5cbffc2</guid>
+            <pubDate>Mon, 22 Aug 2016 12:55:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trees Joins Growing Alt-Payments Industry for Medical Marijuana]]></title>
+            <description><![CDATA[<article><h1>Trees Joins Growing Alt-Payments Industry for Medical Marijuana</h1><p>Bitcoin-accepting Trees, a former medical cannabis dispensary that made headlines with its vision to deliver dank buds via drone, has pivoted towards becoming a marketplace in conjunction with building a payment processor. Its emphasis is on allowing cannabis businesses to become their own banks through blockchain technology.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0fb89a581670c409ecec855d87361487/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FHayner-Trees-bitcoin.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/trees-alt-payments-marijuana/</link>
+            <guid isPermaLink="false">50df0403-fbec-453a-b60a-994e7b1c450a</guid>
+            <pubDate>Mon, 22 Aug 2016 12:55:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
