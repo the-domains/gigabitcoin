@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 22:34:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 22:34:07 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Lara Attracts $1m Deposit in Just 5 Days]]></title>
-            <description><![CDATA[<article><h1>Lara Attracts $1m Deposit in Just 5 Days</h1><p>The automatic trust management system, which was launched with an aim to offer passive income options to customers, has gained momentum over the past few weeks. Telegram-based bot Lara has attracted over $1 million worth deposits to its Bitcoin investment project.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e25968a39eabc0bac5fa0bb019eecb45/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F15191043%2FFBPOST-825x510-1.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/22/lara-attracts-1m-deposit-just-5-days/</link>
-            <guid isPermaLink="false">8392c278-75a7-4527-91a2-3358a345d200</guid>
-            <pubDate>Mon, 22 Aug 2016 22:33:20 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Core 0.13.0 is Released: What's New?]]></title>
             <description><![CDATA[<article><h1>Bitcoin Core 0.13.0 is Released: What's New?</h1><p>Today marks the official release of Bitcoin Core 0.13.0, the thirteenth generation of Bitcoin's reference client as first launched by Satoshi Nakamoto almost eight years ago. Bitcoin Core 0.13.0 was developed by some 100 contributors over a period of about five months.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d52374cd0dae7efb3734481e81b24645/noop.jpg?input=http%3A%2F%2Fwww.nasdaq.com%2Freference%2Fhiresphotos%2Fnews-photos%2Fbitcoin%2F325x200%2Fbitcoin82.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Strategic Alliance Formed to Speed Up Adoption of Blockchain Technology in China</h1><p>The Chinese government has created a blockchain working group of government and blockchain industries to fast-forward the development and adoption of blockchain technology and prepare for the upcoming Global Blockchain Summit in Shanghai this September.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f55cbf78380ebc827ff57d9efde328b7/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fstrategic-alliance-formed-to-speed-up-adoption-of-blockchain-technology-in-china.jpg"></article>]]></description>
             <link>https://bitcoinmagazine.com/articles/strategic-alliance-formed-to-speed-up-adoption-of-blockchain-technology-in-china-1471884538</link>
             <guid isPermaLink="false">cb77561f-fa75-4540-a4dc-f1f9d8ccfa7a</guid>
+            <pubDate>Mon, 22 Aug 2016 22:33:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chain Joins Industry-Academia Blockchain Initiative to Solve Interoperability and Scalability Issues]]></title>
+            <description><![CDATA[<article><h1>Chain Joins Industry-Academia Blockchain Initiative to Solve Interoperability and Scalability Issues</h1><p>Chain Inc., a blockchain company specializing in enterprise software for financial firms, has joined the Initiative for Cryptocurrency and Contracts (IC3) to advance blockchain development for the financial services industry and "ensure cross-industry interoperability and harmonization." Chain has identified several specific projects on which the company will collaborate with IC3.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7fad452623761019e26827423506cb6a/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fchain-joins-industry-academia-blockchain-initiative-to-solve-interoperability-and-scalability-issues.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/chain-joins-industry-academia-blockchain-initiative-to-solve-interoperability-and-scalability-issues-1471882821</link>
+            <guid isPermaLink="false">b2efb033-3766-4ff0-8063-9ee3a02f0ff4</guid>
             <pubDate>Mon, 22 Aug 2016 22:33:18 GMT</pubDate>
         </item>
     </channel>
