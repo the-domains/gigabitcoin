@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 12:55:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 12:55:57 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Seized Silk Road bitcoin used to fund Shadow Brokers exploit auction | ZDNet]]></title>
+            <description><![CDATA[<article><h1>Seized Silk Road bitcoin used to fund Shadow Brokers exploit auction | ZDNet</h1><p>Bitcoin appears to be moving from a seized wallet to the Shadow Brokers auction, raising suspicions that the US government is potentially bidding to prevent stolen NSA exploits and tools from ending up in the wrong hands -- again.</p></article>]]></description>
+            <link>http://www.zdnet.com/article/seized-silk-road-bitcoin-used-to-fund-shadowbrokers-exploit-auction/</link>
+            <guid isPermaLink="false">1666b7de-9506-4503-9412-4be6763224c0</guid>
+            <pubDate>Mon, 22 Aug 2016 12:55:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Technical Indicators Say Bitcoin Price Will Rise -- but When?]]></title>
             <description><![CDATA[<article><h1>Technical Indicators Say Bitcoin Price Will Rise -- but When?</h1><p>The most recent balance between bid and ask prices is over, setting the bitcoin price on an upward path to $820, where another congestion area may be observed.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a6ba053e4bebf8b90f39876fa0b77cda/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2Fbitcoin-august-21nd-long.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How Bitcoin helped fuel an explosion in ransomware attacks | ZDNet</h1><p>Ransomware is booming. Be it Locky, CryptXXX or one of the countless other variants of the data-encrypting malware, cybercriminals are making hundreds of thousands of dollars every month off the back of swathes of infected victims each paying a few hundred dollars each to get access to their files back.</p></article>]]></description>
             <link>http://www.zdnet.com/article/how-bitcoin-helped-fuel-an-explosion-in-ransomware-attacks/</link>
             <guid isPermaLink="false">1a929bbd-f987-4590-a4de-f3a75495f4b4</guid>
-            <pubDate>Mon, 22 Aug 2016 12:55:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is Bitcoin Maximalism?]]></title>
-            <description><![CDATA[<article><h1>What is Bitcoin Maximalism?</h1><p>2016 has perhaps seen a proliferation of new schools of thought under the crypto-currency genre, particularly thanks to the best known of all cryptocoins: Bitcoin. Among the most recent: the notion of Bitcoin maximalism. In short, Bitcoin maximalists look down upon alternative use cases outside the domain of Bitcoin; i.e.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b1c5faf2a5d1ea9d4cdaafe29098c7fec345c70.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/what-is-bitcoin-maximalism/</link>
-            <guid isPermaLink="false">7595ac70-f5f9-4cd9-8166-95daf5a7f863</guid>
             <pubDate>Mon, 22 Aug 2016 12:55:03 GMT</pubDate>
         </item>
     </channel>
