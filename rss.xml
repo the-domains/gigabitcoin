@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 22:34:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 22:34:08 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Ransomware May Threaten the Future of Bitcoin - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>Ransomware May Threaten the Future of Bitcoin - Bitcoinist.net</h1><p>Bitcoin has jumped in price again. Following a near two-week excursion down south, bitcoin has hit a detour and is now hovering at $581 as of press time. That's a near $10 rise since our previous price piece. However, the price is still down overall.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8250d4eb059971cb02905c8d1ea97fc5/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FRansomware1.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/ransomware-threaten-future-bitcoin/</link>
-            <guid isPermaLink="false">c444b970-e021-42d9-b059-49067992eb13</guid>
-            <pubDate>Mon, 22 Aug 2016 22:33:20 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Is the NSA Baiting the Shadow Brokers with Seized Bitcoin?]]></title>
             <description><![CDATA[<article><h1>Is the NSA Baiting the Shadow Brokers with Seized Bitcoin?</h1><p>According to a Also read: Alleged Silk Road Forum Operator 'Roped Into' U.S. Extradition recent post from crypto-blogger Krypt3ia, the wallet of the Shadow Brokers group who are auctioning NSA hacking tools, has been receiving the very same bitcoin that was seized from Silk Road.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/594a94f85b679aa83b944459fa0db17c/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FcoverNSA.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Microsoft, Harvard, UCL Take Steps to Bulletproof Smart Contracts</h1><p>Ethereum's community is standing up to the challenge of securing smart contracts by taking steps to implement the lessons learned from the DAO. Microsoft Research, Harvard University and Inra, a French national research institute that employs 2700 computer science researchers from the "world's most prestigious universities", have published a highly technical paper [PDF] on the formal verification of smart contracts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9ec741360fc1782c113e5bee236c634e/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FTempered-glass.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/microsoft-harvard-ucl-take-steps-bulletproof-smart-contracts/</link>
             <guid isPermaLink="false">07e2fb4c-b366-41fd-92f4-9e940892fc7b</guid>
+            <pubDate>Mon, 22 Aug 2016 22:33:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PnP Fintech Startup Program May Signal Industry Shift From 'Blockchain' Back to Bitcoin]]></title>
+            <description><![CDATA[<article><h1>PnP Fintech Startup Program May Signal Industry Shift From 'Blockchain' Back to Bitcoin</h1><p>For at least the past year, many investors and entrepreneurs have been talking about the power of the blockchain for use in a variety of applications in different industries. Blockchain has turned into a catch-all phrase for anything involving a shared ledger or database but the technology was first created by Satoshi Nakamoto for the purpose of tracking and confirming Bitcoin transactions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ad95c3da3d35e0a4ea424d77b861dadd/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fpnp-fintech-startup-program-may-signal-industry-shift-from-blockchain-back-to-bitcoin.jpg"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/pnp-fintech-startup-program-may-signal-industry-shift-from-blockchain-back-to-bitcoin-1471886420</link>
+            <guid isPermaLink="false">244e4b21-44a6-4e2c-8df0-4623611e86d0</guid>
             <pubDate>Mon, 22 Aug 2016 22:33:18 GMT</pubDate>
         </item>
     </channel>
