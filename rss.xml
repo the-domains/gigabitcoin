@@ -7,6 +7,13 @@
         <lastBuildDate>Mon, 22 Aug 2016 15:26:27 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[CEX.IO Introduces New Fee Schedule to Improve Bitcoin Trading]]></title>
+            <description><![CDATA[<article><h1>CEX.IO Introduces New Fee Schedule to Improve Bitcoin Trading</h1><p>CEX.IO, the London-based cryptocurrency exchange, has introduced a new feature to its fee schedule, its most recent innovation to encourage higher market liquidity and improve bitcoin trading. The new Maker-Taker fee schedule sets the maker fee to 0%. The 0% maker fee is CEX.IO's latest incentive to make bitcoin trading and commerce easier.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e451bc87eef5db74eae5543240de4b64/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FCEX.IO-logo.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/cex-io-introduces-new-fee-schedule-improve-bitcoin-trading/</link>
+            <guid isPermaLink="false">f2f7f0f3-bf8b-4b1f-a495-dca2b5cb9d34</guid>
+            <pubDate>Mon, 22 Aug 2016 15:25:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Major Turkish Exchange Shuts Down Following Banking Suspension]]></title>
             <description><![CDATA[<article><h1>Major Turkish Exchange Shuts Down Following Banking Suspension</h1><p>Bitcoin in Turkey has come under renewed pressure as longstanding Turkish exchange BTCTurk has its bank accounts shut down. Also read: Bitwala Steps Up to Replace PayPal with Bitcoin in Turkey BTCTurk, which started trading in 2013, said it was currently trying to refund customer balances in the face of the unexpected withdrawal of banking relations.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f64c125d11d15ce01bb51683ab4c52f6/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fturkey.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/turkish-exchange-banking-suspended/</link>
@@ -68,13 +75,6 @@
             <link>http://www.newsbtc.com/2016/08/22/ethtrade-offers-25-monthly-income-ethereum-investments/</link>
             <guid isPermaLink="false">bbdd3aaa-332f-4d45-895d-3508d33d443a</guid>
             <pubDate>Mon, 22 Aug 2016 15:25:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Protecting Bitcoin, Blockchained Ukraine, Utopia or Inevitability. Cryptospace News digest, July 25 - 31]]></title>
-            <description><![CDATA[<article><h1>Protecting Bitcoin, Blockchained Ukraine, Utopia or Inevitability. Cryptospace News digest, July 25 - 31</h1><p>This week has passed without any disasters, giving the community a break, though some believe it's a lull before the storm. Anyways, it's interesting to recall the events that built it. By the end of the week, Bitcoin managed to gain some value, and currently it is traded at around $584.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8e6106f404279e0d8400a3575c8605f4/noop.png?input=http%3A%2F%2Fforklog.com%2Fwp-content%2Fuploads%2Fscreenshot-bitcointicker.co-2016-08-21-15-24-30.png"></article>]]></description>
-            <link>http://forklog.net/protecting-bitcoin-blockchained-ukraine-utopia-or-inevitability-cryptospace-news-digest-july-25-31/</link>
-            <guid isPermaLink="false">681e4510-bad5-4fee-9d7e-577bbb748806</guid>
-            <pubDate>Mon, 22 Aug 2016 12:55:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
