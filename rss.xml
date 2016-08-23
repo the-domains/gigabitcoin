@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 12:35:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 12:35:01 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Digital Asset to Open Source Smart Contract Language - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Digital Asset to Open Source Smart Contract Language - CoinDesk</h1><p>Digital Asset Holdings has announced it intends to open-source DAML, the smart contracting language it acquired from startup Elevence earlier this year. Though no date has been set for the transition, the Blythe Masters-led blockchain startup credited its bid to "advance industry adoption" of the tech as the impetus for the move.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/806931610bcf289db7c1cf49b8f54ade/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fcode-data-e1471954552631.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/digital-asset-open-source-smart-contract-language/</link>
+            <guid isPermaLink="false">dc9e9ece-0470-4122-960e-4aee66b856db</guid>
+            <pubDate>Tue, 23 Aug 2016 12:34:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blockchain 101 With Andreas Antonopoulos: How Bitcoin Makes Each Of Us As Powerful As A Bank]]></title>
             <description><![CDATA[<article><h1>Blockchain 101 With Andreas Antonopoulos: How Bitcoin Makes Each Of Us As Powerful As A Bank</h1><p>"Shifting from a perspective of 'only humans control money' to 'machines and software control money' is really radical and it changes a lot of things," says the Bitcoin and blockchain expert in the latest Unchained podcast.</p></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>US Marshals auction off $1.6M in bitcoin</h1><p>An anonymous bidder purchased 2,700 bitcoins worth roughly $1.6 million in an auction Monday held by the U.S. Marshals Service. CoinDesk, a website which reports on the digital currency, confirmed with the Marshals that four bids were received in the auction.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/70c174a845f5c93598cde85d999e1b4e/noop.jpg?input=http%3A%2F%2Fthehill.com%2Fsites%2Fdefault%2Ffiles%2Farticle_images%2Fbitcoin_061714getty.jpg"></article>]]></description>
             <link>http://thehill.com/policy/technology/292275-us-marshals-auction-off-16m-in-bitcoin</link>
             <guid isPermaLink="false">3d65a35b-ad68-44d7-affa-1cc29590a769</guid>
-            <pubDate>Tue, 23 Aug 2016 03:19:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Could Russia Really be Behind the Recent Cyber Attacks?]]></title>
-            <description><![CDATA[<article><h1>Could Russia Really be Behind the Recent Cyber Attacks?</h1><p>Mounting evidence in the recent Democratic Party hacks, and the security breach to the Clinton administration is pointing to a Russian backed cyber army, according to a former Defense Department official and other security professionals. "This clearly has all indications of a larger strategic intelligence gathering operation," former IT specialist at the Defense Intelligence Agency, Bob Gourley said.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/73ef55567a21648ea465bf31195eb06e/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fcybersecurity-russia.jpg"></article>]]></description>
-            <link>http://themerkle.com/could-russia-really-be-behind-the-recent-cyber-attacks/</link>
-            <guid isPermaLink="false">77e33216-77e9-447a-b313-3148238e3290</guid>
             <pubDate>Tue, 23 Aug 2016 03:19:22 GMT</pubDate>
         </item>
     </channel>
