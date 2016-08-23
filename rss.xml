@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 12:35:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 12:35:13 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kir Kelevra: Decentralized Centralization Is Coming]]></title>
+            <description><![CDATA[<article><h1>Kir Kelevra: Decentralized Centralization Is Coming</h1><p>A short while ago, ForkLog conducted an own investigation of affairs around Ethereum Classic, mostly inspired by customer claims against exchanges. This time, we publish a translation of a private opinion of crypto-traders and bitcoin enthusiast Kir Kelevra as to Ethereum Classic and other processes that have shaken the industry over the recent months.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d020831b1fdddd7e055fa4d9f8a80bb8dea4842.png"></article>]]></description>
+            <link>http://forklog.net/kir-kelevra-decentralized-centralization-is-coming/</link>
+            <guid isPermaLink="false">663a146f-7171-475e-b4ae-fb5f87e47496</guid>
+            <pubDate>Tue, 23 Aug 2016 12:34:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Updating my online wallet to not rely on the Blockchain.info API]]></title>
+            <description><![CDATA[<article><h1>Updating my online wallet to not rely on the Blockchain.info API</h1><p>I had a website which allowed me to send and receive bitcoins. To achieve this, I used the Blockchain API to process notifications of received bitcoins and the same to process sending Bitcoin to other addresses. Due to the fact that Blockchain forced me to change my calling method because they changed the API using node.js I was considering to move away from them.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/48200/updating-my-online-wallet-to-not-rely-on-the-blockchain-info-api</link>
+            <guid isPermaLink="false">143c9ec0-6552-4a70-987b-df7d668b8f2e</guid>
+            <pubDate>Tue, 23 Aug 2016 12:34:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Responsible Gaming Policies Make Online Casinos Better]]></title>
             <description><![CDATA[<article><h1>Responsible Gaming Policies Make Online Casinos Better</h1><p>Online casinos, despite their fun-filled and entertaining outlooks, have been interpreted as dark places for players with gambling addiction. Passion and addiction have a thin line but an important difference between each other. While passion is defined as a strong liking towards a certain hobby or work, addiction simply indicates psychological dependencies on passion.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ad45b33d1f6001c9005322fd9331a650/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F23123639%2F8110093534_b5128baf12_b.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://themerkle.com/money-router-brings-a-new-aml-solution-to-the-financial-sector/</link>
             <guid isPermaLink="false">5b3d291b-04d0-41f9-9fac-cd9aae6f07b7</guid>
             <pubDate>Tue, 23 Aug 2016 12:34:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rex Linux Trojan Turns Infected Machines to Bitcoin Miners, Unleashes DDoS Attacks - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Rex Linux Trojan Turns Infected Machines to Bitcoin Miners, Unleashes DDoS Attacks - NEWSBTC</h1><p>Rex Linux Trojan, an evolved malware capable of doing multiple things, including Bitcoin mining and DDoS attacks. Read more... The number of attacks on computers is increasing almost exponentially these days. The latest one to make news is the Rex Linux Trojan.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/423b8279b9cd90f3cd75618742d0176d/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F13233242%2FTrojan_Horse.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/23/rex-linux-trojan-turns-infected-machines-to-bitcoin-miners-unleashes-ddos-attacks/</link>
-            <guid isPermaLink="false">06c8a711-d3c6-412b-a05a-c9bdf6ea9819</guid>
-            <pubDate>Tue, 23 Aug 2016 12:34:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Verizon Files for Passcode Blockchain Patent]]></title>
-            <description><![CDATA[<article><h1>Verizon Files for Passcode Blockchain Patent</h1><p>Verizon Communications has filed a patent for a Blockchain technology for managing passcodes. The telecom giant, the largest in the US, filed the patent in May. The technology, apparently in development for years now, would deal with the management of digital rights.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/975a3c8e2216d651a45e991c085ac764/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xYTFmNzEwYTM2ZGQzZjYzZmM4NDc1NDY4ODU3Mzc2Zi5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/verizon-files-for-passcode-blockchain-patent</link>
-            <guid isPermaLink="false">d69346fc-bd4d-44de-b361-80fc4e5b870b</guid>
-            <pubDate>Tue, 23 Aug 2016 12:34:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
