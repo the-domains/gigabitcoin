@@ -7,6 +7,20 @@
         <lastBuildDate>Tue, 23 Aug 2016 23:05:25 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[What would you like to see in a book on the blockchain?]]></title>
+            <description><![CDATA[<article><h1>What would you like to see in a book on the blockchain?</h1><p>Answer: No, because blockchain needs many resources to be maintained. I would prefer small chunks of data to be stores on the blockchain, for wise resources use.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7716931e8db8659a6a30923879e0e6a8/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-custom-t-1056-600x315-odztzqlzelurmflrfztsjbgkwhhqdhcs.jpeg"></article>]]></description>
+            <link>https://www.quora.com/What-would-you-like-to-see-in-a-book-on-the-blockchain</link>
+            <guid isPermaLink="false">ed5406c2-00b6-4edd-8e9c-5ead3a6c8372</guid>
+            <pubDate>Tue, 23 Aug 2016 23:04:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vulture Capital Announces Benefits for VCAP Holders]]></title>
+            <description><![CDATA[<article><h1>Vulture Capital Announces Benefits for VCAP Holders</h1><p>Vulture Capital, the company behind the VCAP crowdsale aimed at funding a feature film titled Listen Carefully, has announced a list of benefits available to the film's cryptocurrency contributors. Disclaimer: This article was provided by Bitcoin PR Buzz. Bitcoinist is not affiliated with the firms represented by Bitcoin PR Buzz and is not responsible for their products and/or services.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f7ee5ebf57eb1ad16b041bd0f62c898c/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FVCAP-infographic-737x1024.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/vulture-capital-benefits-vcap/</link>
+            <guid isPermaLink="false">6102b86a-4358-49cb-a5cc-21b071b04237</guid>
+            <pubDate>Tue, 23 Aug 2016 23:04:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Maximus Coin Offering Up to 300% Returns on Bitcoin Investments]]></title>
             <description><![CDATA[<article><h1>Maximus Coin Offering Up to 300% Returns on Bitcoin Investments</h1><p>Maximus Coin, as the company is titled, is bringing the aforementioned claim to reality through its two cloud mining plans. A Bitcoin mining contract company has claimed that it is offering up to 300% returns on modest Bitcoin investments. Maximus Coin, as the company is titled, is bringing the aforementioned claim to reality through its two cloud mining plans.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/426803313131f918de52065867c609a0/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2015%2F11%2F29151943%2Fmining-bitcoin-with-CPU.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/08/23/maximus-coin-offering-300-returns-bitcoin-investments/</link>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>GDAX Users Can Now Trade Litecoin Against USD and Bitcoin</h1><p>Although it had been a rumour for quite some time now, the Litecoin community will rejoice at the news GDAX has added LTC trading. This news is great for the community, although it does not give Litecoin any more usability than it had before. Moreover, the volumes on GDX are small to nonexistent right now.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7de3088124519893a104aabb2960e473/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_174982505.jpg"></article>]]></description>
             <link>http://themerkle.com/gdax-users-can-now-trade-litecoin-against-usd-and-bitcoin/</link>
             <guid isPermaLink="false">96b0e02f-2c57-4be7-b250-2ce737a693ac</guid>
-            <pubDate>Tue, 23 Aug 2016 23:04:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chinese Government Explores Digital Currency Technology with the Blockchain Working Group - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Chinese Government Explores Digital Currency Technology with the Blockchain Working Group - NEWSBTC</h1><p>Chinese Government has announced the creation of a Blockchain Working Group to develop and implement distributed ledger technology in the country. Read more... The Chinese government, in an attempt to keep up with the rapidly changing tech scenario, has announced the creation of a Blockchain Working Group.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a559d9e900d194453a7be091af37907c/noop.png?input=https%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2015%2F03%2Fchinese-terracota-warriors-bitcoin-china-future-newsbtc2.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/23/chinese-government-blockchain-working-group/</link>
-            <guid isPermaLink="false">3736a379-f9e4-4526-9cd0-ba8209fdf328</guid>
-            <pubDate>Tue, 23 Aug 2016 23:04:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[bitcoin-core-dev] Bitcoin Core 0.13.0 released]]></title>
-            <description><![CDATA[<article><h1>[bitcoin-core-dev] Bitcoin Core 0.13.0 released</h1><p>BEGIN PGP SIGNED MESSAGE----- Hash: SHA512 Bitcoin Core version 0.13.0 is now available from: Or through bittorrent: magnet:?xt=urn:btih:35367ed2db6c41f7af9c1ed2dd54ae29d99bc632&dn=bitcoin-core-0.13.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&ws=https%3A%2F%2Fbitcoin.org%2Fbin%2F This is a new major version release, including new features, various bugfixes and performance improvements, as well as updated translations.</p></article>]]></description>
-            <link>https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2016-August/000018.html</link>
-            <guid isPermaLink="false">f72d7e74-dfcd-4480-9676-bb21ba14281c</guid>
             <pubDate>Tue, 23 Aug 2016 23:04:35 GMT</pubDate>
         </item>
     </channel>
