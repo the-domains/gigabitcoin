@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 12:35:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 12:35:36 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Ransomware is growing quickly but Chainalysis expects arrests soon]]></title>
-            <description><![CDATA[<article><h1>Ransomware is growing quickly but Chainalysis expects arrests soon</h1><p>It's no secret that crypto-ransomware has become a huge problem for cybersecurity over the last few years. The powerful tools typically encrypt files on an infected computer, and extort a bitcoin ransom from victims. In 2015, the Assistant Special Agent in Charge of the FBI's CYBER and Counterintelligence Program, Joseph Bonavolonta, said that " the ransomware is that good " that the agency "often advise people just to pay the ransom."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d0fcc98ff74078ca71562b60b96d2e40/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-Chainalysis-Banner.jpg"></article>]]></description>
-            <link>http://bravenewcoin.com/news/ransomware-is-growing-quickly-but-chainalysis-expects-arrests-soon/</link>
-            <guid isPermaLink="false">e7396f4c-d50a-4a31-95c4-c4d614913c87</guid>
-            <pubDate>Tue, 23 Aug 2016 12:34:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Poloniex To De-List 27 Altcoins - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>Poloniex To De-List 27 Altcoins - Bitcoinist.net</h1><p>Breaking: Poloniex has announced that 27 crypto markets will be de-listed from their cryptocurrency exchange on the 5th of September, 2016. Some of the de-listings are expected, like DAO, Dashcoin, and others less so - the most surprising being Mintcoin, with a market cap of 1.22 Million USD at the time of writing.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2863e4d9d6f75d17ba0c10a1872f0fdc/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FPoloSpash.png"></article>]]></description>
-            <link>http://bitcoinist.net/poloniex-to-de-list-27-altcoins/</link>
-            <guid isPermaLink="false">71604cc8-8066-44b4-9c82-c834d4a67d58</guid>
-            <pubDate>Tue, 23 Aug 2016 12:34:42 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[is it possible to decode block height from a blockhash?]]></title>
             <description><![CDATA[<article><h1>is it possible to decode block height from a blockhash?</h1><p>The block hash is a hash of the block header... but even if you could reverse the hash function (which is impossible, or Bitcoin would be broken), you wouldn't know the height, as the height is not stored in the header. The header does contain a hash of the transaction Merkle root...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>http://bitcoinist.net/federal-reserve-facebook/</link>
             <guid isPermaLink="false">07781d17-140a-4b0e-b7bd-5a31a858ec91</guid>
             <pubDate>Tue, 23 Aug 2016 12:34:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hitachi and Bank of Tokyo-Mitsubishi start testing blockchain technology for electronic check processing in Singapore]]></title>
+            <description><![CDATA[<article><h1>Hitachi and Bank of Tokyo-Mitsubishi start testing blockchain technology for electronic check processing in Singapore</h1><p>Given Singapore's financial strength and stability, coupled with its strategic location, the country has grown to become a leading global financial centre, with a major role in regional and international payments. Payment flows between individuals and businesses in Singapore are substantial.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d66b4ea26612d3ec88cb1935982b5338/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-Singapore-Banner.jpg"></article>]]></description>
+            <link>http://bravenewcoin.com/news/hitachi-and-bank-of-tokyo-mitsubishi-start-testing-blockchain-technology-for-electronic-check-processing-in-singapore/</link>
+            <guid isPermaLink="false">f2fa31e9-5e09-4cd1-82a4-554e4aa32d81</guid>
+            <pubDate>Tue, 23 Aug 2016 12:34:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rakuten Acquires Bitnet, Establishes Blockchain Lab For Fintech And E-Commerce]]></title>
+            <description><![CDATA[<article><h1>Rakuten Acquires Bitnet, Establishes Blockchain Lab For Fintech And E-Commerce</h1><p>E-commerce giant Rakuten has acquired the IP assets of the Bitnet payment platform and opened a blockchain lab in Belfast, U.K. Rakuten Blockchain Lab (RBL) will be a research and development organization focused on blockchain technology and its applications to fintech and e-commerce. Rakuten invested in Bitnet Technologies Ltd., a blockchain-powered digital payments platform, in 2014.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/806d3a3b82da75423212c112e4bcf968/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FFintech-Funding-Breaks-All-Records.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/rakuten-acquires-bitnet-establishes-blockchain-lab/</link>
+            <guid isPermaLink="false">2ec3a11e-54a6-4f3c-8d27-1b167c794b97</guid>
+            <pubDate>Tue, 23 Aug 2016 12:34:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
