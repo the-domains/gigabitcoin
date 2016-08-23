@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 12:34:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 12:34:52 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rex Linux Trojan Turns Infected Machines to Bitcoin Miners, Unleashes DDoS Attacks - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>Rex Linux Trojan Turns Infected Machines to Bitcoin Miners, Unleashes DDoS Attacks - NEWSBTC</h1><p>Rex Linux Trojan, an evolved malware capable of doing multiple things, including Bitcoin mining and DDoS attacks. Read more... The number of attacks on computers is increasing almost exponentially these days. The latest one to make news is the Rex Linux Trojan.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/423b8279b9cd90f3cd75618742d0176d/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F13233242%2FTrojan_Horse.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/23/rex-linux-trojan-turns-infected-machines-to-bitcoin-miners-unleashes-ddos-attacks/</link>
+            <guid isPermaLink="false">06c8a711-d3c6-412b-a05a-c9bdf6ea9819</guid>
+            <pubDate>Tue, 23 Aug 2016 12:34:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Verizon Files for Passcode Blockchain Patent]]></title>
             <description><![CDATA[<article><h1>Verizon Files for Passcode Blockchain Patent</h1><p>Verizon Communications has filed a patent for a Blockchain technology for managing passcodes. The telecom giant, the largest in the US, filed the patent in May. The technology, apparently in development for years now, would deal with the management of digital rights.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/975a3c8e2216d651a45e991c085ac764/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xYTFmNzEwYTM2ZGQzZjYzZmM4NDc1NDY4ODU3Mzc2Zi5qcGc%3D.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.quora.com/unanswered/How-many-members-should-a-blockchain-have-before-it-can-cbe-considered-safe</link>
             <guid isPermaLink="false">5aeaf03c-5e50-4979-9889-55367bb44413</guid>
             <pubDate>Tue, 23 Aug 2016 03:19:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Markets Remain Stagnant Around $570, Although Conditions Are Slowly Improving]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Markets Remain Stagnant Around $570, Although Conditions Are Slowly Improving</h1><p>We are now in the slowest trading period of the year for both the legacy and cryptocurrency markets, which means volatility and volume should remain light until after the Labor Day weekend in the US. Bitcoin has once again flatlined around the $570 level as the summer doldrums roll on.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6bb2057f7b83c8a8caca9cc6e41875d1/noop.png?input=https%3A%2F%2Fcointelegraph.com%2Fstorage%2Fuploads%2Fview%2Fcf684fa219d46890604742833452b782.png"></article>]]></description>
-            <link>https://cointelegraph.com/news/bitcoin-markets-remain-stagnant-around-570-although-conditions-are-slowly-improving</link>
-            <guid isPermaLink="false">cffda09f-5f2a-47c3-b18c-4d12a3899923</guid>
-            <pubDate>Mon, 22 Aug 2016 22:33:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
