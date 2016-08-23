@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 23:05:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 23:05:37 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[What Is the Future of Digital Currency? - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>What Is the Future of Digital Currency? - Bitcoinist.net</h1><p>When asked, many people aren't really sure what digital currency is other than to say it is something like Bitcoin. In fact, Bitcoin is a form of digital currency, the first of its kind to take hold and actually go somewhere.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2b82259240fdd9e2be303509920b9e26/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2Fpr_f.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/what-is-the-future-of-digital-currency/</link>
-            <guid isPermaLink="false">fca2d76a-2193-4d2d-a619-fa401310d878</guid>
-            <pubDate>Tue, 23 Aug 2016 23:04:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Guardian Article Puts Spotlight on Bitcoin as an Investment]]></title>
-            <description><![CDATA[<article><h1>Guardian Article Puts Spotlight on Bitcoin as an Investment</h1><p>Bitcoin is looking more attractive to potential investors particularly those who have had some disappointments using traditional forms of investments such as in the stock market or gold market. Investments in the digital currency have more than doubled in the past twelve months. According to CoinMarketCap, one bitcoin was worth about $230 around September 2015.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2a598a085094c93a46f330f8d8c56be5/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FThe-Guardian.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/guardian-bitcoin-article/</link>
-            <guid isPermaLink="false">07595da8-a5c6-45e7-90b2-390bd7238253</guid>
-            <pubDate>Tue, 23 Aug 2016 23:04:42 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Ethereum (ETH and ETC) Price Trends (Week of August 22th)]]></title>
             <description><![CDATA[<article><h1>Ethereum (ETH and ETC) Price Trends (Week of August 22th)</h1><p>The bulls prevent Ethereum's price from falling. Their active support could provoke the bears into giving up on their positions and thus leading to Ethereum's growth. Ethereum's price is forming a flat between two important resistance lines. The bulls' support is clear at $10.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b460fa2b31b0e5dba3f719db84944745/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2FEBoMMnIWhK2l51suOSIUHTnyircIjjiejjfUtmjGesfgGaPiaU6_w9t0IXac3wwTkzkcqvibLwDdfnOMxeAa9Z2VfCwTfpHz3ARBfrLFHYSbcYQ2eJL4Tjt_cB5jMjhE-D5PBiI1"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>http://bitcoinist.net/japan-central-banker-blockchain-fintech/</link>
             <guid isPermaLink="false">37644d44-4522-43fa-92dc-880275f8336c</guid>
             <pubDate>Tue, 23 Aug 2016 23:04:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IRC meeting summary for 2016-08-18]]></title>
+            <description><![CDATA[<article><h1>IRC meeting summary for 2016-08-18</h1><p>The binary releases of Bitcoin Core are still signed with 'The Bitcoin Foundation'. Jonasschnelli wonders whether we should try and get new certificates in the name of "Bitcoin Core". Cfields was looking into this, but got nowhere. His best suggestion was to see if MIT would be interested in helping with a certificate.</p></article>]]></description>
+            <link>https://bitcoincore.org/en/meetings/2016/08/18/</link>
+            <guid isPermaLink="false">5936828b-434d-44a1-ae69-beaf500c098c</guid>
+            <pubDate>Tue, 23 Aug 2016 23:04:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Rally Delayed]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Rally Delayed</h1><p>Bitcoin price has faked advance, and now proceeds to retest the consolidation zone near $570 (Bitstamp). This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member? Join now.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7d1c296543051bf4f3467d25ae3fad0a/noop.png?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FSelection_20160823_002.png"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-price-rally-delayed/</link>
+            <guid isPermaLink="false">c2ffab71-6465-4ed4-8051-db85f1a73549</guid>
+            <pubDate>Tue, 23 Aug 2016 23:04:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
