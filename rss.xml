@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 23:04:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 23:04:59 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is the best way to buy large block of bitcoin (note: currently work and live in Gulf)?]]></title>
+            <description><![CDATA[<article><h1>What is the best way to buy large block of bitcoin (note: currently work and live in Gulf)?</h1><p>As captivating as I can be, when a child doesn't have a place to live, regular sleep, food, warm clothing, and LOVE; processing my words is impossible. I can only control so much in a student's life. I can make sure they eat breakfast and lunch, organize food/clothing drives, hug them and build them up, give their parents access to community...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/87785482e71795662128073b8ca89052/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-3544-200-DDa210tdHWnSwW0GbWfobW5lRxdVxTS3.jpeg"></article>]]></description>
+            <link>https://www.quora.com/What-is-the-best-way-to-buy-large-block-of-bitcoin-note-currently-work-and-live-in-Gulf</link>
+            <guid isPermaLink="false">adc0f5a7-7091-40cf-a61b-cf55b371e5f7</guid>
+            <pubDate>Tue, 23 Aug 2016 23:04:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Did Only Five People Bid on the Feds' Bitcoin Stash?]]></title>
             <description><![CDATA[<article><h1>Why Did Only Five People Bid on the Feds' Bitcoin Stash?</h1><p>Someone has purchased $1.6 million worth of Bitcoin from the U.S. Marshals Service. That's not a bad haul, and whoever purchased the bitcoins gets to hold on to some of the cryptocurrency seized from the illicit Silk Road marketplace. So why did only five people bother to place bids for the block of 2,700 bitcoins?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7b0243db1d53eb6509eae9a3299008aa/noop.jpeg?input=https%3A%2F%2Ffsmedia.imgix.net%2Fe4%2F06%2Fdc%2F05%2Fd2c0%2F4384%2F9ef6%2Fb8b923985057%2Fis-it-racist-for-a-white-man-to-assume-a-non-white-pseudonym.jpeg%3Frect%3D0%2C0%2C3000%2C1500%26dpr%3D2%26auto%3Dformat%2Ccompress%2Cenhance%26q%3D75"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>is it possible to decode block height from a blockhash?</h1><p>The block hash is a hash of the block header... but even if you could reverse the hash function (which is impossible, or Bitcoin would be broken), you wouldn't know the height, as the height is not stored in the header. The header does contain a hash of the transaction Merkle root...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/48188/is-it-possible-to-decode-block-height-from-a-blockhash</link>
             <guid isPermaLink="false">2aa14548-6ef9-47ea-bdda-30f2b4b76b92</guid>
-            <pubDate>Tue, 23 Aug 2016 12:34:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Movie Lover's Cryptocurrency VCAP Offers Much More Than a Return on Investment]]></title>
-            <description><![CDATA[<article><h1>The Movie Lover's Cryptocurrency VCAP Offers Much More Than a Return on Investment</h1><p>August 22, 2016 New York - The cryptocurrency based fundraising arm of New York-based Hedley Productions continues to run a successful VCAP cryptocurrency crowd sale to produce the first ever completely cryptocurrency funded feature film. As the list of members continues to grow, Vulture Capital has announced a list of benefits available exclusively for VCAP token holders.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/694273bbe5b2cb684ad1d685c800e4e1/noop.jpg?input=http%3A%2F%2Fbitcoinprbuzz.com%2Fwp-content%2Fuploads%2F2016%2F08%2FVCAP-Press-Release-Pic-737x1024.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/23/34725/</link>
-            <guid isPermaLink="false">a12f45ee-ad9e-428f-a1db-b5a37e21bc83</guid>
             <pubDate>Tue, 23 Aug 2016 12:34:42 GMT</pubDate>
         </item>
     </channel>
