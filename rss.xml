@@ -7,6 +7,13 @@
         <lastBuildDate>Tue, 23 Aug 2016 23:04:59 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[EB145 - Stephen King & Russell McLernon: Distrupting Real Estate With RexMLS - A Decentralized MLS]]></title>
+            <description><![CDATA[<article><h1>EB145 - Stephen King & Russell McLernon: Distrupting Real Estate With RexMLS - A Decentralized MLS</h1><p>One of the sectors which is ripe for disruption is the real estate industry. In the US for instance, a handful of historic and very powerful players operate what is known as MLS, or Multiple Listing Services, and hold unofficial monopolies on residential and commercial real estate listings.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/684a9735307beaae135f96dda762b9dd/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1900-90762a241258ab99ca426d81ddb2e322360d0622a1eed42db883fc35feef6d7f.jpg"></article>]]></description>
+            <link>https://letstalkbitcoin.com/blog/post/eb145-stephen-king-russell-mclernon-distrupting-real-estate-with-rexmls-a-decentralized-mls</link>
+            <guid isPermaLink="false">ec0cac3f-48bd-4e18-bee1-f73d2e546bb0</guid>
+            <pubDate>Tue, 23 Aug 2016 23:04:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What is the best way to buy large block of bitcoin (note: currently work and live in Gulf)?]]></title>
             <description><![CDATA[<article><h1>What is the best way to buy large block of bitcoin (note: currently work and live in Gulf)?</h1><p>As captivating as I can be, when a child doesn't have a place to live, regular sleep, food, warm clothing, and LOVE; processing my words is impossible. I can only control so much in a student's life. I can make sure they eat breakfast and lunch, organize food/clothing drives, hug them and build them up, give their parents access to community...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/87785482e71795662128073b8ca89052/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-3544-200-DDa210tdHWnSwW0GbWfobW5lRxdVxTS3.jpeg"></article>]]></description>
             <link>https://www.quora.com/What-is-the-best-way-to-buy-large-block-of-bitcoin-note-currently-work-and-live-in-Gulf</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Poloniex To De-List 27 Altcoins - Bitcoinist.net</h1><p>Breaking: Poloniex has announced that 27 crypto markets will be de-listed from their cryptocurrency exchange on the 5th of September, 2016. Some of the de-listings are expected, like DAO, Dashcoin, and others less so - the most surprising being Mintcoin, with a market cap of 1.22 Million USD at the time of writing.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2863e4d9d6f75d17ba0c10a1872f0fdc/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FPoloSpash.png"></article>]]></description>
             <link>http://bitcoinist.net/poloniex-to-de-list-27-altcoins/</link>
             <guid isPermaLink="false">71604cc8-8066-44b4-9c82-c834d4a67d58</guid>
-            <pubDate>Tue, 23 Aug 2016 12:34:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[is it possible to decode block height from a blockhash?]]></title>
-            <description><![CDATA[<article><h1>is it possible to decode block height from a blockhash?</h1><p>The block hash is a hash of the block header... but even if you could reverse the hash function (which is impossible, or Bitcoin would be broken), you wouldn't know the height, as the height is not stored in the header. The header does contain a hash of the transaction Merkle root...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/48188/is-it-possible-to-decode-block-height-from-a-blockhash</link>
-            <guid isPermaLink="false">2aa14548-6ef9-47ea-bdda-30f2b4b76b92</guid>
             <pubDate>Tue, 23 Aug 2016 12:34:42 GMT</pubDate>
         </item>
     </channel>
