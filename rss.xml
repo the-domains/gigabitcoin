@@ -4,13 +4,20 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 03:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 03:19:54 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[US Marshals auction off $1.6M in bitcoin]]></title>
             <description><![CDATA[<article><h1>US Marshals auction off $1.6M in bitcoin</h1><p>An anonymous bidder purchased 2,700 bitcoins worth roughly $1.6 million in an auction Monday held by the U.S. Marshals Service. CoinDesk, a website which reports on the digital currency, confirmed with the Marshals that four bids were received in the auction.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/70c174a845f5c93598cde85d999e1b4e/noop.jpg?input=http%3A%2F%2Fthehill.com%2Fsites%2Fdefault%2Ffiles%2Farticle_images%2Fbitcoin_061714getty.jpg"></article>]]></description>
             <link>http://thehill.com/policy/technology/292275-us-marshals-auction-off-16m-in-bitcoin</link>
             <guid isPermaLink="false">3d65a35b-ad68-44d7-affa-1cc29590a769</guid>
+            <pubDate>Tue, 23 Aug 2016 03:19:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Could Russia Really be Behind the Recent Cyber Attacks?]]></title>
+            <description><![CDATA[<article><h1>Could Russia Really be Behind the Recent Cyber Attacks?</h1><p>Mounting evidence in the recent Democratic Party hacks, and the security breach to the Clinton administration is pointing to a Russian backed cyber army, according to a former Defense Department official and other security professionals. "This clearly has all indications of a larger strategic intelligence gathering operation," former IT specialist at the Defense Intelligence Agency, Bob Gourley said.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/73ef55567a21648ea465bf31195eb06e/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fcybersecurity-russia.jpg"></article>]]></description>
+            <link>http://themerkle.com/could-russia-really-be-behind-the-recent-cyber-attacks/</link>
+            <guid isPermaLink="false">77e33216-77e9-447a-b313-3148238e3290</guid>
             <pubDate>Tue, 23 Aug 2016 03:19:22 GMT</pubDate>
         </item>
         <item>
@@ -68,13 +75,6 @@
             <link>http://www.newsbtc.com/2016/08/22/lara-attracts-1m-deposit-just-5-days/</link>
             <guid isPermaLink="false">8392c278-75a7-4527-91a2-3358a345d200</guid>
             <pubDate>Mon, 22 Aug 2016 22:33:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Core 0.13.0 is Released: What's New?]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Core 0.13.0 is Released: What's New?</h1><p>Today marks the official release of Bitcoin Core 0.13.0, the thirteenth generation of Bitcoin's reference client as first launched by Satoshi Nakamoto almost eight years ago. Bitcoin Core 0.13.0 was developed by some 100 contributors over a period of about five months.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d52374cd0dae7efb3734481e81b24645/noop.jpg?input=http%3A%2F%2Fwww.nasdaq.com%2Freference%2Fhiresphotos%2Fnews-photos%2Fbitcoin%2F325x200%2Fbitcoin82.jpg"></article>]]></description>
-            <link>http://www.nasdaq.com/article/bitcoin-core-0130-is-released-whats-new-cm668482</link>
-            <guid isPermaLink="false">6972341d-e7f6-4e12-8a45-7292d78a8fe0</guid>
-            <pubDate>Mon, 22 Aug 2016 22:33:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
