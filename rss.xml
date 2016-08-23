@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 23:05:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 23:05:35 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[If This Video Doesn't Make You Want Bitcoin, Nothing Will]]></title>
+            <description><![CDATA[<article><h1>If This Video Doesn't Make You Want Bitcoin, Nothing Will</h1><p>One particular YouTube video perfectly sums up how the economy works. And if it doesn't make you want to buy bitcoins (or wish you had more), then perhaps nothing will.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/eb7f8fed3535b252cba0f07b15a6635f/croprotate.jpg?cropheight=533&cropwidth=829&degrees=0&input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FThe-Blue-Pill-or-The-Red-Pill-CanStock-csp8420421-950x533.jpg&x=64&y=0"></article>]]></description>
+            <link>https://news.bitcoin.com/video-want-bitcoin-nothing-will/</link>
+            <guid isPermaLink="false">37921ce5-0434-47d4-adb7-f38975785091</guid>
+            <pubDate>Tue, 23 Aug 2016 23:04:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[UK Financial Regulator Considers Approving Blockchain Startups]]></title>
             <description><![CDATA[<article><h1>UK Financial Regulator Considers Approving Blockchain Startups</h1><p>The U.K.'s Financial Conduct Authority (FCA) is thinking about approving a number of blockchain companies as it actively encourages businesses to utilize bitcoin's underlying technology. Despite the fact that some regulators are cautious over the use of blockchain technology, the U.K.'s FCA is known as the most forward-thinking.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4a84656f41e3659e8ec557b278735004/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FUK-bridge.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Wings Team Offers a Standard for Safe DAO's</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0388f6a929aa9d92863b1f5e6b980ac0/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F07%2Fbitcoinscience.png"></article>]]></description>
             <link>http://forklog.net/wings-team-offers-a-standard-for-safe-daos/</link>
             <guid isPermaLink="false">36c6bd66-f5ff-40ef-be34-1fe147ac8417</guid>
-            <pubDate>Tue, 23 Aug 2016 23:04:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US Congress Candidate Tiffany Hayden on Dark Side of Ditching Banks for Bitcoin]]></title>
-            <description><![CDATA[<article><h1>US Congress Candidate Tiffany Hayden on Dark Side of Ditching Banks for Bitcoin</h1><p>Leaving the banking system and only using Bitcoin can have several distinct advantages. It can save banking fees, protect against identity theft, maintain financial independence, and remove the fear of having one's funds shut down in the case of controversial activity. However, losing the banking system is not without its drawbacks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d8667686f6ed5c499a1c9c0c28850631/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xZTFmZDU0MzRjYTcwNjgwM2M0MjAwMjg0NTU4MjcyMi5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/us-congress-candidate-tiffany-hayden-on-dark-side-of-ditching-banks-for-bitcoin</link>
-            <guid isPermaLink="false">8a9437ac-61f5-42f2-9c83-3b3affaa4310</guid>
             <pubDate>Tue, 23 Aug 2016 23:04:38 GMT</pubDate>
         </item>
     </channel>
