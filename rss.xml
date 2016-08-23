@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 12:35:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 12:35:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Can the Federal Reserve Really Save the US Economy?]]></title>
+            <description><![CDATA[<article><h1>Can the Federal Reserve Really Save the US Economy?</h1><p>Is the US Federal Reserve still capable of reducing negative effects from recessions and other economic shocks? Not without drastic measures, says a critic. Also read: The Federal Reserve Gets on Facebook, Greeted by Angry Bitcoiners The answer is yes - at least, according to a paper by the Fed's own deputy director of its research and statistics division.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b4e2ed97a804906a0c2334c8b819001f/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2F1200px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/federal-reserve-save-us-economy/</link>
+            <guid isPermaLink="false">e198a1ec-b9f4-43f4-9492-b4c9a70b9f68</guid>
+            <pubDate>Tue, 23 Aug 2016 12:34:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Verizon Applies for Blockchain Patent in Strongest Push Yet]]></title>
             <description><![CDATA[<article><h1>Verizon Applies for Blockchain Patent in Strongest Push Yet</h1><p>US communications giant Verizon has filed a Blockchain patent for its digital media rights following three years of investigative research. Also read: New FCC Rules Could Block Your E-Wallet Verizon, the largest communications company in the US, made the application in May but has declined to comment on its plans behind the move.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/75748312d9f17e05c7cba9f32e1db8d2/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fverizon.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How long would it take to go from almost zero programming / coding knowledge to developing my own cryptocurrency (based on a new blockcha...</h1><p>Answer: Creating a new cryptocurrency is not a matter of programming anymore - you can just clone Bitcoin, tweak it a little, and you're done. The hard part is convincing people to start using it (if nobody uses it, it doesn't really matter that it exists). If you actually want to introduce new ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/87785482e71795662128073b8ca89052/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-3544-200-DDa210tdHWnSwW0GbWfobW5lRxdVxTS3.jpeg"></article>]]></description>
             <link>https://www.quora.com/How-long-would-it-take-to-go-from-almost-zero-programming-coding-knowledge-to-developing-my-own-cryptocurrency-based-on-a-new-blockchain</link>
             <guid isPermaLink="false">51360162-89e9-40be-8aa7-ed9cd130aa33</guid>
-            <pubDate>Tue, 23 Aug 2016 12:34:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[French Bus Operator First in Europe to Accept Bitcoin]]></title>
-            <description><![CDATA[<article><h1>French Bus Operator First in Europe to Accept Bitcoin</h1><p>After experimenting the payment of bus tickets with virtual currency, Bitcoin, since 2 August 2016, a French company has become the first in its sector to set up this type of payment across Europe. Isilines is a new offering of the leading long-distance passenger transport by bus operator in Europe, Transdev Group, a French-based international private public transport group.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/385ef1a693ed0ce687afd4ae9459d772/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FFrench-bus.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/french-bus-operator-is-first-in-europe-to-accept-bitcoin/</link>
-            <guid isPermaLink="false">bb25010c-9471-47ed-99d6-7475a476c909</guid>
             <pubDate>Tue, 23 Aug 2016 12:34:38 GMT</pubDate>
         </item>
     </channel>
