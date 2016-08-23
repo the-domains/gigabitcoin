@@ -4,13 +4,20 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 23:05:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 23:05:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[While you weren't watching, classic block share has crept back up to 5% * /r/btc]]></title>
             <description><![CDATA[<article><h1>While you weren't watching, classic block share has crept back up to 5% * /r/btc</h1><p>It's actually 11 out of last 100, so something's stirring again...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
             <link>https://www.reddit.com/r/btc/comments/4yinue/while_you_werent_watching_classic_block_share_has/</link>
             <guid isPermaLink="false">d4aa27d2-984e-494a-93ce-4f587d2f680f</guid>
+            <pubDate>Tue, 23 Aug 2016 23:04:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Case Study: Filipino OFWs and Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Case Study: Filipino OFWs and Bitcoin</h1><p>Working abroad has been no walk in the part for Louise*, 33, who originally hails from Manila, Philippines. She has been providing support services for a few international companies, and is now working at a travel agency in Kuala Lumpur.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e5cce040ada980977e4857a4850af209/noop.jpg?input=http%3A%2F%2Fi.huffpost.com%2Fgen%2F4555160%2Fimages%2Fo-MANILA-PHILIPPINES-facebook.jpg"></article>]]></description>
+            <link>http://www.huffingtonpost.com/zak-mustapha/case-study-filipino-ofws-_b_11582468.html</link>
+            <guid isPermaLink="false">a7d01e6f-4c5a-49b8-992c-1debc2d24019</guid>
             <pubDate>Tue, 23 Aug 2016 23:04:36 GMT</pubDate>
         </item>
         <item>
@@ -68,13 +75,6 @@
             <link>https://www.quora.com/What-is-the-best-way-to-buy-large-block-of-bitcoin-note-currently-work-and-live-in-Gulf</link>
             <guid isPermaLink="false">adc0f5a7-7091-40cf-a61b-cf55b371e5f7</guid>
             <pubDate>Tue, 23 Aug 2016 23:04:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Did Only Five People Bid on the Feds' Bitcoin Stash?]]></title>
-            <description><![CDATA[<article><h1>Why Did Only Five People Bid on the Feds' Bitcoin Stash?</h1><p>Someone has purchased $1.6 million worth of Bitcoin from the U.S. Marshals Service. That's not a bad haul, and whoever purchased the bitcoins gets to hold on to some of the cryptocurrency seized from the illicit Silk Road marketplace. So why did only five people bother to place bids for the block of 2,700 bitcoins?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7b0243db1d53eb6509eae9a3299008aa/noop.jpeg?input=https%3A%2F%2Ffsmedia.imgix.net%2Fe4%2F06%2Fdc%2F05%2Fd2c0%2F4384%2F9ef6%2Fb8b923985057%2Fis-it-racist-for-a-white-man-to-assume-a-non-white-pseudonym.jpeg%3Frect%3D0%2C0%2C3000%2C1500%26dpr%3D2%26auto%3Dformat%2Ccompress%2Cenhance%26q%3D75"></article>]]></description>
-            <link>https://www.inverse.com/article/20105-why-five-people-bid-feds-bitcoin-stash-silk-road</link>
-            <guid isPermaLink="false">14ae5e7d-387e-4ce2-b651-da9d34abfb74</guid>
-            <pubDate>Tue, 23 Aug 2016 23:04:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
