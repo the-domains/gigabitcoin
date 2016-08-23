@@ -4,8 +4,36 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 12:35:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 12:35:13 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Updating my online wallet to not rely on the Blockchain.info API]]></title>
+            <description><![CDATA[<article><h1>Updating my online wallet to not rely on the Blockchain.info API</h1><p>I had a website which allowed me to send and receive bitcoins. To achieve this, I used the Blockchain API to process notifications of received bitcoins and the same to process sending Bitcoin to other addresses. Due to the fact that Blockchain forced me to change my calling method because they changed the API using node.js I was considering to move away from them.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/48200/updating-my-online-wallet-to-not-rely-on-the-blockchain-info-api</link>
+            <guid isPermaLink="false">143c9ec0-6552-4a70-987b-df7d668b8f2e</guid>
+            <pubDate>Tue, 23 Aug 2016 12:34:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Responsible Gaming Policies Make Online Casinos Better]]></title>
+            <description><![CDATA[<article><h1>Responsible Gaming Policies Make Online Casinos Better</h1><p>Online casinos, despite their fun-filled and entertaining outlooks, have been interpreted as dark places for players with gambling addiction. Passion and addiction have a thin line but an important difference between each other. While passion is defined as a strong liking towards a certain hobby or work, addiction simply indicates psychological dependencies on passion.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ad45b33d1f6001c9005322fd9331a650/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F23123639%2F8110093534_b5128baf12_b.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/23/responsible-gaming-policies-make-online-casinos-better/</link>
+            <guid isPermaLink="false">a3085882-2544-46a3-b7d7-e9f530438b9a</guid>
+            <pubDate>Tue, 23 Aug 2016 12:34:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitwala Launches Bitcoin Wallet, Adds Support for Dash and Steem | Finance Magnates]]></title>
+            <description><![CDATA[<article><h1>Bitwala Launches Bitcoin Wallet, Adds Support for Dash and Steem | Finance Magnates</h1><p>Netherlands-based international money transfer service and Bitcoin debit cards provider, Bitwala, has revealed a number of new features to its platform. The company now offers both more Bitcoin related functions and support for new Altcoins. Join the industry leaders at the Finance Magnates London Summit, 14-15 November, 2016. Register here!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2ea93f5afdbde6b9e7f127e5eaf60f5c/noop.jpg?input=http%3A%2F%2Fwww.financemagnates.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fbitwala.jpg"></article>]]></description>
+            <link>http://www.financemagnates.com/cryptocurrency/news/bitwala-launches-bitcoin-wallet-adds-support-for-dash-and-steem/</link>
+            <guid isPermaLink="false">947285ec-2d1a-4f0a-a4c6-71f26a37b902</guid>
+            <pubDate>Tue, 23 Aug 2016 12:34:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PSA: Coinbase Referral Spam Exploits Bitcoin URLs - Bitcoinist.net]]></title>
+            <description><![CDATA[<article><h1>PSA: Coinbase Referral Spam Exploits Bitcoin URLs - Bitcoinist.net</h1><p>Be careful not to misspell the domain of your favourite exchange or crypto information site - the chances are that it'll redirect you to Coinbase Registration Page. No - set your tinfoil hats down, Coinbase isn't trying to syphon traffic away from their competitors.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/332bcf1af3586969bdb18050243ab45b/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FReferral-Spam.png"></article>]]></description>
+            <link>http://bitcoinist.net/psa-coinbase-referral-spammer-uses-bitcoin-urls/</link>
+            <guid isPermaLink="false">7b732765-9ecd-489d-9c83-56cfd3cf8dbd</guid>
+            <pubDate>Tue, 23 Aug 2016 12:34:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How long would it take to go from almost zero programming / coding knowledge to developing my own cryptocurrency (based on a new blockcha...]]></title>
             <description><![CDATA[<article><h1>How long would it take to go from almost zero programming / coding knowledge to developing my own cryptocurrency (based on a new blockcha...</h1><p>Answer: Creating a new cryptocurrency is not a matter of programming anymore - you can just clone Bitcoin, tweak it a little, and you're done. The hard part is convincing people to start using it (if nobody uses it, it doesn't really matter that it exists). If you actually want to introduce new ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/87785482e71795662128073b8ca89052/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-3544-200-DDa210tdHWnSwW0GbWfobW5lRxdVxTS3.jpeg"></article>]]></description>
@@ -47,34 +75,6 @@
             <link>http://www.newsbtc.com/2016/08/23/rex-linux-trojan-turns-infected-machines-to-bitcoin-miners-unleashes-ddos-attacks/</link>
             <guid isPermaLink="false">06c8a711-d3c6-412b-a05a-c9bdf6ea9819</guid>
             <pubDate>Tue, 23 Aug 2016 12:34:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Verizon Files for Passcode Blockchain Patent]]></title>
-            <description><![CDATA[<article><h1>Verizon Files for Passcode Blockchain Patent</h1><p>Verizon Communications has filed a patent for a Blockchain technology for managing passcodes. The telecom giant, the largest in the US, filed the patent in May. The technology, apparently in development for years now, would deal with the management of digital rights.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/975a3c8e2216d651a45e991c085ac764/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xYTFmNzEwYTM2ZGQzZjYzZmM4NDc1NDY4ODU3Mzc2Zi5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/verizon-files-for-passcode-blockchain-patent</link>
-            <guid isPermaLink="false">d69346fc-bd4d-44de-b361-80fc4e5b870b</guid>
-            <pubDate>Tue, 23 Aug 2016 12:34:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Technical Analysis for 08/23/2016 - Bullish Channel Still in Play! - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Technical Analysis for 08/23/2016 - Bullish Channel Still in Play! - NEWSBTC</h1><p>Bitcoin price could be ready for another bounce off the channel support as the bullish trend goes on. Bitcoin Price Key Highlights Bitcoin price could be ready for another bounce off the channel support as the bullish trend goes on.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7ade1337a01ce7d1c06c71ca1ccfefd0/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F23033957%2F160823_bitcoin.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/23/bitcoin-price-technical-analysis-08232016-bullish-channel-still-play/</link>
-            <guid isPermaLink="false">c4029f48-7749-4053-8536-b01ab5c65db4</guid>
-            <pubDate>Tue, 23 Aug 2016 03:55:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Leading Dark Net Markets to Support Monero - Bitcoin News]]></title>
-            <description><![CDATA[<article><h1>Leading Dark Net Markets to Support Monero - Bitcoin News</h1><p>Privacy-centric cryptocurrency Monero (XMR) has been making waves in the community as of late. Most recently, it has been revealed that the digital currency will be used by leading Dark Net Markets. Also read: Mimblewimble Paper Proposes ' Near Complete' Bitcoin Anonymity on the Dark Net Markets (DNM) forum, Monero will be used by the According to a recent Reddit post Alphabay and Oasis marketplaces.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f95a5b4290a2ffbd42a0d8c9740eba42/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FLeading-Dark-Net-Markets-To-Support-Monero.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/leading-dark-net-markets-support-monero/</link>
-            <guid isPermaLink="false">41205140-fd77-4d3c-a6bf-d2765fedc2df</guid>
-            <pubDate>Tue, 23 Aug 2016 03:19:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is there a way to inherit bitcoin?]]></title>
-            <description><![CDATA[<article><h1>Is there a way to inherit bitcoin?</h1><p>What are the possible ways may father may have managed his bitcoin, and how can I find this out? How could I find out if he was using a third party to keep his bitcoin? I have no idea what I am looking for...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/48178/is-there-a-way-to-inherit-bitcoin</link>
-            <guid isPermaLink="false">df1fb602-c0e8-477e-83a2-a5c41ac4c2c6</guid>
-            <pubDate>Tue, 23 Aug 2016 03:19:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
