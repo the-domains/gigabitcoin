@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 23:04:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 23:05:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[[bitcoin-core-dev] Bitcoin Core 0.13.0 released]]></title>
+            <description><![CDATA[<article><h1>[bitcoin-core-dev] Bitcoin Core 0.13.0 released</h1><p>BEGIN PGP SIGNED MESSAGE----- Hash: SHA512 Bitcoin Core version 0.13.0 is now available from: Or through bittorrent: magnet:?xt=urn:btih:35367ed2db6c41f7af9c1ed2dd54ae29d99bc632&dn=bitcoin-core-0.13.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&ws=https%3A%2F%2Fbitcoin.org%2Fbin%2F This is a new major version release, including new features, various bugfixes and performance improvements, as well as updated translations.</p></article>]]></description>
+            <link>https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2016-August/000018.html</link>
+            <guid isPermaLink="false">f72d7e74-dfcd-4480-9676-bb21ba14281c</guid>
+            <pubDate>Tue, 23 Aug 2016 23:04:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[EB145 - Stephen King & Russell McLernon: Distrupting Real Estate With RexMLS - A Decentralized MLS]]></title>
             <description><![CDATA[<article><h1>EB145 - Stephen King & Russell McLernon: Distrupting Real Estate With RexMLS - A Decentralized MLS</h1><p>One of the sectors which is ripe for disruption is the real estate industry. In the US for instance, a handful of historic and very powerful players operate what is known as MLS, or Multiple Listing Services, and hold unofficial monopolies on residential and commercial real estate listings.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/684a9735307beaae135f96dda762b9dd/noop.jpg?input=https%3A%2F%2Fletstalkbitcoin.com%2Ffiles%2Fblogs%2F1900-90762a241258ab99ca426d81ddb2e322360d0622a1eed42db883fc35feef6d7f.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Ransomware is growing quickly but Chainalysis expects arrests soon</h1><p>It's no secret that crypto-ransomware has become a huge problem for cybersecurity over the last few years. The powerful tools typically encrypt files on an infected computer, and extort a bitcoin ransom from victims. In 2015, the Assistant Special Agent in Charge of the FBI's CYBER and Counterintelligence Program, Joseph Bonavolonta, said that " the ransomware is that good " that the agency "often advise people just to pay the ransom."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d0fcc98ff74078ca71562b60b96d2e40/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-Chainalysis-Banner.jpg"></article>]]></description>
             <link>http://bravenewcoin.com/news/ransomware-is-growing-quickly-but-chainalysis-expects-arrests-soon/</link>
             <guid isPermaLink="false">e7396f4c-d50a-4a31-95c4-c4d614913c87</guid>
-            <pubDate>Tue, 23 Aug 2016 12:34:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Poloniex To De-List 27 Altcoins - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>Poloniex To De-List 27 Altcoins - Bitcoinist.net</h1><p>Breaking: Poloniex has announced that 27 crypto markets will be de-listed from their cryptocurrency exchange on the 5th of September, 2016. Some of the de-listings are expected, like DAO, Dashcoin, and others less so - the most surprising being Mintcoin, with a market cap of 1.22 Million USD at the time of writing.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2863e4d9d6f75d17ba0c10a1872f0fdc/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FPoloSpash.png"></article>]]></description>
-            <link>http://bitcoinist.net/poloniex-to-de-list-27-altcoins/</link>
-            <guid isPermaLink="false">71604cc8-8066-44b4-9c82-c834d4a67d58</guid>
             <pubDate>Tue, 23 Aug 2016 12:34:42 GMT</pubDate>
         </item>
     </channel>
