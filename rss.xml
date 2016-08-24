@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 20:38:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 20:38:12 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Darknet Markets Finally Embracing A Bitcoin Alternative]]></title>
+            <description><![CDATA[<article><h1>Darknet Markets Finally Embracing A Bitcoin Alternative</h1><p>Two of the darknet's largest online black markets have announced plans to accept a new online currency that promises to be much more anonymous than bitcoin. This marks a coup of sorts for the new currency, called Monero.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b13e9a92150a156981203c3ff93c6841/noop.png?input=http%3A%2F%2Fmedia.vocativ.com%2Fphotos%2F2016%2F08%2F2016_08_23-Monero-Altbitcoin-ILL_facebook2257510490.png"></article>]]></description>
+            <link>http://www.vocativ.com/353221/darknet-markets-finally-embracing-a-bitcoin-alternative/</link>
+            <guid isPermaLink="false">f4974c74-7060-4ca3-9e72-7b82e20f55cf</guid>
+            <pubDate>Wed, 24 Aug 2016 20:38:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hype Cycle Peaks as ACI States Blockchain Can't Handle Financial Transactions at Scale]]></title>
+            <description><![CDATA[<article><h1>Hype Cycle Peaks as ACI States Blockchain Can't Handle Financial Transactions at Scale</h1><p>A recent study by Gartner has shown that blockchain has reached the 'peak of inflated expectations' phase of the hype cycle as the chief architect of ACI Worldwide states that the distributed ledger technology is not yet able to handle financial transactions at scale.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/97e0522e22b19a936b363457c9a26b4e/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2015%2F02%2Fblock-chain.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/blockchain-hype-cycle-financial-transactions-scale/</link>
+            <guid isPermaLink="false">54a15d51-69de-4b8c-8109-325be76b371f</guid>
+            <pubDate>Wed, 24 Aug 2016 20:38:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Settlement Coin Creators Seek to 'Liberalize' Central Banks With Blockchain - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Settlement Coin Creators Seek to 'Liberalize' Central Banks With Blockchain - CoinDesk</h1><p>Two resources available almost exclusively to central banks could soon be opened up to additional users as a result of a new digital currency project designed by a little-known startup and Swiss bank UBS.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b3b41c2e29b49e8719285e567744b20d/noop.png?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FScreen-Shot-2016-08-24-at-4.01.30-PM-e1472069039612.png"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.coindesk.com/mit-data-study-bitcoin-airdrop/</link>
             <guid isPermaLink="false">52c133a8-6fc2-4c3a-80a8-5635c1340fc1</guid>
             <pubDate>Wed, 24 Aug 2016 17:28:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Big banks buckle down to build better bitcoin]]></title>
-            <description><![CDATA[<article><h1>Big banks buckle down to build better bitcoin</h1><p>UBS, Deutsche Bank, Santander and BNY Mellon have partnered up to create a new digital currency to facilitate intra-bank settlements, the FT reports. The cryptocurrency will use blockchain technology underpinning the Bitcoin. The banks are working with London-based blockchain startup Clearmatics, and the official launch is expected in 2018, according to the media.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/813671c4d24498b94d1c05fdddd2f3ed/noop.jpg?input=https%3A%2F%2Fimg.rt.com%2Ffiles%2F2016.08%2Farticle%2F57bd7f98c36188a91b8b4608.jpg"></article>]]></description>
-            <link>https://www.rt.com/business/356992-big-banks-blockchain-bitcoin/</link>
-            <guid isPermaLink="false">bde337c6-7937-416f-ad8d-1fb83e8e6dae</guid>
-            <pubDate>Wed, 24 Aug 2016 17:28:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Exchange BTCTurk Terminates Operations in Turkey, Right After PayPal]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Exchange BTCTurk Terminates Operations in Turkey, Right After PayPal</h1><p>BTCTurk, a Turkish Bitcoin exchange which launched in July 2013, has finally terminated its operations in Turkey after local banks closed the main accounts of the company without prior notice.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/94e2c19c5be17811ebb60789425e4517/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yYjQxNWU1MzQ5NTUwMGY3NGM2NDZhZDViMWFlZWU2ZC5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/bitcoin-exchange-btcturk-terminates-operations-in-turkey-right-after-paypal</link>
-            <guid isPermaLink="false">b9972c45-a631-46ac-964a-7ceef8b11e95</guid>
-            <pubDate>Wed, 24 Aug 2016 17:28:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
