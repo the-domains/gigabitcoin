@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 12:35:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 12:36:00 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blockchain Startup Chronicled Launches Ethereum IoT Registry - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Blockchain Startup Chronicled Launches Ethereum IoT Registry - CoinDesk</h1><p>In an effort to build a standard for the emerging Internet of Things (IoT), Chronicled is open sourcing a tool for registering connected devices on the ethereum blockchain. Described as a "cross between Wikipedia and Carfax" for consumer goods, the platform will register the identities of near-field communication (NFC) and bluetooth low energy (BLE) chips, components of IoT that today allow smartphones to "talk" with other devices.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48d486782150d97e650264153a86a662/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Finternet-of-things-network-iot-e1472039228807.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/blockchain-startup-chronicled-launches-ethereum-iot-registry/</link>
+            <guid isPermaLink="false">f72aeaa1-5910-4cca-a60a-d43a4f3938c1</guid>
+            <pubDate>Wed, 24 Aug 2016 12:35:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Try Claymore's Dual Ethereum GPU Miner With Nvidia Support]]></title>
             <description><![CDATA[<article><h1>Try Claymore's Dual Ethereum GPU Miner With Nvidia Support</h1><p>Claymore's Dual Miner now offers support for both AMD and Nvidia GPUs for both Linux and Windows (binary only releases), so you can dual-mine Ethereum and SIA or DCR at the same time or only use the miner for Ethereum mining.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/152260204e04fa5e345fb1e9db491efb/noop.jpg?input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fclaymore-580x293.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>UK Financial Regulator Considers Approving Blockchain Startups</h1><p>The U.K.'s Financial Conduct Authority (FCA) is thinking about approving a number of blockchain companies as it actively encourages businesses to utilize bitcoin's underlying technology. Despite the fact that some regulators are cautious over the use of blockchain technology, the U.K.'s FCA is known as the most forward-thinking.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4a84656f41e3659e8ec557b278735004/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FUK-bridge.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/uk-regulator-considers-approving-blockchain-startups/</link>
             <guid isPermaLink="false">1096c8b0-5321-48c8-86bd-29acb4a40dbd</guid>
-            <pubDate>Tue, 23 Aug 2016 23:04:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitfinex to Compensate Customers With Equity, Cooperates with BnkToTheFuture]]></title>
-            <description><![CDATA[<article><h1>Bitfinex to Compensate Customers With Equity, Cooperates with BnkToTheFuture</h1><p>Bitfinex has announced that it has formally signed a letter of intent with the online investment platform BnkToTheFuture to provide solutions towards compensating customers with equity in Bitfinex. The BnkToTheFuture platform for financial innovation and technology investment opportunities will be providing a Special Purpose Vehicle (SPV) through which qualifying BFX token holders can contribute their tokens in exchange for an equity interest in compliance with their individual jurisdictions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/13f5e5b500f715e9f334bae68813d3ca/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85OGE3ZjkyN2RkYzQxMmYyOWNkMDExMDA3YWVjODYwZC5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/bitfinex-to-compensate-customers-with-equity-cooperates-with-bnktothefuture</link>
-            <guid isPermaLink="false">dc26067b-a8cc-4dd6-abf5-396ed5ec969e</guid>
             <pubDate>Tue, 23 Aug 2016 23:04:41 GMT</pubDate>
         </item>
     </channel>
