@@ -4,11 +4,25 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 14:31:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 14:32:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Would quantum computing be able to deanonymize CoinJoin transactions?]]></title>
+            <description><![CDATA[<article><h1>Would quantum computing be able to deanonymize CoinJoin transactions?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Using the worst case scenario of this question, namely: Bitcoin ECDSA algorithm would be broken.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/48205/would-quantum-computing-be-able-to-deanonymize-coinjoin-transactions</link>
+            <guid isPermaLink="false">c4b352fc-17d0-4794-b07b-e42fd3ea0f89</guid>
+            <pubDate>Wed, 24 Aug 2016 14:31:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Idea: Raise block limit to 32 MB * /r/btcfork]]></title>
+            <description><![CDATA[<article><h1>Idea: Raise block limit to 32 MB * /r/btcfork</h1><p>Why that specific number? So that we can claim priority over Core. 32 MB was the original block limit. 1 MB is the new. Using 32 MB represents...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
+            <link>https://reddit.com/r/btcfork/comments/4z7kcw/idea_raise_block_limit_to_32_mb/</link>
+            <guid isPermaLink="false">5a686ed1-1d1f-44dc-bda8-3f12cc7d4192</guid>
+            <pubDate>Wed, 24 Aug 2016 14:31:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bitcoin-Tech Firm Thinks This Name Can Unify Wall Street Behind Blockchain]]></title>
-            <description><![CDATA[<article><h1>Bitcoin-Tech Firm Thinks This Name Can Unify Wall Street Behind Blockchain</h1><p>R3 CEV, a startup working to build new Wall Street infrastructure using bitcoin technology, said it had filed for a patent this week and named its product Concord for the harmony it aims to build among more than 60 banks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87d8850d69f5062e6ec1e16420da105e49145b31.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>Bitcoin-Tech Firm Thinks This Name Can Unify Wall Street Behind Blockchain</h1><p>R3 CEV, a startup working to build new Wall Street infrastructure using bitcoin technology, said it had filed for a patent this week and named its product Concord for the harmony it aims to build among more than 60 banks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37e3bac33143b84ede37a3aa7e9c9e59f97e5c90.gif"></article>]]></description>
             <link>http://www.wsj.com/articles/bitcoin-tech-firm-thinks-this-name-can-unify-wall-street-behind-blockchain-1472044968</link>
             <guid isPermaLink="false">6b31916a-561c-49ad-b35a-f16967cdf75f</guid>
             <pubDate>Wed, 24 Aug 2016 14:31:45 GMT</pubDate>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>8 months ago, many people on r/btc (and on r/bitcoin) warned that Core's real goal with RBF was to eventually introduce "Full RBF". Those people got attacked with bogus arguments like "It's only Opt-In RBF, not Full RBF." But those people were right, and once again Core is lying and hurting Bitcoin. * /r/btc</h1><p>r/btc is full of posts about Bitcoin Core merging full RBF: But it didn't, the claim is fiction and makes us all look dumb *and* dishonest...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
             <link>https://www.reddit.com/r/btc/comments/4z7tr0/8_months_ago_many_people_on_rbtc_and_on_rbitcoin/</link>
             <guid isPermaLink="false">8e97e694-4e35-401a-b171-f795a8a58d3e</guid>
-            <pubDate>Wed, 24 Aug 2016 12:35:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What are bitcoins? What kind of transactions are made with it?]]></title>
-            <description><![CDATA[<article><h1>What are bitcoins? What kind of transactions are made with it?</h1><p>First off, living under a red sun as they did, Kryptonians functioned no differently than a human living on Earth. They didn't fly, have super strength, or manifest any of the other powers that Kal-El, aka Superman, manifests while living on Earth under the radiation of a yellow sun.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/87785482e71795662128073b8ca89052/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-3544-200-DDa210tdHWnSwW0GbWfobW5lRxdVxTS3.jpeg"></article>]]></description>
-            <link>https://www.quora.com/unanswered/What-are-bitcoins-What-kind-of-transactions-are-made-with-it</link>
-            <guid isPermaLink="false">ea582937-4a1a-496f-8a12-35fd63d15610</guid>
-            <pubDate>Wed, 24 Aug 2016 12:35:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What cryptographic methods do Bitcoin miners use to confirm the new transactions that come into the network?]]></title>
-            <description><![CDATA[<article><h1>What cryptographic methods do Bitcoin miners use to confirm the new transactions that come into the network?</h1><p>hotel inspector is probably one of the best in the world. Why? Because one gets paid for living the good life! Hotel inspectors travel from one place to another and check in hotels in the guise of a regular customer. They dine at the hotel's restaurant; get to try out the services of the hotel's spa, gym and the bar.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/292c8dbcbaa2cd963d79d2fe224458d4/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-1512-200-FtHsXDiOzxE3YlDGtXcRIdIRWIobW2k0.jpeg"></article>]]></description>
-            <link>https://www.quora.com/unanswered/What-cryptographic-methods-do-Bitcoin-miners-use-to-confirm-the-new-transactions-that-come-into-the-network</link>
-            <guid isPermaLink="false">42d04934-d78f-415b-ae1c-9c44c7663b17</guid>
             <pubDate>Wed, 24 Aug 2016 12:35:34 GMT</pubDate>
         </item>
     </channel>
