@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 17:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 17:28:46 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kazakhstan Warms Towards Bitcoin as Local Currency Freefalls]]></title>
+            <description><![CDATA[<article><h1>Kazakhstan Warms Towards Bitcoin as Local Currency Freefalls</h1><p>Kazakhstan's national fiat currency, the Tenge, has been falling for decades, recently, hitting a record low. Meanwhile, interest in Bitcoin is growing, and volumes have been steadily rising in the Central Asian country. Also read: France's Third Largest Bus Company Accepts Bitcoin The Central Asian country was the last Soviet republic to declare independence back in 1991 when the Berlin Wall fell.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/281d17d09ac367fec28a9d17360f09c7/noop.png?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FKazakhstan.png"></article>]]></description>
+            <link>https://news.bitcoin.com/kazakhstan-bitcoin-local-currency-fall/</link>
+            <guid isPermaLink="false">9ddbbc39-580e-4947-8e51-f16af91865ea</guid>
+            <pubDate>Wed, 24 Aug 2016 17:28:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[YoCoin Transforms into an Ethereum Based Cryptocurrency Asset with Smart Contract Applications]]></title>
+            <description><![CDATA[<article><h1>YoCoin Transforms into an Ethereum Based Cryptocurrency Asset with Smart Contract Applications</h1><p>August 23, 2016 Bangkok, Thailand - The peer to peer digital currency, YoCoin is now an Ethereum based asset. With this latest development, one of the world's fastest growing cryptocurrency now has smart contract applications as well. Formerly based on the Scrypt mining algorithm, YoCoin now enables smart contracts with a wide range of applications.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2cfd9ab4b6c06d48e2e0f4272f2de291/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F24175150%2FYoCoin.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/24/yocoin-transforms-ethereum-based-cryptocurrency-asset-smart-contract-applications/</link>
+            <guid isPermaLink="false">4104e724-a310-4174-a589-52f91dcfe3a8</guid>
+            <pubDate>Wed, 24 Aug 2016 17:28:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BlockPay Cryptocurrency Payments Company Announces its ICO in Association with OpenLedger]]></title>
             <description><![CDATA[<article><h1>BlockPay Cryptocurrency Payments Company Announces its ICO in Association with OpenLedger</h1><p>August 23, 2016 Blokhus, Denmark - BlockPay is a young blockchain based FinTech company from Munich that helps businesses with fast and simple payment processing services. The platform supports most cryptocurrencies. BlockPay is solving most of the security and business risks through modern Blockchain technologies and helps business around the world to accept digital payments for free.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/664398cff6338426abe9126de7aabf3a/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F24174358%2FBlockPay-1.png"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Industry Report: Asia Continues to Dominate in Bitcoin and Beyond</h1><p>Sales in China grow as Asia dominates ecommerce, a new form of malware finds its way onto Mac computers, and you'd better not visit a blocked site in India. Want to catch up on your latest digital currency news? Check out the stories below.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b9331799aff0d02618f3e6ac60d31d4b/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F06%2FIndustry-Report-Cover-Bitcoin-Logo.jpg"></article>]]></description>
             <link>http://bitcoinist.net/industry-report-asia-ecommerce/</link>
             <guid isPermaLink="false">e1246b05-36e9-4507-abc4-59b3831bda0d</guid>
-            <pubDate>Wed, 24 Aug 2016 14:31:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-help-cannabis-industry/</link>
-            <guid isPermaLink="false">cc32d530-7562-41b5-9b8c-30f26379debd</guid>
-            <pubDate>Wed, 24 Aug 2016 14:31:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Would quantum computing be able to deanonymize CoinJoin transactions?]]></title>
-            <description><![CDATA[<article><h1>Would quantum computing be able to deanonymize CoinJoin transactions?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top Using the worst case scenario of this question, namely: Bitcoin ECDSA algorithm would be broken.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/48205/would-quantum-computing-be-able-to-deanonymize-coinjoin-transactions</link>
-            <guid isPermaLink="false">c4b352fc-17d0-4794-b07b-e42fd3ea0f89</guid>
             <pubDate>Wed, 24 Aug 2016 14:31:46 GMT</pubDate>
         </item>
     </channel>
