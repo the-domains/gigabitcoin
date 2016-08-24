@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 12:36:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 12:36:06 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[XCOINS.IO Cuts the Wait out of Getting Bitcoin]]></title>
+            <description><![CDATA[<article><h1>XCOINS.IO Cuts the Wait out of Getting Bitcoin</h1><p>Menlo Park, CA, August 22, 2016 - xCoins.io announces the official launch of its innovative peer-to-peer bitcoin platform after three months of beta testing. Peer-to-peer bitcoin trading websites have become very popular with bitcoin buyers, because they provide what most bitcoin exchanges do not, quick access to bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dacf624823b935ffb5b1159143ae6e31/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wNGNkNDZhMDhmZjExOGVlMmRlNDUyMmI1ZmFiMTYwOC5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/xcoinsio-cuts-the-wait-out-of-getting-bitcoin</link>
+            <guid isPermaLink="false">3a2e30dd-ae3b-4238-b0cd-f3e19c93a494</guid>
+            <pubDate>Wed, 24 Aug 2016 12:35:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Coinbase's GDAX Exchange Adds Litecoin, Price Spikes 10%]]></title>
             <description><![CDATA[<article><h1>Coinbase's GDAX Exchange Adds Litecoin, Price Spikes 10%</h1><p>Cryptocurrency exchange GDAX (Coinbase) has Also read: Shapeshift Transforms KeepKey Hardware Wallet into an Exchange announced it is now supporting Litecoin (LTC) trading. via Twitter that "tomorrow's going to be a good day."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/222648f54d5a2d5c14b15666d7605aea/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FLTCGDAX.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://bitcoin.stackexchange.com/questions/48090/how-to-solve-blockchain-20-address-gap-limit-problem</link>
             <guid isPermaLink="false">43bba26b-2807-4569-bab2-cec4c6cf2167</guid>
             <pubDate>Tue, 23 Aug 2016 23:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[If This Video Doesn't Make You Want Bitcoin, Nothing Will]]></title>
-            <description><![CDATA[<article><h1>If This Video Doesn't Make You Want Bitcoin, Nothing Will</h1><p>One particular YouTube video perfectly sums up how the economy works. And if it doesn't make you want to buy bitcoins (or wish you had more), then perhaps nothing will.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/eb7f8fed3535b252cba0f07b15a6635f/croprotate.jpg?cropheight=533&cropwidth=829&degrees=0&input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FThe-Blue-Pill-or-The-Red-Pill-CanStock-csp8420421-950x533.jpg&x=64&y=0"></article>]]></description>
-            <link>https://news.bitcoin.com/video-want-bitcoin-nothing-will/</link>
-            <guid isPermaLink="false">37921ce5-0434-47d4-adb7-f38975785091</guid>
-            <pubDate>Tue, 23 Aug 2016 23:04:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
