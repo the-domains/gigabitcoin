@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 17:29:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 17:29:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[R3 Files Patent Application for Distributed Ledger Tech - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>R3 Files Patent Application for Distributed Ledger Tech - CoinDesk</h1><p>New York startup R3CEV is reportedly attempting to patent a blockchain-inspired financial platform. According to The Wall Street Journal , a patent filing for a software product dubbed "Concord" took place earlier this week. The startup is said to be aiming for a 2017 launch of the platform, with initial testing taking place later this year.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1478045c47b2aa6c19af7fdb6febbf11/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fpatent-trademark-e1472052003285.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/r3-patent-distributed-ledger-concord/</link>
+            <guid isPermaLink="false">120d3372-ce70-444d-ba4b-61354fd74f63</guid>
+            <pubDate>Wed, 24 Aug 2016 17:28:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin distracts from the real value of blockchain]]></title>
             <description><![CDATA[<article><h1>Bitcoin distracts from the real value of blockchain</h1><p>If you are looking at bitcoin, you may be at risk of not seeing the full potential of blockchain. Bitcoin is somewhat of a distraction from the value blockchain may deliver to commerce globally; bitcoin creates a blind spot for executives seeking a view of the future.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/579090e640b6206255363b2b7897204f/noop.jpg?input=http%3A%2F%2Fcore0.staticworld.net%2Fimages%2Farticle%2F2016%2F08%2Fblockchain-101-etwaru-100678491-large970.idge.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.newsbtc.com/2016/08/24/6-reasons-make-casino-deposits-bitcoin-canada/</link>
             <guid isPermaLink="false">4ba7f753-83e5-413a-993e-1d7c77d6182e</guid>
             <pubDate>Wed, 24 Aug 2016 17:28:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Four Major Banks Plan to Create Their Own Cryptocurrency - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Four Major Banks Plan to Create Their Own Cryptocurrency - NEWSBTC</h1><p>Four major international banks have joined forces to create their own cryptocurrency capable of facilitating transactions between branches. Read more... Few major international banks may soon have their own cryptocurrency. According to a recent media report, the banks that are initially going to be part of this initiative includes UBS, BNY Mellon, Deutsche Bank and Banco Santander.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/292f84972b08e9f39c4dbb2dcc53ed8c/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F07%2F18131837%2Fshutterstock_282867155.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/24/four-major-banks-to-create-own-cryptocurrency/</link>
-            <guid isPermaLink="false">81c41e42-20a3-48b4-a373-4459ae7ff535</guid>
-            <pubDate>Wed, 24 Aug 2016 14:31:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
