@@ -4,13 +4,20 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 17:28:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 17:29:02 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bitwala Launches New Wallet: Bills and POS All in One]]></title>
             <description><![CDATA[<article><h1>Bitwala Launches New Wallet: Bills and POS All in One</h1><p>Bitwala, the service that lets EU citizens pay their bills in bitcoin - as well as offering a bitcoin debit card - has recently announced its new Bitwala Bitcoin Wallet service. This new wallet integrates both of their existing services into the same platform, reportedly making the whole process of paying bills and topping up a debit card with bitcoin a lot smoother and easier.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/78e93c3a323a3849695b7fe0ce6b35b4632729af.jpg"></article>]]></description>
             <link>http://bitcoinist.net/bitwala-bills-bitcoin-wallet/</link>
             <guid isPermaLink="false">c3739833-4d4a-4ab0-a7a8-4d4981ca871f</guid>
+            <pubDate>Wed, 24 Aug 2016 17:28:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitwala Launches Bitcoin Wallet - How Safe Is It?]]></title>
+            <description><![CDATA[<article><h1>Bitwala Launches Bitcoin Wallet - How Safe Is It?</h1><p>Though BitGo was the wallet software used by Bitfinex who lost $60m of its customers' funds, Bitwala says it will still work with the provider as it launches its wallet services. Bitwala has added a Bitcoin wallet onto its platform to allow users to pay and send Bitcoins from within the Bitwala site through seamless website integration.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ff293fc8443ba6dd203149c959d943bd/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84ZjdmOGRlZDkyN2M2NGU5NDhjOWMxODQwNWZkMTE2MC5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/bitwala-launches-bitcoin-wallet-how-safe-is-it</link>
+            <guid isPermaLink="false">5a47be75-5f54-48f3-8823-66cb0bcc13b6</guid>
             <pubDate>Wed, 24 Aug 2016 17:28:11 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin's Blockchain Could Save London's Banks After Brexit</h1><p>Bitcoin's Blockchain Could Save London's Banks After Brexit As many readers already know from previous articles, I am skeptical about the idea that Brexit would leave the U.K. economy relatively unharmed.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cefe8f9b6cfde3bbb6d8b56e41ca434c/noop.jpg?input=http%3A%2F%2Frealmoney.thestreet.com%2Fsites%2Frealmoney.thestreet.com%2Ffiles%2Farticle_images%2Fdc0c51e2e2b3ef93e923911cf11013e1.jpg"></article>]]></description>
             <link>http://realmoney.thestreet.com/articles/08/24/2016/bitcoins-blockchain-could-save-londons-banks-after-brexit</link>
             <guid isPermaLink="false">a6363f7a-91ca-4753-aab6-91527af4c63a</guid>
-            <pubDate>Wed, 24 Aug 2016 14:31:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitseed Bitcoin Web UI Lets Node Owners Set Minimum Transaction Relay Fees]]></title>
-            <description><![CDATA[<article><h1>Bitseed Bitcoin Web UI Lets Node Owners Set Minimum Transaction Relay Fees</h1><p>Running a Bitcoin node on the network is not overly difficult, assuming one has the hardware to do so. Although there is no monetary incentive to do so, supporting the network in a decentralized way is very important. Bitseed has released a new Bitcoin web UI for their plug-and-play node solutions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5d4570fefc44121d371015b0bab07752/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_444173719.jpg"></article>]]></description>
-            <link>http://themerkle.com/bitseed-bitcoin-web-ui-lets-node-owners-set-minimum-transaction-relay-fees/</link>
-            <guid isPermaLink="false">cb961cab-9280-45b3-a576-312ee21b8cab</guid>
             <pubDate>Wed, 24 Aug 2016 14:31:46 GMT</pubDate>
         </item>
     </channel>
