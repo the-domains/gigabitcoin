@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 17:29:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 20:38:03 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[R3 Consortium Files Patent Application For Concord Platform]]></title>
+            <description><![CDATA[<article><h1>R3 Consortium Files Patent Application For Concord Platform</h1><p>Most people know the R3 Consortium for their blockchain efforts. A project called Corda was announced not too long ago, which acts as a permissioned distributed ledger. Ever since, the team has been working on their first patent application, called Concord. This is a universal software platform which will be commercialised in the coming months.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/11017e479fd812717f826bad844f625b/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_417916438.jpg"></article>]]></description>
+            <link>http://themerkle.com/r3-consortium-files-patent-application-for-concord-platform/</link>
+            <guid isPermaLink="false">b414c978-33c1-4f49-8820-4e7e39b6ac9d</guid>
+            <pubDate>Wed, 24 Aug 2016 20:38:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Big banks push new digital currency to rival bitcoin]]></title>
+            <description><![CDATA[<article><h1>Big banks push new digital currency to rival bitcoin</h1><p>Watch out, Bitcoin! Wall Street is gunning for you. Swiss bank UBS is leading a team of four of the world's biggest banks developing a system to enable financial markets to make payments and settle transactions quickly using blockchain technology.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6632d134ab3bbe50b58844a0abf09fd1/noop.jpg?input=https%3A%2F%2Fthenypost.files.wordpress.com%2F2016%2F08%2F160824-clinton-nation-sale-feature.jpg%3Fquality%3D90%26strip%3Dall"></article>]]></description>
+            <link>http://nypost.com/2016/08/24/big-banks-push-new-digital-currency-to-rival-bitcoin/</link>
+            <guid isPermaLink="false">baf0a740-ce65-47aa-b826-81408c1df2ba</guid>
+            <pubDate>Wed, 24 Aug 2016 17:28:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitstamp to Add Support for LedgerHQ and BitcoinTrezor Wallets]]></title>
             <description><![CDATA[<article><h1>Bitstamp to Add Support for LedgerHQ and BitcoinTrezor Wallets</h1><p>According to a tweet by Nejc Kodrič, co-founder and CEO of the European Bitcoin exchange Bitstamp, his team is working on adding support for LedgerHQ and BitcoinTrezor. Vasja Zupan, Bitstamp 's Head of Business Development, confirms this information. Zupan explains to CoinTelegraph that it is a pilot program which will be used to test the response of the users of the exchange.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/90991567faa0e3461f53dfc6c9c93da7/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wY2I0ZGFmMzc1YzhlMmNhNDQ1MjUxNjc3N2M0NDAwMC5qcGc%3D.jpg"></article>]]></description>
@@ -15,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[How a Cryptographer Named After Harry Potter's Archenemy is Helping Solve Bitcoin's Biggest Problems - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>How a Cryptographer Named After Harry Potter's Archenemy is Helping Solve Bitcoin's Biggest Problems - CoinDesk</h1><p>In what could become the latest strange-but-true chapter in bitcoin's history, an anonymous cryptographer named after Harry Potter's arch nemesis has put forth a proposal experts believe could help solve major issues facing the network. Authored by 'Tom Elvis Jedusor' (Voldemort's name in the French versions of the book), the Harry Potter references in the paper don't stop there.</p><img src="https://media.coindesk.com/uploads/2016/08/Voldemort.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>How a Cryptographer Named After Harry Potter's Archenemy is Helping Solve Bitcoin's Biggest Problems - CoinDesk</h1><p>In what could become the latest strange-but-true chapter in bitcoin's history, an anonymous cryptographer named after Harry Potter's arch nemesis has put forth a proposal experts believe could help solve major issues facing the network. Authored by 'Tom Elvis Jedusor' (Voldemort's name in the French versions of the book), the Harry Potter references in the paper don't stop there.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e3b653ea3d6652b943471849717a4b4f/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FVoldemort.jpg"></article>]]></description>
             <link>http://www.coindesk.com/cryptographer-voldemort-bitcoin-scaling/</link>
             <guid isPermaLink="false">c019ee6b-d82f-4b08-9734-a9ab9bc40311</guid>
             <pubDate>Wed, 24 Aug 2016 17:28:26 GMT</pubDate>
@@ -61,20 +75,6 @@
             <link>http://imgur.com/7vx0Y4H</link>
             <guid isPermaLink="false">deb75753-9d87-4df9-bbe5-9abda7e0b779</guid>
             <pubDate>Wed, 24 Aug 2016 17:28:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[R3 Files Patent Application for Distributed Ledger Tech - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>R3 Files Patent Application for Distributed Ledger Tech - CoinDesk</h1><p>New York startup R3CEV is reportedly attempting to patent a blockchain-inspired financial platform. According to The Wall Street Journal , a patent filing for a software product dubbed "Concord" took place earlier this week. The startup is said to be aiming for a 2017 launch of the platform, with initial testing taking place later this year.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1478045c47b2aa6c19af7fdb6febbf11/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fpatent-trademark-e1472052003285.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/r3-patent-distributed-ledger-concord/</link>
-            <guid isPermaLink="false">120d3372-ce70-444d-ba4b-61354fd74f63</guid>
-            <pubDate>Wed, 24 Aug 2016 17:28:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin distracts from the real value of blockchain]]></title>
-            <description><![CDATA[<article><h1>Bitcoin distracts from the real value of blockchain</h1><p>If you are looking at bitcoin, you may be at risk of not seeing the full potential of blockchain. Bitcoin is somewhat of a distraction from the value blockchain may deliver to commerce globally; bitcoin creates a blind spot for executives seeking a view of the future.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/579090e640b6206255363b2b7897204f/noop.jpg?input=http%3A%2F%2Fcore0.staticworld.net%2Fimages%2Farticle%2F2016%2F08%2Fblockchain-101-etwaru-100678491-large970.idge.jpg"></article>]]></description>
-            <link>http://www.cio.com/article/3110606/leadership-management/bitcoin-distracts-from-the-real-value-of-blockchain.html</link>
-            <guid isPermaLink="false">85b1c2b9-2788-4ed6-bcce-d3ab8565a734</guid>
-            <pubDate>Wed, 24 Aug 2016 17:28:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
