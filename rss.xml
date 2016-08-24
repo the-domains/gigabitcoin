@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 17:29:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 17:29:03 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price At The Final Slump?]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price At The Final Slump?</h1><p>Bitcoin price continues slumping as the smaller timeframe chart indicators continue to swing wildly. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member? Join now. Time of analysis: 13h00 UTC Wednesday From the analysis pages of xbt.social, earlier today: The chart signals are mixed.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/04c52ff7c5e453fe6029f833bfcce21a/noop.png?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FSelection_20160824_002.png"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-price-final-slump/</link>
+            <guid isPermaLink="false">a5d2a1d5-f4a9-4f71-9536-d32ee61ee406</guid>
+            <pubDate>Wed, 24 Aug 2016 17:28:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitwala Launches New Wallet: Bills and POS All in One]]></title>
             <description><![CDATA[<article><h1>Bitwala Launches New Wallet: Bills and POS All in One</h1><p>Bitwala, the service that lets EU citizens pay their bills in bitcoin - as well as offering a bitcoin debit card - has recently announced its new Bitwala Bitcoin Wallet service. This new wallet integrates both of their existing services into the same platform, reportedly making the whole process of paying bills and topping up a debit card with bitcoin a lot smoother and easier.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/78e93c3a323a3849695b7fe0ce6b35b4632729af.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Enterprises Lose US$209m To Ransomware In First Half of 2016</h1><p>Distribution of this malware is showing signs of innovation as well. Criminals have been switching between exploit kits, spam campaigns, and social engineering attacks to secure their payday. The topic of ransomware never seems to be far away these days. Online threats are a significant concern for both individual users and enterprises around the world.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3cf08a019d5107355e5c72ff0238045c/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F24131645%2Fshutterstock_370784456.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/08/24/enterprises-lose-us209m-ransomware-first-half-2016/</link>
             <guid isPermaLink="false">26eb5de6-b692-488d-8852-afddbff92340</guid>
-            <pubDate>Wed, 24 Aug 2016 14:31:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin's Blockchain Could Save London's Banks After Brexit]]></title>
-            <description><![CDATA[<article><h1>Bitcoin's Blockchain Could Save London's Banks After Brexit</h1><p>Bitcoin's Blockchain Could Save London's Banks After Brexit As many readers already know from previous articles, I am skeptical about the idea that Brexit would leave the U.K. economy relatively unharmed.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cefe8f9b6cfde3bbb6d8b56e41ca434c/noop.jpg?input=http%3A%2F%2Frealmoney.thestreet.com%2Fsites%2Frealmoney.thestreet.com%2Ffiles%2Farticle_images%2Fdc0c51e2e2b3ef93e923911cf11013e1.jpg"></article>]]></description>
-            <link>http://realmoney.thestreet.com/articles/08/24/2016/bitcoins-blockchain-could-save-londons-banks-after-brexit</link>
-            <guid isPermaLink="false">a6363f7a-91ca-4753-aab6-91527af4c63a</guid>
             <pubDate>Wed, 24 Aug 2016 14:31:46 GMT</pubDate>
         </item>
     </channel>
