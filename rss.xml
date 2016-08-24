@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 12:35:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 12:35:52 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Try Claymore's Dual Ethereum GPU Miner With Nvidia Support]]></title>
+            <description><![CDATA[<article><h1>Try Claymore's Dual Ethereum GPU Miner With Nvidia Support</h1><p>Claymore's Dual Miner now offers support for both AMD and Nvidia GPUs for both Linux and Windows (binary only releases), so you can dual-mine Ethereum and SIA or DCR at the same time or only use the miner for Ethereum mining.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/152260204e04fa5e345fb1e9db491efb/noop.jpg?input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fclaymore-580x293.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/8225-try-claymores-dual-ethereum-gpu-miner-with-nvidia-support/</link>
+            <guid isPermaLink="false">8c97c6fe-9fa3-49c1-af27-ca0757236736</guid>
+            <pubDate>Wed, 24 Aug 2016 12:35:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[4 Major Banks Confirm They Are Building Bitcoin-like Digital Currency]]></title>
             <description><![CDATA[<article><h1>4 Major Banks Confirm They Are Building Bitcoin-like Digital Currency</h1><p>You would think that the centralized banking powers, with the practical legal rights to literally print money for themselves, would have the wherewithal to be at the cutting edge of all forms of technology.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3837469864c06ad60be388411d3fe57b/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy80YmQwODQ3MWU0MjA1YTU1NDRjOWNmYTcwZmZkZWY4OC5qcGc%3D.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitfinex to Compensate Customers With Equity, Cooperates with BnkToTheFuture</h1><p>Bitfinex has announced that it has formally signed a letter of intent with the online investment platform BnkToTheFuture to provide solutions towards compensating customers with equity in Bitfinex. The BnkToTheFuture platform for financial innovation and technology investment opportunities will be providing a Special Purpose Vehicle (SPV) through which qualifying BFX token holders can contribute their tokens in exchange for an equity interest in compliance with their individual jurisdictions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/13f5e5b500f715e9f334bae68813d3ca/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85OGE3ZjkyN2RkYzQxMmYyOWNkMDExMDA3YWVjODYwZC5qcGc%3D.jpg"></article>]]></description>
             <link>https://cointelegraph.com/news/bitfinex-to-compensate-customers-with-equity-cooperates-with-bnktothefuture</link>
             <guid isPermaLink="false">dc26067b-a8cc-4dd6-abf5-396ed5ec969e</guid>
-            <pubDate>Tue, 23 Aug 2016 23:04:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South African Central Bank 'Open' to Blockchain and Cryptocurrency - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>South African Central Bank 'Open' to Blockchain and Cryptocurrency - CoinDesk</h1><p>In a speech today at a cybersecurity conference held in Johannesburg, governor Lesetja Kganyago indicated that the South African Reserve Bank is exploring the technology and interested in innovations that may stem from its development.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f06ee4664f45ae4958d99c28e7c21a39/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FSouth-Africa.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/south-africas-central-bank-says-open-cryptocurrencies/</link>
-            <guid isPermaLink="false">c8a507c1-7f8c-4c3f-bf7e-8d3bb7a86504</guid>
             <pubDate>Tue, 23 Aug 2016 23:04:41 GMT</pubDate>
         </item>
     </channel>
