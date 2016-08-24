@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 14:31:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 14:31:59 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin-Tech Firm Thinks This Name Can Unify Wall Street Behind Blockchain]]></title>
+            <description><![CDATA[<article><h1>Bitcoin-Tech Firm Thinks This Name Can Unify Wall Street Behind Blockchain</h1><p>R3 CEV, a startup working to build new Wall Street infrastructure using bitcoin technology, said it had filed for a patent this week and named its product Concord for the harmony it aims to build among more than 60 banks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87d8850d69f5062e6ec1e16420da105e49145b31.gif"></article>]]></description>
+            <link>http://www.wsj.com/articles/bitcoin-tech-firm-thinks-this-name-can-unify-wall-street-behind-blockchain-1472044968</link>
+            <guid isPermaLink="false">6b31916a-561c-49ad-b35a-f16967cdf75f</guid>
+            <pubDate>Wed, 24 Aug 2016 14:31:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[First Success For No More Ransom Initiative As Wildfire Ransomware Server Is Shut Down]]></title>
             <description><![CDATA[<article><h1>First Success For No More Ransom Initiative As Wildfire Ransomware Server Is Shut Down</h1><p>A small victory has been achieved in the ongoing war against ransomware attacks. Dutch police officials managed to shut down a network which primarily targeted users in Belgium and The Netherlands. Despite their best efforts, a total of 5,800 devices has been infected by Wildfire over the past few months, resulting in a financial loss of 70,000 EUR.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dc917b18cccaaeeec30d92800d55524f/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_433275991.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.quora.com/unanswered/What-cryptographic-methods-do-Bitcoin-miners-use-to-confirm-the-new-transactions-that-come-into-the-network</link>
             <guid isPermaLink="false">42d04934-d78f-415b-ae1c-9c44c7663b17</guid>
             <pubDate>Wed, 24 Aug 2016 12:35:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Do Facebook credits and bitcoins have RBI approval?]]></title>
-            <description><![CDATA[<article><h1>Do Facebook credits and bitcoins have RBI approval?</h1><p>Answer: Don't know about Facebook Credits, but Bitcoin is under study by RBI and hopefully they will soon pass a Regulation on Bitcoins. See what RBI Governor Mr. Raghuram Rajan say about bitcoin: https://www.youtube.com/watch?v=AfRY02vm0yE</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1ed358d78e349a319ac6e21a8f1cbf31/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-custom-t-1375-600x315-klqgywtqixuyrabxjgyeoxgoidgopjzc.jpeg"></article>]]></description>
-            <link>https://www.quora.com/Do-Facebook-credits-and-bitcoins-have-RBI-approval</link>
-            <guid isPermaLink="false">0b38fb56-19cf-4d9c-9e3f-323d321a51fd</guid>
-            <pubDate>Wed, 24 Aug 2016 12:35:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
