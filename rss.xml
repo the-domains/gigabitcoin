@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 17:28:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 17:28:36 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BlockPay Cryptocurrency Payments Company Announces its ICO in Association with OpenLedger]]></title>
+            <description><![CDATA[<article><h1>BlockPay Cryptocurrency Payments Company Announces its ICO in Association with OpenLedger</h1><p>August 23, 2016 Blokhus, Denmark - BlockPay is a young blockchain based FinTech company from Munich that helps businesses with fast and simple payment processing services. The platform supports most cryptocurrencies. BlockPay is solving most of the security and business risks through modern Blockchain technologies and helps business around the world to accept digital payments for free.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/664398cff6338426abe9126de7aabf3a/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F24174358%2FBlockPay-1.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/24/blockpay-cryptocurrency-payments-company-announces-ico-association-openledger/</link>
+            <guid isPermaLink="false">9e4e1337-87f8-4fd5-8e1c-8bbce6252c6c</guid>
+            <pubDate>Wed, 24 Aug 2016 17:28:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[World's First Bitcoin-Based Oil Market Launched - Will It Be A Success?]]></title>
             <description><![CDATA[<article><h1>World's First Bitcoin-Based Oil Market Launched - Will It Be A Success?</h1><p>Every country needs US dollars if it wants to buy crude oil. This may soon change as a market selling crude oil for Bitcoin has emerged. The term 'petrodollar' has been thrown around since the 1970s. Dollars for oil have been the principal source of earning for many oil producing nations in the Middle East, as well as in other parts of the world.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/01a4bfc19baa2e270e89f0152cb0077a/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iYzhmOGI5MDczZjdhOGI3ODk3YjUzZjEzYTZiMzkxNi5qcGc%3D.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://bitcoin.stackexchange.com/questions/48205/would-quantum-computing-be-able-to-deanonymize-coinjoin-transactions</link>
             <guid isPermaLink="false">c4b352fc-17d0-4794-b07b-e42fd3ea0f89</guid>
             <pubDate>Wed, 24 Aug 2016 14:31:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Idea: Raise block limit to 32 MB * /r/btcfork]]></title>
-            <description><![CDATA[<article><h1>Idea: Raise block limit to 32 MB * /r/btcfork</h1><p>Why that specific number? So that we can claim priority over Core. 32 MB was the original block limit. 1 MB is the new. Using 32 MB represents...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
-            <link>https://reddit.com/r/btcfork/comments/4z7kcw/idea_raise_block_limit_to_32_mb/</link>
-            <guid isPermaLink="false">5a686ed1-1d1f-44dc-bda8-3f12cc7d4192</guid>
-            <pubDate>Wed, 24 Aug 2016 14:31:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
