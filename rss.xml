@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 17:28:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 17:28:51 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitwala Launches New Wallet: Bills and POS All in One]]></title>
+            <description><![CDATA[<article><h1>Bitwala Launches New Wallet: Bills and POS All in One</h1><p>Bitwala, the service that lets EU citizens pay their bills in bitcoin - as well as offering a bitcoin debit card - has recently announced its new Bitwala Bitcoin Wallet service. This new wallet integrates both of their existing services into the same platform, reportedly making the whole process of paying bills and topping up a debit card with bitcoin a lot smoother and easier.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/78e93c3a323a3849695b7fe0ce6b35b4632729af.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/bitwala-bills-bitcoin-wallet/</link>
+            <guid isPermaLink="false">c3739833-4d4a-4ab0-a7a8-4d4981ca871f</guid>
+            <pubDate>Wed, 24 Aug 2016 17:28:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kazakhstan Warms Towards Bitcoin as Local Currency Freefalls]]></title>
+            <description><![CDATA[<article><h1>Kazakhstan Warms Towards Bitcoin as Local Currency Freefalls</h1><p>Kazakhstan's national fiat currency, the Tenge, has been falling for decades, recently, hitting a record low. Meanwhile, interest in Bitcoin is growing, and volumes have been steadily rising in the Central Asian country. Also read: France's Third Largest Bus Company Accepts Bitcoin The Central Asian country was the last Soviet republic to declare independence back in 1991 when the Berlin Wall fell.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/281d17d09ac367fec28a9d17360f09c7/noop.png?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FKazakhstan.png"></article>]]></description>
+            <link>https://news.bitcoin.com/kazakhstan-bitcoin-local-currency-fall/</link>
+            <guid isPermaLink="false">9ddbbc39-580e-4947-8e51-f16af91865ea</guid>
+            <pubDate>Wed, 24 Aug 2016 17:28:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[YoCoin Transforms into an Ethereum Based Cryptocurrency Asset with Smart Contract Applications]]></title>
             <description><![CDATA[<article><h1>YoCoin Transforms into an Ethereum Based Cryptocurrency Asset with Smart Contract Applications</h1><p>August 23, 2016 Bangkok, Thailand - The peer to peer digital currency, YoCoin is now an Ethereum based asset. With this latest development, one of the world's fastest growing cryptocurrency now has smart contract applications as well. Formerly based on the Scrypt mining algorithm, YoCoin now enables smart contracts with a wide range of applications.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2cfd9ab4b6c06d48e2e0f4272f2de291/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F24175150%2FYoCoin.png"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Bitseed Bitcoin Web UI Lets Node Owners Set Minimum Transaction Relay Fees</h1><p>Running a Bitcoin node on the network is not overly difficult, assuming one has the hardware to do so. Although there is no monetary incentive to do so, supporting the network in a decentralized way is very important. Bitseed has released a new Bitcoin web UI for their plug-and-play node solutions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5d4570fefc44121d371015b0bab07752/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_444173719.jpg"></article>]]></description>
             <link>http://themerkle.com/bitseed-bitcoin-web-ui-lets-node-owners-set-minimum-transaction-relay-fees/</link>
             <guid isPermaLink="false">cb961cab-9280-45b3-a576-312ee21b8cab</guid>
-            <pubDate>Wed, 24 Aug 2016 14:31:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Industry Report: Asia Continues to Dominate in Bitcoin and Beyond]]></title>
-            <description><![CDATA[<article><h1>Industry Report: Asia Continues to Dominate in Bitcoin and Beyond</h1><p>Sales in China grow as Asia dominates ecommerce, a new form of malware finds its way onto Mac computers, and you'd better not visit a blocked site in India. Want to catch up on your latest digital currency news? Check out the stories below.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b9331799aff0d02618f3e6ac60d31d4b/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F06%2FIndustry-Report-Cover-Bitcoin-Logo.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/industry-report-asia-ecommerce/</link>
-            <guid isPermaLink="false">e1246b05-36e9-4507-abc4-59b3831bda0d</guid>
-            <pubDate>Wed, 24 Aug 2016 14:31:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-help-cannabis-industry/</link>
-            <guid isPermaLink="false">cc32d530-7562-41b5-9b8c-30f26379debd</guid>
             <pubDate>Wed, 24 Aug 2016 14:31:46 GMT</pubDate>
         </item>
     </channel>
