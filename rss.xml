@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 12:36:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 12:36:07 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Litecoin Price Surges as GDAX Adds Litecoin-Dollar Trading]]></title>
+            <description><![CDATA[<article><h1>Litecoin Price Surges as GDAX Adds Litecoin-Dollar Trading</h1><p>GDAX, the cryptocurrency exchange used by Coinbase, has added Litecoin for dollar trading, causing a surge in its price. The new integration means that customers will be able trade Litcoin, both for Bitcoin and directly for US dollars. GDAX announced the implementation in a blog post: "Litecoin trading is now available on GDAX.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3ec65d268f8eef0dda654b71ef12a0e9/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wZDZiMTI3OWZhYWI3ZDM4ZDBiOWJmNjQyZDVmOGNkZC5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/litecoin-price-surges-as-gdax-adds-litecoin-dollar-trading</link>
+            <guid isPermaLink="false">c01372e5-fe7f-4599-9e5c-f263a2af7fad</guid>
+            <pubDate>Wed, 24 Aug 2016 12:35:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[XCOINS.IO Cuts the Wait out of Getting Bitcoin]]></title>
             <description><![CDATA[<article><h1>XCOINS.IO Cuts the Wait out of Getting Bitcoin</h1><p>Menlo Park, CA, August 22, 2016 - xCoins.io announces the official launch of its innovative peer-to-peer bitcoin platform after three months of beta testing. Peer-to-peer bitcoin trading websites have become very popular with bitcoin buyers, because they provide what most bitcoin exchanges do not, quick access to bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dacf624823b935ffb5b1159143ae6e31/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wNGNkNDZhMDhmZjExOGVlMmRlNDUyMmI1ZmFiMTYwOC5qcGc%3D.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>New MIT Research Hints At Tenfold Wi-Fi Speed Increase</h1><p>The majority of people in the world with access to the Internet use either mobile data, or a Wi-Fi connection. Even though a hard-wired connection will increase speeds significantly, things have been evolving in the right direction. Most wireless connections are well capable of doing the tasks we need.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/511415d4a10f1d518be7aac6ea5b6f81/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_367057418.jpg"></article>]]></description>
             <link>http://themerkle.com/new-mit-research-hints-at-tenfold-wi-fi-speed-increase/</link>
             <guid isPermaLink="false">f34d3971-c5f4-443b-9454-7a7fd26e60d5</guid>
-            <pubDate>Tue, 23 Aug 2016 23:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to solve Blockchain 20 address gap-limit problem?]]></title>
-            <description><![CDATA[<article><h1>How to solve Blockchain 20 address gap-limit problem?</h1><p>Yes the gap is an issue with the HD wallet. Blockchain made a blog post about working with this issue. See here: https://blog.blockchain.com/2016/06/15/receive-payments-api-update-address-gap-limits/#more-9024 Let's say you get paid to the first address, address 1 - the wallet will look ahead 2-21 addresses to see if there are any additional funds or transaction history in those addresses.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/48090/how-to-solve-blockchain-20-address-gap-limit-problem</link>
-            <guid isPermaLink="false">43bba26b-2807-4569-bab2-cec4c6cf2167</guid>
             <pubDate>Tue, 23 Aug 2016 23:04:42 GMT</pubDate>
         </item>
     </channel>
