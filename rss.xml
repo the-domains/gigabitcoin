@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 12:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 12:36:01 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coinbase's GDAX Exchange Adds Litecoin, Price Spikes 10%]]></title>
+            <description><![CDATA[<article><h1>Coinbase's GDAX Exchange Adds Litecoin, Price Spikes 10%</h1><p>Cryptocurrency exchange GDAX (Coinbase) has Also read: Shapeshift Transforms KeepKey Hardware Wallet into an Exchange announced it is now supporting Litecoin (LTC) trading. via Twitter that "tomorrow's going to be a good day."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/222648f54d5a2d5c14b15666d7605aea/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FLTCGDAX.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/gdax-exchange-litecoin-price-spikes/</link>
+            <guid isPermaLink="false">fc9fb9f1-9aab-4013-9e0c-7c5f84b7498f</guid>
+            <pubDate>Wed, 24 Aug 2016 12:35:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blockchain Startup Chronicled Launches Ethereum IoT Registry - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Blockchain Startup Chronicled Launches Ethereum IoT Registry - CoinDesk</h1><p>In an effort to build a standard for the emerging Internet of Things (IoT), Chronicled is open sourcing a tool for registering connected devices on the ethereum blockchain. Described as a "cross between Wikipedia and Carfax" for consumer goods, the platform will register the identities of near-field communication (NFC) and bluetooth low energy (BLE) chips, components of IoT that today allow smartphones to "talk" with other devices.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48d486782150d97e650264153a86a662/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Finternet-of-things-network-iot-e1472039228807.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>If This Video Doesn't Make You Want Bitcoin, Nothing Will</h1><p>One particular YouTube video perfectly sums up how the economy works. And if it doesn't make you want to buy bitcoins (or wish you had more), then perhaps nothing will.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/eb7f8fed3535b252cba0f07b15a6635f/croprotate.jpg?cropheight=533&cropwidth=829&degrees=0&input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FThe-Blue-Pill-or-The-Red-Pill-CanStock-csp8420421-950x533.jpg&x=64&y=0"></article>]]></description>
             <link>https://news.bitcoin.com/video-want-bitcoin-nothing-will/</link>
             <guid isPermaLink="false">37921ce5-0434-47d4-adb7-f38975785091</guid>
-            <pubDate>Tue, 23 Aug 2016 23:04:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK Financial Regulator Considers Approving Blockchain Startups]]></title>
-            <description><![CDATA[<article><h1>UK Financial Regulator Considers Approving Blockchain Startups</h1><p>The U.K.'s Financial Conduct Authority (FCA) is thinking about approving a number of blockchain companies as it actively encourages businesses to utilize bitcoin's underlying technology. Despite the fact that some regulators are cautious over the use of blockchain technology, the U.K.'s FCA is known as the most forward-thinking.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4a84656f41e3659e8ec557b278735004/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FUK-bridge.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/uk-regulator-considers-approving-blockchain-startups/</link>
-            <guid isPermaLink="false">1096c8b0-5321-48c8-86bd-29acb4a40dbd</guid>
             <pubDate>Tue, 23 Aug 2016 23:04:41 GMT</pubDate>
         </item>
     </channel>
