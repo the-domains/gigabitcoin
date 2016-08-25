@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 01:00:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 01:00:05 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wall Street Goes Blockchain With Factom, Intrinio - Bitcoin News]]></title>
+            <description><![CDATA[<article><h1>Wall Street Goes Blockchain With Factom, Intrinio - Bitcoin News</h1><p>Blockchain-based data management platform, Also read: Dept of Homeland Security Awards $200K to Factom for ID System has announced its partnership with an application and financial data provider. The duo plans on putting Wall Street on the Factom blockchain to provide immutable and transparent US stock market data for the first time in history.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/38c6f2d6923927f73df4b23d89705bb4/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FWall-Street-Data-To-Be-Held-On-The-Factom-Blockchain.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/wall-street-data-held-factom-blockchain/</link>
+            <guid isPermaLink="false">2f2bbab7-ab8b-40bf-876d-07d47b0fc439</guid>
+            <pubDate>Thu, 25 Aug 2016 00:59:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Send BTC with Electrum: which address is used?]]></title>
             <description><![CDATA[<article><h1>Send BTC with Electrum: which address is used?</h1><p>Great question, I've always wondered this too. But im pretty sure that Electrum, by default, will send your oldest unspent outputs first. (Sorry if example is a little repetitive) E.g.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Watch; Stop Loss Hit - Onwards! - NEWSBTC</h1><p>Here's a look at what we are focusing on in the bitcoin price this evening. So that's it for the day - the European markets have now drawn to a close, and it's time to take a look at the second of our twice daily bitcoin price analyses.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/602ae878193e86439d31432b07900348/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F24193610%2FScreen-Shot-2016-08-24-at-20.29.27.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/08/24/bitcoin-price-watch-stop-loss-hit-onwards/</link>
             <guid isPermaLink="false">5c21058a-3ec0-410e-9bc8-a12cfd269097</guid>
-            <pubDate>Wed, 24 Aug 2016 20:38:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Master all things Bitcoin with Bit.Yoga, now 86% off]]></title>
-            <description><![CDATA[<article><h1>Master all things Bitcoin with Bit.Yoga, now 86% off</h1><p>Stay Connected with Us! Follow TechnoBuffalo We've all heard of Bitcoin, but it's safe to say precious few of us have ever actually dealt extensively with it. Bitcoin is essentially digital money you can use to pay for goods and services directly to another Bitcoin user, with no banks or middlemen in between.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c7f3ac1693d0060c83de1993ca722b80/noop.jpg?input=http%3A%2F%2Fwww.technobuffalo.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fbityoga-630x473.jpg"></article>]]></description>
-            <link>http://www.technobuffalo.com/2016/08/24/bit-yoga-discount-86-off/</link>
-            <guid isPermaLink="false">074aac67-0644-4978-b151-0dada636bded</guid>
             <pubDate>Wed, 24 Aug 2016 20:38:01 GMT</pubDate>
         </item>
     </channel>
