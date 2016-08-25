@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 16:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 16:18:06 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Exchange BTCTürk Halts Operations in Turkey]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Exchange BTCTürk Halts Operations in Turkey</h1><p>Turkish bitcoin exchange BTCTürk, operational since 2013 has been forced to cease its operations in Turkey after failing to find support from local banks, the last of whom terminated BTCTürk's banking account. Turkey's sole bitcoin exchange, BTCTürk, has revealed that it is left with no choice but to stop operations in the country after failure to find a banking partner willing to work with the bitcoin exchange.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aaa7f6e07077a0d2942848424b0d0863/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FLight-bulb-offline.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-exchange-btcturk-halts-operations-turkey/</link>
+            <guid isPermaLink="false">304f0d92-52d1-4659-b097-b4fbe3f0f3c6</guid>
+            <pubDate>Thu, 25 Aug 2016 16:17:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Russian Officials and Businesses Discuss Cryptocurrencies]]></title>
             <description><![CDATA[<article><h1>Russian Officials and Businesses Discuss Cryptocurrencies</h1><p>Wednesday, August 24 - A meeting dedicated to the place for blockchain technology in Russia and possibility of its nation-wide implementation was held in Moscow, at the Russian president administration HQ, with the state internet counsellor German Klimenko as the chairman.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/891f7c05694cce153d11f715b2127eb3/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F07%2F11.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Move out of the way, Bitcoin: Here come the banking heavyweights</h1><p>By now, you've probably heard of Bitcoin. What you may not know is that an increasing number of banks are looking for ways to take advantage of blockchain, the technology that powers it, while steering clear of the cryptocurrency itself.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9c333ace10d206f28bbba6541f6195a2/noop.jpg?input=https%3A%2F%2Fs.thestreet.com%2Ffiles%2Ftsc%2Fv2008%2Fphotos%2Fcontrib%2Fuploads%2Fvalerie-young-headshot.JPG"></article>]]></description>
             <link>https://www.thestreet.com/story/13684362/1/move-out-of-the-way-bitcoin-here-come-the-banking-heavyweights.html</link>
             <guid isPermaLink="false">80db89d7-b5c1-44df-aff5-dd00251a9f3d</guid>
-            <pubDate>Thu, 25 Aug 2016 16:17:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The State of Smart Contracts: Mistakes, Benefits and the Tao Project]]></title>
-            <description><![CDATA[<article><h1>The State of Smart Contracts: Mistakes, Benefits and the Tao Project</h1><p>Tao, a new smart contracts platform, has risen to challenge Ethereum, Lisk, Ardor, and other similar projects. On a market which is undergoing rapid change and growth, recently disturbed by The DAO attack, Tao makes a bet on stable, sustained growth and long-term value.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b6bdafcfaa4f25824d62f72d538afa90/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84NTY2MTE5Yjk1NjA5MjgwNDVjZDI1NDk4MGNjYmRkYi5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/the-state-of-smart-contracts-mistakes-benefits-and-the-tao-project</link>
-            <guid isPermaLink="false">66f936ea-0994-49f5-a9f6-8c8d98fe33bf</guid>
             <pubDate>Thu, 25 Aug 2016 16:17:16 GMT</pubDate>
         </item>
     </channel>
