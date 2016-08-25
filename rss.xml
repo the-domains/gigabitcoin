@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 16:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 16:17:47 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The State of Smart Contracts: Mistakes, Benefits and the Tao Project]]></title>
+            <description><![CDATA[<article><h1>The State of Smart Contracts: Mistakes, Benefits and the Tao Project</h1><p>Tao, a new smart contracts platform, has risen to challenge Ethereum, Lisk, Ardor, and other similar projects. On a market which is undergoing rapid change and growth, recently disturbed by The DAO attack, Tao makes a bet on stable, sustained growth and long-term value.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b6bdafcfaa4f25824d62f72d538afa90/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84NTY2MTE5Yjk1NjA5MjgwNDVjZDI1NDk4MGNjYmRkYi5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/the-state-of-smart-contracts-mistakes-benefits-and-the-tao-project</link>
+            <guid isPermaLink="false">66f936ea-0994-49f5-a9f6-8c8d98fe33bf</guid>
+            <pubDate>Thu, 25 Aug 2016 16:17:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SEC Opens Winklevoss Bitcoin Trust Filing for Public Comment - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>SEC Opens Winklevoss Bitcoin Trust Filing for Public Comment - CoinDesk</h1><p>Investors Tyler and Cameron Winklevoss are another step closer to offering the first Securities and Exchange Commission (SEC) regulated bitcoin investment product following a request for comment published Friday. Last month, BATS proposed a rule change that would result in the listing and trading of the Winklevoss Bitcoin Shares issued by the Winklevoss Bitcoin Trust.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/74bf0ba7894ff99392d846debba33059/noop.png?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F07%2FScreen-Shot-2016-07-11-at-1.46.20-PM-e1468259537590.png"></article>]]></description>
+            <link>http://www.coindesk.com/sec-winklevoss-bitcoin-trust-public-comment/?v=2</link>
+            <guid isPermaLink="false">da7178de-97d6-44a8-bce6-b50909c141f2</guid>
+            <pubDate>Thu, 25 Aug 2016 16:17:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What is Bitcoin Backed By?]]></title>
             <description><![CDATA[<article><h1>What is Bitcoin Backed By?</h1><p>Wondering what bitcoin is backed by? The answer is nothing at all, but that's actually not a bad thing. Like most modern currencies bitcoin is not backed by gold or other precious commodities. In a sense, bitcoin's value is derived from our common belief that bitcoin has value.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b35ec74a5a81bef948d381eb05cf6eda/noop.jpg?input=https%3A%2F%2F99bitcoins.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_424543219.jpg"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Send BTC with Electrum: which address is used?</h1><p>Great question, I've always wondered this too. But im pretty sure that Electrum, by default, will send your oldest unspent outputs first. (Sorry if example is a little repetitive) E.g.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/48244/send-btc-with-electrum-which-address-is-used</link>
             <guid isPermaLink="false">e641ea9e-db82-47b9-b811-c4a84ca133eb</guid>
-            <pubDate>Thu, 25 Aug 2016 00:59:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who will play the role of miners (or nodes) in non-financial blockchain and how they get benefitted?]]></title>
-            <description><![CDATA[<article><h1>Who will play the role of miners (or nodes) in non-financial blockchain and how they get benefitted?</h1><p>Answer: Miners and Nodes in a blockchain are not a Who question, but a what question. A better way of thinking about mining nodes & the software is to compare them to something like a network firewall software on your modem. All they do is run on the devices.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/80b1aa101e41ccfcae999444d2c3324a/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-474217-200-zwcxhtgvljaxgmzkvklgejzxtnlxqjxc.jpeg"></article>]]></description>
-            <link>https://www.quora.com/Who-will-play-the-role-of-miners-or-nodes-in-non-financial-blockchain-and-how-they-get-benefitted</link>
-            <guid isPermaLink="false">51d233d1-d027-44e9-b139-01b55d998ef4</guid>
-            <pubDate>Thu, 25 Aug 2016 00:59:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Moscow Government to Explore Blockchain Voting - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Moscow Government to Explore Blockchain Voting - CoinDesk</h1><p>Government officials in Moscow today revealed plans to investigate applications of blockchain technology. According to a report by , Deputy Head of the Department of Information Technologies (DIT) of Moscow Andrey Belozerov said that the agency is exploring how to apply blockchain to various use cases, including voting fraud.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a3c48a1dc696a99eb9a8c6512f08e1f0/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Ftrain-moscow-russia-e1472080152770.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/moscow-russia-government-blockchain-voting/</link>
-            <guid isPermaLink="false">8102137b-1b30-4d1a-98f3-c544134da2f6</guid>
             <pubDate>Thu, 25 Aug 2016 00:59:49 GMT</pubDate>
         </item>
     </channel>
