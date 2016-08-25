@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 16:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 16:17:51 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="https://4.bp.blogspot.com/-JrNqe9Ufa_I/Vw5xWCp-4uI/AAAAAAAAAX0/NubTbcVMGkUsOLvn4r3GkV3oL6Yl8pDAACPcB/s1600/HTBannerOrange.png"></article>]]></description>
+            <link>https://4.bp.blogspot.com/-JrNqe9Ufa_I/Vw5xWCp-4uI/AAAAAAAAAX0/NubTbcVMGkUsOLvn4r3GkV3oL6Yl8pDAACPcB/s1600/HTBannerOrange.png</link>
+            <guid isPermaLink="false">9c186e70-bd4a-418f-9c81-64af89d890f9</guid>
+            <pubDate>Thu, 25 Aug 2016 16:17:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Monero's 200% Gain On Darknet Marketplace Adoption]]></title>
             <description><![CDATA[<article><h1>Monero's 200% Gain On Darknet Marketplace Adoption</h1><p>The popular crypto-currency Monero has increased approximately 200% over the past week as darknet marketplaces have adopted the currency. The cryptocurrency, formerly BitMonero, focuses on privacy and scalability as its two main use-cases. The recent gains bring the Monero market cap to more than $20 million.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c1137ebaaf7d0c14375132039259a5fc/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F03%2FDarknet.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.quora.com/What-are-the-best-resources-for-blockchain-news</link>
             <guid isPermaLink="false">decce8a6-5955-4be8-b5e9-9530d3caf3ad</guid>
             <pubDate>Thu, 25 Aug 2016 00:59:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How do I add blockchain's latest transaction widget to my html5 site?]]></title>
-            <description><![CDATA[<article><h1>How do I add blockchain's latest transaction widget to my html5 site?</h1><p>This question needs editing to be improved. It may need to be reworded as a fully formed question, need spelling, grammar, or formatting improved (learn more about formatting on Quora), be ambiguous or difficult to understand, be too reliant on question details, be directed at a specific person, or overly verbose.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fede90402bb8f0e09be643e724115652/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-custom-t-788-600x315-pitawsfglqjondnjfdmgqqsnbnracpcv.jpeg"></article>]]></description>
-            <link>https://www.quora.com/unanswered/How-do-I-add-blockchains-latest-transaction-widget-to-my-html5-site</link>
-            <guid isPermaLink="false">13154ef0-dd31-4d87-a7cb-5e54f08c854b</guid>
-            <pubDate>Thu, 25 Aug 2016 00:59:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
