@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 16:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 16:17:43 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is Bitcoin Backed By?]]></title>
+            <description><![CDATA[<article><h1>What is Bitcoin Backed By?</h1><p>Wondering what bitcoin is backed by? The answer is nothing at all, but that's actually not a bad thing. Like most modern currencies bitcoin is not backed by gold or other precious commodities. In a sense, bitcoin's value is derived from our common belief that bitcoin has value.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b35ec74a5a81bef948d381eb05cf6eda/noop.jpg?input=https%3A%2F%2F99bitcoins.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_424543219.jpg"></article>]]></description>
+            <link>https://99bitcoins.com/what-is-bitcoin-backed-by/</link>
+            <guid isPermaLink="false">69a7550d-97f9-4a9f-8fde-1a1f6018024e</guid>
+            <pubDate>Thu, 25 Aug 2016 16:17:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chronicled Launches Open Registry for Consumer IoT on Ethereum Blockchain]]></title>
             <description><![CDATA[<article><h1>Chronicled Launches Open Registry for Consumer IoT on Ethereum Blockchain</h1><p>Blockchain startup Chronicled has launched the first of its kind 'open registry for Internet of Things' on the Ethereum blockchain, enabled via NFC and BLE microchips. Heralding the new open registry as a major leap in the growth and interoperability of the consumer Internet of Things, Chronicled announced the open source project under the Apache License.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9f6540e5735644fcaa9d37178b7d631b/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FEthereum.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.coindesk.com/moscow-russia-government-blockchain-voting/</link>
             <guid isPermaLink="false">8102137b-1b30-4d1a-98f3-c544134da2f6</guid>
             <pubDate>Thu, 25 Aug 2016 00:59:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DECENT Software Sale Major Update Announced]]></title>
-            <description><![CDATA[<article><h1>DECENT Software Sale Major Update Announced</h1><p>With just a couple of weeks left to go until the DECENT Software Sale starts, DECENT Content Distribution Platform announced its decision to adjust token distribution and the overall amount of tokens to be issued. According to the DECENT team, while the decision is a strategic one, it was made after taking into consideration "many suggestions from the community" as well.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d51721d87105cdb9a5cd0f2a15dc7c39/noop.jpeg?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F08%2F1-Guvb7pllMDsBOY4o6xta0w.jpeg"></article>]]></description>
-            <link>http://forklog.net/decent-software-sale-major-update-announced/</link>
-            <guid isPermaLink="false">a1a46577-95d2-4f1e-bc94-3c7098aa1336</guid>
-            <pubDate>Wed, 24 Aug 2016 20:38:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
