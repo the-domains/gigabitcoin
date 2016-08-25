@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 16:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 16:17:54 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Monetary Authority of Singapore Proposes Unified License For Payment Service Providers]]></title>
-            <description><![CDATA[<article><h1>Monetary Authority of Singapore Proposes Unified License For Payment Service Providers</h1><p>The payment sector is very prone to innovation and disruption right now. However, the most novel ideas will face regulatory hurdles at some point, which can hinder future growth. Singapore wants to streamline the regulatory framework to accommodate new payment innovations. Additionally, a National Payments Council will be established to create common standards between competing services.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c3300cf61b1761c55b215552c3c392a8/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_254352697.jpg"></article>]]></description>
-            <link>http://themerkle.com/monetary-authority-of-singapore-proposes-unified-license-for-payment-service-providers/</link>
-            <guid isPermaLink="false">e1553640-7ee8-4fe1-acf3-b61c4ceaac75</guid>
-            <pubDate>Thu, 25 Aug 2016 16:17:17 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bank of Tokyo works on a Blockchain project with Hitachi | HolyTransaction]]></title>
             <description><![CDATA[<article><h1>Bank of Tokyo works on a Blockchain project with Hitachi | HolyTransaction</h1><p>Bank of Tokyo works on a blockchain project to manage electronic check together with tech giant Hitachi. Asiatic magazine Nikkei reports that in the next few days there will be further trials, and that the full version could be released in 2018.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/71d3ba60f2a42e37d6505107ac8ced8d/noop.jpg?input=https%3A%2F%2F4.bp.blogspot.com%2F-_7C2TgPHw74%2FV77hGqUmJBI%2FAAAAAAAAAt8%2FXBxEY-hcuNoQhj0iz04uzeFiBYxyf5uSwCLcB%2Fw1200-h630-p-nu%2F600eb6612b31632f6c618c9c012d873d_XL.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://www.coindesk.com/bitcoin-privacy-advances-first-coinshuffle-transaction/</link>
             <guid isPermaLink="false">8dc7bec7-361d-4b4d-942c-5beb1f0f862e</guid>
             <pubDate>Thu, 25 Aug 2016 16:17:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Blockchain Change Power Industry?]]></title>
+            <description><![CDATA[<article><h1>Can Blockchain Change Power Industry?</h1><p>These days, there are more and more news on implementation of blockchain technology in power industry, namely in renewable sources of power (RESOPs). Last April two Brooklyn-based guys have used Ethereum's blockchain to effect transactions enabling one of them to directly sell electric power to the other.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1f9c05f918cfa73e6d052bc7c66625ed/noop.jpg?input=http%3A%2F%2Fforklog.com%2Fwp-content%2Fuploads%2F384011728-768x511.jpg"></article>]]></description>
+            <link>http://forklog.net/can-blockchain-change-power-industry/</link>
+            <guid isPermaLink="false">4441e311-d1bb-495c-a737-f21696dd6e9a</guid>
+            <pubDate>Thu, 25 Aug 2016 00:59:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
