@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 00:59:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 01:00:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Send BTC with Electrum: which address is used?]]></title>
+            <description><![CDATA[<article><h1>Send BTC with Electrum: which address is used?</h1><p>Great question, I've always wondered this too. But im pretty sure that Electrum, by default, will send your oldest unspent outputs first. (Sorry if example is a little repetitive) E.g.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/48244/send-btc-with-electrum-which-address-is-used</link>
+            <guid isPermaLink="false">e641ea9e-db82-47b9-b811-c4a84ca133eb</guid>
+            <pubDate>Thu, 25 Aug 2016 00:59:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Who will play the role of miners (or nodes) in non-financial blockchain and how they get benefitted?]]></title>
             <description><![CDATA[<article><h1>Who will play the role of miners (or nodes) in non-financial blockchain and how they get benefitted?</h1><p>Answer: Miners and Nodes in a blockchain are not a Who question, but a what question. A better way of thinking about mining nodes & the software is to compare them to something like a network firewall software on your modem. All they do is run on the devices.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/80b1aa101e41ccfcae999444d2c3324a/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-474217-200-zwcxhtgvljaxgmzkvklgejzxtnlxqjxc.jpeg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Master all things Bitcoin with Bit.Yoga, now 86% off</h1><p>Stay Connected with Us! Follow TechnoBuffalo We've all heard of Bitcoin, but it's safe to say precious few of us have ever actually dealt extensively with it. Bitcoin is essentially digital money you can use to pay for goods and services directly to another Bitcoin user, with no banks or middlemen in between.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c7f3ac1693d0060c83de1993ca722b80/noop.jpg?input=http%3A%2F%2Fwww.technobuffalo.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fbityoga-630x473.jpg"></article>]]></description>
             <link>http://www.technobuffalo.com/2016/08/24/bit-yoga-discount-86-off/</link>
             <guid isPermaLink="false">074aac67-0644-4978-b151-0dada636bded</guid>
-            <pubDate>Wed, 24 Aug 2016 20:38:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Darknet Markets Finally Embracing A Bitcoin Alternative]]></title>
-            <description><![CDATA[<article><h1>Darknet Markets Finally Embracing A Bitcoin Alternative</h1><p>Two of the darknet's largest online black markets have announced plans to accept a new online currency that promises to be much more anonymous than bitcoin. This marks a coup of sorts for the new currency, called Monero.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b13e9a92150a156981203c3ff93c6841/noop.png?input=http%3A%2F%2Fmedia.vocativ.com%2Fphotos%2F2016%2F08%2F2016_08_23-Monero-Altbitcoin-ILL_facebook2257510490.png"></article>]]></description>
-            <link>http://www.vocativ.com/353221/darknet-markets-finally-embracing-a-bitcoin-alternative/</link>
-            <guid isPermaLink="false">f4974c74-7060-4ca3-9e72-7b82e20f55cf</guid>
             <pubDate>Wed, 24 Aug 2016 20:38:01 GMT</pubDate>
         </item>
     </channel>
