@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 16:50:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 16:50:35 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Poll: Should businesses buy Bitcoin? - TechRepublic]]></title>
+            <description><![CDATA[<article><h1>Poll: Should businesses buy Bitcoin? - TechRepublic</h1><p>From futuristic startups to crazy ransomware Bitcoin and the blockchain are here to stay. Should business buy and trade Bitcoin? Take our poll and share your opinion about virtual currency.</p></article>]]></description>
+            <link>http://www.techrepublic.com/article/poll-should-businesses-buy-bitcoin/</link>
+            <guid isPermaLink="false">acb98d7f-e82d-4c90-b2e7-01453d90ab06</guid>
+            <pubDate>Thu, 25 Aug 2016 16:50:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Majority of Global Exchanges Now Testing Distributed Ledger Tech - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Majority of Global Exchanges Now Testing Distributed Ledger Tech - CoinDesk</h1><p>A global trade organization for financial exchanges released a new report today on distributed ledgers, highlighting concerns industry incumbents have regarding the technology. Twenty-four firms, constituting exchanges, central securities depositories and central counterparties, collectively dubbed "financial market infrastructures", or FMIs, took part in the survey, published by the World Federation of Exchanges (WFE).</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/298e517dc01bd703354965049a5019b7/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Ftools-graphs-measure-e1472139528883.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.quora.com/unanswered/How-do-I-analyse-and-visualize-bitcoin-real-time-data</link>
             <guid isPermaLink="false">ae79eba9-e887-4616-a53e-9f4c0478abcb</guid>
             <pubDate>Thu, 25 Aug 2016 16:17:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australia Post Plan for Blockchain Voting by 2017]]></title>
-            <description><![CDATA[<article><h1>Australia Post Plan for Blockchain Voting by 2017</h1><p>The Australian government-owned Australia Post has unveiled plans that it will conduct tests through digital voting via the blockchain technology in a bid to reduce costs and improve efficiency. The plans have been met with criticism from a prominent privacy consultant.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f8aa1b8dfe2f17c32b26a8af988c1540/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FAustralia-post.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/australia-post-plan-blockchain-voting-2017/</link>
-            <guid isPermaLink="false">a0916b9b-6436-43de-9a15-4fb89e2adeea</guid>
-            <pubDate>Thu, 25 Aug 2016 16:17:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
