@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 16:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 16:17:59 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DOJ's Ovie Carroll: "Tor Helps Protect Sensitive User Information"]]></title>
+            <description><![CDATA[<article><h1>DOJ's Ovie Carroll: "Tor Helps Protect Sensitive User Information"</h1><p>Tor has been the subject of a lot of scrutiny over the years. Various government officials frown upon anonymity software for Internet usage. At the same time, the DOJ's Ovie Carroll is a strong advocate of using Tor to protect personal information. An exciting clash of visions, but also a positive sign for the Tor project.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/177e8a7f61f7750cdf8fdde7d6371d9c/noop.png?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2FTor.png"></article>]]></description>
+            <link>http://themerkle.com/dojs-ovie-carroll-tor-helps-protect-sensitive-user-information/</link>
+            <guid isPermaLink="false">aa2ed038-ad70-478d-9307-d4fa3fa1a50b</guid>
+            <pubDate>Thu, 25 Aug 2016 16:17:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blockpay Lets Businesses Accept 8 Major Cryptos at Zero-Cost]]></title>
             <description><![CDATA[<article><h1>Blockpay Lets Businesses Accept 8 Major Cryptos at Zero-Cost</h1><p>Bitcoin.com recently chatted with Christoph Hering of Also read: Coinbase's GDAX Exchange Adds Litecoin, Price Spikes 10% Blockpay Bitcoin.com (BC): Can you tell our readers what BlockPay is? . Hering is an entrepreneur and the co-founder of Bitshares Munich.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6adb8bc0d1782070b684535f5831739b/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_369985658.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>What is Bitcoin Backed By?</h1><p>Wondering what bitcoin is backed by? The answer is nothing at all, but that's actually not a bad thing. Like most modern currencies bitcoin is not backed by gold or other precious commodities. In a sense, bitcoin's value is derived from our common belief that bitcoin has value.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b35ec74a5a81bef948d381eb05cf6eda/noop.jpg?input=https%3A%2F%2F99bitcoins.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_424543219.jpg"></article>]]></description>
             <link>https://99bitcoins.com/what-is-bitcoin-backed-by/</link>
             <guid isPermaLink="false">69a7550d-97f9-4a9f-8fde-1a1f6018024e</guid>
-            <pubDate>Thu, 25 Aug 2016 16:17:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chronicled Launches Open Registry for Consumer IoT on Ethereum Blockchain]]></title>
-            <description><![CDATA[<article><h1>Chronicled Launches Open Registry for Consumer IoT on Ethereum Blockchain</h1><p>Blockchain startup Chronicled has launched the first of its kind 'open registry for Internet of Things' on the Ethereum blockchain, enabled via NFC and BLE microchips. Heralding the new open registry as a major leap in the growth and interoperability of the consumer Internet of Things, Chronicled announced the open source project under the Apache License.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9f6540e5735644fcaa9d37178b7d631b/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2FEthereum.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/chronicled-launches-open-registry-consumer-iot-ethereum-blockchain/</link>
-            <guid isPermaLink="false">a1b081af-00c4-4a75-bc3a-a06064413ba9</guid>
             <pubDate>Thu, 25 Aug 2016 16:17:16 GMT</pubDate>
         </item>
     </channel>
