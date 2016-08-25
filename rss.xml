@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 00:59:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 00:59:56 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Who will play the role of miners (or nodes) in non-financial blockchain and how they get benefitted?]]></title>
+            <description><![CDATA[<article><h1>Who will play the role of miners (or nodes) in non-financial blockchain and how they get benefitted?</h1><p>Answer: Miners and Nodes in a blockchain are not a Who question, but a what question. A better way of thinking about mining nodes & the software is to compare them to something like a network firewall software on your modem. All they do is run on the devices.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/80b1aa101e41ccfcae999444d2c3324a/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-474217-200-zwcxhtgvljaxgmzkvklgejzxtnlxqjxc.jpeg"></article>]]></description>
+            <link>https://www.quora.com/Who-will-play-the-role-of-miners-or-nodes-in-non-financial-blockchain-and-how-they-get-benefitted</link>
+            <guid isPermaLink="false">51d233d1-d027-44e9-b139-01b55d998ef4</guid>
+            <pubDate>Thu, 25 Aug 2016 00:59:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Moscow Government to Explore Blockchain Voting - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Moscow Government to Explore Blockchain Voting - CoinDesk</h1><p>Government officials in Moscow today revealed plans to investigate applications of blockchain technology. According to a report by , Deputy Head of the Department of Information Technologies (DIT) of Moscow Andrey Belozerov said that the agency is exploring how to apply blockchain to various use cases, including voting fraud.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a3c48a1dc696a99eb9a8c6512f08e1f0/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Ftrain-moscow-russia-e1472080152770.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Darknet Markets Finally Embracing A Bitcoin Alternative</h1><p>Two of the darknet's largest online black markets have announced plans to accept a new online currency that promises to be much more anonymous than bitcoin. This marks a coup of sorts for the new currency, called Monero.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b13e9a92150a156981203c3ff93c6841/noop.png?input=http%3A%2F%2Fmedia.vocativ.com%2Fphotos%2F2016%2F08%2F2016_08_23-Monero-Altbitcoin-ILL_facebook2257510490.png"></article>]]></description>
             <link>http://www.vocativ.com/353221/darknet-markets-finally-embracing-a-bitcoin-alternative/</link>
             <guid isPermaLink="false">f4974c74-7060-4ca3-9e72-7b82e20f55cf</guid>
-            <pubDate>Wed, 24 Aug 2016 20:38:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hype Cycle Peaks as ACI States Blockchain Can't Handle Financial Transactions at Scale]]></title>
-            <description><![CDATA[<article><h1>Hype Cycle Peaks as ACI States Blockchain Can't Handle Financial Transactions at Scale</h1><p>A recent study by Gartner has shown that blockchain has reached the 'peak of inflated expectations' phase of the hype cycle as the chief architect of ACI Worldwide states that the distributed ledger technology is not yet able to handle financial transactions at scale.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/97e0522e22b19a936b363457c9a26b4e/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2015%2F02%2Fblock-chain.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/blockchain-hype-cycle-financial-transactions-scale/</link>
-            <guid isPermaLink="false">54a15d51-69de-4b8c-8109-325be76b371f</guid>
             <pubDate>Wed, 24 Aug 2016 20:38:01 GMT</pubDate>
         </item>
     </channel>
