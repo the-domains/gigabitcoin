@@ -4,13 +4,20 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 16:50:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 16:50:40 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Poll: Should businesses buy Bitcoin? - TechRepublic]]></title>
             <description><![CDATA[<article><h1>Poll: Should businesses buy Bitcoin? - TechRepublic</h1><p>From futuristic startups to crazy ransomware Bitcoin and the blockchain are here to stay. Should business buy and trade Bitcoin? Take our poll and share your opinion about virtual currency.</p></article>]]></description>
             <link>http://www.techrepublic.com/article/poll-should-businesses-buy-bitcoin/</link>
             <guid isPermaLink="false">acb98d7f-e82d-4c90-b2e7-01453d90ab06</guid>
+            <pubDate>Thu, 25 Aug 2016 16:50:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Legal ID for All: Can Bitcoin's Blockchain Rise to the Challenge?]]></title>
+            <description><![CDATA[<article><h1>Legal ID for All: Can Bitcoin's Blockchain Rise to the Challenge?</h1><p>The United Nations aims to make it possible for all people to have a legal identity, including birth registration. This is one of the targets under the overarching goal of eradicating extreme poverty for all people everywhere by the year 2030. But providing an ID for everyone is a tremendous challenge.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ff98982f5ecd4a92ce0c483d79b941cf/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_221710798.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/legal-id-bitcoin-blockchain-un/</link>
+            <guid isPermaLink="false">51036849-79a1-4ff4-ba59-628d41d3580a</guid>
             <pubDate>Thu, 25 Aug 2016 16:50:10 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Weekly 2016 August 24: Bitstamp turns 5 Ledger wallet giveaway, CEO of CHBTC interview, final Silk Road BTC auction and Bitcoin Core 0.13.0</h1><p>This week brings a birthday for London-based Bitstamp Bitcoin exchange, the company is turning five and is giving away a bunch of Nano Ledger hardware wallets. News outlet CryptoCoinsNews interviewed the CEO of China-based exchange CHBTC, who answered some questions about China and Bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/38378c60d12c972ae33fb498080c3880/croprotate.jpg?cropheight=450&cropwidth=766&degrees=0&input=http%3A%2F%2Fsiliconangle.com%2Ffiles%2F2014%2F10%2Fbitstamp-ceo-Nejc-Kodri-800x450.jpg&x=18&y=0"></article>]]></description>
             <link>http://siliconangle.com/blog/2016/08/24/bitcoin-weekly-2016-august-24-bitstamp-turns-5-ledger-wallet-giveaway-ceo-of-chbtc-interview-final-silk-road-btc-auction-and-bitcoin-core-0-13-0/</link>
             <guid isPermaLink="false">55d6fb7f-0e65-40e1-8328-6ff1ac24e891</guid>
-            <pubDate>Thu, 25 Aug 2016 16:17:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How do I analyse and visualize bitcoin real time data?]]></title>
-            <description><![CDATA[<article><h1>How do I analyse and visualize bitcoin real time data?</h1><p>I want to do network analysis of bitcoin transaction. Is there any API for python for connecting to the blockchain real time transaction and I also want to visualize the nodes. How should I proceed for this small project. example:</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/eed0905d64d90b263f2364f7c660db8f/noop?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-qimg-2d858d5aacd4b41d2674304652531683-c%3Fconvert_to_webp%3Dtrue"></article>]]></description>
-            <link>https://www.quora.com/unanswered/How-do-I-analyse-and-visualize-bitcoin-real-time-data</link>
-            <guid isPermaLink="false">ae79eba9-e887-4616-a53e-9f4c0478abcb</guid>
             <pubDate>Thu, 25 Aug 2016 16:17:34 GMT</pubDate>
         </item>
     </channel>
