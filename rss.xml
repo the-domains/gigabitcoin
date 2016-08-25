@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 16:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 16:17:49 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Monero's 200% Gain On Darknet Marketplace Adoption]]></title>
+            <description><![CDATA[<article><h1>Monero's 200% Gain On Darknet Marketplace Adoption</h1><p>The popular crypto-currency Monero has increased approximately 200% over the past week as darknet marketplaces have adopted the currency. The cryptocurrency, formerly BitMonero, focuses on privacy and scalability as its two main use-cases. The recent gains bring the Monero market cap to more than $20 million.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c1137ebaaf7d0c14375132039259a5fc/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F03%2FDarknet.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/moneros-200-gain-darknet-marketplace-adoption/</link>
+            <guid isPermaLink="false">2ca155f9-7387-43e9-a055-f1d4b63e87b5</guid>
+            <pubDate>Thu, 25 Aug 2016 16:17:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Move out of the way, Bitcoin: Here come the banking heavyweights]]></title>
             <description><![CDATA[<article><h1>Move out of the way, Bitcoin: Here come the banking heavyweights</h1><p>By now, you've probably heard of Bitcoin. What you may not know is that an increasing number of banks are looking for ways to take advantage of blockchain, the technology that powers it, while steering clear of the cryptocurrency itself.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9c333ace10d206f28bbba6541f6195a2/noop.jpg?input=https%3A%2F%2Fs.thestreet.com%2Ffiles%2Ftsc%2Fv2008%2Fphotos%2Fcontrib%2Fuploads%2Fvalerie-young-headshot.JPG"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How do I add blockchain's latest transaction widget to my html5 site?</h1><p>This question needs editing to be improved. It may need to be reworded as a fully formed question, need spelling, grammar, or formatting improved (learn more about formatting on Quora), be ambiguous or difficult to understand, be too reliant on question details, be directed at a specific person, or overly verbose.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fede90402bb8f0e09be643e724115652/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-custom-t-788-600x315-pitawsfglqjondnjfdmgqqsnbnracpcv.jpeg"></article>]]></description>
             <link>https://www.quora.com/unanswered/How-do-I-add-blockchains-latest-transaction-widget-to-my-html5-site</link>
             <guid isPermaLink="false">13154ef0-dd31-4d87-a7cb-5e54f08c854b</guid>
-            <pubDate>Thu, 25 Aug 2016 00:59:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wall Street Goes Blockchain With Factom, Intrinio - Bitcoin News]]></title>
-            <description><![CDATA[<article><h1>Wall Street Goes Blockchain With Factom, Intrinio - Bitcoin News</h1><p>Blockchain-based data management platform, Also read: Dept of Homeland Security Awards $200K to Factom for ID System has announced its partnership with an application and financial data provider. The duo plans on putting Wall Street on the Factom blockchain to provide immutable and transparent US stock market data for the first time in history.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/38c6f2d6923927f73df4b23d89705bb4/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FWall-Street-Data-To-Be-Held-On-The-Factom-Blockchain.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/wall-street-data-held-factom-blockchain/</link>
-            <guid isPermaLink="false">2f2bbab7-ab8b-40bf-876d-07d47b0fc439</guid>
             <pubDate>Thu, 25 Aug 2016 00:59:49 GMT</pubDate>
         </item>
     </channel>
