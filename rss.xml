@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 14:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 14:16:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitmain AntMiner R4 is Supposed to Bring Mining Back Home]]></title>
+            <description><![CDATA[<article><h1>Bitmain AntMiner R4 is Supposed to Bring Mining Back Home</h1><p>Bitmain is apparently setting a very ambitious goal of their new miner called AntMiner R4 and that goal is to bring back home mining of Bitcoin. What they are doing in order to get home miners' attention is trying to make the miner more compact and less noisy while still managing to provide quite a serious hashrate rated at 8.6 THS with just about 845 W of power usage.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/99517a4118916c2d5c498b085049484f/noop.jpg?input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fantminer-r4-1-580x289.jpg"></article>]]></description>
+            <link>http://cryptomining-blog.com/8231-bitmain-antminer-r4-is-supposed-to-bring-mining-back-home/</link>
+            <guid isPermaLink="false">c77e9e6d-4b65-4a06-8469-3be5c1698ffa</guid>
+            <pubDate>Fri, 26 Aug 2016 14:15:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hyperledger Blockchain Project Elects New Tech Committee - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Hyperledger Blockchain Project Elects New Tech Committee - CoinDesk</h1><p>The Hyperledger project, the blockchain initiative led by the Linux Foundation, has elected a new technical steering committee (TSC). Launched late last year, the Hyperledger Project to date counts more than 40 established companies and startups among its membership. Voting for the body concluded earlier this week following a previously announced election period.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a28d7a3553a302eae5331d761cb7676d/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fvoting-booth-voting-election-e1472219215841.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitmain Hints At Antminer R4 For At-home Bitcoin Mining</h1><p>Bitcoin mining at home has become nearly impossible these days. Not only are these devices expensive, but they also generate a ton of noise and heat. Moreover, electricity costs are going up in nearly every country, making mining unprofitable. Bitmain has unveiled their R4 miner, which is designed for home usage.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2e99a14c5eaea01310d12a00f4a30af1/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_242489533.jpg"></article>]]></description>
             <link>http://themerkle.com/bitmain-hints-at-antminer-r4-for-at-home-bitcoin-mining/</link>
             <guid isPermaLink="false">39af3e99-636f-4544-9152-bdeda28eaa5c</guid>
-            <pubDate>Fri, 26 Aug 2016 12:29:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Mobile Game is Teaching Mainstream Users About Bitcoin]]></title>
-            <description><![CDATA[<article><h1>This Mobile Game is Teaching Mainstream Users About Bitcoin</h1><p>The Drachmae Travel Club has released a mobile game to promote the adoption of cryptocurrency. The game, titled Micko's Adventure Voyage, follows an animated duck on a side-scrolling romp through several landscapes. High scoring users are rewarded with DT Tokens, which can then be redeemed at the Drachmae Travel Club for a variety of purposes, including travel, lodgings, and SIM cards.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b9dec9541c9fad0019520aff5f38f7c0/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zYmNlNzg2ZjhkYzA2MWEwMmExNzVkYzNkNDU3YzNhNS5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/this-mobile-game-is-teaching-mainstream-users-about-bitcoin</link>
-            <guid isPermaLink="false">84ad3ea1-0a94-4228-b56a-fbeaca27e3a9</guid>
             <pubDate>Fri, 26 Aug 2016 12:29:57 GMT</pubDate>
         </item>
     </channel>
