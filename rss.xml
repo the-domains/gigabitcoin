@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 14:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 14:16:30 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[South Africa's Blockchain Startup Custos Raises More Funds to Fight Piracy - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>South Africa's Blockchain Startup Custos Raises More Funds to Fight Piracy - NEWSBTC</h1><p>Custos Media Technology, a Bitcoin bounty startup has raised $420,000 in a recent funding round. Read more... Custos Media Technologies, a South African company which fights piracy using Bitcoin and blockchain technology, has recently announced a successful fundraising round of $420,000. South Africa's Technology Innovation Agency (TIA) is the investor in Custos' latest fundraising round.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a153d16f3807714fcaa67dfcf225597a/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F26133237%2FScreen-Shot-2016-08-26-at-6.01.23-PM.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/26/custos-raises-more-funds-to-fight-piracy/</link>
+            <guid isPermaLink="false">badb29af-7e15-4208-9b7b-becf5cdab3f2</guid>
+            <pubDate>Fri, 26 Aug 2016 14:15:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitmain AntMiner R4 is Supposed to Bring Mining Back Home]]></title>
             <description><![CDATA[<article><h1>Bitmain AntMiner R4 is Supposed to Bring Mining Back Home</h1><p>Bitmain is apparently setting a very ambitious goal of their new miner called AntMiner R4 and that goal is to bring back home mining of Bitcoin. What they are doing in order to get home miners' attention is trying to make the miner more compact and less noisy while still managing to provide quite a serious hashrate rated at 8.6 THS with just about 845 W of power usage.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/99517a4118916c2d5c498b085049484f/noop.jpg?input=http%3A%2F%2Fcryptomining-blog.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fantminer-r4-1-580x289.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Unlimited Roadmap Includes Incentivized Network Nodes</h1><p>Over the past few weeks, there is an increased interest in the Bitcoin unlimited development fork. As Bitcoin Core continues to work on its scalability solution, Bitcoin Unlimited secured funding for future development. The team has also released a brief roadmap of what will be in store over the coming months.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1cfdf01603dd3819d36f6c1220758483/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_390217189.jpg"></article>]]></description>
             <link>http://themerkle.com/bitcoin-unlimited-roadmap-includes-incentivized-network-nodes/</link>
             <guid isPermaLink="false">9e221ab9-2b02-449e-831a-aaa2fcdf91d2</guid>
-            <pubDate>Fri, 26 Aug 2016 12:29:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitmain Hints At Antminer R4 For At-home Bitcoin Mining]]></title>
-            <description><![CDATA[<article><h1>Bitmain Hints At Antminer R4 For At-home Bitcoin Mining</h1><p>Bitcoin mining at home has become nearly impossible these days. Not only are these devices expensive, but they also generate a ton of noise and heat. Moreover, electricity costs are going up in nearly every country, making mining unprofitable. Bitmain has unveiled their R4 miner, which is designed for home usage.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2e99a14c5eaea01310d12a00f4a30af1/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_242489533.jpg"></article>]]></description>
-            <link>http://themerkle.com/bitmain-hints-at-antminer-r4-for-at-home-bitcoin-mining/</link>
-            <guid isPermaLink="false">39af3e99-636f-4544-9152-bdeda28eaa5c</guid>
             <pubDate>Fri, 26 Aug 2016 12:29:57 GMT</pubDate>
         </item>
     </channel>
