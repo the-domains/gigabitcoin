@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 14:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 14:16:16 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hyperledger Blockchain Project Elects New Tech Committee - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Hyperledger Blockchain Project Elects New Tech Committee - CoinDesk</h1><p>The Hyperledger project, the blockchain initiative led by the Linux Foundation, has elected a new technical steering committee (TSC). Launched late last year, the Hyperledger Project to date counts more than 40 established companies and startups among its membership. Voting for the body concluded earlier this week following a previously announced election period.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a28d7a3553a302eae5331d761cb7676d/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fvoting-booth-voting-election-e1472219215841.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/hyperledger-blockchain-project-elects-new-technical-committee/</link>
+            <guid isPermaLink="false">2902111d-d6d8-4368-a75e-4d9fa7a75811</guid>
+            <pubDate>Fri, 26 Aug 2016 14:15:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Coinbase Enables Bitcoin, Ethereum Buying via Mobile in Europe]]></title>
             <description><![CDATA[<article><h1>Coinbase Enables Bitcoin, Ethereum Buying via Mobile in Europe</h1><p>Prominent bitcoin and Ethereum wallet and exchange Coinbase has unveiled a new feature to users in Europe who will now be able to purchase the digital currencies on their phones, using a payment card. Coinbase has announced that its European customers can now purchase bitcoin and Ethereum on their mobile phones using a credit or debit card.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fb888bbfbccd14788a06cbd0f464501d/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FPhone-card.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://cointelegraph.com/news/this-mobile-game-is-teaching-mainstream-users-about-bitcoin</link>
             <guid isPermaLink="false">84ad3ea1-0a94-4228-b56a-fbeaca27e3a9</guid>
             <pubDate>Fri, 26 Aug 2016 12:29:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google & Apple Prefer Ripple Blockchain Tech over Visa]]></title>
-            <description><![CDATA[<article><h1>Google & Apple Prefer Ripple Blockchain Tech over Visa</h1><p>Ripple Labs has created a lot of interest in blockchain technology with its Interledger Protocol (ILP), including from Apple and Google, according to the International Business Times. The ILP could be bringing the technology to more widespread use. Ripple serves as co-chair of W3C's Web Payments Working Group, putting the company in regular contact with technology providers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/86f3854e6c7e2c05c21aa30909701599/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F06%2FGlobal-nodes.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/google-apple-prefer-ripple-blockchain-tech-over-visa/</link>
-            <guid isPermaLink="false">489137e6-020b-4e43-8e7c-b1c7a1c8a816</guid>
-            <pubDate>Fri, 26 Aug 2016 12:29:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
