@@ -7,6 +7,19 @@
         <lastBuildDate>Sat, 27 Aug 2016 12:38:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[U.S. Government: Ransomware Attacks Have Quadrupled This Year]]></title>
+            <description><![CDATA[<article><h1>U.S. Government: Ransomware Attacks Have Quadrupled This Year</h1><p>Ransomware attacks have quadrupled this year over last year, averaging 4,000 per day, according to the U.S. Justice Department, The Wall Street Journal reported in a front-page story recently. This is because ransomware has become easier to deploy and more profitable than other scams, and bitcoin is more widely used.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fa189a7d7298f35906d40d2b721bb57a/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FFinTech-Startup-Says-Law-Enforcement-Is-Ramping-Up-Ransomware-Arrests.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/u-s-government-ransomware-attacks-have-quadrupled-this-year/</link>
+            <guid isPermaLink="false">ae69932a-e391-413d-a08f-171b5ed7de67</guid>
+            <pubDate>Sat, 27 Aug 2016 12:37:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.sec.gov/rules/sro/batsbzx/2016/34-78653.pdf</link>
+            <guid isPermaLink="false">69ede253-1964-445d-a425-0a25868f5ea9</guid>
+            <pubDate>Sat, 27 Aug 2016 12:37:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Attack On Krypton a 'Dry Run' For Ethereum? - Bitcoinist.net]]></title>
             <description><![CDATA[<article><h1>Attack On Krypton a 'Dry Run' For Ethereum? - Bitcoinist.net</h1><p>Smart contracts platform Krypton is recovering from a 51 percent attack this week that saw 21,465 of its tokens exchanged for bitcoin and double-spent. Also read: Industry Report: Banks Trying to Beat Bitcoin According to the fledgling project's founder and project manager Stephanie Kent, the attack was a "two-pronged" effort involving rented hashing power and a DDoS attack on existing nodes to multiply the hashing advantage even further.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d898ce161537f3951b7c627974af22a9/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FKrypton-cover.jpg"></article>]]></description>
             <link>http://bitcoinist.net/attack-krypton-dry-run-ethereum/</link>
@@ -61,20 +74,6 @@
             <link>https://news.bitcoin.com/ben-free-bitcoin-school/</link>
             <guid isPermaLink="false">be3f610b-81fb-4580-be81-8df0f183fadd</guid>
             <pubDate>Sat, 27 Aug 2016 01:19:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Darknet Customers Are Demanding Bitcoin Alternative Monero]]></title>
-            <description><![CDATA[<article><h1>Darknet Customers Are Demanding Bitcoin Alternative Monero</h1><p>The dark web has started to embrace Monero , a privacy-conscious alternative to Bitcoin. First, the operators of SIGAINT , a commonly used dark web email provider, decided to host a full node for Monero light wallets. Then, an eight-month-old darknet market called Oasis decided to allow vendors to accept Monero.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/323089c65c6ae73bc734437b5ead1f586687890a.jpg"></article>]]></description>
-            <link>http://www.nasdaq.com/article/darknet-customers-are-demanding-bitcoin-alternative-monero-cm671031</link>
-            <guid isPermaLink="false">1a65067c-7e07-4951-b976-e8a7a43f771f</guid>
-            <pubDate>Sat, 27 Aug 2016 01:19:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Darknet Customers Are Demanding Bitcoin Alternative Monero]]></title>
-            <description><![CDATA[<article><h1>Darknet Customers Are Demanding Bitcoin Alternative Monero</h1><p>The dark web has started to embrace Monero, a privacy-conscious alternative to Bitcoin. First, the operators of SIGAINT, a commonly used dark web email provider, decided to host a full node for Monero light wallets. Then, an eight-month-old darknet market called Oasis decided to allow vendors to accept Monero.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cc5a9f0e11cb29182d716e545cc4fe75/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fdarknet-customers-are-demanding-bitcoin-alternative-monero.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/darknet-customers-are-demanding-bitcoin-alternative-monero-1472243603</link>
-            <guid isPermaLink="false">6f9a00e8-d7d9-4db6-ae4d-0be0018b9ef6</guid>
-            <pubDate>Fri, 26 Aug 2016 23:51:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
