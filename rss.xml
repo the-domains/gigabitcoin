@@ -4,8 +4,49 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 12:38:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 12:38:25 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is the Lightning Network proposal? What problem is it trying to solve?]]></title>
+            <description><![CDATA[<article><h1>What is the Lightning Network proposal? What problem is it trying to solve?</h1><p>Scalability of everyone checks everything Bitcoin is a gossip network: P2P nodes connect mostly randomly to each other and pass-on new information to each other as they receive it. That way, information floods through the network quickly: each step further increases the nodes that were informed exponentially (until most are).</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/48283/what-is-the-lightning-network-proposal-what-problem-is-it-trying-to-solve</link>
+            <guid isPermaLink="false">b4913144-23eb-4e8e-83e1-095aa63d02b9</guid>
+            <pubDate>Sat, 27 Aug 2016 12:37:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Public blockchains gaining acceptance at Bank of Japan's Payment and Settlement Forum]]></title>
+            <description><![CDATA[<article><h1>Public blockchains gaining acceptance at Bank of Japan's Payment and Settlement Forum</h1><p>A summary of the Bank of Japan Forum on Payment and Settlement systems, released on Friday, revealed that public blockchains were discussed in a positive light. Banks and financial institutions typically focus on projects using private blockchains, where a greater amount of privacy and control can be held by the issuer.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2ef266ca24e1048baba0b796ea8cfc07/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-Bank-of-Japan.jpg"></article>]]></description>
+            <link>http://bravenewcoin.com/news/public-blockchains-gaining-acceptance-at-bank-of-japans-payment-and-settlement-forum/</link>
+            <guid isPermaLink="false">90a27761-ecce-4fcd-8819-92f83194e98f</guid>
+            <pubDate>Sat, 27 Aug 2016 12:37:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Reddit Moderators Take Down Fake TREZOR Advertisements]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Reddit Moderators Take Down Fake TREZOR Advertisements</h1><p>Scammers are trying to trick bitcoin users in multiple ways. Not too long ago, various malicious advertisements were popping up all over different search engines. But it looks like scammers are using a new tactic, by promoting ads on Reddit. Thankfully, the ad got removed, as they tried to impersonate the TREZOR online shop.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/23a63000b671528eb45b82cabe0ef194/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_413005750.jpg"></article>]]></description>
+            <link>http://themerkle.com/bitcoin-reddit-moderators-take-down-fake-trezor-advertisements/</link>
+            <guid isPermaLink="false">775e8d22-a3bb-4615-8ddd-2ea280de20e2</guid>
+            <pubDate>Sat, 27 Aug 2016 12:37:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.S. Government: Ransomware Attacks Have Quadrupled This Year]]></title>
+            <description><![CDATA[<article><h1>U.S. Government: Ransomware Attacks Have Quadrupled This Year</h1><p>Ransomware attacks have quadrupled this year over last year, averaging 4,000 per day, according to the U.S. Justice Department, The Wall Street Journal reported in a front-page story recently. This is because ransomware has become easier to deploy and more profitable than other scams, and bitcoin is more widely used.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fa189a7d7298f35906d40d2b721bb57a/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FFinTech-Startup-Says-Law-Enforcement-Is-Ramping-Up-Ransomware-Arrests.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/u-s-government-ransomware-attacks-have-quadrupled-this-year/</link>
+            <guid isPermaLink="false">ae69932a-e391-413d-a08f-171b5ed7de67</guid>
+            <pubDate>Sat, 27 Aug 2016 12:37:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.sec.gov/rules/sro/batsbzx/2016/34-78653.pdf</link>
+            <guid isPermaLink="false">69ede253-1964-445d-a425-0a25868f5ea9</guid>
+            <pubDate>Sat, 27 Aug 2016 12:37:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Attack On Krypton a 'Dry Run' For Ethereum? - Bitcoinist.net]]></title>
+            <description><![CDATA[<article><h1>Attack On Krypton a 'Dry Run' For Ethereum? - Bitcoinist.net</h1><p>Smart contracts platform Krypton is recovering from a 51 percent attack this week that saw 21,465 of its tokens exchanged for bitcoin and double-spent. Also read: Industry Report: Banks Trying to Beat Bitcoin According to the fledgling project's founder and project manager Stephanie Kent, the attack was a "two-pronged" effort involving rented hashing power and a DDoS attack on existing nodes to multiply the hashing advantage even further.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d898ce161537f3951b7c627974af22a9/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FKrypton-cover.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/attack-krypton-dry-run-ethereum/</link>
+            <guid isPermaLink="false">7484811a-0cc1-4ffb-8bf1-374b616dab0a</guid>
+            <pubDate>Sat, 27 Aug 2016 12:37:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitfinex CEO Provides Small Security Audit Update]]></title>
             <description><![CDATA[<article><h1>Bitfinex CEO Provides Small Security Audit Update</h1><p>Ever since the Bitfinex exchange was hacked recently, there have been a lot of lingering questions regarding the future of the company. The issuance of BFX tokens alleviated a lot of concerns, even though their face value of US$1 has long gone.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b3605a4d891b6e601ac21acc1edae6d9/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_422946145.jpg"></article>]]></description>
@@ -33,48 +74,6 @@
             <link>https://news.bitcoin.com/don-tapscott-blockchain-organization/</link>
             <guid isPermaLink="false">9cb36578-7e4e-49bf-80be-f7a268f009ca</guid>
             <pubDate>Sat, 27 Aug 2016 12:37:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[France and Germany Want EU to Ban End-to-End Encryption]]></title>
-            <description><![CDATA[<article><h1>France and Germany Want EU to Ban End-to-End Encryption</h1><p>France and Germany are pushing for the EU to restrict the use of encryption. In a joint proposal released earlier this week, the interior ministers of the two countries attacked messaging services that offer end-to-end encryption, such as WhatsApp, Telegram, and Signal, for posing difficulties during law enforcement investigations.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cc6a527715baeb03d1b9ba5c71c8dd7a/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81YWRjMGYxMzMyMTU3M2M5OWIxMzM4YTdmZWUwZDdjMy5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/france-and-germany-want-eu-to-ban-end-to-end-encryption</link>
-            <guid isPermaLink="false">2761c9f7-b83f-4050-a16c-13e98548917e</guid>
-            <pubDate>Sat, 27 Aug 2016 12:37:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Antminer's New R4 Model Designed to Be Used in Homes, Decrease Centralization]]></title>
-            <description><![CDATA[<article><h1>Antminer's New R4 Model Designed to Be Used in Homes, Decrease Centralization</h1><p>Once upon a time, at the beginning of Bitcoin's history, it was possible to mine bitcoin at home using a PC's CPU. Later, miners had to switch to GPUs, then to ASICs and then to more and more sophisticated bitcoin mining equipment.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5e84beeddb5c56198eb129615980a77a/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fantminer-s-new-r-model-designed-to-be-used-in-homes-decrease-centralization.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/antminer-s-new-r-model-designed-to-be-used-in-homes-decrease-centralization-1472250011</link>
-            <guid isPermaLink="false">0b901925-348f-4cfd-8048-494738ead144</guid>
-            <pubDate>Sat, 27 Aug 2016 01:19:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['BEN' Initiative Giving Out Free Bitcoin for Back-to-School]]></title>
-            <description><![CDATA[<article><h1>'BEN' Initiative Giving Out Free Bitcoin for Back-to-School</h1><p>The Also read: Bitcoin Makes Finances Easier for Int'l Students in US Colleges Blockchain Education Network (BEN) has recently announced its partnership with BTC.com for the upcoming Bitcoin Airdrop this September. The "Back-to-School Blockchain Initiative" has expanded its goals by working with a dozen universities across North America to grow educate students on blockchain technology.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d0ffb07bd9f457e3d5ccde0708e446a5/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_213333985.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/ben-free-bitcoin-school/</link>
-            <guid isPermaLink="false">be3f610b-81fb-4580-be81-8df0f183fadd</guid>
-            <pubDate>Sat, 27 Aug 2016 01:19:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Darknet Customers Are Demanding Bitcoin Alternative Monero]]></title>
-            <description><![CDATA[<article><h1>Darknet Customers Are Demanding Bitcoin Alternative Monero</h1><p>The dark web has started to embrace Monero , a privacy-conscious alternative to Bitcoin. First, the operators of SIGAINT , a commonly used dark web email provider, decided to host a full node for Monero light wallets. Then, an eight-month-old darknet market called Oasis decided to allow vendors to accept Monero.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/323089c65c6ae73bc734437b5ead1f586687890a.jpg"></article>]]></description>
-            <link>http://www.nasdaq.com/article/darknet-customers-are-demanding-bitcoin-alternative-monero-cm671031</link>
-            <guid isPermaLink="false">1a65067c-7e07-4951-b976-e8a7a43f771f</guid>
-            <pubDate>Sat, 27 Aug 2016 01:19:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Darknet Customers Are Demanding Bitcoin Alternative Monero]]></title>
-            <description><![CDATA[<article><h1>Darknet Customers Are Demanding Bitcoin Alternative Monero</h1><p>The dark web has started to embrace Monero, a privacy-conscious alternative to Bitcoin. First, the operators of SIGAINT, a commonly used dark web email provider, decided to host a full node for Monero light wallets. Then, an eight-month-old darknet market called Oasis decided to allow vendors to accept Monero.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cc5a9f0e11cb29182d716e545cc4fe75/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fdarknet-customers-are-demanding-bitcoin-alternative-monero.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/darknet-customers-are-demanding-bitcoin-alternative-monero-1472243603</link>
-            <guid isPermaLink="false">6f9a00e8-d7d9-4db6-ae4d-0be0018b9ef6</guid>
-            <pubDate>Fri, 26 Aug 2016 23:51:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TAO Network Teams Up with Music Group to Decentralizie Conent]]></title>
-            <description><![CDATA[<article><h1>TAO Network Teams Up with Music Group to Decentralizie Conent</h1><p>The TAO Network, a blockchain-based DAO platform for musicians, has partnered with Boogie Shack Music Group to bring smart contract solutions to artists in the music industry. Disclaimer: This article was sponsored by Bitcoin PR Buzz. Bitcoinist is not affiliated with the firms represented by Bitcoin PR Buzz and is not responsible for their products and/or services.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d6a0c560dd0c65923a2e9b32e935749e/noop.png?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FTAO-network.png"></article>]]></description>
-            <link>http://bitcoinist.net/tao-network-partners-music-group/</link>
-            <guid isPermaLink="false">7d16885d-4ccc-4000-8fd1-633445a859d1</guid>
-            <pubDate>Fri, 26 Aug 2016 23:51:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
