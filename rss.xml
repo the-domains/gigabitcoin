@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 01:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 01:20:05 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA['BEN' Initiative Giving Out Free Bitcoin for Back-to-School]]></title>
+            <description><![CDATA[<article><h1>'BEN' Initiative Giving Out Free Bitcoin for Back-to-School</h1><p>The Also read: Bitcoin Makes Finances Easier for Int'l Students in US Colleges Blockchain Education Network (BEN) has recently announced its partnership with BTC.com for the upcoming Bitcoin Airdrop this September. The "Back-to-School Blockchain Initiative" has expanded its goals by working with a dozen universities across North America to grow educate students on blockchain technology.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d0ffb07bd9f457e3d5ccde0708e446a5/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_213333985.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/ben-free-bitcoin-school/</link>
+            <guid isPermaLink="false">be3f610b-81fb-4580-be81-8df0f183fadd</guid>
+            <pubDate>Sat, 27 Aug 2016 01:19:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Darknet Customers Are Demanding Bitcoin Alternative Monero]]></title>
             <description><![CDATA[<article><h1>Darknet Customers Are Demanding Bitcoin Alternative Monero</h1><p>The dark web has started to embrace Monero , a privacy-conscious alternative to Bitcoin. First, the operators of SIGAINT , a commonly used dark web email provider, decided to host a full node for Monero light wallets. Then, an eight-month-old darknet market called Oasis decided to allow vendors to accept Monero.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/323089c65c6ae73bc734437b5ead1f586687890a.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Is Facebook About to Get 'Myspaced' by Next-Gen Social Media?</h1><p>Social media is a major component of the internet and has already transformed how humans communicate and interact. Looking to take things to the next level, a few projects are trying to combine social media with the blockchain.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/44e279462e8deb8284fc27af2772084e/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_181985678.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/facebook-next-gen-social-media/</link>
             <guid isPermaLink="false">24404638-c39b-452e-8895-e2be1463686d</guid>
-            <pubDate>Fri, 26 Aug 2016 20:30:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Steemit Set to Add Popular Social Media Features to Increase Mainstream Adoption]]></title>
-            <description><![CDATA[<article><h1>Steemit Set to Add Popular Social Media Features to Increase Mainstream Adoption</h1><p>Steemit, the popular social media platform where users get paid to post and vote online, today announced plans to add heavily requested new features to its site, including private messaging, notifications, and follow buttons. Steemit is fast becoming a blogger's favorite destination, with thousands of new users signing up every week and a current registered user base of over 70,000.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f444d103a3c298983526b4d5ff3b7a09/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F04%2F18-1.png"></article>]]></description>
-            <link>http://forklog.net/steemit-set-to-add-popular-social-media-features-to-increase-mainstream-adoption/</link>
-            <guid isPermaLink="false">21a1d935-36f6-4a1e-b771-f227e3aa6e3a</guid>
             <pubDate>Fri, 26 Aug 2016 20:30:11 GMT</pubDate>
         </item>
     </channel>
