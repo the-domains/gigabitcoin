@@ -7,6 +7,20 @@
         <lastBuildDate>Sat, 27 Aug 2016 12:38:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[What is the Lightning Network proposal? What problem is it trying to solve?]]></title>
+            <description><![CDATA[<article><h1>What is the Lightning Network proposal? What problem is it trying to solve?</h1><p>Scalability of everyone checks everything Bitcoin is a gossip network: P2P nodes connect mostly randomly to each other and pass-on new information to each other as they receive it. That way, information floods through the network quickly: each step further increases the nodes that were informed exponentially (until most are).</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/48283/what-is-the-lightning-network-proposal-what-problem-is-it-trying-to-solve</link>
+            <guid isPermaLink="false">b4913144-23eb-4e8e-83e1-095aa63d02b9</guid>
+            <pubDate>Sat, 27 Aug 2016 12:37:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.S. Government: Ransomware Attacks Have Quadrupled This Year]]></title>
+            <description><![CDATA[<article><h1>U.S. Government: Ransomware Attacks Have Quadrupled This Year</h1><p>Ransomware attacks have quadrupled this year over last year, averaging 4,000 per day, according to the U.S. Justice Department, The Wall Street Journal reported in a front-page story recently. This is because ransomware has become easier to deploy and more profitable than other scams, and bitcoin is more widely used.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fa189a7d7298f35906d40d2b721bb57a/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FFinTech-Startup-Says-Law-Enforcement-Is-Ramping-Up-Ransomware-Arrests.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/u-s-government-ransomware-attacks-have-quadrupled-this-year/</link>
+            <guid isPermaLink="false">ae69932a-e391-413d-a08f-171b5ed7de67</guid>
+            <pubDate>Sat, 27 Aug 2016 12:37:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.sec.gov/rules/sro/batsbzx/2016/34-78653.pdf</link>
             <guid isPermaLink="false">69ede253-1964-445d-a425-0a25868f5ea9</guid>
@@ -59,20 +73,6 @@
             <description><![CDATA[<article><h1>Antminer's New R4 Model Designed to Be Used in Homes, Decrease Centralization</h1><p>Once upon a time, at the beginning of Bitcoin's history, it was possible to mine bitcoin at home using a PC's CPU. Later, miners had to switch to GPUs, then to ASICs and then to more and more sophisticated bitcoin mining equipment.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5e84beeddb5c56198eb129615980a77a/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fantminer-s-new-r-model-designed-to-be-used-in-homes-decrease-centralization.jpg"></article>]]></description>
             <link>https://bitcoinmagazine.com/articles/antminer-s-new-r-model-designed-to-be-used-in-homes-decrease-centralization-1472250011</link>
             <guid isPermaLink="false">0b901925-348f-4cfd-8048-494738ead144</guid>
-            <pubDate>Sat, 27 Aug 2016 01:19:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['BEN' Initiative Giving Out Free Bitcoin for Back-to-School]]></title>
-            <description><![CDATA[<article><h1>'BEN' Initiative Giving Out Free Bitcoin for Back-to-School</h1><p>The Also read: Bitcoin Makes Finances Easier for Int'l Students in US Colleges Blockchain Education Network (BEN) has recently announced its partnership with BTC.com for the upcoming Bitcoin Airdrop this September. The "Back-to-School Blockchain Initiative" has expanded its goals by working with a dozen universities across North America to grow educate students on blockchain technology.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d0ffb07bd9f457e3d5ccde0708e446a5/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_213333985.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/ben-free-bitcoin-school/</link>
-            <guid isPermaLink="false">be3f610b-81fb-4580-be81-8df0f183fadd</guid>
-            <pubDate>Sat, 27 Aug 2016 01:19:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Darknet Customers Are Demanding Bitcoin Alternative Monero]]></title>
-            <description><![CDATA[<article><h1>Darknet Customers Are Demanding Bitcoin Alternative Monero</h1><p>The dark web has started to embrace Monero , a privacy-conscious alternative to Bitcoin. First, the operators of SIGAINT , a commonly used dark web email provider, decided to host a full node for Monero light wallets. Then, an eight-month-old darknet market called Oasis decided to allow vendors to accept Monero.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/323089c65c6ae73bc734437b5ead1f586687890a.jpg"></article>]]></description>
-            <link>http://www.nasdaq.com/article/darknet-customers-are-demanding-bitcoin-alternative-monero-cm671031</link>
-            <guid isPermaLink="false">1a65067c-7e07-4951-b976-e8a7a43f771f</guid>
             <pubDate>Sat, 27 Aug 2016 01:19:53 GMT</pubDate>
         </item>
     </channel>
