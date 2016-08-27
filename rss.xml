@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 14:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 20:30:12 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Future Shock? Device Allows You to Implant Cryptographic Keys under the Skin]]></title>
+            <description><![CDATA[<article><h1>Future Shock? Device Allows You to Implant Cryptographic Keys under the Skin</h1><p>Want to be a cyborg? Dangerous Things, a biohacking company, has developed a near-field communication ( NFC) compliant chip that allows people to implant cryptographic keys under their skin, as reported by Motherboard. The chip is scheduled for release next year.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/97b7ed5b1cfd0bb315a589b4991bde0c/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FBiohack.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/future-shock-device-allows-you-to-implant-cryptographic-keys-under-the-skin/</link>
+            <guid isPermaLink="false">86b02e0e-8adf-43c2-b47b-eae933bcf223</guid>
+            <pubDate>Fri, 26 Aug 2016 20:30:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Despite Drop in Funding Q2 2016, UK Still Europe's Fintech Leader]]></title>
             <description><![CDATA[<article><h1>Despite Drop in Funding Q2 2016, UK Still Europe's Fintech Leader</h1><p>According to latest figures from 'The Pulse of Fintech' quarterly report, total venture capital investment in the UK dropped slightly during the second quarter of 2016 though fintech investment was less affected.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ddc2e06feef45cd02a036c7fc92ecc75/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2014%2F11%2Fuk-bitcoin.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://themerkle.com/central-bank-of-thailand-shuts-down-half-of-bank-atms-due-to-malware-attack/</link>
             <guid isPermaLink="false">2c7040c6-05e8-49b6-918d-ec1c11037c08</guid>
             <pubDate>Fri, 26 Aug 2016 14:15:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum Price Technical Analysis - Big Picture In ETH/USD - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Ethereum Price Technical Analysis - Big Picture In ETH/USD - NEWSBTC</h1><p>Ethereum price looks like forming a monster range on the weekly time frame chart versus the US Dollar, which may stay for some time. Ethereum price looks like forming a monster range on the weekly time frame chart versus the US Dollar, which may stay for some time.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2a53d2c247afa508f86d7960cc1bd6f6/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F25151112%2FEthereum-2.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/26/ethereum-price-technical-analysis-big-picture-ethusd/</link>
-            <guid isPermaLink="false">b3be0f04-af5b-4fcc-a0e2-c20811457621</guid>
-            <pubDate>Fri, 26 Aug 2016 12:29:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
