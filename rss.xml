@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 20:30:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 20:30:46 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[What Ethereum's Fork Means for Bitcoin's Block Size Debate - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>What Ethereum's Fork Means for Bitcoin's Block Size Debate - CoinDesk</h1><p>Could a development on the ethereum blockchain help resolve one of bitcoin's longest-running debates? It may not seem like an obvious question given the differences between the two blockchain networks. After all, bitcoin aims to provide an uncensorable digital currency, while ethereum seeks to serve as a platform for decentralized applications.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c5572d8de40b86bbc8fada8f428d3835/croprotate.jpg?cropheight=3263&cropwidth=4928&degrees=0&input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fmath-blackboard.jpg&x=0&y=0"></article>]]></description>
-            <link>http://www.coindesk.com/ethereum-fork-bitcoin-block-size-debate-impact/</link>
-            <guid isPermaLink="false">cc9e8f50-8ce9-4844-8947-9ca1b7bf7d51</guid>
-            <pubDate>Fri, 26 Aug 2016 20:30:09 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bitcoin Price Watch; The Week's Final Take - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Watch; The Week's Final Take - NEWSBTC</h1><p>Here's a look at what we are focusing on in the bitcoin price this evening. So the weekend has pretty much arrived, but we've still got the close of the US session ahead of us, and an evening's worth of trading to see if we can close out the week on top of the market.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5fa912dcff09d5b1bee25091e929666b/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F26182238%2FScreen-Shot-2016-08-26-at-19.22.20.png"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Upcoming Steemit Features Will Give The Platform More Mainstream Appeal</h1><p>Steemit has quickly become one of the most popular social platforms in the world today. The team behind this project continues to expand the feature set. New popular social media features will be added to boost the mainstream appeal of this platform. Core features, such as being paid to post and vote on other posts, will remain unchanged.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4bf95da6028ca6d29c5b21d7faed21f2/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_256473613.jpg"></article>]]></description>
             <link>http://themerkle.com/upcoming-steemit-features-will-give-the-platform-more-mainstream-appeal/</link>
             <guid isPermaLink="false">d417f182-8678-4f05-9ecc-f1cf2e7b2164</guid>
+            <pubDate>Fri, 26 Aug 2016 20:30:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Future Shock? Device Allows You to Implant Cryptographic Keys under the Skin]]></title>
+            <description><![CDATA[<article><h1>Future Shock? Device Allows You to Implant Cryptographic Keys under the Skin</h1><p>Want to be a cyborg? Dangerous Things, a biohacking company, has developed a near-field communication ( NFC) compliant chip that allows people to implant cryptographic keys under their skin, as reported by Motherboard. The chip is scheduled for release next year.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/97b7ed5b1cfd0bb315a589b4991bde0c/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FBiohack.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/future-shock-device-allows-you-to-implant-cryptographic-keys-under-the-skin/</link>
+            <guid isPermaLink="false">86b02e0e-8adf-43c2-b47b-eae933bcf223</guid>
             <pubDate>Fri, 26 Aug 2016 20:30:09 GMT</pubDate>
         </item>
     </channel>
