@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 23:51:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 23:52:04 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bet on MMA with Bitcoin: UFC on Fox 21 - Bitcoinist.net]]></title>
+            <description><![CDATA[<article><h1>Bet on MMA with Bitcoin: UFC on Fox 21 - Bitcoinist.net</h1><p>Only one week after the legendary Diaz vs. McGregor rematch at UFC 202, it's time to go at it again. As always, bitcoin remains the best way to bet on sports, including MMA. Let's take a look at some of the fights.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8f426ea3b85b0773142d5a1bf4342d9f/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F07%2Fbitcoinist_mma.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/bet-on-mma-with-bitcoin-ufc-on-fox-21/</link>
+            <guid isPermaLink="false">293c551a-6416-4178-8a1c-05dd8bade2fa</guid>
+            <pubDate>Fri, 26 Aug 2016 23:51:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitmain to Release New Bitcoin Miner in Bid to Attract Hobbyists - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Bitmain to Release New Bitcoin Miner in Bid to Attract Hobbyists - CoinDesk</h1><p>One ambitious bitcoin company is seeking to make mining a hobbyist activity again. China-based Bitmain let slip today it will soon release its latest bitcoin mining rig, the R4, which it believes will be powerful enough to "bring mining back home".</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/59bc02aa837ae3f75bcb21328a11134b/noop.png?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FScreen-Shot-2016-08-26-at-5.19.09-PM.png"></article>]]></description>
@@ -67,12 +74,6 @@
             <description><![CDATA[<article><h1>Is BIP 32 Technology Cryptographic Curve Agnostic?</h1><p>Does BIP 32 always implicitly assume secp256k1 elliptic curve cryptography (ECC) is to be applied, or can BIP 32 technology also be applied to create extended public or private keys that can readil...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
             <link>http://bitcoin.stackexchange.com/questions/48220/is-bip-32-technology-cryptographic-curve-agnostic</link>
             <guid isPermaLink="false">1fdd583c-5ab7-4622-a59a-9382294d9d55</guid>
-            <pubDate>Fri, 26 Aug 2016 20:30:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don Tapscott: How the blockchain is changing money and business]]></title>
-            <link>http://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business</link>
-            <guid isPermaLink="false">bc6075b3-4c0c-43d9-88af-872c1f80deb1</guid>
             <pubDate>Fri, 26 Aug 2016 20:30:10 GMT</pubDate>
         </item>
     </channel>
