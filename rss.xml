@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 23:52:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 23:52:17 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Is Just A Bit Player]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Is Just A Bit Player</h1><p>Originally Published on Money Metals Exchange Over the last few years, so-called "crypto-currencies" - digital equivalents of a monetary exchange unit, have been all the rage. The most well-known in the category, Bitcoin, has had quite a run. Starting out as a "virtual penny stock" it rose in 2014 to the elevated height of $1,150, before crashing back to earth.</p></article>]]></description>
+            <link>http://seekingalpha.com/article/4002433-bitcoin-just-bit-player</link>
+            <guid isPermaLink="false">2044930b-10d7-4ae4-81ea-f1ed5280f578</guid>
+            <pubDate>Fri, 26 Aug 2016 23:51:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bet on MMA with Bitcoin: UFC on Fox 21 - Bitcoinist.net]]></title>
             <description><![CDATA[<article><h1>Bet on MMA with Bitcoin: UFC on Fox 21 - Bitcoinist.net</h1><p>Only one week after the legendary Diaz vs. McGregor rematch at UFC 202, it's time to go at it again. As always, bitcoin remains the best way to bet on sports, including MMA. Let's take a look at some of the fights.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8f426ea3b85b0773142d5a1bf4342d9f/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F07%2Fbitcoinist_mma.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Jihan Wu: "blocksize is a minor issue that cost the community so much damage. It has given too much opportunities for some people who are altcoin developers. We have more challenge to solve, for the future of Bitcoin rather than a blocksize thing." * /r/Bitcoin</h1><p>Jihan_Bitmain full quote : "Hi I am fine. Thank you. I am pretty busy after the U.S. trip, and I don't have the time and mood to talk on the...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
             <link>https://www.reddit.com/r/Bitcoin/comments/4zkpxj/jihan_wu_blocksize_is_a_minor_issue_that_cost_the/</link>
             <guid isPermaLink="false">b752e798-7257-4f5b-ba2a-0b17949adefc</guid>
-            <pubDate>Fri, 26 Aug 2016 20:30:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is BIP 32 Technology Cryptographic Curve Agnostic?]]></title>
-            <description><![CDATA[<article><h1>Is BIP 32 Technology Cryptographic Curve Agnostic?</h1><p>Does BIP 32 always implicitly assume secp256k1 elliptic curve cryptography (ECC) is to be applied, or can BIP 32 technology also be applied to create extended public or private keys that can readil...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
-            <link>http://bitcoin.stackexchange.com/questions/48220/is-bip-32-technology-cryptographic-curve-agnostic</link>
-            <guid isPermaLink="false">1fdd583c-5ab7-4622-a59a-9382294d9d55</guid>
             <pubDate>Fri, 26 Aug 2016 20:30:10 GMT</pubDate>
         </item>
     </channel>
