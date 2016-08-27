@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 21:56:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 23:51:47 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitmain to Release New Bitcoin Miner in Bid to Attract Hobbyists - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Bitmain to Release New Bitcoin Miner in Bid to Attract Hobbyists - CoinDesk</h1><p>One ambitious bitcoin company is seeking to make mining a hobbyist activity again. China-based Bitmain let slip today it will soon release its latest bitcoin mining rig, the R4, which it believes will be powerful enough to "bring mining back home".</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/59bc02aa837ae3f75bcb21328a11134b/noop.png?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FScreen-Shot-2016-08-26-at-5.19.09-PM.png"></article>]]></description>
+            <link>http://www.coindesk.com/bitmain-release-new-bitcoin-miner-bid-attract-hobbyists/</link>
+            <guid isPermaLink="false">80ee6acc-02f0-49f5-ba9a-f01a0ebff84f</guid>
+            <pubDate>Fri, 26 Aug 2016 23:51:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[WhatsApp "Betrays Users" by Sharing User Info with Facebook - Bitcoinist.net]]></title>
             <description><![CDATA[<article><h1>WhatsApp "Betrays Users" by Sharing User Info with Facebook - Bitcoinist.net</h1><p>The hugely popular messenger application, Also read: Industry Report: Banks Trying to Beat Bitcoin WhatsApp , has changed its privacy policy in order to share more user data with its parent company Facebook. This move has some WhatsApp customers feeling betrayed as it seems to directly contradict previous statements made by the company.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/85a88041309659eb30c681560c96a22a/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FMark-Zuckerberg.jpg"></article>]]></description>
@@ -66,13 +73,6 @@
             <title><![CDATA[Don Tapscott: How the blockchain is changing money and business]]></title>
             <link>http://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business</link>
             <guid isPermaLink="false">bc6075b3-4c0c-43d9-88af-872c1f80deb1</guid>
-            <pubDate>Fri, 26 Aug 2016 20:30:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Industry Report: Banks Trying to Beat Bitcoin - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>Industry Report: Banks Trying to Beat Bitcoin - Bitcoinist.net</h1><p>Banks create the ultimate Bitcoin rival, Bitwala launches a new wallet, and Poloniex de-lists over 20 altcoins. Want to catch up on the latest digital currency news? Check out the stories below.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b9331799aff0d02618f3e6ac60d31d4b/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F06%2FIndustry-Report-Cover-Bitcoin-Logo.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/industry-report-banks-beat-bitcoin/</link>
-            <guid isPermaLink="false">21d30056-5f92-492b-97a8-8724d9b702ae</guid>
             <pubDate>Fri, 26 Aug 2016 20:30:10 GMT</pubDate>
         </item>
     </channel>
