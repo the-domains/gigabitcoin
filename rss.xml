@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 12:38:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 00:42:18 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA['Yours Network' to Use Bitcoin in Competition Against Steemit]]></title>
+            <description><![CDATA[<article><h1>'Yours Network' to Use Bitcoin in Competition Against Steemit</h1><p>With all the hype surrounding decentralized, blockchain-based social media platforms such as Steemit and Synereo, another next-gen network is on the horizon. Also read: Is Facebook About to Get 'Myspaced' by Next-Gen Social Media? Back in April, the lead developers of the "Yours Network," Ryan X.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/249572afd19efe2be2dfbb56d3a091d3/noop.png?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FX2ZHIsC-1024x513.png"></article>]]></description>
+            <link>https://news.bitcoin.com/yours-network-bitcoin-steemit/</link>
+            <guid isPermaLink="false">dcfacada-d1ba-4402-a1c9-49acc75eae49</guid>
+            <pubDate>Sun, 28 Aug 2016 00:42:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wildfire ransomware code cracked: Victims can now unlock encrypted files for free | ZDNet]]></title>
+            <description><![CDATA[<article><h1>Wildfire ransomware code cracked: Victims can now unlock encrypted files for free | ZDNet</h1><p>Victims of a ransomware campaign aimed at Dutch speakers don't have to pay hackers after the No More Ransom project cracked its cipher.</p></article>]]></description>
+            <link>http://www.zdnet.com/article/wildfire-ransomware-code-cracked-victims-can-now-unlock-encrypted-files-for-free/</link>
+            <guid isPermaLink="false">58834d41-b5a0-4dbb-800d-9fd005cd146e</guid>
+            <pubDate>Sat, 27 Aug 2016 12:37:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What is the minRelayTxFee?]]></title>
             <description><![CDATA[<article><h1>What is the minRelayTxFee?</h1><p>What is the minRelayTxFee? What is it used for, what's the default value and how does the value change?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
@@ -60,19 +74,6 @@
             <description><![CDATA[<article><h1>U.S. Government: Ransomware Attacks Have Quadrupled This Year</h1><p>Ransomware attacks have quadrupled this year over last year, averaging 4,000 per day, according to the U.S. Justice Department, The Wall Street Journal reported in a front-page story recently. This is because ransomware has become easier to deploy and more profitable than other scams, and bitcoin is more widely used.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fa189a7d7298f35906d40d2b721bb57a/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FFinTech-Startup-Says-Law-Enforcement-Is-Ramping-Up-Ransomware-Arrests.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/u-s-government-ransomware-attacks-have-quadrupled-this-year/</link>
             <guid isPermaLink="false">ae69932a-e391-413d-a08f-171b5ed7de67</guid>
-            <pubDate>Sat, 27 Aug 2016 12:37:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.sec.gov/rules/sro/batsbzx/2016/34-78653.pdf</link>
-            <guid isPermaLink="false">69ede253-1964-445d-a425-0a25868f5ea9</guid>
-            <pubDate>Sat, 27 Aug 2016 12:37:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Attack On Krypton a 'Dry Run' For Ethereum? - Bitcoinist.net]]></title>
-            <description><![CDATA[<article><h1>Attack On Krypton a 'Dry Run' For Ethereum? - Bitcoinist.net</h1><p>Smart contracts platform Krypton is recovering from a 51 percent attack this week that saw 21,465 of its tokens exchanged for bitcoin and double-spent. Also read: Industry Report: Banks Trying to Beat Bitcoin According to the fledgling project's founder and project manager Stephanie Kent, the attack was a "two-pronged" effort involving rented hashing power and a DDoS attack on existing nodes to multiply the hashing advantage even further.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d898ce161537f3951b7c627974af22a9/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FKrypton-cover.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/attack-krypton-dry-run-ethereum/</link>
-            <guid isPermaLink="false">7484811a-0cc1-4ffb-8bf1-374b616dab0a</guid>
             <pubDate>Sat, 27 Aug 2016 12:37:42 GMT</pubDate>
         </item>
     </channel>
