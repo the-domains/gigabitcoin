@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 17:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 17:22:24 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Could I get specific instructions on how to build a blockchain/altcoin with python?]]></title>
+            <description><![CDATA[<article><h1>Could I get specific instructions on how to build a blockchain/altcoin with python?</h1><p>Answer: 1. Spend several years learning to code well 2. Do a deep dive into bitcoin and understand completely how it works 3. Do a deep dive into Ethereum and understand completely how it works 4.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/80b1aa101e41ccfcae999444d2c3324a/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-474217-200-zwcxhtgvljaxgmzkvklgejzxtnlxqjxc.jpeg"></article>]]></description>
+            <link>https://www.quora.com/Could-I-get-specific-instructions-on-how-to-build-a-blockchain-altcoin-with-python</link>
+            <guid isPermaLink="false">8141822e-acf5-4998-8fcf-ac771989044d</guid>
+            <pubDate>Sun, 28 Aug 2016 17:22:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What do you think of bitcoin/blockchain in general and the 21 platform in particular?]]></title>
             <description><![CDATA[<article><h1>What do you think of bitcoin/blockchain in general and the 21 platform in particular?</h1><p>Theres a lot of answers already, and I'm not sure I fully understand the question, but here it goes. My own poor dietary choices. I was (and still am to a degree) a bit over weight as a kid. Not massively, but I was certainly large.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/80b1aa101e41ccfcae999444d2c3324a/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-474217-200-zwcxhtgvljaxgmzkvklgejzxtnlxqjxc.jpeg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://themerkle.com/vendor-using-bitpay-becomes-victim-of-five-bitcoin-double-spend-attacks/</link>
             <guid isPermaLink="false">a651b266-9093-4099-ad8f-3682b2eeeaec</guid>
             <pubDate>Sun, 28 Aug 2016 14:33:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Large Scale Dark Net Drug Operation Discovered in Finland - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Large Scale Dark Net Drug Operation Discovered in Finland - NEWSBTC</h1><p>Finland Customs department has unearthed a large organized drug ring operating on the dark net. Read more... Finland's Customs department has announced that it has uncovered the largest drug trafficking organization in the country.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ef65cbde1c2c0930e5beaf9cbedf7bdb/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F28010704%2Ffinland-customs.jpg"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/28/dark-net-drug-operation-in-finland/</link>
-            <guid isPermaLink="false">359237f1-47b2-48d3-bdac-6531dc9022a5</guid>
-            <pubDate>Sun, 28 Aug 2016 14:33:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
