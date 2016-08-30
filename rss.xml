@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 17:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 17:22:52 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Price Finding Support?]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Price Finding Support?</h1><p>Bitcoin price dropped back toward $660, overnight, but now seems to be engaged in a sideways base formation. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member? Join now.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/70dacdc716d2704f1fa69035d72db5f9/noop.png?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FSelection_20160828_002.png"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-price-finding-support-2/</link>
+            <guid isPermaLink="false">0570d4c9-7e59-4f52-bdfb-6c36fc5b5786</guid>
+            <pubDate>Sun, 28 Aug 2016 17:22:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitmain Antminer R4 Review - Mine Bitcoins at Home]]></title>
             <description><![CDATA[<article><h1>Bitmain Antminer R4 Review - Mine Bitcoins at Home</h1><p>Probably one of the most asked questions regarding Bitcoin mining in the past few years was "Is Bitcoin mining profitable?" In 99% of the cases the answer is no, since competition is too fierce and in order to mine profitably you'll need a dedicated ASIC mining rig.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/59921ddbee2f19a177292f0a644ed345/noop.jpg?input=https%3A%2F%2F99bitcoins.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fbitmain-antminer-r4-1024x683.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.quora.com/unanswered/What-do-you-think-of-bitcoin-blockchain-in-general-and-the-21-platform-in-particular</link>
             <guid isPermaLink="false">bfac574d-c08c-41e8-a507-0b63cdcc9319</guid>
             <pubDate>Sun, 28 Aug 2016 17:22:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum Price Weekly Analysis - Can ETH Sustain Bullish Bias? - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Ethereum Price Weekly Analysis - Can ETH Sustain Bullish Bias? - NEWSBTC</h1><p>Ethereum price managed to stay in the positive zone versus the US Dollar, but the loss in momentum is worrying sign in the near term. Ethereum price managed to stay in the positive zone versus the US Dollar, but the loss in momentum is worrying sign in the near term.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5d257daf657bfbf6b6db7185b8769bfc/croprotate.png?cropheight=757&cropwidth=1660&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F28051014%2FEthereum21.png&x=2&y=2"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/28/ethereum-price-weekly-analysis-can-eth-sustain-bullish-bias/</link>
-            <guid isPermaLink="false">93593392-501f-4ae4-add1-c67adbc0b175</guid>
-            <pubDate>Sun, 28 Aug 2016 14:34:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
