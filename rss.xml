@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 17:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 17:22:34 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Is there a Blockchain service enabling to record a bet between two persons and execute bitcoin payment based on the result of the bet (ex...]]></title>
+            <description><![CDATA[<article><h1>Is there a Blockchain service enabling to record a bet between two persons and execute bitcoin payment based on the result of the bet (ex...</h1><p>What's wrong with being direct and blunt? Nothing, as long as you are also compassionate. In fact, direct communication is far superior to indirect or passive communication. Problem is, a lot of folks confuse "direct and blunt" with "being an asshole and deliberately saying hurtful things." Don't do that and you're fine.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b1d09d8cdf61e7dba8e3fda2d3cc414e/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-3864-200-szhzsbknvuegxufhuxahssqzmjgsbxja.jpeg"></article>]]></description>
+            <link>https://www.quora.com/Is-there-a-Blockchain-service-enabling-to-record-a-bet-between-two-persons-and-execute-bitcoin-payment-based-on-the-result-of-the-bet-external-data</link>
+            <guid isPermaLink="false">0beafeba-90a5-47fb-a60f-0d7f37929c1a</guid>
+            <pubDate>Sun, 28 Aug 2016 17:22:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Could I get specific instructions on how to build a blockchain/altcoin with python?]]></title>
             <description><![CDATA[<article><h1>Could I get specific instructions on how to build a blockchain/altcoin with python?</h1><p>Answer: 1. Spend several years learning to code well 2. Do a deep dive into bitcoin and understand completely how it works 3. Do a deep dive into Ethereum and understand completely how it works 4.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/80b1aa101e41ccfcae999444d2c3324a/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-474217-200-zwcxhtgvljaxgmzkvklgejzxtnlxqjxc.jpeg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Kimberly Process pilots a blockchain for tracking the world's diamonds</h1><p>The recently published inaugural Kimberley Process (KP) mid-term report highlights key initiatives and includes a section dedicated to blockchain technology, detailing a proposal "which explores the use of blockchain technology to help enhance security measures." - Kimberly Process Mid-term report The Kimberley Process Certification Scheme (KPCS) is an international effort to keep conflict diamonds out of circulation.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8b1ad91e85491f8970a0ebe8e20b210d/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-Diamonds-from-Catoka-mine.jpg"></article>]]></description>
             <link>http://bravenewcoin.com/news/kimberly-process-pilots-a-blockchain-for-tracking-the-worlds-diamonds/</link>
             <guid isPermaLink="false">d4b4e6ae-f7c6-49ee-a01b-3ebee5caeed8</guid>
-            <pubDate>Sun, 28 Aug 2016 14:33:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vendor Using BitPay Becomes Victim of Five Bitcoin Double-spend Attacks]]></title>
-            <description><![CDATA[<article><h1>Vendor Using BitPay Becomes Victim of Five Bitcoin Double-spend Attacks</h1><p>One particular online Bitcoin shop was the victim of several double-spend attacks while using BitPay as a payment processor. While BitPay lets merchants accept payments as "completed' at zero- network confirmations, it is still; possible to double-spend funds. This highlights the need for payment processor 'insurance' all transactions will be honoured when dealing with zero-confirmation payments.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/75cd2c37ce1d5566aca07b5bf5148fe9/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_267706742.jpg"></article>]]></description>
-            <link>http://themerkle.com/vendor-using-bitpay-becomes-victim-of-five-bitcoin-double-spend-attacks/</link>
-            <guid isPermaLink="false">a651b266-9093-4099-ad8f-3682b2eeeaec</guid>
             <pubDate>Sun, 28 Aug 2016 14:33:59 GMT</pubDate>
         </item>
     </channel>
