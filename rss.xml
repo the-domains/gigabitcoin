@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 17:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 17:22:41 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Humankind Evolution: Liberté, Égalité, Chaîne de Blocs]]></title>
+            <description><![CDATA[<article><h1>Humankind Evolution: Liberté, Égalité, Chaîne de Blocs</h1><p>These days, blockchain ceased being a mere computer technology with limited scope of applications, but a sort of a philosophic concept applicable anywhere in human society. In particular, it may be successfully implemented in state building and reformation of both governance systems and the society in general.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bee3bc88e41e280bb34442f692e7a127/noop.jpg?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F08%2Fimage00.jpg"></article>]]></description>
+            <link>http://forklog.net/humankind-evolution-liberte-egalite-chaine-de-blocs/</link>
+            <guid isPermaLink="false">93279889-829a-4167-afe1-4be2a3c78f93</guid>
+            <pubDate>Sun, 28 Aug 2016 17:22:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What happens if a billionaire decides to buy all $10b worth of Bitcoin?]]></title>
             <description><![CDATA[<article><h1>What happens if a billionaire decides to buy all $10b worth of Bitcoin?</h1><p>Answer: This would seem a little bit silly. What would the purpose be. But of course it's meant to be a hypothetical question, so let me give it a little bit of thought. I know only very little about Bitcoin, but I understand economics and markets. Bitcoin is currently being traded in what seems...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d5688bf8356d0834fac8c2708aaaecda/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-8553-200-xc58FFLer0UCGz2E1tQI84L6xte1RVqu.jpeg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Could I get specific instructions on how to build a blockchain/altcoin with python?</h1><p>People are generally less polite. There's not nearly as much stopping to let pedestrians cross (no such thing as a zebra crossing in the US), or giving other drivers a friendly wave. The headlight-blink meaning "c...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/80b1aa101e41ccfcae999444d2c3324a/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-474217-200-zwcxhtgvljaxgmzkvklgejzxtnlxqjxc.jpeg"></article>]]></description>
             <link>https://www.quora.com/unanswered/Could-I-get-specific-instructions-on-how-to-build-a-blockchain-altcoin-with-python</link>
             <guid isPermaLink="false">130e99c1-61d6-43d2-950d-6def9e9f2dd2</guid>
-            <pubDate>Sun, 28 Aug 2016 14:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is it worth to make my own bitcoin app?]]></title>
-            <description><![CDATA[<article><h1>Is it worth to make my own bitcoin app?</h1><p>Answer (1 of 2): For sure, the Bitcoin world needs apps and services that are constantly improving on the ones before them, to make it easy and useful to everyone. If security and legal compliance aren't your strong points, though, I'd recommend working on information apps or decentralized servi...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/87785482e71795662128073b8ca89052/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-3544-200-DDa210tdHWnSwW0GbWfobW5lRxdVxTS3.jpeg"></article>]]></description>
-            <link>https://www.quora.com/Is-it-worth-to-make-my-own-bitcoin-app</link>
-            <guid isPermaLink="false">40af9dc7-93bc-41f4-9706-34963825cd14</guid>
             <pubDate>Sun, 28 Aug 2016 14:34:00 GMT</pubDate>
         </item>
     </channel>
