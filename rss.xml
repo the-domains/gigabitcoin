@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 14:34:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 14:34:36 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This New Zealand Artist Sees the Blockchain Differently]]></title>
+            <description><![CDATA[<article><h1>This New Zealand Artist Sees the Blockchain Differently</h1><p>Simon Denny, an artist from New Zealand, is taking blockchain technology to a different level with his geeky art being displayed at the Petzel Gallery in New York City on September 8- October 22. Denny's art exhibit features distributed ledger technology, the Risk board game, and Pokémon.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/62eb78f6d0391bcaea2ccbfc6255449b/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FBB9_Simon_Denny_03-1024x607.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/new-zealand-artist-blockchain-different/</link>
+            <guid isPermaLink="false">8a2a7a3b-70a0-4998-bc06-cde784d6728f</guid>
+            <pubDate>Sun, 28 Aug 2016 14:33:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Tracker Offers A New Way To Look At Cryptocurrency Transfers]]></title>
             <description><![CDATA[<article><h1>Bitcoin Tracker Offers A New Way To Look At Cryptocurrency Transfers</h1><p>Over the past few months,there has been an increased focus on so-called Bitcoin analytics tools. Many people associate Bitcoin with anonymity these days. According to most people, it is next to impossible to track Bitcoin transfers. This is a very odd statement, considering how all Bitcoin Transactions are visible on the blockchain in real-time.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a3de23e4edfc97f7aea9c2da82d505e4/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F28095724%2Fshutterstock_226597924.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://np.reddit.com/r/technology/comments/4zw6gj/unless_congress_stops_it_the_fbi_wants_to/</link>
             <guid isPermaLink="false">d6a2c57b-8a8f-4775-a63e-36d93541c2ff</guid>
             <pubDate>Sun, 28 Aug 2016 14:33:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contactless Payments in 2016 Surpass The 2015 UK Volume]]></title>
-            <description><![CDATA[<article><h1>Contactless Payments in 2016 Surpass The 2015 UK Volume</h1><p>Contactless payments are one of those trends which may or may not become a big thing. Just last year, things were not looking overly positive, despite some growth in most countries around the world. The year 2016 is looking very promising, as the number of contactless payments, this year surpassed the total 2015 volume already.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6844d42ca1572e92f4c4812495aadced/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_413739946.jpg"></article>]]></description>
-            <link>http://themerkle.com/contactless-payments-in-2016-surpass-the-2015-uk-volume/</link>
-            <guid isPermaLink="false">f58578e4-132f-48a3-88ef-501d8482f79e</guid>
-            <pubDate>Sun, 28 Aug 2016 14:33:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
