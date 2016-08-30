@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 04:40:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 04:40:41 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why does script need to be purged from transactions for mimblewimble to work?]]></title>
+            <description><![CDATA[<article><h1>Why does script need to be purged from transactions for mimblewimble to work?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top What is the compatibility problem between script and mimblewimble usage on the main chain?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/48008/why-does-script-need-to-be-purged-from-transactions-for-mimblewimble-to-work</link>
+            <guid isPermaLink="false">980a8389-9fd3-46fe-8b16-a1078122bf17</guid>
+            <pubDate>Mon, 29 Aug 2016 04:40:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Deals: Learn How To Trade And Use Bitcoin]]></title>
             <description><![CDATA[<article><h1>Deals: Learn How To Trade And Use Bitcoin</h1><p>Bitcoin is the next big thing: it's fast, reliable, and cheap to trade, making it a serious game-changer for online commerce. This Bit.Yoga online training course is the perfect introduction for beginners, teaching you the fundamentals behind Bitcoin, how to trade and store it, and how to launch y...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3230cca23939b753b17b099e813dc7d2/noop.jpg?input=http%3A%2F%2Fi.imgur.com%2FBevnbp9.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Is Samsung Interested in Blockchain Technology?</h1><p>According to media source The Korea Times, Samsung Group -the biggest technology conglomerate of South Korea- is looking to invest resources towards Blockchain solutions. Apparently, chief executives and high-level personnel of Samsung group attended a lecture on blockchain technology, by professor Roh Sang-kyu of Seoul National University.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/82f9fc2ed891d685c2b3ccf54fede454/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_416365276.jpg"></article>]]></description>
             <link>http://themerkle.com/samsung-interested-in-blockchain-technology/</link>
             <guid isPermaLink="false">fecc01e7-e49d-44c8-bc27-87430ea1cafd</guid>
-            <pubDate>Mon, 29 Aug 2016 01:58:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Leading Blockchain Development Team Announces The Foration of Blockchain Foundry, Initial Commercial Product Will Target E-commerce]]></title>
-            <description><![CDATA[<article><h1>Leading Blockchain Development Team Announces The Foration of Blockchain Foundry, Initial Commercial Product Will Target E-commerce</h1><p>Blockchain Foundry Inc. ("Blockchain Foundry" or the "Company") today announces its establishment as a leading developer of blockchain solutions for businesses and individual consumers. The Company provides blockchain solutions using several of the most developed and robust blockchain technologies, with plans for its product offerings to be interoperable between these different blockchain technologies.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fc420aa358fff79743db5a5c877254e8/noop.png?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fbf_logo_color_vertical_1616x1097.png"></article>]]></description>
-            <link>http://themerkle.com/leading-blockchain-development-team-announces-the-foration-of-blockchain-foundry-initial-commercial-product-will-target-e-commerce/</link>
-            <guid isPermaLink="false">3f2470e0-4fd9-4180-9272-c22f8eeccfa6</guid>
             <pubDate>Mon, 29 Aug 2016 01:58:10 GMT</pubDate>
         </item>
     </channel>
