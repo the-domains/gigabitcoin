@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 05:39:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 05:39:34 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Singapore Central Bank Proposes New Rules for Bitcoin Startups - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Singapore Central Bank Proposes New Rules for Bitcoin Startups - CoinDesk</h1><p>The central bank of Singapore has proposed a new regulatory framework for payments providers in the city-state, a move that would bring digital currency exchanges under its oversight. The proposed framework would require applicable companies to obtain a license from the Monetary Authority of Singapore ( MAS), and divides payment activities into several categories.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9e148848efe70f1e76557e04facfae79/noop.png?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FScreen-Shot-2016-08-29-at-7.45.16-AM-e1472471181467.png"></article>]]></description>
+            <link>http://www.coindesk.com/singapore-central-bank-proposes-new-rules-bitcoin-startups/</link>
+            <guid isPermaLink="false">4e4ba8e3-fbdb-4ee3-8308-1194bb67df93</guid>
+            <pubDate>Tue, 30 Aug 2016 05:37:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Risk of Bitcoin Hacks and Losses Is Very Real]]></title>
             <description><![CDATA[<article><h1>Risk of Bitcoin Hacks and Losses Is Very Real</h1><p>When hackers penetrated a secure authentication system at a bitcoin exchange called Bitfinex earlier this month, they stole about $70 million worth of the virtual currency. The cyber theft-the second largest by an exchange since hackers took roughly $350 million in bitcoins at Tokyo's MtGox exchange in early 2014-is hardly a rare occurrence in the emerging world of crypto-currencies.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f506b747d079971dcc51378abfd3b8e4/noop.jpg?input=https%3A%2F%2Ffortunedotcom.files.wordpress.com%2F2016%2F07%2Fgettyimages-510363560.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Caribbean Shoppers Now Have Access To eBay Through New Mobile App</h1><p>All the new app needs to do now is to integrate Bitcoin payments, which seem to be gaining traction in The Caribbean as of late. Exciting things are happening on The Caribbean. As Bitcoin adoption seems to thrive in the region, online shopping is becoming a new point of focus.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7a96ba9522ed6150a897caa213932d4d/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F29133413%2Fshutterstock_336752246.jpg"></article>]]></description>
             <link>http://www.newsbtc.com/2016/08/29/caribbean-shoppers-now-access-ebay-new-mobile-app/</link>
             <guid isPermaLink="false">f182443f-b664-4cab-b666-fa08762f9233</guid>
-            <pubDate>Tue, 30 Aug 2016 05:37:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Bitcoin Blocksize Debate Has Not Even Fully Begun Yet]]></title>
-            <description><![CDATA[<article><h1>The Bitcoin Blocksize Debate Has Not Even Fully Begun Yet</h1><p>China's largest miner HaoBTC spoke with Bitcoin.com following their tweet stating that the Core developers have "won" the Bitcoin blocksize debate. Also read: Private Internet Access VPN Adds Roger Ver to Advisory Board Following a petitionary statement to developers to implement the July 2016 hard fork, agreed at the Hong Kong roundtable event by members including HaoBTC, the miner's CEO Eric Mu made the comment in response to a Reddit call for updates.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b37be72041aece5b3253f00871b03f6a/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_140946424.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/bitcoin-blocksize-debate-not-begun/</link>
-            <guid isPermaLink="false">d58b52b7-da0f-4e3c-b89e-36b18d38bc66</guid>
             <pubDate>Tue, 30 Aug 2016 05:37:34 GMT</pubDate>
         </item>
     </channel>
