@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 05:38:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 05:38:28 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How reliable is Monero? Can it replace Bitcoin?]]></title>
+            <description><![CDATA[<article><h1>How reliable is Monero? Can it replace Bitcoin?</h1><p>Answer: It seems that Bitcoin is moving to a regulation controlled field, so fans of unregulated markets are moving to Monero. See a relative post:Darknet Customers Are Demanding Bitcoin Alternative Monero</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/87785482e71795662128073b8ca89052/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-3544-200-DDa210tdHWnSwW0GbWfobW5lRxdVxTS3.jpeg"></article>]]></description>
+            <link>https://www.quora.com/How-reliable-is-Monero-Can-it-replace-Bitcoin</link>
+            <guid isPermaLink="false">046a35fc-3cfc-4537-92bf-a9bbf823274e</guid>
+            <pubDate>Tue, 30 Aug 2016 05:37:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Russia Leader Confirms Nation Will Not Ban Bitcoin | Bitconnect]]></title>
             <description><![CDATA[<article><h1>Russia Leader Confirms Nation Will Not Ban Bitcoin | Bitconnect</h1><p>Russia Leader Confirms Nation Will Not Ban Bitcoin ​We have been following the constant rhetoric and confusion out of Russia on what to do with Bitcoin. One month, they say ban Bitcoin and throw people in jail. The next month, they say Bitcoin will be free to use.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b3d99b9aea35eb31108784362e7816e6/noop.jpg?input=https%3A%2F%2Fbitconnect.co%2F%2Fupload%2Fimage%2Fbit_coin_new%2F85986339981472471744_mFiqFSR9g7.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://cointelegraph.com/news/test-attack-on-krypton-ethereum-classic-might-be-next</link>
             <guid isPermaLink="false">fe84165b-f776-4908-946f-d43458dbd4e6</guid>
             <pubDate>Tue, 30 Aug 2016 05:37:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum-Competitor Lisk Unveils Roadmap]]></title>
-            <description><![CDATA[<article><h1>Ethereum-Competitor Lisk Unveils Roadmap</h1><p>The multi-platform blockchain project Lisk has just released its Also read: This New Zealand Artist Sees the Blockchain Differently developmental roadmap, which will cover five milestones that the team will build over the next few years. The Berlin-based Lisk project (Lisk.io) has been making waves within the cryptocurrency community for being a possible rival of the Ethereum project.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e18d2c79d9a62d4d60b8fc5854a4ef62/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_143319148.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/ethereum-competitor-lisk-unveils-roadmap/</link>
-            <guid isPermaLink="false">08b17d1a-9120-4fe5-9c11-b7ad25d8ecc3</guid>
-            <pubDate>Tue, 30 Aug 2016 05:37:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
