@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 13:36:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 13:36:36 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Only 1.5% of LocalBitcoins Transactions Are Local Trades]]></title>
+            <description><![CDATA[<article><h1>Only 1.5% of LocalBitcoins Transactions Are Local Trades</h1><p>LocalBitcoins is one of the few cryptocurrency platforms promoting peer-to-peer interaction. Users can meet face-to-face with other Bitcoin enthusiasts to complete trades. But are we using the platform all wrong? Statistics indicate various regions of the world only see 1.5% of all trades as person-to-person interactions.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/4a0c74f59e9ee3ed2cc7650495818ddf/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_171929312.jpg"></article>]]></description>
+            <link>http://themerkle.com/only-1-5-of-localbitcoins-transactions-are-local-trades/</link>
+            <guid isPermaLink="false">5697df86-3c58-4e5a-a8f5-d51464056dfa</guid>
+            <pubDate>Tue, 30 Aug 2016 13:33:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blockchain's Thunder Network Aims at Faster Refunds]]></title>
             <description><![CDATA[<article><h1>Blockchain's Thunder Network Aims at Faster Refunds</h1><p>Blockchain is improving its Thunder Network for faster settlement and refund times in off-chain transactions, according to a project update. Also read: Ethereum-Competitor Lisk Unveils Roadmap Released as an alpha-stage prototype for testing in May, Thunder is a version of Bitcoin's proposed Lightning Networks, which handles transactions instantly between users and settles at a later time on the Bitcoin blockchain.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d0551ffe1ab1ce0cab0b3bb0b5aeb571/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FThunderstorm.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Octopocket: Where Bitcoin Meets Telegram</h1><p>The Octopocket team are members of a Bitcoin Association in Spain called avalbit.org. They love bitcoin and do monthly meetups to introduce people to blockchain technology. The project believes that practice is more important than theory, and they want to make their platform as simple to use - and access - as possible.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/159bde474f1dc1e24dc2aa902c11e0fc/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FTelegram-app.jpg"></article>]]></description>
             <link>https://www.cryptocoinsnews.com/telegram-bitcoin-octopocket/</link>
             <guid isPermaLink="false">ad897a10-5aa4-4ee1-ace5-57d523d3cabc</guid>
-            <pubDate>Tue, 30 Aug 2016 13:33:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What We Learned About Technocratic Fallacies From DAO Collapse]]></title>
-            <description><![CDATA[<article><h1>What We Learned About Technocratic Fallacies From DAO Collapse</h1><p>The DAO, the first leaderless investment fund which operates on code for reaching consensus in decision-making, is championing for the supremacy of the "immutable, incorruptible" code to be freed from the common fallacies of human behavior such as cognitive bias and irrationality.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/22bc97b443863d71114fd1214cc5c5b9/noop.png?input=https%3A%2F%2Fcointelegraph.com%2Fstorage%2Fuploads%2Fview%2F500978c29de1c89635a43d6e41407a2f.png"></article>]]></description>
-            <link>https://cointelegraph.com/news/what-we-learned-about-technocratic-fallacies-from-dao-collapse</link>
-            <guid isPermaLink="false">32b8083c-a553-42e2-aba6-6c726dd5c65b</guid>
             <pubDate>Tue, 30 Aug 2016 13:33:20 GMT</pubDate>
         </item>
     </channel>
