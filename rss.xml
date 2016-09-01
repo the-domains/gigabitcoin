@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 05:39:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 05:39:53 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cyber threat grows for bitcoin exchanges]]></title>
+            <description><![CDATA[<article><h1>Cyber threat grows for bitcoin exchanges</h1><p>NEW YORK When hackers penetrated a secure authentication system at a bitcoin exchange called Bitfinex earlier this month, they stole about $70 million worth of the virtual currency. The cyber theft -- the second largest by an exchange since hackers took roughly $350 million in bitcoins at Tokyo's MtGox exchange in early 2014 -- is hardly a rare occurrence in the emerging world of crypto-currencies.</p></article>]]></description>
+            <link>http://www.reuters.com/article/us-bitcoin-cyber-analysis-idUSKCN11411T</link>
+            <guid isPermaLink="false">212781fe-0dde-4f7a-b055-f06609c53df0</guid>
+            <pubDate>Tue, 30 Aug 2016 05:37:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Global trade association for regulated financial exchanges finds overwhelming interest in blockchain tech among members]]></title>
             <description><![CDATA[<article><h1>Global trade association for regulated financial exchanges finds overwhelming interest in blockchain tech among members</h1><p>The World Federation of Exchanges (WFE) recently published a 14-page report outlining the results of an in-depth survey on how exchanges and financial market infrastructure providers use blockchain technology, and what their perspectives are. Founded in 1961, the WFE is a trade association acting on behalf of 99 organizations, including affiliate members, clearinghouses, and 63 regulated exchanges listing over 45,000 companies from across the globe.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b9c46e33dbd0fea963954d21cd176420/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-Bull-and-Bear.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>What is safest bitcoin exchange?</h1><p>Answer: Three years ago, the largest Bitcoin exchange was Mt. Gox of Japan. Their lack of transparency, controls and security protocols was alarming. I predicted their downfallfrom either a criminal mess-or one of misfeasance, at best. But even before the implosion of Mt. Gox-and more recently, ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/87785482e71795662128073b8ca89052/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-3544-200-DDa210tdHWnSwW0GbWfobW5lRxdVxTS3.jpeg"></article>]]></description>
             <link>https://www.quora.com/What-is-safest-bitcoin-exchange</link>
             <guid isPermaLink="false">833c4768-2b1e-4984-a369-6d89f385bfd9</guid>
-            <pubDate>Tue, 30 Aug 2016 05:37:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Experts: FBI Not Bidding On Hacked NSA Code With Bitcoin From Silk Road Seizure]]></title>
-            <description><![CDATA[<article><h1>Experts: FBI Not Bidding On Hacked NSA Code With Bitcoin From Silk Road Seizure</h1><p>The FBI is not bidding on stolen National Security Agency (NSA) source code with bitcoins seized from Silk Road, contrary to a widely reported allegation. That's according to security experts interviewed by The Hill. The allegation emerged when a bitcoin user sent money to both an NSA source code account and the seized bitcoin account, but no money changed between the accounts, according to experts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ef37f09aa8e8e89328d0b9ea317b3990/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FFBI-seal.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/experts-fbi-not-bidding-on-hacked-nsa-code-with-bitcoin-from-silk-road-seizure/</link>
-            <guid isPermaLink="false">1c7d7a8d-386d-4606-b4f8-f072373244d0</guid>
             <pubDate>Tue, 30 Aug 2016 05:37:34 GMT</pubDate>
         </item>
     </channel>
