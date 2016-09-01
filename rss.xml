@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 13:35:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 13:35:47 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[German Consumers Flock To Cash As Faith in Banks Reaches new Low]]></title>
+            <description><![CDATA[<article><h1>German Consumers Flock To Cash As Faith in Banks Reaches new Low</h1><p>Most of the Germans feel the European Central Bank is to blame. They feel the ECB is igniting eurozone inflation with negative interest rates. Having faith in a bank is not something most people are accustomed to these days. Things seem to be going from bad to worse in Germany.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b0a1e89889d33913933fb2742ba077b7/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F30094754%2Fshutterstock_224295673.jpg"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/30/german-consumers-flock-cash-faith-banks-reaches-new-low/</link>
+            <guid isPermaLink="false">81d33c02-c4c9-46ce-858c-300ce223cd43</guid>
+            <pubDate>Tue, 30 Aug 2016 13:33:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[15 blockchain whitepapers awarded winners of US Department of Health and Human Services Challenge]]></title>
             <description><![CDATA[<article><h1>15 blockchain whitepapers awarded winners of US Department of Health and Human Services Challenge</h1><p>A challenge held by the US Department of Health and Human Services (HHS) to encourage Blockchain use in the Health Information Technology field resulted in 15 winning whitepapers. The Department's Office of the National Coordinator for Health Information Technology (ONC) first announced the "Use of Blockchain in Health IT and Health-Related Research" challenge in July.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b466e49d5e7134b81d5598a999960c94/noop.jpeg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-US-Department-of-Health-and-Human-Services-Challenge-aug-2016.jpeg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>IPC & Post-Quantum Will Fuse Blockchain & Cloud Technologies</h1><p>New Jersey-based IPC Systems has partnered with Post-Quantum Solutions to implement biometrics, encryption and blockchain technologies into its Connexus Cloud network. Also read: Private Internet Access VPN Adds Roger Ver to Advisory Board IPC currently specializes in trading turret products and multi-speaker communications devices.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/22a4920fff4dc610e90f2412ac06bdfa/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_178660322.jpg"></article>]]></description>
             <link>https://news.bitcoin.com/ipc-post-quantum-blockchain-cloud-tech/</link>
             <guid isPermaLink="false">0c328bd3-9695-4777-8697-adec4b6e5633</guid>
-            <pubDate>Tue, 30 Aug 2016 13:33:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin 0.13.0 May Change Bitcoin Forever]]></title>
-            <description><![CDATA[<article><h1>Bitcoin 0.13.0 May Change Bitcoin Forever</h1><p>Remember Windows Vista? The new Coke? An upgrade is not always a good thing until it is a good thing. Yet, without making changes and testing, things will never improve. Bitcoin Core is also going to be upgraded and hopefully things will be better for the cryptocurrency after it comes out.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/372e4d43cf16d4347480d85ef67b6ef3/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lYTBmNjEzNzM5NDA3ZWY4ODcwMjBlYmYwY2QyZDlhNi5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/bitcoin-0130-may-change-bitcoin-forever</link>
-            <guid isPermaLink="false">e91b53e9-ce75-4b1f-85d9-84b2c62d6290</guid>
             <pubDate>Tue, 30 Aug 2016 13:33:20 GMT</pubDate>
         </item>
     </channel>
