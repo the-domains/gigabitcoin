@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 13:37:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 13:37:52 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Master all things Bitcoin with this Bit.Yoga course (86 per cent off) - Pocket-lint]]></title>
+            <description><![CDATA[<article><h1>Master all things Bitcoin with this Bit.Yoga course (86 per cent off) - Pocket-lint</h1><p>The web isn't just changing how we do business: it's changing the nature of money itself. Take Bitcoin for example. 100 per cent digital and free from</p></article>]]></description>
+            <link>http://www.pocket-lint.com/news/138627-master-all-things-bitcoin-with-this-bit-yoga-course-86-per-cent-off</link>
+            <guid isPermaLink="false">0be55ab6-9058-49e3-b209-076667096f82</guid>
+            <pubDate>Tue, 30 Aug 2016 13:33:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Everything you need to know about Bitcoin]]></title>
             <description><![CDATA[<article><h1>Everything you need to know about Bitcoin</h1><p>If you've hung out with any hipsters, hippies or techies - or even if you just read the news, you might have heard of bitcoin, the virtual currency or cryptocurrency. It's a way for users of the currency to buy and sell things anonymously and without their money being tied to a central authority like a bank or government.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5329586caffb734903afcf129895d6f2/noop.jpg?input=http%3A%2F%2Fwww.reviewjournal.com%2Fsites%2Fdefault%2Ffiles%2Ffield%2Fmedia%2Fweb1_thinkstockphotos-509805849_6929549.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://news.bitcoin.com/blockchain-thunder-faster-refunds/</link>
             <guid isPermaLink="false">9f601d23-e33f-4a63-9542-c6d4063003ac</guid>
             <pubDate>Tue, 30 Aug 2016 13:33:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum (ETH and ETC) Price Trends (Week of August 30th)]]></title>
-            <description><![CDATA[<article><h1>Ethereum (ETH and ETC) Price Trends (Week of August 30th)</h1><p>Ethereum's price continues its medium-term flat. The scale of that flat is a basis for a trend of the same scale. Which means that there is a chance for a powerful movement. Such behavior of the price could become a good reason to continue the long-term upward trend.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/ff724c803c0bd179ecf3c27a8c957963/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hZWZkNjUzZjVjMWI5MWZlNTdkYTgwNmMzMzZmMDJmNC5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/ethereum-eth-and-etc-price-trends-week-of-august-30th</link>
-            <guid isPermaLink="false">fc39d977-9f46-4b58-b397-1ebff569c937</guid>
-            <pubDate>Tue, 30 Aug 2016 13:33:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
