@@ -4,8 +4,29 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 05:38:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 05:38:47 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[An update on Thunder: On-Chain-Settlement (or CLAIM ALL THE THINGS)]]></title>
+            <description><![CDATA[<article><h1>An update on Thunder: On-Chain-Settlement (or CLAIM ALL THE THINGS)</h1><p>A couple of months ago, we announced the alpha launch of the thunder.network . As we explained at the time, the vast majority of thunder payments are processed without touching the bitcoin blockchain, but that can only work if the few that eventually make it into the blockchain are handled correctly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0733bb9257e55621c2c47ad156057f5bc2ff8eb5.png"></article>]]></description>
+            <link>https://blog.blockchain.com/2016/08/29/an-update-on-thunder-on-chain-settlement-or-claim-all-the-things/</link>
+            <guid isPermaLink="false">8f665473-ba10-4e77-a328-57bc6abeeb6a</guid>
+            <pubDate>Tue, 30 Aug 2016 05:37:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Industry Report: A Week of Shakeups in the Tech World]]></title>
+            <description><![CDATA[<article><h1>Industry Report: A Week of Shakeups in the Tech World</h1><p>Ethereum split fuels heated arguments, WhatsApp sides with Facebook at the expense of users, and Krypton is the world's latest cyber-attack victim. Want to catch up on the latest tech and digital currency news? Read the stories below.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b9331799aff0d02618f3e6ac60d31d4b/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F06%2FIndustry-Report-Cover-Bitcoin-Logo.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/industry-report-shakeups-tech-world/</link>
+            <guid isPermaLink="false">90ba9aa3-edc6-4665-8dda-a2c340c3dedc</guid>
+            <pubDate>Tue, 30 Aug 2016 05:37:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Monero Rising: Why Dark Markets Matter]]></title>
+            <description><![CDATA[<article><h1>Monero Rising: Why Dark Markets Matter</h1><p>The precipitous rise of Monero in the past few days has caused many users and traders to ask: what's behind the surge of the self-proclaimed "untraceable" XMR token? Also read: Fed Explores Radical New Financial Engineering Tools For those familiar with the altcoin market, it's not how much a coin has made, but more how much has it made for you lately?</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/1487bab272970ce753f315b832038578/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fmonero.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/monero-rising-dark-markets-matter/</link>
+            <guid isPermaLink="false">aac1791a-e662-490a-bddb-809f390a4cad</guid>
+            <pubDate>Tue, 30 Aug 2016 05:37:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Price Pushes Higher from Support]]></title>
             <description><![CDATA[<article><h1>Bitcoin Price Pushes Higher from Support</h1><p>Bitcoin price pushed higher from the horizontal support zone near $660. The outlook remains that the market is engaged in a sideways base formation prior to advance. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member? Join now.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/fa496415aecaf47fe0e847b9cf0c9f34/noop.png?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FSelection_20160829_004.png"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>http://forklog.net/emercoin-cto-blockchain-is-more-important-than-exchange-gambling/</link>
             <guid isPermaLink="false">83bb62b7-f788-49b7-af84-3946d27110d7</guid>
             <pubDate>Tue, 30 Aug 2016 05:37:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Stays Flat as a Consolidation Range Between $565 and $585 Remains Intact]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Stays Flat as a Consolidation Range Between $565 and $585 Remains Intact</h1><p>As we head into the unofficial last week of the summer, we continue to expect lackluster price action through the long holiday weekend in the US. That said, we are getting closer to a seasonal period that is more conducive to volatility in all financial markets.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7ae309d04537dfe697d317fe7a1c9426/croprotate?cropheight=545&cropwidth=1314&degrees=0&input=https%3A%2F%2Flh3.googleusercontent.com%2FR9qcozcuT51AhMaSlKZHV1HmszvDhlyWEdE99EKvrPG_xMhwyo3n4yQDoDzkUijbC9BmpukQgigCZgV4o8K1g5XgPjmLzxdEUOexuXRBUjGnFI8sNzh6V3QiO7rMMQ_xuq2RdM2L&x=4&y=4"></article>]]></description>
-            <link>https://cointelegraph.com/news/bitcoin-price-stays-flat-as-a-consolidation-range-between-565-and-585-remains-intact</link>
-            <guid isPermaLink="false">c0c38b30-e9be-49be-9d28-d34473e453c8</guid>
-            <pubDate>Tue, 30 Aug 2016 05:37:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain-based e-Voting to Be Launched in Odessa Region, Ukraine]]></title>
-            <description><![CDATA[<article><h1>Blockchain-based e-Voting to Be Launched in Odessa Region, Ukraine</h1><p>E-Vox team has announced the launch of blockchain-based e-voting service e-Vox:NaRada at the City Rada (council) of Balta, a town in Odessa Region of Ukraine. "We have reached an agreement with Balta as to implementation of our voting system.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f557dd9dff7d7ad5f2fc1ec826095196/noop.jpg?input=http%3A%2F%2Fforklog.com%2Fwp-content%2Fuploads%2F14152259_10202179476045465_1807948603_o-768x576.jpg"></article>]]></description>
-            <link>http://forklog.net/blockchain-based-e-voting-to-be-launched-in-odessa-region-ukraine/</link>
-            <guid isPermaLink="false">609d4649-9e67-4ec2-834f-ff308366ef82</guid>
-            <pubDate>Tue, 30 Aug 2016 05:37:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How reliable is Monero? Can it replace Bitcoin?]]></title>
-            <description><![CDATA[<article><h1>How reliable is Monero? Can it replace Bitcoin?</h1><p>Answer: It seems that Bitcoin is moving to a regulation controlled field, so fans of unregulated markets are moving to Monero. See a relative post:Darknet Customers Are Demanding Bitcoin Alternative Monero</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/87785482e71795662128073b8ca89052/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-3544-200-DDa210tdHWnSwW0GbWfobW5lRxdVxTS3.jpeg"></article>]]></description>
-            <link>https://www.quora.com/How-reliable-is-Monero-Can-it-replace-Bitcoin</link>
-            <guid isPermaLink="false">046a35fc-3cfc-4537-92bf-a9bbf823274e</guid>
-            <pubDate>Tue, 30 Aug 2016 05:37:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
