@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 13:36:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 13:36:52 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blockchain Updates On-Chain Settlement for Thunder Network]]></title>
+            <description><![CDATA[<article><h1>Blockchain Updates On-Chain Settlement for Thunder Network</h1><p>Blockchain, the bitcoin-centric startup, recently offered an update on its Thunder Network on-chain settlement, having released the alpha version in May. Blockchain released the alpha version of its Thunder Network as a payments channel to be the first usable implementation of the Lightning network for off-chain bitcoin payments that settles back to the main bitcoin blockchain, CCN previously reported.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/1e14c1acc51f7db93c564e38950b6c05/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FThunderstorm-night.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/blockchain-updates-chain-settlement-thunder-network/</link>
+            <guid isPermaLink="false">25652b93-c4d8-47d7-b872-21db3e8fe8c4</guid>
+            <pubDate>Tue, 30 Aug 2016 13:33:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[California Public Employees' Retirement System Talks Investment in Blockchain in 2035 - Bitcoinist.net]]></title>
+            <description><![CDATA[<article><h1>California Public Employees' Retirement System Talks Investment in Blockchain in 2035 - Bitcoinist.net</h1><p>On July 18th, 2016, the California Public Employees' Retirement System (CalPERS) discussed investing in the blockchain at "2035 Vision - Investing in the Future," a talk on the agency's future vision Also read: Kim Dotcom Requests Court Hearing to Be Livestreamed plan.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e1100ee90cb170b5136336a95507edec/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2Fblockchain-linux-2.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/californian-government-agency-discusses-investing-in-blockchain/</link>
+            <guid isPermaLink="false">537b9b52-400b-446e-8169-16862da93586</guid>
+            <pubDate>Tue, 30 Aug 2016 13:33:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Only 1.5% of LocalBitcoins Transactions Are Local Trades]]></title>
             <description><![CDATA[<article><h1>Only 1.5% of LocalBitcoins Transactions Are Local Trades</h1><p>LocalBitcoins is one of the few cryptocurrency platforms promoting peer-to-peer interaction. Users can meet face-to-face with other Bitcoin enthusiasts to complete trades. But are we using the platform all wrong? Statistics indicate various regions of the world only see 1.5% of all trades as person-to-person interactions.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/4a0c74f59e9ee3ed2cc7650495818ddf/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_171929312.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://cointelegraph.com/news/helsinki-to-become-scandinavias-fintech-capital-blockchain-hub</link>
             <guid isPermaLink="false">44ad193e-6606-44e9-8142-943b887f48ae</guid>
             <pubDate>Tue, 30 Aug 2016 13:33:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EU Parliament Member Seeks €1 Million for Blockchain Research - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>EU Parliament Member Seeks €1 Million for Blockchain Research - CoinDesk</h1><p>A member of the European Parliament is proposing that €1m ($1.1m) be spent on a task force that would focus on studying digital currencies and blockchain technology. The push for funding comes months after the legislative arm of the European Union (EU) first approved the task force, proposed by MEP Jakob von Weizsäcker earlier this year.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d07a01a1c7c517e04ea8ee92c21268bd/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Feuro-money-e1472511628192.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/eu-parliament-member-seeks-e1-million-blockchain-research/</link>
-            <guid isPermaLink="false">e6bb1a86-829a-4385-9ae0-1b1a9feeb682</guid>
-            <pubDate>Tue, 30 Aug 2016 13:33:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Octopocket: Where Bitcoin Meets Telegram]]></title>
-            <description><![CDATA[<article><h1>Octopocket: Where Bitcoin Meets Telegram</h1><p>The Octopocket team are members of a Bitcoin Association in Spain called avalbit.org. They love bitcoin and do monthly meetups to introduce people to blockchain technology. The project believes that practice is more important than theory, and they want to make their platform as simple to use - and access - as possible.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/159bde474f1dc1e24dc2aa902c11e0fc/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FTelegram-app.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/telegram-bitcoin-octopocket/</link>
-            <guid isPermaLink="false">ad897a10-5aa4-4ee1-ace5-57d523d3cabc</guid>
-            <pubDate>Tue, 30 Aug 2016 13:33:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
