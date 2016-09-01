@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 13:36:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 13:36:23 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blockchain's Thunder Network Aims at Faster Refunds]]></title>
+            <description><![CDATA[<article><h1>Blockchain's Thunder Network Aims at Faster Refunds</h1><p>Blockchain is improving its Thunder Network for faster settlement and refund times in off-chain transactions, according to a project update. Also read: Ethereum-Competitor Lisk Unveils Roadmap Released as an alpha-stage prototype for testing in May, Thunder is a version of Bitcoin's proposed Lightning Networks, which handles transactions instantly between users and settles at a later time on the Bitcoin blockchain.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d0551ffe1ab1ce0cab0b3bb0b5aeb571/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FThunderstorm.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/blockchain-thunder-faster-refunds/</link>
+            <guid isPermaLink="false">9f601d23-e33f-4a63-9542-c6d4063003ac</guid>
+            <pubDate>Tue, 30 Aug 2016 13:33:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ethereum (ETH and ETC) Price Trends (Week of August 30th)]]></title>
             <description><![CDATA[<article><h1>Ethereum (ETH and ETC) Price Trends (Week of August 30th)</h1><p>Ethereum's price continues its medium-term flat. The scale of that flat is a basis for a trend of the same scale. Which means that there is a chance for a powerful movement. Such behavior of the price could become a good reason to continue the long-term upward trend.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/ff724c803c0bd179ecf3c27a8c957963/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hZWZkNjUzZjVjMWI5MWZlNTdkYTgwNmMzMzZmMDJmNC5qcGc%3D.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>What We Learned About Technocratic Fallacies From DAO Collapse</h1><p>The DAO, the first leaderless investment fund which operates on code for reaching consensus in decision-making, is championing for the supremacy of the "immutable, incorruptible" code to be freed from the common fallacies of human behavior such as cognitive bias and irrationality.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/22bc97b443863d71114fd1214cc5c5b9/noop.png?input=https%3A%2F%2Fcointelegraph.com%2Fstorage%2Fuploads%2Fview%2F500978c29de1c89635a43d6e41407a2f.png"></article>]]></description>
             <link>https://cointelegraph.com/news/what-we-learned-about-technocratic-fallacies-from-dao-collapse</link>
             <guid isPermaLink="false">32b8083c-a553-42e2-aba6-6c726dd5c65b</guid>
-            <pubDate>Tue, 30 Aug 2016 13:33:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spells of Genesis Soft Launch Scheduled For Mid September 2016]]></title>
-            <description><![CDATA[<article><h1>Spells of Genesis Soft Launch Scheduled For Mid September 2016</h1><p>A new update regarding the ever popular blockchain-based Spells of Genesis game has been posted by the developers. Ever since the success crowdfunding campaign, the game has been in constant development. For now, the game is still in closed beta, but that situation will come to change shortly.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b15629d5f51dfdf0f37a8ca67c8768d0/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2FSpells-of-Genesis-1.jpg"></article>]]></description>
-            <link>http://themerkle.com/spells-of-genesis-soft-launch-scheduled-for-mid-september-2016/</link>
-            <guid isPermaLink="false">c3ebacc0-c796-4f8d-a881-0506ed62abc5</guid>
             <pubDate>Tue, 30 Aug 2016 13:33:20 GMT</pubDate>
         </item>
     </channel>
