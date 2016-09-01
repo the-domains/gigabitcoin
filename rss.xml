@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 13:35:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 13:35:58 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Peaks, troughs and hacking: Why would anyone invest in bitcoin?]]></title>
+            <description><![CDATA[<article><h1>Peaks, troughs and hacking: Why would anyone invest in bitcoin?</h1><p>Bitcoin has had a hectic year, with prices spiking and high-profile thefts keeping it in headlines. Being cautious around the cryptocurrency might be understandable, but experts defend it as a viable investment. Last August, bitcoin traded at around $230. One year on and the price has more than doubled to nearly $580.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/34579cf70b12d3ba8163360773567232/noop.jpg?input=http%3A%2F%2Ffm.cnbc.com%2Fapplications%2Fcnbc.com%2Fresources%2Fimg%2Feditorial%2F2014%2F06%2F19%2F101772945-450765322.1910x1000.jpg"></article>]]></description>
+            <link>http://www.cnbc.com/2016/08/30/peaks-troughs-and-hacking-why-would-anyone-invest-in-bitcoin.html</link>
+            <guid isPermaLink="false">84ae9fd0-f1a7-4daa-af74-d95f260a5862</guid>
+            <pubDate>Tue, 30 Aug 2016 13:33:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[German Consumers Flock To Cash As Faith in Banks Reaches new Low]]></title>
             <description><![CDATA[<article><h1>German Consumers Flock To Cash As Faith in Banks Reaches new Low</h1><p>Most of the Germans feel the European Central Bank is to blame. They feel the ECB is igniting eurozone inflation with negative interest rates. Having faith in a bank is not something most people are accustomed to these days. Things seem to be going from bad to worse in Germany.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b0a1e89889d33913933fb2742ba077b7/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F30094754%2Fshutterstock_224295673.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>'Settlement Coin' is All About Banks, Not Blockchain - CoinDesk</h1><p>Why would anyone want to use a coin issued by four large banks bailed out in 2008? That's a question that many are asking after UBS, Deutsche Bank, Santander, BNY Mellon and ICAP announced last week that they had teamed up with the blockchain developer Clearmatics to create a new digital currency.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a9f4a0f16ca4f2e60e1351242e31668b/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fself-centerd-narcissist-e1472484295416.jpg"></article>]]></description>
             <link>http://www.coindesk.com/utilities-settlement-all-about-banks-not-blockchain/</link>
             <guid isPermaLink="false">c550df08-2579-4fb2-b477-e3aad4e57ad3</guid>
-            <pubDate>Tue, 30 Aug 2016 13:33:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IPC & Post-Quantum Will Fuse Blockchain & Cloud Technologies]]></title>
-            <description><![CDATA[<article><h1>IPC & Post-Quantum Will Fuse Blockchain & Cloud Technologies</h1><p>New Jersey-based IPC Systems has partnered with Post-Quantum Solutions to implement biometrics, encryption and blockchain technologies into its Connexus Cloud network. Also read: Private Internet Access VPN Adds Roger Ver to Advisory Board IPC currently specializes in trading turret products and multi-speaker communications devices.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/22a4920fff4dc610e90f2412ac06bdfa/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_178660322.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/ipc-post-quantum-blockchain-cloud-tech/</link>
-            <guid isPermaLink="false">0c328bd3-9695-4777-8697-adec4b6e5633</guid>
             <pubDate>Tue, 30 Aug 2016 13:33:20 GMT</pubDate>
         </item>
     </channel>
