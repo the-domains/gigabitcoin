@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 05:38:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 05:38:46 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Industry Report: A Week of Shakeups in the Tech World]]></title>
+            <description><![CDATA[<article><h1>Industry Report: A Week of Shakeups in the Tech World</h1><p>Ethereum split fuels heated arguments, WhatsApp sides with Facebook at the expense of users, and Krypton is the world's latest cyber-attack victim. Want to catch up on the latest tech and digital currency news? Read the stories below.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b9331799aff0d02618f3e6ac60d31d4b/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F06%2FIndustry-Report-Cover-Bitcoin-Logo.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/industry-report-shakeups-tech-world/</link>
+            <guid isPermaLink="false">90ba9aa3-edc6-4665-8dda-a2c340c3dedc</guid>
+            <pubDate>Tue, 30 Aug 2016 05:37:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Monero Rising: Why Dark Markets Matter]]></title>
             <description><![CDATA[<article><h1>Monero Rising: Why Dark Markets Matter</h1><p>The precipitous rise of Monero in the past few days has caused many users and traders to ask: what's behind the surge of the self-proclaimed "untraceable" XMR token? Also read: Fed Explores Radical New Financial Engineering Tools For those familiar with the altcoin market, it's not how much a coin has made, but more how much has it made for you lately?</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/1487bab272970ce753f315b832038578/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fmonero.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Bitcoin Price Stays Flat as a Consolidation Range Between $565 and $585 Remains Intact</h1><p>As we head into the unofficial last week of the summer, we continue to expect lackluster price action through the long holiday weekend in the US. That said, we are getting closer to a seasonal period that is more conducive to volatility in all financial markets.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7ae309d04537dfe697d317fe7a1c9426/croprotate?cropheight=545&cropwidth=1314&degrees=0&input=https%3A%2F%2Flh3.googleusercontent.com%2FR9qcozcuT51AhMaSlKZHV1HmszvDhlyWEdE99EKvrPG_xMhwyo3n4yQDoDzkUijbC9BmpukQgigCZgV4o8K1g5XgPjmLzxdEUOexuXRBUjGnFI8sNzh6V3QiO7rMMQ_xuq2RdM2L&x=4&y=4"></article>]]></description>
             <link>https://cointelegraph.com/news/bitcoin-price-stays-flat-as-a-consolidation-range-between-565-and-585-remains-intact</link>
             <guid isPermaLink="false">c0c38b30-e9be-49be-9d28-d34473e453c8</guid>
-            <pubDate>Tue, 30 Aug 2016 05:37:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain-based e-Voting to Be Launched in Odessa Region, Ukraine]]></title>
-            <description><![CDATA[<article><h1>Blockchain-based e-Voting to Be Launched in Odessa Region, Ukraine</h1><p>E-Vox team has announced the launch of blockchain-based e-voting service e-Vox:NaRada at the City Rada (council) of Balta, a town in Odessa Region of Ukraine. "We have reached an agreement with Balta as to implementation of our voting system.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f557dd9dff7d7ad5f2fc1ec826095196/noop.jpg?input=http%3A%2F%2Fforklog.com%2Fwp-content%2Fuploads%2F14152259_10202179476045465_1807948603_o-768x576.jpg"></article>]]></description>
-            <link>http://forklog.net/blockchain-based-e-voting-to-be-launched-in-odessa-region-ukraine/</link>
-            <guid isPermaLink="false">609d4649-9e67-4ec2-834f-ff308366ef82</guid>
             <pubDate>Tue, 30 Aug 2016 05:37:32 GMT</pubDate>
         </item>
     </channel>
