@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 05:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 05:39:01 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Bitcoin Blocksize Debate Has Not Even Fully Begun Yet]]></title>
+            <description><![CDATA[<article><h1>The Bitcoin Blocksize Debate Has Not Even Fully Begun Yet</h1><p>China's largest miner HaoBTC spoke with Bitcoin.com following their tweet stating that the Core developers have "won" the Bitcoin blocksize debate. Also read: Private Internet Access VPN Adds Roger Ver to Advisory Board Following a petitionary statement to developers to implement the July 2016 hard fork, agreed at the Hong Kong roundtable event by members including HaoBTC, the miner's CEO Eric Mu made the comment in response to a Reddit call for updates.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b37be72041aece5b3253f00871b03f6a/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_140946424.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/bitcoin-blocksize-debate-not-begun/</link>
+            <guid isPermaLink="false">d58b52b7-da0f-4e3c-b89e-36b18d38bc66</guid>
+            <pubDate>Tue, 30 Aug 2016 05:37:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[US Consumer Spending Increase Does Not Warrant Economic Growth]]></title>
             <description><![CDATA[<article><h1>US Consumer Spending Increase Does Not Warrant Economic Growth</h1><p>Despite suffering from financial anxiety, US consumers are starting to spend more and more. In fact, the average US consumer has been spending more for four months in a row now. Particularly automobiles are in strong demand, which is rather surprising. This doesn't necessarily warrant economic growth in the US, though.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ef162d7ddf67f422751d5fd83044eda5/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_217080304.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://news.bitcoin.com/monero-rising-dark-markets-matter/</link>
             <guid isPermaLink="false">aac1791a-e662-490a-bddb-809f390a4cad</guid>
             <pubDate>Tue, 30 Aug 2016 05:37:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Pushes Higher from Support]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Pushes Higher from Support</h1><p>Bitcoin price pushed higher from the horizontal support zone near $660. The outlook remains that the market is engaged in a sideways base formation prior to advance. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member? Join now.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/fa496415aecaf47fe0e847b9cf0c9f34/noop.png?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FSelection_20160829_004.png"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-price-push-higher-support/</link>
-            <guid isPermaLink="false">57bb8d86-a40c-49a4-a175-c729a3c3471c</guid>
-            <pubDate>Tue, 30 Aug 2016 05:37:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
