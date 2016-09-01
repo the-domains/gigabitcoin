@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 05:38:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 05:38:07 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[New Algorithm Manages Bitcoin Price Volatility for Everyday Users]]></title>
-            <description><![CDATA[<article><h1>New Algorithm Manages Bitcoin Price Volatility for Everyday Users</h1><p>Bitcoin prices are fun, if you like roller coasters. For traders who see volatility as an opportunity to make money and are willing to accept the risks, this is great. However this volatility presents a risk for long-term investors, fund managers and businesses who use digital currency for day-to-day operations.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b1236a3059f156c64fa7efbc9f3501b8/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Fuploads%2Fsfox3.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/new-algorithm-manages-bitcoin-price-volatility-for-everyday-users-1472506926</link>
-            <guid isPermaLink="false">c1a60c4a-f33a-462f-be1d-f4eb2d0c04cc</guid>
-            <pubDate>Tue, 30 Aug 2016 05:37:30 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Industry Leaders Reach Agreement on Blockchain Governance]]></title>
             <description><![CDATA[<article><h1>Industry Leaders Reach Agreement on Blockchain Governance</h1><p>Prominent leaders in the blockchain space have formed a new group with the aim of promoting blockchain's use cases, increasing collaboration within the industry and addressing blockchain governance. According to a newly published ten points agreement participants state that despite the blockchain being a decentralized technology: "Like-minded people and groups can self-organize to voice their valuable perspectives, collaborate and solve problems in a bottom-up, multi-stakeholder fashion.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f1d5fb8732445c46964f599f81321146/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FAgreement-hands.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>EB146 - Ryan X. Charles: Allowing Content Creators to Own and Monetize Content with Yours</h1><p>In the last 20 years, content publishing platforms have proliferated to an almost insane number. There are countless places where people and companies can post articles, blogs, videos, photos, live content and so on. Despite this diverse offering, little innovation has happened in monetizing content, which still mostly remains ad-based.</p></article>]]></description>
             <link>https://letstalkbitcoin.com/blog/post/eb146-ryan-x-charles-allowing-content-creators-to-own-and-monetize-content-with-yours</link>
             <guid isPermaLink="false">838cb24b-df94-4465-b341-57ba1cffacd7</guid>
+            <pubDate>Tue, 30 Aug 2016 05:37:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Antshares sets out to be the people's digital asset blockchain]]></title>
+            <description><![CDATA[<article><h1>Antshares sets out to be the people's digital asset blockchain</h1><p>Antshares promises "Digital Assets for everyone." The organization's platform and cryptosecurity is designed to be a useful asset digitization platform for the mainstream user. Existing in the space between Ethereum and Counterparty, "Antshares is about building a financial system bridging the real-world assets."</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/fcdead11cc7232df6328eef08259bbe5/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-Antshare-Aug-2016.jpg"></article>]]></description>
+            <link>http://bravenewcoin.com/news/antshares-sets-out-to-be-the-peoples-digital-asset-blockchain/</link>
+            <guid isPermaLink="false">7c5b3acf-edd4-4b10-8f10-380e1a502e67</guid>
             <pubDate>Tue, 30 Aug 2016 05:37:29 GMT</pubDate>
         </item>
     </channel>
