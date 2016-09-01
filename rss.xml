@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 05:38:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 05:38:49 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Major Tech Youtube Channel Hydraulic Press Accepts Bitcoin Donations]]></title>
+            <description><![CDATA[<article><h1>Major Tech Youtube Channel Hydraulic Press Accepts Bitcoin Donations</h1><p>Hydraulic Press Channel, one of the most popular technology-focused Youtube channel with nearly 1.5 million subscribers, has begun to accept Bitcoin donations through ChangeTip. Since the introduction of Youtube's new policy and community guidelines, operators of channels, even major channels with millions of subscribers, began to struggle in monetizing their content.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f438ffcac9de2a6d69fa2f1b69dc4f7c/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jMWE0MWUzNTdhZDkxMDVmOTZjNzQwMGE5MDJhMDllMy5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/major-tech-youtube-channel-hydraulic-press-accepts-bitcoin-donations</link>
+            <guid isPermaLink="false">d8956284-4cca-4056-9e94-b74a4394f62b</guid>
+            <pubDate>Tue, 30 Aug 2016 05:37:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[An update on Thunder: On-Chain-Settlement (or CLAIM ALL THE THINGS)]]></title>
             <description><![CDATA[<article><h1>An update on Thunder: On-Chain-Settlement (or CLAIM ALL THE THINGS)</h1><p>A couple of months ago, we announced the alpha launch of the thunder.network . As we explained at the time, the vast majority of thunder payments are processed without touching the bitcoin blockchain, but that can only work if the few that eventually make it into the blockchain are handled correctly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0733bb9257e55621c2c47ad156057f5bc2ff8eb5.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Blockchain Executives Sign Pledge to Address Governance Issues - CoinDesk</h1><p>Executives representing the top-level leadership at a range of blockchain companies and projects have signed a letter calling for a new focus on perceived issues with blockchain governance. Calling themselves the 'Muskoka Group', the 14 executives include leaders building a diverse set of open-source distributed ledgers, as well as the heads of notable for-profit startups.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/93a15d0539cefdb1f507e4da6ced5930/noop.png?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FScreen-Shot-2016-08-29-at-12.21.39-PM.png"></article>]]></description>
             <link>http://www.coindesk.com/cross-blockchain-muskoka-group-signs-letter-of-action/</link>
             <guid isPermaLink="false">76411afe-17d7-4132-b314-1cd5097c4512</guid>
-            <pubDate>Tue, 30 Aug 2016 05:37:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Emercoin CTO: Blockchain Is More Important than Exchange Gambling]]></title>
-            <description><![CDATA[<article><h1>Emercoin CTO: Blockchain Is More Important than Exchange Gambling</h1><p>Emercoin team isn't dying to persuade exchanges to add EMC, preferring to focus on developing the technological side of the project and implementing Emer-based services in everyday life instead. It was Emercoin that facilitated blockchain integration in Kolionovo village in Russia, whereas watch manufacturer Raketa used Emercoin blockchain to record authenticity certificates.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/eba667902341af759912bec0f562815c/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F07%2Finterviewbitcoin02.png"></article>]]></description>
-            <link>http://forklog.net/emercoin-cto-blockchain-is-more-important-than-exchange-gambling/</link>
-            <guid isPermaLink="false">83bb62b7-f788-49b7-af84-3946d27110d7</guid>
             <pubDate>Tue, 30 Aug 2016 05:37:32 GMT</pubDate>
         </item>
     </channel>
