@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 05:39:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 05:39:05 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blockchain - Euphemism For People That Don't Understand Bitcoin?]]></title>
+            <description><![CDATA[<article><h1>Blockchain - Euphemism For People That Don't Understand Bitcoin?</h1><p>Central authorities and major financial institutions responded to the emergence of Bitcoin by targeting the development of its underlying technology in attempt to distract the real value of the digital currency. Experts have criticized the desperate attempts of banks in adopting the technology, describing that blockchain is a euphemism for people that don't understand Bitcoin.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/971d75770980c7324dc80a6b7617e7a4/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84YWFkNDRjZTE0OTQwZGEzYTU0NDk3ZmVkOWZhZjhiOS5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/blockchain-euphemism-for-people-that-dont-understand-bitcoin</link>
+            <guid isPermaLink="false">d2d88571-46ef-41a7-9d84-fe8268c27b20</guid>
+            <pubDate>Tue, 30 Aug 2016 05:37:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Caribbean Shoppers Now Have Access To eBay Through New Mobile App]]></title>
             <description><![CDATA[<article><h1>Caribbean Shoppers Now Have Access To eBay Through New Mobile App</h1><p>All the new app needs to do now is to integrate Bitcoin payments, which seem to be gaining traction in The Caribbean as of late. Exciting things are happening on The Caribbean. As Bitcoin adoption seems to thrive in the region, online shopping is becoming a new point of focus.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7a96ba9522ed6150a897caa213932d4d/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F29133413%2Fshutterstock_336752246.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>An update on Thunder: On-Chain-Settlement (or CLAIM ALL THE THINGS)</h1><p>A couple of months ago, we announced the alpha launch of the thunder.network . As we explained at the time, the vast majority of thunder payments are processed without touching the bitcoin blockchain, but that can only work if the few that eventually make it into the blockchain are handled correctly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0733bb9257e55621c2c47ad156057f5bc2ff8eb5.png"></article>]]></description>
             <link>https://blog.blockchain.com/2016/08/29/an-update-on-thunder-on-chain-settlement-or-claim-all-the-things/</link>
             <guid isPermaLink="false">8f665473-ba10-4e77-a328-57bc6abeeb6a</guid>
-            <pubDate>Tue, 30 Aug 2016 05:37:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Industry Report: A Week of Shakeups in the Tech World]]></title>
-            <description><![CDATA[<article><h1>Industry Report: A Week of Shakeups in the Tech World</h1><p>Ethereum split fuels heated arguments, WhatsApp sides with Facebook at the expense of users, and Krypton is the world's latest cyber-attack victim. Want to catch up on the latest tech and digital currency news? Read the stories below.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b9331799aff0d02618f3e6ac60d31d4b/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F06%2FIndustry-Report-Cover-Bitcoin-Logo.jpg"></article>]]></description>
-            <link>http://bitcoinist.net/industry-report-shakeups-tech-world/</link>
-            <guid isPermaLink="false">90ba9aa3-edc6-4665-8dda-a2c340c3dedc</guid>
             <pubDate>Tue, 30 Aug 2016 05:37:33 GMT</pubDate>
         </item>
     </channel>
