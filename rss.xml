@@ -4,8 +4,64 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 16:35:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 02:02:51 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[32MB Blocks: The Newest (Old) Solution to Bitcoin Scalability]]></title>
+            <description><![CDATA[<article><h1>32MB Blocks: The Newest (Old) Solution to Bitcoin Scalability</h1><p>There has been an ongoing Bitcoin block size debate, and most recently a radical, old idea resurfaced: instead of increasing the block size from 1MB to 2,4 or 8MB, the protocol should be changed to accommodate 32MB blocks. This probably pissed off Bram Cohen.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/84ab40998dacce0024716cc004370ae5/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FBlock-art.jpg"></article>]]></description>
+            <link>http://bitcoinist.net/32-mb-blocks-bitcoin-scalability/</link>
+            <guid isPermaLink="false">dc22f966-3c5e-4f41-88da-346b6e9262ac</guid>
+            <pubDate>Wed, 31 Aug 2016 02:02:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Faking blockchain data in bitcoin-core]]></title>
+            <description><![CDATA[<article><h1>Faking blockchain data in bitcoin-core</h1><p>Let's say I found a tarball with blockchain data files which I load to my datadir and start my Bitcoin Core client, what sort of attacks am I vulnerable to? Could the files contain fake balances? It depends. If you're just importing blocks (so no chainstate/ subdirectory with UTXO set), there should not be any possible attack.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/48313/faking-blockchain-data-in-bitcoin-core</link>
+            <guid isPermaLink="false">82f39f7a-fd32-4732-abac-954259d4f582</guid>
+            <pubDate>Tue, 30 Aug 2016 16:34:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The three sexiest words in FinTech]]></title>
+            <description><![CDATA[<article><h1>The three sexiest words in FinTech</h1><p>There are three big areas are emerging in FinTech, from an investors viewpoint; FinTech for the unbanked, the rise of blockchain technologies and InsTech. In this short piece, we look at these three areas, and why they are of such interest. First, an increasing number of players are now betting on FinTech for the Unbanked.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7b3e0edb6839155e72c2c02b0b7d4570/croprotate.jpg?cropheight=238&cropwidth=400&degrees=0&input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-Money-of-the-Future-1H2016-Banner.jpg&x=0&y=79"></article>]]></description>
+            <link>http://bravenewcoin.com/news/the-three-sexiest-words-in-fintech/</link>
+            <guid isPermaLink="false">91e97037-8eed-4dc5-b6a1-ef184b445bea</guid>
+            <pubDate>Tue, 30 Aug 2016 16:34:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Putting Bitcoin into Perspective * /r/Bitcoin]]></title>
+            <description><![CDATA[<article><h1>Putting Bitcoin into Perspective * /r/Bitcoin</h1><p>I have a real world story for you guys that really opened my eyes as to why humanity needs Bitcoin. So a few years ago I was living homeless in...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
+            <link>https://www.reddit.com/r/Bitcoin/comments/5087ad/putting_bitcoin_into_perspective/</link>
+            <guid isPermaLink="false">c13ad767-3177-4877-a2fe-dea463f9636e</guid>
+            <pubDate>Tue, 30 Aug 2016 16:34:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Blockchain Anti-Piracy Startup Custos Raises Additional Funds]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Blockchain Anti-Piracy Startup Custos Raises Additional Funds</h1><p>Custos Media Technologies, a South African bitcoin blockchain-based startup that has developed the means to identify and track illegal file-sharing and pirates through the bitcoin blockchain, has received a new cash injection of over $400,000.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/52043e1ac6e3d8fb27d02602bc01ed0b/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FAnti-piracy.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/bitcoin-blockchain-anti-piracy-startup-raises-funds/</link>
+            <guid isPermaLink="false">382a40e0-f8a7-4261-9891-09dc539e5314</guid>
+            <pubDate>Tue, 30 Aug 2016 16:34:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Banks must adopt Digital Currency | HolyTransaction]]></title>
+            <description><![CDATA[<article><h1>Why Banks must adopt Digital Currency | HolyTransaction</h1><p>Why Banks Must Adopt Digital Currency Financial Institution ICAP explained why banks must adopt digital currency in the near future. Called the " Utility Settlement Coin", this program was created by Clearmatics and tested by UBS, BNY Mellon, Deutsche Bank, and Banco Santander.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a98576bcc50d7cc04af76c6df964fd9f/noop.jpg?input=https%3A%2F%2F3.bp.blogspot.com%2F-hkk9G6TD82U%2FV8VgesYwIaI%2FAAAAAAAAAus%2Fj6mFKsjid04bX2x2RENOWrMU__xqniGWQCLcB%2Fw1200-h630-p-nu%2F05-27-15-IoT-Alliance-Between-Open-Interconnect-Consortium-and-Industrial-Internet-Consortium-e1432752718620.jpg"></article>]]></description>
+            <link>http://blog.holytransaction.com/2016/08/why-banks-must-adopt-digital-currency.html</link>
+            <guid isPermaLink="false">a2f8d665-8bde-4cec-994f-e744cbc7d6ea</guid>
+            <pubDate>Tue, 30 Aug 2016 16:34:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Bitcoin was brought down by its own potential-and the banks]]></title>
+            <description><![CDATA[<article><h1>How Bitcoin was brought down by its own potential-and the banks</h1><p>The best that can be said about Bitcoin right now is that it still exists. Split by internal divisions while its most useful aspects are harvested by the very financial behemoths it once hoped to destroy, Bitcoin is fast becoming the tech world's version of Waiting for Godot, wherein a hermetically sealed community squabbles and...</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/afbc4dd24909f63c96deed64aef6f6fb/noop.jpg?input=https%3A%2F%2Fi1.wp.com%2Fqzprod.files.wordpress.com%2F2016%2F08%2Frtx1ewvd.jpg%3Ffit%3D440%252C330%26ssl%3D1"></article>]]></description>
+            <link>http://qz.com/769771/how-bitcoin-was-brought-down-by-its-own-potential-and-the-banks/</link>
+            <guid isPermaLink="false">fd93bccc-9324-48de-b9ef-534e6fb665c4</guid>
+            <pubDate>Tue, 30 Aug 2016 16:34:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kim DotCom Faces U.S. Extradition, Hearing Will Be Live On YouTube]]></title>
+            <description><![CDATA[<article><h1>Kim DotCom Faces U.S. Extradition, Hearing Will Be Live On YouTube</h1><p>Kim DotCom's life is never boring. When he's not fighting off lawsuits, he is building mega-businesses like Megaupload. When he is not openly mocking the U.S. Government, he is building a Megaupload remix that will be built around Bitcoin's digital currency.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8f3a2ba3b839b8503ff67c5368f534c3/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84ZWUwMDcxNWRkYWRhN2EwMDYxNTg2MTQxZjZkMjg5MS5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/kim-dotcom-faces-us-extradition-hearing-will-be-live-on-youtube</link>
+            <guid isPermaLink="false">35362a45-ba89-48f9-a8f7-928573a601df</guid>
+            <pubDate>Tue, 30 Aug 2016 16:34:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Zcash Creator on the Upcoming Zcash Launch, Privacy and the Unfinished Internet Revolution]]></title>
             <description><![CDATA[<article><h1>Zcash Creator on the Upcoming Zcash Launch, Privacy and the Unfinished Internet Revolution</h1><p>In January, Bitcoin Magazine reported that a public alpha technology preview of Zcash, "a decentralized and open-source cryptocurrency that aims to set a new standard for privacy and anonymity through the use of groundbreaking cryptography," had been released on Github. Zcash offers total payment confidentiality, while maintaining a decentralized network using a public blockchain.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5ee179a2a943cec1cfccac123b68ea20/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Fauthors%2Fgiulio-prisco.jpg"></article>]]></description>
@@ -19,62 +75,6 @@
             <link>https://cointelegraph.com/news/brexit-may-send-the-eu-down-the-drain-good-for-bitcoin</link>
             <guid isPermaLink="false">0b94ca52-3cef-4138-ac59-f1edf8a57936</guid>
             <pubDate>Tue, 30 Aug 2016 16:34:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Millions of Dollars Worth of ETC May Soon Be Dumped on the Market]]></title>
-            <description><![CDATA[<article><h1>Millions of Dollars Worth of ETC May Soon Be Dumped on the Market</h1><p>Ethereum Classic's ability to gain a somewhat sizeable market share in terms of price and network hashrate has been surprising to many in the digital currency ecosystem, but the darling of blockchain immutability may soon face an issue with new coins coming onto the market from those who may not have that particular blockchain's best interests at heart.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/519a7eed1a297c2c7f071b3aa6542e59/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Farticles%2Fmillions-of-dollars-worth-of-etc-may-soon-be-dumped-on-the-market.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/millions-of-dollars-worth-of-etc-may-soon-be-dumped-on-the-market-1472567361</link>
-            <guid isPermaLink="false">edb3ad5b-e64d-4bab-9878-c4ce973f99fb</guid>
-            <pubDate>Tue, 30 Aug 2016 16:34:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Outlook Above $550 Positive]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Outlook Above $550 Positive</h1><p>Bitcoin price pushes higher, again, from horizontal support zone near $560. The outlook remains that the market is engaged in a sideways base formation prior to advance. This analysis is provided by xbt.social with a 3-hour delay. Read the full analysis here. Not a member? Join now.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/424ae1a4f7a61a63399ef2ad5f42b392/noop.png?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2016%2F08%2FSelection_20160830_003.png"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bitcoin-price-outlook-550-positive/</link>
-            <guid isPermaLink="false">4b788f9d-0f3d-4ca9-b9a9-77ffa38c9bca</guid>
-            <pubDate>Tue, 30 Aug 2016 16:34:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vote Manipulation and Impersonation Fraud on r/Bitcoin: A Warning to the Community * /r/Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Vote Manipulation and Impersonation Fraud on r/Bitcoin: A Warning to the Community * /r/Bitcoin</h1><p>It all began early Monday morning on August 29, 2016. I had been awaiting the launch of the Antminer R4 home Bitcoin miner. Since I didn't get...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9692e99b874ccef2d9ab003f00562429/croprotate.png?cropheight=256&cropwidth=164&degrees=0&input=https%3A%2F%2Fwww.redditstatic.com%2Ficon.png&x=46&y=0"></article>]]></description>
-            <link>https://www.reddit.com/r/Bitcoin/comments/507cbw/vote_manipulation_and_impersonation_fraud_on/</link>
-            <guid isPermaLink="false">ea72d0e1-dd81-473b-8bd0-782054e73228</guid>
-            <pubDate>Tue, 30 Aug 2016 16:34:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US Health Department Selects 15 Blockchain Research Contest Winners - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>US Health Department Selects 15 Blockchain Research Contest Winners - CoinDesk</h1><p>The Office of the National Coordinator for Health IT (ONC), a division within the U.S. Department of Health and Human Services (HHS), has announced the winners of a blockchain research paper contest. The "Use of Blockchain in Health IT and Health-related Research Challenge", announced last month, solicited white papers that would explore how the technology can be potentially used in healthcare settings.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/604b24146a288cd120e8c2d87c2236dd/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FHHS.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/us-health-department-selects-winners-blockchain-research-contest/</link>
-            <guid isPermaLink="false">eaa1537f-8ef5-4069-ad41-0f606bc27351</guid>
-            <pubDate>Tue, 30 Aug 2016 16:34:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Is the Fuel We Need for the Industrial Internet of Things]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Is the Fuel We Need for the Industrial Internet of Things</h1><p>Industrial giant G.E. has announced the new Internet revolution: The Industrial Internet of Things. G.E. promises the Industrial Internet will bring a new wave of digital products, which combines "Machine-to-Machine (M2M) communication, industrial Big Data analytics, technology, cyber security and automation." The Industrial Internet, if successful, will expand the IoT astronomically.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c543cde899be42fd84acc569a42f1adb/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FIndustrial.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/bitcoin-fuel-industrial-iot/</link>
-            <guid isPermaLink="false">bb5eed5a-505e-45d9-862b-5ca7d0233e5d</guid>
-            <pubDate>Tue, 30 Aug 2016 16:34:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Master all things Bitcoin with this Bit.Yoga course (86 per cent off) - Pocket-lint]]></title>
-            <description><![CDATA[<article><h1>Master all things Bitcoin with this Bit.Yoga course (86 per cent off) - Pocket-lint</h1><p>The web isn't just changing how we do business: it's changing the nature of money itself. Take Bitcoin for example. 100 per cent digital and free from</p></article>]]></description>
-            <link>http://www.pocket-lint.com/news/138627-master-all-things-bitcoin-with-this-bit-yoga-course-86-per-cent-off</link>
-            <guid isPermaLink="false">0be55ab6-9058-49e3-b209-076667096f82</guid>
-            <pubDate>Tue, 30 Aug 2016 13:33:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Everything you need to know about Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Everything you need to know about Bitcoin</h1><p>If you've hung out with any hipsters, hippies or techies - or even if you just read the news, you might have heard of bitcoin, the virtual currency or cryptocurrency. It's a way for users of the currency to buy and sell things anonymously and without their money being tied to a central authority like a bank or government.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5329586caffb734903afcf129895d6f2/noop.jpg?input=http%3A%2F%2Fwww.reviewjournal.com%2Fsites%2Fdefault%2Ffiles%2Ffield%2Fmedia%2Fweb1_thinkstockphotos-509805849_6929549.jpg"></article>]]></description>
-            <link>http://www.reviewjournal.com/business/everything-you-need-know-about-bitcoin</link>
-            <guid isPermaLink="false">ff36958b-398c-4659-9018-2712b2bcda02</guid>
-            <pubDate>Tue, 30 Aug 2016 13:33:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum Classic Price Technical Analysis - Final Target Hit - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Ethereum Classic Price Technical Analysis - Final Target Hit - NEWSBTC</h1><p>Ethereum classic price dived down versus Bitcoin and tested the final sell target of 0.0020BTC as forecasted in yesterday's post. Ethereum classic price dived down versus Bitcoin and tested the final sell target of 0.0020BTC as forecasted in yesterday's post. Ethereum classic price continued to move down against Bitcoin and tested the 0.0020BTC level as forecasted.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/ed96678c770624f04c96feeec6d385eb/croprotate.png?cropheight=757&cropwidth=1663&degrees=0&input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F08%2F30063401%2FEthereum-Classic19.png&x=0&y=2"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/08/30/ethereum-classic-price-technical-analysis-final-target-hit/</link>
-            <guid isPermaLink="false">01377b61-64e8-4bea-902a-2c5f6019ecac</guid>
-            <pubDate>Tue, 30 Aug 2016 13:33:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
