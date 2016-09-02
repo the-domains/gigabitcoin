@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 02:02:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 02:03:05 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How are different Addresses generated from the same Private key?]]></title>
+            <description><![CDATA[<article><h1>How are different Addresses generated from the same Private key?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top I was reading in the "Technical background of version 1 Bitcoin addresses" that addresses are a function of the private key.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
+            <link>http://bitcoin.stackexchange.com/questions/48322/how-are-different-addresses-generated-from-the-same-private-key</link>
+            <guid isPermaLink="false">d4579366-056e-4e74-bc27-3171e92744e9</guid>
+            <pubDate>Wed, 31 Aug 2016 02:02:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[32MB Blocks: The Newest (Old) Solution to Bitcoin Scalability]]></title>
             <description><![CDATA[<article><h1>32MB Blocks: The Newest (Old) Solution to Bitcoin Scalability</h1><p>There has been an ongoing Bitcoin block size debate, and most recently a radical, old idea resurfaced: instead of increasing the block size from 1MB to 2,4 or 8MB, the protocol should be changed to accommodate 32MB blocks. This probably pissed off Bram Cohen.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/84ab40998dacce0024716cc004370ae5/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F08%2FBlock-art.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Zcash Creator on the Upcoming Zcash Launch, Privacy and the Unfinished Internet Revolution</h1><p>In January, Bitcoin Magazine reported that a public alpha technology preview of Zcash, "a decentralized and open-source cryptocurrency that aims to set a new standard for privacy and anonymity through the use of groundbreaking cryptography," had been released on Github. Zcash offers total payment confidentiality, while maintaining a decentralized network using a public blockchain.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5ee179a2a943cec1cfccac123b68ea20/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Fauthors%2Fgiulio-prisco.jpg"></article>]]></description>
             <link>https://bitcoinmagazine.com/articles/zcash-creator-on-the-upcoming-zcash-launch-privacy-and-the-unfinished-internet-revolution-1472568389</link>
             <guid isPermaLink="false">713dcc96-0f7f-4570-9d45-d567e84b0075</guid>
-            <pubDate>Tue, 30 Aug 2016 16:34:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brexit May Send the EU "Down the Drain", Good For Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Brexit May Send the EU "Down the Drain", Good For Bitcoin</h1><p>The Vice-Chancellor of Germany has stated that the future of the EU might be in jeopardy if Brexit is not handled properly. Sigmar Gabriel said that, if the United Kingdom's exit caused other countries to follow suit and leave the Union, that would cause the EU to go "down the drain."</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d9f05d7e90449f5f787bbc5d4ef0f02e/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy82ZTIzZThhYzlkZmZhOWEzMGMxYjI5OGM5ZmRmNmI3NS5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/brexit-may-send-the-eu-down-the-drain-good-for-bitcoin</link>
-            <guid isPermaLink="false">0b94ca52-3cef-4138-ac59-f1edf8a57936</guid>
             <pubDate>Tue, 30 Aug 2016 16:34:27 GMT</pubDate>
         </item>
     </channel>
