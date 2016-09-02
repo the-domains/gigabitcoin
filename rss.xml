@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 13:37:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 16:34:29 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Is the Fuel We Need for the Industrial Internet of Things]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Is the Fuel We Need for the Industrial Internet of Things</h1><p>Industrial giant G.E. has announced the new Internet revolution: The Industrial Internet of Things. G.E. promises the Industrial Internet will bring a new wave of digital products, which combines "Machine-to-Machine (M2M) communication, industrial Big Data analytics, technology, cyber security and automation." The Industrial Internet, if successful, will expand the IoT astronomically.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c543cde899be42fd84acc569a42f1adb/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FIndustrial.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/bitcoin-fuel-industrial-iot/</link>
+            <guid isPermaLink="false">bb5eed5a-505e-45d9-862b-5ca7d0233e5d</guid>
+            <pubDate>Tue, 30 Aug 2016 16:34:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Master all things Bitcoin with this Bit.Yoga course (86 per cent off) - Pocket-lint]]></title>
             <description><![CDATA[<article><h1>Master all things Bitcoin with this Bit.Yoga course (86 per cent off) - Pocket-lint</h1><p>The web isn't just changing how we do business: it's changing the nature of money itself. Take Bitcoin for example. 100 per cent digital and free from</p></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Only 1.5% of LocalBitcoins Transactions Are Local Trades</h1><p>LocalBitcoins is one of the few cryptocurrency platforms promoting peer-to-peer interaction. Users can meet face-to-face with other Bitcoin enthusiasts to complete trades. But are we using the platform all wrong? Statistics indicate various regions of the world only see 1.5% of all trades as person-to-person interactions.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/4a0c74f59e9ee3ed2cc7650495818ddf/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshutterstock_171929312.jpg"></article>]]></description>
             <link>http://themerkle.com/only-1-5-of-localbitcoins-transactions-are-local-trades/</link>
             <guid isPermaLink="false">5697df86-3c58-4e5a-a8f5-d51464056dfa</guid>
-            <pubDate>Tue, 30 Aug 2016 13:33:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain's Thunder Network Aims at Faster Refunds]]></title>
-            <description><![CDATA[<article><h1>Blockchain's Thunder Network Aims at Faster Refunds</h1><p>Blockchain is improving its Thunder Network for faster settlement and refund times in off-chain transactions, according to a project update. Also read: Ethereum-Competitor Lisk Unveils Roadmap Released as an alpha-stage prototype for testing in May, Thunder is a version of Bitcoin's proposed Lightning Networks, which handles transactions instantly between users and settles at a later time on the Bitcoin blockchain.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d0551ffe1ab1ce0cab0b3bb0b5aeb571/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FThunderstorm.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/blockchain-thunder-faster-refunds/</link>
-            <guid isPermaLink="false">9f601d23-e33f-4a63-9542-c6d4063003ac</guid>
             <pubDate>Tue, 30 Aug 2016 13:33:22 GMT</pubDate>
         </item>
     </channel>
