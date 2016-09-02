@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 02:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 02:03:18 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How can superconnectors make use of blockchain/be rewarded by it?]]></title>
+            <description><![CDATA[<article><h1>How can superconnectors make use of blockchain/be rewarded by it?</h1><p>Original Question: Why will people vote for Hillary Clinton when its widely known that she is not truthful? If you had worded your question properly, the question should have been worded: Why will people vote for Hillary Clinton WHEN I PERSONALLY BELIEVE, WITH NO CONCRETE EVIDENCE, that she is not truthful?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/80b1aa101e41ccfcae999444d2c3324a/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-474217-200-zwcxhtgvljaxgmzkvklgejzxtnlxqjxc.jpeg"></article>]]></description>
+            <link>https://www.quora.com/unanswered/How-can-superconnectors-make-use-of-blockchain-be-rewarded-by-it</link>
+            <guid isPermaLink="false">7f3dc82b-d6fc-4983-993b-f9cd2e8c1677</guid>
+            <pubDate>Wed, 31 Aug 2016 02:02:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How are different Addresses generated from the same Private key?]]></title>
             <description><![CDATA[<article><h1>How are different Addresses generated from the same Private key?</h1><p>Bitcoin Stack Exchange is a question and answer site for Bitcoin crypto-currency enthusiasts. Join them; it only takes a minute: Sign up Here's how it works: Anybody can ask a question Anybody can answer The best answers are voted up and rise to the top I was reading in the "Technical background of version 1 Bitcoin addresses" that addresses are a function of the private key.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/06355c9d94f3dccfd8b01770e050c7de/noop.png?input=http%3A%2F%2Fcdn.sstatic.net%2FSites%2Fbitcoin%2Fimg%2Fapple-touch-icon.png%3Fv%3Da43e5a337e6b%26a"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Kim DotCom Faces U.S. Extradition, Hearing Will Be Live On YouTube</h1><p>Kim DotCom's life is never boring. When he's not fighting off lawsuits, he is building mega-businesses like Megaupload. When he is not openly mocking the U.S. Government, he is building a Megaupload remix that will be built around Bitcoin's digital currency.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8f3a2ba3b839b8503ff67c5368f534c3/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84ZWUwMDcxNWRkYWRhN2EwMDYxNTg2MTQxZjZkMjg5MS5qcGc%3D.jpg"></article>]]></description>
             <link>https://cointelegraph.com/news/kim-dotcom-faces-us-extradition-hearing-will-be-live-on-youtube</link>
             <guid isPermaLink="false">35362a45-ba89-48f9-a8f7-928573a601df</guid>
-            <pubDate>Tue, 30 Aug 2016 16:34:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zcash Creator on the Upcoming Zcash Launch, Privacy and the Unfinished Internet Revolution]]></title>
-            <description><![CDATA[<article><h1>Zcash Creator on the Upcoming Zcash Launch, Privacy and the Unfinished Internet Revolution</h1><p>In January, Bitcoin Magazine reported that a public alpha technology preview of Zcash, "a decentralized and open-source cryptocurrency that aims to set a new standard for privacy and anonymity through the use of groundbreaking cryptography," had been released on Github. Zcash offers total payment confidentiality, while maintaining a decentralized network using a public blockchain.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5ee179a2a943cec1cfccac123b68ea20/noop.jpg?input=https%3A%2F%2Ffs.bitcoinmagazine.com%2Fimg%2Fauthors%2Fgiulio-prisco.jpg"></article>]]></description>
-            <link>https://bitcoinmagazine.com/articles/zcash-creator-on-the-upcoming-zcash-launch-privacy-and-the-unfinished-internet-revolution-1472568389</link>
-            <guid isPermaLink="false">713dcc96-0f7f-4570-9d45-d567e84b0075</guid>
             <pubDate>Tue, 30 Aug 2016 16:34:27 GMT</pubDate>
         </item>
     </channel>
