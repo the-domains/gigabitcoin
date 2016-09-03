@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 13:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 13:15:13 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SWIFT Communication Exposes Vulnerability in Banking Security Infrastructure - NEWSBTC]]></title>
+            <description><![CDATA[<article><h1>SWIFT Communication Exposes Vulnerability in Banking Security Infrastructure - NEWSBTC</h1><p>A recent letter sent by SWIFT to its partner banks calls for the implementation of latest security measures following increased cyberattacks. Read more... When it comes to security, the conventional financial system is no better, if not worse off than the Bitcoin ecosystem.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e0b59e44c27001feadf33638d82a3127/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2015%2F12%2F14081316%2FMajor_Global_Banks_Begin_to_Embrace_Bitcoin_and_the_Blockchain_Technology._newsbtc_bitcoin_news.png"></article>]]></description>
+            <link>http://www.newsbtc.com/2016/08/31/swift-communicates-on-banking-security-infrastructure/</link>
+            <guid isPermaLink="false">9b8bd359-c75e-4fbc-8d85-9665bfe1306e</guid>
+            <pubDate>Wed, 31 Aug 2016 13:14:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[All Bitcoin Exchanges Lax on Security, Should Get Rid of Hot Wallets]]></title>
             <description><![CDATA[<article><h1>All Bitcoin Exchanges Lax on Security, Should Get Rid of Hot Wallets</h1><p>During the past 6 years (from 2009 to 2015), one-third of all Bitcoin exchanges have been hacked. While this is less than the rate of security breaches experienced by stock exchanges, which is over half, it is still many times that of banks, who reported a 1% instance of data breach.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/09023567e45cb2532f4b1c0c2630efb9/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy82NjFkNmRkZWMzZTU3NjE3OGI0MzU4NmE0ZWYyZGMxYS5qcGc%3D.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The Altcoin Report #1: Dash - Digital Cash - Genesis Mining</h1><p>We are excited to announce a new blog series in which we will be highlighting the most promising Altcoins (alternative crypto-coins) of the crypto world. Bitcoin still is one of the most popular and widely used cryptocurrencies available, but other protocols with their own special feature-sets are quickly catching up.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/328d5ef8e4a1edc519b66dc9bb3e547b/noop.png?input=http%3A%2F%2Fblog.genesis-mining.com%2Ffiles%2F2016%2F08%2Fgm_blog_altcoin_report_dash.png"></article>]]></description>
             <link>http://blog.genesis-mining.com/the-altcoin-report-1-dash-digital-cash</link>
             <guid isPermaLink="false">497fc23f-6a56-4358-b93c-9b68f22489d3</guid>
-            <pubDate>Wed, 31 Aug 2016 04:37:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IRC meeting summary for 2016-08-25]]></title>
-            <description><![CDATA[<article><h1>IRC meeting summary for 2016-08-25</h1><p>Paveljanik asks for some more review/ACKs on his Wshadow PRs: PR#8191, PR#8449, PR#8466, PR#8468 and PR#8472 Bitcoin Core 0.13.0 is released. There's a proposal to have a standard for hardware wallets to do detached signing, which would allow decoupling the keys from the wallet.</p></article>]]></description>
-            <link>https://bitcoincore.org/en/meetings/2016/08/25/</link>
-            <guid isPermaLink="false">e69d3abc-1e37-4200-99b1-97eed9deb635</guid>
             <pubDate>Wed, 31 Aug 2016 04:37:11 GMT</pubDate>
         </item>
     </channel>
