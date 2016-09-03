@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 13:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 13:15:53 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[German savers lose faith in banks]]></title>
+            <description><![CDATA[<article><h1>German savers lose faith in banks</h1><p>HAMBURG--German savers are leaving the security of savings banks for what many now consider an even safer place to park their cash: home safes. For years, Germans kept socking money away in savings accounts despite plunging interest rates. Savers deemed the accounts secure, and they still offered easy cash access.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d04d3ba6abb836ab93c8b034f34cb89e/noop.png?input=http%3A%2F%2Fmw3.wsj.net%2Fmw5%2Fcontent%2Flogos%2Fmw_logo_social.png"></article>]]></description>
+            <link>http://www.marketwatch.com/story/german-savers-lose-faith-in-banks-2016-08-30</link>
+            <guid isPermaLink="false">94d2634b-e9e3-4b8e-b9b1-2734ba9821e3</guid>
+            <pubDate>Wed, 31 Aug 2016 13:14:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hyperledger Has Grown 170% This Past Year, Says Project Team]]></title>
             <description><![CDATA[<article><h1>Hyperledger Has Grown 170% This Past Year, Says Project Team</h1><p>The Also read: Blockchain is the Next Line of Defense for Cyber Security Hyperledger Project announced 17 new members that will collaborate in researching, developing and standardizing blockchain technology. The project has attracted 80 business members since the inception of Hyperledger last year.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/aa5bedcf77e35909fc241eb8349efb80/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FHyperledger-Project-Has-Grown-170.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>SWIFT Communication Exposes Vulnerability in Banking Security Infrastructure - NEWSBTC</h1><p>A recent letter sent by SWIFT to its partner banks calls for the implementation of latest security measures following increased cyberattacks. Read more... When it comes to security, the conventional financial system is no better, if not worse off than the Bitcoin ecosystem.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e0b59e44c27001feadf33638d82a3127/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2015%2F12%2F14081316%2FMajor_Global_Banks_Begin_to_Embrace_Bitcoin_and_the_Blockchain_Technology._newsbtc_bitcoin_news.png"></article>]]></description>
             <link>http://www.newsbtc.com/2016/08/31/swift-communicates-on-banking-security-infrastructure/</link>
             <guid isPermaLink="false">9b8bd359-c75e-4fbc-8d85-9665bfe1306e</guid>
-            <pubDate>Wed, 31 Aug 2016 13:14:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All Bitcoin Exchanges Lax on Security, Should Get Rid of Hot Wallets]]></title>
-            <description><![CDATA[<article><h1>All Bitcoin Exchanges Lax on Security, Should Get Rid of Hot Wallets</h1><p>During the past 6 years (from 2009 to 2015), one-third of all Bitcoin exchanges have been hacked. While this is less than the rate of security breaches experienced by stock exchanges, which is over half, it is still many times that of banks, who reported a 1% instance of data breach.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/09023567e45cb2532f4b1c0c2630efb9/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy82NjFkNmRkZWMzZTU3NjE3OGI0MzU4NmE0ZWYyZGMxYS5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/all-bitcoin-exchanges-lax-on-security-should-get-rid-of-hot-wallets</link>
-            <guid isPermaLink="false">a7372bb5-0150-4a48-a087-8f7cc492d628</guid>
             <pubDate>Wed, 31 Aug 2016 13:14:50 GMT</pubDate>
         </item>
     </channel>
