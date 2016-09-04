@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 13:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 13:17:59 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Can Blockchain protect copyright?]]></title>
+            <description><![CDATA[<article><h1>Can Blockchain protect copyright?</h1><p>Answer (1 of 3): Blockchain can help you prove that you created content. An entry in the blockchain is time-stamped and with the use of private keys you can prove that you are the content submitter. In this way, blockchain is a proof of content owner and proof of content creation time is the time...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/80b1aa101e41ccfcae999444d2c3324a/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-thumb-t-474217-200-zwcxhtgvljaxgmzkvklgejzxtnlxqjxc.jpeg"></article>]]></description>
+            <link>https://www.quora.com/Can-Blockchain-protect-copyright</link>
+            <guid isPermaLink="false">bcd1f9fa-d840-4f10-a338-6ff8622b25f3</guid>
+            <pubDate>Thu, 01 Sep 2016 13:17:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[VISA to Test Blockchain Payments among Banks; a SWIFT Rival?]]></title>
             <description><![CDATA[<article><h1>VISA to Test Blockchain Payments among Banks; a SWIFT Rival?</h1><p>VISA and blockchain-technology partner BTL will invite a select group of European banks to participate in a blockchain project that will see inter-bank payments made via transfers over the ledger. Hot on the heels of the likes of R3, Visa will experiment its own blockchain-based payments platform with a select group of banks who will send money over a blockchain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30605417a43c16ac81a38817546b5b792e6229f6.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>JPX: Distributed Ledgers 'Better' With Third Parties - CoinDesk</h1><p>A new report from financial giant Japan Exchange Group (JPX) contends that distributed ledgers will work "better" when applied to capital markets if third parties are involved. The finding comes from a 27-page working paper, released yesterday, in which JPX offered insights into its proof-of-concept efforts, as well as the key takeaways from its experiments.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/fa12a858ebfed8c03f101aee03dbeea6/noop.jpg?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2Fjpx-japan-e1472650211604.jpg"></article>]]></description>
             <link>http://www.coindesk.com/jpx-distributed-ledgers-third-parties/</link>
             <guid isPermaLink="false">39e0a112-d53d-40ab-8611-bc36623be718</guid>
-            <pubDate>Thu, 01 Sep 2016 01:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain & Bitcoin Conference Kiev Agenda Announced]]></title>
-            <description><![CDATA[<article><h1>Blockchain & Bitcoin Conference Kiev Agenda Announced</h1><p>The third annual Blockchain & Bitcoin Conference Kiev will take place on September 23, 2016, in the capital of Ukraine. According to Smile Expo, the event's organizers, this year's conference will be the largest industry event in the post-Soviet space. The conference's agenda will be split in three separate flows (levels): rookies, pros, and developers.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/23e7b6fa9ab1d90df702f350662f7c73/noop.png?input=http%3A%2F%2Fforklog.net%2Fwp-content%2Fuploads%2F2016%2F08%2FBitcoin_Blockchain_Conference_Kiev_2016.png"></article>]]></description>
-            <link>http://forklog.net/blockchain-bitcoin-conference-kyiv-agenda-announced/</link>
-            <guid isPermaLink="false">f9782aae-856e-4c9d-95d4-5e514a86a8ba</guid>
             <pubDate>Thu, 01 Sep 2016 01:12:00 GMT</pubDate>
         </item>
     </channel>
