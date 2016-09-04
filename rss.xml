@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 13:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 13:17:22 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Italian Anonymous Bitcoin Group Offers Aid, Bitcoin Education to Earthquake Victims]]></title>
+            <description><![CDATA[<article><h1>Italian Anonymous Bitcoin Group Offers Aid, Bitcoin Education to Earthquake Victims</h1><p>A group of anonymous Italian Bitcoin enthusiasts is leveraging the cryptocurrency to help victims of the earthquake that has devastated parts of the country. No financial services The 6.2 magnitude earthquake struck the village of Amatrice late August.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/4e62cc779204c3e72622d2b78bd49f64/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kOWVlMzYwNzYxNjFkMmZkZGMwNmI0ODBhYWQ3MzlhNy5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/italian-anonymous-bitcoin-group-offers-aid-bitcoin-education-to-earthquake-victims</link>
+            <guid isPermaLink="false">cfcdffa7-f061-433c-898c-fc630a7239e2</guid>
+            <pubDate>Thu, 01 Sep 2016 13:17:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Visa Incubator to Test Blockchain for Interbank Payments - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Visa Incubator to Test Blockchain for Interbank Payments - CoinDesk</h1><p>Visa's London-based innovation lab has announced its latest blockchain trial will focus on interbank payments. Visa Europe Collab revealed today it has partnered with Toronto-based BTL Group to explore how the startup's interbank settlement system can leverage blockchain and smart contracts to streamline domestic and cross-border payments between banks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7546cefb7e8ecb96acb6d8753803a813/noop.jpg?input=http%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F03%2Flawrence-summers-headshot.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.quora.com/What-are-the-most-expensive-things-one-can-buy-with-bitcoins</link>
             <guid isPermaLink="false">d493ee08-d471-42cc-a9f2-16708a1eabff</guid>
             <pubDate>Thu, 01 Sep 2016 01:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Counterparty to Convert Card Game Players into Bitcoin Users]]></title>
-            <description><![CDATA[<article><h1>Counterparty to Convert Card Game Players into Bitcoin Users</h1><p>Counterparty, the peer-to-peer platform built on the Bitcoin Blockchain, enters the non-Bitcoin world by teaming up with the physical card game Force of Will as it prepares to launch its first digital game assets. The popular Japanese card game, Force of Will, is launching tokenized game items on Counterparty with the Force of Will Battle Simulator platform is expected to launch mid-September.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/56495eeba33cd6bb5b1e60605e7b7d8a/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zZjVkOTQzNzk5M2Q4M2VjNGE2NWE3MjE5MTNhMGI4NC5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/counterparty-to-convert-card-game-players-into-bitcoin-users</link>
-            <guid isPermaLink="false">e623dba3-e5db-4bf4-89ea-a38683d5480f</guid>
-            <pubDate>Thu, 01 Sep 2016 01:11:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
