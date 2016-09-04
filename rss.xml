@@ -4,8 +4,22 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 13:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 13:18:44 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Microsoft Highlights a Brand New Way Hackers Can Get to Your Data]]></title>
+            <description><![CDATA[<article><h1>Microsoft Highlights a Brand New Way Hackers Can Get to Your Data</h1><p>Since security researchers have shared information about web proxy configuration in operating systems and browsers can be misused to steal user data, hackers have figured out how. A team of Microsoft Malware researchers spotted, as well as analyzed a new attack that utilizes Word documents with malicious code, with no need to install traditional malware.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/05558f935f1f39599df1dae2fb2f9cee/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F09%2Fshutterstock_265126817.jpg"></article>]]></description>
+            <link>http://themerkle.com/microsoft-highlights-a-brand-new-way-hackers-can-get-to-your-data/</link>
+            <guid isPermaLink="false">57b98293-3075-415a-9350-b8b804570ad9</guid>
+            <pubDate>Thu, 01 Sep 2016 13:17:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Here's How People Are Actually Using Bitcoin | VICE | United States]]></title>
+            <description><![CDATA[<article><h1>Here's How People Are Actually Using Bitcoin | VICE | United States</h1><p>Thumbnail image via Wikicommons Bitcoin is a cipher-literally and figuratively. The crypto-currency conjures a William Gibson-esque panorama of dark web Tor servers, masked figures cavorting in Eastern European shipping containers, multibillion dollar South American cartel-laundering operations, gaunt college sophomores picking up Silk Road designer drugs at liberal arts-school mailboxes, and so forth.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/9ffeec39952d1be7901d9be12a56d520/noop.jpg?input=https%3A%2F%2Fvice-images.vice.com%2Fimages%2Farticles%2Fmeta%2F2016%2F08%2F31%2Fbitcoin-testimonials-black-market-dispatches-1472672736.jpg%3Fresize%3D*%3A*%26output-quality%3D75"></article>]]></description>
+            <link>http://www.vice.com/read/bitcoin-testimonials-black-market-dispatches</link>
+            <guid isPermaLink="false">f01f3fdc-f4fc-4b8b-bd7e-72701208940f</guid>
+            <pubDate>Thu, 01 Sep 2016 13:17:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Custos Raises More Money to Fight Piracy]]></title>
             <description><![CDATA[<article><h1>Custos Raises More Money to Fight Piracy</h1><p>The South African startup Custos Media Technologies has reached an agreement with the TIA (Technology Innovation Agency) and will be seeing $400,000 in funding over the next two years. Custos uses blockchain technology to fight the piracy of media. Many see it as a unique way to fight piracy.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5cffe60d3b616d603b2066ebdf5465f7/noop.jpg?input=http%3A%2F%2Fthemerkle.com%2Fwp-content%2Fuploads%2F2016%2F09%2Fshutterstock_408181492.jpg"></article>]]></description>
@@ -60,19 +74,6 @@
             <description><![CDATA[<article><h1>Japan Exchange Group research explores Bitcoin in capital market infrastructure</h1><p>The Japan Exchange Group ( JPX) recently released a working paper to further technological advancements and the ongoing global efforts for applying blockchain to capital market infrastructure. Formed by the merger of the Tokyo Stock Exchange and Osaka Securities Exchange in 2013, JPX is a financial services corporation that operates multiple securities exchanges.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/71f06e9b30a53b9205a82175ba95a6f7/noop.jpg?input=http%3A%2F%2Fbravenewcoin.com%2Fassets%2FUploads%2F_resampled%2FCroppedImage400400-Skyscrapers-of-Shinjuku.jpg"></article>]]></description>
             <link>http://bravenewcoin.com/news/japan-exchange-group-research-explores-bitcoin-in-capital-market-infrastructure/</link>
             <guid isPermaLink="false">27990fac-91eb-405c-90e3-f0142dad2863</guid>
-            <pubDate>Thu, 01 Sep 2016 13:17:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>http://www.bankofcanada.ca/wp-content/uploads/2016/08/swp2016-42.pdf</link>
-            <guid isPermaLink="false">63b82533-7db3-4941-bc4d-0e3a7d453139</guid>
-            <pubDate>Thu, 01 Sep 2016 13:17:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What defines a real blockchain?]]></title>
-            <description><![CDATA[<article><h1>What defines a real blockchain?</h1><p>You could start with Satoshi's white paper and define a Blockchain as any p2p network based on a fork of Bitcoin that preserves distributed trust (Bitcoin is the original Blockchain implementation and the two concepts-art & implementation- were introduced together). ...But such a definition would be a bit limiting, because it suggests a coin, or cash settlement mechanism.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a8778b38ad2ac333687599bb6aed2a8f/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-custom-t-6783-600x315-fviilmlownyfbruycjcdlovtlxrmdyqa.jpeg"></article>]]></description>
-            <link>https://www.quora.com/What-defines-a-real-blockchain</link>
-            <guid isPermaLink="false">c4e4ab5d-3fa7-4d43-96be-19f821752948</guid>
             <pubDate>Thu, 01 Sep 2016 13:17:15 GMT</pubDate>
         </item>
     </channel>
