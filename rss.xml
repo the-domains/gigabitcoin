@@ -4,8 +4,14 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 13:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 13:18:30 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>http://www.bankofcanada.ca/wp-content/uploads/2016/08/swp2016-42.pdf</link>
+            <guid isPermaLink="false">63b82533-7db3-4941-bc4d-0e3a7d453139</guid>
+            <pubDate>Thu, 01 Sep 2016 13:17:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What defines a real blockchain?]]></title>
             <description><![CDATA[<article><h1>What defines a real blockchain?</h1><p>You could start with Satoshi's white paper and define a Blockchain as any p2p network based on a fork of Bitcoin that preserves distributed trust (Bitcoin is the original Blockchain implementation and the two concepts-art & implementation- were introduced together). ...But such a definition would be a bit limiting, because it suggests a coin, or cash settlement mechanism.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a8778b38ad2ac333687599bb6aed2a8f/noop.jpeg?input=https%3A%2F%2Fqph.ec.quoracdn.net%2Fmain-custom-t-6783-600x315-fviilmlownyfbruycjcdlovtlxrmdyqa.jpeg"></article>]]></description>
@@ -66,13 +72,6 @@
             <description><![CDATA[<article><h1>Clients Receive Warning from SWIFT, May Relocate Bank Users to Bitcoin</h1><p>SWIFT, also known as the Society for Worldwide Interbank Financial Telecommunication, revealed that banks with weak security systems have been compromised by hackers after the US$81 million Bangladesh Bank heist in February. The organization disclosed in a private letter to customers that hackers from the Bangladesh Bank heist targeted banks with "lax security procedures" to successfully compromise user funds through sophisticated malware and hacking methods.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2d1ef34a6c88332fce9feda275ba1d2c/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jYmZlZTIxODYxODYyZjA2NWRmMWMyNThkMDYyZDA3MS5qcGc%3D.jpg"></article>]]></description>
             <link>https://cointelegraph.com/news/clients-receive-warning-from-swift-may-relocate-bank-users-to-bitcoin</link>
             <guid isPermaLink="false">f6403a1a-bc29-4cd9-b1a3-798eef29a4bf</guid>
-            <pubDate>Thu, 01 Sep 2016 13:17:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Singapore proposes regulatory framework for payment service providers including bitcoin]]></title>
-            <description><![CDATA[<article><h1>Singapore proposes regulatory framework for payment service providers including bitcoin</h1><p>The Government of Singapore has proposed a new regulatory framework for payments providers, including digital currency exchanges dealing with bitcoin. Under the proposal made by the Monetary Authority of Singapore, companies dealing in bitcoin would be required to obtain a license with "regulation [that] will be applied on an activity basis, and entities will only be required to apply for a single license to undertake several payment activities."</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/93521fd2222415c219172d3d636f4932/noop.jpg?input=http%3A%2F%2Fsiliconangle.com%2Ffiles%2F2016%2F09%2FA_Night_Perspective_on_the_Singapore_Merlion_8347645113-800x533.jpg"></article>]]></description>
-            <link>http://siliconangle.com/blog/2016/09/01/singapore-proposes-regulatory-framework-for-payment-service-providers-including-bitcoin/</link>
-            <guid isPermaLink="false">b66dc44b-2a98-4a3a-9934-718bcb1608b3</guid>
             <pubDate>Thu, 01 Sep 2016 13:17:14 GMT</pubDate>
         </item>
     </channel>
