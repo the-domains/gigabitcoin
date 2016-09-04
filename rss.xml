@@ -4,29 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 13:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 13:18:14 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Reddit Removes Fake Trezor Ads Soliciting Orders]]></title>
-            <description><![CDATA[<article><h1>Reddit Removes Fake Trezor Ads Soliciting Orders</h1><p>Reddit has removed ads impersonating the Trezor shop, the most recent incident of fake bitcoin websites that scam users. Trezor advertises its bitcoin wallet as a secure home for bitcoin, but that does not prevent scammers from capitalizing on its name for malicious purposes.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6a54d7c29b247b70d73eac9c61d3df84/noop.jpg?input=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fwp-content%2Fuploads%2F2015%2F08%2Freddit.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/reddit-removes-fake-trezor-ad-soliciting-orders/</link>
-            <guid isPermaLink="false">678f8a53-9969-4774-af2d-665f2939a2e4</guid>
-            <pubDate>Thu, 01 Sep 2016 13:17:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Live Trade! - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Live Trade! - NEWSBTC</h1><p>Here's a look at what we are focusing on in the bitcoin price this morning. Its Thursday morning, and the week has flown by so far. We've not had too much luck from an intraday perspective in our bitcoin price, and for the first time in a long time could be looking at heading into the final session of the week net down on the markets.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/766b46712ec3dc78e16847ddb01c0763/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F09%2F01100422%2FScreen-Shot-2016-09-01-at-11.00.09.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/09/01/bitcoin-price-watch-live-trade-12/</link>
-            <guid isPermaLink="false">a6e5cc54-b85b-442b-a26b-e6b92721d5ce</guid>
-            <pubDate>Thu, 01 Sep 2016 13:17:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Clients Receive Warning from SWIFT, May Relocate Bank Users to Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Clients Receive Warning from SWIFT, May Relocate Bank Users to Bitcoin</h1><p>SWIFT, also known as the Society for Worldwide Interbank Financial Telecommunication, revealed that banks with weak security systems have been compromised by hackers after the US$81 million Bangladesh Bank heist in February. The organization disclosed in a private letter to customers that hackers from the Bangladesh Bank heist targeted banks with "lax security procedures" to successfully compromise user funds through sophisticated malware and hacking methods.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2d1ef34a6c88332fce9feda275ba1d2c/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jYmZlZTIxODYxODYyZjA2NWRmMWMyNThkMDYyZDA3MS5qcGc%3D.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/clients-receive-warning-from-swift-may-relocate-bank-users-to-bitcoin</link>
-            <guid isPermaLink="false">f6403a1a-bc29-4cd9-b1a3-798eef29a4bf</guid>
-            <pubDate>Thu, 01 Sep 2016 13:17:14 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Singapore proposes regulatory framework for payment service providers including bitcoin]]></title>
             <description><![CDATA[<article><h1>Singapore proposes regulatory framework for payment service providers including bitcoin</h1><p>The Government of Singapore has proposed a new regulatory framework for payments providers, including digital currency exchanges dealing with bitcoin. Under the proposal made by the Monetary Authority of Singapore, companies dealing in bitcoin would be required to obtain a license with "regulation [that] will be applied on an activity basis, and entities will only be required to apply for a single license to undertake several payment activities."</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/93521fd2222415c219172d3d636f4932/noop.jpg?input=http%3A%2F%2Fsiliconangle.com%2Ffiles%2F2016%2F09%2FA_Night_Perspective_on_the_Singapore_Merlion_8347645113-800x533.jpg"></article>]]></description>
@@ -75,6 +54,27 @@
             <link>https://www.quora.com/Can-Blockchain-protect-copyright</link>
             <guid isPermaLink="false">bcd1f9fa-d840-4f10-a338-6ff8622b25f3</guid>
             <pubDate>Thu, 01 Sep 2016 13:17:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[VISA to Test Blockchain Payments among Banks; a SWIFT Rival?]]></title>
+            <description><![CDATA[<article><h1>VISA to Test Blockchain Payments among Banks; a SWIFT Rival?</h1><p>VISA and blockchain-technology partner BTL will invite a select group of European banks to participate in a blockchain project that will see inter-bank payments made via transfers over the ledger. Hot on the heels of the likes of R3, Visa will experiment its own blockchain-based payments platform with a select group of banks who will send money over a blockchain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30605417a43c16ac81a38817546b5b792e6229f6.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/visa-test-blockchain-payments-among-banks-swift-rival/</link>
+            <guid isPermaLink="false">348016f8-8d9b-46f3-af88-0ae13a5bf4a8</guid>
+            <pubDate>Thu, 01 Sep 2016 13:17:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plug and Play's Biggest Blockchain Batch Plans Big Bank Collaborations - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Plug and Play's Biggest Blockchain Batch Plans Big Bank Collaborations - CoinDesk</h1><p>Storied Silicon Valley accelerator Plug and Play recently revealed its biggest batch of blockchain startups yet. As part of its fourth FinTech class, Plug and Play selected eight blockchain startups, and while the number alone is impressive, two things stand out about its new entrants.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/43ef09c6e20caa3a41d7a67c97cc7035/noop.png?input=https%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2016%2F08%2FScreen-Shot-2016-08-31-at-7.15.06-PM.png"></article>]]></description>
+            <link>http://www.coindesk.com/plug-and-play-blockchain-fintech-batch-four/</link>
+            <guid isPermaLink="false">fbd994f7-efbd-4337-905d-a6f9eaae4c95</guid>
+            <pubDate>Thu, 01 Sep 2016 13:17:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Italian Anonymous Bitcoin Group Offers Aid, Bitcoin Education to Earthquake Victims]]></title>
+            <description><![CDATA[<article><h1>Italian Anonymous Bitcoin Group Offers Aid, Bitcoin Education to Earthquake Victims</h1><p>A group of anonymous Italian Bitcoin enthusiasts is leveraging the cryptocurrency to help victims of the earthquake that has devastated parts of the country. No financial services The 6.2 magnitude earthquake struck the village of Amatrice late August.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/4e62cc779204c3e72622d2b78bd49f64/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kOWVlMzYwNzYxNjFkMmZkZGMwNmI0ODBhYWQ3MzlhNy5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/italian-anonymous-bitcoin-group-offers-aid-bitcoin-education-to-earthquake-victims</link>
+            <guid isPermaLink="false">cfcdffa7-f061-433c-898c-fc630a7239e2</guid>
+            <pubDate>Thu, 01 Sep 2016 13:17:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
