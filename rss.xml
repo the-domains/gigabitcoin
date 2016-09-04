@@ -4,8 +4,15 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 13:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 13:18:13 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Top 5 Things People Are Buying on OpenBazaar - Bitcoin News]]></title>
+            <description><![CDATA[<article><h1>Top 5 Things People Are Buying on OpenBazaar - Bitcoin News</h1><p>OpenBazaar is the first-of-its-kind global decentralized market with thousands of products available for sale. But what are the most popular items right now? Here are the top five selling types of products on the global peer-to-peer marketplace.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/807498a836a9cbb5b9c8f8bb6289a4f4/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2FNK-cigs-1024x683.jpg"></article>]]></description>
+            <link>https://news.bitcoin.com/top-5-products-openbazaar/</link>
+            <guid isPermaLink="false">0e57500d-7177-4162-a097-28a4cf6a4e9f</guid>
+            <pubDate>Thu, 01 Sep 2016 13:17:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mizuho Bank's Appeal Against Mt Gox Related Lawsuit Dismissed - NEWSBTC]]></title>
             <description><![CDATA[<article><h1>Mizuho Bank's Appeal Against Mt Gox Related Lawsuit Dismissed - NEWSBTC</h1><p>A US Court has dismissed the appeal filed by Mizuho Bank against Mt Gox customers' class action lawsuit. Read more... The Japanese Mizuho Bank is in trouble for its association with the now-defunct Bitcoin exchange, Mt Gox. The banking major recently had its appeal against a class action lawsuit dismissed by a US Court.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b1577f81df1734200838b47d0dc33b2c82793aa.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.coindesk.com/visa-incubator-test-blockchain-interbank-payments/</link>
             <guid isPermaLink="false">4f6c7446-00c3-4bdf-bd2c-0a0bfee6a17c</guid>
             <pubDate>Thu, 01 Sep 2016 13:17:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shopawl Now Accepting Bitcoin for eBay Orders - Bitcoin News]]></title>
-            <description><![CDATA[<article><h1>Shopawl Now Accepting Bitcoin for eBay Orders - Bitcoin News</h1><p>Online shopping website, Shopawl, announced on Tuesday that it would start accepting bitcoin on eBay orders. Also read: Purse Merchants Goes Live with More Products than Amazon, eBay or Alibaba Shopawl accepts bitcoin as well as any altcoins supported by Shapeshift as the company uses ShapeShift's Shifty button to accept altcoins.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/bf22dcf76d8545b4cbb37c200ecea139/noop.jpg?input=https%3A%2F%2Fnews.bitcoin.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fecommerce-phone.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/shopawl-bitcoin-ebay/</link>
-            <guid isPermaLink="false">a3acca34-961b-41b2-ad6e-f38133c21c6e</guid>
-            <pubDate>Thu, 01 Sep 2016 01:12:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
