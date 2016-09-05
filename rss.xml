@@ -4,22 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 05:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 05:13:52 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin Price Watch; Intrarange Back On! - NEWSBTC]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Price Watch; Intrarange Back On! - NEWSBTC</h1><p>Here's a look at what we are focusing on in the bitcoin price this evening. We said this morning that the bitcoin price had been pretty frustrating from an intraday perspective over the last few weeks, and that we hoped this would change as we headed into the close of this one.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/621b4ebff49706e2e339d9b904b61f7f/noop.png?input=http%3A%2F%2Fs3.amazonaws.com%2Fmain-newsbtc-images%2F2016%2F09%2F01190826%2FScreen-Shot-2016-09-01-at-20.01.07.png"></article>]]></description>
-            <link>http://www.newsbtc.com/2016/09/01/bitcoin-price-watch-intrarange-back/</link>
-            <guid isPermaLink="false">c4ee9a29-7f54-4e98-ad80-84b802c02612</guid>
-            <pubDate>Fri, 02 Sep 2016 05:13:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bank Of Canada Paper Explores Factors Behind Bitcoin Volatility]]></title>
-            <description><![CDATA[<article><h1>Bank Of Canada Paper Explores Factors Behind Bitcoin Volatility</h1><p>As virtual currencies like bitcoin become more established, the exchange rate will be less affected by speculator perceptions, according to a staff working paper [PDF] on the value of virtual currencies written for the Bank of Canada by Wilko Bolt of the Netherlands Bank and Maarten R.C.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfa94b2447a77eaff50e66776139804774b7c952.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/bank-of-canada-paper-explores-factors-behind-bitcoin-volatility/</link>
-            <guid isPermaLink="false">bb09fe00-5d2d-4a3c-9c01-dd412905f076</guid>
-            <pubDate>Fri, 02 Sep 2016 05:13:05 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Whiteford Research]]></title>
             <description><![CDATA[<article><h1>Whiteford Research</h1><p>Whiteford Research supplies electronics kits and components for hobbyist and research purposes.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b4368ee4e559f8d1eae7557770037195/noop.jpg?input=http%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F1075%2F9470%2Fproducts%2FIMG_0018_grande.JPG%3Fv%3D1448718214"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>https://bitcoinmagazine.com/articles/singulardtv-a-decentralized-netflix-on-ethereum-1472760808</link>
             <guid isPermaLink="false">a01c7f52-2500-485a-a656-304b9d66ec0e</guid>
             <pubDate>Fri, 02 Sep 2016 05:13:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Bitcoin Users Reclaim Their Privacy Through Its Anonymous Sibling, Monero]]></title>
+            <description><![CDATA[<article><h1>How Bitcoin Users Reclaim Their Privacy Through Its Anonymous Sibling, Monero</h1><p>Bitcoin right now is not really anonymous . While Bitcoin addresses aren't necessarily linked to real-world identities, they can be. Monitoring the unencrypted peer-to-peer network, analyses of the public blockchain and Know Your Customer (KYC) policy or Anti-Money Laundering (AML) regulations can reveal a lot about who's using Bitcoin and for what.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/4e42e6084b743526e78a3c852eeadb8a/noop.jpg?input=http%3A%2F%2Fwww.nasdaq.com%2Freference%2Fhiresphotos%2Fnews-photos%2Fbitcoin%2F325x200%2Fbitcoin70.jpg"></article>]]></description>
+            <link>http://www.nasdaq.com/article/how-bitcoin-users-reclaim-their-privacy-through-its-anonymous-sibling-monero-cm673770</link>
+            <guid isPermaLink="false">8c2c9ff4-84b2-409d-ac2e-283ce249dbf1</guid>
+            <pubDate>Fri, 02 Sep 2016 05:13:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Florida Court Explains Why Bitcoin is Not Money - Crowdfund Insider]]></title>
+            <description><![CDATA[<article><h1>Florida Court Explains Why Bitcoin is Not Money - Crowdfund Insider</h1><p>Having just gotten around to reading the order granting the motion to dismiss in the proceedings of the State of Florida vs. Michell Abner Espinoza, the document by Circuit Court Judge Teresa Pooler, is pretty interesting. The case regarding Espinoza has been in the news for many months now, but the final ruling was just filed in July.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c797e4e32ac53be130df606ba334f03a/noop.jpg?input=https%3A%2F%2Fwww.crowdfundinsider.com%2Fwp-content%2Fuploads%2F2015%2F09%2FBitcoin.jpg"></article>]]></description>
+            <link>https://www.crowdfundinsider.com/2016/09/89756-florida-court-explains-bitcoin-not-money/</link>
+            <guid isPermaLink="false">7a2fdeec-52b9-46e5-b48e-4c8779cb5cb4</guid>
+            <pubDate>Fri, 02 Sep 2016 05:13:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
