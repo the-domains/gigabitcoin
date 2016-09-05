@@ -4,15 +4,8 @@
         <description><![CDATA[big on bitcoin]]></description>
         <link>http://gigabitcoin.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 05:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 05:13:50 GMT</lastBuildDate>
         <atom:link href="http://gigabitcoin.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bitcoin Weekly 2016 September 1: Bitcoin exchange hacks will continue, ZapChain shuts down, Roger Ver joins PIA board, blockchain for banks tested by Visa]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Weekly 2016 September 1: Bitcoin exchange hacks will continue, ZapChain shuts down, Roger Ver joins PIA board, blockchain for banks tested by Visa</h1><p>Did you know that between 2009 and 2015 almost one-third of all Bitcoin exchanges suffered a hack and that almost half of all exchanges during the period closed? Not too surprising, given that Bitcoin is still an emerging and developing market, but this statistic from a report out of the University of Tulsa's Tandy School of Computer Science shines a light on the current security (or insecurity) facing Bitcoin exchanges right now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/341cc3a1a4e04dc84b73eae11b82f7f3d4db89f3.jpg"></article>]]></description>
-            <link>http://siliconangle.com/blog/2016/09/01/bitcoin-weekly-2016-september-1-bitcoin-exchange-hacks-will-continue-zapchain-shuts-down-roger-ver-joins-pia-board-blockchain-for-banks-tested-by-visa/</link>
-            <guid isPermaLink="false">abf5e31f-b387-4ebe-8051-cab0b5b790fb</guid>
-            <pubDate>Fri, 02 Sep 2016 05:13:04 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Due to the artificially small block size limit Bitcoin is becoming more and more decentralized...... INTO ALT-COINS!pic.twitter.com/y0b9Xdy4MO" src="https://pbs.twimg.com/media/CrRpw2VUEAAkwyC.jpg:large">]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Industry Report: The Digital Drug World Gets a Lot More Private</h1><p>Drug dealers find solace in Monero, Shopawl accepts bitcoin, and the era of traditional banking may finally come to an end. Check out the stories below to catch up on your latest tech and digital currency news. Also read: Industry Report: A Week of Shakeups in the Tech World At just two years old, Monero is one of the world's newest altcoins.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b9331799aff0d02618f3e6ac60d31d4b/noop.jpg?input=http%3A%2F%2Fbitcoinist.net%2Fwp-content%2Fuploads%2F2016%2F06%2FIndustry-Report-Cover-Bitcoin-Logo.jpg"></article>]]></description>
             <link>http://bitcoinist.net/digital-drug-world-private/</link>
             <guid isPermaLink="false">09e66afd-cf0b-41cb-b6d6-6bf6f8ff5f15</guid>
+            <pubDate>Thu, 01 Sep 2016 13:41:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bank of Canada Predicts Increase of Bitcoin Value, in Case of Wider Adoption]]></title>
+            <description><![CDATA[<article><h1>Bank of Canada Predicts Increase of Bitcoin Value, in Case of Wider Adoption</h1><p>The Bank of Canada has joined the list of bank-related institutions to commission research papers regarding the use of digital currencies, particularly Bitcoin. Its two authors came up with an economic framework to analyze their exchange rates. The Bank of England had earlier released a research paper that studied the macroeconomic consequences of issuing central bank digital currency (CBDC).</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/0a48a870bae8c1ef37602e0195aaa07d/noop.jpg?input=https%3A%2F%2Fcointelegraph.com%2Fimages%2F725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83OWJiZTIxNjM5OTM2NjVhMDNkOTZlMGRmNzRjNDNlYy5qcGc%3D.jpg"></article>]]></description>
+            <link>https://cointelegraph.com/news/bank-of-canada-predicts-increase-of-bitcoin-value-in-case-of-wider-adoption</link>
+            <guid isPermaLink="false">f9380a37-644d-4b5d-9ce6-665981dbb8df</guid>
             <pubDate>Thu, 01 Sep 2016 13:41:33 GMT</pubDate>
         </item>
     </channel>
